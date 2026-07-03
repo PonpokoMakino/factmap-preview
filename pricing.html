@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>ファクトマップ｜料金（試作・実決済はまだ）</title>
+<style>
+  :root{
+    --bg:#fbfbfa; --bg-2:#f4f4f2; --ink:#15181d; --ink-2:#4b515b; --ink-3:#6b7280;
+    --line:#e6e6e2; --line-2:#efefea; --accent:#2a6f6b; --accent-bg:rgba(42,111,107,.06);
+    --radius-s:8px; --radius:14px;
+    --serif:"Yu Mincho","游明朝","Hiragino Mincho ProN","Noto Serif JP",serif;
+    --sans:system-ui,"Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{ --bg:#131316; --bg-2:#1b1c20; --ink:#e9ebef; --ink-2:#aab0ba; --ink-3:#9aa1ac;
+      --line:#2a2c31; --line-2:#23252a; --accent:#7fbcb6; --accent-bg:rgba(127,188,182,.10); }
+  }
+  *{box-sizing:border-box}
+  body{margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); line-height:1.6;}
+  .wrap{max-width:720px; margin:0 auto; padding:26px 18px 80px;}
+  a.back{font-size:12px; color:var(--ink-3); text-decoration:none;}
+  .title{font-family:var(--serif); font-size:22px; font-weight:700; margin:8px 0 2px;}
+  .lead{font-size:13px; color:var(--ink-2); margin:0 0 6px;}
+  .banner{background:var(--accent-bg); border:1px solid var(--line); border-radius:var(--radius-s);
+    padding:10px 13px; font-size:12px; color:var(--ink-2); margin:14px 0 22px; line-height:1.55;}
+  .plans{display:grid; grid-template-columns:1fr 1fr; gap:12px;}
+  @media (max-width:560px){ .plans{grid-template-columns:1fr;} }
+  .plan{border:1px solid var(--line); border-radius:var(--radius); padding:17px 16px; background:var(--bg);}
+  .plan.featured{border:2px solid var(--accent);}
+  .plan-name{font-size:13px; font-weight:700; color:var(--ink-2); letter-spacing:.02em;}
+  .plan-price{font-family:var(--serif); font-size:26px; font-weight:700; margin:5px 0 2px;}
+  .plan-price small{font-size:13px; color:var(--ink-3); font-weight:400;}
+  .plan-tag{display:inline-block; font-size:11px; font-weight:700; color:var(--accent);
+    background:var(--accent-bg); border-radius:99px; padding:2px 10px; margin:6px 0 10px;}
+  .feat{list-style:none; padding:0; margin:8px 0 0;}
+  .feat li{font-size:12.5px; color:var(--ink-2); padding:4px 0 4px 20px; position:relative; line-height:1.5;}
+  .feat li::before{content:"✓"; color:var(--accent); position:absolute; left:2px; font-weight:700;}
+  .feat li.muted{color:var(--ink-3);} .feat li.muted::before{content:"–"; color:var(--ink-3);}
+  .btn{display:block; width:100%; text-align:center; margin-top:14px; padding:10px; border-radius:var(--radius-s);
+    border:1px solid var(--line); background:transparent; color:var(--ink-2); font-size:13px; cursor:not-allowed;}
+  .btn.primary{border-color:var(--accent); color:var(--accent); font-weight:700;}
+  .sec-h{font-size:12px; font-weight:700; color:var(--ink-2); letter-spacing:.03em; margin:28px 0 12px;}
+  .refer{border:1px solid var(--line); border-radius:var(--radius); padding:16px 17px; background:var(--bg-2);}
+  .refer-code{font-family:var(--serif); font-size:18px; font-weight:700; letter-spacing:.06em;
+    background:var(--bg); border:1px dashed var(--line); border-radius:var(--radius-s); padding:8px 12px; display:inline-block; margin:4px 0 10px;}
+  .bar{height:8px; background:var(--line); border-radius:99px; overflow:hidden; margin:8px 0 6px;}
+  .bar > span{display:block; height:100%; background:var(--accent);}
+  .refer-note{font-size:12px; color:var(--ink-2); line-height:1.6;}
+  .note{font-size:11px; color:var(--ink-3); margin-top:10px; line-height:1.55;}
+  .mock{font-size:10.5px; color:var(--ink-3); border:1px dashed var(--line); border-radius:99px; padding:1px 8px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">← ホームへ</a>
+  <div class="title">料金 <span class="mock">試作・実決済はまだ</span></div>
+  <p class="lead">事実を読むこと・論点マップを見ることは<b>ずっと無料</b>。世界中の言語で読む等の便利機能だけが、月150円のサポーターです。</p>
+  <div class="banner">⚠️ これは画面の試作です。実際の決済（クレジットカード）は、公開時に Stripe で用意します（牧野様のアカウント・口座登録が要ります）。今は「形」だけお見せしています。</div>
+
+  <div class="plans">
+    <div class="plan">
+      <div class="plan-name">無料プラン</div>
+      <div class="plan-price">¥0<small> / ずっと</small></div>
+      <div class="plan-tag">中立の核・全員に平等</div>
+      <ul class="feat">
+        <li>事実を読む（出典つき・原文リンク）</li>
+        <li>論点マップ（争点・事実・立場）</li>
+        <li>日本語で読む</li>
+        <li>独立報道社数で並ぶタイムライン</li>
+        <li class="muted">世界の言語への翻訳</li>
+        <li class="muted">広告非表示</li>
+      </ul>
+      <button class="btn" disabled>いま使っているプラン</button>
+    </div>
+    <div class="plan featured">
+      <div class="plan-name">サポーター</div>
+      <div class="plan-price">¥150<small> / 月</small></div>
+      <div class="plan-tag">初月無料・紹介でずっと無料に</div>
+      <ul class="feat">
+        <li><b>世界中の言語への翻訳</b>（各国のニュースを日本語で／日本のニュースを各言語で）</li>
+        <li>広告を非表示</li>
+        <li>高度な整理（並べ替え・絞り込み・PDF/Excel出力）</li>
+        <li>新機能の先行利用</li>
+        <li>＝中立インフラを支えるサポーター</li>
+      </ul>
+      <button class="btn primary" id="subscribeBtn" onclick="startSubscribe()">初月無料で始める（試作）</button>
+    </div>
+  </div>
+  <p class="note">※サポーターでも<b>見られる事実・意見は無料プランと同じ</b>です。お金で「見られる事実・発言力」は変わりません（中立の平等アクセス）。変わるのは便利さだけ。<br>※便利機能は<b>30日間お試し無料</b>→その後サポーター。<b>事実を読むこと・論点マップは30日後もずっと無料</b>（事実にペイウォールはかけません）。解約はいつでも簡単に。</p>
+
+  <div class="sec-h">紹介でずっと無料に（あなたの招待）</div>
+  <div class="refer">
+    <div class="refer-note">あなたの招待コード：</div>
+    <div class="refer-code" id="code">FACT-7K2P</div>
+    <div class="refer-note"><b>1人が登録するごとに +1ヶ月無料</b>（紹介された人も初月無料）。累積で最大12ヶ月まで。</div>
+    <div class="bar"><span id="bar" style="width:25%"></span></div>
+    <div class="refer-note" id="status">いま <b id="cnt">3</b> 人紹介済み → <b>来月まで無料</b>（あと9ヶ月分まで貯められます）。</div>
+    <button class="btn primary" style="margin-top:12px" onclick="navigator.clipboard&&navigator.clipboard.writeText('https://factmap.example/invite/FACT-7K2P');this.textContent='招待リンクをコピーしました（試作）'">招待リンクをコピー</button>
+  </div>
+  <p class="note">※バランス設定（紹介1人=1ヶ月無料・累積上限12ヶ月）は試作値です。実データを見ながら調整します（太すぎれば上限を下げる等）。<br>狙い：安く広く（薄利多売）＋口コミで広げる。核は無料なので、紹介された人もまず無料で中立な事実に触れられます。</p>
+</div>
+<script>
+/* Stripe決済リンク（Payment Link）。牧野様がStripeでリンクを発行したらここに貼るだけで実決済に切り替わる。
+   空の間は試作の案内を出す。※本番モード（実際のお金）へ進む時は重要案件＝真矢ミキ統括＋牧野様判断。 */
+var STRIPE_LINK = '';   // 例: 'https://buy.stripe.com/xxxx'（テストモードは https://buy.stripe.com/test_xxxx）
+function startSubscribe(){
+  if(STRIPE_LINK){ location.href = STRIPE_LINK; }
+  else{ alert('実決済は準備中です（Stripeのリンクが入り次第、ここから登録できます）。'); }
+}
+</script>
+</body>
+</html>

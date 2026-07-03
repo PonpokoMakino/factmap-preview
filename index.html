@@ -1,866 +1,123 @@
 <!doctype html>
 <html lang="ja">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta name="robots" content="noindex,nofollow" />
-<title>ファクトマップ プロトタイプ v0.2</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>ファクトマップ｜ホーム（ボリューム順タイムライン・試作）</title>
 <style>
   :root{
-    /* 地・カード・パネル */
-    --bg:#f5f6f8; --card:#ffffff;
-    --bg-2:#eef1f4; --bg-3:#e7eaee;
-    /* 文字 */
-    --ink:#15181d; --ink-2:#4b515b; --ink-3:#6b7280;
-    /* 罫線 */
-    --line:#d6dae0; --line-2:#dfe2e7; --line-3:#e7e9ed;
-    /* 立場の色（賛成=青／反対=オレンジ／中立=グレー。赤緑＝善悪の色は使わない） */
-    --support:#2563eb; --attack:#c2410c; --neutral:#6b7280;
-    --support-bg:rgba(37,99,235,.045); --attack-bg:rgba(194,65,12,.05); --neutral-bg:rgba(107,114,128,.05);
-    /* 出典の種別ドット（種別の識別専用・優劣ではない） */
-    --dot-prim:#0f766e; --dot-wire:#2563eb; --dot-press:#6b7280; --dot-op:#c2410c;
-    /* 出典チップ（種別ごとの淡色） */
-    --c-prim-bg:#e3f3f0; --c-prim-bd:#bfe3dc; --c-prim-fg:#0b6157;
-    --c-wire-bg:#e6f0fb; --c-wire-bd:#c5dcf6; --c-wire-fg:#1e4f8a;
-    --c-press-bg:#eef0f3; --c-press-bd:#d8dce2; --c-press-fg:#4b5563;
-    --c-op-bg:#fdeecf; --c-op-bd:#f3dca6; --c-op-fg:#8a510a;
-    /* 補助 */
-    --warn-bg:#fdeecf; --warn-fg:#8a510a;
-    --info-bg:#e9f1fb; --info-fg:#1e4f8a;
-    --radius:12px; --radius-s:8px;
+    --bg:#fbfbfa; --bg-2:#f4f4f2; --ink:#15181d; --ink-2:#4b515b; --ink-3:#6b7280;
+    --line:#e6e6e2; --line-2:#efefea; --accent:#2a6f6b; --radius-s:8px; --radius:14px;
     --serif:"Yu Mincho","游明朝","Hiragino Mincho ProN","Noto Serif JP",serif;
-    --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Kaku Gothic ProN","Noto Sans JP",Meiryo,sans-serif;
+    --sans:system-ui,"Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;
   }
-  @media (prefers-color-scheme: dark){
-    :root{
-      --bg:#15171b; --card:#1e2127;
-      --bg-2:#23272e; --bg-3:#2b2f36;
-      --ink:#e9ebef; --ink-2:#aab0ba; --ink-3:#9aa1ac;
-      --line:#3a3f47; --line-2:#333841; --line-3:#2b2f36;
-      --support:#6aa5fb; --attack:#fb923c; --neutral:#9ca3af;
-      --support-bg:rgba(106,165,251,.09); --attack-bg:rgba(251,146,60,.09); --neutral-bg:rgba(156,163,175,.08);
-      --dot-prim:#5eead4; --dot-wire:#6aa5fb; --dot-press:#9ca3af; --dot-op:#fb923c;
-      --c-prim-bg:#0f2e2a; --c-prim-bd:#1d4d46; --c-prim-fg:#7fded0;
-      --c-wire-bg:#13294a; --c-wire-bd:#1f3f6b; --c-wire-fg:#9cc2f0;
-      --c-press-bg:#2b3038; --c-press-bd:#3a3f47; --c-press-fg:#c3c9d2;
-      --c-op-bg:#3a2c0e; --c-op-bd:#5a4416; --c-op-fg:#f0c781;
-      --warn-bg:#3a2c0e; --warn-fg:#f0c781;
-      --info-bg:#13294a; --info-fg:#9cc2f0;
-    }
+  @media (prefers-color-scheme:dark){
+    :root{ --bg:#131316; --bg-2:#1b1c20; --ink:#e9ebef; --ink-2:#aab0ba; --ink-3:#9aa1ac;
+      --line:#2a2c31; --line-2:#23252a; --accent:#7fbcb6; }
   }
   *{box-sizing:border-box}
   body{margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans);
-    line-height:1.6; -webkit-font-smoothing:antialiased; -moz-osx-font-smoothing:grayscale; word-break:break-word;}
-  .wrap{max-width:760px; margin:0 auto; padding:20px 18px 64px;}
-
-  /* 正直バナー（透明性の宣言・常時表示） */
-  .honest{display:flex; gap:9px; align-items:flex-start; background:var(--warn-bg); color:var(--warn-fg);
-    border-radius:var(--radius-s); padding:10px 13px; font-size:12.5px; line-height:1.5; margin-bottom:16px;
-    position:sticky; top:0; z-index:5;}
-
-  /* タイトル行 */
-  .title{display:flex; align-items:baseline; gap:9px; margin:4px 0 4px;}
-  .title h1{font-size:21px; font-weight:600; margin:0; letter-spacing:.01em;}
-  .title .ver{font-size:11px; color:var(--ink-3); border:1px solid var(--line); border-radius:99px; padding:1px 8px;}
-  .lead{font-size:13px; color:var(--ink-2); margin:0 0 14px;}
-
-  /* タブ */
-  .tabs{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:14px; padding-bottom:2px;}
-  .tab{flex:0 0 auto; font-size:12.5px; padding:7px 12px; border-radius:99px; cursor:pointer; white-space:nowrap;
-    border:1px solid var(--line); background:transparent; color:var(--ink-2); transition:.12s;}
-  .tab:hover{background:var(--bg-2);}
-  .tab.on{border-color:var(--support); background:var(--info-bg); color:var(--info-fg); font-weight:600;}
-  .tab:focus-visible,.chip:focus-visible,details summary:focus-visible,.src-main:focus-visible{outline:2px solid var(--support); outline-offset:2px; border-radius:6px;}
-
-  /* 凡例 */
-  .legend{display:flex; flex-wrap:wrap; gap:6px 14px; align-items:center; font-size:11px; color:var(--ink-3);
-    margin-bottom:18px; padding:9px 12px; background:var(--bg-2); border-radius:var(--radius-s);}
-  .legend .sw{display:inline-block; width:10px; height:10px; border-radius:3px; vertical-align:-1px; margin-right:4px;}
-  .legend .dt{display:inline-block; width:8px; height:8px; border-radius:50%; vertical-align:0; margin-right:4px;}
-  .legend .note{flex-basis:100%; color:var(--ink-3);}
-
-  /* トピックカード */
-  .topic{background:var(--card); border:1px solid var(--line-3); border-radius:var(--radius); padding:18px 18px 16px;}
-  .sec-h{font-size:12px; color:var(--ink-2); font-weight:600; margin:0 0 10px; letter-spacing:.02em;}
-
-  /* 争点（問いの形） */
-  .issue-head{margin:0 0 18px;}
-  .stasis{display:inline-block; font-size:11px; color:var(--ink-2); background:var(--bg-2);
-    border-radius:5px; padding:2px 8px; margin-bottom:8px;}
-  .issue-text{font-family:var(--serif); font-size:20px; font-weight:600; line-height:1.45; margin:0;}
-  .issue-text .q{color:var(--ink-3); margin-right:7px; font-weight:700;}
-  details.why{margin-top:8px;}
-  details.why summary{font-size:12px; color:var(--ink-3); cursor:pointer; list-style:none; padding:6px 2px;}
-  details.why summary::-webkit-details-marker{display:none}
-  details.why summary::before{content:"▸ "; color:var(--ink-3);}
-  details.why[open] summary::before{content:"▾ ";}
-  details.why p{font-size:12.5px; color:var(--ink-2); margin:6px 0 0; padding-left:12px; border-left:2px solid var(--line-2);}
-
-  /* 事実の背骨 */
-  .facts-sec{background:var(--bg-2); border-radius:var(--radius-s); padding:14px 15px; margin-bottom:22px;}
-  .fact{margin:0 0 11px;}
-  .fact:last-child{margin-bottom:0;}
-  .fact-t{font-size:14.5px; line-height:1.6; display:flex; gap:8px;}
-  .fact-n{flex:0 0 auto; width:18px; height:18px; margin-top:3px; border-radius:50%; background:var(--bg-3);
-    color:var(--ink-2); font-size:11px; line-height:18px; text-align:center; font-weight:600;}
-  .fact--exp{padding-left:11px; border-left:3px solid var(--line-2);}
-  .fact-conf{font-size:10.5px; color:var(--ink-3); margin-top:5px;}
-  .fact-conf b{font-weight:700; color:var(--ink-2);}
-  .fact-dispute{margin-top:7px; padding:8px 11px; background:var(--bg-2); border-left:3px solid var(--neutral);
-    border-radius:0 var(--radius-s) var(--radius-s) 0; font-size:12px; color:var(--ink-2); line-height:1.55;}
-
-  /* マトリックス：立場の見取り図（件数は出さない＝「賛成が多い＝優勢」の誤解を避ける） */
-  .ov-wrap{margin:0 0 18px;}
-  .ov-lead{font-size:11.5px; color:var(--ink-3); margin-bottom:6px;}
-  .ov-bar{display:flex; flex-wrap:wrap; gap:7px;}
-  .ov{font-size:11.5px; padding:4px 11px; border-radius:99px; border:1px solid var(--line); color:var(--ink-2);}
-  .ov--support{border-color:var(--support); color:var(--support);}
-  .ov--attack{border-color:var(--attack); color:var(--attack);}
-  .ov--neutral{border-color:var(--neutral); color:var(--neutral);}
-  .ov-note{font-size:11px; color:var(--ink-3); margin-top:7px; line-height:1.5;}
-
-  /* 立場セクション（縦積み＝横スクロール回避） */
-  .stance-group{border-left:3px solid var(--gc,var(--neutral)); padding-left:15px; margin-bottom:22px;}
-  .stance-group:last-child{margin-bottom:0;}
-  .stance-group.support{--gc:var(--support);}
-  .stance-group.attack{--gc:var(--attack);}
-  .stance-group.neutral{--gc:var(--neutral);}
-  .stance-label{font-size:12px; font-weight:600; color:var(--gc); margin-bottom:11px;}
-
-  /* 主張カード（中身＝主役） */
-  .claim-card{border:1px solid var(--line-3); border-left:4px solid var(--cc,var(--neutral));
-    border-radius:0 var(--radius-s) var(--radius-s) 0; padding:14px 15px; margin-bottom:11px; background:var(--cbg,transparent);}
-  .claim-card:last-child{margin-bottom:0;}
-  .claim-card.support{--cc:var(--support); --cbg:var(--support-bg);}
-  .claim-card.attack{--cc:var(--attack); --cbg:var(--attack-bg);}
-  .claim-card.neutral{--cc:var(--neutral); --cbg:var(--neutral-bg);}
-  .claim-text{font-family:var(--serif); font-size:17px; font-weight:600; line-height:1.6; margin:0 0 9px;}
-
-  /* 理由（厚めに見せる） */
-  .reason{font-size:14px; color:var(--ink-2); line-height:1.6; margin:0 0 10px; padding-left:12px;
-    border-left:2px solid var(--line-2);}
-  .reason .reason-lab{color:var(--ink-3); font-size:12px; margin-right:2px;}
-
-  /* 理由の分岐 */
-  .reason-branches{margin:0 0 11px;}
-  .rb-lab{font-size:12px; color:var(--ink-3); margin-bottom:6px;}
-  .reason-root{border-left:2px dashed var(--line); padding-left:11px;}
-  .reason-item{font-size:13px; color:var(--ink-2); line-height:1.55; padding:3px 0 3px 9px; margin:4px 0;
-    border-left:2px solid var(--rc,var(--neutral)); position:relative;}
-  .reason-item.support{--rc:var(--support);}
-  .reason-item.attack{--rc:var(--attack);}
-  .reason-item.neutral{--rc:var(--neutral);}
-  .reason-item::before{content:"└ "; color:var(--ink-3);}
-
-  /* 発言者＝根拠（小さく下に添える） */
-  .speakers{margin-top:10px;}
-  .sp-cap{display:block; font-size:11px; color:var(--ink-3); margin-bottom:5px;}
-  .chips{display:flex; flex-wrap:wrap; gap:8px;}
-  .chip{display:inline-flex; align-items:center; gap:5px; padding:4px 10px; border-radius:99px;
-    font-size:12px; text-decoration:none; border:1px solid; min-height:28px;}
-  .chip:hover{filter:brightness(.97);}
-  .chip--prim{background:var(--c-prim-bg); border-color:var(--c-prim-bd); color:var(--c-prim-fg);}
-  .chip--wire{background:var(--c-wire-bg); border-color:var(--c-wire-bd); color:var(--c-wire-fg);}
-  .chip--press{background:var(--c-press-bg); border-color:var(--c-press-bd); color:var(--c-press-fg);}
-  .chip--op{background:var(--c-op-bg); border-color:var(--c-op-bd); color:var(--c-op-fg);}
-  .src-dot{flex:0 0 auto; width:6px; height:6px; border-radius:50%;}
-  .dot--prim{background:var(--dot-prim);} .dot--wire{background:var(--dot-wire);}
-  .dot--press{background:var(--dot-press);} .dot--op{background:var(--dot-op);}
-  .chip-ty{font-size:11px;}
-  .chip-arrow{font-size:11px;}
-  .attr-note{font-size:11px; color:var(--ink-3); margin-top:6px;}
-
-  /* 事実合意バナー（立場の対立が無いトピック） */
-  .cbanner{background:var(--bg-2); border-left:3px solid var(--neutral); border-radius:0 var(--radius-s) var(--radius-s) 0;
-    padding:14px 15px; margin-bottom:22px; font-size:14px; color:var(--ink-2);}
-  .cbanner p{margin:0;}
-  .cbanner .priv-note{margin-top:8px; font-size:12px; color:var(--ink-3);}
-
-  /* 一致点 */
-  .consensus{background:var(--bg-2); border-left:3px solid var(--neutral);
-    border-radius:0 var(--radius-s) var(--radius-s) 0; padding:12px 15px; margin-bottom:0;}
-  .consensus p{margin:0; font-size:14px; color:var(--ink-2); line-height:1.6;}
-
-  /* 補足ノート */
-  .note{margin-top:12px; padding:11px 13px; background:var(--info-bg); color:var(--info-fg);
-    border-radius:var(--radius-s); font-size:12.5px; line-height:1.55;}
-
-  /* 出典フッター */
-  details.src-foot{margin-top:14px; padding-top:13px; border-top:1px solid var(--line-3);}
-  details.src-foot summary{font-size:13px; font-weight:600; color:var(--ink-2); cursor:pointer; list-style:none; padding:8px 0;}
-  details.src-foot summary::-webkit-details-marker{display:none}
-  details.src-foot summary::before{content:"▸ "; color:var(--ink-3);}
-  details.src-foot[open] summary::before{content:"▾ ";}
-  .src-list{margin-top:10px;}
-  .src-main{display:inline-block; font-size:13px; color:var(--ink-2); text-decoration:underline; text-underline-offset:2px;}
-  .src-main:hover{color:var(--ink);}
-
-  .footer{margin-top:22px; font-size:11px; color:var(--ink-3); line-height:1.6; text-align:center;}
-
-  /* 平易化：高校生レベルを超える語に点線下線＋意味のツールチップ（タップ/ホバーで参照） */
-  .term{border-bottom:1px dotted var(--support); cursor:help; position:relative;}
-  .term::before{content:"?"; font-size:9px; vertical-align:super; color:var(--support); margin-left:1px; font-weight:700;}
-  .term::after{content:attr(data-def); position:absolute; left:0; bottom:150%; z-index:30;
-    background:var(--card); color:var(--ink); border:1px solid var(--line); border-radius:8px;
-    padding:9px 11px; font-size:12px; font-weight:400; line-height:1.55; width:240px; max-width:76vw;
-    white-space:normal; box-shadow:0 8px 24px rgba(0,0,0,.16); display:none;}
-  .term:hover::after, .term:focus::after, .term:focus-visible::after, .term.open::after{display:block;}
-  .term:focus{outline:2px solid var(--support); outline-offset:2px; border-radius:3px;}
-
-  /* 共有ボタン＋トースト */
-  .actions{display:flex; margin-top:14px;}
-  .share-btn{font-size:13px; padding:8px 14px; border-radius:99px; border:1px solid var(--support);
-    background:var(--info-bg); color:var(--info-fg); cursor:pointer; font-weight:600;}
-  .share-btn:hover{filter:brightness(.97);}
-  .share-btn:focus-visible{outline:2px solid var(--support); outline-offset:2px;}
-  #fm-toast{position:fixed; left:50%; bottom:28px; transform:translateX(-50%) translateY(10px);
-    background:var(--ink); color:var(--bg); padding:10px 18px; border-radius:99px; font-size:13px;
-    opacity:0; pointer-events:none; transition:.18s; z-index:50; box-shadow:0 8px 24px rgba(0,0,0,.2);}
-  #fm-toast.show{opacity:1; transform:translateX(-50%) translateY(0);}
-
-  /* 立場→論拠→発言者の3階層（言論＝論拠が主役） */
-  .premise{font-size:13px; color:var(--ink-2); line-height:1.65; margin:9px 0 0; padding:10px 13px;
-    background:var(--bg-2); border-radius:var(--radius-s);}
-  .premise b{color:var(--ink); font-weight:600;}
-  .stance-head{display:flex; align-items:baseline; gap:9px; flex-wrap:wrap; margin:0 0 13px;
-    font-family:var(--serif); font-size:16.5px; font-weight:600; color:var(--gc,var(--neutral)); line-height:1.5;}
-  .stance-badge{flex:0 0 auto; align-self:center; font-family:var(--sans); font-size:11px; font-weight:700;
-    color:#fff; background:var(--gc,var(--neutral)); border-radius:6px; padding:2px 10px;}
-  .ground{margin:0 0 14px; padding-left:14px; border-left:2px solid var(--line-2);}
-  .ground:last-child{margin-bottom:0;}
-  .ground-num{font-size:11px; color:var(--ink-3); font-weight:600; margin-bottom:3px;}
-  .ground-point{font-family:var(--serif); font-size:15.5px; font-weight:600; line-height:1.65; color:var(--ink); margin:0 0 8px;}
-
-  /* 再反論（応答）＝既定は畳む・タップで開く（深さ×シンプルの両立） */
-  .responses{margin-top:9px;}
-  .responses summary{font-size:12px; color:var(--ink-2); cursor:pointer; list-style:none; padding:5px 2px; font-weight:600;}
-  .responses summary::-webkit-details-marker{display:none}
-  .responses summary::before{content:"▸ "; color:var(--ink-3);}
-  .responses[open] summary::before{content:"▾ ";}
-  .response{border-left:2px solid var(--rc,var(--neutral)); background:var(--rbg,transparent);
-    padding:9px 11px; margin:7px 0 0; border-radius:0 var(--radius-s) var(--radius-s) 0;}
-  .response.support{--rc:var(--support); --rbg:var(--support-bg);}
-  .response.attack{--rc:var(--attack); --rbg:var(--attack-bg);}
-  .response.neutral{--rc:var(--neutral); --rbg:var(--neutral-bg);}
-  .response-lab{font-size:10.5px; color:var(--rc,var(--ink-3)); font-weight:700; margin-bottom:3px;}
-  .response-point{font-family:var(--serif); font-size:14px; font-weight:600; line-height:1.6; color:var(--ink); margin:0 0 6px;}
-  .responses-note{font-size:10.5px; color:var(--ink-3); margin-top:7px;}
-
-  /* 背景レイヤー（司書型：接地・出典・両論併記・隔離・明示）＝記事の外からAIが補った“前提知識”。
-     論拠本文には混ぜず、別の“棚”として隔離。既定は畳む。 */
-  .bg{margin-top:9px;}
-  .bg summary{font-size:12px; color:var(--ink-2); cursor:pointer; list-style:none; padding:5px 2px; font-weight:600;}
-  .bg summary::-webkit-details-marker{display:none}
-  .bg summary::before{content:"▸ "; color:var(--ink-3);}
-  .bg[open] summary::before{content:"▾ ";}
-  .bg[open]{background:var(--bg-2); border:1px solid var(--line); border-radius:var(--radius-s); padding:2px 11px 10px;}
-  .bg-warn{font-size:11px; color:var(--ink-2); background:var(--neutral-bg); border:1px dashed var(--line-2);
-    border-radius:var(--radius-s); padding:7px 9px; margin:6px 0 11px; line-height:1.55;}
-  .bg-sec{margin-bottom:11px;}
-  .bg-sec-h{font-size:11px; color:var(--ink-3); font-weight:700; margin-bottom:6px; letter-spacing:.02em;}
-  .bg-item{padding:7px 0; border-top:1px solid var(--line-2);}
-  .bg-item:first-child{border-top:none;}
-  .bg-tag{display:inline-block; font-size:10px; font-weight:700; color:var(--ink-2);
-    border:1px solid var(--line); border-radius:99px; padding:1px 8px; margin-bottom:5px;}
-  .bg-point{font-size:13px; color:var(--ink); line-height:1.6; margin:0 0 5px;}
-  .bg-note{font-size:10.5px; color:var(--ink-3); margin-top:7px; line-height:1.55;}
-  /* 比重（due weight）＝信頼できる情報源での支持の広がり。善悪色は使わず控えめに。 */
-  .bg-weight-note{font-size:10.5px; color:var(--ink-3); margin:0 0 9px; line-height:1.55;
-    padding-left:9px; border-left:2px solid var(--line-2);}
-  .bg-weight{display:inline-block; font-size:10px; color:var(--ink-2); margin-left:7px;
-    border:1px dotted var(--line-2); border-radius:99px; padding:0 8px; vertical-align:middle; white-space:nowrap;}
-
-  @media (max-width:600px){
-    .wrap{padding:14px 12px 56px;}
-    .tabs{flex-wrap:wrap;}
-    .tab{font-size:12px; padding:6px 11px;}
-    .issue-text{font-size:17px;}
-    .claim-text{font-size:16px;}
-    .claim-card{padding:12px 12px 12px 11px;}
-    .facts-sec{padding:12px 13px;}
-  }
+    line-height:1.6; -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:720px; margin:0 auto; padding:26px 18px 80px;}
+  .title{font-family:var(--serif); font-size:23px; font-weight:700; margin:0 0 4px; letter-spacing:.01em;}
+  .title .ver{font-size:11px; color:var(--ink-3); border:1px solid var(--line); border-radius:99px; padding:1px 8px; margin-left:8px; vertical-align:middle; font-weight:400;}
+  .lead{font-size:13px; color:var(--ink-2); margin:0 0 6px;}
+  .banner{background:var(--bg-2); border:1px solid var(--line); border-radius:var(--radius-s);
+    padding:10px 13px; font-size:12px; color:var(--ink-2); margin:14px 0 22px; line-height:1.55;}
+  .sec-h{font-size:12px; color:var(--ink-2); font-weight:700; letter-spacing:.04em; margin:26px 0 12px;
+    display:flex; align-items:center; gap:8px;}
+  .sec-h::before{content:""; width:14px; height:2px; background:var(--accent); display:inline-block;}
+  /* 出来事カード */
+  .ev{border:1px solid var(--line); border-radius:var(--radius); padding:14px 15px; margin:0 0 11px;
+    background:var(--bg); transition:.12s;}
+  .ev:hover{border-color:var(--ink-3);}
+  .ev-top{display:flex; align-items:center; gap:9px; margin-bottom:7px;}
+  .vol{font-size:11px; font-weight:700; color:var(--accent); border:1px solid var(--accent);
+    border-radius:99px; padding:1px 9px; white-space:nowrap;}
+  .vol-mute{color:var(--ink-3); border-color:var(--line);}
+  .ev-sources{font-size:11px; color:var(--ink-3);}
+  .ev-head{font-family:var(--serif); font-size:16px; font-weight:600; line-height:1.55; margin:0 0 9px; color:var(--ink);}
+  .ev-links{display:flex; flex-wrap:wrap; gap:6px;}
+  .ev-links a{font-size:11px; color:var(--ink-2); text-decoration:none; border:1px solid var(--line);
+    border-radius:99px; padding:2px 9px;}
+  .ev-links a:hover{border-color:var(--ink-3);}
+  .ev-links a .arr{color:var(--ink-3); margin-left:3px;}
+  .maplink{display:inline-block; margin-top:10px; font-size:12px; font-weight:600; color:var(--accent); text-decoration:none;}
+  .maplink:hover{text-decoration:underline;}
+  .ev-orig{display:block; font-size:11px; color:var(--ink-3); margin:-4px 0 6px;}
+  .note{font-size:11px; color:var(--ink-3); margin-top:8px; line-height:1.55;}
+  /* 分析済みトピック */
+  .topic{display:flex; align-items:center; justify-content:space-between; gap:10px;
+    border:1px solid var(--line); border-radius:var(--radius-s); padding:11px 14px; margin:0 0 8px;
+    text-decoration:none; color:var(--ink);}
+  .topic:hover{border-color:var(--ink-3);}
+  .topic .t{font-family:var(--serif); font-size:14px; font-weight:600;}
+  .topic .go{font-size:11px; color:var(--ink-3);}
+  .empty{font-size:13px; color:var(--ink-3); border:1px dashed var(--line); border-radius:var(--radius-s);
+    padding:16px; text-align:center; line-height:1.7;}
+  code{background:var(--bg-2); padding:1px 5px; border-radius:4px; font-size:12px;}
 </style>
 </head>
 <body>
 <div class="wrap">
+  <div class="title">ファクトマップ<span class="ver">ホーム試作 v0.1</span></div>
+  <p class="lead">最新の出来事を、声の大きさでなく「<b>何社が独立に報じたか</b>」で並べています。</p>
+  <div class="banner">⚠️ これは試作です。最新の出来事は配信RSSから<b>見出しだけ</b>を取り込み・束ねたもの（本文は溜めません）。各社の元記事はリンクから読めます。論点の地図（事実／立場）は「分析済みトピック」で試せます。</div>
 
+  <div class="sec-h">最新の出来事（独立報道社数順）</div>
+  <div id="events"><div class="empty">読み込み中…</div></div>
+  <p class="note">※「独立報道社数」は重要度をはかる物差しの一つです。並び順は正しさ・多数派を意味しません。1社が何本も出しても“1社”と数えます（声の大きさで水増ししないため）。</p>
 
-  <div class="honest">
-    <span aria-hidden="true">⚗️</span>
-    <span><b>AI生成の下書き・プロトタイプ。</b>アプリは正誤を判断しません。出来事を「事実」と「評価・論調」に分けて、出典つきで並べるだけです（地図 ≠ 領土）。発言者名・出典リンクは一部が仮表記／暫定（本番で実記事に確定）。出典は必ずご自身でご確認ください。</span>
-  </div>
+  <div class="sec-h">分析済みトピック（司書型の論点マップ・試作）</div>
+  <a class="topic" href="topics.html"><span class="t">政治・消費税ほか 6トピック＋実例</span><span class="go">論点マップを見る →</span></a>
+  <p class="note">※こちらは争点→事実→立場→発言者を中立に並べ、各立場に「📚 この前提を深掘り」を付けた試作です。最新の出来事の分析（司書型マップ化）はこれからの工程です。</p>
 
-  <div class="title">
-    <h1>ファクトマップ（仮）</h1>
-    <span class="ver">プロトタイプ v0.2</span>
-  </div>
-  <p class="lead">主役は「主張の中身」。誰が言ったか（発言者）は、その下に<b>根拠</b>として小さく添えます。同じ主張を複数が述べていれば、発言者の印が複数並びます。</p>
-
-  <div class="tabs" id="tabs" role="tablist" aria-label="トピック"></div>
-
-  <div class="legend">
-    <span><span class="sw" style="background:var(--support)"></span>賛成寄り</span>
-    <span><span class="sw" style="background:var(--attack)"></span>反対寄り</span>
-    <span><span class="sw" style="background:var(--neutral)"></span>中立／事実</span>
-    <span style="margin-left:6px"><span class="dt" style="background:var(--dot-prim)"></span>一次情報</span>
-    <span><span class="dt" style="background:var(--dot-wire)"></span>通信社</span>
-    <span><span class="dt" style="background:var(--dot-press)"></span>報道機関</span>
-    <span><span class="dt" style="background:var(--dot-op)"></span>意見・SNS</span>
-    <span class="note">※色の意味＝teal:一次情報（政府・機関の発表そのもの）／青:通信社／灰:報道機関／橙:意見・SNS。種別を区別するためだけで、正しさの優劣ではありません（赤緑＝善悪を連想させる色は使いません）。</span>
-  </div>
-
-  <div id="map" role="tabpanel" aria-live="polite" tabindex="0"></div>
-
-  <div class="footer">
-    ファクトマップ プロトタイプ v0.2 ／ 中立ニュース・言論可視化の検証用。<br>
-    アプリは「正しい結論」を出しません。判断材料を中立に並べるだけです（地図 ≠ 領土）。
-  </div>
+  <div class="sec-h">料金（試作）</div>
+  <a class="topic" href="pricing.html"><span class="t">事実は無料・世界の言語などは月150円のサポーター</span><span class="go">料金を見る →</span></a>
+  <p class="note">※事実を読む・論点マップは<b>ずっと無料</b>。月額は便利機能＋サポーター会費（初月無料・紹介で無料に）。実決済は公開時にStripe。</p>
 </div>
 
 <script>
-/* ============================================================
-   データ（実トピック・2026年6月）。主張中心モデル：
-   claims[] の各要素 = 1つの「主張の中身」。speakers[] に
-   その主張をしている発言者を並べる（＝同じ主張を複数が
-   述べていれば印が複数）。発言者の具体名が出典から特定できない
-   ものは役割表現＋「本番では具体名を特定」注記とし、名前は捏造しない。
-   ============================================================ */
-const FM = [
-  /* ※合成6トピックはデモ用データ（2026年6月の論点を模した例）。立場→論拠→発言者の3階層・事実の確認元つき。 */
-  /* 1. 政治・消費税（立場が割れる／インフルエンサー枠つき） */
-  { tab:"政治・消費税", stasis:"政策（賛否が割れる）",
-    issue:"食料品の消費税の引き下げ案は、どこまでやるべきか？",
-    premise:"政府・与党内で、食料品の消費税を一時的に下げる案が議論されている。社会保障国民会議の議長案として「2027年4月から2年間、食料品の税率を1%に」が示された。これを妥当とみるか、まだ足りないとみるか、財源を損なうとみるかが争点。",
-    facts:[
-      {t:"2026年6月17日、社会保障国民会議の議長案として「2027年4月から2年・食料品1%」案が公表された。", sources:[{actor:"議長案（公式資料）", ty:"prim", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"},{actor:"報道各社", ty:"wire", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]},
-      {t:"食料品の税率を「ゼロ」にすべきだという意見も出ている。", sources:[{actor:"報道各社", ty:"wire", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]}
-    ],
-    stances:[
-      {side:"support", summary:"1%への引き下げが妥当", grounds:[
-        {point:"家計の負担軽減と財政の両立を図れる。", speakers:[{actor:"議長案（会議の取りまとめ）", ty:"prim", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}],
-          background:{
-            facts:[
-              {t:"食料品にはすでに軽減税率（8%）が適用されており、一般の税率（10%）より低く抑えられている。", sources:[{actor:"軽減税率制度（国税庁の説明）", ty:"prim", url:"https://www.nta.go.jp/"}]},
-              {t:"食料品など生活必需品の支出が家計に占める割合は、所得が低い世帯ほど高い傾向がある。", sources:[{actor:"家計調査などの公的統計", ty:"prim", url:"https://www.stat.go.jp/data/kakei/"}]}
-            ],
-            views:[
-              {label:"見方A：対象を絞る方が効率的", point:"限られた財源を、生活に不可欠な食料品に絞って軽くする方が効果的だ、という考え方。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"対象を絞る軽減を支持する立場", ty:"op", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]},
-              {label:"見方B：給付の方が的確", point:"一律の減税より、困っている世帯への直接給付の方が的を絞れる、という考え方。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"直接給付を支持する立場", ty:"op", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]}
-            ]
-          },
-          responses:[{side:"attack", point:"家計を本当に助けるなら1%では足りない（もっと下げるべき）、という応答もある。", speakers:[{actor:"野党の一部（※本番では具体名を特定）", ty:"press", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]}]}
-      ]},
-      {side:"attack", summary:"1%では不十分。もっと下げるべき（税率ゼロに）", grounds:[
-        {point:"生活者の負担をより大きく軽減すべき。", speakers:[{actor:"野党の一部（※本番では具体名を特定）", ty:"press", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"},{actor:"消費者・生活者団体の一部（※同）", ty:"press", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}],
-          background:{
-            facts:[
-              {t:"消費税は、所得が低い人ほど収入に占める負担の割合が高くなる傾向（逆進性）が指摘されている。", sources:[{actor:"逆進性に関する公的資料・研究", ty:"prim", url:"https://www.stat.go.jp/data/kakei/"}]},
-              {t:"食料品は生活必需品のため、税率の変化が低所得世帯の負担に直接効きやすい。", sources:[{actor:"家計調査などの公的統計", ty:"prim", url:"https://www.stat.go.jp/data/kakei/"}]}
-            ],
-            views:[
-              {label:"見方A：逆進性を重くみる", point:"逆進性が大きいため、食料品は大幅に（ゼロまで）下げて負担を軽くすべきだ、という考え方。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"大幅減税を支持する立場", ty:"op", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]},
-              {label:"見方B：給付で補う方が良い", point:"減税より、困っている世帯への直接給付の方が逆進性を的確に補える、という考え方。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"直接給付を支持する立場", ty:"op", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]}
-            ]
-          }}
-      ]},
-      {side:"attack", summary:"引き下げ自体に慎重（財源を損なう）", grounds:[
-        {point:"恒久的で安定した財源が不足する。", speakers:[{actor:"財政規律を重視する立場（※本番では具体名を特定）", ty:"press", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}],
-          background:{
-            facts:[
-              {t:"消費税の税収は、年金・医療・介護などの社会保障の財源に充てられている（社会保障目的）。", sources:[{actor:"消費税の使途（財務省の説明）", ty:"prim", url:"https://www.mof.go.jp/"}]},
-              {t:"税率を下げると、その分だけ税収は減る（減収）。", sources:[{actor:"消費税の仕組み（国税庁の説明）", ty:"prim", url:"https://www.nta.go.jp/"}]}
-            ],
-            views:[
-              {label:"見方A：代替財源が要る", point:"減収分を埋める別の財源を用意しないと、社会保障に穴が空く、という考え方。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"財源確保を重視する立場", ty:"op", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]},
-              {label:"見方B：時限なら吸収できる", point:"2年間の時限措置なら一時的で、景気回復による税収増などで吸収しうる、という考え方。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"時限措置を妥当とみる立場", ty:"op", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]}
-            ]
-          },
-          responses:[{side:"support", point:"2年間の時限措置なので、恒久的な財源を恒久的に損なうわけではない、という応答もある。", speakers:[{actor:"議長案の立場", ty:"prim", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]}]}
-      ]},
-      {side:"neutral", summary:"効果は限定的", grounds:[
-        {point:"1%では景気の刺激効果が薄い（消費の押し上げが小さい）。", speakers:[{actor:"経済系の発信者（登録者数は表示のみ）", ty:"op", url:"https://www.jiji.com/jc/archives?g=eco_archive_0", attr:"フォロワー・登録者数は参考表示のみで主張の重みにはしません（数は買える・水増せるため。本番で実数を表示）。"}],
-          background:{
-            facts:[
-              {t:"消費税の税率を下げると、その分だけ店頭価格は下がりうる（同じ商品が安く買える）。これは税の仕組みから言える。", sources:[{actor:"消費税の仕組み（国税庁の説明）", ty:"prim", url:"https://www.nta.go.jp/"}]},
-              {t:"食料品は、値段が上下しても買う量が大きくは変わりにくい品目とされる（生活必需品のため）。", sources:[{actor:"家計調査などの公的統計", ty:"prim", url:"https://www.stat.go.jp/data/kakei/"}]}
-            ],
-            views:[
-              {label:"見方A：効果はある", point:"手取りに余裕が出た分を人は他の消費に回すので、景気を押し上げる、という考え方。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"減税の景気刺激効果を重くみる経済学の立場", ty:"op", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]},
-              {label:"見方B：効果は小さい", point:"将来不安があると、浮いた分を使わず貯蓄に回すため、消費の押し上げは小さい、という考え方。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"効果は限定的とみる経済学の立場", ty:"op", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"}]}
-            ]
-          }}
-      ]}
-    ],
-    consensus:"ここから先（1%が妥当か・もっと下げるべきか・そもそも下げるべきでないか）は価値・政策の判断で割れます。アプリはどれが正しいかを決めません（地図 ≠ 領土）。",
-    note:"『反対寄り』には〈1%では不十分＝もっと下げよ〉と〈引き下げは財源を損なう＝下げ過ぎ〉という逆方向の批判が同居しています。立場の色や並びは『どちらが正しい・多数派か』を意味しません。",
-    link:{label:"出典：時事ドットコム 経済（一覧）", url:"https://www.jiji.com/jc/archives?g=eco_archive_0"} },
-
-  /* 2. 経済・株価（同じ事実→評価が割れる／理由の分岐＋事実の食い違いデモ） */
-  { tab:"経済・株価", stasis:"評価・予測（割れる）",
-    issue:"いまの日経平均は「最高値の好調」か「暴落の危機」か？",
-    premise:"日経平均が史上最高値を更新する一方、6月8日には記録的な下落も起きた。同じ相場を『好調の証し』と読むか『暴落の予兆』と読むかで見方が割れている。",
-    facts:[
-      {t:"東京株式市場は3日連続で最高値を更新し、一時7万円台に達した。", sources:[{actor:"経済各紙", ty:"press", url:"https://www.nikkei.com/"},{actor:"通信社", ty:"wire", url:"https://www.nikkei.com/"}]},
-      {t:"2026年6月8日、日経平均株価が記録的に下落した。", sources:[{actor:"報道各社", ty:"press", url:"https://www.nikkei.com/"},{actor:"通信社", ty:"wire", url:"https://www.nikkei.com/"}], dispute:"下落率の数値は媒体により −3.85%〜−3.9% と差があります"},
-      {t:"円相場は160円台で、1か月ぶりに円安が進んでいる。", sources:[{actor:"報道各社", ty:"press", url:"https://www.nikkei.com/"}]}
-    ],
-    stances:[
-      {side:"support", summary:"最高値は実力であり、上昇基調は続く", grounds:[
-        {point:"AI関連の設備投資が国内の生産を押し上げている。", speakers:[{actor:"市場関係者の一部", ty:"press", url:"https://www.nikkei.com/"}],
-          background:{
-            facts:[
-              {t:"設備投資（企業が機械・工場・ソフトなどの生産能力に投じるお金）は、GDPを構成する需要のひとつとして公式統計に計上される。", sources:[{actor:"内閣府・国民経済計算の定義", ty:"prim", url:"https://www.esri.cao.go.jp/"}]},
-              {t:"AI関連の設備投資（半導体製造装置やデータセンターなど）の動向は、機械受注統計や日銀短観で定期的に調査・公表されている。", sources:[{actor:"経済産業省・日本銀行の統計", ty:"prim", url:"https://www.boj.or.jp/"}]}
-            ],
-            views:[
-              {label:"見方A：国内生産を押し上げる", point:"設備投資の増加は、機械や建設などへの発注を通じて国内の生産を刺激するという見方がある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"経済学の一般的な見方", ty:"op", url:"https://www.nikkei.com/"}]},
-              {label:"見方B：効果は限定的", point:"恩恵が海外メーカーの半導体や輸入品に偏り、国内生産への波及は小さいという見方もある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"民間エコノミストの分析", ty:"op", url:"https://www.nikkei.com/"}]}
-            ]
-          }},
-        {point:"金融緩和的な環境がなお続いている。", speakers:[{actor:"証券会社のレポート", ty:"press", url:"https://www.nikkei.com/"}],
-          background:{
-            facts:[
-              {t:"中央銀行が金利を低く抑えたり資産を買ったりして市場にお金を供給する政策を「金融緩和」、その逆を「金融引き締め」と呼ぶ。", sources:[{actor:"日本銀行の金融政策説明", ty:"prim", url:"https://www.boj.or.jp/"}]},
-              {t:"金利が低い環境では、企業の資金調達コストが下がり、投資家がより利回りの高い株式へ資金を移しやすいとされる。", sources:[{actor:"金融経済学の一般的な説明", ty:"prim", url:"https://www.boj.or.jp/"}]}
-            ],
-            views:[
-              {label:"見方A：株価を支える要因として有効", point:"金利が低い間は株式の評価額が高まりやすく、今の株価は緩和環境に支えられた水準だという見方がある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"市場アナリストのレポート", ty:"op", url:"https://www.nikkei.com/"}]},
-              {label:"見方B：緩和は縮小しつつある", point:"すでに引き締め方向への転換が進んでいるなら、過去の緩和が生んだ割高感が修正されうるという見方もある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"経済研究所のレポート", ty:"op", url:"https://www.nikkei.com/"}]}
-            ]
-          }}
-      ]},
-      {side:"attack", summary:"複合的なリスクが重なり、暴落の予兆だ", grounds:[
-        {point:"6/8の急落や原油高など、複数のリスクが重なっている。", speakers:[{actor:"市場関係者の一部", ty:"press", url:"https://www.nikkei.com/"},{actor:"著名な投資家の一部（※本番では具体名を特定）", ty:"op", url:"https://www.nikkei.com/"}],
-          background:{
-            facts:[
-              {t:"複数のリスク要因が同時に動くとき、市場は単一の要因を超えた値動きをすることがあり、要因の重複は不安定さの指標として研究されている。", sources:[{actor:"市場リスク研究", ty:"prim", url:"https://www.boj.or.jp/"}]},
-              {t:"原油価格の上昇は、輸入依存度の高い日本ではエネルギーのコストと企業収益の両面に影響しうると各種報告書で示されている。", sources:[{actor:"日銀・経済産業省の公開資料", ty:"prim", url:"https://www.meti.go.jp/"}]}
-            ],
-            views:[
-              {label:"見方A：暴落の予兆", point:"急落やリスクの重複は、トレンド転換の先行シグナルとして警戒する見方がある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"市場ストラテジストの分析", ty:"op", url:"https://www.nikkei.com/"}]},
-              {label:"見方B：通常の調整", point:"一定幅の下落は通常の価格調整の範囲で、それ自体が暴落を意味しないという見方もある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"マクロ経済研究者の分析", ty:"op", url:"https://www.nikkei.com/"}]}
-            ]
-          }}
-      ]}
-    ],
-    consensus:"ここから先（この相場を『好調』と読むか『危機』と読むか）は評価・予測で割れます。アプリはどちらが正しいかを決めません（地図 ≠ 領土）。",
-    note:"⚖の事実は、同じ出来事でも媒体により数値が食い違う例（B層＝係争・要確認）。同じ立場の中でも“理由”が分かれることも見せています。",
-    link:{label:"出典：日本経済新聞", url:"https://www.nikkei.com/"} },
-
-  /* 3. 国際・米イラン（因果の解釈が割れる／事実の食い違いデモ） */
-  { tab:"国際・米イラン", stasis:"因果の解釈（割れる）",
-    issue:"米イランの覚書で、中東リスクは本当に下がったか？",
-    premise:"米イラン間で覚書が署名・発効した。これを『中東リスクが下がった』と読むか、『原油高で実体経済の負担はむしろ増す』と読むか、因果の解釈が割れている。",
-    facts:[
-      {t:"トランプ米大統領が対イランの覚書に署名し、発効した。", sources:[{actor:"通信社", ty:"wire", url:"https://www.jiji.com/jc/archives?g=int_archive_0"},{actor:"報道各社", ty:"press", url:"https://www.jiji.com/jc/archives?g=int_archive_0"}]},
-      {t:"日本の輸入原油価格は2027年1−3月期で前年比で大きく上がる、との見通しが示されている。", sources:[{actor:"経済調査機関の一部", ty:"press", url:"https://www.jiji.com/jc/archives?g=int_archive_0"}], dispute:"上げ幅の見通しは調査機関により +25%〜+35% と幅があります"}
-    ],
-    stances:[
-      {side:"support", summary:"中東リスクは下がった", grounds:[
-        {point:"米イラン間の覚書が実際に発効したことを重視する。", speakers:[{actor:"報道の見立て", ty:"press", url:"https://www.jiji.com/jc/archives?g=int_archive_0"},{actor:"経済調査機関の一部", ty:"press", url:"https://www.jiji.com/jc/archives?g=int_archive_0"}],
-          background:{
-            facts:[
-              {t:"国家間の覚書（MOU）は、条約と違って議会の批准を必要としない場合が多く、行政府間の政治的な約束を示す文書として使われる。", sources:[{actor:"国際法の一般的な解説", ty:"prim", url:"https://www.mofa.go.jp/"}]},
-              {t:"米国とイランは長く正式な外交関係を持たず、第三国を介した間接交渉などで協議してきた経緯がある。", sources:[{actor:"外交史の一般的な記録", ty:"press", url:"https://www.jiji.com/jc/archives?g=int_archive_0"}]}
-            ],
-            views:[
-              {label:"見方A：緊張緩和の一歩", point:"覚書が発効したことは、双方が合意を進める意思を示したものとして、緊張緩和の一歩とみる見方がある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"外交・安全保障研究者の一部", ty:"op", url:"https://www.jiji.com/jc/archives?g=int_archive_0"}]},
-              {label:"見方B：判断は時期尚早", point:"覚書は法的拘束力が弱く、国内政治や他の要素も多いため、発効だけでリスク低下とは言えないという見方もある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"地政学リスク分析者の一部", ty:"op", url:"https://www.jiji.com/jc/archives?g=int_archive_0"}]}
-            ]
-          }}
-      ]},
-      {side:"attack", summary:"実体経済の負担はむしろ増す", grounds:[
-        {point:"輸入原油の大幅高の見通しを重視する。", speakers:[{actor:"経済調査機関の一部", ty:"press", url:"https://www.jiji.com/jc/archives?g=int_archive_0"}],
-          background:{
-            facts:[
-              {t:"原油の国際価格は、中東の地政学的な緊張の高低に連動して変動することが繰り返し観察されている。", sources:[{actor:"エネルギー経済の一般的な知見", ty:"prim", url:"https://www.meti.go.jp/"}]},
-              {t:"日本はエネルギーの多くを輸入に頼るため、原油高は企業のコストや家計の負担に波及しやすい。", sources:[{actor:"経済産業省などの公開資料", ty:"prim", url:"https://www.meti.go.jp/"}]}
-            ],
-            views:[
-              {label:"見方A：負担はむしろ増す", point:"原油高はコスト増を通じて実体経済の負担を重くするため、リスクは下がっていないという見方がある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"経済調査機関の一部", ty:"op", url:"https://www.jiji.com/jc/archives?g=int_archive_0"}]},
-              {label:"見方B：一時的・他要因次第", point:"原油高が世界的な需要拡大を背景とする場合もあり、価格は他の要因でも動くため一概に負担増とは言えないという見方もある。", weight:"専門家でも見解が分かれる論点", sources:[{actor:"エネルギー経済研究の一部", ty:"op", url:"https://www.jiji.com/jc/archives?g=int_archive_0"}]}
-            ]
-          }}
-      ]},
-    ],
-    consensus:"ここから先（中東リスクが下がったと読むか、負担が増すと読むか）は因果の解釈で割れます。アプリはどちらが正しいかを決めません（地図 ≠ 領土）。",
-    why:"複数の通信社・調査が同時に扱う国際論点だから。",
-    link:{label:"出典：時事ドットコム 国際（一覧）", url:"https://www.jiji.com/jc/archives?g=int_archive_0"} },
-
-  /* 4. 社会・台風（事実合意型・一次情報） */
-  { tab:"社会・台風", stasis:"事実（合意型）",
-    issue:"台風7号は、いつ・どこへ接近するか？",
-    premise:"台風7号の進路・接近時期に関する情報。気象庁の予報を中心に、事実としてほぼ一致している（論調の対立がない例）。",
-    facts:[
-      {t:"台風7号が非常に強い勢力で北上している。", sources:[{actor:"気象庁", ty:"prim", url:"https://www.jma.go.jp/"}]},
-      {t:"6月27日に西・東日本へ接近する予想。", sources:[{actor:"気象庁", ty:"prim", url:"https://www.jma.go.jp/"}]}
-    ],
-    claims:[],
-    consensus:"気象庁の一次情報を中心に、事実はほぼ一致しています。論調の対立はほとんどありません＝事実の背骨が厚い例。",
-    note:"評価が割れない事実合意型。立場の地図（マトリックス）は表示しません。",
-    link:{label:"出典：気象庁", url:"https://www.jma.go.jp/"} },
-
-  /* 5. 社会・報道倫理（旭川＝D層プライバシー配慮のデモ・私人脱実名） */
-  { tab:"社会・報道倫理", stasis:"価値・報道倫理",
-    issue:"（個別事件の扱い）少年事件で、私人の実名はどこまで扱うべきか？",
-    premise:"ある地方都市の少年事件の判決が報じられた。アプリは判決の正誤を裁定せず、私人の実名・特定情報を出さない。扱うのは『事件が報じられた』という事実と、少年事件報道のあり方という社会的論点だけ。",
-    facts:[
-      {t:"地方都市の事件で判決が宣告され、遺族がコメントした、と報じられた。", sources:[{actor:"報道各社", ty:"press", url:"https://www.jiji.com/jc/archives?g=soc_archive_0"}]}
-    ],
-    claims:[],
-    privacy:true,
-    consensusBanner:"このトピックは個別事件です。アプリは判決の正誤を裁定せず、私人を晒しません。扱うのは『事件が報じられた』という事実と、社会的な論点（少年事件報道のあり方）だけです。",
-    consensus:"アプリは判決の正誤を裁定しません。私人の実名・特定情報は出しません。判断は読み手に委ねます。",
-    note:"【プライバシー配慮（D層）の動作デモ】私人の実名・特定情報は出さない。個別の不幸を順位づけしない。個別事件は統計や論点に寄せて扱う。",
-    link:{label:"出典：時事ドットコム 社会（一覧）", url:"https://www.jiji.com/jc/archives?g=soc_archive_0"} },
-
-  /* 6. 科学・はやぶさ2（事実合意型・一次情報） */
-  { tab:"科学・はやぶさ2", stasis:"事実（合意型）",
-    issue:"はやぶさ2は、小惑星トリフネで何をしたか？",
-    premise:"探査機はやぶさ2の小惑星トリフネでの活動に関する情報。JAXAの一次情報を中心に、事実が一致している（論調の対立がない例）。",
-    facts:[
-      {t:"はやぶさ2が小惑星「トリフネ」を初めて撮影した。", sources:[{actor:"JAXA", ty:"prim", url:"https://www.hayabusa2.jaxa.jp/"},{actor:"報道各社", ty:"press", url:"https://www.hayabusa2.jaxa.jp/"}]},
-      {t:"7月5日に至近距離を通過する予定。", sources:[{actor:"JAXA", ty:"prim", url:"https://www.hayabusa2.jaxa.jp/"}]}
-    ],
-    claims:[],
-    consensus:"JAXAの一次情報を中心に、事実は一致しています。論調の対立はありません＝事実合意型。",
-    why:"科学ジャンルの事実合意型サンプル。",
-    link:{label:"出典：JAXA はやぶさ2 プロジェクト", url:"https://www.hayabusa2.jaxa.jp/"} }
-];
-
-/* ---- 出典種別と立場ラベル ---- */
-const SRC = {
-  prim:{n:"一次情報"}, wire:{n:"通信社"}, press:{n:"報道機関"}, op:{n:"意見・SNS"}
-};
-const STANCE_LABEL = { support:"賛成寄りの見方", attack:"反対寄りの見方", neutral:"中立・留保" };
-
-function esc(s){ return String(s).replace(/[&<>"]/g, function(m){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]; }); }
-/* href に javascript: 等が混入しても無害化（http/https のみ許可・それ以外は代替先へ） */
-function safeUrl(u, fb){ return (typeof u === 'string' && /^https?:\/\//i.test(u)) ? u : fb; }
-/* class 属性へ入れる立場値を許可リストで固定（将来の動的データ対策） */
-function safeStance(s){ return ['support','attack','neutral'].indexOf(s) !== -1 ? s : 'neutral'; }
-
-/* ===== 平易化：高校生レベルを超える語に意味をその場で添える（設計図のポップアップ辞書） =====
-   定義文には「その語そのもの」を含めない（二重置換を避けるため）。 */
-var GLOSSARY = {
-  "デジタル行財政改革会議":"国の行政や財政をデジタルの力で効率化する政府の会合",
-  "中間とりまとめ":"話し合いの途中経過を整理した文書",
-  "運行管理主体":"車の運行を管理し責任を持つ会社・組織",
-  "パブリックコメント":"国などの案に、広く国民から意見を集める手続き",
-  "限定解禁":"条件を付けて一部だけ認めること",
-  "有効求人倍率":"仕事を探す人1人あたり何件の求人があるかを示す数値",
-  "恒久財源":"毎年安定して使えるお金の出どころ",
-  "議長案":"会合のとりまとめ役が示すたたき台",
-  "日経平均":"東京市場の主要225社の株価を平均した代表的な目安",
-  "インバウンド":"外国から日本へ来る旅行者",
-  "覚書":"国や組織が交わす合意のメモ（正式な契約の前段階）",
-  "円安":"外貨に対して円の値打ちが下がること（輸入が割高になる）",
-  "下振れ":"予想より悪い方向に動くこと",
-  "規制緩和":"国などのルールや制限をゆるめること",
-  "実体経済":"実際のモノやサービスの生産・消費といった経済活動",
-  "与党会派":"政権を担う側の、議会の中の議員グループ",
-  "野党会派":"政権を担っていない側の、議会の中の議員グループ"
-};
-var GLOSSARY_KEYS = Object.keys(GLOSSARY).sort(function(a,b){ return b.length - a.length; });
-function escRe(s){ return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
-/* esc 済みテキストに対し、辞書語をタグ外でだけ <span.term> に置換（属性内は (?![^<]*>) で除外） */
-function annot(s){
-  var h = esc(s);
-  GLOSSARY_KEYS.forEach(function(term){
-    var et = esc(term);
-    var re = new RegExp(escRe(et) + '(?![^<]*>)', 'g');
-    h = h.replace(re, '<span class="term" tabindex="0" title="' + esc(GLOSSARY[term]) + '" data-def="' + esc(GLOSSARY[term]) + '">' + et + '</span>');
-  });
-  return h;
-}
-
-/* ===== 共有：中立まとめを著作権セーフな形（事実の再記述＋出典リンク・本文全文は出さない）でテキスト化 ===== */
-function shareTextFor(t){
-  var L = [];
-  L.push('【ファクトマップ｜中立まとめ】');
-  L.push('争点：' + t.issue);
-  L.push('');
-  L.push('■ 確認できた事実');
-  (t.facts || []).forEach(function(f){ L.push('・' + f.t); });
-  /* 立場：現行の3階層（stances→grounds→speakers）を主とし、旧claims形式にも後方互換 */
-  var stanceLines = [];
-  (t.stances || []).forEach(function(st){
-    var lab = { support:'賛成寄り', attack:'反対寄り', neutral:'中立' }[safeStance(st.side)];
-    stanceLines.push('[' + lab + '] ' + st.summary);
-    (st.grounds || []).forEach(function(g){
-      var who = (g.speakers || []).map(function(s){ return s.actor; }).join('・');
-      stanceLines.push('  └ ' + g.point + (who ? '（' + who + '）' : ''));
-    });
-  });
-  (t.claims || []).forEach(function(c){
-    var lab = { support:'賛成寄り', attack:'反対寄り', neutral:'中立' }[safeStance(c.stance)];
-    var who = (c.speakers || []).map(function(s){ return s.actor; }).join('・');
-    stanceLines.push('[' + lab + '] ' + c.claim + (who ? '（' + who + '）' : ''));
-  });
-  if(stanceLines.length){
-    L.push('');
-    L.push('■ 立場（誰が・どう述べているか）');
-    stanceLines.forEach(function(s){ L.push(s); });
-  }
-  L.push('');
-  L.push('■ 賛否を超えた最小合意');
-  L.push(t.consensus || '');
-  L.push('');
-  L.push('出典：' + ((t.link && t.link.label) || '') + ' ' + ((t.link && t.link.url) || ''));
-  L.push('※アプリは裁定しません。事実と評価を分けて並べた中立まとめです（地図≠領土）。');
-  return L.join('\n');
-}
-function fmShare(){
-  var t = FM[active];
-  var text = shareTextFor(t);
-  var title = 'ファクトマップ：' + t.issue;
-  if(navigator.share){
-    navigator.share({ title: title, text: text }).catch(function(){});
-  } else if(navigator.clipboard && navigator.clipboard.writeText){
-    navigator.clipboard.writeText(text).then(function(){ toast('中立まとめをコピーしました'); }, function(){ toast('コピーできませんでした'); });
-  } else {
-    toast('この環境は共有に未対応です');
-  }
-}
-function toast(msg){
-  var el = document.getElementById('fm-toast');
-  if(!el){ el = document.createElement('div'); el.id = 'fm-toast'; document.body.appendChild(el); }
-  el.textContent = msg; el.className = 'show';
-  setTimeout(function(){ el.className = ''; }, 1800);
-}
-
-/* 発言者チップ：[種別ドット] 発言者 ・種別 ↗（中身が主役・これは根拠として下に小さく） */
-function chip(s, topicUrl){
-  var ty = SRC[s.ty] ? s.ty : 'press';
-  var d = SRC[ty];
-  var name = s.actor || s.l || '出典';
-  var url = safeUrl(s.url, topicUrl);
-  return '<a class="chip chip--'+ty+'" href="'+esc(url)+'" target="_blank" rel="noopener">'
-    + '<span class="src-dot dot--'+ty+'" aria-hidden="true"></span>'
-    + '<span class="chip-actor">'+esc(name)+'</span>'
-    + '<span class="chip-ty">・'+esc(d.n)+'</span>'
-    + '<span class="chip-arrow" aria-hidden="true">↗</span></a>';
-}
-function chipsRow(arr, topicUrl){
-  return '<div class="chips">' + arr.map(function(s){ return chip(s, topicUrl); }).join('') + '</div>';
-}
-
-/* 主張カード（中身＝主役→理由→発言者の順に視線が降りる） */
-function claimCard(c, topicUrl){
-  var h = '<div class="claim-card '+safeStance(c.stance)+'">';
-  h += '<p class="claim-text">'+annot(c.claim)+'</p>';
-  if(c.reason){
-    h += '<p class="reason"><span class="reason-lab">なぜなら：</span>'+annot(c.reason)+'</p>';
-  }
-  if(c.reason_branches && c.reason_branches.length){
-    h += '<div class="reason-branches"><div class="rb-lab">理由の見方が分かれています：</div><div class="reason-root">';
-    h += c.reason_branches.map(function(b){
-      return '<div class="reason-item '+safeStance(b.stance)+'">'+esc(b.text)+'</div>';
+function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));}
+function safe(u){return (typeof u==='string'&&/^https?:\/\//i.test(u))?u:'#';}
+function srcShort(s){return String(s||'').replace(' 主要ニュース','').replace('!ニュース 主要','').replace('ドットコム','');}
+function render(events){
+  if(!events||!events.length){ document.getElementById('events').innerHTML='<div class="empty">出来事がありません。</div>'; return; }
+  var html = events.map(function(e){
+    var multi = e.independentSources>=2;
+    var vol = '<span class="vol'+(multi?'':' vol-mute')+'">'+e.independentSources+'社が報道'+(e.count>e.independentSources?'（'+e.count+'本）':'')+'</span>';
+    var prim = e.hasPrimary ? '<span class="vol" style="color:var(--accent); border-color:var(--accent);">一次情報あり</span>' : '';
+    var srcs = '<span class="ev-sources">'+ (e.sources||[]).map(srcShort).join('・') +'</span>';
+    var links = (e.members||[]).map(function(m){
+      /* 一次情報の生データXMLは「元記事」でなく「元データ(XML)」と正直にラベル */
+      var lab = (m.linkKind === 'data') ? 'の元データ(XML)' : 'の記事';
+      return '<a href="'+esc(safe(m.link))+'" target="_blank" rel="noopener">'+esc(srcShort(m.source))+lab+'<span class="arr" aria-hidden="true">↗</span></a>';
     }).join('');
-    h += '</div></div>';
-  }
-  var sp = c.speakers || [];
-  if(sp.length){
-    var cap = sp.length > 1 ? 'この主張をしている発言者（独立した複数）：' : 'この主張をしているのは：';
-    h += '<div class="speakers"><span class="sp-cap">'+cap+'</span>';
-    h += chipsRow(sp, topicUrl);
-    var attr = sp.map(function(s){ return s.attr; }).filter(Boolean)[0];
-    if(attr){ h += '<div class="attr-note">ⓘ '+esc(attr)+'</div>'; }
-    h += '</div>';
-  }
-  h += '</div>';
-  return h;
-}
-
-/* 立場セクション（同じ立場の主張をまとめる・縦積み） */
-function stanceGroup(stance, claims, topicUrl){
-  var list = claims.filter(function(c){ return c.stance === stance; });
-  if(!list.length) return '';
-  var h = '<div class="stance-group '+stance+'">';
-  h += '<div class="stance-label">'+STANCE_LABEL[stance]+'</div>';
-  h += list.map(function(c){ return claimCard(c, topicUrl); }).join('');
-  return h + '</div>';
-}
-
-/* 立場の見取り図：存在する立場だけを示す（件数は出さない＝「賛成が多い＝優勢／多数決」の誤解を避ける） */
-function overviewBar(claims){
-  var order = [['support','賛成寄りの見方'],['attack','反対寄りの見方'],['neutral','中立・留保']];
-  var present = order.filter(function(o){ return claims.some(function(c){ return c.stance === o[0]; }); });
-  var chips = present.map(function(o){ return '<span class="ov ov--'+o[0]+'">'+o[1]+'</span>'; }).join('');
-  return '<div class="ov-wrap"><div class="ov-lead">この争点にある立場：</div>'
-    + '<div class="ov-bar">' + chips + '</div>'
-    + '<div class="ov-note">※立場の数や並び順は、どちらが正しい・多数派かを意味しません。集めた論拠を中立に並べているだけです。</div></div>';
-}
-
-/* ===== 立場→論拠→発言者の3階層（言論＝論拠が主役。発言者は根拠として下に・「述べている」等のラベルなし） ===== */
-var STANCE_HEAD = { support:'賛成', attack:'反対', neutral:'中立' };
-var RESP_LAB = { support:'賛成側からの応答', attack:'反対側からの応答', neutral:'別の見方' };
-function groundsBlock(grounds, topicUrl){
-  return (grounds || []).map(function(g, i){
-    var h = '<div class="ground">';
-    h += '<div class="ground-num">論拠' + (i + 1) + '</div>';
-    h += '<div class="ground-point">' + annot(g.point) + '</div>';
-    h += chipsRow(g.speakers || [], topicUrl);
-    /* 背景レイヤー（司書型）：記事の外からAIが補った前提知識。既定は畳む＝普段はごちゃつかない。
-       接地（出典必須）・両論併記・隔離（別の棚）・明示（AI補完バナー）で「深まるのに裁定しない」。 */
-    if(g.background && ((g.background.facts && g.background.facts.length) || (g.background.views && g.background.views.length))){
-      var bg = g.background;
-      h += '<details class="bg"><summary>📚 この前提を深掘り</summary>';
-      h += '<div class="bg-warn">⚠️ ここから先は、AIが記事の外（公的資料など）から補った背景です。記事の本文ではありません。出典に当たって、ご自身で確かめてください。</div>';
-      if(bg.facts && bg.facts.length){
-        h += '<div class="bg-sec"><div class="bg-sec-h">前提となる事実</div>';
-        h += bg.facts.map(function(f){
-          return '<div class="bg-item"><span class="bg-tag">事実</span>'
-            + '<div class="bg-point">' + annot(f.t) + '</div>'
-            + chipsRow(f.sources || [], topicUrl) + '</div>';
-        }).join('');
-        h += '</div>';
-      }
-      if(bg.views && bg.views.length){
-        h += '<div class="bg-sec"><div class="bg-sec-h">見方が分かれる点（どちらが正しいかはアプリは決めません）</div>';
-        h += '<div class="bg-weight-note">「比重」＝信頼できる情報源での支持の広がり。アプリは多数派を裁定せず、出典で示します。<b>決着している論点</b>では〔広く合意〕〔少数の立場〕のように比重に差をつけ、<b>見解が割れる論点</b>では同格に並べます（＝決着済みを「両論ある」と見せる“偽りのバランス”を避けるため）。</div>';
-        h += bg.views.map(function(v){
-          var w = v.weight ? '<span class="bg-weight">比重：' + esc(v.weight) + '</span>' : '';
-          return '<div class="bg-item"><span class="bg-tag">' + esc(v.label) + '</span>' + w
-            + '<div class="bg-point">' + annot(v.point) + '</div>'
-            + chipsRow(v.sources || [], topicUrl) + '</div>';
-        }).join('');
-        h += '</div>';
-      }
-      h += '<div class="bg-note">※アプリはどの見方が正しいかを決めません（地図 ≠ 領土）。出典に当たって、判断はご自身で。</div>';
-      h += '</details>';
-    }
-    /* 再反論（応答）：既定は畳む。タップで初めて開く＝普段の画面はごちゃつかない。 */
-    if(g.responses && g.responses.length){
-      h += '<details class="responses"><summary>応答を見る（' + g.responses.length + '件）</summary>';
-      h += g.responses.map(function(r){
-        var side = safeStance(r.side);
-        var rh = '<div class="response ' + side + '">';
-        rh += '<div class="response-lab">' + esc(RESP_LAB[side]) + '</div>';
-        rh += '<div class="response-point">' + annot(r.point) + '</div>';
-        rh += chipsRow(r.speakers || [], topicUrl);
-        return rh + '</div>';
-      }).join('');
-      h += '<div class="responses-note">※応答の有無や数は、正しさ・強さを示しません。</div>';
-      h += '</details>';
-    }
-    return h + '</div>';
+    var maplink = (window.MAPPED && window.MAPPED.has(e.headline)) ? '<a class="maplink" href="detail.html#'+encodeURIComponent(e.slug||'')+'">論点マップを見る（争点・事実・立場）→</a>' : '';
+    var ja = window.TRANS && window.TRANS[e.headline];
+    var head = ja || e.headline;
+    var orig = ja ? '<span class="ev-orig"><span aria-hidden="true">🌐</span> 原文: '+esc(e.headline.slice(0,60))+'</span>' : '';
+    return '<div class="ev"><div class="ev-top">'+vol+prim+srcs+'</div>'
+      + '<div class="ev-head">'+esc(head)+'</div>' + orig
+      + '<div class="ev-links">'+links+'</div>'
+      + maplink + '</div>';
   }).join('');
+  document.getElementById('events').innerHTML = html;
 }
-function stanceBlock(st, topicUrl){
-  var side = safeStance(st.side);
-  var h = '<div class="stance-group ' + side + '">';
-  h += '<div class="stance-head"><span class="stance-badge">' + esc(STANCE_HEAD[side]) + '</span><span>' + annot(st.summary) + '</span></div>';
-  h += groundsBlock(st.grounds, topicUrl);
-  return h + '</div>';
-}
-function stancesOverview(stances){
-  var order = [['support','賛成'],['attack','反対'],['neutral','中立']];
-  var present = order.filter(function(o){ return stances.some(function(s){ return safeStance(s.side) === o[0]; }); });
-  var chips = present.map(function(o){ return '<span class="ov ov--' + o[0] + '">' + o[1] + '</span>'; }).join('');
-  return '<div class="ov-wrap"><div class="ov-lead">この争点にある立場：</div>'
-    + '<div class="ov-bar">' + chips + '</div>'
-    + '<div class="ov-note">※立場の数や並び順は、どちらが正しい・多数派かを意味しません。論拠を中立に並べているだけです。</div></div>';
-}
-
-function renderTopic(t){
-  var hasStances = !!(t.stances && t.stances.length);
-  var hasClaims = !!(t.claims && t.claims.length);
-  var isConsensusType = !hasStances && !hasClaims;
-  var topicUrl = (t.link && t.link.url) || '#';
-  var linkLabel = (t.link && t.link.label) || '出典一覧';
-  var h = '<article class="topic">';
-
-  /* 争点 */
-  h += '<div class="issue-head">';
-  h += '<span class="stasis">争点の分類：'+esc(t.stasis)+'</span>';
-  h += '<h2 class="issue-text"><span class="q" aria-hidden="true">？</span>'+annot(t.issue)+'</h2>';
-  if(t.why){ h += '<details class="why"><summary>なぜ表示？</summary><p>'+esc(t.why)+'</p></details>'; }
-  if(t.premise){ h += '<div class="premise"><b>前提：</b>'+annot(t.premise)+'</div>'; }
-  h += '</div>';
-
-  /* 事実の背骨（＝賛否を超えて一致する土台。一致点は別セクションで繰り返さない） */
-  h += '<section class="facts-sec"><h3 class="sec-h">確認できた事実（賛否を超えて一致する土台）</h3>';
-  h += (t.facts || []).map(function(f, i){
-    var srcs = f.sources || f.src || [];
-    var n = srcs.length;
-    var hasPrim = srcs.some(function(s){ return s.ty === 'prim'; });
-    var conf = hasPrim ? 'ⓘ 公式の一次情報（発表元の情報そのもの）'
-      : (n >= 2 ? 'ⓘ <b>'+n+'</b>の機関・媒体が確認（複数で一致＝裏が厚い）'
-      : (n === 1 ? 'ⓘ 1つの機関・媒体の情報（複数ソースで要裏取り）' : ''));
-    var fh = '<div class="fact'+(isConsensusType?' fact--exp':'')+'">'
-      + '<div class="fact-t"><span class="fact-n">'+(i+1)+'</span><span>'+annot(f.t)+'</span></div>'
-      + chipsRow(srcs, topicUrl);
-    if(conf){ fh += '<div class="fact-conf">'+conf+'</div>'; }
-    if(f.dispute){ fh += '<div class="fact-dispute">⚖ '+annot(f.dispute)+'（どちらが正しいかをアプリは決めません）</div>'; }
-    return fh + '</div>';
-  }).join('');
-  h += '</section>';
-
-  /* マトリックス本体 or 合意バナー */
-  if(hasStances){
-    h += '<section class="matrix-sec"><h3 class="sec-h">論調の地図（言論＝論拠が主役）</h3>';
-    h += stancesOverview(t.stances);
-    h += t.stances.map(function(s){ return stanceBlock(s, topicUrl); }).join('');
-    h += '</section>';
-  } else if(hasClaims){
-    h += '<section class="matrix-sec"><h3 class="sec-h">論調の地図（誰が・どんな理由で・どう述べているか）</h3>';
-    h += overviewBar(t.claims);
-    h += ['support','attack','neutral'].map(function(s){ return stanceGroup(s, t.claims, topicUrl); }).join('');
-    h += '</section>';
-  } else {
-    h += '<div class="cbanner">'
-      + '<p>'+esc(t.consensusBanner || 'このトピックは、報道機関・専門家・公的機関の間で、事実の解釈に大きな対立は確認されていません。')+'</p>';
-    if(t.privacy){
-      h += '<p class="priv-note">【配慮表示】私人の実名・個人が特定できる情報は掲載していません。個別の不幸を順位づけせず、社会的な論点に寄せて扱います。</p>';
-    }
-    h += '</div>';
-  }
-
-  /* 一致点 */
-  h += '<section class="consensus"><h3 class="sec-h">賛否を超えた最小合意</h3><p>'+annot(t.consensus || '')+'</p></section>';
-
-  /* 補足 */
-  if(t.note){ h += '<div class="note">'+esc(t.note)+'</div>'; }
-
-  h += '<div class="actions"><button type="button" class="share-btn">🔗 この中立まとめを共有</button></div>';
-
-  /* 出典フッター */
-  h += '<details class="src-foot"><summary>主要な出典を見る</summary><div class="src-list">';
-  h += '<a class="src-main" href="'+esc(safeUrl(topicUrl, '#'))+'" target="_blank" rel="noopener">↗ '+esc(linkLabel)+'</a>';
-  h += '</div></details>';
-
-  h += '</article>';
-  return h;
-}
-
-/* ---- タブ＋描画 ---- */
-var active = 0;
-function paint(){
-  var tabs = document.getElementById('tabs');
-  tabs.innerHTML = FM.map(function(t, i){
-    return '<button type="button" role="tab" aria-selected="'+(i===active?'true':'false')+'" aria-controls="map" class="tab'+(i===active?' on':'')+'" data-i="'+i+'">'+esc(t.tab)+'</button>';
-  }).join('');
-  Array.prototype.forEach.call(tabs.querySelectorAll('.tab'), function(b){
-    b.addEventListener('click', function(){ active = parseInt(b.getAttribute('data-i'), 10); paint(); });
-  });
-  document.getElementById('map').innerHTML = renderTopic(FM[active]);
-  var sb = document.querySelector('#map .share-btn'); if(sb){ sb.addEventListener('click', fmShare); }
-}
-paint();
-
-/* 実例（実記事をエンジンで構造化したもの）はローカルに real-fm-*.json があれば先頭タブに読み込む。
-   著作権配慮でこのファイルはリポジトリに含めない（http.server 経由でのみ fetch 可）。 */
-fetch('samples/real-fm-01.json')
-  .then(function(r){ return r.ok ? r.json() : null; })
-  .then(function(d){ if(d){ FM.unshift(d); active = 0; paint(); } })
-  .catch(function(){ /* ファイルが無ければ合成6トピックのみ表示 */ });
-
-/* 難語の意味：タップで開閉（モバイルでも確実に意味へアクセス。ホバー/title と併用） */
-document.addEventListener('click', function(e){
-  var t = e.target && e.target.closest ? e.target.closest('.term') : null;
-  Array.prototype.forEach.call(document.querySelectorAll('.term.open'), function(el){ if(el !== t){ el.classList.remove('open'); } });
-  if(t){ t.classList.toggle('open'); }
+Promise.all([
+  fetch('out-events.json').then(function(r){ if(!r.ok) throw new Error('no file'); return r.json(); }),
+  fetch('out-maps.json').then(function(r){ return r.ok ? r.json() : {maps:[]}; }).catch(function(){ return {maps:[]}; }),
+  fetch('out-translations.json').then(function(r){ return r.ok ? r.json() : {translations:{}}; }).catch(function(){ return {translations:{}}; })
+]).then(function(res){
+  window.MAPPED = new Set((res[1].maps||[]).map(function(m){ return m.headline; }));
+  window.TRANS = (res[2] && res[2].translations) || {};
+  render(res[0].events||[]);
+}).catch(function(){
+  var isFile = location.protocol === 'file:';
+  document.getElementById('events').innerHTML = isFile
+    ? '<div class="empty">このページはファイルを直接開くとデータを読み込めません。<br>ローカルサーバー経由で開いてください（開発者向け：<code>python -m http.server 4321</code> → <code>http://localhost:4321/home.html</code>）。<br>「分析済みトピック」（下のリンク）はこのままでも見られます。</div>'
+    : '<div class="empty">最新の出来事データがまだありません。<br>データの取り込みが済むと、ここに最新の出来事が並びます。<br><span style="font-size:11px">（開発者向け：<code>node publish.mjs</code> で取り込み→束ね→マップ化を一括実行）</span></div>';
 });
 </script>
 </body>
