@@ -284,6 +284,7 @@
 <body>
 <div class="wrap">
 
+
   <div class="honest">
     <span aria-hidden="true">⚗️</span>
     <span><b>AI生成の下書き・プロトタイプ。</b>アプリは正誤を判断しません。出来事を「事実」と「評価・論調」に分けて、出典つきで並べるだけです（地図 ≠ 領土）。発言者名・出典リンクは一部が仮表記／暫定（本番で実記事に確定）。出典は必ずご自身でご確認ください。</span>
@@ -581,14 +582,25 @@ function shareTextFor(t){
   L.push('');
   L.push('■ 確認できた事実');
   (t.facts || []).forEach(function(f){ L.push('・' + f.t); });
-  if(t.claims && t.claims.length){
+  /* 立場：現行の3階層（stances→grounds→speakers）を主とし、旧claims形式にも後方互換 */
+  var stanceLines = [];
+  (t.stances || []).forEach(function(st){
+    var lab = { support:'賛成寄り', attack:'反対寄り', neutral:'中立' }[safeStance(st.side)];
+    stanceLines.push('[' + lab + '] ' + st.summary);
+    (st.grounds || []).forEach(function(g){
+      var who = (g.speakers || []).map(function(s){ return s.actor; }).join('・');
+      stanceLines.push('  └ ' + g.point + (who ? '（' + who + '）' : ''));
+    });
+  });
+  (t.claims || []).forEach(function(c){
+    var lab = { support:'賛成寄り', attack:'反対寄り', neutral:'中立' }[safeStance(c.stance)];
+    var who = (c.speakers || []).map(function(s){ return s.actor; }).join('・');
+    stanceLines.push('[' + lab + '] ' + c.claim + (who ? '（' + who + '）' : ''));
+  });
+  if(stanceLines.length){
     L.push('');
     L.push('■ 立場（誰が・どう述べているか）');
-    t.claims.forEach(function(c){
-      var lab = { support:'賛成寄り', attack:'反対寄り', neutral:'中立' }[safeStance(c.stance)];
-      var who = (c.speakers || []).map(function(s){ return s.actor; }).join('・');
-      L.push('[' + lab + '] ' + c.claim + (who ? '（' + who + '）' : ''));
-    });
+    stanceLines.forEach(function(s){ L.push(s); });
   }
   L.push('');
   L.push('■ 賛否を超えた最小合意');
