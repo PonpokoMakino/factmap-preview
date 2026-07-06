@@ -17,9 +17,9 @@ const targets = (data.events || []).filter(e => e.independentSources >= 2).slice
 mkdirSync('samples', { recursive: true });   // CI等samplesが無い環境でも動くように
 function runEngine(text) {
   writeFileSync('samples/ingest-map-tmp.txt', text);
-  // 既定は無料枠の大きい flash-lite（1500回/日）。flash(20回/分)は枯れやすいので使わない。
+  // ⚠️無料枠は縮小され flash-lite も1日20回まで（2026-07実測）。呼び出しは最小限に。
   const model = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
-  for (let t = 0; t < 6; t++) {
+  for (let t = 0; t < 3; t++) {
     try {
       const j = execFileSync('node', ['--env-file=.env', 'engine.mjs', 'samples/ingest-map-tmp.txt'],
         { env: { ...process.env, GEMINI_MODEL: model }, encoding: 'utf8', maxBuffer: 4 * 1024 * 1024 });
@@ -33,13 +33,22 @@ function runEngine(text) {
   return null;
 }
 
+// 差分処理：前回のマップを読み、同じ出来事（slug一致）は再生成せず再利用（無料枠20回/日の節約）
+let oldMaps = [];
+try { oldMaps = JSON.parse(readFileSync('out-maps.json', 'utf8')).maps || []; } catch (e) {}
+const oldByKey = new Map(oldMaps.map(m => [m.slug || m.headline, m]));
+
 const maps = [];
+let freshCount = 0;
 for (const e of targets) {
+  const prev = oldByKey.get(e.slug || e.headline);
+  if (prev) { maps.push(prev); console.error('  ↻ 再利用: ' + e.headline.slice(0, 24)); continue; }
   // 入力＝束ねた各見出し＋配信スニペット（本文ではない）。
   // [出典: 媒体名] を明示して渡す＝engineが媒体名を推測・捏造しないように（src.l はこのラベルから選ばせる）。
   const text = e.members.map(m => '[出典: ' + m.source + '] ' + m.title + (m.snippet ? '。' + m.snippet : '')).join('\n');
   const out = runEngine(text);
   if (!out) { console.error('  ✗ 失敗: ' + e.headline.slice(0, 24)); continue; }
+  freshCount++;
   // 確定的な番人：賛成(support)と反対(attack)が両方そろって初めて「賛否が割れる」。
   // 片方しか無い・全部中立などは賛否が割れていない＝事実合意型として立場を空にする（弱いモデルの立場の作りすぎを防ぐ）。
   const ps = out.positions || [];
@@ -61,4 +70,4 @@ try { const old = JSON.parse(readFileSync('out-maps.json','utf8')); if ((old.map
 writeFileSync('out-maps.json', JSON.stringify({ builtAt: data.rankedAt, note: '配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。', maps }, null, 2));
 console.error('\n■ 論点マップ生成（取り込み→束ね→司書型マップ）');
 maps.forEach(m => console.error(`  ✅ [${m.independentSources}社] ${m.headline.slice(0, 26)} → 争点「${(m.issue || '').slice(0, 24)}」/ 事実${m.facts.length}・立場${m.positions.length}`));
-console.error(`  計 ${maps.length} 件 → out-maps.json`);
+console.error(`  計 ${maps.length} 件（新規${freshCount}・再利用${maps.length - freshCount}） → out-maps.json`);

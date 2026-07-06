@@ -29,28 +29,40 @@ async function translateBatch(texts) {
 async function main() {
   const d = JSON.parse(readFileSync(process.argv.find((a, i) => i >= 2 && !a.startsWith('--')) || 'out-ingest.json', 'utf8'));
   const en = [...new Set((d.headlines || []).filter(h => h.lang && h.lang !== 'ja' && h.title).map(h => h.title))];
-  if (!en.length) { writeFileSync('out-translations.json', JSON.stringify({ translations: {} }, null, 2)); console.error('翻訳対象（外国語の見出し）なし。'); return; }
-  let ja = [];
-  for (let t = 0; t < 6; t++) {
-    try { ja = await translateBatch(en); break; }
-    catch (e) {
-      if (t === 5) { console.error('  翻訳失敗（無料枠の混雑/枯渇？）: ' + e.message); break; }
-      await new Promise(r => setTimeout(r, Math.min(500 * 2 ** t, 8000)));   // 指数バックオフ（429/503の無待機連打を防ぐ）
-    }
+  // 差分処理：前回の出力を読み、未翻訳の見出しだけAPIへ（無料枠が1日20回に縮小されたため必須）
+  let old = {};
+  try { old = JSON.parse(readFileSync('out-translations.json', 'utf8')).translations || {}; } catch (e) {}
+  if (!en.length) {
+    if (Object.keys(old).length) { console.error('翻訳対象なし→前回データ温存'); return; }
+    writeFileSync('out-translations.json', JSON.stringify({ translations: {} }, null, 2)); console.error('翻訳対象（外国語の見出し）なし。'); return;
   }
-  // 件数が一致しない＝対応関係が保証できない（行の統合/省略/順序ずれ）。別見出しの訳が付く事故を防ぐため全体を破棄。
-  if (ja.length !== en.length) {
-    if (ja.length) console.error('  翻訳の行数不一致（入力' + en.length + '行/出力' + ja.length + '行）→ 取り違え防止のため全体を破棄。原文のまま表示されます。');
-    ja = [];
+  const pending = en.filter(t => !old[t]);
+  let ja = [];
+  if (pending.length) {
+    for (let t = 0; t < 3; t++) {
+      try { ja = await translateBatch(pending); break; }
+      catch (e) {
+        if (t === 2) { console.error('  翻訳失敗（無料枠の混雑/枯渇？）: ' + e.message); break; }
+        await new Promise(r => setTimeout(r, Math.min(500 * 2 ** t, 8000)));   // 指数バックオフ（429/503の無待機連打を防ぐ）
+      }
+    }
+    // 件数が一致しない＝対応関係が保証できない（行の統合/省略/順序ずれ）。別見出しの訳が付く事故を防ぐため全体を破棄。
+    if (ja.length !== pending.length) {
+      if (ja.length) console.error('  翻訳の行数不一致（入力' + pending.length + '行/出力' + ja.length + '行）→ 取り違え防止のため全体を破棄。原文のまま表示されます。');
+      ja = [];
+    }
+  } else {
+    console.error('  新規の外国語見出しなし＝API呼び出しゼロ（差分処理）');
   }
   const translations = {};
-  en.forEach((t, i) => { if (ja[i]) translations[t] = ja[i]; });
+  en.forEach(t => { if (old[t]) translations[t] = old[t]; });   // 翻訳済みは再利用（現行見出し分のみ＝無限肥大防止）
+  pending.forEach((t, i) => { if (ja[i]) translations[t] = ja[i]; });
   // 枯渇/失敗で0件になった時、既にある良いデータを空で上書きしない（前回データを温存）
   if (!Object.keys(translations).length) {
-    try { const old = JSON.parse(readFileSync('out-translations.json','utf8')); if (Object.keys(old.translations||{}).length) { console.error('  0件→前回の翻訳を温存'); return; } } catch(e){}
+    try { const o = JSON.parse(readFileSync('out-translations.json','utf8')); if (Object.keys(o.translations||{}).length) { console.error('  0件→前回の翻訳を温存'); return; } } catch(e){}
   }
   writeFileSync('out-translations.json', JSON.stringify({ translations }, null, 2));
-  console.error('翻訳 ' + Object.keys(translations).length + '/' + en.length + ' 件 → out-translations.json');
+  console.error('翻訳 ' + Object.keys(translations).length + '/' + en.length + ' 件（新規' + pending.length + '・再利用' + en.filter(t => old[t]).length + '） → out-translations.json');
   Object.entries(translations).slice(0, 4).forEach(([k, v]) => console.error('  ' + k.slice(0, 34) + ' → ' + v));
 }
 
