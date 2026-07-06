@@ -25,11 +25,22 @@ jobs:
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"; echo "変化あり→AI工程実行"
           fi
-      - name: APIキーを配置（Secretsから・ログには出ない）
+      - name: AI工程ゲート（無料枠が1日20回/モデルに縮小→AI工程は約6時間ごとに制限。手動実行は常に実行）
+        id: aigate
         if: steps.diff.outputs.changed == 'true'
+        run: |
+          last=$(cat out-ai-stamp.txt 2>/dev/null || echo 0)
+          now=$(date +%s)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ $((now - last)) -ge 19800 ]; then
+            echo "run=true" >> "$GITHUB_OUTPUT"; echo "$now" > out-ai-stamp.txt; echo "AI工程を実行（前回から $(( (now - last) / 60 ))分）"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"; echo "AI工程は前回から6時間未満→スキップ（ニュース一覧の更新のみ）"
+          fi
+      - name: APIキーを配置（Secretsから・ログには出ない）
+        if: steps.aigate.outputs.run == 'true'
         run: echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > .env
       - name: 埋め込み→束ね直し→中立見出し→翻訳→論点マップ（軽い順＝枯渇時も見える部分が先に更新）
-        if: steps.diff.outputs.changed == 'true'
+        if: steps.aigate.outputs.run == 'true'
         run: |
           node --env-file=.env embed.mjs out-ingest.json || echo "(埋め込みスキップ)"
           node cluster.mjs out-ingest.json > out-events.json
@@ -43,4 +54,5 @@ jobs:
           git config user.name "factmap-bot"
           git config user.email "actions@users.noreply.github.com"
           git add out-events.json out-maps.json out-translations.json out-headlines.json
+          git add out-ai-stamp.txt 2>/dev/null || true
           git diff --cached --quiet || (git commit -m "chore: ニュース自動更新 [bot]" && git push)
