@@ -88,7 +88,7 @@
         <li>新機能の先行利用</li>
         <li>＝中立インフラを支えるサポーター</li>
       </ul>
-      <button class="btn primary" id="subscribeBtn" onclick="startSubscribe()">初月無料で始める（試作）</button>
+      <button class="btn primary" id="subscribeBtn" onclick="startSubscribe()">初月無料で始める（テスト運用中）</button>
     </div>
   </div>
   <p class="note">※サポーターでも<b>見られる事実・意見は無料プランと同じ</b>です。お金で「見られる事実・発言力」は変わりません（中立の平等アクセス）。変わるのは便利さだけ。<br>※便利機能は<b>30日間お試し無料</b>→その後サポーター。<b>事実を読むこと・論点マップは30日後もずっと無料</b>（事実にペイウォールはかけません）。解約はいつでも簡単に。</p>
@@ -107,7 +107,8 @@
 <script>
 /* Stripe決済リンク（Payment Link）。牧野様がStripeでリンクを発行したらここに貼るだけで実決済に切り替わる。
    空の間は試作の案内を出す。※本番モード（実際のお金）へ進む時は重要案件＝真矢ミキ統括＋牧野様判断。 */
-var STRIPE_LINK = '';   // 例: 'https://buy.stripe.com/xxxx'（テストモードは https://buy.stripe.com/test_xxxx）
+// Stripe決済リンク（2026-07-06 テストモードで接続）。本番公開時に本番リンク(test_なし)へ差し替え。
+var STRIPE_LINK = 'https://buy.stripe.com/test_3cI28sa7l9xU8Pi7jg8AE00';
 function startSubscribe(){
   if(STRIPE_LINK){ location.href = STRIPE_LINK; }
   else{ alert('実決済は準備中です（Stripeのリンクが入り次第、ここから登録できます）。'); }
