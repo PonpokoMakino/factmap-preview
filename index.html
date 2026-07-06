@@ -63,9 +63,13 @@
 <div class="wrap">
   <div class="title">ファクトマップ<span class="ver">ホーム試作 v0.1</span></div>
   <p class="lead">最新の出来事を、声の大きさでなく「<b>何社が独立に報じたか</b>」で並べています。</p>
-  <div class="banner">⚠️ これは試作です。最新の出来事は配信RSSから<b>見出しだけ</b>を取り込み・束ねたもの（本文は溜めません）。各社の元記事はリンクから読めます。論点の地図（事実／立場）は「分析済みトピック」で試せます。</div>
+  <div class="banner"><span aria-hidden="true">⚠️</span> これは試作です。最新の出来事は配信RSSから<b>見出しだけ</b>を取り込み・束ねたもの（本文は溜めません）。各社の元記事はリンクから読めます。論点の地図（事実／立場）は「分析済みトピック」で試せます。</div>
 
   <div class="sec-h">最新の出来事（独立報道社数順）</div>
+  <div id="toggleWrap" style="display:none; margin:0 0 10px;">
+    <button id="toggleBtn" onclick="toggleHeadlines()" style="font-size:11px; color:var(--ink-2); background:transparent; border:1px solid var(--line); border-radius:99px; padding:3px 12px; cursor:pointer;">原見出しで表示</button>
+    <span class="note" style="margin:0 0 0 8px;">既定は評価語を除いた「中立見出し」です（先入観を防ぐため）。</span>
+  </div>
   <div id="events"><div class="empty">読み込み中…</div></div>
   <p class="note">※「独立報道社数」は重要度をはかる物差しの一つです。並び順は正しさ・多数派を意味しません。1社が何本も出しても“1社”と数えます（声の大きさで水増ししないため）。</p>
 
@@ -81,7 +85,10 @@
 <script>
 function esc(s){return String(s==null?'':s).replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));}
 function safe(u){return (typeof u==='string'&&/^https?:\/\//i.test(u))?u:'#';}
-function srcShort(s){return String(s||'').replace(' 主要ニュース','').replace('!ニュース 主要','').replace('ドットコム','');}
+/* 媒体名の短縮表示（表マップ式＝新フィード追加時はここに1行足すだけ。未知の媒体はそのまま表示） */
+var SRC_SHORT = {'NHK 主要ニュース':'NHK','Yahoo!ニュース 主要':'Yahoo','時事ドットコム':'時事','BBC World':'BBC','Al Jazeera':'AlJazeera','気象庁 地震・火山':'気象庁','気象庁 気象警報・注意報':'気象庁'};
+function srcShort(s){return SRC_SHORT[s] || String(s||'');}
+function fmtTime(t){ var d=new Date(t||''); if(isNaN(d)) return ''; var mm=d.getMonth()+1, dd=d.getDate(), h=('0'+d.getHours()).slice(-2), m=('0'+d.getMinutes()).slice(-2); return mm+'/'+dd+' '+h+':'+m; }
 function render(events){
   if(!events||!events.length){ document.getElementById('events').innerHTML='<div class="empty">出来事がありません。</div>'; return; }
   var html = events.map(function(e){
@@ -95,24 +102,42 @@ function render(events){
       return '<a href="'+esc(safe(m.link))+'" target="_blank" rel="noopener">'+esc(srcShort(m.source))+lab+'<span class="arr" aria-hidden="true">↗</span></a>';
     }).join('');
     var maplink = (window.MAPPED && window.MAPPED.has(e.headline)) ? '<a class="maplink" href="detail.html#'+encodeURIComponent(e.slug||'')+'">論点マップを見る（争点・事実・立場）→</a>' : '';
+    /* 見出しの優先順位：中立見出し（既定・評価語を除いた自前の再表現）→ 忠実翻訳 → 原文。
+       「原見出しで表示」切替時は原文（外国語は翻訳）を出す。head≠原文なら原文を小さく併記（透明性）。 */
+    var neutral = window.NEUTRAL && window.NEUTRAL[e.headline];
     var ja = window.TRANS && window.TRANS[e.headline];
-    var head = ja || e.headline;
-    var orig = ja ? '<span class="ev-orig"><span aria-hidden="true">🌐</span> 原文: '+esc(e.headline.slice(0,60))+'</span>' : '';
-    return '<div class="ev"><div class="ev-top">'+vol+prim+srcs+'</div>'
+    var head = window.SHOW_ORIG ? (ja || e.headline) : (neutral || ja || e.headline);
+    var time = fmtTime(e.time);
+    var timeHtml = time ? '<span class="ev-sources">'+time+'</span>' : '';
+    var orig = (head !== e.headline) ? '<span class="ev-orig"><span aria-hidden="true">🌐</span> 原見出し: '+esc(e.headline.slice(0,60))+'</span>' : '';
+    return '<div class="ev"><div class="ev-top">'+vol+prim+srcs+timeHtml+'</div>'
       + '<div class="ev-head">'+esc(head)+'</div>' + orig
       + '<div class="ev-links">'+links+'</div>'
       + maplink + '</div>';
   }).join('');
   document.getElementById('events').innerHTML = html;
 }
+function toggleHeadlines(){
+  window.SHOW_ORIG = !window.SHOW_ORIG;
+  var b = document.getElementById('toggleBtn');
+  if(b) b.textContent = window.SHOW_ORIG ? '中立見出しで表示' : '原見出しで表示';
+  render(window.EVENTS || []);
+}
 Promise.all([
   fetch('out-events.json').then(function(r){ if(!r.ok) throw new Error('no file'); return r.json(); }),
   fetch('out-maps.json').then(function(r){ return r.ok ? r.json() : {maps:[]}; }).catch(function(){ return {maps:[]}; }),
-  fetch('out-translations.json').then(function(r){ return r.ok ? r.json() : {translations:{}}; }).catch(function(){ return {translations:{}}; })
+  fetch('out-translations.json').then(function(r){ return r.ok ? r.json() : {translations:{}}; }).catch(function(){ return {translations:{}}; }),
+  fetch('out-headlines.json').then(function(r){ return r.ok ? r.json() : {headlines:{}}; }).catch(function(){ return {headlines:{}}; })
 ]).then(function(res){
   window.MAPPED = new Set((res[1].maps||[]).map(function(m){ return m.headline; }));
   window.TRANS = (res[2] && res[2].translations) || {};
-  render(res[0].events||[]);
+  window.NEUTRAL = (res[3] && res[3].headlines) || {};
+  window.EVENTS = res[0].events||[];
+  if(Object.keys(window.NEUTRAL).length){
+    var tb = document.getElementById('toggleWrap');
+    if(tb) tb.style.display = 'block';
+  }
+  render(window.EVENTS);
 }).catch(function(){
   var isFile = location.protocol === 'file:';
   document.getElementById('events').innerHTML = isFile
