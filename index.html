@@ -103,13 +103,18 @@ function render(events){
     }).join('');
     var maplink = (window.MAPPED && window.MAPPED.has(e.headline)) ? '<a class="maplink" href="detail.html#'+encodeURIComponent(e.slug||'')+'">論点マップを見る（争点・事実・立場）→</a>' : '';
     /* 見出しの優先順位：中立見出し（既定・評価語を除いた自前の再表現）→ 忠実翻訳 → 原文。
-       「原見出しで表示」切替時は原文（外国語は翻訳）を出す。head≠原文なら原文を小さく併記（透明性）。 */
+       「原見出しで表示」切替時は“真の原文”を主表示（外国語ならその下に日本語訳を併記）。 */
     var neutral = window.NEUTRAL && window.NEUTRAL[e.headline];
     var ja = window.TRANS && window.TRANS[e.headline];
-    var head = window.SHOW_ORIG ? (ja || e.headline) : (neutral || ja || e.headline);
+    var head = window.SHOW_ORIG ? e.headline : (neutral || ja || e.headline);
     var time = fmtTime(e.time);
     var timeHtml = time ? '<span class="ev-sources">'+time+'</span>' : '';
-    var orig = (head !== e.headline) ? '<span class="ev-orig"><span aria-hidden="true">🌐</span> 原見出し: '+esc(e.headline.slice(0,60))+'</span>' : '';
+    /* 併記行：🌐は外国語（翻訳がある）記事だけ。日本語記事の中立化は「原見出し」ラベルのみ（海外記事と誤解させない） */
+    var orig = '';
+    if(window.SHOW_ORIG && ja){ orig = '<span class="ev-orig"><span aria-hidden="true">🌐</span> 日本語訳: '+esc(ja.slice(0,60))+'</span>'; }
+    else if(!window.SHOW_ORIG && head !== e.headline){
+      orig = '<span class="ev-orig">'+(ja?'<span aria-hidden="true">🌐</span> ':'')+'原見出し: '+esc(e.headline.slice(0,60))+'</span>';
+    }
     return '<div class="ev"><div class="ev-top">'+vol+prim+srcs+timeHtml+'</div>'
       + '<div class="ev-head">'+esc(head)+'</div>' + orig
       + '<div class="ev-links">'+links+'</div>'
