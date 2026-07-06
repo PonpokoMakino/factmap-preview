@@ -1,7 +1,7 @@
 name: ニュース自動更新
 on:
   schedule:
-    - cron: '0 */6 * * *'   # 6時間ごと（UTC）
+    - cron: '*/10 * * * *'   # 10分ごと（GitHubの下限は5分＋遅延あり。10分＋変化ガードが無料枠的に最適）
   workflow_dispatch: {}      # 手動実行も可
 permissions:
   contents: write
@@ -13,17 +13,31 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: { node-version: '22' }
-      - name: APIキーを配置（Secretsから・ログには出ない）
-        run: echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > .env
-      - name: 取り込み→束ね→中立見出し→論点マップ→翻訳
+      - name: 取り込み→束ね（AI不使用・毎回実行）
         run: |
           node ingest.mjs --max 10 > out-ingest.json
+          node cluster.mjs out-ingest.json > out-events.json
+      - name: 変化チェック（ニュースが変わってなければAI工程をスキップ＝無料枠の節約）
+        id: diff
+        run: |
+          if git diff --quiet -- out-events.json; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"; echo "変化なし→AI工程スキップ"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"; echo "変化あり→AI工程実行"
+          fi
+      - name: APIキーを配置（Secretsから・ログには出ない）
+        if: steps.diff.outputs.changed == 'true'
+        run: echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > .env
+      - name: 埋め込み→束ね直し→論点マップ→翻訳→中立見出し
+        if: steps.diff.outputs.changed == 'true'
+        run: |
           node --env-file=.env embed.mjs out-ingest.json || echo "(埋め込みスキップ)"
           node cluster.mjs out-ingest.json > out-events.json
           node --env-file=.env map.mjs out-events.json --top 4 || echo "(マップ一部スキップ)"
           node --env-file=.env translate.mjs out-ingest.json || echo "(翻訳スキップ)"
           node --env-file=.env neutralize.mjs out-ingest.json || echo "(中立見出しスキップ)"
       - name: 変更があればコミット
+        if: steps.diff.outputs.changed == 'true'
         run: |
           rm -f .env
           git config user.name "factmap-bot"
