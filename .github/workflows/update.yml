@@ -1,0 +1,32 @@
+name: ニュース自動更新
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # 6時間ごと（UTC）
+  workflow_dispatch: {}      # 手動実行も可
+permissions:
+  contents: write
+concurrency: update-news
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: APIキーを配置（Secretsから・ログには出ない）
+        run: echo "GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}" > .env
+      - name: 取り込み→束ね→中立見出し→論点マップ→翻訳
+        run: |
+          node ingest.mjs --max 10 > out-ingest.json
+          node --env-file=.env embed.mjs out-ingest.json || echo "(埋め込みスキップ)"
+          node cluster.mjs out-ingest.json > out-events.json
+          node --env-file=.env map.mjs out-events.json --top 4 || echo "(マップ一部スキップ)"
+          node --env-file=.env translate.mjs out-ingest.json || echo "(翻訳スキップ)"
+          node --env-file=.env neutralize.mjs out-ingest.json || echo "(中立見出しスキップ)"
+      - name: 変更があればコミット
+        run: |
+          rm -f .env
+          git config user.name "factmap-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add out-events.json out-maps.json out-translations.json out-headlines.json
+          git diff --cached --quiet || (git commit -m "chore: ニュース自動更新 [bot]" && git push)

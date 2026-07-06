@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ファクトマップ｜このアプリについて（透明性）</title>
+<meta name="description" content="ファクトマップの目的・仕組み・中立の約束・限界。運営者もAIも信用しなくても検証できるように、全工程を公開します。">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#2a6f6b">
+<script src="theme.js" defer></script>
+<style>
+  :root{
+    --bg:#fbfbfa; --bg-2:#f4f4f2; --ink:#15181d; --ink-2:#4b515b; --ink-3:#6b7280;
+    --line:#e6e6e2; --line-2:#efefea; --accent:#2a6f6b; --accent-bg:rgba(42,111,107,.06);
+    --support:#2563eb; --attack:#c2410c; --neutral:#6b7280;
+    --support-bg:rgba(37,99,235,.045); --attack-bg:rgba(194,65,12,.05); --neutral-bg:rgba(107,114,128,.05);
+    --radius-s:8px; --radius:14px;
+    --serif:"Yu Mincho","游明朝","Hiragino Mincho ProN","Noto Serif JP",serif;
+    --sans:system-ui,"Hiragino Kaku Gothic ProN","Noto Sans JP",sans-serif;
+  }
+  @media (prefers-color-scheme:dark){
+    :root{ --bg:#131316; --bg-2:#1b1c20; --ink:#e9ebef; --ink-2:#aab0ba; --ink-3:#9aa1ac;
+      --line:#2a2c31; --line-2:#23252a; --accent:#7fbcb6; --accent-bg:rgba(127,188,182,.10); }
+  }
+  *{box-sizing:border-box}
+  body{margin:0; background:var(--bg); color:var(--ink); font-family:var(--sans); line-height:1.7;}
+  .wrap{max-width:720px; margin:0 auto; padding:26px 18px 90px;}
+  a.back{font-size:12px; color:var(--ink-3); text-decoration:none;}
+  h1{font-family:var(--serif); font-size:22px; font-weight:700; margin:8px 0 4px;}
+  h2{font-family:var(--serif); font-size:16px; font-weight:700; margin:26px 0 8px; padding-left:10px; border-left:3px solid var(--accent);}
+  p, li{font-size:13.5px; color:var(--ink-2);}
+  .lead{font-size:14px;}
+  .card{background:var(--bg-2); border:1px solid var(--line); border-radius:var(--radius-s); padding:12px 14px; font-size:12.5px; color:var(--ink-2); margin:10px 0;}
+  ul{padding-left:20px; margin:6px 0;}
+  a{color:var(--accent);}
+  .foot{font-size:11px; color:var(--ink-3); margin-top:34px; border-top:1px solid var(--line-2); padding-top:12px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="back" href="index.html">← ホームへ</a>
+  <h1>このアプリについて</h1>
+  <p class="lead"><b>「頭のいい人しか事実が分からないのはズルい。」</b><br>
+  ファクトマップは、出来事を「事実」と「評価・論調」に分け、出典つきで中立に並べるニュースアプリです。目的は<b>事実アクセスの民主化</b>——誰もが同じ確かな材料から、自分で考えられる状態をつくること。<b>アプリは何が正しいかを決めません</b>（地図 ≠ 領土）。</p>
+
+  <h2>仕組み（全部公開しています）</h2>
+  <ul>
+    <li><b>取り込み</b>：報道各社の配信RSS（見出し・短い要約・リンクのみ。<b>記事本文は保存しません</b>）と、官公庁の一次情報（気象庁の電文等）。</li>
+    <li><b>束ね</b>：同じ出来事を「<b>何社が独立に報じたか</b>」で束ねて並べます。1社が何本出しても1社。人気や過激さでは並べません。</li>
+    <li><b>中立見出し</b>：見出しはAIが評価語・煽りを除いて自前の言葉に書き直したもの（既定）。ワンタップで原見出しも見られます。</li>
+    <li><b>論点マップ</b>：争点・事実・立場を分けて表示。立場は必ず「誰が述べたか」つき。賛成と反対が実在する時だけ立場を出します（片側だけの捏造をしない仕組み）。</li>
+    <li><b>翻訳</b>：海外ニュースは日本語で。原文リンクを必ず残します。</li>
+  </ul>
+  <div class="card">🔍 <b>「信じてください」ではなく「検証してください」</b>——AIへの指示文（プロンプト）を含む全コードを公開しています：<a href="https://github.com/PonpokoMakino/factmap-preview" target="_blank" rel="noopener">GitHub（このサイトのソース）</a>。運営者もAIも信用しなくても、動きを点検できます。</div>
+
+  <h2>中立の約束</h2>
+  <ul>
+    <li>アプリは真偽・善悪・優劣を<b>裁定しません</b>。判断は読み手に。</li>
+    <li><b>全出典</b>：すべての事実・立場に出典を付け、元の情報へ戻れる道を残します。</li>
+    <li>賛成/反対に<b>赤や緑（善悪を連想させる色）を使いません</b>。数や並び順で優劣を示しません。</li>
+    <li>閲覧履歴によるおすすめ（パーソナライズ）を<b>しません</b>。タコツボを作りません。</li>
+    <li>あなたを追跡して広告主にデータを売ることを<b>しません</b>。</li>
+    <li>特定団体からの出資・寄付・スポンサーを<b>受けません</b>（資金源による歪みの排除）。</li>
+  </ul>
+
+  <h2>限界（正直に）</h2>
+  <ul>
+    <li>内容はAIが構造化した<b>下書き</b>です。誤りがありえます。必ず出典をご自身で確認してください。</li>
+    <li>現在は配信RSSの見出し・短い要約が主な材料のため、分析は浅めです（一次情報の拡充を進めています）。</li>
+    <li>情報源の選択（現在：NHK・Yahoo・時事・BBC・Al Jazeera・気象庁）自体に選択の偏りが残ります。多様化を続けます。</li>
+    <li>誤り・偏りに気づいたら、<a href="https://github.com/PonpokoMakino/factmap-preview/issues" target="_blank" rel="noopener">GitHub Issues</a> からご指摘ください。指摘と対応は公開の場で行います（こっそり直しません）。</li>
+  </ul>
+
+  <h2>著作権への姿勢</h2>
+  <ul>
+    <li>記事本文は取得・保存・表示しません。見出しはAIが自前の言葉で書き直したものを既定表示にしています。</li>
+    <li>読みたい記事は必ず<b>元のメディアへリンク</b>で誘導します（各社の収益を奪わない）。</li>
+    <li>一次情報（官公庁の発表等）を重視します。</li>
+  </ul>
+
+  <div class="foot">
+    運営：個人開発（日本）／連絡：<a href="https://github.com/PonpokoMakino/factmap-preview/issues" target="_blank" rel="noopener">GitHub Issues</a><br>
+    <a href="index.html">ホーム</a> ・ <a href="index.html">分析済みトピック</a> ・ <a href="pricing.html">料金</a>
+  </div>
+</div>
+</body>
+</html>
