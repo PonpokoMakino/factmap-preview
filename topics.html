@@ -289,7 +289,7 @@
 <body>
 <div class="wrap">
 
-  <a href="index.html" style="font-size:12px; color:var(--ink-3); text-decoration:none;">← ホーム（出来事一覧）へ</a>
+  <a href="home.html" style="font-size:12px; color:var(--ink-3); text-decoration:none;">← ホーム（出来事一覧）へ</a>
 
   <div class="honest">
     <span aria-hidden="true">⚗️</span>
@@ -777,14 +777,7 @@ function renderTopic(t){
   var linkLabel = (t.link && t.link.label) || '出典一覧';
   var h = '<article class="topic">';
 
-  /* 争点 */
-  h += '<div class="issue-head">';
-  h += '<span class="stasis">争点の分類：'+esc(t.stasis)+'</span>';
-  h += '<h2 class="issue-text"><span class="q" aria-hidden="true">？</span>'+annot(t.issue)+'</h2>';
-  if(t.why){ h += '<details class="why"><summary>なぜ表示？</summary><p>'+esc(t.why)+'</p></details>'; }
-  if(t.premise){ h += '<div class="premise"><b>前提：</b>'+annot(t.premise)+'</div>'; }
-  h += '</div>';
-
+  /* 構成＝事実→争点（2026-07-07 牧野様確定）：まず検証可能な事実＝合意できる土台、そこから「何が割れているか」へ */
   /* 事実の背骨（＝賛否を超えて一致する土台。一致点は別セクションで繰り返さない） */
   h += '<section class="facts-sec"><h3 class="sec-h">確認できた事実（賛否を超えて一致する土台）</h3>';
   h += (t.facts || []).map(function(f, i){
@@ -802,6 +795,14 @@ function renderTopic(t){
     return fh + '</div>';
   }).join('');
   h += '</section>';
+
+  /* 争点（事実の土台の上に「何が割れているか」を置く） */
+  h += '<div class="issue-head" style="margin-top:14px">';
+  h += '<span class="stasis">争点の分類：'+esc(t.stasis)+'</span>';
+  h += '<h2 class="issue-text"><span class="q" aria-hidden="true">？</span>'+annot(t.issue)+'</h2>';
+  if(t.why){ h += '<details class="why"><summary>なぜ表示？</summary><p>'+esc(t.why)+'</p></details>'; }
+  if(t.premise){ h += '<div class="premise"><b>前提：</b>'+annot(t.premise)+'</div>'; }
+  h += '</div>';
 
   /* マトリックス本体 or 合意バナー */
   if(hasStances){

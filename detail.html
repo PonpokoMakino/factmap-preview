@@ -82,10 +82,11 @@ function render(maps){
     var h='<div class="map" id="'+esc(m.slug||'')+'"><div><span class="vol">'+m.independentSources+'社が報道</span><span class="src-line">'+(m.sources||[]).map(shortSrc).join('・')+'</span>'
       +(m.stasis?'<span class="src-line">｜争点の種類: '+esc(m.stasis)+'</span>':'')+'</div>';
     h+='<div class="warn"><span aria-hidden="true">⚠️</span> 配信RSSの見出し・スニペットからAIが構造化した試作です（本文は未使用＝内容は浅め／本番は一次情報で厚くします）。</div>';
-    h+='<div class="issue"><span class="q">争点</span>'+esc(m.issue||m.headline)+'</div>';
-    h+='<div class="sec">事実の背骨（AIが自前の言葉で再記述）</div>';
+    /* 構成＝事実→争点→立場（2026-07-07 牧野様確定）：まず検証可能な事実＝合意できる土台を置き、そこから「何が割れているか」へ */
+    h+='<div class="sec">事実の背骨（合意できる土台・AIが自前の言葉で再記述）</div>';
     var NUM='①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮';
     h+=(m.facts||[]).map(function(f,i){return '<div class="fact"><span style="color:var(--ink-3);margin-right:4px">'+(NUM[i]||(i+1))+'</span>'+esc(f.t)+chips(f.src)+'</div>';}).join('')||'<div class="fact" style="color:var(--ink-3)">（抽出された事実なし）</div>';
+    h+='<div class="issue" style="margin-top:14px"><span class="q">争点</span>'+esc(m.issue||m.headline)+'</div>';
     if((m.positions||[]).length){
       h+='<div class="sec">立場（誰がどう述べたか）</div>';
       h+=(m.positions).map(function(p,pi){var c=stanceClass(p.stance);
