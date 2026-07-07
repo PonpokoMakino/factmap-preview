@@ -25,16 +25,24 @@ jobs:
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"; echo "変化あり→AI工程実行"
           fi
-      - name: AI工程ゲート（無料枠が1日20回/モデルに縮小→AI工程は約6時間ごとに制限。手動実行は常に実行）
+      - name: AI工程ゲート（基本は約6時間ごと・★速報時は即時★・手動実行は常に実行）
         id: aigate
         if: steps.diff.outputs.changed == 'true'
         run: |
           last=$(cat out-ai-stamp.txt 2>/dev/null || echo 0)
           now=$(date +%s)
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ $((now - last)) -ge 19800 ]; then
-            echo "run=true" >> "$GITHUB_OUTPUT"; echo "$now" > out-ai-stamp.txt; echo "AI工程を実行（前回から $(( (now - last) / 60 ))分）"
+          # 速報検知＝3社以上が独立に報じた「まだ論点マップの無い」新しい出来事（大きなニュースの合図）
+          breaking=$(node -e "
+            const ev=require('./out-events.json').events||[];
+            let maps=[];try{maps=require('./out-maps.json').maps||[]}catch(e){}
+            const seen=new Set(maps.map(m=>m.slug||m.headline));
+            console.log(ev.filter(e=>e.independentSources>=3&&!seen.has(e.slug||e.headline)).length);
+          " 2>/dev/null || echo 0)
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ $((now - last)) -ge 19800 ] || { [ "$breaking" -gt 0 ] && [ $((now - last)) -ge 1800 ]; }; then
+            echo "run=true" >> "$GITHUB_OUTPUT"; echo "$now" > out-ai-stamp.txt
+            echo "AI工程を実行（前回から $(( (now - last) / 60 ))分・速報検知 ${breaking}件）"
           else
-            echo "run=false" >> "$GITHUB_OUTPUT"; echo "AI工程は前回から6時間未満→スキップ（ニュース一覧の更新のみ）"
+            echo "run=false" >> "$GITHUB_OUTPUT"; echo "AI工程は定時外・速報なし→スキップ（ニュース一覧は10分ごとに更新継続）"
           fi
       - name: APIキーを配置（Secretsから・ログには出ない）
         if: steps.aigate.outputs.run == 'true'
