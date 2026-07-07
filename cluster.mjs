@@ -16,6 +16,11 @@ const STOP_EN = new Set('the a an and or of in on at to for with from by as is a
 // 国名・国籍語：話題の手がかりにはなる（shared にはカウント）が、1語だけで同一出来事とは言えない
 // （例 'russian' がキエフ攻撃とマリのヘリ撃墜を誤束ねした実例 2026-07-06）＝ strong 判定からは除外
 const GEO_EN = new Set('russia russian ukraine ukrainian china chinese iran iranian israel israeli gaza japan japanese america american korea korean india indian europe european syria syrian venezuela london washington moscow beijing tokyo kyiv'.split(/\s+/));
+// 日本語の国名・地域語も同じ（例「アメリカ」1語がW杯処分猶予とNBA八村移籍を誤束ねした実例 2026-07-07）
+const GEO_JA = new Set('アメリカ 米国 ロシア ウクライナ 中国 イラン イスラエル ガザ 韓国 北朝鮮 インド ヨーロッパ 欧州 シリア ベネズエラ フランス ドイツ イギリス 英国 イタリア 台湾 中東 国連 ロンドン ワシントン モスクワ 北京 東京 キーウ'.split(/\s+/));
+// 人物参照語（〜氏/〜大統領 等）：同じ人物の「別の出来事」を1語で束ねてしまう
+// （例「トランプ氏」1語がFIFA電話とNATO接近禁止命令を誤束ねした実例 2026-07-07）＝ strong 判定からは除外
+const PERSON_SUFFIX = /(氏|さん|大統領|首相|会長|長官|知事|市長|議員|監督|選手|容疑者|被告)$/;
 
 // 簡易ステミング：語形違い（indicts/indicted→indict）を揃える
 function stemEn(t) {
@@ -101,7 +106,7 @@ function main() {
         if (t.length >= 6 && df[t] <= Math.max(2, N * 0.1) && !GEO_EN.has(t)) strong = true;  // 英語：長く希少な語（indict等）。国名・国籍語は除外
       } else {
         sharedJa++;
-        if (t.length >= 4 && df[t] <= Math.max(2, N * 0.4)) strong = true;  // 日本語：長く希少な固有語
+        if (t.length >= 4 && df[t] <= Math.max(2, N * 0.4) && !GEO_JA.has(t) && !PERSON_SUFFIX.test(t)) strong = true;  // 日本語：長く希少な固有語（国名・人物参照語は1語で束ねない）
       }
     }
     return strong || sharedJa >= 2 || (sharedJa + sharedEn) >= 3;
