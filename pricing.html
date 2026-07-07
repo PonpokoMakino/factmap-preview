@@ -111,8 +111,11 @@
    空の間は試作の案内を出す。※本番モード（実際のお金）へ進む時は重要案件＝真矢ミキ統括＋牧野様判断。 */
 // Stripe決済リンク（2026-07-06 テストモードで接続）。本番公開時に本番リンク(test_なし)へ差し替え。
 var STRIPE_LINK = 'https://buy.stripe.com/test_3cI28sa7l9xU8Pi7jg8AE00';
+/* 導線別計測（収益化エンジン§4）：?via=<導線名> を client_reference_id としてStripeへ渡す。
+   「誰が」は記録しない・「どこから」だけ＝追跡ゼロのプライバシーポリシーと両立。 */
+var VIA = (new URLSearchParams(location.search).get('via') || 'direct').replace(/[^a-zA-Z0-9_-]/g, '').slice(0, 40) || 'direct';
 function startSubscribe(){
-  if(STRIPE_LINK){ location.href = STRIPE_LINK; }
+  if(STRIPE_LINK){ location.href = STRIPE_LINK + (STRIPE_LINK.indexOf('?') >= 0 ? '&' : '?') + 'client_reference_id=' + encodeURIComponent(VIA); }
   else{ alert('実決済は準備中です（Stripeのリンクが入り次第、ここから登録できます）。'); }
 }
 </script>
