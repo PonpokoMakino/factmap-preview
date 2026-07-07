@@ -65,6 +65,7 @@ for (const e of targets) {
     issue: out.issue, stasis: out.stasis,
     facts: out.facts || [], positions: split ? ps : [],
     consensus: out.consensus, note: out.note,
+    audit: out.audit,   // 検品記録（透明性：何を直したかを隠さない）
   });
 }
 

@@ -62,7 +62,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="index.html">← ホーム（出来事一覧）へ</a>
+  <a class="back" href="home.html">← ホーム（出来事一覧）へ</a>
   <div class="title">論点マップ（生ニュース・試作）</div>
   <p class="lead">取り込んだ実ニュースを、争点→事実→立場の地図に。事実はAIが自前の言葉で書き直し、各立場は「誰が述べたか」を明示します（アプリは裁定しません）。</p>
   <div id="maps"><div class="empty">読み込み中…</div></div>
@@ -84,12 +84,21 @@ function render(maps){
     h+='<div class="warn"><span aria-hidden="true">⚠️</span> 配信RSSの見出し・スニペットからAIが構造化した試作です（本文は未使用＝内容は浅め／本番は一次情報で厚くします）。</div>';
     h+='<div class="issue"><span class="q">争点</span>'+esc(m.issue||m.headline)+'</div>';
     h+='<div class="sec">事実の背骨（AIが自前の言葉で再記述）</div>';
-    h+=(m.facts||[]).map(function(f){return '<div class="fact">'+esc(f.t)+chips(f.src)+'</div>';}).join('')||'<div class="fact" style="color:var(--ink-3)">（抽出された事実なし）</div>';
+    var NUM='①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮';
+    h+=(m.facts||[]).map(function(f,i){return '<div class="fact"><span style="color:var(--ink-3);margin-right:4px">'+(NUM[i]||(i+1))+'</span>'+esc(f.t)+chips(f.src)+'</div>';}).join('')||'<div class="fact" style="color:var(--ink-3)">（抽出された事実なし）</div>';
     if((m.positions||[]).length){
       h+='<div class="sec">立場（誰がどう述べたか）</div>';
-      h+=(m.positions).map(function(p){var c=stanceClass(p.stance);return '<div class="stance '+c+'"><div class="stance-h">'+HEAD[c]+'</div><div class="stance-c">'+esc(p.claim)+'</div><div class="stance-actor">— '+esc(p.actor||'（特定度・低）')+'</div>'+chips(p.src)+'</div>';}).join('');
+      h+=(m.positions).map(function(p,pi){var c=stanceClass(p.stance);
+        /* 論理構造タグ（線は引かない＝文字タグ）：どの事実を前提に・どの立場への応答か */
+        var rel='';
+        if((p.premises||[]).length) rel+='<span style="font-size:10px;color:var(--ink-3);margin-right:8px">前提: 事実'+(p.premises).map(function(i){return NUM[i]||(i+1);}).join('')+'</span>';
+        if((p.counters||[]).length) rel+=(p.counters).map(function(i){var t=(m.positions||[])[i];return t?'<span style="font-size:10px;color:var(--ink-3);margin-right:8px">↩ '+esc((t.actor||'別の立場').slice(0,12))+'の立場への応答</span>':'';}).join('');
+        return '<div class="stance '+c+'"><div class="stance-h">'+HEAD[c]+'</div><div class="stance-c">'+esc(p.claim)+'</div><div class="stance-actor">— '+esc(p.actor||'（特定度・低）')+'</div>'+(rel?'<div style="margin-top:3px">'+rel+'</div>':'')+chips(p.src)+'</div>';}).join('');
     }else{
       h+='<div class="note">論調の対立はほとんどありません＝事実合意型の出来事です。</div>';
+    }
+    if(m.audit&&(m.audit.changed||(m.audit.issues||[]).length)){
+      h+='<div style="font-size:10px;color:var(--ink-3);margin-top:6px" title="'+esc((m.audit.issues||[]).join(' / '))+'">🧰 中立検品済み（抽出→機械検査→別AIによる監査の三段。マウスオーバーで修正記録）</div>';
     }
     if(m.consensus) h+='<div class="consensus">'+esc(m.consensus)+'</div>';
     var links=(m.links||[]).map(function(l){return '<a href="'+esc(safe(l.link))+'" target="_blank" rel="noopener">'+esc(shortSrc(l.source))+'の元記事 ↗</a>';}).join('');
