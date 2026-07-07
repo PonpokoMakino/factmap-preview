@@ -7,10 +7,11 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 
-const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
+// モデルfallback：無料枠は「1日20回/モデル」＝モデル別勘定。既定はlite→枯渇時はflashへ切替（envで単一固定も可）
+const MODELS = process.env.GEMINI_MODEL ? [process.env.GEMINI_MODEL] : ['gemini-2.5-flash-lite', 'gemini-2.5-flash'];
 function need(n) { const v = process.env[n]; if (!v) { console.error(n + ' が未設定です。'); process.exit(1); } return v; }
 
-async function neutralizeBatch(titles) {
+async function neutralizeBatch(titles, MODEL) {
   const key = need('GEMINI_API_KEY');
   const sys = 'あなたは中立で誠実な見出しの書き直し係。ニュース見出しを、次の規則で日本語の「中立見出し」に書き直す。' +
     '①事実だけ（誰/何が・何をした）。評価語・煽り・比喩・感嘆・「衝撃」「悲劇」等の感情語を除く' +
@@ -46,7 +47,8 @@ async function main() {
   let ja = [];
   if (pending.length) {
     for (let t = 0; t < 3; t++) {
-      try { ja = await neutralizeBatch(pending); break; }
+      const model = MODELS[Math.min(Math.floor(t / 2), MODELS.length - 1)];   // 2回目まで主モデル・3回目は控えへ
+      try { ja = await neutralizeBatch(pending, model); if (t === 2 && MODELS.length > 1) console.error('  ↪ 控えモデル(' + model + ')で成功'); break; }
       catch (e) {
         if (t === 2) { console.error('  中立見出し生成失敗（無料枠の混雑/枯渇？）: ' + e.message); break; }
         await new Promise(r => setTimeout(r, Math.min(500 * 2 ** t, 8000)));

@@ -6,10 +6,11 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 
-const MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash-lite';
+// モデルfallback：無料枠は「1日20回/モデル」＝モデル別勘定。既定はlite→枯渇時はflashへ切替（envで単一固定も可）
+const MODELS = process.env.GEMINI_MODEL ? [process.env.GEMINI_MODEL] : ['gemini-2.5-flash-lite', 'gemini-2.5-flash'];
 function need(n) { const v = process.env[n]; if (!v) { console.error(n + ' が未設定です。'); process.exit(1); } return v; }
 
-async function translateBatch(texts) {
+async function translateBatch(texts, MODEL) {
   const key = need('GEMINI_API_KEY');
   const sys = 'あなたは中立で忠実な翻訳者。次の外国語の見出しを日本語へ訳す。' +
     '評価語・感情語・ニュアンス・含みを足さない（原文の意味だけを正確に）。' +
@@ -40,7 +41,8 @@ async function main() {
   let ja = [];
   if (pending.length) {
     for (let t = 0; t < 3; t++) {
-      try { ja = await translateBatch(pending); break; }
+      const model = MODELS[Math.min(Math.floor(t / 2), MODELS.length - 1)];   // 2回目まで主モデル・3回目は控えへ
+      try { ja = await translateBatch(pending, model); if (t === 2 && MODELS.length > 1) console.error('  ↪ 控えモデル(' + model + ')で成功'); break; }
       catch (e) {
         if (t === 2) { console.error('  翻訳失敗（無料枠の混雑/枯渇？）: ' + e.message); break; }
         await new Promise(r => setTimeout(r, Math.min(500 * 2 ** t, 8000)));   // 指数バックオフ（429/503の無待機連打を防ぐ）
