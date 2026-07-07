@@ -1,5 +1,329 @@
 {
-  "builtAt": "",
-  "note": "天才エンジンv0.3で再生成中",
-  "maps": []
+  "builtAt": "2026-07-07T01:45:55.667Z",
+  "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
+  "maps": [
+    {
+      "headline": "Trevor Noah mocks Trump-FIFA World Cup red card controversy",
+      "slug": "TrevorNoahmocksTrumpFIFA",
+      "independentSources": 5,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015170531000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015170451000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587019?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070600900&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070700235&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070700272&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070601135&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trevor-noah-mocks-trump-fifa-world-cup-red-card-controversy?traffic_source=rss"
+        }
+      ],
+      "issue": "サッカーW杯におけるアメリカ代表選手の出場停止処分猶予と、それに対するトランプ大統領の介入は適切だったか？",
+      "stasis": "価値・倫理",
+      "facts": [
+        {
+          "t": "サッカーワールドカップ北中米大会で、アメリカ代表のバログン選手がレッドカードによる出場停止処分を猶予された。",
+          "span": "レッドカードによる出場停止の処分を猶予された",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "バログン選手は決勝トーナメント2回戦のベルギー戦で先発メンバーに入った。",
+          "span": "ベルギー戦で先発メンバーに入りました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "アメリカのトランプ大統領はFIFA会長に電話し、バログン選手の処分猶予の再検討を求めた。",
+          "span": "FIFA＝国際サッカー連盟の会長に電話し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領はFIFA会長への電話で「指示はせず」と述べた。",
+          "span": "「指示はせず」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領はFIFAへの働きかけが政治介入であることを認めた。",
+          "span": "政治介入認める",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領は、バログン選手の処分が「不公平」であると述べた。",
+          "span": "「不公平」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "ドナルド・トランプ大統領",
+          "stance": "support",
+          "claim": "FIFA会長にバログン選手の処分猶予の再検討を求めたと述べた。",
+          "span": "判定見直し求めた",
+          "reason": "処分が「不公平」だと感じたため。",
+          "attr": null,
+          "premises": [
+            5
+          ],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "指揮官たち",
+          "stance": "attack",
+          "claim": "異例の処分猶予はワールドカップの価値を傷つけると評価している。",
+          "span": "「Ｗ杯の価値を傷つける」",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "actor": "トレバー・ノア（コメディアン）",
+          "stance": "attack",
+          "claim": "トランプ大統領の介入は「政府の干渉」であると揶揄した。",
+          "span": "",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "op",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "アメリカ代表のバログン選手がレッドカードによる出場停止処分を猶予され、ベルギー戦に先発出場したこと、およびトランプ大統領がFIFA会長に処分見直しを求めたことは事実として合意されている。しかし、この処分猶予とトランプ大統領の介入の適切性については評価が割れている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claimのメタ記述を「〜と述べた」の形式に修正しました。",
+          "トランプ大統領が処分を「不公平」と述べた事実をfactsに追加し、positions[0].premisesに紐付けました。",
+          "position spanが原文に無い→除去「“government interf…」"
+        ]
+      }
+    },
+    {
+      "headline": "NBA八村 クリッパーズと“２年契約に合意”米複数メディア",
+      "slug": "NBA八村クリッパズと年契約に合意米複数メディア",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015170491000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587009?source=rss"
+        }
+      ],
+      "issue": "NBA八村塁選手はクリッパーズと契約したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "NBAの八村塁選手が、クリッパーズと2年契約に合意したとアメリカの複数のメディアが報じた。",
+          "span": "クリッパーズとの2年契約に合意した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        },
+        {
+          "t": "八村塁選手は、レイカーズからフリーエージェントとなっていた。",
+          "span": "レイカーズからフリーエージェントとなっていた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "八村塁選手がクリッパーズと2年契約に合意したと報じられている。評価は割れない。",
+      "note": "事実合意型。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "ネアンデルタール人、貝をめでる　現生人類祖先と価値観共通―京大など",
+      "slug": "ネアンデルタル人貝をめでる現生人類祖先と価値観共",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015170291000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070700111&g=soc&m=rss"
+        }
+      ],
+      "issue": "トルコ南部の洞窟で発見された貝は、ネアンデルタール人と現生人類の文化交流について何を示唆しているか？",
+      "stasis": "記述型",
+      "facts": [
+        {
+          "t": "トルコ南部の洞窟で、ネアンデルタール人とホモ・サピエンスの間に文化的な交流があった可能性を示す貝が発見された。",
+          "span": "ネアンデルタール人と、現在の人類、ホモ・サピエンスの間に文化的な交流があった可能性を示す貝が見つかった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この発見は京都大学などの研究グループによって発表された。",
+          "span": "京都大学などの研究グループが発表しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ネアンデルタール人が貝をめでていた可能性が示唆された。",
+          "span": "貝をめでる",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "この行為は、現生人類の祖先と価値観を共有していた可能性を示唆する。",
+          "span": "価値観共通",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "トルコ南部の洞窟で、ネアンデルタール人と現生人類の文化交流の可能性を示す貝が発見されたことは事実として報じられている。この発見の学術的意義については、記事中で具体的な評価や意見の対立は示されていない。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "issueが評価を問う形式になっていたが、元テキストにその評価に関する対立がないため、記述型の問いに修正しました。",
+          "stasisが「評価・予測（割れる）」となっていましたが、positionsが空であり、テキストに評価の対立がないため、「記述型」に修正しました。"
+        ]
+      }
+    }
+  ]
 }
