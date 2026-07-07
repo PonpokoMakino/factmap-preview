@@ -1,16 +1,17 @@
 {
-  "builtAt": "2026-07-07T01:10:16.943Z",
+  "builtAt": "2026-07-07T01:28:15.896Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Trump confirms he asked Fifa to review Balogun ban",
-      "slug": "TrumpconfirmsheaskedFifa",
-      "independentSources": 4,
+      "headline": "Trevor Noah mocks Trump-FIFA World Cup red card controversy",
+      "slug": "TrevorNoahmocksTrumpFIFA",
+      "independentSources": 5,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "BBC World"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
@@ -22,36 +23,40 @@
           "link": "https://news.web.nhk/newsweb/na/na-k10015170451000"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015170491000"
-        },
-        {
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6587015?source=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587009?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070600900&g=spo&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026070700204&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026070700235&g=int&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026070700199&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026070700272&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070601135&g=int&m=rss"
         },
         {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trevor-noah-mocks-trump-fifa-world-cup-red-card-controversy?traffic_source=rss"
         }
       ],
-      "issue": "サッカーW杯アメリカ代表選手への処分猶予は妥当か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "アメリカ代表選手のレッドカード処分猶予とトランプ大統領の介入は適切か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "サッカーワールドカップ北中米大会で、レッドカードによる出場停止の処分を猶予されたアメリカ代表のバログン選手が、決勝トーナメント2回戦のベルギー戦で先発メンバーに入った。",
-          "span": "サッカーワールドカップ北中米大会で、レッドカードによる出場停止の処分を猶予されたアメリカ代表のバログン選手が、決勝トーナメント2回戦のベルギー戦で先発メンバーに入りました",
+          "t": "アメリカ代表のバログン選手はレッドカードによる出場停止処分を猶予された。",
+          "span": "処分を猶予された",
           "src": [
             {
               "ty": "press",
@@ -60,18 +65,8 @@
           ]
         },
         {
-          "t": "アメリカのトランプ大統領は、FIFA＝国際サッカー連盟の会長に電話し、アメリカ代表の選手がレッドカードで退場になったものの次の試合の出場停止が猶予された件について、再検討を求めた。",
-          "span": "アメリカのトランプ大統領は、FIFA＝国際サッカー連盟の会長に電話し、アメリカ代表の選手がレッドカードで退場になったものの次の試合の出場停止が猶予されたことをめぐり、…再検討を求めるも",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "FIFA会長は、トランプ大統領からの電話があったことを認めつつ、処分は「独立判断」だと強調した。",
-          "span": "ＦＩＦＡ会長「独立判断」と強調　トランプ氏の電話認める",
+          "t": "バログン選手の出場停止処分猶予は異例の措置である。",
+          "span": "異例措置",
           "src": [
             {
               "ty": "press",
@@ -80,12 +75,42 @@
           ]
         },
         {
-          "t": "トランプ大統領は、FIFA会長にバログン選手の出場停止処分の見直しを要請したことを認めた。",
-          "span": "Trump confirms he asked Fifa to review Balogun ban",
+          "t": "バログン選手は決勝トーナメント2回戦のベルギー戦で先発出場した。",
+          "span": "先発メンバーに入りました",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領はFIFA会長に電話した。",
+          "span": "会長に電話し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領はFIFAに「指示はせず」と述べた。",
+          "span": "「指示はせず」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "トランプ氏は政治介入を認めた。",
+          "span": "政治介入認める",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
@@ -98,10 +123,150 @@
               "l": "Yahoo!ニュース 主要"
             }
           ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "トランプ大統領",
+          "stance": "support",
+          "claim": "FIFA会長にアメリカ代表選手のレッドカード処分の見直しを要請した。",
+          "span": "再検討求める",
+          "reason": "レッドカード処分が不公平であると考えているため。",
+          "attr": null,
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
         },
         {
-          "t": "NBA八村塁選手が、レイカーズからフリーエージェントとなり、クリッパーズとの2年契約に合意したとアメリカの複数のメディアが報じた。",
-          "span": "NBA＝アメリカプロバスケットボールで、レイカーズからフリーエージェントとなっていた八村塁選手が、クリッパーズとの2年契約に合意したとアメリカの複数のメディアが伝えました",
+          "actor": "指揮官たち",
+          "stance": "attack",
+          "claim": "レッドカード処分猶予の決定に疑問を呈し、ワールドカップの価値を傷つけると批判している。",
+          "span": "首かしげる",
+          "reason": null,
+          "attr": null,
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "actor": "コメディアンのトレバー・ノア",
+          "stance": "attack",
+          "claim": "トランプ大統領の介入を「政府の介入」だと揶揄した。",
+          "span": "“government interference.”",
+          "reason": null,
+          "attr": null,
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "アメリカ代表のバログン選手はレッドカードによる出場停止処分を猶予され、ベルギー戦に先発出場した。これに対し、トランプ大統領はFIFA会長に処分の見直しを要請したことを認め、一部の指揮官やコメディアンからは批判的な見解が示されており、評価は割れている。",
+      "note": null
+    },
+    {
+      "headline": "NBA八村 クリッパーズと“２年契約に合意”米複数メディア",
+      "slug": "NBA八村クリッパズと年契約に合意米複数メディア",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015170491000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587009?source=rss"
+        }
+      ],
+      "issue": "NBA八村塁選手のクリッパーズとの契約合意",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "NBAの八村塁選手は、ロサンゼルス・レイカーズからフリーエージェントとなっていた。",
+          "span": "レイカーズからフリーエージェントとなっていた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "八村塁選手がロサンゼルス・クリッパーズと2年契約に合意したと報じられている。",
+          "span": "クリッパーズとの2年契約に合意した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この契約合意の情報は、アメリカの複数のメディアによって伝えられた。",
+          "span": "アメリカの複数のメディアが伝えました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "NBAの八村塁選手がクリッパーズと2年契約に合意したと、アメリカの複数のメディアが報じている。"
+    },
+    {
+      "headline": "皇室典範改正案は「皇室おとしめる」　立民・水岡代表が批判",
+      "slug": "皇室典範改正案は皇室おとしめる立民水岡代表が批判",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015170351000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070600448&g=pol&m=rss"
+        }
+      ],
+      "issue": "皇室典範改正案は皇室を貶めるものか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "参議院で与党側が予算委員会の集中審議などの開催に応じた。",
+          "span": "予算委員会の集中審議などの開催に応じた",
           "src": [
             {
               "ty": "press",
@@ -110,29 +275,29 @@
           ]
         },
         {
-          "t": "八村塁選手がクリッパーズに移籍したと報じられた。",
-          "span": "八村塁がクリッパーズ移籍 米報道",
+          "t": "参議院で7日から法案審議が再開される。",
+          "span": "7日から法案審議が再開されます",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "トランプ氏は、NATO首脳会議前にイタリア首相に「接近禁止命令」を出すよう求めた。",
-          "span": "伊首相に「接近禁止命令」？　ＮＡＴＯ首脳会議前に―トランプ氏",
+          "t": "衆議院では、皇族数の確保に向けた皇室典範改正案の審議入りなどをめぐって与野党対立が続いている。",
+          "span": "皇族数の確保に向けた皇室典範改正案の審議入りなどをめぐって対立が続いています",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "サッカーW杯アメリカ代表のバログン選手は、処分猶予を受けベルギー戦に先発出場した。トランプ大統領はFIFA会長に再検討を求めたが、FIFA会長は独立判断だと強調した。NBA八村塁選手はクリッパーズとの2年契約に合意したと報じられた。評価は割れる。",
-      "note": "プライバシー配慮のため、一般私人の実名は伏せています。トランプ氏に関する情報は公人としての発言に基づいています。"
+      "consensus": "衆議院で皇族数の確保に向けた皇室典範改正案の審議入りをめぐり対立が続いているが、その評価は割れる。",
+      "note": null
     },
     {
       "headline": "ネアンデルタール人、貝をめでる　現生人類祖先と価値観共通―京大など",
@@ -197,118 +362,6 @@
       "positions": [],
       "consensus": "トルコ南部の洞窟で、ネアンデルタール人とホモ・サピエンスの文化交流の可能性を示す貝が発見され、京都大学などの研究グループが発表した。この発見に対する評価は、記事中では割れていない。",
       "note": ""
-    },
-    {
-      "headline": "皇室典範改正案は「皇室おとしめる」　立民・水岡代表が批判",
-      "slug": "皇室典範改正案は皇室おとしめる立民水岡代表が批判",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015170351000"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026070600448&g=pol&m=rss"
-        }
-      ],
-      "issue": "皇室典範改正案は皇室を貶めるものか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "参議院で与党側が予算委員会の集中審議などの開催に応じた。",
-          "span": "予算委員会の集中審議などの開催に応じた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "参議院で7日から法案審議が再開される。",
-          "span": "7日から法案審議が再開されます",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "衆議院では、皇族数の確保に向けた皇室典範改正案の審議入りなどをめぐって与野党対立が続いている。",
-          "span": "皇族数の確保に向けた皇室典範改正案の審議入りなどをめぐって対立が続いています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "衆議院で皇族数の確保に向けた皇室典範改正案の審議入りをめぐり対立が続いているが、その評価は割れる。",
-      "note": null
-    },
-    {
-      "headline": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-      "slug": "ResistanceandrevengeIran",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/7/7/iran-war-live-khameneis-body-arrives-in-qom-hamas-cedes-gaza-governance?traffic_source=rss"
-        }
-      ],
-      "issue": "イランのハメネイ師への追悼は政治的意図を持っていたか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "ハメネイ師の遺体がゴムに到着した。",
-          "span": "Khamenei’s body arrives in Qom",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ハマスはガザの統治体を解散した。",
-          "span": "Hamas dissolves its governing body in Gaza",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ハマスの統治体解散は、テクノクラート委員会が引き継ぐ道を開いた。",
-          "span": "paving the way for a technocratic committee to take over",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ハメネイ師の遺体がゴムに到着し、ハマスがガザの統治体を解散したことは事実として報じられている。イランの追悼が政治的意図を持っていたかについては、BBCがそのように解釈しているが、他の評価は示されていない。",
-      "note": null
     }
   ]
 }
