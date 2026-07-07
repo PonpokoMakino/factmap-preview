@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ファクトマップ｜料金（試作・実決済はまだ）</title>
+<title>ファクトマップ｜料金</title>
 <style>
   :root{
     --bg:#fbfbfa; --bg-2:#f4f4f2; --ink:#15181d; --ink-2:#4b515b; --ink-3:#6b7280;
@@ -58,9 +58,9 @@
 <body>
 <div class="wrap">
   <a class="back" href="home.html">← ホームへ</a>
-  <div class="title">料金 <span class="mock">試作・実決済はまだ</span></div>
+  <div class="title">料金</div>
   <p class="lead">事実を読むこと・論点マップを見ることは<b>ずっと無料</b>。世界中の言語で読む等の便利機能だけが、月150円のサポーターです。</p>
-  <div class="banner">⚠️ これは画面の試作です。実際の決済（クレジットカード）は、公開時に Stripe で用意します（牧野様のアカウント・口座登録が要ります）。今は「形」だけお見せしています。</div>
+  <div class="banner">決済は Stripe の安全なページで行われます（カード情報は当サービスを経由しません）。<b>初月30日間は無料</b>・その後は月150円・<b>解約はいつでもワンクリック</b>です。</div>
 
   <div class="plans">
     <div class="plan">
@@ -88,7 +88,7 @@
         <li>新機能の先行利用</li>
         <li>＝中立インフラを支えるサポーター</li>
       </ul>
-      <button class="btn primary" id="subscribeBtn" onclick="startSubscribe()">初月無料で始める（テスト運用中）</button>
+      <button class="btn primary" id="subscribeBtn" onclick="startSubscribe()">初月無料で始める</button>
     </div>
   </div>
   <p class="note">※サポーターでも<b>見られる事実・意見は無料プランと同じ</b>です。お金で「見られる事実・発言力」は変わりません（中立の平等アクセス）。変わるのは便利さだけ。<br>※便利機能は<b>30日間お試し無料</b>→その後サポーター。<b>事実を読むこと・論点マップは30日後もずっと無料</b>（事実にペイウォールはかけません）。解約はいつでも簡単に。</p>
@@ -109,8 +109,8 @@
 <script>
 /* Stripe決済リンク（Payment Link）。牧野様がStripeでリンクを発行したらここに貼るだけで実決済に切り替わる。
    空の間は試作の案内を出す。※本番モード（実際のお金）へ進む時は重要案件＝真矢ミキ統括＋牧野様判断。 */
-// Stripe決済リンク（2026-07-06 テストモードで接続）。本番公開時に本番リンク(test_なし)へ差し替え。
-var STRIPE_LINK = 'https://buy.stripe.com/test_3cI28sa7l9xU8Pi7jg8AE00';
+// Stripe決済リンク（2026-07-07 ★本番Payment Linkへ切替★牧野様GO・真矢ミキ統括立会い）。
+var STRIPE_LINK = 'https://buy.stripe.com/fZudRabixcrPbcf35z9fW00';
 /* 導線別計測（収益化エンジン§4）：?via=<導線名> を client_reference_id としてStripeへ渡す。
    「誰が」は記録しない・「どこから」だけ＝追跡ゼロのプライバシーポリシーと両立。 */
 var VIA = (new URLSearchParams(location.search).get('via') || 'direct').replace(/[^a-zA-Z0-9_-]/g, '').slice(0, 40) || 'direct';
