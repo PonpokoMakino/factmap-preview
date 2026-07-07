@@ -57,7 +57,7 @@
 </head>
 <body>
 <div class="wrap">
-  <a class="back" href="index.html">← ホームへ</a>
+  <a class="back" href="home.html">← ホームへ</a>
   <div class="title">料金 <span class="mock">試作・実決済はまだ</span></div>
   <p class="lead">事実を読むこと・論点マップを見ることは<b>ずっと無料</b>。世界中の言語で読む等の便利機能だけが、月150円のサポーターです。</p>
   <div class="banner">⚠️ これは画面の試作です。実際の決済（クレジットカード）は、公開時に Stripe で用意します（牧野様のアカウント・口座登録が要ります）。今は「形」だけお見せしています。</div>
@@ -103,6 +103,8 @@
     <button class="btn primary" style="margin-top:12px" onclick="navigator.clipboard&&navigator.clipboard.writeText('https://factmap.example/invite/FACT-7K2P');this.textContent='招待リンクをコピーしました（試作）'">招待リンクをコピー</button>
   </div>
   <p class="note">※バランス設定（紹介1人=1ヶ月無料・累積上限12ヶ月）は試作値です。実データを見ながら調整します（太すぎれば上限を下げる等）。<br>狙い：安く広く（薄利多売）＋口コミで広げる。核は無料なので、紹介された人もまず無料で中立な事実に触れられます。</p>
+
+  <p class="note" style="margin-top:22px; padding-top:14px; border-top:1px solid var(--line);"><a href="legal.html" style="color:var(--accent)">特定商取引法に基づく表記・利用規約・プライバシーポリシー</a>／解約はいつでも簡単にできます（ダークパターン禁止）。</p>
 </div>
 <script>
 /* Stripe決済リンク（Payment Link）。牧野様がStripeでリンクを発行したらここに貼るだけで実決済に切り替わる。
