@@ -1,159 +1,54 @@
 {
-  "rankedAt": "2026-07-08T18:41:27.911Z",
+  "rankedAt": "2026-07-08T20:11:59.856Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "エボラ出血熱など感染症対応強化 医療機関集約や基準見直しへ",
-      "slug": "エボラ出血熱など感染症対応強化医療機関集約や基準",
-      "time": "2026-07-08T17:00:00.000Z",
-      "independentSources": 2,
+      "headline": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+      "slug": "Trumpthreatensmorestrike",
+      "time": "2026-07-08T19:39:00.000Z",
+      "independentSources": 5,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 地震・火山"
-      ],
-      "count": 8,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "エボラ出血熱など感染症対応強化 医療機関集約や基準見直しへ",
-          "snippet": "エボラ出血熱など、危険性が最も高い「1類感染症」の患者が国内で発生した場合の対応を強化するため、厚生労働省は、重症患者の受け入れを必要な体制が整った医療機関に集約し、都道府県の範囲を超えて患者を移送す…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015172081000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708170051_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、９日０９時から１２時までは火口から北東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708170031_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、９日０９時から１２時までは火口から北東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708170034_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708170037_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708170041_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、９日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708170045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、９日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708170048_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-      "slug": "Teenagerarrestedaftertwo",
-      "time": "2026-07-08T18:05:31.000Z",
-      "independentSources": 2,
-      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 6,
+      "count": 16,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
-          "snippet": "Speaking at a Nato summit, the president says the US will \"probably\" strike Iran again but added that \"anything that hap",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+          "title": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
+          "snippet": "アメリカのトランプ大統領は8日、イラン情勢について「イランは非常に悪いふるまいをしている。昨夜、彼らが無人機やミサイルなどで攻撃したあと、われわれは彼らを激しく攻撃した」と述べました。その上で「われわ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015171371000",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "US strikes target Iranian military boats",
-          "snippet": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+          "title": "トランプ氏 迎撃ミサイル「生産権利与える」ゼレンスキー氏に",
+          "snippet": "アメリカのトランプ大統領はウクライナのゼレンスキー大統領との首脳会談でウクライナが求めているアメリカ製の防空システム「パトリオット」で使う迎撃ミサイルをめぐり、ウクライナによる生産を容認する考えを示し…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015172341000",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "German doctor jailed for murder of 15 patients and suspected of more",
-          "snippet": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+          "title": "NY株式市場 ダウ一時800ドル超値下がり",
+          "snippet": "8日のニューヨーク株式市場ではイラン情勢の先行きに対する不透明感から売り注文が広がり、ダウ平均株価は前日の終値と比べて一時、800ドルを超える値下がりとなりました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015172411000",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
-          "snippet": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
+          "title": "米 ウにパトリオット生産を容認へ",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587235?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
-        {
-          "title": "Eight killed after landslide hits girls' school in Bangladesh",
-          "snippet": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Pakistan military says 42 killed in fighter attacks in Balochistan",
-          "snippet": "Military spokesman warns fighters &#039;we will chase you, we will hurt you&#039; amid the spate of deadly ambushes.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/8/pakistan-military-says-42-killed-in-fighter-attacks-in-balochistan?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "米、イランに強力攻撃　制裁緩和措置も撤回―トランプ氏「停戦終わった」",
-      "slug": "米イランに強力攻撃制裁緩和措置も撤回トランプ氏停",
-      "time": "2026-07-08T14:37:14.000Z",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
         {
           "title": "米大統領 イランと日本言い間違え",
           "snippet": "",
@@ -177,21 +72,110 @@
           "link": "https://www.jiji.com/jc/article?k=2026070800517&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
+        },
+        {
+          "title": "パトリオット製造認める　ウクライナ大統領と会談―トランプ氏",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070800885&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "トランプ氏、ＮＡＴＯ会議で同盟国非難　対イラン作戦巡り不満",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070800805&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "イランとの衝突、「ごく短期間」　トランプ氏",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026070900153&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+          "snippet": "Speaking at a Nato summit, the president says the US will \"probably\" strike Iran again but added that \"anything that hap",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "US strikes target Iranian military boats",
+          "snippet": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+          "snippet": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Nato allies announce £37bn for new missile project",
+          "snippet": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Israeli air strikes in Gaza kill eight, including two children",
+          "snippet": "Medics report 12 injuries alongside eight deaths in Gaza as Israeli air strikes target civilians and displaced families.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Trump says he ‘may be gone’ as he declares himself Iran’s No. 1 target",
+          "snippet": "US President Donald Trump declared himself Iran’s ‘No. 1 target’ after claiming their leaders have been eliminated",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-he-may-be-gone-as-he-declares-himself-irans-no-1-target?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
     {
       "headline": "特捜部検事、捜査対象女性と不適切交際　裏金事件主任、最高検が処分検討か",
       "slug": "特捜部検事捜査対象女性と不適切交際裏金事件主任最",
-      "time": "2026-07-08T14:18:00.000Z",
-      "independentSources": 2,
+      "time": "2026-07-08T20:07:09.000Z",
+      "independentSources": 3,
       "sources": [
+        "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
-      "count": 2,
+      "count": 4,
       "hasPrimary": false,
       "members": [
+        {
+          "title": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
+          "snippet": "東京地検特捜部に去年まで在籍していた48歳の男性検事が、事件の捜査で取り調べをした女性と不適切な関係を持った疑いがあることが、関係者への取材で分かりました。最高検察庁は、男性検事の処分を検討していると…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015172421000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "同居女性の唇縫い付け事件“トラブルで怒りだした”被害者説明",
+          "snippet": "茨城県古河市の住宅で同居していた女性の唇を縫い付けてけがをさせたとして49歳の女の容疑者が逮捕された事件で、被害者の女性が「トラブルで容疑者が怒りだし、唇を縫われた」と説明していることが捜査関係者への…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015172391000",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "検事 元容疑者の女性と不適切交際",
           "snippet": "",
@@ -205,6 +189,36 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026070801341&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "サッカー 三笘薫選手 車を運転中に自転車と衝突 女性けが",
+      "slug": "サッカ三笘薫選手車を運転中に自転車と衝突女性けが",
+      "time": "2026-07-08T14:05:15.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "サッカー 三笘薫選手 車を運転中に自転車と衝突 女性けが",
+          "snippet": "8日午前、サッカーの三笘薫選手が運転する車が東京 板橋区の交差点で自転車と衝突し、相手の40代の女性がけがをしました。三笘選手の車が赤信号の交差点に進入したとみられるということで、警視庁が事故の状況を…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015172141000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "三笘選手事故 双方赤信号で進行か",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587230?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -241,83 +255,46 @@
       ]
     },
     {
-      "headline": "トランプ氏 迎撃ミサイル「生産権利与える」ゼレンスキー氏に",
-      "slug": "トランプ氏迎撃ミサイル生産権利与えるゼレンスキ氏",
-      "time": "2026-07-08T16:27:19.000Z",
+      "headline": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+      "slug": "Teenagerarrestedaftertwo",
+      "time": "2026-07-08T15:09:08.000Z",
       "independentSources": 1,
       "sources": [
-        "NHK 主要ニュース"
+        "BBC World"
       ],
       "count": 3,
       "hasPrimary": false,
       "members": [
         {
-          "title": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
-          "snippet": "アメリカのトランプ大統領は8日、イラン情勢について「イランは非常に悪いふるまいをしている。昨夜、彼らが無人機やミサイルなどで攻撃したあと、われわれは彼らを激しく攻撃した」と述べました。その上で「われわ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015171371000",
+          "title": "German doctor jailed for murder of 15 patients and suspected of more",
+          "snippet": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "NY株式市場 ダウ一時800ドル超値下がり",
-          "snippet": "8日のニューヨーク株式市場ではイラン情勢の先行きに対する不透明感から売り注文が広がり、ダウ平均株価は前日の終値と比べて一時、800ドルを超える値下がりとなりました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015172411000",
+          "title": "Teenager arrested after two girls, 13, seriously injured in German school attack",
+          "snippet": "Police said a major operation was under way in the area of Welfen-Gymnasium secondary school in Schongau, Bavaria.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c0qyvkgndzpo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "トランプ氏 迎撃ミサイル「生産権利与える」ゼレンスキー氏に",
-          "snippet": "アメリカのトランプ大統領はウクライナのゼレンスキー大統領との首脳会談でウクライナが求めているアメリカ製の防空システム「パトリオット」で使う迎撃ミサイルをめぐり、ウクライナによる生産を容認する考えを示し…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015172341000",
+          "title": "Eight killed after landslide hits girls' school in Bangladesh",
+          "snippet": "Rescuers pull bodies from the mud after heavy monsoon rains batter the south-eastern coast.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
-      "slug": "FarrightleaderLePenstart",
-      "time": "2026-07-08T17:55:38.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "France returns Syrian artefacts it’s held since civil war",
-          "snippet": "France has returned 23 Syrian antique artefacts it’s held since the outbreak of the 2011 civil war.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/france-returns-syrian-artefacts-its-held-since-civil-war?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US charges Indian crime leader in Sikh activist’s assassination",
-          "snippet": "US indicts Indian crime boss, links him to Sikh leader&#039;s killing that strained India-Canada relations.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/8/us-charges-indian-crime-leader-in-sikh-activists-assassination?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Far-right leader Le Pen starts campaign, faces mixed reactions in France",
-          "snippet": "A court ruling has allowed Le Pen to campaign despite embezzlement conviction, sparking heated debates across France.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/8/far-right-leader-le-pen-starts-campaign-faces-mixed-reactions-in-france?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-08T16:50:06.000Z",
+      "headline": "府県気象解説情報",
+      "slug": "府県気象解説情報",
+      "time": "2026-07-08T20:00:08.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -326,47 +303,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【高知県気象警報・注意報】高知県では、高波に注意してください。",
+          "title": "府県気象情報",
+          "snippet": "【奄美地方（鹿児島県）気象解説情報（台風第９号）】奄美地方の沿岸の海域では１０日未明から１２日頃にかけてうねりを伴った高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708165007_0_VPWW53_390000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200008_0_VPFJ50_460040.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【高知県気象警報・注意報】高知県では、高波に注意してください。",
+          "title": "府県気象解説情報",
+          "snippet": "【奄美地方（鹿児島県）気象解説情報（台風第９号）】奄美地方の沿岸の海域では１０日未明から１２日頃にかけてうねりを伴った高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708165007_0_VPWW54_390000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-08T16:49:51.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【徳島県気象警報・注意報】南部では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708164952_0_VPWW53_360000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【徳島県気象警報・注意報】南部では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708164952_0_VPWW54_360000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200008_0_VPFJ51_460040.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -375,7 +323,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-07-08T13:57:50.000Z",
+      "time": "2026-07-08T19:58:57.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -385,90 +333,77 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波に注意してください。",
+          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708135751_0_VPWW54_472000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708195858_0_VPWW54_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波に注意してください。",
+          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708135751_0_VPWW53_472000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708195858_0_VPWW53_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Ukraine to get licence to produce Patriot missiles, Trump says",
-      "slug": "Ukrainetogetlicencetopro",
-      "time": "2026-07-08T17:18:14.000Z",
+      "headline": "地方気象解説情報",
+      "slug": "地方気象解説情報",
+      "time": "2026-07-08T19:58:30.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "気象庁 気象警報・注意報"
       ],
       "count": 2,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-          "snippet": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "地方気象解説情報",
+          "snippet": "【九州南部・奄美地方気象解説情報（台風第９号）】台風第９号は、フィリピンの東を北西に進み、奄美地方ではうねりを伴い波が高くなる見込みです。１０日未明から１２日頃にかけてうねりを伴った高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708195830_0_VPCJ51_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
-          "title": "Nato allies announce £37bn for new missile project",
-          "snippet": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "地方気象情報",
+          "snippet": "【九州南部・奄美地方気象解説情報（台風第９号）】台風第９号は、フィリピンの東を北西に進み、奄美地方ではうねりを伴い波が高くなる見込みです。１０日未明から１２日頃にかけてうねりを伴った高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708195830_0_VPCJ50_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
-      "slug": "元東京地検特捜部の男性検事捜査対象の女性と不適切",
-      "time": "2026-07-08T17:26:22.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-07-08T19:58:30.000Z",
       "independentSources": 1,
       "sources": [
-        "NHK 主要ニュース"
+        "気象庁 気象警報・注意報"
       ],
-      "count": 1,
-      "hasPrimary": false,
+      "count": 2,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
-          "snippet": "東京地検特捜部に去年まで在籍していた48歳の男性検事が、事件の捜査で取り調べをした女性と不適切な関係を持った疑いがあることが、関係者への取材で分かりました。最高検察庁は、男性検事の処分を検討していると…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015172421000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "サッカー 三笘薫選手 車を運転中に自転車と衝突 女性けが",
-      "slug": "サッカ三笘薫選手車を運転中に自転車と衝突女性けが",
-      "time": "2026-07-08T10:59:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708195830_0_VPWW54_472000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
         {
-          "title": "サッカー 三笘薫選手 車を運転中に自転車と衝突 女性けが",
-          "snippet": "8日午前、サッカーの三笘薫選手が運転する車が東京 板橋区の交差点で自転車と衝突し、相手の40代の女性がけがをしました。三笘選手の車が赤信号の交差点に進入したとみられるということで、警視庁が事故の状況を…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015172141000",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708195830_0_VPWW53_472000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -488,27 +423,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6587218?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "米 ウにパトリオット生産を容認へ",
-      "slug": "米ウにパトリオット生産を容認へ",
-      "time": "2026-07-08T14:50:23.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "米 ウにパトリオット生産を容認へ",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587235?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -557,27 +471,6 @@
       ]
     },
     {
-      "headline": "三笘選手事故 双方赤信号で進行か",
-      "slug": "三笘選手事故双方赤信号で進行か",
-      "time": "2026-07-08T14:05:15.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "三笘選手事故 双方赤信号で進行か",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587230?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "MF鎌田大地 クラブと契約延長",
       "slug": "MF鎌田大地クラブと契約延長",
       "time": "2026-07-08T13:49:40.000Z",
@@ -620,9 +513,9 @@
       ]
     },
     {
-      "headline": "熱気の陰で批判も　経済苦境下で「国葬優先」―イラン",
-      "slug": "熱気の陰で批判も経済苦境下で国葬優先イラン",
-      "time": "2026-07-08T15:20:00.000Z",
+      "headline": "９日の予告先発投手　プロ野球セ・リーグ",
+      "slug": "日の予告先発投手プロ野球セリグ",
+      "time": "2026-07-08T08:40:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -631,19 +524,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "熱気の陰で批判も　経済苦境下で「国葬優先」―イラン",
+          "title": "９日の予告先発投手　プロ野球セ・リーグ",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026070700821&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026070801027&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "トランプ氏、対イラン「今夜激しい攻撃」",
-      "slug": "トランプ氏対イラン今夜激しい攻撃",
-      "time": "2026-07-08T13:21:00.000Z",
+      "headline": "〔ＮＹ金〕続落、４０８２．４０ドル（８日）",
+      "slug": "金続落ドル日",
+      "time": "2026-07-08T18:17:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -652,10 +545,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "トランプ氏、対イラン「今夜激しい攻撃」",
+          "title": "〔ＮＹ金〕続落、４０８２．４０ドル（８日）",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026070801301&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026070900125&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -683,65 +576,170 @@
       ]
     },
     {
-      "headline": "典範審議「中継入り」に　野党反発、自民が転換",
-      "slug": "典範審議中継入りに野党反発自民が転換",
-      "time": "2026-07-08T11:15:00.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-08T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "気象庁 地震・火山"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "典範審議「中継入り」に　野党反発、自民が転換",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026070801191&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200052_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "パトリオット製造認める　ウクライナ大統領と会談―トランプ氏",
-      "slug": "パトリオット製造認めるウクライナ大統領と会談トラ",
-      "time": "2026-07-08T14:32:00.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-08T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "気象庁 地震・火山"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "パトリオット製造認める　ウクライナ大統領と会談―トランプ氏",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026070800885&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から北西方向に",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200055_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "トランプ氏、ＮＡＴＯ会議で同盟国非難　対イラン作戦巡り不満",
-      "slug": "トランプ氏会議で同盟国非難対イラン作戦巡り不満",
-      "time": "2026-07-08T16:58:00.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-08T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "気象庁 地震・火山"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "トランプ氏、ＮＡＴＯ会議で同盟国非難　対イラン作戦巡り不満",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026070800805&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、９日０９時から１２時までは火口から北東方向、９日２１時から２４時までは火口から北東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200030_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200033_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、９日０９時から１２時までは火口から東方向、９日２１時から２４時までは火口から北東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200037_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200041_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708200048_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -767,30 +765,9 @@
       ]
     },
     {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-07-08T14:36:41.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　８日２３時３３分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708143641_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（波浪）",
-      "slug": "気象警報注意報波浪",
-      "time": "2026-07-08T16:49:56.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-07-08T19:58:53.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -799,52 +776,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（波浪）",
-          "snippet": "【高知県波浪警報・注意報】高知県では、高波に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【長野県濃霧注意報】中部では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708164957_0_VPWW59_390000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（波浪）",
-      "slug": "気象警報注意報波浪",
-      "time": "2026-07-08T16:49:44.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（波浪）",
-          "snippet": "【徳島県波浪警報・注意報】南部では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708164945_0_VPWW59_360000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-07-08T15:40:28.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708154029_0_VPTW61_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708195854_0_VPWW61_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -853,7 +788,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-07-08T13:57:49.000Z",
+      "time": "2026-07-08T19:58:28.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -865,7 +800,7 @@
           "title": "気象警報・注意報（Ｈ２７）",
           "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708135750_0_VPWW54_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260708195830_0_VPWW54_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -935,9 +870,9 @@
       ]
     },
     {
-      "headline": "Spanish football legend Alexia Putellas joins London City Lionesses",
-      "slug": "SpanishfootballlegendAle",
-      "time": "2026-07-08T18:25:13.000Z",
+      "headline": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
+      "slug": "MarineLePenclearedtoruni",
+      "time": "2026-07-08T20:06:38.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -946,19 +881,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Spanish football legend Alexia Putellas joins London City Lionesses",
-          "snippet": "Women&#039;s Super League club lands the two-time Ballon d&#039;Or winner after her exit from Barcelona following a 14-y",
+          "title": "Marine Le Pen cleared to run in France’s 2027 Presidential election",
+          "snippet": "A French court ruling has reopened Marine Le Pen’s path to the 2027 presidential election.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/8/spanish-football-legend-alexia-putellas-joins-london-city-lionesses?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/marine-le-pen-cleared-to-run-in-frances-2027-presidential-election?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "How Morocco can win the FIFA World Cup 2026 title",
-      "slug": "HowMoroccocanwintheFIFAW",
-      "time": "2026-07-08T17:42:44.000Z",
+      "headline": "Trump ordered to pay E Jean Carroll $5.8m after failed appeal",
+      "slug": "TrumporderedtopayEJeanCa",
+      "time": "2026-07-08T19:58:00.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -967,19 +902,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "How Morocco can win the FIFA World Cup 2026 title",
-          "snippet": "Morocco has long dreamed of a World Cup title.  Now, the trophy is finally within reach - can they seize the moment?",
+          "title": "Trump ordered to pay E Jean Carroll $5.8m after failed appeal",
+          "snippet": "Trump ordered to pay $5.8m after the US Supreme Court rejected his appeal in the Carroll defamation and abuse case.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/opinions/2026/7/8/how-morocco-can-win-the-fifa-world-cup-2026-title?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/8/trump-ordered-to-pay-e-jean-carroll-5-8m-after-failed-appeal?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-      "slug": "NATOpledges70billioneuro",
-      "time": "2026-07-08T17:24:45.000Z",
+      "headline": "Search under way for crew of Pakistani cargo plane that crashed into sea",
+      "slug": "SearchunderwayforcrewofP",
+      "time": "2026-07-08T19:51:38.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -988,19 +923,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-          "snippet": "Trump says US will &#039;show&#039; Ukraine how to produce Patriot missile systems during a friendly appearance with Zel",
+          "title": "Search under way for crew of Pakistani cargo plane that crashed into sea",
+          "snippet": "Rescuers have located submerged wreckage from the aircraft that disappeared as it approached Karachi.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/8/search-under-way-for-crew-of-pakistani-cargo-plane-that-crashed-into-sea?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-      "slug": "TheStraitofHormuzisnowat",
-      "time": "2026-07-08T16:48:31.000Z",
+      "headline": "Five key takeaways from the NATO summit in Ankara",
+      "slug": "FivekeytakeawaysfromtheN",
+      "time": "2026-07-08T19:06:35.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1009,19 +944,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "The Strait of Hormuz is now at the centre of Iranian and US calculus",
-          "snippet": "The fate of the strait is directly linked to what happens next to the world economy.",
+          "title": "Five key takeaways from the NATO summit in Ankara",
+          "snippet": "Trump dominates summit with anti-Europe and Iran diatribes as NATO pledges to expand defence budgets and Ukraine support",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-      "slug": "Egyptcriticisesinfluenti",
-      "time": "2026-07-08T16:41:58.000Z",
+      "headline": "Argentina fans accused of violence, racism by Egypt, Cape Verde supporters",
+      "slug": "Argentinafansaccusedofvi",
+      "time": "2026-07-08T18:58:39.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1030,19 +965,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Egypt criticises ‘influential refereeing’ in Argentina World Cup match",
-          "snippet": "Egyptian football officials have reportedly lodged a complaint with FIFA against the referees in their last-16 match.",
+          "title": "Argentina fans accused of violence, racism by Egypt, Cape Verde supporters",
+          "snippet": "Fans tell Al Jazeera Argentina supporters hurled beer bottles and abuse at them when their team scored in knockout games",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/8/egypt-criticises-influential-refereeing-in-argentina-world-cup-match?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/7/8/argentina-fans-accused-of-violence-racism-by-egypt-cape-verde-supporters?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Oil for unity: What is the US mediation plan in Libya?",
-      "slug": "OilforunityWhatistheUSme",
-      "time": "2026-07-08T16:04:52.000Z",
+      "headline": "Mass cleanup underway after severe flooding in China",
+      "slug": "Masscleanupunderwayafter",
+      "time": "2026-07-08T18:58:17.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1051,10 +986,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Oil for unity: What is the US mediation plan in Libya?",
-          "snippet": "The plan, led by Trump relative Massad Boulos, promises oil investments if rival factions work together.",
+          "title": "Mass cleanup underway after severe flooding in China",
+          "snippet": "Residents and volunteers in China’s Guangxi province have begun clearing up their flooded homes.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/8/oil-for-unity-what-is-the-us-mediation-plan-in-libya?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/mass-cleanup-underway-after-severe-flooding-in-china?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Trump says US ‘may take over Kharg Island’: Here’s what you need to know",
+      "slug": "TrumpsaysUSmaytakeoverKh",
+      "time": "2026-07-08T18:52:13.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Trump says US ‘may take over Kharg Island’: Here’s what you need to know",
+          "snippet": "Kharg Island, pivotal to Iran&#039;s oil exports, becomes focal point as Trump renews threats amid rising Gulf tensions.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/8/trump-says-us-may-take-over-kharg-island-heres-what-you-need-to-know?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
+      "slug": "WaronGazadrawslargecrowd",
+      "time": "2026-07-08T18:51:32.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "War on Gaza draws large crowds to Khamenei’s funeral in Iraq",
+          "snippet": "More than a million mourners packed streets in Najaf, Iraq for Iranian Supreme Leader Ali Khamenei’s funeral procession.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/war-on-gaza-draws-large-crowds-to-khameneis-funeral-in-iraq?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
