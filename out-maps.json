@@ -1,7 +1,80 @@
 {
-  "builtAt": "2026-07-10T23:11:23.864Z",
+  "builtAt": "2026-07-11T00:12:43.962Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
+    {
+      "headline": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
+      "slug": "Applefileslawsuitaccusin",
+      "independentSources": 3,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587501?source=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss"
+        }
+      ],
+      "issue": "AppleのOpenAIに対する営業秘密流用訴訟は正当か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "AppleがOpenAIとその従業員に対し、営業秘密の流用を主張する訴訟を提起した。",
+          "span": "claiming theft of trade secrets",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "訴状は、元Apple従業員2名とOpenAIによる機密情報の窃盗における組織的な取り組みを主張している。",
+          "span": "coordinated effort by two former Apple employees and OpenAI to steal confidential information",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "OpenAIは新興のハードウェア事業を展開している。",
+          "span": "OpenAI’s nascent hardware business",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "評価は割れる／アプリは裁定しない",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
     {
       "headline": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
       "slug": "宮古島八重山地方11日明け方夕方線状降水帯発生の",
@@ -149,249 +222,8 @@
       }
     },
     {
-      "headline": "アメリカは状況次第で攻撃する考え イランは対抗する姿勢",
-      "slug": "アメリカは状況次第で攻撃する考えイランは対抗する",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174231000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587484?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071100141&g=int&m=rss"
-        }
-      ],
-      "issue": "米イラン間の緊張は緩和されるか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "米イラン協議が近く再開する可能性があると報じられている。",
-          "span": "米イラン協議 近く再開する可能性",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "ドナルド・トランプ（アメリカ大統領）",
-          "stance": "support",
-          "claim": "イランとの協議継続に応じる姿勢を示している。",
-          "span": "イランとの協議の継続に応じる姿勢を示し",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "ドナルド・トランプ（アメリカ大統領）",
-          "stance": "attack",
-          "claim": "状況次第でイランを攻撃する考えを示唆している。",
-          "span": "状況次第でイランを攻撃する考えを示唆しています",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "ドナルド・トランプ（アメリカ大統領）",
-          "stance": "attack",
-          "claim": "「停戦終了」と再び言及した。",
-          "span": "「停戦終了」と再び言及",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "ドナルド・トランプ（アメリカ大統領）",
-          "stance": "support",
-          "claim": "対イラン協議に同意した。",
-          "span": "対イラン協議には同意",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "ガリバフ議長（イラン）",
-          "stance": "attack",
-          "claim": "アメリカから攻撃を受ければ対抗する姿勢を示している。",
-          "span": "アメリカから攻撃を受けれ",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "consensus": "米イラン協議再開の可能性が報じられている一方で、アメリカ大統領は協議継続に応じる姿勢と攻撃を示唆する姿勢の両方を示し、「停戦終了」にも言及。イラン側はアメリカからの攻撃に対し対抗する姿勢を見せており、評価は割れる。",
-      "note": "イランのガリバフ議長の発言の原文は途中で途切れているため、spanも途切れた箇所までを記載しています。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "大谷翔平 左ひざ違和感でオールスター辞退 11日の先発登板回避",
-      "slug": "大谷翔平左ひざ違和感でオルスタ辞退11日の先発登",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174271000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587486?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071100195&g=spo&m=rss"
-        }
-      ],
-      "issue": "大谷翔平選手は左ひざの違和感によりオールスターを辞退し、先発登板を回避したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "大谷翔平選手は左ひざに違和感を抱えている。",
-          "span": "左ひざに違和感がある",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "大谷翔平選手の左ひざの違和感は先月痛めた箇所によるものである。",
-          "span": "先月痛めた左ひざ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "大谷翔平選手は左ひざの治療のため、オールスターを欠場する。",
-          "span": "左膝治療のため",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "大谷翔平選手は日本時間11日に予定されていたダイヤモンドバックス戦での先発登板を回避する。",
-          "span": "11日の先発登板回避",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "大谷翔平選手は先発登板を回避する。",
-          "span": "先発登板を回避",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        },
-        {
-          "t": "大谷翔平選手は来週14日、日本時間15日のオールスターゲームを辞退する。",
-          "span": "オールスター辞退",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "大谷翔平選手は球宴を欠場する。",
-          "span": "球宴も欠場",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        },
-        {
-          "t": "大谷翔平選手は球宴を欠場する。",
-          "span": "球宴を欠場",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "大谷翔平選手が左ひざの違和感によりオールスターを辞退し、先発登板を回避したことについては、報道機関間で事実として合意されている。",
-      "note": "本記事は事実の報道のみであり、評価や意見の対立は含まれていません。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "皇室典範改正案 今国会で成立の見通し 参議院審議の日程調整へ",
-      "slug": "皇室典範改正案今国会で成立の見通し参議院審議の日",
+      "headline": "W杯 スペインが4大会ぶりベスト4へ ベルギーとの接戦制す",
+      "slug": "W杯スペインが4大会ぶりベスト4へベルギとの接戦",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -400,19 +232,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174171000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015174131000"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071001060&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026071100215&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071100186&g=spo&m=rss"
         }
       ],
-      "issue": "皇室典範改正案は今国会で成立すべきか？",
-      "stasis": "政策",
+      "issue": "サッカーW杯北中米大会の準々決勝、スペイン対ベルギー戦の結果はどうだったか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "皇族数確保のための皇室典範改正案が10日に衆議院を通過した。",
-          "span": "衆議院を通過",
+          "t": "サッカーワールドカップ北中米大会の準々決勝で、スペインとベルギーが対戦した。",
+          "span": "サッカーワールドカップ北中米大会の準々決勝、スペイン 対 ベルギー",
           "src": [
             {
               "ty": "press",
@@ -421,19 +257,13 @@
           ]
         },
         {
-          "t": "皇室典範改正案は今国会で成立する見通しである。",
-          "span": "",
+          "t": "スペインがベルギーとの接戦を2対1で制した。",
+          "span": "スペインが2対1で接戦を制しました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "皇室典範改正案について、中道・立憲民主党内で賛否が分かれている。",
-          "span": "中道・立民賛否割れる",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -441,82 +271,99 @@
           ]
         },
         {
-          "t": "皇室典範改正案を巡る賛否の対立は、3党合流協議に影響を与える可能性がある。",
-          "span": "３党合流協議に影響",
+          "t": "スペインはワールドカップで4大会ぶりにベスト4（準決勝）に進出した。",
+          "span": "4大会ぶりベスト4へ",
           "src": [
             {
               "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
               "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "スペインは同点の後半43分に途中出場のメリーノ選手がゴールを決め、2対1と勝ち越した。",
+          "span": "同点の後半43分に途中出場のメリーノ選手のゴールで2対1と勝ち越し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
-      "positions": [
+      "positions": [],
+      "consensus": "サッカーW杯北中米大会の準々決勝でスペインがベルギーに2対1で勝利し、ベスト4に進出したことで合意している。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "事実欄（facts[4]）に評価（「厚い選手層」「底知れない」）が混入していたため、positionsに移動し、メタ記述に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "西・東日本できょうも気温上昇 九州は危険な暑さのおそれ",
+      "slug": "西東日本できょうも気温上昇九州は危険な暑さのおそ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
         {
-          "actor": "政府・与党",
-          "stance": "support",
-          "claim": "参議院での審議を急ぎ、今国会会期内で改正案を確実に成立させたいと考えている。",
-          "span": "参議院での審議を急ぎ、会期内で確実に成立させたい",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            0,
-            1
-          ],
-          "counters": [],
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015174241000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587506?source=rss"
+        }
+      ],
+      "issue": "11日の西・東日本での気温上昇と熱中症対策",
+      "stasis": "評価・予測",
+      "facts": [
+        {
+          "t": "11日も西日本と東日本で気温が上昇する見込みである。",
+          "span": "11日も西日本と東日本で気温が上がり",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
             }
           ]
         },
         {
-          "actor": "中道・立憲民主党内",
-          "stance": "attack",
-          "claim": "皇室典範改正案に対し、反対する立場があると報じられている。",
-          "span": "",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
+          "t": "九州では最高気温が38度に達し、危険な暑さとなる恐れがある。",
+          "span": "九州では最高気温が38度と危険な暑さになるおそれがあります",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "中道・立憲民主党内",
-          "stance": "support",
-          "claim": "皇室典範改正案に対し、賛成する立場があると報じられている。",
-          "span": "",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
+              "l": "NHK"
+            },
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース"
             }
           ]
         }
       ],
-      "consensus": "皇室典範改正案が衆議院を通過し、今国会で成立する見通しである。しかし、改正案の今国会での成立の是非については、政府・与党が成立を急ぐ意向を示す一方、中道・立憲民主党内では賛否が分かれている。",
+      "positions": [],
+      "consensus": "11日も西日本と東日本で気温が上昇し、九州では危険な暑さとなる恐れがある。これに対し、熱中症対策の徹底が呼びかけられている。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "facts[1].span: 元テキストに存在する最小核「今国会で成立する見通し」に修正しました。",
-          "positions[1].claim: メタ記述を徹底し、「〜と報じられている」の構造に修正しました。",
-          "positions[1].actor: 元テキストの記述に合わせ、「中道・立憲民主党内の一部」から「中道・立憲民主党内」に修正しました。",
-          "positions[1].span: 「賛否割れる」は賛成・反対両方を示すため、特定の立場を示すspanとしては不適切と判断し、空文字に修正しました。",
-          "positions[2].claim: メタ記述を徹底し、「〜と報じられている」の構造に修正しました。",
-          "positions[2].actor: 元テキストの記述に合わせ、「中道・立憲民主党内の一部」から「中道・立憲民主党内」に修正しました。",
-          "positions[2].span: 「賛否割れる」は賛成・反対両方を示すため、特定の立場を示すspanとしては不適切と判断し、空文字に修正しました。",
-          "fact spanが原文に無い→除去「今国会で成立する見通し…」"
+          "issueがテキストにない対立を前提とした問いになっていたため、記述的なトピックに修正しました。",
+          "positions[0].claimが地の文の断定になっていたため、発言主体によるメタ記述に修正しました。",
+          "positions[0].premisesが欠落していたため、依拠する事実（facts[0], facts[1]）を追加しました。"
         ]
       }
     }
