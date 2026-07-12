@@ -1,17 +1,121 @@
 {
-  "builtAt": "2026-07-12T12:42:24.804Z",
+  "builtAt": "2026-07-12T18:32:57.693Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
-      "slug": "IranattacksfiveGulfnatio",
-      "independentSources": 5,
+      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "slug": "FormerEmirofQatarSheikhH",
+      "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad-in-doha?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/funeral-prayers-held-for-qatars-father-emir-sheikh-hamad?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-will-be-fondly-remembered-across-the?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/uk-ambassador-remembers-former-emir-of-qatar-as-humble-and-humorous?traffic_source=rss"
+        }
+      ],
+      "issue": "ハマド・ビン・ハリーファ・アール＝サーニー前カタール首長はどのように評価されているか？",
+      "stasis": "評価・予測（肯定）",
+      "facts": [
+        {
+          "t": "カタールの前首長ハマド・ビン・ハリーファ・アール＝サーニー氏が74歳で死去した。",
+          "span": "dies aged 74",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ハマド・ビン・ハリーファ・アール＝サーニー氏は1996年に父親に対する無血クーデターを起こして権力を掌握した。",
+          "span": "took power in 1996 after staging a bloodless coup",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "同氏はカタールをガス資源が豊富な国へと変革させた。",
+          "span": "transform Qatar into the gas-ric",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "同氏は1995年から2013年までカタールを統治した。",
+          "span": "ruled Qatar from 1995 to 2013",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "同氏はドーハのルサイル墓地に埋葬される予定である。",
+          "span": "will be laid to rest at Lusail Cemetery in Doha",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "葬儀の祈りがドーハのカタール国立モスクで執り行われた。",
+          "span": "Funeral prayers have been held",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ハマド・ビン・ハリーファ・アール＝サーニー前カタール首長が74歳で死去し、その功績と人柄について肯定的な評価が報じられている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[5].spanが空文字だったため、元テキストから適切な最小核「Funeral prayers have been held」を抽出して修正しました。",
+          "stasisが「評価・予測（割れる）」となっていましたが、テキスト内には肯定的な評価しか存在しないため、「評価・予測（肯定）」に修正しました。",
+          "consensusに「評価は割れる可能性があるが」というテキストにない推測が含まれていたため、その部分を削除し、テキストの内容に即した記述に修正しました。",
+          "fact spanが原文に無い→除去「Funeral prayers ha…」"
+        ]
+      }
+    },
+    {
+      "headline": "米軍「140か所の標的への攻撃完了」不安定な情勢続く",
+      "slug": "米軍140か所の標的への攻撃完了不安定な情勢続く",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
       ],
       "links": [
         {
@@ -19,292 +123,149 @@
           "link": "https://news.web.nhk/newsweb/na/na-k10015174811000"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015175001000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587690?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071200189&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071200121&g=int&m=rss"
-        },
-        {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026071200103&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss"
-        }
-      ],
-      "issue": "イランとアメリカ軍の間で、ホルムズ海峡を巡る軍事衝突はエスカレートするか？",
-      "stasis": "因果の解釈",
-      "facts": [
-        {
-          "t": "イラン革命防衛隊は12日、ホルムズ海峡で船舶がイラン側が定める航路を通らなかったとして警告射撃を行い、海峡を封鎖すると主張した。",
-          "span": "イランの革命防衛隊は12日、ホルムズ海峡で船舶がイラン側が定める航路を通らなかったとして、警告射撃を行い、海峡を封鎖すると主張しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アメリカ軍はコンテナ船が攻撃を受けたとしてイランへの攻撃を開始した。",
-          "span": "アメリカ軍はコンテナ船が攻撃を受けたとしてイランへの攻撃を開始し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アメリカ軍はイランへの攻撃を完了した。",
-          "span": "米軍、対イラン攻撃完了",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ホルムズ海峡で攻撃があり、インド人1名が行方不明となっている。",
-          "span": "ホルムズ海峡で攻撃 インド人不明",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "アメリカ軍はイランに攻撃を開始し、船員1人が行方不明となっている。",
-          "span": "米軍、イランに攻撃開始　船員１人が行方不明",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "イランはホルムズ海峡を「封鎖」し、船舶が損傷し、アメリカ軍も攻撃を行った。",
-          "span": "イランがホルムズ「封鎖」　船舶損傷、米も攻撃",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "アメリカ軍は、キプロス船籍の船舶がホルムズ海峡を航行中に攻撃を受けた後に、攻撃を開始した。",
-          "span": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "アメリカ軍はイランへの攻撃を完了した。",
-          "span": "US CENTCOM completes third round of strikes on Iran",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イランはアメリカによる爆撃の後、複数のGCC諸国を攻撃し、ホルムズ海峡を閉鎖した。",
-          "span": "Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "アメリカ軍によるイランへの夜間の攻撃の後、湾岸諸国に向けてミサイルとドローンが発射された。",
-          "span": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "カタールでは落下した破片により3人が負傷し、UAE、クウェート、バーレーン、オマーン、ヨルダンでも攻撃が報告された。",
-          "span": "Three people injured by falling shrapnel in Qatar as attacks also reported in UAE, Kuwait, Bahrain, Oman and Jordan.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "日本はホルムズ海峡を通らない代替ルートでの原油調達を進めている。",
-          "span": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "政府はホルムズ海峡が事実上封鎖されて以降、代替調達を進めており、原油輸入量の減少幅は縮小傾向にある。",
-          "span": "政府はホルムズ海峡が事実上、封鎖されて以降、ホルムズ海峡を通らないルートでの原油の調達、代替調達を進めていて、原油の輸入量の減少幅は縮小傾向にあります。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イランとアメリカ軍の間でホルムズ海峡を巡る軍事衝突が発生し、イランは海峡封鎖を主張し、アメリカ軍はイランへの攻撃を開始した。日本は代替ルートでの原油調達を進めている。",
-      "note": "プライバシー配慮のため、行方不明の船員やインド人の個人情報は特定しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "小田凱人がウィンブルドン選手権で2連覇 車いすテニス",
-      "slug": "小田凱人がウィンブルドン選手権で2連覇車いすテニ",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015175151000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587710?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071200299&g=spo&m=rss"
         }
       ],
       "issue": "",
       "stasis": "事実",
       "facts": [
         {
-          "t": "小田凱人選手がウィンブルドン選手権の車いすの部男子シングルス決勝で優勝した。",
-          "span": "優勝を果たしました",
+          "t": "米軍は、約140か所の標的への攻撃を完了したと発表した。",
+          "span": "140か所の標的への攻撃完了",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "米軍は、イランの軍事関連施設などおよそ140か所の標的を攻撃した。",
+          "span": "イランの軍に関する施設などおよそ140か所の標的を攻撃した",
+          "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK"
             },
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "小田凱人選手はイギリスの選手と対戦した。",
-          "span": "イギリスの選手と対戦し",
+          "t": "イラン革命防衛隊は、ホルムズ海峡で船舶がイラン側の定める航路を通らなかったとして警告射撃を行った。",
+          "span": "警告射撃し",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "小田凱人選手はセットカウント2対0のストレートで勝利した。",
-          "span": "セットカウント2対0のストレートで勝って",
+          "t": "イラン革命防衛隊は、ホルムズ海峡を封鎖すると表明した。",
+          "span": "海峡を封鎖すると表明しました",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "小田凱人選手のウィンブルドン選手権での優勝は2年連続である。",
-          "span": "2年連続",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             },
             {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "小田凱人選手のウィンブルドン選手権での優勝は通算3回目である。",
-          "span": "3回目の優勝",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "小田凱人選手がウィンブルドン選手権車いすの部男子シングルス決勝でイギリスの選手にセットカウント2対0のストレートで勝利し、2年連続3回目の優勝を達成した。",
-      "note": "事実合意型。",
+      "consensus": "米軍が約140か所の標的を攻撃し、イラン革命防衛隊がホルムズ海峡で警告射撃と封鎖表明を行った。NHKは、中東地域で不安定な情勢が続いていると報じている。これらの行動に対する評価は記事中には示されていない。",
+      "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "事実欄の「中東地域では不安定な情勢が続いている。」は、NHKによる情勢の評価・解釈であるため、発言主体を明記した上でpositions欄に移動しました。",
+          "争点（issue）がテキスト内の対立を反映していないため、空欄に修正しました。テキストは事実の記述と一つの報道機関による情勢の評価に留まり、特定の争点に関する賛否の対立は示されていません。",
+          "consensusを、変更されたfactsとpositionsの内容に合わせて再記述しました。"
+        ]
       }
     },
     {
-      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "slug": "Trumpadministrationsubpo",
+      "headline": "佐々木、初の満塁弾を逆方向へ　３年目でパワーに成長の跡―プロ野球・巨人",
+      "slug": "佐木初の満塁弾を逆方向へ年目でパワに成長の跡プロ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015175191000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071200409&g=spo&m=rss"
+        }
+      ],
+      "issue": "",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "プロ野球で西武が日本ハムに14安打12得点で勝利した。",
+          "span": "14安打12得点で日本ハムに快勝しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "西武のドラフト1位ルーキー捕手、小島大河選手が満塁ホームランを打った。",
+          "span": "小島大河選手の満塁ホームラン",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "巨人の佐々木選手がプロ入り後初の満塁ホームランを打った。",
+          "span": "初の満塁弾を逆方向へ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "佐々木選手はプロ3年目である。",
+          "span": "３年目で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "プロ野球の試合結果と、各試合での選手の活躍が報じられた。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0].t の「快勝した」を「勝利した」に修正。評価語の混入を排除し、中立性を確保した。"
+        ]
+      }
+    },
+    {
+      "headline": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "slug": "USsenatorandcloseTrumpal",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -313,139 +274,74 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/12/british-police-make-new-arrest-in-ann-widdecombe-murder-investigation?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/7/12/who-will-replace-trump-ally-lindsey-graham-in-the-us-senate?traffic_source=rss"
         }
       ],
-      "issue": "",
+      "issue": "リンゼイ・グラハム上院議員の死去と、その後の後任人事の行方について",
       "stasis": "事実",
       "facts": [
         {
-          "t": "スペインの山火事中に、重度の火傷を負った英国人夫婦が渓谷から救助された。",
-          "span": "Badly burned British couple rescued from ravine during Spain wildfires",
+          "t": "米国上院議員でドナルド・トランプ氏の盟友であるリンゼイ・グラハム氏が死去した。",
+          "span": "Lindsey Graham dies",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "BBC World"
             }
           ]
         },
         {
-          "t": "夫婦はアルメリア州で猛威を振るう火災に閉じ込められ、40%の火傷を負い半意識不明の状態で発見された。",
-          "span": "were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria provi",
+          "t": "グラハム氏の死因は「短期間の突然の病」と報じられている。",
+          "span": "after 'brief and sudden illness'",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "グラハム氏は71歳で、サウスカロライナ州選出の上院議員だった。",
+          "span": "71-year-old South Carolina senator",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ドナルド・トランプ前大統領がグラハム氏に追悼の意を表した。",
+          "span": "pays tribute to",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国大統領（ドナルド・トランプ氏）は、故上院議員のサウスカロライナ州の議席を埋める潜在的な候補者を検討していることを示唆した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "スペインの山火事で英国人夫婦が救助されたという事実が報じられている。評価は割れない。",
-      "note": "",
+      "consensus": "リンゼイ・グラハム上院議員が死去したこと、およびその後任人事が検討されていることは合意された事実である。評価は割れるものではなく、アプリは裁定しない。",
+      "note": null,
       "audit": {
         "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "四国梅雨明け 九州や中国は38度超の危険な暑さ 13日も注意を",
-      "slug": "四国梅雨明け九州や中国は38度超の危険な暑さ13",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174761000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587708?source=rss"
-        }
-      ],
-      "issue": "日本の広範囲における気象状況はどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "四国地方が梅雨明けした。",
-          "span": "四国梅雨明け",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "12日、九州や中国地方で最高気温が38度を超えた。",
-          "span": "最高気温が38度を超え",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "13日も西日本を中心に暑さが続く見込みである。",
-          "span": "暑さが続く見込み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熱中症対策の徹底が呼びかけられている。",
-          "span": "熱中症対策を徹底してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "北日本では断続的に発達した雨雲が流れ込んでいる。",
-          "span": "断続的に発達した雨雲が流れ込み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "13日には西日本を中心に猛暑日が続出する可能性がある。",
-          "span": "猛暑日続出か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "日本の広範囲で猛暑が続き、一部地域では梅雨明けが発表されている。",
-      "note": "本記事は事実の記述と気象予測、注意喚起のみであり、特定の主体による評価や主張の対立は含まれていません。",
-      "audit": {
-        "changed": true,
         "issues": [
-          "facts[1]: '危険な暑さ'という評価語を削除し、spanを最小核に修正しました。",
-          "facts[2]: '猛烈な暑さ'という評価語を削除し、spanを最小核に修正しました。"
+          "fact spanが原文に無い→除去「suggests he is con…」"
         ]
       }
     }
