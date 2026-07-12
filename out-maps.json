@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-07-12T07:13:37.295Z",
+  "builtAt": "2026-07-12T09:19:29.293Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
-      "slug": "USforceslaunchnewstrikes",
+      "headline": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
+      "slug": "IranattacksfiveGulfnatio",
       "independentSources": 5,
       "sources": [
         "NHK 主要ニュース",
@@ -19,12 +19,12 @@
           "link": "https://news.web.nhk/newsweb/na/na-k10015174811000"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587674?source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015175001000"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071200187&g=flash&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587690?source=rss"
         },
         {
           "source": "時事ドットコム",
@@ -44,19 +44,27 @@
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss"
         }
       ],
-      "issue": "イランと米軍の間で軍事衝突はエスカレートしているか？",
-      "stasis": "事実",
+      "issue": "イランとアメリカ軍の間で、ホルムズ海峡を巡る軍事衝突はエスカレートするか？",
+      "stasis": "因果の解釈",
       "facts": [
         {
-          "t": "イランの革命防衛隊は、ホルムズ海峡で警告射撃を行い、海峡を封鎖すると主張した。",
-          "span": "警告射撃を行い、海峡を封鎖すると主張しました",
+          "t": "イラン革命防衛隊は12日、ホルムズ海峡で船舶がイラン側が定める航路を通らなかったとして警告射撃を行い、海峡を封鎖すると主張した。",
+          "span": "イランの革命防衛隊は12日、ホルムズ海峡で船舶がイラン側が定める航路を通らなかったとして、警告射撃を行い、海峡を封鎖すると主張しました",
           "src": [
             {
               "ty": "press",
@@ -65,8 +73,8 @@
           ]
         },
         {
-          "t": "イラン側が定める航路を通らなかった船舶に対し、警告射撃が行われた。",
-          "span": "船舶がイラン側が定める航路を通らなかったとして、警告射撃を行い",
+          "t": "アメリカ軍はコンテナ船が攻撃を受けたとしてイランへの攻撃を開始した。",
+          "span": "アメリカ軍はコンテナ船が攻撃を受けたとしてイランへの攻撃を開始し",
           "src": [
             {
               "ty": "press",
@@ -75,28 +83,18 @@
           ]
         },
         {
-          "t": "アメリカ軍はコンテナ船が攻撃を受けたと認識している。",
-          "span": "コンテナ船が攻撃を受けたとして",
+          "t": "アメリカ軍はイランへの攻撃を完了した。",
+          "span": "米軍、対イラン攻撃完了",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "アメリカ軍はイランへの攻撃を開始した。",
-          "span": "イランへの攻撃を開始し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "米軍はイラン軍施設140カ所を攻撃した。",
-          "span": "イラン軍施設140カ所を攻撃",
+          "t": "ホルムズ海峡で攻撃があり、インド人1名が行方不明となっている。",
+          "span": "ホルムズ海峡で攻撃 インド人不明",
           "src": [
             {
               "ty": "press",
@@ -105,28 +103,28 @@
           ]
         },
         {
-          "t": "米軍は対イラン攻撃を完了した。",
-          "span": "対イラン攻撃を完了した",
+          "t": "アメリカ軍はイランに攻撃を開始し、船員1人が行方不明となっている。",
+          "span": "米軍、イランに攻撃開始　船員１人が行方不明",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "船員1人が行方不明である。",
-          "span": "船員１人が行方不明",
+          "t": "イランはホルムズ海峡を「封鎖」し、船舶が損傷し、アメリカ軍も攻撃を行った。",
+          "span": "イランがホルムズ「封鎖」　船舶損傷、米も攻撃",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "水路を航行中のキプロス船籍の船舶が攻撃を受けた。",
-          "span": "an attack on a Cyprus -flagged vessel travelling through the critical waterway",
+          "t": "アメリカ軍は、キプロス船籍の船舶がホルムズ海峡を航行中に攻撃を受けた後に、攻撃を開始した。",
+          "span": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
           "src": [
             {
               "ty": "press",
@@ -135,8 +133,8 @@
           ]
         },
         {
-          "t": "米軍は1週間で3回目の攻撃を開始した。",
-          "span": "US forces have launched a third round of strikes on Iran in a week",
+          "t": "アメリカ軍はイランへの攻撃を完了した。",
+          "span": "US CENTCOM completes third round of strikes on Iran",
           "src": [
             {
               "ty": "press",
@@ -145,58 +143,38 @@
           ]
         },
         {
-          "t": "イランは、バーレーン、クウェート、ヨルダン、カタールの米軍基地にミサイル攻撃を開始したと発表した。",
-          "span": "Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar",
+          "t": "イランはアメリカによる爆撃の後、複数のGCC諸国を攻撃し、ホルムズ海峡を閉鎖した。",
+          "span": "Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.",
           "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
             }
           ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イランと米軍の間で軍事衝突が発生しており、状況は緊迫している。本件に関する評価や主張は記事中にないため、アプリは裁定しない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[7].t: 事実欄に評価語「重要な」が混入していたため削除し、「水路を航行中のキプロス船籍の船舶が攻撃を受けた」に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "ハーランド、不発に終わる　敗退も「一生の思い出」―Ｗ杯サッカー・ノルウェー",
-      "slug": "ハランド不発に終わる敗退も一生の思い出杯サッカノ",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174781000"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071200179&g=spo&m=rss"
+          "t": "アメリカ軍によるイランへの夜間の攻撃の後、湾岸諸国に向けてミサイルとドローンが発射された。",
+          "span": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071200213&g=spo&m=rss"
+          "t": "カタールでは落下した破片により3人が負傷し、UAE、クウェート、バーレーン、オマーン、ヨルダンでも攻撃が報告された。",
+          "span": "Three people injured by falling shrapnel in Qatar as attacks also reported in UAE, Kuwait, Bahrain, Oman and Jordan.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071200155&g=spo&m=rss"
-        }
-      ],
-      "issue": "アルゼンチン対スイスのサッカーワールドカップ準々決勝の結果は？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "サッカーワールドカップ北中米大会の準々決勝で、アルゼンチンがスイスに延長戦の末、3対1で勝利し、準決勝進出を決めた。",
-          "span": "アルゼンチンが延長戦のすえ、3対1で勝って準決勝進出を決めました",
+          "t": "日本はホルムズ海峡を通らない代替ルートでの原油調達を進めている。",
+          "span": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む。",
           "src": [
             {
               "ty": "press",
@@ -205,49 +183,19 @@
           ]
         },
         {
-          "t": "アルゼンチン対スイスの試合は延長戦で行われた。",
-          "span": "延長戦",
+          "t": "政府はホルムズ海峡が事実上封鎖されて以降、代替調達を進めており、原油輸入量の減少幅は縮小傾向にある。",
+          "span": "政府はホルムズ海峡が事実上、封鎖されて以降、ホルムズ海峡を通らないルートでの原油の調達、代替調達を進めていて、原油の輸入量の減少幅は縮小傾向にあります。",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アルゼンチン対スイスの試合で、メッシ選手はノーゴールだった。",
-          "span": "メッシ選手は今大会、初のノーゴール",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アルゼンチンは喪章を巻いてプレーした。",
-          "span": "喪章巻いてプレー",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "アルゼンチンは延長後半に2点を追加した。",
-          "span": "延長後半に２点",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "アルゼンチンがスイスに3対1で勝利し、準決勝に進出した。メッシ選手はノーゴールだった。アルゼンチンは喪章を巻いてプレーし、延長後半に2点を追加した。",
-      "note": "ハーランド選手に関する情報は、アルゼンチン対スイスの試合とは直接関係がないため、factsには含めていません。",
+      "consensus": "イランとアメリカ軍の間でホルムズ海峡を巡る軍事衝突が発生し、イランは海峡封鎖を主張し、アメリカ軍はイランへの攻撃を開始した。日本は代替ルートでの原油調達を進めている。",
+      "note": "プライバシー配慮のため、行方不明の船員やインド人の個人情報は特定しない。",
       "audit": {
         "changed": false,
         "issues": []
@@ -360,8 +308,8 @@
       }
     },
     {
-      "headline": "自民“法案の確実成立を” 立民“丁寧に審議を” NHK日曜討論",
-      "slug": "自民法案の確実成立を立民丁寧に審議をNHK日曜討",
+      "headline": "“怪物” ハーランド 得点王に届かず 初の大舞台を去る",
+      "slug": "怪物ハランド得点王に届かず初の大舞台を去る",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -370,19 +318,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174891000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015174991000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587673?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6587694?source=rss"
         }
       ],
-      "issue": "国会の会期末を前に、残る法案の審議をどのように進めるべきか",
-      "stasis": "政策",
+      "issue": "ハーランド選手はサッカーワールドカップでどのようなインパクトを残したか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "国会の会期末が5日後に迫っている。",
-          "span": "会期末が5日後に迫る中",
+          "t": "ノルウェーのハーランド選手は準々決勝で敗退した。",
+          "span": "ノルウェーのハーランド選手は準々決勝で敗れ",
           "src": [
             {
               "ty": "press",
@@ -391,8 +339,8 @@
           ]
         },
         {
-          "t": "自民党は、皇室典範改正案など残る法案の確実な成立を図る考えを示した。",
-          "span": "自民党が、皇室典範改正案など残る法案の確実な成立を図る考えを示した",
+          "t": "ハーランド選手は得点王に届かなかった。",
+          "span": "得点王に届きませんでした",
           "src": [
             {
               "ty": "press",
@@ -401,8 +349,28 @@
           ]
         },
         {
-          "t": "自民党は会期内の全法案成立を目指している。",
-          "span": "会期内の全法案成立目指す",
+          "t": "ハーランド選手は初めてのサッカーワールドカップに出場した。",
+          "span": "初めてのサッカーワールドカップで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ハーランド選手は初めてのワールドカップで強烈なインパクトを残し、世界にその名をとどろかせた。",
+          "span": "強烈なインパクトを残し、世界にその名をとどろかせました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ロシアのモデルがハーランド選手にそっくりだと話題になっている。",
+          "span": "ハーランドそっくり 露モデル話題",
           "src": [
             {
               "ty": "press",
@@ -411,34 +379,99 @@
           ]
         }
       ],
-      "positions": [
+      "positions": [],
+      "consensus": "ハーランド選手は準々決勝で敗退し、得点王には届かなかったが、初めてのワールドカップで強烈なインパクトを残した。また、ロシアのモデルがハーランド選手にそっくりだと話題になっている。",
+      "note": "プライバシー配慮のため、個別のモデル名は記載しない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
+      "slug": "USSenatorandcloseTrumpal",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
         {
-          "actor": "自民党",
-          "stance": "support",
-          "claim": "残る法案の確実な成立を図る",
-          "span": "確実成立を",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss"
+        }
+      ],
+      "issue": "リンゼイ・グラハム上院議員は死去したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アメリカの国会議員であり、トランプ大統領の盟友であるリンゼイ・グラハム氏が死去した。",
+          "span": "US Senator and close Trump ally Lindsey Graham dies",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "actor": "立憲民主党",
-          "stance": "attack",
-          "claim": "日程ありきではなく丁寧に審議を進めるべきだ",
-          "span": "日程ありきではなく丁寧に審議を",
+          "t": "グラハム上院議員は、イスラエルの強力なアメリカ上院同盟者の一人であった。",
+          "span": "one of Israel’s strongest US Senate allies",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "グラハム上院議員は71歳であった。",
+          "span": "He was 71",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "グラハム上院議員は、短く突然の病の後、死去した。",
+          "span": "dies after 'brief and sudden illness'",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "グラハム上院議員は、突然の病で死去したと、彼の事務所が発表した。",
+          "span": "died of a sudden illness, his office said",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "グラハム上院議員は、金曜日にウクライナ大統領ヴォロディミル・ゼレンスキー氏と会談するため、キエフから戻ったばかりであった。",
+          "span": "had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
-      "consensus": "国会の会期末が5日後に迫る中、自民党は残る法案の確実な成立を図る考えを示したが、立憲民主党は丁寧に審議を進めるべきだと主張しており、審議の進め方については意見が割れている。",
-      "note": "",
+      "positions": [],
+      "consensus": "リンゼイ・グラハム上院議員は死去した。報道によると、彼は71歳で、突然の病が原因であった。彼は最近キエフを訪問し、ウクライナ大統領と会談していた。",
+      "note": "プライバシーに配慮し、故人の公的な役職と関連する事実のみを記載した。",
       "audit": {
         "changed": false,
         "issues": []
