@@ -1,14 +1,264 @@
 {
-  "builtAt": "2026-07-11T23:28:32.881Z",
+  "builtAt": "2026-07-12T07:13:37.295Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "九州で危険な暑さ予想 熱中症対策を 北日本では発達した雨雲",
-      "slug": "九州で危険な暑さ予想熱中症対策を北日本では発達し",
-      "independentSources": 3,
+      "headline": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
+      "slug": "USforceslaunchnewstrikes",
+      "independentSources": 5,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015174811000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587674?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071200187&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071200189&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071200121&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071200103&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss"
+        }
+      ],
+      "issue": "イランと米軍の間で軍事衝突はエスカレートしているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "イランの革命防衛隊は、ホルムズ海峡で警告射撃を行い、海峡を封鎖すると主張した。",
+          "span": "警告射撃を行い、海峡を封鎖すると主張しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "イラン側が定める航路を通らなかった船舶に対し、警告射撃が行われた。",
+          "span": "船舶がイラン側が定める航路を通らなかったとして、警告射撃を行い",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アメリカ軍はコンテナ船が攻撃を受けたと認識している。",
+          "span": "コンテナ船が攻撃を受けたとして",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アメリカ軍はイランへの攻撃を開始した。",
+          "span": "イランへの攻撃を開始し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "米軍はイラン軍施設140カ所を攻撃した。",
+          "span": "イラン軍施設140カ所を攻撃",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "米軍は対イラン攻撃を完了した。",
+          "span": "対イラン攻撃を完了した",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "船員1人が行方不明である。",
+          "span": "船員１人が行方不明",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "水路を航行中のキプロス船籍の船舶が攻撃を受けた。",
+          "span": "an attack on a Cyprus -flagged vessel travelling through the critical waterway",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米軍は1週間で3回目の攻撃を開始した。",
+          "span": "US forces have launched a third round of strikes on Iran in a week",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イランは、バーレーン、クウェート、ヨルダン、カタールの米軍基地にミサイル攻撃を開始したと発表した。",
+          "span": "Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イランと米軍の間で軍事衝突が発生しており、状況は緊迫している。本件に関する評価や主張は記事中にないため、アプリは裁定しない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[7].t: 事実欄に評価語「重要な」が混入していたため削除し、「水路を航行中のキプロス船籍の船舶が攻撃を受けた」に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "ハーランド、不発に終わる　敗退も「一生の思い出」―Ｗ杯サッカー・ノルウェー",
+      "slug": "ハランド不発に終わる敗退も一生の思い出杯サッカノ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015174781000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071200179&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071200213&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071200155&g=spo&m=rss"
+        }
+      ],
+      "issue": "アルゼンチン対スイスのサッカーワールドカップ準々決勝の結果は？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "サッカーワールドカップ北中米大会の準々決勝で、アルゼンチンがスイスに延長戦の末、3対1で勝利し、準決勝進出を決めた。",
+          "span": "アルゼンチンが延長戦のすえ、3対1で勝って準決勝進出を決めました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチン対スイスの試合は延長戦で行われた。",
+          "span": "延長戦",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチン対スイスの試合で、メッシ選手はノーゴールだった。",
+          "span": "メッシ選手は今大会、初のノーゴール",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチンは喪章を巻いてプレーした。",
+          "span": "喪章巻いてプレー",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチンは延長後半に2点を追加した。",
+          "span": "延長後半に２点",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "アルゼンチンがスイスに3対1で勝利し、準決勝に進出した。メッシ選手はノーゴールだった。アルゼンチンは喪章を巻いてプレーし、延長後半に2点を追加した。",
+      "note": "ハーランド選手に関する情報は、アルゼンチン対スイスの試合とは直接関係がないため、factsには含めていません。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "四国梅雨明け 九州や中国は38度超の危険な暑さ 熱中症対策を",
+      "slug": "四国梅雨明け九州や中国は38度超の危険な暑さ熱中",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
       "links": [
@@ -17,32 +267,24 @@
           "link": "https://news.web.nhk/newsweb/na/na-k10015174761000"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587616?source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260712071128_0_VPWW53_014030.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260711230544_0_VPWW54_020000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260712071128_0_VPWW54_014030.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260711230544_0_VPWW53_020000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260711230402_0_VPWW56_030000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260711225557_0_VPWW54_020000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260712071120_0_VPWW61_014030.xml"
         }
       ],
-      "issue": "日本の広範囲における12日の気象状況とそれに対する注意喚起は何か？",
+      "issue": "西日本は危険な暑さ、北日本は猛烈な雨か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "12日、西日本を中心に気温が上昇し、九州では最高気温が39度と予想されている。",
-          "span": "最高気温が39度と危険な暑さが予想されていて",
+          "t": "12日、九州や中国地方では気温が38度を超え、危険な暑さとなった。",
+          "span": "九州や中国地方では気温が38度を超えて危険な暑さになっていて",
           "src": [
             {
               "ty": "press",
@@ -51,18 +293,8 @@
           ]
         },
         {
-          "t": "九州では40度に近い暑さが予想されている。",
-          "span": "40℃に迫る危険な暑さ予想",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "NHKは九州で熱中症対策を徹底するよう呼びかけている。",
-          "span": "熱中症対策を徹底してください",
+          "t": "北日本では雨雲が発達し、北海道の十勝地方では猛烈な雨が降ったとみられる。",
+          "span": "北日本では雨雲が発達していて、北海道の十勝地方では猛烈な雨が降ったとみられ",
           "src": [
             {
               "ty": "press",
@@ -71,318 +303,145 @@
           ]
         },
         {
-          "t": "北日本では発達した雨雲がかかっている。",
-          "span": "発達した雨雲がかかっていて",
+          "t": "十勝地方に大雨と土砂災害に関する危険警報が発表されている。",
+          "span": "〈危険警報（大雨、土砂災害）〉",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "NHKは北日本で土砂災害に厳重な警戒が必要だと報じている。",
-          "span": "土砂災害に厳重な警戒が必要です",
+          "t": "十勝地方では土砂災害や低い土地の浸水に厳重な警戒が必要である。",
+          "span": "十勝地方では、土砂災害や低い土地の浸水に厳重に警戒してください。",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は青森県の三八上北で土砂災害に注意するよう呼びかけている。",
-          "span": "三八上北では、土砂災害に注意してください",
-          "src": [
+              "l": "気象庁 気象警報・注意報"
+            },
             {
-              "ty": "prim",
+              "ty": "press",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "気象庁は青森県の下北、三八上北で低い土地の浸水に注意するよう呼びかけている。",
-          "span": "下北、三八上北では、低い土地の浸水に注意してください",
+          "t": "十勝地方に雷・濃霧注意報が発表されている。",
+          "span": "【十勝地方雷・濃霧注意報】",
           "src": [
             {
-              "ty": "prim",
+              "ty": "press",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "気象庁は青森県で落雷や濃霧による視程障害に注意するよう呼びかけている。",
-          "span": "落雷や濃霧による視程障害に注意してください",
+          "t": "十勝地方では急な強い雨や落雷、濃霧による視程障害に注意が必要である。",
+          "span": "十勝地方では、急な強い雨や落雷、濃霧による視程障害に注意してください。",
           "src": [
             {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は岩手県の内陸で土砂災害に注意するよう呼びかけている。",
-          "span": "内陸では、土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は青森県の三八上北で土砂災害や低い土地の浸水に注意するよう呼びかけている。",
-          "span": "三八上北では、土砂災害や低い土地の浸水に注意してください",
-          "src": [
-            {
-              "ty": "prim",
+              "ty": "press",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日本の広範囲で危険な気象状況が予想されており、各地で注意喚起がなされている。評価の対立はない。",
+      "consensus": "西日本は38度を超える危険な暑さ、北日本（十勝地方）では猛烈な雨が降ったとみられ、大雨・土砂災害の危険警報や雷・濃霧注意報が出ている。",
+      "note": "プライバシー配慮のため、個別の被害状況や個人名は記載しない。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄への評価混入: facts[0].tとfacts[1].tから評価語「危険な」を削除しました。",
-          "事実欄への評価混入: 提言・呼びかけに該当する項目（元facts[2], 元facts[3]の一部, 元facts[5]〜[8]）について、内容を「〜が〜するよう呼びかけている／報じている」という形式に修正し、事実として記述しました。これにより、positionsは空のまま維持されます。",
-          "事実欄の分割と削除: 元facts[3]を気象状況の事実と呼びかけの事実の2つに分割しました。元facts[4]は分割後の項目と重複するため削除しました。",
-          "新規事実の追加: 元テキストの気象庁情報から、青森県三八上北における土砂災害と低い土地の浸水に関する複合的な注意喚起を新たな事実として追加しました。",
-          "著作権: factsのtフィールドは、元の文の語順・言い回しをなぞらないよう、自分の言葉で再記述しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "slug": "Trumpadministrationsubpo",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174731000"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cze94x4361po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/11/thousands-gather-in-srebrenica-to-mark-31-years-since-genocide?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss"
-        }
-      ],
-      "issue": "トランプ政権によるニューヨーク・タイムズ記者への召喚状は、報道の自由をめぐる懸念を引き起こしているか？",
-      "stasis": "価値・倫理",
-      "facts": [
-        {
-          "t": "トランプ政権は、ニューヨーク・タイムズ紙の記者に対し、大陪審での証言を求める召喚状を発行した。",
-          "span": "大陪審での証言を求める召喚状",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "この召喚状は、記者がトランプ大統領が使用する新たな大統領専用機にミサイル攻撃に対応する機能が備わっていないなどと報じたことに関連している。",
-          "span": "ミサイル攻撃に対応する機能が備わっていないなどと報じた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "ニューヨーク・タイムズの記者は、大統領の新しい航空機のセキュリティ問題に関する報道の後、法的召喚状を受け取った。",
-          "span": "received the legal summons",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "トランプ政権がニューヨーク・タイムズ記者に召喚状を出したこと自体は事実として合意されている。この召喚状に対し、複数の主体が報道の自由を侵害する試みであるとして非難を表明している。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimにメタ記述（「〜と述べている」など）を追加しました。",
-          "facts[2].spanを最小核「received the legal summons」に修正しました。",
-          "positions[1].spanを元テキストの最小核「an attempt to &#039;threaten and intimid」に修正しました。",
-          "issueを、テキストに示された反応の性質をより正確に反映するよう「トランプ政権によるニューヨーク・タイムズ記者への召喚状は、報道の自由をめぐる懸念を引き起こしているか？」に修正しました。",
-          "consensusを、テキストに示された立場（非難のみ）を正確に反映するよう修正しました（「評価が割れている」という記述を削除）。",
-          "position spanが原文に無い→除去「condemned the subp…」"
-        ]
-      }
-    },
-    {
-      "headline": "FIFA to sell pieces of World Cup final stadium pitch, could earn millions",
-      "slug": "FIFAtosellpiecesofWorldC",
-      "independentSources": 3,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587612?source=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cr47y5nvrqlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/11/fifa-to-sell-pieces-of-world-cup-final-stadium-pitch-could-earn-millions?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/7/11/argentina-vs-switzerland-live-fifa-world-cup-2026?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/11/south-africas-jayden-adams-25-dies-after-playing-in-fifa-world-cup?traffic_source=rss"
-        }
-      ],
-      "issue": "南アフリカのW杯出場選手ジェイデン・アダムス氏の死去",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "南アフリカ代表およびマメロディ・サンダウンズのミッドフィールダー、ジェイデン・アダムス氏が25歳で死去した。",
-          "span": "Adams dies aged 25",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            },
-            {
-              "ty": "wire",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "彼は死去の数週間前、W杯のラウンド32で南アフリカ代表として出場していた。",
-          "span": "after playing in FIFA World Cup",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            },
-            {
-              "ty": "wire",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "南アフリカのW杯出場選手ジェイデン・アダムス氏が25歳で死去したことは合意されている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].span が元テキストに存在する最小核になるよう修正しました。",
-          "fact spanが原文に無い→除去「featuring for his …」"
-        ]
-      }
-    },
-    {
-      "headline": "Iran says Strait of Hormuz closed 'until further notice'",
-      "slug": "IransaysStraitofHormuzcl",
+      "headline": "自民“法案の確実成立を” 立民“丁寧に審議を” NHK日曜討論",
+      "slug": "自民法案の確実成立を立民丁寧に審議をNHK日曜討",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "BBC World"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174741000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015174891000"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174711000"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587673?source=rss"
         }
       ],
-      "issue": "ホルムズ海峡の航行の安全は確保されているか？",
+      "issue": "国会の会期末を前に、残る法案の審議をどのように進めるべきか",
       "stasis": "政策",
       "facts": [
         {
-          "t": "イラン革命防衛隊は、追って通知があるまでホルムズ海峡を封鎖すると発表した。",
-          "span": "追って通知あるまでホルムズ海峡は封鎖",
+          "t": "国会の会期末が5日後に迫っている。",
+          "span": "会期末が5日後に迫る中",
           "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            },
             {
               "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イラン革命防衛隊は、外国の扇動により複数の船舶が非承認のルートで通航を試みたと述べた。",
-          "span": "外国の扇動により複数の船舶が非承認のルートで通航を試み",
-          "src": [
-            {
-              "ty": "wire",
               "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "イラン革命防衛隊は、海峡内の船舶に警告射撃を行った。",
-          "span": "fired a warning shot at a vessel in the strait",
+          "t": "自民党は、皇室典範改正案など残る法案の確実な成立を図る考えを示した。",
+          "span": "自民党が、皇室典範改正案など残る法案の確実な成立を図る考えを示した",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "自民党は会期内の全法案成立を目指している。",
+          "span": "会期内の全法案成立目指す",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
-      "positions": [],
-      "consensus": "ホルムズ海峡の封鎖発表と警告射撃があったことは報じられているが、その影響や国際法上の正当性については評価が割れる。",
-      "note": null,
+      "positions": [
+        {
+          "actor": "自民党",
+          "stance": "support",
+          "claim": "残る法案の確実な成立を図る",
+          "span": "確実成立を",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "立憲民主党",
+          "stance": "attack",
+          "claim": "日程ありきではなく丁寧に審議を進めるべきだ",
+          "span": "日程ありきではなく丁寧に審議を",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "consensus": "国会の会期末が5日後に迫る中、自民党は残る法案の確実な成立を図る考えを示したが、立憲民主党は丁寧に審議を進めるべきだと主張しており、審議の進め方については意見が割れている。",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].stance: 'attack' を 'warning' に修正。テキストの「攻撃で対応しないよう警告」というニュアンスにより合致させるため。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
