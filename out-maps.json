@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-07-12T09:19:29.293Z",
+  "builtAt": "2026-07-12T12:42:24.804Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -202,37 +202,52 @@
       }
     },
     {
-      "headline": "四国梅雨明け 九州や中国は38度超の危険な暑さ 熱中症対策を",
-      "slug": "四国梅雨明け九州や中国は38度超の危険な暑さ熱中",
-      "independentSources": 2,
+      "headline": "小田凱人がウィンブルドン選手権で2連覇 車いすテニス",
+      "slug": "小田凱人がウィンブルドン選手権で2連覇車いすテニ",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174761000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015175151000"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260712071128_0_VPWW53_014030.xml"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6587710?source=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260712071128_0_VPWW54_014030.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260712071120_0_VPWW61_014030.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071200299&g=spo&m=rss"
         }
       ],
-      "issue": "西日本は危険な暑さ、北日本は猛烈な雨か？",
+      "issue": "",
       "stasis": "事実",
       "facts": [
         {
-          "t": "12日、九州や中国地方では気温が38度を超え、危険な暑さとなった。",
-          "span": "九州や中国地方では気温が38度を超えて危険な暑さになっていて",
+          "t": "小田凱人選手がウィンブルドン選手権の車いすの部男子シングルス決勝で優勝した。",
+          "span": "優勝を果たしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "小田凱人選手はイギリスの選手と対戦した。",
+          "span": "イギリスの選手と対戦し",
           "src": [
             {
               "ty": "press",
@@ -241,8 +256,8 @@
           ]
         },
         {
-          "t": "北日本では雨雲が発達し、北海道の十勝地方では猛烈な雨が降ったとみられる。",
-          "span": "北日本では雨雲が発達していて、北海道の十勝地方では猛烈な雨が降ったとみられ",
+          "t": "小田凱人選手はセットカウント2対0のストレートで勝利した。",
+          "span": "セットカウント2対0のストレートで勝って",
           "src": [
             {
               "ty": "press",
@@ -251,65 +266,99 @@
           ]
         },
         {
-          "t": "十勝地方に大雨と土砂災害に関する危険警報が発表されている。",
-          "span": "〈危険警報（大雨、土砂災害）〉",
+          "t": "小田凱人選手のウィンブルドン選手権での優勝は2年連続である。",
+          "span": "2年連続",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "NHK 主要ニュース"
             },
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "十勝地方では土砂災害や低い土地の浸水に厳重な警戒が必要である。",
-          "span": "十勝地方では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "Yahoo!ニュース 主要"
             },
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "十勝地方に雷・濃霧注意報が発表されている。",
-          "span": "【十勝地方雷・濃霧注意報】",
+          "t": "小田凱人選手のウィンブルドン選手権での優勝は通算3回目である。",
+          "span": "3回目の優勝",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "十勝地方では急な強い雨や落雷、濃霧による視程障害に注意が必要である。",
-          "span": "十勝地方では、急な強い雨や落雷、濃霧による視程障害に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "西日本は38度を超える危険な暑さ、北日本（十勝地方）では猛烈な雨が降ったとみられ、大雨・土砂災害の危険警報や雷・濃霧注意報が出ている。",
-      "note": "プライバシー配慮のため、個別の被害状況や個人名は記載しない。",
+      "consensus": "小田凱人選手がウィンブルドン選手権車いすの部男子シングルス決勝でイギリスの選手にセットカウント2対0のストレートで勝利し、2年連続3回目の優勝を達成した。",
+      "note": "事実合意型。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "“怪物” ハーランド 得点王に届かず 初の大舞台を去る",
-      "slug": "怪物ハランド得点王に届かず初の大舞台を去る",
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "slug": "Trumpadministrationsubpo",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/12/british-police-make-new-arrest-in-ann-widdecombe-murder-investigation?traffic_source=rss"
+        }
+      ],
+      "issue": "",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "スペインの山火事中に、重度の火傷を負った英国人夫婦が渓谷から救助された。",
+          "span": "Badly burned British couple rescued from ravine during Spain wildfires",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "夫婦はアルメリア州で猛威を振るう火災に閉じ込められ、40%の火傷を負い半意識不明の状態で発見された。",
+          "span": "were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria provi",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "スペインの山火事で英国人夫婦が救助されたという事実が報じられている。評価は割れない。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "四国梅雨明け 九州や中国は38度超の危険な暑さ 13日も注意を",
+      "slug": "四国梅雨明け九州や中国は38度超の危険な暑さ13",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -318,19 +367,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015174991000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015174761000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587694?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6587708?source=rss"
         }
       ],
-      "issue": "ハーランド選手はサッカーワールドカップでどのようなインパクトを残したか？",
+      "issue": "日本の広範囲における気象状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ノルウェーのハーランド選手は準々決勝で敗退した。",
-          "span": "ノルウェーのハーランド選手は準々決勝で敗れ",
+          "t": "四国地方が梅雨明けした。",
+          "span": "四国梅雨明け",
           "src": [
             {
               "ty": "press",
@@ -339,8 +388,8 @@
           ]
         },
         {
-          "t": "ハーランド選手は得点王に届かなかった。",
-          "span": "得点王に届きませんでした",
+          "t": "12日、九州や中国地方で最高気温が38度を超えた。",
+          "span": "最高気温が38度を超え",
           "src": [
             {
               "ty": "press",
@@ -349,8 +398,8 @@
           ]
         },
         {
-          "t": "ハーランド選手は初めてのサッカーワールドカップに出場した。",
-          "span": "初めてのサッカーワールドカップで",
+          "t": "13日も西日本を中心に暑さが続く見込みである。",
+          "span": "暑さが続く見込み",
           "src": [
             {
               "ty": "press",
@@ -359,8 +408,8 @@
           ]
         },
         {
-          "t": "ハーランド選手は初めてのワールドカップで強烈なインパクトを残し、世界にその名をとどろかせた。",
-          "span": "強烈なインパクトを残し、世界にその名をとどろかせました",
+          "t": "熱中症対策の徹底が呼びかけられている。",
+          "span": "熱中症対策を徹底してください",
           "src": [
             {
               "ty": "press",
@@ -369,8 +418,18 @@
           ]
         },
         {
-          "t": "ロシアのモデルがハーランド選手にそっくりだと話題になっている。",
-          "span": "ハーランドそっくり 露モデル話題",
+          "t": "北日本では断続的に発達した雨雲が流れ込んでいる。",
+          "span": "断続的に発達した雨雲が流れ込み",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "13日には西日本を中心に猛暑日が続出する可能性がある。",
+          "span": "猛暑日続出か",
           "src": [
             {
               "ty": "press",
@@ -380,101 +439,14 @@
         }
       ],
       "positions": [],
-      "consensus": "ハーランド選手は準々決勝で敗退し、得点王には届かなかったが、初めてのワールドカップで強烈なインパクトを残した。また、ロシアのモデルがハーランド選手にそっくりだと話題になっている。",
-      "note": "プライバシー配慮のため、個別のモデル名は記載しない。",
+      "consensus": "日本の広範囲で猛暑が続き、一部地域では梅雨明けが発表されている。",
+      "note": "本記事は事実の記述と気象予測、注意喚起のみであり、特定の主体による評価や主張の対立は含まれていません。",
       "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "US Senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
-      "slug": "USSenatorandcloseTrumpal",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss"
-        }
-      ],
-      "issue": "リンゼイ・グラハム上院議員は死去したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "アメリカの国会議員であり、トランプ大統領の盟友であるリンゼイ・グラハム氏が死去した。",
-          "span": "US Senator and close Trump ally Lindsey Graham dies",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "グラハム上院議員は、イスラエルの強力なアメリカ上院同盟者の一人であった。",
-          "span": "one of Israel’s strongest US Senate allies",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "グラハム上院議員は71歳であった。",
-          "span": "He was 71",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "グラハム上院議員は、短く突然の病の後、死去した。",
-          "span": "dies after 'brief and sudden illness'",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "グラハム上院議員は、突然の病で死去したと、彼の事務所が発表した。",
-          "span": "died of a sudden illness, his office said",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "グラハム上院議員は、金曜日にウクライナ大統領ヴォロディミル・ゼレンスキー氏と会談するため、キエフから戻ったばかりであった。",
-          "span": "had just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "リンゼイ・グラハム上院議員は死去した。報道によると、彼は71歳で、突然の病が原因であった。彼は最近キエフを訪問し、ウクライナ大統領と会談していた。",
-      "note": "プライバシーに配慮し、故人の公的な役職と関連する事実のみを記載した。",
-      "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1]: '危険な暑さ'という評価語を削除し、spanを最小核に修正しました。",
+          "facts[2]: '猛烈な暑さ'という評価語を削除し、spanを最小核に修正しました。"
+        ]
       }
     }
   ]
