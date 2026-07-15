@@ -1,154 +1,10 @@
 {
-  "builtAt": "2026-07-14T10:23:45.855Z",
+  "builtAt": "2026-07-15T06:27:22.219Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "slug": "YemensHouthislaunchmissi",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/14/us-bombs-iran-again-tehran-strikes-gulf-tankers-whats-the-latest?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-military-releases-video-of-its-latest-strikes-on-iran?traffic_source=rss"
-        }
-      ],
-      "issue": "イエメンのフーシ派とサウジアラビア、および米国とイランの間で、地域紛争のエスカレーションはどのように展開しているか？",
-      "stasis": "因果の解釈（割れる）",
-      "facts": [
-        {
-          "t": "イエメンのフーシ派は、サナア空港への攻撃についてサウジアラビアを非難している。",
-          "span": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イエメンのフーシ派はアブハ空港をミサイルで攻撃した。",
-          "span": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "米国はイランを再び爆撃した。",
-          "span": "US bombs Iran again",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イランは湾岸とタンカーを攻撃した。",
-          "span": "Tehran strikes Gulf, tankers",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国中央軍は、イラン本土と島を攻撃したとされる最新の攻撃を示すビデオを公開した。",
-          "span": "US Central Command has released video showing its latest wave of attacks reportedly hitting Iran&#039;s mainland and isl",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イエメンのフーシ派はサウジアラビアを攻撃し、米国はイランを攻撃した。イランも湾岸とタンカーを攻撃した。評価は割れる。",
-      "note": "プライバシー配慮のため、個人名は公人または公的行為に関連する場合のみ記載。未確認の情報は facts に含めず、positions の claim で言及する。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "クロマグロ国際会議 漁獲枠拡大めぐり合意に至らず",
-      "slug": "クロマグロ国際会議漁獲枠拡大めぐり合意に至らず",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015176661000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6587908?source=rss"
-        }
-      ],
-      "issue": "太平洋クロマグロの「中西部太平洋」における漁獲枠拡大は合意に至るか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "太平洋クロマグロの資源管理を話し合う国際会議が閉幕した。",
-          "span": "太平洋クロマグロの資源管理を話し合う国際会議が閉幕し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "会議では、日本近海を含む「中西部太平洋」の漁獲枠拡大が焦点となっていた。",
-          "span": "焦点となっていた日本近海を含む「中西部太平洋」の漁獲枠の拡大について",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "参加する国や地域の意見の隔たりが埋まらず、漁獲枠拡大について合意に至らなかった。",
-          "span": "参加する国や地域の意見の隔たりが埋まらず合意に至りませんでした",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "太平洋クロマグロの資源管理を話し合う国際会議が閉幕し、日本近海を含む「中西部太平洋」の漁獲枠拡大について、参加国・地域の意見の隔たりが埋まらず合意に至らなかった。",
-      "note": "プライバシー配慮のため、具体的な国名・地域名は記載しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "たばこのポイ捨てで出火か　重過失失火容疑で男書類送検―道頓堀ビル火災・大阪府警",
-      "slug": "たばこのポイ捨てで出火か重過失失火容疑で男書類送",
+      "headline": "自民、立憲民主両党は皇室典範改正案の１５日の参院特別委員会での採決を見送ることを決めた",
+      "slug": "自民立憲民主両党は皇室典範改正案の日の参院特別委",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -157,19 +13,31 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015176341000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015176941000"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071400432&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026071500165&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071500539&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071500594&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071500592&g=flash&m=rss"
         }
       ],
-      "issue": "道頓堀ビル火災の原因は、男性従業員によるたばこのポイ捨てか？",
-      "stasis": "因果の解釈（割れる）",
+      "issue": "皇室典範改正案は今国会で成立すべきか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "去年8月、大阪・ミナミの道頓堀に面したビルで火災が発生し、2人の消防隊員が死亡した。",
-          "span": "去年8月、大阪・ミナミの道頓堀に面したビルが焼け、消防隊員2人が死亡した火事",
+          "t": "皇族数の確保を目的とした皇室典範改正案が、参議院で審議入りした。",
+          "span": "皇室典範改正案 参議院で審議入り",
           "src": [
             {
               "ty": "press",
@@ -182,8 +50,8 @@
           ]
         },
         {
-          "t": "大阪府警は、ビルに入る飲食店の35歳の男性従業員を重過失失火容疑で書類送検した。",
-          "span": "",
+          "t": "参議院自民党と立憲民主党の国会対策委員長が会談した。",
+          "span": "参議院自民党と立憲民主党の国会対策委員長が会談し",
           "src": [
             {
               "ty": "press",
@@ -192,18 +60,22 @@
           ]
         },
         {
-          "t": "大阪府警は、男性従業員が火のついたたばこをポイ捨てしたことが火事につながったとみている。",
-          "span": "火がついたたばこをポイ捨てしたことが火事につながったとして",
+          "t": "野党側が十分な審議を求めていることを踏まえ、特別委員会での採決は15日に見送られることが確認・決定された。",
+          "span": "特別委員会での採決は見送ることを確認しました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "たばこのポイ捨てが出火原因の可能性がある。",
-          "span": "たばこのポイ捨てで出火か",
+          "t": "皇室典範改正案は今国会での成立が見込まれている。",
+          "span": "今国会成立へ",
           "src": [
             {
               "ty": "press",
@@ -212,21 +84,189 @@
           ]
         }
       ],
-      "positions": [],
-      "consensus": "去年8月、大阪・ミナミの道頓堀に面したビルで火災が発生し、2人の消防隊員が死亡した。大阪府警は、ビルに入る飲食店の35歳の男性従業員を重過失失火容疑で書類送検し、たばこのポイ捨てが出火原因の可能性があるとみている。",
-      "note": "本件は、男性従業員が重過失失火容疑で書類送検されたという事実と、その原因としてたばこのポイ捨てが挙げられているという報道内容を構造化したものです。火災の原因に関する最終的な判断や、男性従業員の責任の有無については、本テキストからは断定できません。",
+      "positions": [
+        {
+          "actor": "立憲民主党",
+          "stance": "attack",
+          "claim": "立憲民主党は、皇室典範改正案について十分な審議を求めていると報じられている。",
+          "span": "十分な審議を求めている",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "公明党",
+          "stance": "support",
+          "claim": "公明党は、皇室典範改正案に賛成する方針であると報じられている。",
+          "span": "皇室典範改正案に賛成する方針を決めた",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "consensus": "皇室典範改正案が参議院で審議入りし、採決は一旦見送られた。公明党は改正案に賛成する方針を示しているが、野党側は十分な審議を求めている。評価は割れる。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "fact 2 の span を「ビルに入る飲食店の35歳の男性従業員を重過…」に修正しました。元テキストの「重過失失火容疑で書類送検」という部分を反映させるため、元の抽出結果の空文字から修正しました。",
-          "fact 1 の span を「去年8月、大阪・ミナミの道頓堀に面したビルが焼け、消防隊員2人が死亡した火事」に修正しました。元テキストの表現に近づけ、より正確な引用とするためです。",
-          "fact spanが原文に無い→除去「警察は、ビルに入る飲食店の35歳の男…」"
+          "positions[0].claim: メタ記述の徹底と著作権の観点から、地の文の断定表現を「〜と報じられている」の構造に修正し、元の文の言い回しをなぞらないよう再記述しました。",
+          "positions[1].claim: メタ記述の徹底と著作権の観点から、地の文の断定表現を「〜と報じられている」の構造に修正し、元の文の言い回しをなぞらないよう再記述しました。"
         ]
       }
     },
     {
-      "headline": "ICE kills 26-year-old in Maine: What happened, and who else has ICE killed?",
-      "slug": "ICEkills26yearoldinMaine",
+      "headline": "インフルエンサー「宮崎麗果」に有罪　法人税１．５億円脱税―東京地裁",
+      "slug": "インフルエンサ宮崎麗果に有罪法人税億円脱税東京地",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015177381000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071500155&g=soc&m=rss"
+        }
+      ],
+      "issue": "インフルエンサー宮崎麗果氏の脱税事件に関する東京地裁の判決内容は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "インフルエンサー「宮崎麗果」として活動する広告代理店の代表が、脱税の罪で有罪判決を受けた。",
+          "span": "脱税の罪で有罪判決",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "東京地方裁判所がこの判決を言い渡した。",
+          "span": "言い渡しま",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "判決は執行猶予付きの有罪判決だった。",
+          "span": "執行猶予のついた有罪判決",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "脱税額は法人税1.5億円であった。",
+          "span": "法人税１．５億円脱税",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "インフルエンサー宮崎麗果氏が脱税の罪で有罪判決を受けたことは事実である。判決理由については東京地方裁判所が評価を示している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "issueフィールドがテキストにない評価を含んでいたため、事実を問う形に修正しました。",
+          "facts[1].spanが空だったため、元テキストの該当箇所を指すように修正しました。",
+          "facts[3].tの表現が「とされる」と断定を避けていたため、有罪判決の文脈に合わせてより直接的な表現に修正しました。",
+          "fact spanが原文に無い→除去「東京地方裁判所は…有罪判決を言い渡し…」"
+        ]
+      }
+    },
+    {
+      "headline": "北陸新幹線延伸ルート “「桂川案」が望ましい” 与党委員会",
+      "slug": "北陸新幹線延伸ルト桂川案が望ましい与党委員会",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015177231000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071500175&g=pol&m=rss"
+        }
+      ],
+      "issue": "北陸新幹線延伸ルートに関する与党委員会の報告内容は何か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "北陸新幹線の新大阪までの延伸ルートを議論する与党の委員会が報告をまとめた。",
+          "span": "報告をまとめました",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "報告で言及された「桂川案」は、福井県小浜市から京都駅の西側にある桂川駅付近を経由するルートである。",
+          "span": "福井県小浜市から京都駅の西側にある桂川駅付近を経由するルート",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "与党委員会が北陸新幹線延伸ルートに関する報告をまとめ、「桂川案」を望ましいとした。この報告に対する他の評価は、この記事では示されていない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[2]: 元テキストに明示されていない「高くなる可能性がある」という評価・推測が混入していたため、項目ごと削除しました。テキストの記述は途中で途切れており、検証可能な事実として独立させることが困難でした。",
+          "issue: テキスト内に桂川案に対する反対意見や議論が示されていないため、「適切か？」という問いは中立性に欠けると判断しました。与党委員会の報告内容を問う、より事実に基づいた問いに修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "T.Rex skeleton sells for $50.1 million at New York auction",
+      "slug": "TRexskeletonsellsfor501m",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -235,39 +275,33 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c2ly580kxnko?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c0qyq800n44o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/14/ice-kills-26-year-old-in-maine-what-happened-and-who-else-has-ice-killed?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/t-rex-skeleton-sells-for-50-1-million-at-new-york-auction?traffic_source=rss"
         }
       ],
-      "issue": "米国移民税関執行局（ICE）による死亡事案について、どのような情報が報じられているか？",
-      "stasis": "政策",
+      "issue": "ティラノサウルス・レックスの骨格は史上最高額で売却されたか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "メイン州での作戦中にコロンビア国籍の人物がICE捜査官によって殺害された。",
-          "span": "killed by ICE agent during operation in Maine",
+          "t": "ティラノサウルス・レックスの骨格がニューヨークの競売で売却された。",
+          "span": "sold by Sotheby's in New York",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この事案は、ヒューストンで不法移民が移民捜査官に射殺されてから1週間も経たないうちに発生した。",
-          "span": "comes less than a week after an undocumented migrant was fatally shot in Houston by an immigration agent",
-          "src": [
+            },
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "メイン州で殺害された人物は26歳だった。",
-          "span": "26-year-old",
+          "t": "その骨格は「ガス」という愛称で知られていた。",
+          "span": "nicknamed ‘Gus’",
           "src": [
             {
               "ty": "press",
@@ -276,9 +310,33 @@
           ]
         },
         {
-          "t": "ドナルド・トランプ氏が政権に復帰して以来、ICEの銃撃または拘留中に60人以上が死亡している。",
-          "span": "More than 60 people have died in ICE shootings or while in detention since Donald Trump returned to power",
+          "t": "この恐竜は6700万年前に地球を歩き回っていた。",
+          "span": "roamed the planet 67 million years ago",
           "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "売却額は5010万ドルに達した。",
+          "span": "$50.1 million",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "これは史上最も高価な恐竜の骨格となった。",
+          "span": "most expensive dinosaur ever sold",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
             {
               "ty": "press",
               "l": "Al Jazeera"
@@ -287,13 +345,11 @@
         }
       ],
       "positions": [],
-      "consensus": "米国移民税関執行局（ICE）による死亡事案が複数発生しており、その背景には過去の同様の事案や統計があることが報じられている。本件に関する評価は記事中には示されていない。",
+      "consensus": "ティラノサウルス・レックスの骨格がニューヨークの競売で5010万ドルで売却され、史上最高額を記録したという事実については合意されている。",
       "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "issueが、テキストに明示されていない評価的な問い（適切か？）になっていたため、事実の報道内容を問う中立的な表現に修正した。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
