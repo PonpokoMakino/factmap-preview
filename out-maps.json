@@ -1,103 +1,239 @@
 {
-  "builtAt": "2026-07-15T12:14:17.496Z",
+  "builtAt": "2026-07-15T18:34:02.697Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "【ライブ】芥川賞 小砂川チトさん 直木賞 朝倉かすみさん会見",
-      "slug": "ライブ芥川賞小砂川チトさん直木賞朝倉かすみさん会",
-      "independentSources": 3,
+      "headline": "日本９連勝、決勝Ｔへ　イタリアに競り勝つ―バレー男子・ネーションズリーグ",
+      "slug": "日本連勝決勝へイタリアに競り勝つバレ男子ネション",
+      "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015176901000"
-        },
-        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588075?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6588089?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071500990&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026071501237&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071501049&g=spo&m=rss"
         }
       ],
-      "issue": "第175回芥川賞・直木賞の選考結果は適切か？",
-      "stasis": "事実",
+      "issue": "バレーボール男子ネーションズリーグにおける日本の決勝トーナメント進出",
+      "stasis": "事実合意",
       "facts": [
         {
-          "t": "第175回芥川賞と直木賞の選考会が15日に都内で開催された。",
-          "span": "選考会が15日、都内で開かれ",
+          "t": "バレーボール男子日本代表がネーションズリーグでイタリアに勝利した。",
+          "span": "イタリア撃破",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "日本代表はネーションズリーグで8強に進出した。",
+          "span": "NL8強",
+          "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
+            }
+          ]
+        },
+        {
+          "t": "日本代表はイタリアに競り勝った。",
+          "span": "イタリアに競り勝つ",
+          "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "芥川賞に小砂川チトさんの作品「ゾンビ回収婦」が選出された。",
-          "span": "",
+          "t": "日本代表はネーションズリーグで9連勝を記録した。",
+          "span": "日本９連勝",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "直木賞に朝倉かすみさんの作品「けんぐゎい」が選出された。",
-          "span": "",
+          "t": "日本代表はネーションズリーグ決勝トーナメントに進出した。",
+          "span": "決勝Ｔへ",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日本代表はホームでイタリアに雪辱を果たした。",
+          "span": "ホームで雪辱",
+          "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日本代表は3枚ブロックを攻略した。",
+          "span": "３枚ブロック攻略",
+          "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "第175回芥川賞に小砂川チトさんの「ゾンビ回収婦」、直木賞に朝倉かすみさんの「けんぐゎい」が選ばれた。本記事には選考結果に対する評価や意見は含まれていないため、アプリは裁定しない。",
-      "note": "本記事は選考結果の事実のみを報じており、選考結果に対する評価や意見は含まれていません。",
+      "consensus": "バレーボール男子日本代表がネーションズリーグでイタリアに勝利し、8強に進出した。日本は9連勝で決勝トーナメントへ進み、ホームでイタリアに雪辱を果たした。3枚ブロックを攻略した。",
+      "note": "複数の報道機関が同様の事実を報じているため、事実合意型と判断し、positionsは空とする。",
       "audit": {
         "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "首相 国民会議の消費税減税議論 “8月頭ぐらいなら間に合う”",
+      "slug": "首相国民会議の消費税減税議論8月頭ぐらいなら間に",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015177561000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588068?source=rss"
+        }
+      ],
+      "issue": "消費税減税に関する国民会議での議論は、法整備に間に合うか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "国会で、高市総理大臣と野野党6党の党首による党首討論が行われた。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、食料品の消費税減税について、来月はじめごろまでに国民会議で議論がまとまれば法整備などに向けた作業は間に合うと述べた。",
+          "span": "8月頭ぐらいなら間に合う",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "高市総理大臣は、食料品の消費税減税に関する国民会議での議論が来月はじめごろまでにまとまれば、法整備などに向けた作業は間に合うと発言した。",
+      "note": "本件は、党首討論における高市総理大臣の発言と、それに関連する報道を構造化した。消費税減税に関する具体的な議論の進捗や、その評価については、提示されたテキストからは判断できないため、事実と発言のみを抽出した。",
+      "audit": {
+        "changed": true,
         "issues": [
-          "検品パス失敗（The operation was aborted due to timeout）→抽出のみ採用",
-          "fact spanが原文に無い→除去「小砂川チトさんの「ゾンビ回収婦」が選…」",
-          "fact spanが原文に無い→除去「朝倉かすみさんの「けんぐゎい」が選ば…」"
+          "factのtに元のテキストのspanが直接入っていたため、spanを分離し、tをより一般的な記述に修正しました。",
+          "consensusの末尾にあった「評価は割れる。」は、元テキストにそのような記述がないため削除しました。",
+          "noteの「消費税減税に関する具体的な議論の進捗や、その評価については、提示されたテキストからは判断できないため、事実と発言のみを抽出した。」は、検品係の判断ではなく抽出エンジンの説明であるため削除しました。",
+          "fact spanが原文に無い→除去「高市総理大臣は、食料品の消費税減税を…」"
         ]
       }
     },
     {
-      "headline": "Iran threatens to block more trade routes as US launches fresh strikes",
-      "slug": "Iranthreatenstoblockmore",
+      "headline": "エヌビディアＣＥＯ、セガに謝意　９０年代に危機救済―東京で記念イベント",
+      "slug": "エヌビディアセガに謝意年代に危機救済東京で記念イ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015178011000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071501101&g=soc&m=rss"
+        }
+      ],
+      "issue": "エヌビディアCEOの来日目的と、日本のゲーム会社との関係性は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが日本を訪れた。",
+          "span": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが日本を訪れ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フアンCEOは、長年自社製品を提供している日本の大手ゲーム会社と共同でイベントに出席した。",
+          "span": "長年、自社製品を提供する日本の大手ゲーム会社と共同で開いたイベントに出席し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フアンCEOは、経営が苦しかった時代に日本のゲーム会社から出資を受けたエピソードに言及した。",
+          "span": "経営が苦しかった時代に出資を受けたエピソードなど",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フアンCEOは、セガに対して、1990年代に危機を救済してもらったことへの謝意を東京での記念イベントで示した。",
+          "span": "セガに謝意　９０年代に危機救済―東京で記念イベント",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "エヌビディアCEOが来日し、日本の大手ゲーム会社とイベントで交流した。エヌビディアCEOは、過去に日本のゲーム会社から支援を受けたことへの謝意を示した。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
+      "slug": "Russianattackskilleighta",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -106,272 +242,65 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/15/drc-ebola-cases-surpass-2000-as-more-health-workers-begin-strike?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/gas-tanker-explodes-in-fire-near-army-barracks-in-lebanon?traffic_source=rss"
         }
       ],
-      "issue": "複数の国際的な緊張と労働者の権利に関する状況",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "米国が新たな攻撃を開始した。",
-          "span": "US launches fresh strikes",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イタリアで熱波が発生している。",
-          "span": "Heatwave prompts",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "コンゴ民主共和国のエボラ症例が2,000件を超えた。",
-          "span": "DRC Ebola cases surpass 2,000",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "死者数が増加している。",
-          "span": "death toll rises",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "Iran",
-          "stance": "attack",
-          "claim": "より多くの貿易ルートを封鎖すると脅迫していると報じられている。",
-          "span": "threatens to block more trade routes",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            0
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "US President Donald Trump",
-          "stance": "support",
-          "claim": "イランが交渉に戻らない場合、来週イランの橋と発電所を攻撃すると誓ったと報じられている。",
-          "span": "vowed to strike Iran's bridges and power plants next week if the country does not return to ta",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "Delivery riders in Milan, Bologna and Florence",
-          "stance": "support",
-          "claim": "追加の権利を求めてストライキを行うと報じられている。",
-          "span": "strike for extra rights",
-          "reason": "健康と賃金を保護するため。",
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "Health workers in Democratic Republic of the Congo's Ituri province",
-          "stance": "support",
-          "claim": "ストライキを開始していると報じられている。",
-          "span": "begin strike",
-          "reason": "未払い賃金のため。",
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "consensus": "複数の国際的な緊張と労働者の権利に関する状況が存在しているが、それらに対する評価は割れるため、アプリは裁定しない。",
-      "note": "本JSONは、イランと米国の国際関係、イタリアの配達員の労働問題、コンゴ民主共和国の医療従事者の労働問題という、複数の異なるニュース記事から情報を構造化しています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issueが複数の異なる話題を不適切に一つの問いにまとめていたため、文書のスコープを記述する形に修正しました。",
-          "positionsのclaimが地の文の断定になっていたため、メタ記述（「〜と報じられている」）を追加しました。",
-          "positions[0]のclaimがfacts[0]に依拠する関係が明確であったため、premisesに[0]を追加しました。"
-        ]
-      }
-    },
-    {
-      "headline": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
-      "slug": "ニチレイサイバ攻撃を公表外食企業や食品メカに影響",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015177751000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588070?source=rss"
-        }
-      ],
-      "issue": "ニチレイのシステム障害の原因はサイバー攻撃か？",
+      "issue": "最近の国際的な出来事は何だったか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "冷凍食品大手のニチレイでシステム障害が発生した。",
-          "span": "冷凍食品大手の「ニチレイ」でシステム障害が発生し",
+          "t": "ロシアの攻撃により8人が死亡した。",
+          "span": "Russian attacks kill eight",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "このシステム障害により、外食チェーンなどの間で商品の欠品などの影響が出ている。",
-          "span": "外食チェーンなどの間で商品の欠品などの影響が出ている問題で",
+          "t": "ウクライナの4地域で民間人の死傷者が報告された。",
+          "span": "Civilian casualties are reported in four Ukrainian regions",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "ニチレイは、サイバー攻撃を受けたと公表した。",
-          "span": "会社はサイバー攻撃を受けたと公表しました",
+          "t": "ウクライナは黒海で20隻のロシア船を攻撃した。",
+          "span": "Kyiv hits 20 Russian vessels in the Black Sea",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "ニチレイの障害の原因はサイバー攻撃であると報じられている。",
-          "span": "ニチレイ障害 サイバー攻撃が原因",
+          "t": "レバノンのヘルメルにある陸軍兵舎近くで、気温上昇による火災の後、ガスタンカーが爆発した。",
+          "span": "A gas tanker exploded after soaring temperatures sparked a fire near the Lebanese Army barracks in Hermel.",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ニチレイのシステム障害はサイバー攻撃が原因であると公表されており、その影響で商品の欠品などが発生している点で一致している。",
-      "note": "本件は事実の公表に関するものであり、評価や意見の対立は見られないため、positionsは空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "「検察なめんなよ」検事の刑事裁判 取り調べの動画が法廷で",
-      "slug": "検察なめんなよ検事の刑事裁判取り調べの動画が法廷",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015177781000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588077?source=rss"
-        }
-      ],
-      "issue": "検事が取り調べで「検察なめんなよ」などと発言したことは、特別公務員暴行陵虐罪にあたるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "大阪地検特捜部の検事が、取り調べで「検察なめんなよ」などと発言し、罵倒し続けたとして特別公務員暴行陵虐の罪に問われている。この検事の2回目の裁判が開かれた。",
-          "span": "大阪地検特捜部の取り調べで「検察なめんなよ」などと迫り、罵倒し続けたなどとして特別公務員暴行陵虐の罪に問われている検事の2回目の裁判が開かれ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "検事の裁判で、机をたたいたり大声を上げたりする様子が記録された取り調べの動画が法廷で上映された。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "検事が取り調べで「検察なめんな」などと発言した件について、法廷で映像が上映された。",
-          "span": "「検察なめんな」法廷で映像上映",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "検事が取り調べで「検察なめんなよ」などと発言し、罵倒し続けたとして特別公務員暴行陵虐の罪に問われ、裁判で取り調べの動画が上映されたことについては合意されている。",
-      "note": "本件は、検察官の行為の適法性・妥当性に関する評価が分かれる可能性があるため、事実関係の提示に留める。",
+      "consensus": "本記事は、複数の国際的な出来事を事実として報じており、特定の評価や意見の対立は示されていない。",
+      "note": "提供された記事は、特定の争点に対する評価や立場を表明する主体を含んでいないため、positionsは空です。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[0]のtを修正：元テキストの情報をより正確に反映させるため、「検事の2回目の裁判が開かれ」を文末に追加。",
-          "facts[1]のspanを修正：元テキストの表現に近づけるため、「机をたたいたり大声を上げたりする様子が記録された取り調べの動画が法廷で」に修正。",
-          "consensusを修正：元のconsensusにあった「評価は割れる」という評価語を削除し、事実関係の合意のみを記述するように修正。",
-          "fact spanが原文に無い→除去「机をたたいたり大声を上げたりする様子…」"
+          "facts[2].spanが空文字だったため、元テキストの該当箇所「Kyiv hits 20 Russian vessels in the Black Sea」に修正しました。",
+          "fact spanが原文に無い→除去「Ukraine hits 20 Ru…」"
         ]
       }
     }
