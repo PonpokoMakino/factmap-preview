@@ -1,239 +1,159 @@
 {
-  "builtAt": "2026-07-15T18:34:02.697Z",
+  "builtAt": "2026-07-16T01:10:33.354Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "日本９連勝、決勝Ｔへ　イタリアに競り勝つ―バレー男子・ネーションズリーグ",
-      "slug": "日本連勝決勝へイタリアに競り勝つバレ男子ネション",
-      "independentSources": 2,
+      "headline": "利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞",
+      "slug": "利根川進さん死去86歳日本人初のノベル生理学医学",
+      "independentSources": 3,
       "sources": [
+        "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015178081000"
+        },
+        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588089?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6588101?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071501237&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071501049&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026071600194&g=soc&m=rss"
         }
       ],
-      "issue": "バレーボール男子ネーションズリーグにおける日本の決勝トーナメント進出",
-      "stasis": "事実合意",
+      "issue": "利根川進さんの死去と、その科学的功績に関する主要な事実は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "バレーボール男子日本代表がネーションズリーグでイタリアに勝利した。",
-          "span": "イタリア撃破",
+          "t": "アメリカのマサチューセッツ工科大学教授である利根川進さんが、今月11日に86歳で亡くなった。",
+          "span": "今月11日亡くなりました。86歳でした",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "日本代表はネーションズリーグで8強に進出した。",
-          "span": "NL8強",
-          "src": [
+              "l": "NHK"
+            },
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "日本代表はイタリアに競り勝った。",
-          "span": "イタリアに競り勝つ",
-          "src": [
+              "l": "Yahoo!ニュース"
+            },
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "日本代表はネーションズリーグで9連勝を記録した。",
-          "span": "日本９連勝",
+          "t": "利根川進さんは、体を守る免疫の一種である「抗体」ができる仕組みを解明した。",
+          "span": "体を守る免疫の一種「抗体」ができる仕組みを解明し",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "日本代表はネーションズリーグ決勝トーナメントに進出した。",
-          "span": "決勝Ｔへ",
+          "t": "利根川進さんは1987年に、日本人で初めてノーベル生理学・医学賞を受賞した。",
+          "span": "1987年に日本人で初めてノーベル生理学・医学賞を受賞した",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "日本代表はホームでイタリアに雪辱を果たした。",
-          "span": "ホームで雪辱",
-          "src": [
+              "l": "NHK"
+            },
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "日本代表は3枚ブロックを攻略した。",
-          "span": "３枚ブロック攻略",
-          "src": [
+              "l": "Yahoo!ニュース"
+            },
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "バレーボール男子日本代表がネーションズリーグでイタリアに勝利し、8強に進出した。日本は9連勝で決勝トーナメントへ進み、ホームでイタリアに雪辱を果たした。3枚ブロックを攻略した。",
-      "note": "複数の報道機関が同様の事実を報じているため、事実合意型と判断し、positionsは空とする。",
+      "consensus": "利根川進さんが死去し、その功績が報じられている。評価は割れない。",
+      "note": "事実合意型の報道であり、論調の対立は存在しない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "首相 国民会議の消費税減税議論 “8月頭ぐらいなら間に合う”",
-      "slug": "首相国民会議の消費税減税議論8月頭ぐらいなら間に",
-      "independentSources": 2,
+      "headline": "Wildfire smoke engulfs Toronto, Canada and turns its skies orange",
+      "slug": "WildfiresmokeengulfsToro",
+      "independentSources": 3,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015177561000"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071600094&g=int&m=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588068?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/wildfire-smoke-engulfs-toronto-canada-and-turns-its-skies-orange?traffic_source=rss"
         }
       ],
-      "issue": "消費税減税に関する国民会議での議論は、法整備に間に合うか？",
-      "stasis": "政策",
+      "issue": "アフリカ中部コンゴの熱帯雨林で発見された霊長類コロブス属の新種はどのような特徴を持つか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "国会で、高市総理大臣と野野党6党の党首による党首討論が行われた。",
-          "span": "",
+          "t": "アフリカ中部コンゴの熱帯雨林で霊長類コロブス属の新種が発見された。",
+          "span": "霊長類コロブス属の新種発見",
           "src": [
             {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            },
+            {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "高市総理大臣は、食料品の消費税減税について、来月はじめごろまでに国民会議で議論がまとまれば法整備などに向けた作業は間に合うと述べた。",
-          "span": "8月頭ぐらいなら間に合う",
+          "t": "新種は全身が黒く、唇などがオレンジ色である。",
+          "span": "全身黒く、唇などオレンジ色",
           "src": [
             {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            },
+            {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "高市総理大臣は、食料品の消費税減税に関する国民会議での議論が来月はじめごろまでにまとまれば、法整備などに向けた作業は間に合うと発言した。",
-      "note": "本件は、党首討論における高市総理大臣の発言と、それに関連する報道を構造化した。消費税減税に関する具体的な議論の進捗や、その評価については、提示されたテキストからは判断できないため、事実と発言のみを抽出した。",
+      "consensus": "アフリカ中部コンゴの熱帯雨林で全身が黒く唇などがオレンジ色の霊長類コロブス属の新種が発見されたという事実は合意されている。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "factのtに元のテキストのspanが直接入っていたため、spanを分離し、tをより一般的な記述に修正しました。",
-          "consensusの末尾にあった「評価は割れる。」は、元テキストにそのような記述がないため削除しました。",
-          "noteの「消費税減税に関する具体的な議論の進捗や、その評価については、提示されたテキストからは判断できないため、事実と発言のみを抽出した。」は、検品係の判断ではなく抽出エンジンの説明であるため削除しました。",
-          "fact spanが原文に無い→除去「高市総理大臣は、食料品の消費税減税を…」"
+          "factsのspanが空文字だったため、元テキストから内容の最小核を抽出して設定しました。",
+          "入力された元テキストには無関係な情報（Al Jazeeraの山火事の記事）が含まれていましたが、抽出エンジンのJSONにはその情報が混入していなかったため、JSON自体の修正は不要でした。",
+          "fact spanが原文に無い→除去「霊長類コロブス属の新種発見,アフリカ…」",
+          "fact spanが原文に無い→除去「全身黒く、唇などオレンジ色,oran…」"
         ]
       }
     },
     {
-      "headline": "エヌビディアＣＥＯ、セガに謝意　９０年代に危機救済―東京で記念イベント",
-      "slug": "エヌビディアセガに謝意年代に危機救済東京で記念イ",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178011000"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071501101&g=soc&m=rss"
-        }
-      ],
-      "issue": "エヌビディアCEOの来日目的と、日本のゲーム会社との関係性は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが日本を訪れた。",
-          "span": "アメリカの半導体大手「エヌビディア」のジェンスン・フアンCEOが日本を訪れ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "フアンCEOは、長年自社製品を提供している日本の大手ゲーム会社と共同でイベントに出席した。",
-          "span": "長年、自社製品を提供する日本の大手ゲーム会社と共同で開いたイベントに出席し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "フアンCEOは、経営が苦しかった時代に日本のゲーム会社から出資を受けたエピソードに言及した。",
-          "span": "経営が苦しかった時代に出資を受けたエピソードなど",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "フアンCEOは、セガに対して、1990年代に危機を救済してもらったことへの謝意を東京での記念イベントで示した。",
-          "span": "セガに謝意　９０年代に危機救済―東京で記念イベント",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "エヌビディアCEOが来日し、日本の大手ゲーム会社とイベントで交流した。エヌビディアCEOは、過去に日本のゲーム会社から支援を受けたことへの謝意を示した。",
-      "note": "",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Russian attacks kill eight as Ukraine hits Black Sea oil tankers",
-      "slug": "Russianattackskilleighta",
+      "headline": "‘Epic squared’: Scaloni lauds Argentina’s back-to-back World Cup comebacks",
+      "slug": "EpicsquaredScalonilaudsA",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -242,19 +162,85 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/gas-tanker-explodes-in-fire-near-army-barracks-in-lebanon?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/7/16/epic-squared-scaloni-lauds-argentinas-back-to-back-world-cup-comebacks?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/7/15/tuchel-defends-tactics-after-argentina-send-england-packing-from-world-cup?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/7/15/argentina-players-brandish-political-falklands-flag-after-england-match?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/7/15/argentina-stun-england-in-2-1-comeback-win-to-reach-2026-world-cup-final?traffic_source=rss"
         }
       ],
-      "issue": "最近の国際的な出来事は何だったか？",
-      "stasis": "事実",
+      "issue": "アルゼンチン代表選手によるフォークランド諸島バナー掲示はFIFAの規約違反であり、懲戒処分の対象となるか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "ロシアの攻撃により8人が死亡した。",
-          "span": "Russian attacks kill eight",
+          "t": "アルゼンチン代表がワールドカップ準決勝でイングランドに2対1で逆転勝利し、決勝に進出した。",
+          "span": "Argentina stun England in 2-1 comeback win to reach 2026 World Cup final",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチン代表は決勝でスペインと対戦する予定である。",
+          "span": "Argentina will face Spain in the final",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチン代表選手がイングランド戦後に政治的なフォークランド諸島バナーを掲示した。",
+          "span": "brandish political Falklands flag",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "そのバナーはリサンドロ・マルティネス選手とジオバニ・ロ・チェルソ選手によって掲げられた。",
+          "span": "held up by Lisandro Martinez and Giovani Lo Celso",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "バナーの掲示はFIFAのスタジアム行動規範に違反する。",
+          "span": "goes against FIFA’s Stadium Code of Conduct",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチンはFIFAから懲戒処分の可能性に直面している。",
+          "span": "face the prospect of disciplinary action from Fifa",
           "src": [
             {
               "ty": "press",
@@ -263,28 +249,8 @@
           ]
         },
         {
-          "t": "ウクライナの4地域で民間人の死傷者が報告された。",
-          "span": "Civilian casualties are reported in four Ukrainian regions",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ウクライナは黒海で20隻のロシア船を攻撃した。",
-          "span": "Kyiv hits 20 Russian vessels in the Black Sea",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "レバノンのヘルメルにある陸軍兵舎近くで、気温上昇による火災の後、ガスタンカーが爆発した。",
-          "span": "A gas tanker exploded after soaring temperatures sparked a fire near the Lebanese Army barracks in Hermel.",
+          "t": "イングランドのトゥヘル監督は、82分にリース・ジェームズ選手をダン・バーン選手に、デクラン・ライス選手をニコ・オライリー選手に交代させた。",
+          "span": "swapped Reece James for Dan Burn, and Declan Rice for defender Nico O’Reilly in the 82nd minute",
           "src": [
             {
               "ty": "press",
@@ -294,13 +260,119 @@
         }
       ],
       "positions": [],
-      "consensus": "本記事は、複数の国際的な出来事を事実として報じており、特定の評価や意見の対立は示されていない。",
-      "note": "提供された記事は、特定の争点に対する評価や立場を表明する主体を含んでいないため、positionsは空です。",
+      "consensus": "アルゼンチンがイングランドに勝利し、ワールドカップ決勝に進出したことは事実である。フォークランド諸島バナーの掲示については、FIFA規約違反の可能性があり、懲戒処分の対象となるかどうかが論点となっている。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": [
+          "検品パス失敗（Unterminated string in JSON at position 824 (line 35 column ）→抽出のみ採用",
+          "position spanが原文に無い→除去「'Epic squared'…」",
+          "position spanが原文に無い→除去「'There was blood i…」"
+        ]
+      }
+    },
+    {
+      "headline": "不屈の王者、また劇的に　「因縁」対決制す―Ｗ杯サッカー・アルゼンチン",
+      "slug": "不屈の王者また劇的に因縁対決制す杯サッカアルゼン",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015177261000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071600172&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071401203&g=spo&m=rss"
+        }
+      ],
+      "issue": "サッカーワールドカップ北中米大会の準決勝の結果はどうなったか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "サッカーワールドカップ北中米大会の準決勝で、アルゼンチンがイングランドに2対1で逆転勝ちした。",
+          "span": "アルゼンチンが2対1で逆転勝ちし",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチンはサッカーワールドカップで2大会連続の決勝進出を果たした。",
+          "span": "2大会連続で決勝に進みました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "メッシ選手が2アシストを記録した。",
+          "span": "メッシ2アシスト",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "イングランドは60年ぶりの決勝進出を逃した。",
+          "span": "60年ぶりの決勝進出はなりませんでした",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "サッカーワールドカップの決勝はスペインと対戦する。",
+          "span": "決勝はスペイ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチンは対決を制した。",
+          "span": "「因縁」対決制す",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "大学野球で日本が決勝に進出した。",
+          "span": "日本が決勝進出",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "アルゼンチンがサッカーワールドカップ準決勝でイングランドに勝利し、2大会連続で決勝に進出したこと、および大学野球で日本が決勝に進出したことは事実として報じられている。これらの事実に対する評価や意見の対立は記事中に見られないため、アプリは裁定しない。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[2].spanが空文字だったため、元テキストの該当箇所「Kyiv hits 20 Russian vessels in the Black Sea」に修正しました。",
-          "fact spanが原文に無い→除去「Ukraine hits 20 Ru…」"
+          "facts[5].t: 評価語「因縁」が混入していたため、客観的な記述「アルゼンチンは対決を制した。」に修正しました。"
         ]
       }
     }
