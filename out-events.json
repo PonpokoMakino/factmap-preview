@@ -1,21 +1,203 @@
 {
-  "rankedAt": "2026-07-17T01:08:28.412Z",
+  "rankedAt": "2026-07-17T04:23:31.888Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
-      "slug": "HundredsofCanadawildfire",
-      "time": "2026-07-16T23:58:15.000Z",
-      "independentSources": 2,
+      "headline": "関東や東北などで局地的大雨 西日本中心に猛暑日 対策徹底を",
+      "slug": "関東や東北などで局地的大雨西日本中心に猛暑日対策",
+      "time": "2026-07-17T04:21:58.000Z",
+      "independentSources": 3,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 11,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "関東や東北などで局地的大雨 西日本中心に猛暑日 対策徹底を",
+          "snippet": "湿った空気が流れ込んでいる影響で、関東や東北などでは大気の状態が不安定になり、局地的な大雨となっています。神奈川県と千葉県、それに東京では「レベル4大雨危険警報」が出ている地域もあり、低い土地の浸水や…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015178661000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "東京・千葉・神奈川 大雨危険警報",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588252?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【東京都気象警報・注意報】〈危険警報（大雨）〉東京地方では、低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717042200_0_VPWW53_130000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【東京都気象警報・注意報】〈危険警報（大雨）〉東京地方では、低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717042159_0_VPWW54_130000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【東京都大雨警報・注意報】東京地方では、低い土地の浸水や河川の増水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717042157_0_VPWW55_130000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【神奈川県気象警報・注意報】〈危険警報（大雨、土砂災害）〉東部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717041553_0_VPWW53_140000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【神奈川県気象警報・注意報】〈危険警報（大雨、土砂災害）〉東部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717041553_0_VPWW54_140000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【茨城県気象警報・注意報】南部では、低い土地の浸水に注意してください。茨城県では、落雷や濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717041452_0_VPWW53_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【茨城県気象警報・注意報】南部では、低い土地の浸水に注意してください。茨城県では、落雷や濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717041452_0_VPWW54_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【茨城県大雨警報・注意報】南部では、低い土地の浸水や河川の増水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717041446_0_VPWW55_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "土砂災害警戒情報",
+          "snippet": "【神奈川県レベル４土砂災害危険警報】＜レベル４土砂災害危険警報の補足情報＞\nレベル４土砂災害危険警報が発表されている地域では、崖の近くや谷の出口など土砂災害警戒区域等にお住まいの方は、市町村から発令される避難指示などの情報に留意し、少しでも",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717041424_0_VXWW50_140000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "改正皇室典範が成立　制定７９年で初、養子男性子孫に継承権―女性皇族、家族は一般国民",
+      "slug": "改正皇室典範が成立制定年で初養子男性子孫に継承権",
+      "time": "2026-07-17T04:20:24.000Z",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "count": 8,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Blasts reported in Iran as US launches new wave of strikes",
+          "title": "皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立",
+          "snippet": "皇族数の確保に向けて、女性皇族が結婚後も皇室に残ることや、旧皇族の男系男子を養子に迎えられるようにすることを盛り込んだ改正皇室典範は、参議院本会議で採決が行われ、自民・維新両党と国民民主党、公明党、参…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179021000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "再審制度見直し 改正刑事訴訟法が参議院本会議で可決・成立",
+          "snippet": "再審＝裁判のやり直しの制度の見直しをめぐり、再審開始の決定に対する検察による不服申し立てを原則禁止することなどを盛り込んだ改正刑事訴訟法は、参議院本会議で採決が行われ、自民・維新両党と参政党などの賛成…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179011000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "国旗損壊処罰法 参議院本会議で可決・成立",
+          "snippet": "日本の国旗を損壊する行為を罰する法律は、参議院本会議で採決が行われ、賛成多数で可決・成立しました。日本の国旗を損壊する行為を罰する法律は、自民・維新両党と、国民民主党、参政党の4党が共同で提出し、対象…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179001000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "再審見直し法が成立 抗告原則禁止",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588246?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "改正皇室典範が成立　制定７９年で初、養子男性子孫に継承権―女性皇族、家族は一般国民",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700121&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "「国旗損壊罪」法が成立　罰則付き、拘禁２年以下―表現の自由、侵害に懸念",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700126&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "再審見直し、改正刑訴法が成立　抗告「原則禁止」、証拠使用に制限",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700128&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "改正皇室典範が成立した",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700553&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "US launches fresh wave of strikes as Iran says civilian infrastructure hit",
+      "slug": "USlaunchesfreshwaveofstr",
+      "time": "2026-07-17T04:02:31.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US launches fresh wave of strikes as Iran says civilian infrastructure hit",
           "snippet": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of H",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
@@ -23,157 +205,27 @@
           "linkKind": "article"
         },
         {
-          "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-          "snippet": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Fifa 'assessing match reports' over Falklands banner",
-          "snippet": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Hundreds of Canada wildfires prompt US air quality alerts as smoke spreads south",
-          "snippet": "Smoke from more than 800 blazes has affected cities from Toronto to New York, as well as the US Midwest.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
-          "snippet": "Officials report power outages, attack on train station in Bandar, as Iran says Hormuz won&#039;t return to pre-war stat",
+          "title": "Iranian sources say US strikes hit civilian infrastructure",
+          "snippet": "Iranian social media accounts, and local sources allege that US strikes caused casualties and hit infrastructure.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Qatar rejects Israeli reports of military action against Iran",
-          "snippet": "Qatar has rejected Israeli media reports claiming the Qataris agreed to participate in military action against Iran.",
+          "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
+          "snippet": "Moment a projectile struck a border area between Kuwait and Iraq, sparking a fire and sending thick smoke into the sky.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "FIFA to probe Argentina’s Falklands banner display at World Cup semifinal",
-          "snippet": "FIFA says its disciplinary committee will assess match reports and consider relevant circumstances before taking any act",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-to-probe-argentinas-falklands-banner-display-at-world-cup-semifinal?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US launches fresh strikes across Iran as Tehran warns conflict will spread",
-          "snippet": "Reported attacks on bridges, rail and communications infrastructure come as both sides harden their positions.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "株価 一時2500円以上値下がり グーグルAI開発遅れの報道などで",
-      "slug": "株価一時2500円以上値下がりググルAI開発遅れ",
-      "time": "2026-07-17T01:00:34.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "株価 一時2500円以上値下がり グーグルAI開発遅れの報道などで",
-          "snippet": "17日の東京株式市場、日経平均株価は一時2500円以上値下がりして、およそ1か月ぶりに6万5000円を割り込みました。IT大手の「グーグル」が手がける最新のAIモデルについて、開発に遅れが出ていると報…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178951000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "日経平均 一時2700円以上値下がり",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588230?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "北日本～西日本で猛暑日予想 関東甲信など大気の状態不安定",
-      "slug": "北日本西日本で猛暑日予想関東甲信など大気の状態不",
-      "time": "2026-07-16T23:52:00.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "北日本～西日本で猛暑日予想 関東甲信など大気の状態不安定",
-          "snippet": "17日も、北日本から西日本の各地で猛暑日が予想され、熱中症への対策を徹底するようにしてください。一方、湿った空気が流れ込んでいる影響で、関東甲信などでは大気の状態が不安定になっていて、局地的に非常に激…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178661000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "関東甲信 今日も局地的な大雨注意",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588222?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "皇室典範改正案成立へ 与党 会期延長し「副首都」法案成立図る",
-      "slug": "皇室典範改正案成立へ与党会期延長し副首都法案成立",
-      "time": "2026-07-16T20:08:01.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "皇室典範改正案成立へ 与党 会期延長し「副首都」法案成立図る",
-          "snippet": "国会は17日に会期末を迎え、皇族数の確保に向けた皇室典範の改正案などが成立する見通しです。与党は、会期を延長し「副首都」構想の関連法案など残された法案の確実な成立を図る方針です。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178691000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "国会会期延長、１７日議決　「副首都」巡り再可決も視野―与党",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071601071&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "タイの公務員試験で５８００人超不正か　当局が処分検討、解雇も",
-      "slug": "タイの公務員試験で人超不正か当局が処分検討解雇も",
-      "time": "2026-07-17T00:39:01.000Z",
+      "headline": "キオクシアの特許侵害認定　賠償額は３７０億円―米陪審評決",
+      "slug": "キオクシアの特許侵害認定賠償額は億円米陪審評決",
+      "time": "2026-07-17T04:09:09.000Z",
       "independentSources": 2,
       "sources": [
         "Yahoo!ニュース 主要",
@@ -183,18 +235,78 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "タイの公務員試験 5800人超不正か",
+          "title": "キオクシアに2億ドル賠償評決 米",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588227?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6588255?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "タイの公務員試験で５８００人超不正か　当局が処分検討、解雇も",
+          "title": "キオクシアの特許侵害認定　賠償額は３７０億円―米陪審評決",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700183&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026071700491&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+      "slug": "Zelenskysremovalofpopula",
+      "time": "2026-07-17T01:56:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "前国防相、総司令官の「解任提言」　大統領拒否、改革で対立―ウクライナ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700437&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
+          "snippet": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "White House teleprompter operator accused of making $100k off Trump speech bets",
+      "slug": "WhiteHouseteleprompterop",
+      "time": "2026-07-17T02:56:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "トランプ氏演説で予測市場賭けか　ホワイトハウスのプロンプター担当者",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700563&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
+          "snippet": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -203,7 +315,7 @@
     {
       "headline": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
       "slug": "Italianofficialshandedja",
-      "time": "2026-07-16T22:04:06.000Z",
+      "time": "2026-07-17T01:49:03.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -221,441 +333,10 @@
           "linkKind": "article"
         },
         {
-          "title": "Former Italian motorway chief sentenced over bridge collapse",
-          "snippet": "The former CEO of Italy’s main highway operator has been given 12 years in prison.",
+          "title": "North Korean leader Kim Jong Un meets with top Chinese official",
+          "snippet": "The meeting comes after Xi visited Kim, promising closer diplomatic, law enforcement and military cooperation.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-italian-motorway-chief-sentenced-over-bridge-collapse?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "中立公合流「賛成」１割　国民連立入り、反対４５％―時事世論調査",
-      "slug": "中立公合流賛成割国民連立入り反対時事世論調査",
-      "time": "2026-07-16T08:04:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "内閣支持４９％、発足後最低　６０歳代で激減―時事世論調査",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071600709&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "中立公合流「賛成」１割　国民連立入り、反対４５％―時事世論調査",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071600707&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-17T01:06:02.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【埼玉県気象警報・注意報】埼玉県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717010604_0_VPWW54_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【埼玉県気象警報・注意報】埼玉県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717010604_0_VPWW53_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-17T01:01:39.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【石狩・空知・後志地方気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717010140_0_VPWW54_016000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【石狩・空知・後志地方気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717010140_0_VPWW53_016000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-17T00:45:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【千葉県気象警報・注意報】北西部、南部では、低い土地の浸水に注意してください。千葉県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717004522_0_VPWW54_120000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【千葉県気象警報・注意報】北西部、南部では、低い土地の浸水に注意してください。千葉県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717004522_0_VPWW53_120000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "システム障害のニチレイ 一部の倉庫・工場の業務再開",
-      "slug": "システム障害のニチレイ一部の倉庫工場の業務再開",
-      "time": "2026-07-17T00:56:42.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "システム障害のニチレイ 一部の倉庫・工場の業務再開",
-          "snippet": "サイバー攻撃によるシステム障害が続く冷凍食品大手の「ニチレイ」は、17日午前、安全が確認された一部の倉庫や工場で業務を再開させたと明らかにしました。ただ、すべての倉庫などでの業務が正常化する時期につい…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178981000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "W杯アルゼンチン代表の政治的横断幕にイギリスが反発",
-      "slug": "W杯アルゼンチン代表の政治的横断幕にイギリスが反",
-      "time": "2026-07-16T23:31:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "W杯アルゼンチン代表の政治的横断幕にイギリスが反発",
-          "snippet": "サッカーワールドカップ北中米大会の準決勝でイングランドに勝利したアルゼンチンの選手が、試合後、南大西洋のフォークランド諸島について「われわれのもの」と書かれた横断幕を掲げたことを受けて、イギリスの閣僚…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178881000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "トランプ政権“極左による政治テロへの対策”各国連携呼びかけ",
-      "slug": "トランプ政権極左による政治テロへの対策各国連携呼",
-      "time": "2026-07-16T23:11:19.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "トランプ政権“極左による政治テロへの対策”各国連携呼びかけ",
-          "snippet": "アメリカのトランプ政権は、極左の政治テロへの対策を強化することを目的だとする国際会議を開き、各国で連携する必要があると訴えました。アメリカのメディアの間では「トランプ政権に反対する左派の人たちを標的に…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178901000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "米が6日連続攻撃 イランはバーブルマンデブ海峡封鎖を要請か",
-      "slug": "米が6日連続攻撃イランはバブルマンデブ海峡封鎖を",
-      "time": "2026-07-16T21:11:51.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "米が6日連続攻撃 イランはバーブルマンデブ海峡封鎖を要請か",
-          "snippet": "アメリカ軍が連日、イランへの攻撃を続けるなか、ロイター通信は、イランがイエメンの反政府組織フーシ派に対し、ホルムズ海峡の代替ルートにもなっているバーブルマンデブ海峡を封鎖する態勢をとるよう要請したと報…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178751000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "登下校中にクマ 備えにハードル",
-      "slug": "登下校中にクマ備えにハドル",
-      "time": "2026-07-17T00:26:52.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "登下校中にクマ 備えにハードル",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588225?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "勾留中に男性死亡 浮かんだ経緯",
-      "slug": "勾留中に男性死亡浮かんだ経緯",
-      "time": "2026-07-16T23:52:31.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "勾留中に男性死亡 浮かんだ経緯",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588223?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "異例 J1浦和からの退団15人目",
-      "slug": "異例J1浦和からの退団15人目",
-      "time": "2026-07-17T01:03:04.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "異例 J1浦和からの退団15人目",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588232?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "吉田麻也 アメリカの永住権取得",
-      "slug": "吉田麻也アメリカの永住権取得",
-      "time": "2026-07-16T23:31:45.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "吉田麻也 アメリカの永住権取得",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588221?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "トイ・ストーリー5 ヒットの背景",
-      "slug": "トイストリ5ヒットの背景",
-      "time": "2026-07-16T23:32:23.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "トイ・ストーリー5 ヒットの背景",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588219?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "米政権、留学・報道ビザの滞在期間短縮　学生は最長４年、監視強化狙い",
-      "slug": "米政権留学報道ビザの滞在期間短縮学生は最長年監視",
-      "time": "2026-07-17T00:51:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "米政権、留学・報道ビザの滞在期間短縮　学生は最長４年、監視強化狙い",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700158&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "米、対イラン攻撃継続　トランプ氏、交渉排除せず",
-      "slug": "米対イラン攻撃継続トランプ氏交渉排除せず",
-      "time": "2026-07-16T22:36:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "米、対イラン攻撃継続　トランプ氏、交渉排除せず",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700159&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ＥＵ、米グーグルにスマホＯＳ開放命令　他社ＡＩの接続可能に、検索データ共有も",
-      "slug": "米ググルにスマホ開放命令他社の接続可能に検索デタ",
-      "time": "2026-07-16T13:48:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ＥＵ、米グーグルにスマホＯＳ開放命令　他社ＡＩの接続可能に、検索データ共有も",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071601206&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "英、鉄鋼大手を国有化　重要産業保護と雇用維持",
-      "slug": "英鉄鋼大手を国有化重要産業保護と雇用維持",
-      "time": "2026-07-16T20:11:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "英、鉄鋼大手を国有化　重要産業保護と雇用維持",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700154&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ウクライナ新首相にコレツキー氏　ガス会社ＣＥＯ、国防相は更迭",
-      "slug": "ウクライナ新首相にコレツキ氏ガス会社国防相は更迭",
-      "time": "2026-07-16T21:55:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ウクライナ新首相にコレツキー氏　ガス会社ＣＥＯ、国防相は更迭",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700219&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ホルムズ封鎖「核より強力」　イラン、対米強硬姿勢崩さず",
-      "slug": "ホルムズ封鎖核より強力イラン対米強硬姿勢崩さず",
-      "time": "2026-07-16T22:06:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ホルムズ封鎖「核より強力」　イラン、対米強硬姿勢崩さず",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071600826&g=int&m=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -664,14 +345,22 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-16T23:00:00.000Z",
+      "time": "2026-07-17T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
       ],
-      "count": 1,
+      "count": 2,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１７日２１時から２４時までは火口から南東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717020041_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
         {
           "title": "降灰予報（定時）",
           "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１７日０９時から１２時までは火口から南東方向、１７日２１時から２４時までは火口から東方向に降灰が予想されます。",
@@ -683,9 +372,290 @@
       ]
     },
     {
+      "headline": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
+      "slug": "IEAchiefwarnsStraitofHor",
+      "time": "2026-07-17T02:25:55.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
+          "snippet": "Fatih Birol says &#039;oil security is still a critical issue&#039; and world should be &#039;worried&#039; if situation",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "How three Ivorian firms are competing with global brands",
+          "snippet": "Homegrown firms are gaining ground in Ivory Coast&#039;s fuel, finance and cosmetics sectors.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/7/17/how-three-ivorian-firms-are-competing-with-global-brands?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "株価 午後も一段と売り注文膨らむ 一時3000円以上値下がり",
+      "slug": "株価午後も一段と売り注文膨らむ一時3000円以上",
+      "time": "2026-07-17T04:17:05.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "株価 午後も一段と売り注文膨らむ 一時3000円以上値下がり",
+          "snippet": "17日の東京株式市場、午後も一段と売り注文が膨らみ、日経平均株価は一時3000円以上値下がりして、およそ1か月ぶりに6万4000円を割り込みました。IT大手の「グーグル」が手がける最新のAIモデルにつ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015178951000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "イランの橋など攻撃で死者も 米中央軍 6日連続攻撃を完了",
+      "slug": "イランの橋など攻撃で死者も米中央軍6日連続攻撃を",
+      "time": "2026-07-17T04:06:46.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "イランの橋など攻撃で死者も 米中央軍 6日連続攻撃を完了",
+          "snippet": "アメリカ中央軍は、6日連続となるイランへの攻撃を完了し、イランメディアは国内各地で橋などが攻撃を受け死者が出たと伝えています。一方、イラン側もアメリカ軍の基地がある湾岸諸国への攻撃を継続していて、攻撃…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015178751000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "“点滴混入”殺人 元職員 容体急変前に排せつ物管理室出入りか",
+      "slug": "点滴混入殺人元職員容体急変前に排せつ物管理室出入",
+      "time": "2026-07-17T03:31:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "“点滴混入”殺人 元職員 容体急変前に排せつ物管理室出入りか",
+          "snippet": "千葉県柏市の病院で患者の点滴に排せつ物を混入させて殺害したとして逮捕された元職員が、患者の容体が急変する前に院内の患者の排せつ物を管理する部屋に出入りする姿が防犯カメラに写っていたことが捜査関係者への…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179151000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「フィジカルAI」国産で勝機狙う",
+      "slug": "フィジカルAI国産で勝機狙う",
+      "time": "2026-07-17T02:19:27.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「フィジカルAI」国産で勝機狙う",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588240?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "遺体か 不明5歳男児の捜索中発見",
+      "slug": "遺体か不明5歳男児の捜索中発見",
+      "time": "2026-07-17T02:28:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "遺体か 不明5歳男児の捜索中発見",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588242?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "五ノ井里奈さん 今はスコーン焼く",
+      "slug": "五ノ井里奈さん今はスコン焼く",
+      "time": "2026-07-17T02:54:05.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "五ノ井里奈さん 今はスコーン焼く",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588244?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "鬼越・良ちゃん 渡部巡る投稿謝罪",
+      "slug": "鬼越良ちゃん渡部巡る投稿謝罪",
+      "time": "2026-07-17T03:28:07.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "鬼越・良ちゃん 渡部巡る投稿謝罪",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588249?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "みちょぱ 第1子出産を発表",
+      "slug": "みちょぱ第1子出産を発表",
+      "time": "2026-07-17T03:09:53.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "みちょぱ 第1子出産を発表",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588247?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "内閣支持４９％、発足後最低　６０歳代で激減―時事世論調査",
+      "slug": "内閣支持発足後最低歳代で激減時事世論調査",
+      "time": "2026-07-16T08:03:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "内閣支持４９％、発足後最低　６０歳代で激減―時事世論調査",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071600709&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "今国会２５日まで延長　政府・与党が最終調整",
+      "slug": "今国会日まで延長政府与党が最終調整",
+      "time": "2026-07-17T01:56:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "今国会２５日まで延長　政府・与党が最終調整",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700290&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "レビット米大統領報道官が産休後初会見　トランプ氏のＷ杯決勝観戦発表",
+      "slug": "レビット米大統領報道官が産休後初会見トランプ氏の",
+      "time": "2026-07-17T00:19:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "レビット米大統領報道官が産休後初会見　トランプ氏のＷ杯決勝観戦発表",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700301&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "火山の状況に関する解説情報",
+      "slug": "火山の状況に関する解説情報",
+      "time": "2026-07-17T03:45:21.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "火山の状況に関する解説情報",
+          "snippet": "【火山名  鶴見岳・伽藍岳  火山の状況に関する解説情報】＜噴火予報（噴火警戒レベル１、活火山であることに留意）が継続＞\n　鶴見岳では、鶴見岳山体周辺を震源とする地震が増加しています。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717034521_0_VFVO51_400000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-16T23:00:00.000Z",
+      "time": "2026-07-17T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -695,9 +665,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１７日０９時から１２時までは火口から東方向、１７日２１時から２４時までは火口から北東方向に降灰が予想されま",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１７日２１時から２４時までは火口から北東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260716230044_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717020048_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -706,7 +676,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-16T23:00:00.000Z",
+      "time": "2026-07-17T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -716,9 +686,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１７日０９時から１２時までは火口から東方向、１７日２１時から２４時までは火口から北東方向に降灰が予想されま",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１７日２１時から２４時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260716230048_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717020051_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -727,7 +697,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-16T23:00:00.000Z",
+      "time": "2026-07-17T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -737,9 +707,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１７日０９時から１２時までは火口から東方向、１７日２１時から２４時までは火口から東方向に降灰が予想されます",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１７日２１時から２４時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260716230051_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717020055_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -748,7 +718,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-16T23:00:00.000Z",
+      "time": "2026-07-17T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -758,9 +728,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１７日０９時から１２時までは火口から南東方向、１７日２１時から２４時までは火口から東方向",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１７日２１時から２４時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260716230054_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717020030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -769,7 +739,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-16T23:00:00.000Z",
+      "time": "2026-07-17T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -779,9 +749,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向、１７日２１時から２４時までは火口から北方向に降灰が予想されます。",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１７日２１時から２４時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260716230030_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717020033_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -790,7 +760,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-16T23:00:00.000Z",
+      "time": "2026-07-17T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -800,9 +770,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向、１７日２１時から２４時までは火口から北方向に降灰が予想されます。",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１７日２１時から２４時までは火口から北東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260716230033_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717020037_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -811,7 +781,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-16T23:00:00.000Z",
+      "time": "2026-07-17T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -821,114 +791,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１７日０９時から１２時までは火口から東方向、１７日２１時から２４時までは火口から東方向に降灰が予想されます。",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１７日２１時から２４時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260716230037_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-07-16T21:53:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１７日０６時４９分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260716215334_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "震源に関する情報",
-      "slug": "震源に関する情報",
-      "time": "2026-07-16T21:52:43.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源に関する情報",
-          "snippet": "【震源に関する情報】きょう１７日０６時４９分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260716215243_0_VXSE52_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-07-17T01:05:48.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【埼玉県雷・濃霧注意報】埼玉県では、急な強い雨や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717010549_0_VPWW61_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-07-17T01:01:27.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【石狩・空知・後志地方濃霧注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717010127_0_VPWW61_016000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-07-17T01:01:14.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717010115_0_VPTW60_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717020045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -937,7 +802,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（土砂）",
       "slug": "気象警報注意報土砂",
-      "time": "2026-07-17T00:45:18.000Z",
+      "time": "2026-07-17T04:21:57.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -947,18 +812,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【千葉県土砂災害警報・注意報】警報を解除します。",
+          "snippet": "【東京都土砂災害警報・注意報】東京地方では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717004519_0_VPWW56_120000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717042157_0_VPWW56_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-      "slug": "Zelenskysremovalofpopula",
-      "time": "2026-07-16T16:36:21.000Z",
+      "headline": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+      "slug": "Teenageraccusedofcarryin",
+      "time": "2026-07-16T13:08:28.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -967,19 +832,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-          "snippet": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
+          "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+          "snippet": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "White House teleprompter operator accused of making $100k off Trump speech bets",
-      "slug": "WhiteHouseteleprompterop",
-      "time": "2026-07-16T18:52:35.000Z",
+      "headline": "More than 500 Rohingya vanished at sea - what happened?",
+      "slug": "Morethan500Rohingyavanis",
+      "time": "2026-07-17T03:07:11.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -988,10 +853,73 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
-          "snippet": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
+          "title": "More than 500 Rohingya vanished at sea - what happened?",
+          "snippet": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Fifa 'assessing match reports' over Falklands banner",
+      "slug": "Fifaassessingmatchreport",
+      "time": "2026-07-16T18:44:43.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Fifa 'assessing match reports' over Falklands banner",
+          "snippet": "Fifa is \"assessing the match reports\" before deciding whether to punish Argentina after players held a banner in support",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c75gnkl30vlo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Canada fires prompt US air quality alerts as smoke blankets major cities",
+      "slug": "CanadafirespromptUSairqu",
+      "time": "2026-07-17T02:15:23.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Canada fires prompt US air quality alerts as smoke blankets major cities",
+          "snippet": "Smoke from more than 800 blazes has filled major cities from Toronto and New York, to parts of the US Midwest and Great ",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c0m7n427xd8o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+      "slug": "Australiadeeplyfrustrate",
+      "time": "2026-07-17T02:56:45.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
+          "snippet": "Media reports say Laos will press charges of up to one year in jail  against those allegedly responsible.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1019,51 +947,9 @@
       ]
     },
     {
-      "headline": "Kris Jenner's mother Mary Jo dies aged 91",
-      "slug": "KrisJennersmotherMaryJod",
-      "time": "2026-07-16T20:24:54.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Kris Jenner's mother Mary Jo dies aged 91",
-          "snippet": "Mary Jo 'MJ' Campbell was featured on multiple episodes of Keeping Up with the Kardashians over the years.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c70g35n4518o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "At least one dead in Texas floods ravaging same area where campers died",
-      "slug": "AtleastonedeadinTexasflo",
-      "time": "2026-07-16T22:08:13.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "At least one dead in Texas floods ravaging same area where campers died",
-          "snippet": "The same area devastated by floods last year's floods, which caused more than 130 deaths, is once again being hit.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Venezuela earthquake: Number of known dead rises to nearly 5,000 victims",
-      "slug": "VenezuelaearthquakeNumbe",
-      "time": "2026-07-16T23:51:04.000Z",
+      "headline": "China rebukes UK over nationalisation of British Steel",
+      "slug": "ChinarebukesUKovernation",
+      "time": "2026-07-17T03:40:46.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1072,19 +958,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Venezuela earthquake: Number of known dead rises to nearly 5,000 victims",
-          "snippet": "The UN estimates 50,000 are missing, with many more feared dead under the rubble as the focus shifts to rebuilding.",
+          "title": "China rebukes UK over nationalisation of British Steel",
+          "snippet": "The UK has appropriated its last working steelworks following fears its former Chinese owners would shut it down.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/16/venezuela-earthquake-number-of-known-dead-rises-to-nearly-5000-victims?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Vietnamese activist Bao Ngoc places rare national spotlight on Gaza",
-      "slug": "VietnameseactivistBaoNgo",
-      "time": "2026-07-16T23:39:36.000Z",
+      "headline": "Which players are favourites to be FIFA World Cup 2026 award winners?",
+      "slug": "Whichplayersarefavourite",
+      "time": "2026-07-17T03:38:28.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1093,19 +979,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Vietnamese activist Bao Ngoc places rare national spotlight on Gaza",
-          "snippet": "Activist Bao Ngoc draws attention to plight of Palestinians in country where protest is tightly controlled.",
+          "title": "Which players are favourites to be FIFA World Cup 2026 award winners?",
+          "snippet": "Lionel Messi and Kylian Mbappe are among the biggest stars expected to walk away with at least one individual award.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/16/vietnamese-activist-places-rare-national-spotlight-on-gazas-suffering?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/7/17/which-players-are-favourites-to-be-fifa-world-cup-2026-award-winners?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
-      "slug": "SadiqKhanjoinsHouseofLor",
-      "time": "2026-07-16T23:05:37.000Z",
+      "headline": "Goa’s forgotten orchata drink lives on in family kitchens",
+      "slug": "Goasforgottenorchatadrin",
+      "time": "2026-07-17T02:21:18.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1114,19 +1000,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Sadiq Khan joins House of Lords as outgoing UK PM names 26 new peers",
-          "snippet": "PM Keir Starmer&#039;s final honours list also includes campaigners, military leaders and senior civil servants.",
+          "title": "Goa’s forgotten orchata drink lives on in family kitchens",
+          "snippet": "Once reserved for elite Catholic households, this almond drink survives thanks to Goans preserving tradition.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/16/sadiq-khan-joins-house-of-lords-as-outgoing-uk-pm-names-26-new-peers?traffic_source=rss",
+          "link": "https://www.aljazeera.com/features/longform/2026/7/17/goas-forgotten-orchata-drink-lives-on-in-family-kitchens?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
-      "slug": "IlhanOmarrenewspushforUS",
-      "time": "2026-07-16T21:57:21.000Z",
+      "headline": "‘Trump Accounts’ are symbolic, not effective at closing wealth gap",
+      "slug": "TrumpAccountsaresymbolic",
+      "time": "2026-07-17T01:49:16.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1135,19 +1021,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Ilhan Omar renews push for US to join ICC amid Trump pressure",
-          "snippet": "The resolution comes days after US Secretary of State Marco Rubio pledged to &#039;dismantle&#039; the international cou",
+          "title": "‘Trump Accounts’ are symbolic, not effective at closing wealth gap",
+          "snippet": "The wealth gap is wider than it’s been in three decades.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/16/ilhan-omar-renews-push-for-us-to-join-icc-amid-trump-pressure?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/trump-accounts-are-symbolic-not-effective-at-closing-wealth-gap?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Grand Mosque of Paris celebrates 100-year anniversary",
-      "slug": "GrandMosqueofPariscelebr",
-      "time": "2026-07-16T21:28:03.000Z",
+      "headline": "Brazilian football legend Pele’s World Cup shirt sells for $4.9m",
+      "slug": "BrazilianfootballlegendP",
+      "time": "2026-07-17T00:44:37.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1156,10 +1042,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Grand Mosque of Paris celebrates 100-year anniversary",
-          "snippet": "The Grand Mosque of Paris is celebrating 100 years since its inauguration.",
+          "title": "Brazilian football legend Pele’s World Cup shirt sells for $4.9m",
+          "snippet": "The sale is a record for the Brazilian footballing great, but far from the most expensive piece of sporting memorabilia.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/grand-mosque-of-paris-celebrates-100-year-anniversary?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/7/17/brazilian-football-legend-peles-world-cup-shirt-sells-for-4-9-million?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
