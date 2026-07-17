@@ -1,18 +1,18 @@
 {
-  "rankedAt": "2026-07-17T17:43:45.439Z",
+  "rankedAt": "2026-07-17T18:43:34.467Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "栃木 足利市 旗川で氾濫おそれ 1万7812人に「緊急安全確保」",
       "slug": "栃木足利市旗川で氾濫おそれ1万7812人に緊急安",
-      "time": "2026-07-17T17:00:00.000Z",
+      "time": "2026-07-17T18:33:43.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 地震・火山",
         "気象庁 気象警報・注意報"
       ],
-      "count": 17,
+      "count": 20,
       "hasPrimary": true,
       "members": [
         {
@@ -32,10 +32,10 @@
           "linkKind": "article"
         },
         {
-          "title": "栃木 佐野市 旗川周辺の2249世帯6520人に「緊急安全確保」",
-          "snippet": "栃木県佐野市は市内を流れる旗川で氾濫が発生したことから、川の周辺の地区に住む2249世帯6520人を対象に「緊急安全確保」を出しました。警戒レベルで最も高いレベル5にあたり、周囲の状況を確認し、近くの…",
+          "title": "栃木 足利市と佐野市 レベル4大雨危険警報 解除",
+          "snippet": "宇都宮地方気象台は午前2時54分、栃木県の足利市と佐野市に発表していたレベル4大雨危険警報を解除しました。足利市と佐野市には引き続き、レベル4土砂災害危険警報が発表されています。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015179901000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015180001000",
           "ty": "press",
           "linkKind": "article"
         },
@@ -128,26 +128,50 @@
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【埼玉県気象警報・注意報】〈危険警報（氾濫）〉利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【栃木県気象警報・注意報】〈危険警報（土砂災害）〉南部では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717165655_0_VPWW53_110000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717183115_0_VPWW54_090000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【栃木県気象警報・注意報】〈危険警報（土砂災害）〉南部では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717183115_0_VPWW53_090000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "土砂災害警戒情報",
+          "snippet": "【群馬県レベル４土砂災害危険警報】＜レベル４土砂災害危険警報の補足情報＞\nレベル４土砂災害危険警報が発表されている地域では、防災関係者は、適切な対応を心がけて下さい。また、崖や沢の近くなど土砂災害の発生しやすい地区にお住まいの方は、早めの避",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717182623_0_VXWW50_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【埼玉県気象警報・注意報】〈危険警報（氾濫）〉利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
+          "snippet": "【群馬県気象警報・注意報】〈危険警報（土砂災害、氾濫）〉南部では、土砂災害に厳重に警戒してください。利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717165655_0_VPWW54_110000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717182619_0_VPWW54_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【群馬県気象警報・注意報】〈危険警報（土砂災害、氾濫）〉南部では、土砂災害に厳重に警戒してください。利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717182619_0_VPWW53_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【埼玉県大雨警報・注意報】北部では、低い土地の浸水や河川の増水に注意してください。",
+          "snippet": "【群馬県大雨警報・注意報】南部では、低い土地の浸水や河川の増水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717165651_0_VPWW55_110000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717182616_0_VPWW55_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -162,7 +186,7 @@
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
-      "count": 5,
+      "count": 4,
       "hasPrimary": false,
       "members": [
         {
@@ -170,14 +194,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6588335?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "広島のアドゥワ、制球に課題　プロ野球",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071701228&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -190,10 +206,10 @@
           "linkKind": "article"
         },
         {
-          "title": "ＤｅＮＡ勝又、初の満塁本塁打　プロ野球",
+          "title": "広島のアドゥワ、制球に課題　プロ野球",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071701226&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026071701228&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -208,87 +224,116 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-17T17:40:30.000Z",
+      "headline": "バーナム氏、３度目の挑戦で無風勝利　独自の政治哲学、地元で人気絶大―英新政権",
+      "slug": "バナム氏度目の挑戦で無風勝利独自の政治哲学地元で",
+      "time": "2026-07-17T13:33:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】長野県では、落雷に注意してください。北部、中部では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717174032_0_VPWW54_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】長野県では、落雷に注意してください。北部、中部では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717174032_0_VPWW53_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-17T17:29:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山口県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717172949_0_VPWW54_350000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【山口県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717172949_0_VPWW53_350000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Ukraine suffers port attacks as protests persist over defence shake-up",
-      "slug": "Ukrainesuffersportattack",
-      "time": "2026-07-17T16:21:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
+        "時事ドットコム"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
-          "snippet": "Twenty people also injured in strike on funeral procession for Palestinian killed by Israel earlier in the day.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
+          "title": "バーナム氏、２０日に首相就任　与党党首、無投票で選出―英",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700259&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Ukraine suffers port attacks as protests persist over defence shake-up",
-          "snippet": "Russian attacks reportedly kill two Ukrainians aboard foreign vessel in Mykolaiv; two more killed in Kherson and Odesa.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
+          "title": "バーナム氏、３度目の挑戦で無風勝利　独自の政治哲学、地元で人気絶大―英新政権",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071701134&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「国旗損壊罪」法が成立　表現の自由、懸念残す―罰則付き、拘禁２年以下",
+      "slug": "国旗損壊罪法が成立表現の自由懸念残す罰則付き拘禁",
+      "time": "2026-07-17T11:33:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「国旗損壊罪」法が成立　表現の自由、懸念残す―罰則付き、拘禁２年以下",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700126&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "国旗損壊、処罰対象の曖昧さに懸念　「感情が保護法益」に批判も―識者",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700887&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-07-17T18:37:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【島根県気象警報・注意報】東部、西部では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717183717_0_VPWW54_320000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【島根県気象警報・注意報】東部、西部では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717183717_0_VPWW53_320000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+      "slug": "USdeniesIranianclaimsith",
+      "time": "2026-07-17T18:33:12.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US denies Iranian claims it hit civilian infrastructure in latest strikes",
+          "snippet": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
+          "snippet": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas ",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -484,9 +529,9 @@
       ]
     },
     {
-      "headline": "内閣支持４９％、発足後最低　６０歳代で激減―時事世論調査",
-      "slug": "内閣支持発足後最低歳代で激減時事世論調査",
-      "time": "2026-07-16T06:06:00.000Z",
+      "headline": "タイの公務員試験で５９００人超不正か　採用取り消し、大量解雇へ",
+      "slug": "タイの公務員試験で人超不正か採用取り消し大量解雇",
+      "time": "2026-07-17T14:01:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -495,10 +540,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "内閣支持４９％、発足後最低　６０歳代で激減―時事世論調査",
+          "title": "タイの公務員試験で５９００人超不正か　採用取り消し、大量解雇へ",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071600709&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026071700183&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -526,9 +571,9 @@
       ]
     },
     {
-      "headline": "タイの公務員試験で５９００人超不正か　採用取り消し、大量解雇へ",
-      "slug": "タイの公務員試験で人超不正か採用取り消し大量解雇",
-      "time": "2026-07-17T14:01:00.000Z",
+      "headline": "内閣支持４９％、発足後最低　６０歳代で激減―時事世論調査",
+      "slug": "内閣支持発足後最低歳代で激減時事世論調査",
+      "time": "2026-07-16T06:06:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -537,73 +582,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "タイの公務員試験で５９００人超不正か　採用取り消し、大量解雇へ",
+          "title": "内閣支持４９％、発足後最低　６０歳代で激減―時事世論調査",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700183&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「国旗損壊罪」法が成立　表現の自由、懸念残す―罰則付き、拘禁２年以下",
-      "slug": "国旗損壊罪法が成立表現の自由懸念残す罰則付き拘禁",
-      "time": "2026-07-17T06:55:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「国旗損壊罪」法が成立　表現の自由、懸念残す―罰則付き、拘禁２年以下",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700126&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "最低賃金上げ、目安額の議論至らず　厚労省審議会、３回目会合",
-      "slug": "最低賃金上げ目安額の議論至らず厚労省審議会回目会",
-      "time": "2026-07-17T12:07:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "最低賃金上げ、目安額の議論至らず　厚労省審議会、３回目会合",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700908&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "国会、２５日まで延長　副首都法案で攻防へ",
-      "slug": "国会日まで延長副首都法案で攻防へ",
-      "time": "2026-07-17T10:41:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "国会、２５日まで延長　副首都法案で攻防へ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700290&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026071600709&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -631,51 +613,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-07-17T17:40:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【長野県大雨警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717174021_0_VPWW55_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-07-17T17:40:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【長野県土砂災害警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717174021_0_VPWW56_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-07-17T17:29:39.000Z",
+      "time": "2026-07-17T18:37:15.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -685,32 +625,32 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【山口県雷注意報】注意報を解除します。",
+          "snippet": "【島根県雷注意報】東部、西部では、急な強い雨や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717172940_0_VPWW61_350000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717183716_0_VPWW61_320000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Iran accuses US of hitting civilian infrastructure",
-      "slug": "IranaccusesUSofhittingci",
-      "time": "2026-07-17T14:32:07.000Z",
+      "headline": "指定河川洪水予報",
+      "slug": "指定河川洪水予報",
+      "time": "2026-07-17T18:30:30.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "気象庁 気象警報・注意報"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "Iran accuses US of hitting civilian infrastructure",
-          "snippet": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "指定河川洪水予報",
+          "snippet": "【袋川レベル２氾濫注意報解除】〔解除〕袋川では、氾濫注意水位を下回る",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717183035_0_VXKO84_090000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -736,9 +676,9 @@
       ]
     },
     {
-      "headline": "More than 500 Rohingya vanished at sea - what happened?",
-      "slug": "Morethan500Rohingyavanis",
-      "time": "2026-07-17T03:07:11.000Z",
+      "headline": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "slug": "EUproposesslowingdowncut",
+      "time": "2026-07-17T18:34:04.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -747,31 +687,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "More than 500 Rohingya vanished at sea - what happened?",
-          "snippet": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
+          "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+          "snippet": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carb",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-      "slug": "Secondtankerinthreemonth",
-      "time": "2026-07-17T17:01:16.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-          "snippet": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -841,6 +760,48 @@
       ]
     },
     {
+      "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "slug": "Secondtankerinthreemonth",
+      "time": "2026-07-17T17:01:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+          "snippet": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "More than 500 Rohingya vanished at sea - what happened?",
+      "slug": "Morethan500Rohingyavanis",
+      "time": "2026-07-17T03:07:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "More than 500 Rohingya vanished at sea - what happened?",
+          "snippet": "Two boats carrying an estimated 530 Rohingyas have disappeared since leaving Myanmar on 29 June.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr59n096mrmo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Canada fires prompt US air quality alerts as smoke blankets major cities",
       "slug": "CanadafirespromptUSairqu",
       "time": "2026-07-17T02:15:23.000Z",
@@ -862,42 +823,147 @@
       ]
     },
     {
-      "headline": "Trump Media to sell instant access to 'market-moving' social posts",
-      "slug": "TrumpMediatosellinstanta",
-      "time": "2026-07-17T07:25:31.000Z",
+      "headline": "Germany’s Merz hails nuclear deterrence cooperation with France",
+      "slug": "GermanysMerzhailsnuclear",
+      "time": "2026-07-17T18:31:27.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Trump Media to sell instant access to 'market-moving' social posts",
-          "snippet": "Trump Media is launching a fast, paid feed to its most influential posts for Wall Street traders.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c79gw4lj89eo?at_medium=RSS&at_campaign=rss",
+          "title": "Germany’s Merz hails nuclear deterrence cooperation with France",
+          "snippet": "The Franco-German cooperation is not a move to replace NATO’s nuclear umbrella, stresses German Chancellor.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/17/germanys-merz-hails-nuclear-deterrence-cooperation-with-france?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Japan relaxes royal succession rules - but ban on female emperors remains",
-      "slug": "Japanrelaxesroyalsuccess",
-      "time": "2026-07-17T05:16:34.000Z",
+      "headline": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
+      "slug": "BeyondLNGBerlinsredcarpe",
+      "time": "2026-07-17T18:28:34.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Japan relaxes royal succession rules - but ban on female emperors remains",
-          "snippet": "The law now allows the adoption of male distant relatives aged over 15 back into the imperial family.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy07rz79zg9o?at_medium=RSS&at_campaign=rss",
+          "title": "Beyond LNG: Berlin’s red-carpet diplomacy signals a bigger bet on Algeria",
+          "snippet": "Germany, stripped of Russian pipeline gas, received Algeria&#039;s president with military honours and talked about LNG.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/7/17/beyond-lng-berlins-red-carpet-diplomacy-signals-a-bigger-bet-on-algeria?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Can the US and Iran reach a lasting deal to end the conflict?",
+      "slug": "CantheUSandIranreachalas",
+      "time": "2026-07-17T18:12:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Can the US and Iran reach a lasting deal to end the conflict?",
+          "snippet": "Air strikes intensify raising fear of an all-out war.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Life after amputation: Gaza women find recovery through football",
+      "slug": "LifeafteramputationGazaw",
+      "time": "2026-07-17T18:02:39.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Life after amputation: Gaza women find recovery through football",
+          "snippet": "Palestinian women in Gaza who have lost limbs during Israel&#039;s genocidal war are using football as a way of recoveri",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/7/17/life-after-amputation-gaza-women-find-recovery-through-football?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "World Cup 2026: What did we learn?",
+      "slug": "WorldCup2026Whatdidwelea",
+      "time": "2026-07-17T17:43:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "World Cup 2026: What did we learn?",
+          "snippet": "World Cup 2026: What did we learn?",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/world-cup-2026-what-did-we-learn?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Burnham confirmed as Labour leader, vows new direction for UK",
+      "slug": "BurnhamconfirmedasLabour",
+      "time": "2026-07-17T17:16:27.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Burnham confirmed as Labour leader, vows new direction for UK",
+          "snippet": "Britain&#039;s governing Labour Party confirmed as Andy Burnham as its new leader, clearing the way for him to become PM",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/burnham-elected-labour-leader-vows-new-direction-for-uk?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Did the US just start a trade war with Brazil?",
+      "slug": "DidtheUSjuststartatradew",
+      "time": "2026-07-17T17:15:48.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Did the US just start a trade war with Brazil?",
+          "snippet": "Did the US just start a trade war with Brazil?",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/did-the-us-just-start-a-trade-war-with-brazil?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -961,111 +1027,6 @@
           "snippet": "The recall is the latest development in a series of reports of autonomous vehicles impeding emergency response efforts.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
-      "slug": "Eightkilledatleast34miss",
-      "time": "2026-07-17T16:37:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
-          "snippet": "Landslide has buried homes and forced more than 1,100 people to evacuate.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/eight-killed-at-least-34-missing-after-landslide-in-chinas-chongqing?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
-      "slug": "PakistancricketerNawazsa",
-      "time": "2026-07-17T16:26:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Pakistan cricketer Nawaz sanctioned after cannabis-related positive test",
-          "snippet": "Nawaz admitted the violation and that the substance had been used in a manner unrelated to sporting performance.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/17/pakistan-cricketer-nawaz-sanctioned-after-cannabis-related-positive-test?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
-      "slug": "TheytookourtoiletHowaset",
-      "time": "2026-07-17T15:40:10.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
-          "snippet": "An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Plainclothes ICE agents manhandle man during arrest attempt",
-      "slug": "PlainclothesICEagentsman",
-      "time": "2026-07-17T15:21:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Plainclothes ICE agents manhandle man during arrest attempt",
-          "snippet": "Plainclothes ICE agents manhandle man during arrest attempt at the Las Vegas airport on July 13, 2026.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/plainclothes-ice-agents-manhandle-man-during-arrest-attempt?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "France vs England – World Cup third-place playoff: Prediction, kickoff",
-      "slug": "FrancevsEnglandWorldCupt",
-      "time": "2026-07-17T14:36:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "France vs England – World Cup third-place playoff: Prediction, kickoff",
-          "snippet": "Losing semifinalists France and England meet in a playoff for the bronze medal, a day before the World Cup final.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/17/france-england-fifa-world-cup-third-place-playoff-predictions-kickoff?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
