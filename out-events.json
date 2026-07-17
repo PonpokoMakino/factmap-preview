@@ -1,24 +1,57 @@
 {
-  "rankedAt": "2026-07-17T15:18:06.113Z",
+  "rankedAt": "2026-07-17T16:36:49.840Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "栃木 群馬で記録的な大雨 線状降水帯発生の可能性 厳重警戒を",
-      "slug": "栃木群馬で記録的な大雨線状降水帯発生の可能性厳重",
-      "time": "2026-07-17T15:12:23.000Z",
-      "independentSources": 2,
+      "headline": "栃木 足利市 旗川で氾濫おそれ 1万7812人に「緊急安全確保」",
+      "slug": "栃木足利市旗川で氾濫おそれ1万7812人に緊急安",
+      "time": "2026-07-17T16:30:30.000Z",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 地震・火山"
+        "気象庁 地震・火山",
+        "気象庁 気象警報・注意報"
       ],
-      "count": 10,
+      "count": 21,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "栃木 足利市 旗川で氾濫おそれ 1万7812人に「緊急安全確保」",
+          "snippet": "栃木県足利市は、市内を流れる旗川で氾濫が発生するおそれが高まったことから、これまで避難指示が出されていた地域のうち、毛野地区と富田地区の合わせて8679世帯、1万7812人を対象に、18日午前0時半に…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179931000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "栃木 佐野市 旗川周辺の2249世帯6520人に「緊急安全確保」",
+          "snippet": "栃木県佐野市は市内を流れる旗川で氾濫が発生したことから、川の周辺の地区に住む2249世帯6520人を対象に「緊急安全確保」を出しました。警戒レベルで最も高いレベル5にあたり、周囲の状況を確認し、近くの…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179901000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "群馬 太田 利根川水系石田川に氾濫危険警報 厳重警戒を",
+          "snippet": "気象庁と群馬県は午前0時20分、群馬県太田市を流れる利根川水系石田川にレベル4氾濫危険警報を発表しました。水位が上昇していて、氾濫に厳重な警戒が必要です。氾濫した場合、太田市と埼玉県熊谷市では浸水のお…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179911000",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "栃木 群馬で記録的な大雨 線状降水帯発生の可能性 厳重警戒を",
           "snippet": "湿った空気の影響で、栃木県と群馬県では局地的に雨雲が発達して当初の予想を上回る記録的な大雨になっています。気象庁は栃木県と群馬県に線状降水帯が発生する可能性が高まっているとして、17日午後10時前、「…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015178661000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "【大雨 被害情報】群馬 浸水の通報相次ぐ 栃木 足利で土砂崩れ",
+          "snippet": "大雨による被害などの情報をまとめました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179921000",
           "ty": "press",
           "linkKind": "article"
         },
@@ -93,6 +126,116 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260717110051_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【埼玉県気象警報・注意報】〈危険警報（氾濫）〉利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717162700_0_VPWW53_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【埼玉県気象警報・注意報】〈危険警報（氾濫）〉利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717162700_0_VPWW54_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【群馬県気象警報・注意報】〈危険警報（大雨、土砂災害、氾濫）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717162659_0_VPWW53_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【群馬県気象警報・注意報】〈危険警報（大雨、土砂災害、氾濫）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717162659_0_VPWW54_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "指定河川洪水予報",
+          "snippet": "【利根川水系石田川レベル４氾濫危険警報】【警戒レベル４相当情報［洪水］】〔継続〕利根川水系石田川では、氾濫危険水位に到達し、氾濫のおそれあり",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717162648_0_VXKO70_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【群馬県気象警報・注意報】〈危険警報（大雨、土砂災害、氾濫）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717155236_0_VPWW53_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【群馬県気象警報・注意報】〈危険警報（大雨、土砂災害、氾濫）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。利根川水系石田川では、河川の氾濫に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717155236_0_VPWW54_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "矢野雅哉を登録抹消　「ゾンビたばこ売人」との写真で―プロ野球・広島",
+      "slug": "矢野雅哉を登録抹消ゾンビたばこ売人との写真でプロ",
+      "time": "2026-07-17T13:50:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "count": 5,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "報道受けカープ矢野抹消 監督謝罪",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588335?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "広島のアドゥワ、制球に課題　プロ野球",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071701228&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "矢野雅哉を登録抹消　「ゾンビたばこ売人」との写真で―プロ野球・広島",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071701055&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "プロ野球・ひとこと",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071701229&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "ＤｅＮＡ勝又、初の満塁本塁打　プロ野球",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071701226&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -127,149 +270,9 @@
       ]
     },
     {
-      "headline": "矢野雅哉を登録抹消　「ゾンビたばこ売人」との写真で―プロ野球・広島",
-      "slug": "矢野雅哉を登録抹消ゾンビたばこ売人との写真でプロ",
-      "time": "2026-07-17T13:50:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 5,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "矢野雅哉を登録抹消　「ゾンビたばこ売人」との写真で―プロ野球・広島",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071701055&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "ＤｅＮＡ勝又、初の満塁本塁打　プロ野球",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071701226&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "プロ野球・ひとこと",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071701229&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "またも劇的な一撃　巨人の坂本、２カ月前を再現―プロ野球",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071701221&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "広島のアドゥワ、制球に課題　プロ野球",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071701228&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "奈良 川岸に女性2人の遺体 37歳会社員を遺体遺棄の疑いで逮捕",
-      "slug": "奈良川岸に女性2人の遺体37歳会社員を遺体遺棄の",
-      "time": "2026-07-17T13:09:35.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "奈良 川岸に女性2人の遺体 37歳会社員を遺体遺棄の疑いで逮捕",
-          "snippet": "17日、奈良市の川岸で女性2人の遺体が見つかり、警察はこのうち1人の遺体を遺棄した疑いで奈良市の37歳の会社員を逮捕しました。調べに対し会社員は、三重県内に住む交際相手の44歳の女性と、その娘で20歳…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015179671000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "鹿児島 霧島 川で男性の遺体見つかる 不明の5歳男児の可能性",
-          "snippet": "17日午前、鹿児島県霧島市の川から男性の遺体が見つかりました。警察は、先月、近くの温泉施設に家族と訪れたまま行方が分からなくなっている5歳の男の子の可能性もあるとみて、確認を進めています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178991000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-17T14:51:25.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【茨城県気象警報・注意報】南部では、低い土地の浸水や河川の増水に注意してください。茨城県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145127_0_VPWW53_080000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【茨城県気象警報・注意報】南部では、低い土地の浸水や河川の増水に注意してください。茨城県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145127_0_VPWW54_080000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-17T14:51:23.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【埼玉県気象警報・注意報】北部では、低い土地の浸水や河川の増水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145125_0_VPWW53_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【埼玉県気象警報・注意報】北部では、低い土地の浸水や河川の増水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145125_0_VPWW54_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-07-17T14:51:22.000Z",
+      "time": "2026-07-17T16:09:27.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -279,75 +282,17 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】〈危険警報（大雨、土砂災害）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "snippet": "【茨城県気象警報・注意報】南部では、河川の増水に注意してください。茨城県では、落雷や濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145123_0_VPWW54_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717160929_0_VPWW54_080000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】〈危険警報（大雨、土砂災害）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "snippet": "【茨城県気象警報・注意報】南部では、河川の増水に注意してください。茨城県では、落雷や濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145123_0_VPWW53_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-17T14:51:21.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【栃木県気象警報・注意報】〈危険警報（大雨、土砂災害）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145122_0_VPWW53_090000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【栃木県気象警報・注意報】〈危険警報（大雨、土砂災害）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145122_0_VPWW54_090000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-17T14:51:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【富山県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145121_0_VPWW54_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【富山県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717145121_0_VPWW53_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717160929_0_VPWW53_080000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -375,9 +320,9 @@
       ]
     },
     {
-      "headline": "イギリス 与党 労働党新党首にバーナム氏選出 首相就任へ",
-      "slug": "イギリス与党労働党新党首にバナム氏選出首相就任へ",
-      "time": "2026-07-17T12:51:41.000Z",
+      "headline": "奈良 川岸に女性2人の遺体 37歳会社員を遺体遺棄の疑いで逮捕",
+      "slug": "奈良川岸に女性2人の遺体37歳会社員を遺体遺棄の",
+      "time": "2026-07-17T15:23:45.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -386,61 +331,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "イギリス 与党 労働党新党首にバーナム氏選出 首相就任へ",
-          "snippet": "イギリスの与党・労働党は特別党大会を開き、マンチェスターの前市長で下院議員のバーナム氏が、新たな党首に選出されました。来週20日にもチャールズ国王の任命を受けて首相に就任する見通しです。",
+          "title": "奈良 川岸に女性2人の遺体 37歳会社員を遺体遺棄の疑いで逮捕",
+          "snippet": "17日、奈良市の川岸で女性2人の遺体が見つかり、警察はこのうち1人の遺体を遺棄した疑いで奈良市の37歳の会社員を逮捕しました。調べに対し会社員は、三重県内に住む交際相手の44歳の女性と、その娘で20歳…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015179611000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179671000",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "衆院本会議 今国会の会期 25日まで8日間延長を議決",
-      "slug": "衆院本会議今国会の会期25日まで8日間延長を議決",
-      "time": "2026-07-17T13:08:17.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "衆院本会議 今国会の会期 25日まで8日間延長を議決",
-          "snippet": "国会の会期末の17日、衆議院本会議では、会期を来週25日まで8日間延長することを、自民・維新両党とチームみらいなどの賛成多数で議決しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015179431000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "インド 初の“水素列車” 運行開始",
-      "slug": "インド初の水素列車運行開始",
-      "time": "2026-07-17T14:31:37.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "インド 初の“水素列車” 運行開始",
-          "snippet": "インドでは脱炭素社会の実現を目指す中、水素を使った燃料電池で動き二酸化炭素を排出しない列車が開発され、17日から運行を開始しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015179761000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "3連休 関東以西は急な雷雨に注意",
-      "slug": "3連休関東以西は急な雷雨に注意",
-      "time": "2026-07-17T14:23:02.000Z",
+      "headline": "メキシコM7.4地震 日本津波なし",
+      "slug": "メキシコM74地震日本津波なし",
+      "time": "2026-07-17T15:38:55.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -449,10 +352,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "3連休 関東以西は急な雷雨に注意",
+          "title": "メキシコM7.4地震 日本津波なし",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588343?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6588346?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -543,27 +446,6 @@
       ]
     },
     {
-      "headline": "報道受けカープ矢野抹消 監督謝罪",
-      "slug": "報道受けカプ矢野抹消監督謝罪",
-      "time": "2026-07-17T13:14:16.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "報道受けカープ矢野抹消 監督謝罪",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588335?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "三吉彩花 キングダム「3秒」出演",
       "slug": "三吉彩花キングダム3秒出演",
       "time": "2026-07-17T12:41:58.000Z",
@@ -627,48 +509,6 @@
       ]
     },
     {
-      "headline": "エベレストがドローン試験場に　中国圧力で米に許可出さず―ネパール",
-      "slug": "エベレストがドロン試験場に中国圧力で米に許可出さ",
-      "time": "2026-07-15T21:55:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "エベレストがドローン試験場に　中国圧力で米に許可出さず―ネパール",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071500683&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "渋谷毅さん死去、８６歳　ジャズピアニスト",
-      "slug": "渋谷毅さん死去歳ジャズピアニスト",
-      "time": "2026-07-17T13:44:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "渋谷毅さん死去、８６歳　ジャズピアニスト",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071701224&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "ＥＵ、炭素排出規制を緩和へ　産業界の負担軽減",
       "slug": "炭素排出規制を緩和へ産業界の負担軽減",
       "time": "2026-07-17T13:00:00.000Z",
@@ -690,9 +530,9 @@
       ]
     },
     {
-      "headline": "統一選、立国が「連携政党」　連合方針",
-      "slug": "統一選立国が連携政党連合方針",
-      "time": "2026-07-16T10:57:00.000Z",
+      "headline": "声優の二階堂有希子さん死去　「ルパン三世」第１シリーズで峰不二子役",
+      "slug": "声優の二階堂有希子さん死去ルパン三世第シリズで峰",
+      "time": "2026-07-17T09:12:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -701,10 +541,73 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "統一選、立国が「連携政党」　連合方針",
+          "title": "声優の二階堂有希子さん死去　「ルパン三世」第１シリーズで峰不二子役",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071601104&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026071701020&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "エベレストがドローン試験場に　中国圧力で米に許可出さず―ネパール",
+      "slug": "エベレストがドロン試験場に中国圧力で米に許可出さ",
+      "time": "2026-07-15T21:55:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "エベレストがドローン試験場に　中国圧力で米に許可出さず―ネパール",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071500683&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "タイの公務員試験で５９００人超不正か　採用取り消し、大量解雇へ",
+      "slug": "タイの公務員試験で人超不正か採用取り消し大量解雇",
+      "time": "2026-07-17T14:01:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "タイの公務員試験で５９００人超不正か　採用取り消し、大量解雇へ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700183&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "改正皇室典範が成立　制定７９年で初、養子男性子孫に継承権―女性皇族、家族は一般国民",
+      "slug": "改正皇室典範が成立制定年で初養子男性子孫に継承権",
+      "time": "2026-07-17T10:47:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "改正皇室典範が成立　制定７９年で初、養子男性子孫に継承権―女性皇族、家族は一般国民",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700121&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -726,6 +629,27 @@
           "snippet": "【遠地地震に関する情報】１７日２３時４９分ころ、海外で規模の大きな地震がありました。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260717151629_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-07-17T16:09:20.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【茨城県大雨警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717160921_0_VPWW55_080000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -921,6 +845,69 @@
       ]
     },
     {
+      "headline": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
+      "slug": "TheytookourtoiletHowaset",
+      "time": "2026-07-17T15:40:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
+          "snippet": "An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Plainclothes ICE agents manhandle man during arrest attempt",
+      "slug": "PlainclothesICEagentsman",
+      "time": "2026-07-17T15:21:34.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Plainclothes ICE agents manhandle man during arrest attempt",
+          "snippet": "Plainclothes ICE agents manhandle man during arrest attempt at the Las Vegas airport on July 13, 2026.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/plainclothes-ice-agents-manhandle-man-during-arrest-attempt?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Ukraine suffers port attacks as protests persist over defence shake-up",
+      "slug": "Ukrainesuffersportattack",
+      "time": "2026-07-17T15:19:37.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Ukraine suffers port attacks as protests persist over defence shake-up",
+          "snippet": "Russian attacks reportedly kill two Ukrainians aboard foreign vessel in Mykolaiv; two more killed in Kherson and Odesa.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "France vs England – World Cup third-place playoff: Prediction, kickoff",
       "slug": "FrancevsEnglandWorldCupt",
       "time": "2026-07-17T14:36:49.000Z",
@@ -1041,69 +1028,6 @@
           "snippet": "Ukraine is ramping up short-, medium- and long-range drone production to bring Russia’s war to a standstill.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/7/17/ukraine-cuts-off-crimea-from-russia-plunging-it-into-an-energy-crisis?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "‘Offer he can’t refuse’: Is Italy’s mafia law breaking crime or families?",
-      "slug": "OfferhecantrefuseIsItaly",
-      "time": "2026-07-17T13:09:18.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "‘Offer he can’t refuse’: Is Italy’s mafia law breaking crime or families?",
-          "snippet": "The Italian government can now offer children and wives of mafia bosses a way out of the family business.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/offer-he-cant-refuse-is-italys-mafia-law-breaking-crime-or-families?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Deadly storm leaves half a million without power in Chile",
-      "slug": "Deadlystormleaveshalfami",
-      "time": "2026-07-17T13:04:42.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Deadly storm leaves half a million without power in Chile",
-          "snippet": "Deadly storm leaves half a million without power in Chile",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/deadly-storm-leaves-half-a-million-without-power-in-chile?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "US seeks extradition of wealthy pro-Palestine donor from Spain",
-      "slug": "USseeksextraditionofweal",
-      "time": "2026-07-17T12:58:52.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "US seeks extradition of wealthy pro-Palestine donor from Spain",
-          "snippet": "Washington&#039;s pursuit of James &#039;Fergie&#039; Chambers for supporting &#039;terror&#039; seen as a warning to ot",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/us-seeks-extradition-of-wealthy-pro-palestine-donor-from-spain?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
