@@ -1,116 +1,23 @@
 {
-  "rankedAt": "2026-07-17T08:55:40.461Z",
+  "rankedAt": "2026-07-17T10:47:30.295Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "関東で局地的な大雨 浸水などに厳重警戒 北海道などで猛暑日",
-      "slug": "関東で局地的な大雨浸水などに厳重警戒北海道などで",
-      "time": "2026-07-17T08:54:05.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 10,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "関東で局地的な大雨 浸水などに厳重警戒 北海道などで猛暑日",
-          "snippet": "湿った空気が流れ込んでいる影響で、関東や東北などでは大気の状態が不安定になり、局地的な大雨となっています。神奈川県と青森県では「レベル4危険警報」が出ている地域があり、低い土地の浸水や川の氾濫、土砂災…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015178661000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【埼玉県気象警報・注意報】南部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717085406_0_VPWW54_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【埼玉県気象警報・注意報】南部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717085406_0_VPWW53_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【埼玉県大雨警報・注意報】南部では、低い土地の浸水や河川の増水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717085402_0_VPWW55_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象解説情報",
-          "snippet": "【群馬県気象解説情報（大雨・落雷・降ひょう）】群馬県では、雨雲が停滞し、レベル４土砂災害危険警報とレベル４大雨危険警報、気象防災速報（記録的短時間大雨）を発表しました。土砂災害、浸水害、洪水災害の危険度が当初の予想を上回って急激に高まってお",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717085335_0_VPFJ51_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象情報",
-          "snippet": "【群馬県気象解説情報（大雨・落雷・降ひょう）】群馬県では、雨雲が停滞し、レベル４土砂災害危険警報とレベル４大雨危険警報、気象防災速報（記録的短時間大雨）を発表しました。土砂災害、浸水害、洪水災害の危険度が当初の予想を上回って急激に高まってお",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717085335_0_VPFJ50_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【栃木県気象警報・注意報】〈危険警報（大雨、土砂災害）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717085023_0_VPWW53_090000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【栃木県気象警報・注意報】〈危険警報（大雨、土砂災害）〉南部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717085023_0_VPWW54_090000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【埼玉県気象警報・注意報】南部では、低い土地の浸水に注意してください。埼玉県では、落雷に注意してください。秩父地方では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717084842_0_VPWW54_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【埼玉県気象警報・注意報】南部では、低い土地の浸水に注意してください。埼玉県では、落雷に注意してください。秩父地方では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717084842_0_VPWW53_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "改正皇室典範が成立　制定７９年で初、養子男性子孫に継承権―女性皇族、家族は一般国民",
       "slug": "改正皇室典範が成立制定年で初養子男性子孫に継承権",
-      "time": "2026-07-17T08:49:17.000Z",
-      "independentSources": 2,
+      "time": "2026-07-17T10:34:10.000Z",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
-      "count": 5,
+      "count": 7,
       "hasPrimary": false,
       "members": [
         {
-          "title": "自民・維新 国会会期25日まで8日間の延長を議長に申し入れ",
-          "snippet": "国会の会期末の17日、自民・維新両党は「副首都」構想の関連法案など残る法案を確実に成立させたいとして、会期を来週25日まで8日間延長するよう衆参両院の議長に申し入れました。会期の延長は、このあとの衆議…",
+          "title": "衆院本会議 今国会の会期 25日まで8日間延長を議決",
+          "snippet": "国会の会期末の17日、衆議院本会議では、会期を来週25日まで8日間延長することを、自民・維新両党とチームみらいなどの賛成多数で議決しました。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015179431000",
           "ty": "press",
@@ -141,6 +48,22 @@
           "linkKind": "article"
         },
         {
+          "title": "国会会期を8日間延長 25日まで",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588315?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "国会、２５日まで延長　副首都法案で攻防へ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700290&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
           "title": "改正皇室典範が成立　制定７９年で初、養子男性子孫に継承権―女性皇族、家族は一般国民",
           "snippet": "",
           "source": "時事ドットコム",
@@ -151,9 +74,85 @@
       ]
     },
     {
+      "headline": "関東で猛烈な雨相次ぐ 土砂災害・浸水・氾濫に厳重警戒を",
+      "slug": "関東で猛烈な雨相次ぐ土砂災害浸水氾濫に厳重警戒を",
+      "time": "2026-07-17T10:46:06.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 3,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "関東で猛烈な雨相次ぐ 土砂災害・浸水・氾濫に厳重警戒を",
+          "snippet": "湿った空気の影響で、17日は関東を中心に大気の状態が非常に不安定になっていて、午前中から猛烈な雨が相次いで降っています。群馬県太田市では「記録的短時間大雨」の気象防災速報が発表されるなど、関東北部でも…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015178661000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "群馬 太田市 市内の一部地区に避難指示",
+          "snippet": "群馬県太田市はレベル4土砂災害危険警報などが発表されたことを受けて午後5時24分に市内の一部の地区に避難指示を出しました。危険な場所から全員避難するよう呼びかけています。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179571000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【埼玉県土砂災害警報・注意報】南部、北部では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717104607_0_VPWW56_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "slug": "TrumpallegesChinameddled",
+      "time": "2026-07-17T10:10:25.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+          "snippet": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Knesset dissolves: How will Israel vote in October’s general election?",
+          "snippet": "Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Israel headed for October election as parliament dissolved",
+          "snippet": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "US launches new strikes as Iran says civilian infrastructure hit",
       "slug": "USlaunchesnewstrikesasIr",
-      "time": "2026-07-17T08:18:13.000Z",
+      "time": "2026-07-17T10:14:30.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -171,124 +170,143 @@
           "linkKind": "article"
         },
         {
-          "title": "Gulf states come under Iranian fire as US strikes intensify",
-          "snippet": "Tehran targets multiple countries across the region as the wave of US strikes on Iran steps up.",
+          "title": "US strikes destroy key bridges, tower in southern Iran",
+          "snippet": "US strikes destroy key bridges, tower in southern Iran",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-      "slug": "Trumpallegesshockingvuln",
-      "time": "2026-07-17T04:58:58.000Z",
-      "independentSources": 2,
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-07-17T10:33:55.000Z",
+      "independentSources": 1,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "気象庁 気象警報・注意報"
       ],
-      "count": 2,
-      "hasPrimary": false,
+      "count": 3,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
-          "snippet": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【青森県気象警報・注意報】青森県では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717103356_0_VPWW53_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
-          "title": "Key takeaways from Donald Trump’s controversial speech on election security",
-          "snippet": "The president claimed China and &#039;deep state&#039; actors had deceived US voters, but critics say his claims were mi",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/key-takeaways-from-donald-trumps-speech-on-election-security?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【青森県気象警報・注意報】青森県では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717103356_0_VPWW54_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【青森県気象警報・注意報】津軽、三八上北では、落雷に注意してください。青森県では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717103026_0_VPWW53_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "China rebukes UK over nationalisation of British Steel",
-      "slug": "ChinarebukesUKovernation",
-      "time": "2026-07-17T08:25:55.000Z",
-      "independentSources": 2,
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-07-17T10:46:20.000Z",
+      "independentSources": 1,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "気象庁 気象警報・注意報"
       ],
       "count": 2,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "China hits out at British Steel nationalisation",
-          "snippet": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【埼玉県気象警報・注意報】南部では、低い土地の浸水に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717104621_0_VPWW54_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
-          "title": "China rebukes UK over nationalisation of British Steel",
-          "snippet": "The UK has appropriated its last working steelworks following fears its former Chinese owners would shut it down.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/china-rebukes-uk-over-nationalisation-of-british-steel?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【埼玉県気象警報・注意報】南部では、低い土地の浸水に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717104621_0_VPWW53_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-      "slug": "USattackssouthernIranasT",
-      "time": "2026-07-17T07:56:06.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-07-17T10:31:30.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【茨城県気象警報・注意報】南部では、低い土地の浸水に注意してください。茨城県では、落雷や濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717103131_0_VPWW54_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【茨城県気象警報・注意報】南部では、低い土地の浸水に注意してください。茨城県では、落雷や濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717103131_0_VPWW53_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+      "slug": "FIFAWorldCup10thingstokn",
+      "time": "2026-07-17T09:47:55.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
       ],
-      "count": 4,
+      "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "US attacks southern Iran, as Tehran hits Gulf countries: What’s the latest?",
-          "snippet": "Iran struck Bahrain, Qatar, Oman, Jordan and Syria in retaliation for US strikes.",
+          "title": "FIFA World Cup: 10 things to know before Spain-Argentina final in New York",
+          "snippet": "From the viral photo of Lionel Messi with baby Lamine Yamal to Donald Trump&#039;s presence and the NFL-style half-time ",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/7/17/spain-argentina-fifa-world-cup-2026-final-messi-yamal-photo-trump?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "China’s Xi says AI ‘should not be a solo performance by a single country’",
-          "snippet": "The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.",
+          "title": "Watch FIFA World Cup: Argentina arrives in New Jersey ahead of Spain final",
+          "snippet": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/ai-xi?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US bombards Iran in sixth-straight night of attacks",
-          "snippet": "The US has made good on threats to bomb civilian infrastructure in Iran in its sixth-straight night of attacks.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-bombards-iran-in-sixth-straight-night-of-attacks?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Israeli settlers attack Sinjil town in occupied West Bank",
-          "snippet": "Clashes erupted after Israeli settlers attacked the outskirts of the occupied West Bank town of Sinjil.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/israeli-settlers-attack-sinjil-town-in-occupied-west-bank?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/2026/7/17/video-world-cup-2026-highlights?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "トランプ大統領創設のSNS 早く投稿受け取る有料サービス開始へ",
-      "slug": "トランプ大統領創設のSNS早く投稿受け取る有料サ",
-      "time": "2026-07-17T08:43:36.000Z",
+      "headline": "鹿児島 霧島 川で男性の遺体見つかる 不明の5歳男児の可能性",
+      "slug": "鹿児島霧島川で男性の遺体見つかる不明の5歳男児の",
+      "time": "2026-07-17T09:50:29.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -297,29 +315,8 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "トランプ大統領創設のSNS 早く投稿受け取る有料サービス開始へ",
-          "snippet": "アメリカのトランプ大統領が創設したSNS「トゥルース・ソーシャル」の運営企業は、一般の利用者よりも早く投稿を受け取ることができる有料サービスを始めると明らかにしました。トランプ大統領はこのSNSを使っ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015179081000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "鹿児島 川から服着ていない遺体発見 不明の5歳男児の可能性も",
-      "slug": "鹿児島川から服着ていない遺体発見不明の5歳男児の",
-      "time": "2026-07-17T07:16:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "鹿児島 川から服着ていない遺体発見 不明の5歳男児の可能性も",
-          "snippet": "17日午前、鹿児島県霧島市の川から服を着ていない状態の男性の遺体が見つかりました。警察は、先月、近くの温泉施設に家族と訪れたまま行方が分からなくなっている5歳の男の子の可能性もあるとみて確認を進めてい…",
+          "title": "鹿児島 霧島 川で男性の遺体見つかる 不明の5歳男児の可能性",
+          "snippet": "17日午前、鹿児島県霧島市の川から男性の遺体が見つかりました。警察は、先月、近くの温泉施設に家族と訪れたまま行方が分からなくなっている5歳の男の子の可能性もあるとみて、確認を進めています。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015178991000",
           "ty": "press",
@@ -328,9 +325,9 @@
       ]
     },
     {
-      "headline": "八王子で非常に激しい雨 観測1位",
-      "slug": "八王子で非常に激しい雨観測1位",
-      "time": "2026-07-17T07:41:31.000Z",
+      "headline": "子のSNSいつから? 禁止の是非",
+      "slug": "子のSNSいつから禁止の是非",
+      "time": "2026-07-17T07:22:20.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -339,31 +336,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "八王子で非常に激しい雨 観測1位",
+          "title": "子のSNSいつから? 禁止の是非",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588287?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "福岡県議会議長 金銭授受を否定",
-      "slug": "福岡県議会議長金銭授受を否定",
-      "time": "2026-07-17T08:04:30.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "福岡県議会議長 金銭授受を否定",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588290?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6588282?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -391,9 +367,9 @@
       ]
     },
     {
-      "headline": "富士山で99歳女性遭難 救助される",
-      "slug": "富士山で99歳女性遭難救助される",
-      "time": "2026-07-17T07:25:45.000Z",
+      "headline": "台船で女性倒れ死亡 殺人で捜査",
+      "slug": "台船で女性倒れ死亡殺人で捜査",
+      "time": "2026-07-17T09:38:20.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -402,19 +378,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "富士山で99歳女性遭難 救助される",
+          "title": "台船で女性倒れ死亡 殺人で捜査",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588272?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6588309?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "憲法缶バッジ盛況 開発元「感動」",
-      "slug": "憲法缶バッジ盛況開発元感動",
-      "time": "2026-07-17T08:25:35.000Z",
+      "headline": "トラック出火 郵便物4600通が焼損",
+      "slug": "トラック出火郵便物4600通が焼損",
+      "time": "2026-07-17T08:58:02.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -423,10 +399,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "憲法缶バッジ盛況 開発元「感動」",
+          "title": "トラック出火 郵便物4600通が焼損",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588294?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6588301?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -454,9 +430,9 @@
       ]
     },
     {
-      "headline": "初代・峰不二子役の声優 死去",
-      "slug": "初代峰不二子役の声優死去",
-      "time": "2026-07-17T07:47:51.000Z",
+      "headline": "松本人志 大腸腫瘍を手術と告白",
+      "slug": "松本人志大腸腫瘍を手術と告白",
+      "time": "2026-07-17T10:30:27.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -465,19 +441,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "初代・峰不二子役の声優 死去",
+          "title": "松本人志 大腸腫瘍を手術と告白",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588288?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6588313?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "ビッグダディ 取材中に離婚届破る",
-      "slug": "ビッグダディ取材中に離婚届破る",
-      "time": "2026-07-17T07:22:30.000Z",
+      "headline": "金曜ドラマ もう「今期1番」の声",
+      "slug": "金曜ドラマもう今期1番の声",
+      "time": "2026-07-17T09:15:13.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -486,52 +462,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ビッグダディ 取材中に離婚届破る",
+          "title": "金曜ドラマ もう「今期1番」の声",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588280?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "中国、好感度で米国抜く　トランプ政権の評価悪化―調査機関",
-      "slug": "中国好感度で米国抜くトランプ政権の評価悪化調査機",
-      "time": "2026-07-15T23:23:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "中国、好感度で米国抜く　トランプ政権の評価悪化―調査機関",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071600231&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "トランプ氏、中国がデータ不正取得と主張　２０年大統領選巡り、国民向け演説で",
-      "slug": "トランプ氏中国がデタ不正取得と主張年大統領選巡り",
-      "time": "2026-07-17T05:09:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "トランプ氏、中国がデータ不正取得と主張　２０年大統領選巡り、国民向け演説で",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700672&g=int&m=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6588307?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -580,9 +514,9 @@
       ]
     },
     {
-      "headline": "トランプ氏投稿、有料で即時配信　金融機関向け新サービス",
-      "slug": "トランプ氏投稿有料で即時配信金融機関向け新サビス",
-      "time": "2026-07-17T06:56:00.000Z",
+      "headline": "新給付制度、支援漏れ防止を検討　高市首相、集中審議に出席",
+      "slug": "新給付制度支援漏れ防止を検討高市首相集中審議に出",
+      "time": "2026-07-17T09:24:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -591,19 +525,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "トランプ氏投稿、有料で即時配信　金融機関向け新サービス",
+          "title": "新給付制度、支援漏れ防止を検討　高市首相、集中審議に出席",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700842&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026071700129&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "今国会２５日まで延長　政府・与党方針",
-      "slug": "今国会日まで延長政府与党方針",
-      "time": "2026-07-17T07:47:00.000Z",
+      "headline": "二階堂有希子さん死去　声優",
+      "slug": "二階堂有希子さん死去声優",
+      "time": "2026-07-17T09:12:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -612,31 +546,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "今国会２５日まで延長　政府・与党方針",
+          "title": "二階堂有希子さん死去　声優",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700290&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「国旗損壊罪」法が成立　表現の自由、懸念残す―罰則付き、拘禁２年以下",
-      "slug": "国旗損壊罪法が成立表現の自由懸念残す罰則付き拘禁",
-      "time": "2026-07-17T06:55:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「国旗損壊罪」法が成立　表現の自由、懸念残す―罰則付き、拘禁２年以下",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700126&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026071701020&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -664,9 +577,9 @@
       ]
     },
     {
-      "headline": "ボーナス、より業績重視に　国家公務員の人材確保へ検討―人事院",
-      "slug": "ボナスより業績重視に国家公務員の人材確保へ検討人",
-      "time": "2026-07-17T06:08:00.000Z",
+      "headline": "典範改正「議員９割賛成」　木原官房長官",
+      "slug": "典範改正議員割賛成木原官房長官",
+      "time": "2026-07-17T08:54:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -675,10 +588,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ボーナス、より業績重視に　国家公務員の人材確保へ検討―人事院",
+          "title": "典範改正「議員９割賛成」　木原官房長官",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071700589&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026071701004&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "当て逃げ容疑、県議を書類送検　通報せず立ち去る―高知県警",
+      "slug": "当て逃げ容疑県議を書類送検通報せず立ち去る高知県",
+      "time": "2026-07-17T07:22:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "当て逃げ容疑、県議を書類送検　通報せず立ち去る―高知県警",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700866&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "恐竜時代の哺乳類化石発見　現生種の祖先も―早大など",
+      "slug": "恐竜時代の哺乳類化石発見現生種の祖先も早大など",
+      "time": "2026-07-17T09:08:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "恐竜時代の哺乳類化石発見　現生種の祖先も―早大など",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071701015&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -895,9 +850,9 @@
       ]
     },
     {
-      "headline": "指定河川洪水予報",
-      "slug": "指定河川洪水予報",
-      "time": "2026-07-17T08:50:08.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-07-17T10:33:53.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -906,10 +861,31 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "指定河川洪水予報",
-          "snippet": "【袋川レベル２氾濫注意報】【警戒レベル２情報［洪水］】〔新規〕袋川では、氾濫注意水位に到達し、今後、水位はさらに上昇する見込み",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【青森県雷・濃霧注意報】青森県では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717085014_0_VXKO84_090000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717103354_0_VPWW61_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-07-17T10:31:21.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【茨城県大雨警報・注意報】南部では、低い土地の浸水や河川の増水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717103121_0_VPWW55_080000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1002,7 +978,7 @@
     {
       "headline": "School bus crash kills at least 20 pupils in Uganda",
       "slug": "Schoolbuscrashkillsatlea",
-      "time": "2026-07-17T05:36:22.000Z",
+      "time": "2026-07-17T10:04:27.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1042,6 +1018,27 @@
       ]
     },
     {
+      "headline": "China hits out at British Steel nationalisation",
+      "slug": "ChinahitsoutatBritishSte",
+      "time": "2026-07-17T08:25:55.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "China hits out at British Steel nationalisation",
+          "snippet": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Olympic cyclist admits to driving despite ban after crash that killed wife",
       "slug": "Olympiccyclistadmitstodr",
       "time": "2026-07-17T05:09:14.000Z",
@@ -1063,9 +1060,9 @@
       ]
     },
     {
-      "headline": "Why is Pakistan’s Sindh province facing a major child HIV outbreak?",
-      "slug": "WhyisPakistansSindhprovi",
-      "time": "2026-07-17T07:33:16.000Z",
+      "headline": "India debuts hydrogen-powered train as part of sustainability drive",
+      "slug": "Indiadebutshydrogenpower",
+      "time": "2026-07-17T10:25:08.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1074,19 +1071,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Why is Pakistan’s Sindh province facing a major child HIV outbreak?",
-          "snippet": "The latest outbreak linked to a Karachi hospital is the newest in a series that experts say reflects systemic failures.",
+          "title": "India debuts hydrogen-powered train as part of sustainability drive",
+          "snippet": "India joins a handful of countries that have successfully deployed the zero-emission technology in their rail networks.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/17/why-is-pakistans-sindh-province-facing-a-major-child-hiv-outbreak?traffic_source=rss",
+          "link": "https://www.aljazeera.com/economy/2026/7/17/india-debuts-hydrogen-powered-train-as-part-of-sustainability-drive?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "John Esposito transformed how the West understood Islam",
-      "slug": "JohnEspositotransformedh",
-      "time": "2026-07-17T06:27:17.000Z",
+      "headline": "World Cup third-place playoff: What are France and England playing for?",
+      "slug": "WorldCupthirdplaceplayof",
+      "time": "2026-07-17T10:15:48.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1095,19 +1092,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "John Esposito transformed how the West understood Islam",
-          "snippet": "The pioneering scholar, who died on July 15, challenged Orientalist orthodoxies and reshaped the study of Islam.",
+          "title": "World Cup third-place playoff: What are France and England playing for?",
+          "snippet": "Didier Deschamps takes charge ⁠of Les Bleus for the final time while Kylian Mbappe is chasing individual history.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/opinions/2026/7/17/john-esposito-transformed-how-the-west-understood-islam?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/7/17/world-cup-third-place-playoff-what-are-france-and-england-playing-for?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Texas floods ravage through southwestern areas of state",
-      "slug": "Texasfloodsravagethrough",
-      "time": "2026-07-17T05:12:11.000Z",
+      "headline": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
+      "slug": "HasUkrainesZelenskyycrea",
+      "time": "2026-07-17T10:07:11.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1116,10 +1113,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Texas floods ravage through southwestern areas of state",
-          "snippet": "At least 2 people are dead, and over 200 were rescued in catastrophic floods in the Texas Hill Country region.",
+          "title": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
+          "snippet": "Rallies in support of sacked Defence Minister Mykhailo Fedorov have exposed a political challenge for Zelenskyy.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/texas-floods-ravage-through-southwestern-areas-of-state?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/17/has-ukraines-zelenskyy-created-a-rival-by-sacking-his-defence-minister?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
+      "slug": "AsChineseeconomyslowsexp",
+      "time": "2026-07-17T10:06:25.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
+          "snippet": "While the &#039;export engine is running very hot&#039;, jobs are lagging, squeezing spending in China.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+      "slug": "GermanyrepeatscallforEUf",
+      "time": "2026-07-17T09:24:03.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Germany repeats call for EU force to replace UN peacekeepers in Lebanon",
+          "snippet": "Berlin warns against a &#039;security vacuum&#039; in Lebanon&#039;s south once UNIFIL mandate expires at year&#039;s en",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/17/germany-repeats-call-for-eu-force-to-replace-un-peacekeepers-in-lebanon?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }

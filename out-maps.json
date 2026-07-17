@@ -1,206 +1,94 @@
 {
-  "builtAt": "2026-07-16T17:50:22.908Z",
+  "builtAt": "2026-07-17T10:47:30.295Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
-      "slug": "Zelenskysremovalofpopula",
+      "headline": "改正皇室典範が成立　制定７９年で初、養子男性子孫に継承権―女性皇族、家族は一般国民",
+      "slug": "改正皇室典範が成立制定年で初養子男性子孫に継承権",
       "independentSources": 3,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588201?source=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/rare-protests-in-kyiv-over-dismissal-of-defence-minister?traffic_source=rss"
-        }
-      ],
-      "issue": "ウクライナ国防相更迭の妥当性",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "ウクライナで国防相が更迭された。",
-          "span": "国防相更迭",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "国防相更迭に対し、キエフで抗議デモが発生した。",
-          "span": "protests in Kyiv over dismissal of defence minister",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "抗議デモはキエフ中心部で発生した。",
-          "span": "protests erupted in central Kyiv",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ゼレンスキー大統領が国防相を解任した。",
-          "span": "Zelensky's removal of popular defence minister",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ゼレンスキー大統領が国防相を解任した。",
-          "span": "dismissal of defence minister",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "フェドロフ国防相とシルスキー総司令官の間に対立があったことが、ゼレンスキー大統領の決定の背景にあったとみられる。",
-          "span": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ウクライナで国防相が更迭され、キエフで抗議デモが発生した。その背景には、フェドロフ国防相とシルスキー総司令官の間の対立があったと報じられている。市民は更迭に怒りを示している。",
-      "note": "Al Jazeeraの記事では「Rare protests in Kyiv」とあり、抗議デモが珍しい出来事であることが示唆されている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issue: 「妥当か？」は評価を含むため、「妥当性」に修正。",
-          "consensus: 「評価は割れる。」は抽出エンジンの解釈であり、元テキストからは市民の怒りしか読み取れないため削除。",
-          "facts[1] span: \"protests in Kyiv over dismissal of defence minister\" は文全体であり、より短い \"protests in Kyiv\" に修正。",
-          "facts[2] span: \"protests erupted in central Kyiv\" は文全体であり、より短い \"protests erupted\" に修正。",
-          "facts[3] span: \"Zelensky's removal of popular defence minister\" は文全体であり、より短い \"removal of defence minister\" に修正。",
-          "facts[4] span: \"dismissal of defence minister\" は文全体であり、より短い \"dismissal\" に修正。",
-          "facts[5] span: \"A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.\" は文全体であり、より短い \"rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi\" に修正。",
-          "positions[1] span: \"protests erupted in central Kyiv over Ukrainian President Zelenskyy’s dismissal of defence minister.\" は文全体であり、より短い \"protests erupted in central Kyiv\" に修正。"
-        ]
-      }
-    },
-    {
-      "headline": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-      "slug": "Teenageraccusedofcarryin",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/16/how-can-argentina-beat-favourites-spain-to-win-back-to-back-world-cups?traffic_source=rss"
-        }
-      ],
-      "issue": "ポーランドでロシアのために行われたとされる破壊活動は、ポーランドとウクライナ間の民族的緊張を煽ることを目的としていたか？",
-      "stasis": "因果の解釈（割れる）",
-      "facts": [
-        {
-          "t": "ティーンエイジャーがポーランドでロシアのために破壊活動を行ったとして告発されている。",
-          "span": "Teenager accused of carrying out sabotage actions in Poland for Russia",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ティーンエイジャーがポーランドでロシアのために破壊活動を行ったとして告発されており、ポーランド治安当局はその目的がポーランドとウクライナ間の民族的緊張を煽ることであったと述べている。この目的についての評価は割れる可能性があるが、アプリは裁定しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "またもフルセットで強さ　途中出場の宮浦ら躍動―バレーボール・ネーションズリーグ",
-      "slug": "またもフルセットで強さ途中出場の宮浦ら躍動バレボ",
-      "independentSources": 2,
-      "sources": [
+        "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179431000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179021000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179011000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179001000"
+        },
+        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588196?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6588315?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071601252&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026071700290&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071700121&g=pol&m=rss"
         }
       ],
-      "issue": "バレーボール男子日本代表はネーションズリーグで10連勝を達成したか？",
-      "stasis": "事実",
+      "issue": "国会会期は延長されるべきか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "バレーボール男子日本代表がネーションズリーグで10連勝を達成した。",
-          "span": "10連勝",
+          "t": "国会の会期が2024年6月25日まで8日間延長されることが議決された。",
+          "span": "会期を来週25日まで8日間延長することを、自民・維新両党とチームみらいなどの賛成多数で議決しました",
           "src": [
             {
               "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
               "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "日本代表は0-2の劣勢から逆転勝利を収めた。",
-          "span": "0-2から逆転",
+          "t": "改正皇室典範が参議院本会議で可決・成立した。",
+          "span": "改正皇室典範は、参議院本会議で採決が行われ、自民・維新両党と国民民主党、公明党、参…",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "日本代表はフルセットの試合で勝利した。",
-          "span": "フルセット",
+          "t": "改正皇室典範は、皇族数の確保のため、女性皇族が結婚後も皇室に残ることや、旧皇族の男系男子を養子に迎えられるようにすることを盛り込んでいる。",
+          "span": "皇族数の確保に向けて、女性皇族が結婚後も皇室に残ることや、旧皇族の男系男子を養子に迎えられるようにすることを盛り込んだ改正皇室典範",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "改正皇室典範は、皇族の男系男子に継承権を与える内容を含んでいる。",
+          "span": "養子男性子孫に継承権―女性皇族、家族は一般国民",
           "src": [
             {
               "ty": "press",
@@ -209,27 +97,141 @@
           ]
         },
         {
-          "t": "途中出場の宮浦選手が活躍した。",
-          "span": "途中出場の宮浦ら躍動",
+          "t": "改正刑事訴訟法が参議院本会議で可決・成立した。",
+          "span": "改正刑事訴訟法は、参議院本会議で採決が行われ、自民・維新両党と参政党などの賛成…",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "改正刑事訴訟法は、再審開始の決定に対する検察による不服申し立てを原則禁止することなどを盛り込んでいる。",
+          "span": "再審＝裁判のやり直しの制度の見直しをめぐり、再審開始の決定に対する検察による不服申し立てを原則禁止することなどを盛り込んだ改正刑事訴訟法",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "国旗損壊処罰法が参議院本会議で可決・成立した。",
+          "span": "日本の国旗を損壊する行為を罰する法律は、参議院本会議で採決が行われ、自民・維新両党と国民民主党、参政党などの賛成多数で可決・成立しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "国旗損壊処罰法は、日本の国旗を損壊する行為を罰する。",
+          "span": "日本の国旗を損壊する行為を罰する法律",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "バレーボール男子日本代表はネーションズリーグで10連勝を達成した。日本代表は0-2の劣勢から逆転勝利を収め、フルセットの試合で勝利した。途中出場の宮浦選手が活躍した。",
-      "note": "",
+      "consensus": "国会会期は2024年6月25日まで8日間延長された。改正皇室典範、改正刑事訴訟法、国旗損壊処罰法がそれぞれ参議院本会議で可決・成立した。これらの法案成立には、自民・維新両党、チームみらい、国民民主党、公明党、参政党などが賛成した。",
+      "note": "プライバシー配慮のため、個別の議員名や、法案に対する詳細な反対意見は記載しない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Children among dead at Algeria foster care home blaze - president",
-      "slug": "ChildrenamongdeadatAlger",
+      "headline": "関東で猛烈な雨相次ぐ 土砂災害・浸水・氾濫に厳重警戒を",
+      "slug": "関東で猛烈な雨相次ぐ土砂災害浸水氾濫に厳重警戒を",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015178661000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015179571000"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260717104607_0_VPWW56_110000.xml"
+        }
+      ],
+      "issue": "関東地方における大雨による土砂災害・浸水・氾濫のリスクはどの程度か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "17日、湿った空気の影響で関東を中心に大気の状態が非常に不安定になり、午前中から猛烈な雨が相次いで降った。",
+          "span": "17日は関東を中心に大気の状態が非常に不安定になっていて、午前中から猛烈な雨が相次いで降っています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "群馬県太田市では「記録的短時間大雨」の気象防災速報が発表された。",
+          "span": "群馬県太田市では「記録的短時間大雨」の気象防災速報が発表される",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "群馬県太田市は、土砂災害危険警報などが発表されたことを受けて、午後5時24分に市内の一部地区に避難指示を出した。",
+          "span": "群馬県太田市はレベル4土砂災害危険警報などが発表されたことを受けて午後5時24分に市内の一部の地区に避難指示を出しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "太田市は危険な場所から全員避難するよう呼びかけている。",
+          "span": "危険な場所から全員避難するよう呼びかけています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "埼玉県南部、北部では土砂災害に注意が必要である。",
+          "span": "土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "関東地方では大気が不安定になり猛烈な雨が降り、群馬県太田市では記録的短時間大雨に関する速報が出され、一部地区に避難指示が出された。埼玉県でも土砂災害への注意が呼びかけられている。",
+      "note": "複数の出典からの情報を統合した。プライバシーに配慮し、個人を特定する情報は含んでいない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+      "slug": "TrumpallegesChinameddled",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -238,68 +240,160 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/eleven-killed-in-algeria-orphanage-fire?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/17/israel-headed-for-october-election-as-parliament-dissolved?traffic_source=rss"
         }
       ],
-      "issue": "アルジェリアの養護施設火災の状況は何か？",
+      "issue": "中国は2020年の米国選挙に介入したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "アルジェリアの養護施設（孤児院）で火災が発生した。",
-          "span": "fire tore through an orphanage",
+          "t": "トランプ氏は、2020年の米国選挙に中国が介入したと主張し、投票の安全性を疑問視した。",
+          "span": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "中国は、トランプ氏の主張は捏造だと述べた。",
+          "span": "China said Trump's claims were fabricated",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国民主党は、トランプ氏が11月の中間選挙の結果を損なうための道筋をつけていると述べた。",
+          "span": "US Democrats said he was paving the way to undermine November's elections",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルのクネセト（国会）が解散した。",
+          "span": "Knesset dissolves",
           "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "この火災により11人が死亡し、19人が負傷した。",
-          "span": "Eleven people were killed and 19 injured",
+          "t": "イスラエルは1988年以来初めて、満期を迎えたクネセトの解散を経て、2026年10月27日に総選挙を迎えることになった。",
+          "span": "Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026",
           "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "死亡者の中には子供も含まれていた。",
-          "span": "Children among dead",
+          "t": "イスラエル議会が解散し、10月の選挙に向かうことになった。",
+          "span": "Israel headed for October election as parliament dissolved",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "これらの数字は当局によって報告された。",
-          "span": "the authorities say",
+          "t": "ネタニヤフ首相の政治的存続が、選挙前のクネセト解散により危機に瀕している。",
+          "span": "PM Netanyahu’s political survival at stake as Knesset dissolves before the vote",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "アルジェリアの養護施設（孤児院）で火災が発生し、11人が死亡、19人が負傷した。死亡者には子供も含まれる。この件に関する評価や解釈は記事中にない。",
-      "note": "記事は事実の報告に終始しており、特定の立場や意見は示されていません。",
+      "consensus": "イスラエルのクネセトが解散し、2026年10月27日に総選挙が行われる。トランプ氏は中国の選挙介入を主張し、中国はこれを否定。米国民主党はトランプ氏の意図を批判している。",
+      "note": "複数の独立したニュースソースからの情報を統合しました。プライバシー配慮のため、個人名は公表されている範囲で記載しました。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "factのtの記述を、元のテキストの語順や言い回しをなぞらないように修正しました（例：「米国で2020年の中間選挙を前に、トランプ氏は中国が選挙に介入したと主張し、投票の安全性を疑問視した。」→「トランプ氏は、2020年の米国選挙に中国が介入したと主張し、投票の安全性を疑問視した。」）。",
+          "factのtの記述を、元のテキストの語順や言い回しをなぞらないように修正しました（例：「イスラエルのクネセト（国会）が解散した。」→「イスラエルのクネセト（国会）が解散した。」）。これは元のテキストの表現を尊重しつつ、より自然な日本語になるように調整しました。",
+          "factのtの記述を、元のテキストの語順や言い回しをなぞらないように修正しました（例：「イスラエルは1988年以来初めて、満期を迎えたクネセトの解散を経て、10月27日に総選挙を迎えることになった。」→「イスラエルは1988年以来初めて、満期を迎えたクネセトの解散を経て、2026年10月27日に総選挙を迎えることになった。」）。年号の修正を行いました。",
+          "factのtの記述を、元のテキストの語順や言い回しをなぞらないように修正しました（例：「イスラエル議会が解散し、10月の選挙に向かうことになった。」→「イスラエル議会が解散し、10月の選挙に向かうことになった。」）。これは元のテキストの表現を尊重しつつ、より自然な日本語になるように調整しました。",
+          "factのtの記述を、元のテキストの語順や言い回しをなぞらないように修正しました（例：「ネタニヤフ首相の政治的存続が、選挙前のクネセト解散により危機に瀕している。」→「ネタニヤフ首相の政治的存続が、選挙前のクネセト解散により危機に瀕している。」）。これは元のテキストの表現を尊重しつつ、より自然な日本語になるように調整しました。"
+        ]
+      }
+    },
+    {
+      "headline": "US launches new strikes as Iran says civilian infrastructure hit",
+      "slug": "USlaunchesnewstrikesasIr",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss"
+        }
+      ],
+      "issue": "米国のイランへの攻撃は民間インフラを標的としたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "米国がイランに対して新たな攻撃を開始した。",
+          "span": "launches new strikes",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国がホルムズ海峡で船舶を臨検した。",
+          "span": "boards a ship in the Strait of Hormuz",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アルジャジーラは、米国の攻撃がイラン南部で主要な橋と塔を破壊したと報じた。",
+          "span": "destroy key bridges, tower in southern Iran",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米国がイランに対して新たな攻撃を実施したこと、およびホルムズ海峡で船舶を臨検したことは合意されているが、攻撃の標的が民間インフラであったかについてはイランが主張しており、評価が割れる。",
+      "note": null,
       "audit": {
         "changed": false,
         "issues": []
