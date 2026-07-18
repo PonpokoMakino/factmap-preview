@@ -1,22 +1,22 @@
 {
-  "rankedAt": "2026-07-18T21:31:31.787Z",
+  "rankedAt": "2026-07-18T22:29:15.161Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "北海道 青森で大雨 レベル4危険警報も 土砂災害など厳重警戒",
-      "slug": "北海道青森で大雨レベル4危険警報も土砂災害など厳",
-      "time": "2026-07-18T21:23:27.000Z",
+      "headline": "北海道 青森で大雨 青森ではレベル4危険警報も 厳重警戒",
+      "slug": "北海道青森で大雨青森ではレベル4危険警報も厳重警",
+      "time": "2026-07-18T22:25:03.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 5,
+      "count": 8,
       "hasPrimary": true,
       "members": [
         {
-          "title": "北海道 青森で大雨 レベル4危険警報も 土砂災害など厳重警戒",
-          "snippet": "前線と低気圧の影響で、北海道や青森県では18日夜から局地的に大雨となり、「レベル4危険警報」が発表されている地域があります。このあとも激しい雨が降るおそれがあり、土砂災害などに厳重な警戒が必要です。",
+          "title": "北海道 青森で大雨 青森ではレベル4危険警報も 厳重警戒",
+          "snippet": "前線と低気圧の影響で、北海道や青森県では18日夜から大雨となり、青森県では「レベル4土砂災害危険警報」が発表されている地域があります。このあとも激しい雨が降るおそれがあり、土砂災害に厳重な警戒が必要で…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015180531000",
           "ty": "press",
@@ -31,26 +31,50 @@
           "linkKind": "article"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【石狩・空知・後志地方気象警報・注意報】後志地方では、土砂災害や低い土地の浸水に注意してください。石狩、後志地方では、強風に注意してください。石狩・空知・後志地方では、落雷や濃霧による視程障害に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【青森県気象警報・注意報】〈危険警報（土砂災害）〉津軽、下北では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718212329_0_VPWW53_016000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718222445_0_VPWW54_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【青森県気象警報・注意報】〈危険警報（土砂災害）〉津軽、下北では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718222445_0_VPWW53_020000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【石狩・空知・後志地方気象警報・注意報】後志地方では、土砂災害や低い土地の浸水に注意してください。石狩、後志地方では、強風に注意してください。石狩・空知・後志地方では、落雷や濃霧による視程障害に注意してください。",
+          "snippet": "【青森県気象警報・注意報】〈危険警報（土砂災害）〉津軽、下北では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718212329_0_VPWW54_016000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718221252_0_VPWW54_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【青森県気象警報・注意報】〈危険警報（土砂災害）〉津軽、下北では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718221252_0_VPWW53_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "土砂災害警戒情報",
+          "snippet": "【青森県レベル４土砂災害危険警報】＜レベル４土砂災害危険警報の補足情報＞\nレベル４土砂災害危険警報が発表されている地域では、崖の近くや谷の出口など土砂災害警戒区域等にお住まいの方は、市町村から発令される避難指示などの情報に留意し、少しでも安",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718221247_0_VXWW50_020000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【石狩・空知・後志地方土砂災害警報・注意報】後志地方では、土砂災害に注意してください。",
+          "snippet": "【青森県土砂災害警報・注意報】津軽、下北では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718212321_0_VPWW56_016000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718221240_0_VPWW56_020000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -195,9 +219,9 @@
       ]
     },
     {
-      "headline": "モジタバ師「覚書繰り返し違反 米大統領署名が無効の証し」",
-      "slug": "モジタバ師覚書繰り返し違反米大統領署名が無効の証",
-      "time": "2026-07-18T20:47:00.000Z",
+      "headline": "イラン“覚書の履行停止” 米はイラン攻撃対応で2人死亡と発表",
+      "slug": "イラン覚書の履行停止米はイラン攻撃対応で2人死亡",
+      "time": "2026-07-18T21:57:26.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -207,8 +231,8 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "モジタバ師「覚書繰り返し違反 米大統領署名が無効の証し」",
-          "snippet": "イランの最高指導者モジタバ師の新たな声明が18日発表され、このなかでは「イランとアメリカの大統領の間で結ばれた覚書に、アメリカが繰り返し違反したことは、アメリカの大統領の署名がいかに無価値で、無効であ…",
+          "title": "イラン“覚書の履行停止” 米はイラン攻撃対応で2人死亡と発表",
+          "snippet": "アメリカとイランの攻撃の応酬が続くなか、イラン側は、アメリカが戦闘終結に向けた覚書のすべての義務に違反しているとした上で「われわれも義務の履行を停止している」と主張しました。一方、アメリカ中央軍はイラ…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015180431000",
           "ty": "press",
@@ -225,9 +249,9 @@
       ]
     },
     {
-      "headline": "【速報中】W杯 イングランドが追加点 フランスはエムバペ先発",
-      "slug": "速報中W杯イングランドが追加点フランスはエムバペ",
-      "time": "2026-07-18T21:25:00.000Z",
+      "headline": "W杯 アルゼンチンが決勝へ調整 スペインは雷影響で屋外中止に",
+      "slug": "W杯アルゼンチンが決勝へ調整スペインは雷影響で屋",
+      "time": "2026-07-18T22:25:37.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -236,8 +260,8 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "【速報中】W杯 イングランドが追加点 フランスはエムバペ先発",
-          "snippet": "サッカーワールドカップ北中米大会は3位決定戦。世界ランキング3位のフランスと世界4位のイングランドの対戦です。勝敗とともに注目されるのが両チームのスター選手による得点王争いです。最新情報をお伝えしてい…",
+          "title": "【速報中】イングランドがリード 仏エムバペが今大会9点目",
+          "snippet": "サッカーワールドカップ北中米大会は3位決定戦。世界ランキング3位のフランスと世界4位のイングランドの対戦です。試合はイングランドがリードする中、得点王争いを続けるフランスのエムバペ選手が得点を挙げまし…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015180461000",
           "ty": "press",
@@ -248,6 +272,35 @@
           "snippet": "サッカーワールドカップ北中米大会で連覇を目指すアルゼンチンが18日、スペインとの決勝を翌日に控え、アメリカ東部ニュージャージー州で最終調整しました。一方のスペインは雷の影響で屋外での最終調整が中止とな…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015180551000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "トランプ氏「カナダとメキシコを今度は外そう」、米国の単独開催を促す　ＦＩＦＡ会長からは米中共催案―Ｗ杯サッカー",
+      "slug": "トランプ氏カナダとメキシコを今度は外そう米国の単",
+      "time": "2026-07-18T11:39:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "運命的なメッシとヤマル　１９年前の出会い、決勝で対戦―Ｗ杯サッカー",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071800308&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "トランプ氏「カナダとメキシコを今度は外そう」、米国の単独開催を促す　ＦＩＦＡ会長からは米中共催案―Ｗ杯サッカー",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071800358&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -341,9 +394,9 @@
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-18T21:27:18.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-07-18T22:24:40.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -352,27 +405,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【胆振・日高地方気象警報・注意報】日高地方では、低い土地の浸水に警戒してください。",
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【青森県大雨警報・注意報】津軽では、低い土地の浸水や河川の増水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718212720_0_VPWW53_015000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718222440_0_VPWW55_020000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【胆振・日高地方気象警報・注意報】日高地方では、低い土地の浸水に警戒してください。",
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【青森県大雨警報・注意報】津軽では、低い土地の浸水や河川の増水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718212719_0_VPWW54_015000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718221240_0_VPWW55_020000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-18T21:07:28.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-07-18T22:09:10.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -381,18 +434,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山形県気象警報・注意報】山形県では、落雷に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【福岡県気象警報・注意報】福岡県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718210729_0_VPWW54_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718220912_0_VPWW53_400000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【山形県気象警報・注意報】山形県では、落雷に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【福岡県気象警報・注意報】福岡県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718210729_0_VPWW53_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718220911_0_VPWW54_400000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -449,9 +502,9 @@
       ]
     },
     {
-      "headline": "喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪",
-      "slug": "喜劇王チャップリンの街の灯が人形浄瑠璃文楽に大阪",
-      "time": "2026-07-18T21:20:40.000Z",
+      "headline": "多くの戦死者の遺骨が残る硫黄島 学生たちが慰霊",
+      "slug": "多くの戦死者の遺骨が残る硫黄島学生たちが慰霊",
+      "time": "2026-07-18T22:06:32.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -460,10 +513,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "喜劇王チャップリンの「街の灯」が人形浄瑠璃文楽に 大阪",
-          "snippet": "喜劇王・チャップリンの映画を原作に制作された人形浄瑠璃文楽の公演が、18日夜から、大阪・日本橋の国立文楽劇場で始まりました。",
+          "title": "多くの戦死者の遺骨が残る硫黄島 学生たちが慰霊",
+          "snippet": "太平洋戦争末期、日米両軍の間で激しい地上戦が行われた、小笠原諸島の硫黄島を学生たちが訪れ、今も多くの戦死者の遺骨が残る現場で慰霊しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015180401000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015180481000",
           "ty": "press",
           "linkKind": "article"
         }
@@ -512,6 +565,27 @@
       ]
     },
     {
+      "headline": "建物から男性転落 歩行者巻き込む",
+      "slug": "建物から男性転落歩行者巻き込む",
+      "time": "2026-07-18T22:14:33.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "建物から男性転落 歩行者巻き込む",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588453?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "ボートから落ち23歳死亡 琵琶湖",
       "slug": "ボトから落ち23歳死亡琵琶湖",
       "time": "2026-07-18T14:43:02.000Z",
@@ -527,27 +601,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6588451?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "花火大会で火事 落下後に爆発か",
-      "slug": "花火大会で火事落下後に爆発か",
-      "time": "2026-07-18T13:12:19.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "花火大会で火事 落下後に爆発か",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588442?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -577,7 +630,7 @@
     {
       "headline": "速報W杯 フランス対イングランド",
       "slug": "速報W杯フランス対イングランド",
-      "time": "2026-07-18T21:00:16.000Z",
+      "time": "2026-07-18T22:13:23.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -589,7 +642,7 @@
           "title": "速報W杯 フランス対イングランド",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588434?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6588454?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -680,27 +733,6 @@
       ]
     },
     {
-      "headline": "首相動静（７月１８日）",
-      "slug": "首相動静月日",
-      "time": "2026-07-18T13:07:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "首相動静（７月１８日）",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071800199&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "高額療養費の月額負担、４～３８％引き上げ　長期療養者に年間上限も新設",
       "slug": "高額療養費の月額負担引き上げ長期療養者に年間上限",
       "time": "2026-07-18T08:30:00.000Z",
@@ -722,90 +754,6 @@
       ]
     },
     {
-      "headline": "高校生が硫黄島訪問　戦没者に献花、記憶継承―厚労省",
-      "slug": "高校生が硫黄島訪問戦没者に献花記憶継承厚労省",
-      "time": "2026-07-18T10:16:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "高校生が硫黄島訪問　戦没者に献花、記憶継承―厚労省",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071800304&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "インド、民間初の軌道投入ミッション成功　小型衛星運搬ロケット",
-      "slug": "インド民間初の軌道投入ミッション成功小型衛星運搬",
-      "time": "2026-07-18T10:13:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "インド、民間初の軌道投入ミッション成功　小型衛星運搬ロケット",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071800396&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "運命的なメッシとヤマル　１９年前の出会い、決勝で対戦―Ｗ杯サッカー",
-      "slug": "運命的なメッシとヤマル年前の出会い決勝で対戦杯サ",
-      "time": "2026-07-18T11:39:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "運命的なメッシとヤマル　１９年前の出会い、決勝で対戦―Ｗ杯サッカー",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071800308&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "１９日の予告先発投手　プロ野球セ・リーグ",
-      "slug": "日の予告先発投手プロ野球セリグ",
-      "time": "2026-07-18T08:44:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "１９日の予告先発投手　プロ野球セ・リーグ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071800366&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "米中央軍は、イランによるヨルダン攻撃で米兵２人が死亡したと明らかにした",
       "slug": "米中央軍はイランによるヨルダン攻撃で米兵人が死亡",
       "time": "2026-07-18T20:08:00.000Z",
@@ -821,6 +769,69 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026071900072&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "首相動静（７月１８日）",
+      "slug": "首相動静月日",
+      "time": "2026-07-18T13:07:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "首相動静（７月１８日）",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071800199&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ＮＹ市長「イスラエル首相拘束」検討　９月の国連総会出席なら",
+      "slug": "市長イスラエル首相拘束検討月の国連総会出席なら",
+      "time": "2026-07-18T21:25:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ＮＹ市長「イスラエル首相拘束」検討　９月の国連総会出席なら",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071900087&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "高校生が硫黄島訪問　戦没者に献花、記憶継承―厚労省",
+      "slug": "高校生が硫黄島訪問戦没者に献花記憶継承厚労省",
+      "time": "2026-07-18T10:16:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "高校生が硫黄島訪問　戦没者に献花、記憶継承―厚労省",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071800304&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -905,69 +916,6 @@
           "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１９日０９時から１２時までは火口から北方向、１９日２１時から２４時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260718200030_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-07-18T21:27:17.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【胆振・日高地方大雨警報・注意報】日高地方では、低い土地の浸水や河川の増水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718212717_0_VPWW55_015000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-07-18T21:23:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【石狩・空知・後志地方大雨警報・注意報】後志地方では、低い土地の浸水や河川の増水に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718212321_0_VPWW55_016000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-07-18T21:07:25.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【山形県雷注意報】山形県では、急な強い雨や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260718210725_0_VPWW61_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
