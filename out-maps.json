@@ -1,133 +1,10 @@
 {
-  "builtAt": "2026-07-19T04:33:02.920Z",
+  "builtAt": "2026-07-19T10:52:39.706Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "西日本・北陸は各地で猛暑日に 北海道は大雨に警戒",
-      "slug": "西日本北陸は各地で猛暑日に北海道は大雨に警戒",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015180531000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588493?source=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719042125_0_VPWW53_015000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719042124_0_VPWW54_015000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719042115_0_VPWW55_015000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719041159_0_VPWW53_100000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719041159_0_VPWW54_100000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719041145_0_VPWW56_100000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719030545_0_VPWW53_014100.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719030545_0_VPWW54_014100.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719030543_0_VPWW56_014100.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260719022843_0_VPFJ50_020000.xml"
-        }
-      ],
-      "issue": "日本各地で気象災害への警戒は必要か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "西日本と北陸では各地で猛暑日を記録している。",
-          "span": "西日本・北陸は各地で猛暑日に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "19日も西日本や北陸を中心に各地で35度以上の猛暑日となっている。",
-          "span": "35度以上の猛暑日となっていて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "北海道の一部地域では前線と低気圧の影響で大雨となっている。",
-          "span": "大雨となっている地域があり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "青森県の津軽と下北では大雨の峠を越えた。",
-          "span": "大雨の峠は越えましたが",
-          "src": []
-        },
-        {
-          "t": "青森県の津軽と下北では、これまでの雨の影響で地盤の緩みや河川の増水が見られる。",
-          "span": "地盤の緩んでいる所や増水している河川があります",
-          "src": []
-        }
-      ],
-      "positions": [],
-      "consensus": "日本各地で猛暑や大雨による気象災害への警戒が呼びかけられている。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": [
-          "検品パス失敗（Unterminated string in JSON at position 6317 (line 296 colum）→抽出のみ採用",
-          "出典が入力に無い→除去「気象庁 府県気象情報」",
-          "出典が入力に無い→除去「気象庁 府県気象情報」",
-          "出典が入力に無い→除去「気象庁 気象特別警報・警報・注意報」",
-          "出典が入力に無い→除去「気象庁 気象特別警報・警報・注意報」",
-          "出典が入力に無い→除去「気象庁 気象特別警報・警報・注意報」",
-          "出典が入力に無い→除去「気象庁 気象特別警報・警報・注意報」",
-          "出典が入力に無い→除去「気象庁 気象特別警報・警報・注意報」",
-          "出典が入力に無い→除去「気象庁 気象特別警報・警報・注意報」",
-          "出典が入力に無い→除去「気象庁 府県気象情報」",
-          "出典が入力に無い→除去「気象庁 府県気象情報」"
-        ]
-      }
-    },
-    {
-      "headline": "W杯 イングランドが3位に 仏エムバペは2点追加し通算10得点に",
-      "slug": "W杯イングランドが3位に仏エムバペは2点追加し通",
+      "headline": "マンションから男性転落 23歳女性が巻き込まれ死亡 名古屋 栄",
+      "slug": "マンションから男性転落23歳女性が巻き込まれ死亡",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -137,36 +14,70 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015180461000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015180731000"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015180551000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015180661000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015180801000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015180781000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588486?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6588512?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588538?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071900122&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071900132&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026071900257&g=soc&m=rss"
         }
       ],
-      "issue": "サッカーワールドカップ北中米大会の3位決定戦および決勝に関する主要な出来事と結果は何か？",
+      "issue": "複数の事件における被害状況と関連性について",
       "stasis": "事実",
       "facts": [
         {
-          "t": "サッカーワールドカップ北中米大会の3位決定戦で、イングランドがフランスに6対4で勝利した。",
-          "span": "激しい打ち合いを制して6対4で勝ちました",
+          "t": "静岡県御殿場市のグラウンド周辺で複数の木が倒れ、サッカー観戦中の子どもを含む7人が病院に搬送された。",
+          "span": "グラウンドの周辺で複数の木が倒れ、サッカーの試合を観戦していた子どもを含む7人が病院に搬送されました",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "名古屋市栄のマンションから転落した男性が、近くを歩いていた23歳女性を巻き込み、女性は死亡した。転落した男性は意識不明の重体である。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "大阪市此花区のマンションで、部屋に入ってきた人物に刃物で切りつけられ、41歳の母親と10代の姉妹の計3人が重軽傷を負った。",
+          "span": "大阪 此花区にあるマンションの部屋で、41歳の母親と10代の姉妹のあわせて3人が、部屋に入ってきた人物に刃物で切りつけられて重軽傷を負いました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "大阪のマンションで家族3人が切りつけられた事件で、直後に少年が飛び降り死亡したと報じられている。",
+          "span": "少年か、直後に飛び降り死亡",
+          "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -174,54 +85,177 @@
           ]
         },
         {
-          "t": "フランスのエムバペ選手は、3位決定戦で2ゴールを挙げ、今大会の通算得点を10とした。",
-          "span": "2ゴールをあげて今大会の通算得点を「…",
+          "t": "大阪のマンションでの家族切りつけ事件に関与が疑われる少年が死亡した。",
+          "span": "死亡の10代の少年関与か",
           "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            },
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "連覇を目指すアルゼンチンは、18日にアメリカ東部ニュージャージー州でスペインとの決勝を控え、最終調整を行った。",
-          "span": "最終調整しました",
-          "src": [
-            {
-              "ty": "wire",
               "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "スペインは雷の影響により、屋外での最終調整が中止となった。",
-          "span": "雷の影響で屋外での最終調整が中止とな",
+          "t": "横浜市の海でSUPをしていた20歳の男子大学生が海に転落して流され死亡した。",
+          "span": "ボードの上に立ってパドルをこぎながら水面を進む「SUP」をしていた20歳の男子大学生が海に転落して流され、死亡しました",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "親子が切りつけられ重軽傷を負い、逃走した少年が死亡したと報じられている。",
+          "span": "親子切られ重軽傷 逃走の少年死亡",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "海水浴場で男性が沈んでいるのが発見され死亡した。",
+          "span": "海水浴場で沈んでいる男性 死亡",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "サッカーワールドカップ北中米大会の3位決定戦および決勝に関する主要な事実が報じられており、評価は割れない。",
-      "note": null,
+      "consensus": "複数の場所で複数の事件が発生し、被害者が出ている。警察が捜査を進めている。",
+      "note": "プライバシーに配慮し、事件の詳細な個人情報は省略した。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[2].spanが空文字になっていたため、元テキストから「最終調整しました」を抽出して修正しました。",
-          "fact spanが原文に無い→除去「18日、アメリカ東部ニュージャージー…」"
+          "consensus: 元のconsensus「評価は割れる。」は、テキストから読み取れないため削除しました。",
+          "positions: 4番目のpositionのclaim「10代の少年が事件に関与した可能性がある」は、span「10代の少年関与か」から直接読み取れるため、元のclaim「10代の少年が事件に関与した可能性がある」を維持しました。",
+          "positions: 5番目のpositionのclaim「少年が事件に関与した可能性がある」は、span「少年か」から直接読み取れるため、元のclaim「少年が事件に関与した可能性がある」を維持しました。"
         ]
       }
     },
     {
-      "headline": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
-      "slug": "AndrewTateandbrotherarre",
+      "headline": "World Cup 2026 final: Closing ceremony and half-time show – what to know",
+      "slug": "WorldCup2026finalClosing",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015180651000"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/7/19/world-cup-2026-final-closing-ceremony-and-half-time-show-what-to-know?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/spain-fans-bring-the-party-to-new-york-before-world-cup-final?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/19/world-cup-final-2026-spain-argentina-predictions-schedule-messi?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/2026/7/19/video-world-cup-2026-highlights?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss"
+        }
+      ],
+      "issue": "サッカーワールドカップ2026決勝はスペインが優勝するか、アルゼンチンが連覇するか？",
+      "stasis": "評価・予測",
+      "facts": [
+        {
+          "t": "サッカーワールドカップ北中米大会の決勝が、日本時間20日に開催される。",
+          "span": "サッカーワールドカップ北中米大会は19日、日本時間20日に決勝が行われ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "決勝では、世界ランキング2位のスペインと世界ランキング1位のアルゼンチンが対戦する。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "スペインは4大会ぶりの優勝を目指している。",
+          "span": "4大会ぶりの優勝を目指す",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アルゼンチンは史上3チーム目の大会連覇を狙っている。",
+          "span": "史上3チーム目の大会連覇をねらう",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "決勝はニューヨークで行われる。",
+          "span": "New York",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "決勝ではミュージシャンがキックオフ前とハーフタイム中にパフォーマンスを行う。",
+          "span": "musicians perform before kickoff and during the half-time break",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "サッカーワールドカップ北中米大会の決勝は、日本時間20日にスペインとアルゼンチンによって行われる。スペインは4大会ぶり、アルゼンチンは大会連覇を目指す。",
+      "note": "プライバシー配慮のため、個人名は公表されている範囲で記載。ガザのファンは集団としての支持を表明している。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[1].span: 元テキストにないspanを削除し、テキストに存在する部分を補完しました。",
+          "facts[4].span: 元テキストにないspanを削除し、テキストに存在する部分を補完しました。",
+          "positions[1].claim: \"と報じられている\" を追加し、メタ記述を修正しました。",
+          "positions[2].claim: \"と挙げられている\" を追加し、メタ記述を修正しました。",
+          "fact spanが原文に無い→除去「世界ランキング2位のスペインと世界ラ…」"
+        ]
+      }
+    },
+    {
+      "headline": "Space start-up launches India’s first commercial rocket designed for orbit",
+      "slug": "SpacestartuplaunchesIndi",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -230,207 +264,178 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/tate-brothers-arrested-in-miami-on-rape-and-sex-trafficking-charges-2?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss"
         }
       ],
-      "issue": "Andrew Tateとその兄弟は英国に身柄引き渡しされるべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "Andrew Tateとその兄弟は米国で逮捕された。",
-          "span": "arrested in US",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "英国で彼らに対する新たな容疑がかけられた。",
-          "span": "more charges laid against them in UK",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "容疑にはレイプと人身売買が含まれる。",
-          "span": "rape and sex trafficking charges",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "英国の検察庁（Crown Prosecution Service）は米国からの身柄引き渡しを要請した。",
-          "span": "requested their extradition from the US",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "彼らの弁護士",
-          "stance": "attack",
-          "claim": "彼らは無実であると述べている。",
-          "span": "inn",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [
-            1
-          ],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "英国の検察庁（Crown Prosecution Service）",
-          "stance": "support",
-          "claim": "米国に対し、Andrew Tateとその兄弟の身柄引き渡しを要請していると報じられている。",
-          "span": "requested their extradition from the US",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            1,
-            2
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "consensus": "Andrew Tateとその兄弟は米国で逮捕され、英国が身柄引き渡しを求めているが、彼らの弁護士は無実を主張している。評価は割れる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "span の最小核: positions[0].span を元テキストの 'inn' に修正しました。",
-          "争点の立て方: issue に対応する両側の立場を明確にするため、英国の検察庁の立場を positions に追加しました。",
-          "メタ記述の徹底: 新しく追加した positions[1].claim に「と報じられている」を追加しました。",
-          "論理構造の検証: 新しく追加した positions[1] の premises を [1, 2] に設定しました。",
-          "論理構造の検証: positions[0] (弁護士) の counters を positions[1] (検察庁) に設定しました。",
-          "position spanが原文に無い→除去「innocent…」"
-        ]
-      }
-    },
-    {
-      "headline": "遊漁船火災 全員避難 けが人なし 神奈川 三浦",
-      "slug": "遊漁船火災全員避難けが人なし神奈川三浦",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015180681000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588498?source=rss"
-        }
-      ],
-      "issue": "神奈川県三浦市沖で発生した遊漁船火災の状況は何か？",
+      "issue": "米国とイランの間で、ヨルダンでの米兵死亡を受けて軍事攻撃が応酬しているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "神奈川県三浦市の沖合で遊漁船から火災が発生した。",
-          "span": "遊漁船から火が出て",
+          "t": "ヨルダンで2人の米兵が死亡した。",
+          "span": "two US soldiers killed",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "火災は神奈川県三浦市の沖合で発生した。",
-          "span": "神奈川県三浦市の沖合で",
+          "t": "米国はヨルダンでの米兵死亡を受け、イランのIRGC（イスラム革命防衛隊）を標的とした攻撃を実施した。",
+          "span": "US strikes target Iran&#039;s IRGC after two of its soldiers were killed in Jordan",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "乗船していた人たちは全員避難した。",
-          "span": "乗っていた人たちは全員避難し",
+          "t": "米国は8夜連続でイランの拠点を攻撃している。",
+          "span": "US forces target Iranian sites for the eighth night in a row",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "けが人はいない。",
-          "span": "けが人はいない",
+          "t": "イランはクウェートとバーレーを攻撃したと発表した。",
+          "span": "Tehran attacks Kuwait and Bahrain",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イランは米国軍に対しドローンを発射したと述べている。",
+          "span": "Iran says it fired drones at the US military in Kuwa",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ロシアはキエフに対し大規模な弾道ミサイル攻撃を実施した。",
+          "span": "Russia launches major ballistic missile attack on Kyiv",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナの首都に対する「最も大規模な弾道ミサイル攻撃の一つ」とされる攻撃で、1人の死亡が報告されている。",
+          "span": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インドの宇宙技術企業Skyroot Aerospaceは土曜日にVikram-1を打ち上げた。",
+          "span": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "これはインド初の商業ロケットで、軌道投入を目指して設計された。",
+          "span": "India’s first commercial rocket designed for orbit",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "神奈川県三浦市沖で遊漁船火災が発生し、乗船者は全員避難してけが人はいないという事実が報じられている。この事実に対する評価や意見の対立は記事中に見られない。",
-      "note": "",
+      "consensus": "ヨルダンで2人の米兵が死亡し、米国とイランの間で軍事攻撃が応酬している。ロシアはキエフに大規模な弾道ミサイル攻撃を実施し、1人が死亡した。インドの宇宙企業が初の商業ロケットを打ち上げた。",
+      "note": "プライバシー配慮のため、個人名は公表されている範囲に留める。イランの攻撃対象に関する詳細な情報は、Al Jazeeraの記事ではクウェートとバーレー、BBCの記事では米国軍となっているが、両方の情報源をfactとして記載する。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "佐々木麟太郎、マーリンズ入り表明　ソフトバンク断る",
+      "slug": "佐木麟太郎マリンズ入り表明ソフトバンク断る",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588545?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026071900184&g=spo&m=rss"
+        }
+      ],
+      "issue": "佐々木麟太郎選手はメジャーリーグのマーリンズと契約するか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "佐々木麟太郎選手が涙ながらに「父親に感謝」と述べた。",
+          "span": "佐々木麟太郎が涙「父親に感謝」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "佐々木麟太郎選手がマーリンズ入りを表明した。",
+          "span": "佐々木麟太郎、マーリンズ入り表明",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "佐々木麟太郎選手はソフトバンクからのオファーを断った。",
+          "span": "ソフトバンク断る",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "佐々木麟太郎選手は涙ながらに父親への感謝を述べ、マーリンズ入りを表明し、ソフトバンクのオファーを断った。これ以上の評価や予測は記事に含まれていない。",
+      "note": "記事は事実の記述に留まり、評価や対立する意見は含まれていないため、positions は空配列となります。",
       "audit": {
         "changed": false,
         "issues": []
