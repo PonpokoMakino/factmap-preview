@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-07-19T22:32:28.173Z",
+  "builtAt": "2026-07-19T23:35:42.531Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "What happened in the first half of the Spain vs Argentina World Cup final?",
-      "slug": "Whathappenedinthefirstha",
+      "headline": "Spain battle past 10-man Argentina 1-0 in extra time to win 2026 World Cup",
+      "slug": "Spainbattlepast10manArge",
       "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
@@ -27,19 +27,35 @@
         },
         {
           "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072000113&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026072000070&g=spo&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072000077&g=flash&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026072000106&g=flash&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072000084&g=spo&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/aje-onl-nf_trump-arrives-in-helicopter-for-the-world-cup-final-190726?traffic_source=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072000069&g=flash&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-in-madrid-go-wild-as-spain-beat-argentina-to-win-second-world-cup?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/19/when-is-the-next-fifa-world-cup-2030-hosts-dates-and-format?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/7/19/spain-battle-past-10-man-argentina-1-0-in-extra-time-to-win-2026-world-cup?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/7/19/when-where-and-how-spain-won-the-world-cup-final-against-argentina?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
@@ -48,78 +64,54 @@
         {
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/sports/2026/7/19/what-happened-in-the-first-half-of-the-spain-vs-argentina-world-cup-final?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/fans-light-up-nycs-little-argentina-ahead-of-spain-world-cup-final-clash?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/19/trump-visit-causes-logistical-delays-at-world-cup-final?traffic_source=rss"
         }
       ],
-      "issue": "サッカーワールドカップ北中米大会の決勝の結果は何か？",
+      "issue": "サッカーワールドカップ北中米大会の決勝結果と関連する出来事は何ですか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "サッカーワールドカップ北中米大会の決勝が行われた。",
-          "span": "サッカーワールドカップ北中米大会は決勝が行われ",
+          "t": "スペインがサッカーワールドカップ北中米大会で優勝した。",
+          "span": "スペインが優勝",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "スペインがサッカーワールドカップ北中米大会で優勝し、4大会ぶり2回目となった。",
-          "span": "スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
+          "t": "スペインは4大会ぶり2回目、または16年ぶりの優勝である。",
+          "span": "4大会ぶり2回目",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "決勝戦はアルゼンチンとの対戦だった。",
+          "span": "アルゼンチンとの延長制す",
+          "src": [
             {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
           "t": "スペインは延長戦の末、アルゼンチンに1対0で勝利した。",
-          "span": "延長戦のすえアルゼンチンに1対0で勝って",
+          "span": "延長戦のすえ、アルゼンチンに1対0で勝って",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "サッカーワールドカップ決勝のスペイン対アルゼンチン戦は、前半を0対0で終えた。",
-          "span": "０―０で前半を終えた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イニエスタさんがワールドカップサッカーに登場した。",
-          "span": "イニエスタさんが登場",
+          "t": "アルゼンチンは連覇を逃した。",
+          "span": "アルゼンチン連覇ならず",
           "src": [
             {
               "ty": "press",
@@ -128,8 +120,8 @@
           ]
         },
         {
-          "t": "ワールドカップ2026では、いくつかの試合が延長戦やPK戦で決着している。",
-          "span": "Several games in the 2026 World Cup have already ended in dramatic penalty shootouts.",
+          "t": "フェラン・トーレスが決勝戦で唯一の得点を挙げた。",
+          "span": "Ferran Torres scores the only goal of the game",
           "src": [
             {
               "ty": "press",
@@ -138,8 +130,8 @@
           ]
         },
         {
-          "t": "スペインとのワールドカップ決勝を前に、ニューヨークの「リトルアルゼンチン」ではファンが活気づけた。",
-          "span": "Fans light up NYC’s Little Argentina ahead of Spain World Cup final clash",
+          "t": "ドナルド・トランプが2026 FIFAワールドカップ決勝に到着した。",
+          "span": "Donald Trump arrives for the World Cup final",
           "src": [
             {
               "ty": "press",
@@ -148,8 +140,48 @@
           ]
         },
         {
-          "t": "トランプ氏の訪問がワールドカップ決勝での物流遅延を引き起こした。",
-          "span": "Trump visit causes logistical delays at World Cup final",
+          "t": "マドリードのファンが、スペインがワールドカップで勝利したことを祝った。",
+          "span": "Fans in Madrid go wild",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ユニセフは、アルゼンチンのメッシ選手と赤ちゃん時代のスペインのヤマル選手が一緒に写った写真について言及した。",
+          "span": "メッシ選手と、赤ちゃんだったスペインのヤマル選手とが一緒に写った写真について、ユニセフの…",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "2030年のFIFAワールドカップは、6カ国3大陸で開催される予定である。",
+          "span": "The 2030 tournament will span six countries and three continents",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "2026年ワールドカップでは、いくつかの試合がPK戦で決着した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ワールドカップ決勝の最初の45分間は無得点だった。",
+          "span": "first 45 minutes of a goalless World Cup final",
           "src": [
             {
               "ty": "press",
@@ -159,13 +191,13 @@
         }
       ],
       "positions": [],
-      "consensus": "スペインがサッカーワールドカップ北中米大会で優勝したという事実が報じられている。この事実に対する評価の対立は記事中に見られない。",
-      "note": null,
+      "consensus": "スペインがサッカーワールドカップ北中米大会で優勝したという事実には合意があるが、それに対する評価や解釈は記事中に示されていない。",
+      "note": "",
       "audit": {
         "changed": true,
         "issues": [
-          "事実欄 (facts[6].t) に評価語「盛り上がった」が混入していたため、「活気づけた」に修正しました。",
-          "issueが事実確認の問いとして適切ではなかったため、「サッカーワールドカップ北中米大会の決勝の結果は何か？」に修正しました。"
+          "facts[7].span: 文まるごとだったため、最小核「Fans in Madrid go wild」に修正しました。",
+          "facts[10].span: 評価語「dramatic」が含まれていたため、削除し「Several games in the 2026 World Cup have already ended in penalty shootouts.」に修正しました。"
         ]
       }
     },
@@ -266,6 +298,76 @@
       }
     },
     {
+      "headline": "東北から九州で猛烈な暑さ 埼玉で危険な暑さ予想 熱中症対策を",
+      "slug": "東北から九州で猛烈な暑さ埼玉で危険な暑さ予想熱中",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015181031000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588584?source=rss"
+        }
+      ],
+      "issue": "",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "20日には東北から九州にかけて広い範囲で猛烈な暑さが予想されている。",
+          "span": "東北から九州にかけて広い範囲で猛烈な暑さとなり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "埼玉県では20日の日中の最高気温が38度と危険な暑さが予想されている。",
+          "span": "埼玉県では日中の最高気温が38度と危険な暑さが予想されています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熱中症への対策として、エアコンの適切な使用やこまめな水分補給が呼びかけられている。",
+          "span": "エアコンを適切に使い、こまめに水分補給するなど、熱中症への対策を徹底してくださ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "20日も広い範囲で猛暑日となる見込みである。",
+          "span": "20日も広く猛暑日に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "20日には東北から九州で猛烈な暑さが予想され、熱中症対策が呼びかけられている。評価は割れない。",
+      "note": "このニュース記事には、賛否が分かれるような明確な争点や対立する立場が存在しないため、issueは空とし、positionsは空配列です。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
       "headline": "奈良 西名阪道で逆走か 軽乗用車どうしが正面衝突 2人死亡",
       "slug": "奈良西名阪道で逆走か軽乗用車どうしが正面衝突2人",
       "independentSources": 2,
@@ -328,66 +430,6 @@
       "positions": [],
       "consensus": "奈良県香芝市の西名阪自動車道で軽乗用車どうしが正面衝突し、2人が死亡、1人が意識不明の重体となった。警察は、現場の状況からいずれかの車が逆走していた可能性もあるとみて、事故の詳しい状況を調べている。",
       "note": "本記事は事実報道であり、評価や意見の対立は含まれていないため、positionsは空配列です。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "日比海洋交渉に中国猛反発　台湾、船舶臨検を警戒",
-      "slug": "日比海洋交渉に中国猛反発台湾船舶臨検を警戒",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588562?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026071900186&g=int&m=rss"
-        }
-      ],
-      "issue": "日比海洋交渉の開始は、中国の安全保障上の懸念を招くか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "日本とフィリピンは、海洋分野での協力に関する交渉を開始することで合意した。",
-          "span": "日比海洋交渉入り合意",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "中国はこの日比海洋交渉の開始に強く反発している。",
-          "span": "中国猛反発",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "中国は、日比海洋交渉の開始を受けて、台湾海峡周辺での船舶臨検を警戒している。",
-          "span": "台湾、船舶臨検を警戒",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "日本とフィリピンは海洋交渉を開始することで合意したが、中国はこの動きに強く反発し、船舶臨検を警戒している。評価は割れる。",
-      "note": "本件は、日比の海洋交渉開始という事実と、それに対する中国の反発・警戒という立場・評価で構成されている。争点は、中国の反発が安全保障上の懸念に基づいているかという点に置いた。",
       "audit": {
         "changed": false,
         "issues": []
