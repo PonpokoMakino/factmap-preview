@@ -1,213 +1,7 @@
 {
-  "builtAt": "2026-07-21T18:02:45.202Z",
+  "builtAt": "2026-07-21T22:02:46.831Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
-    {
-      "headline": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶりの円安水準",
-      "slug": "円相場一時1ドル163円台に値下がり約39年半ぶ",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182211000"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072101196&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072200002&g=flash&m=rss"
-        }
-      ],
-      "issue": "円相場は1ドル＝163円台に値下がりしたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "円相場が一時1ドル＝163円台に値下がりした。",
-          "span": "円相場は一時、1ドル＝163円台に値下がりしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "円相場が一時1ドル＝163円台に下落した。",
-          "span": "円相場が３９年半ぶりに１ドル＝１６３円台に下落した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "円相場が39年半ぶり安値に下落した。",
-          "span": "円相場が３９年半ぶり安値に下落した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "21日のニューヨーク外国為替市場で、円を売ってドルを買う動きが進んだ。",
-          "span": "円を売って有事に強いとされるドルを買う動きが進み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "円安ドル高水準は約39年半ぶりである。",
-          "span": "およそ39年半ぶりの円安ドル",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "円相場は一時1ドル＝163円台に値下がりし、約39年半ぶりの円安水準となった。21日のニューヨーク外国為替市場では、イラン情勢の緊迫化を背景に円を売ってドルを買う動きが進んだ。",
-      "note": "プライバシー配慮のため、イラン情勢の緊迫化という背景情報はfactとして抽出せず、consensusに含めた。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factのspanを元テキストに存在する最小核に修正しました。",
-          "consensusの「評価は割れる。」を削除しました。元テキストに評価が割れる根拠がないためです。",
-          "noteの「プライバシー配慮のため」を削除しました。検品係はプライバシー配慮を行わず、事実のみを抽出・検証するためです。",
-          "fact spanが原文に無い→除去「21日のニューヨーク外国為替市場では…」"
-        ]
-      }
-    },
-    {
-      "headline": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-      "slug": "Lebanesearmysaystroopsde",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/lebanons-goal-to-end-hostilities-with-israel-forever-says-president?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/21/trump-vows-to-help-lebanon-but-offers-no-timeline-for-israeli-withdrawal?traffic_source=rss"
-        }
-      ],
-      "issue": "イスラエル軍のレバノンからの撤退は、恒久的な敵対行為の終結につながるか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "イスラエル軍がレバノンの一部から撤退する合意が、アメリカの仲介により成立した。",
-          "span": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "レバノン軍は、イスラエル軍の撤退後に「パイロットゾーン」に展開している。",
-          "span": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イスラエル軍がレバノンの一部から撤退する合意がアメリカの仲介で成立し、レバノン軍が展開している。レバノン大統領はイスラエルとの敵対行為の恒久的な終結を目標としているが、アメリカ大統領は撤退時期について具体的な言及をしなかった。",
-      "note": "プライバシー配慮のため、公人以外の個人名は伏せられています。複数の報道機関からの情報が含まれています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensus: 元のconsensusに「評価は割れる。」という評価語が含まれていたため削除しました。",
-          "positions[1].span: 元のspanが \"his goal is to end &#039;state of hostility between Lebanon and Israel forever&#039;\" であり、元のテキストに存在しない \"&#039;\" が含まれていたため、修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "サッカーW杯 前田大然のゴールが最優秀ゴール候補に",
-      "slug": "サッカW杯前田大然のゴルが最優秀ゴル候補に",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182201000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588810?source=rss"
-        }
-      ],
-      "issue": "サッカーW杯北中米大会の最優秀ゴール候補に前田大然選手のゴールは選ばれたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "FIFAは20日、サッカーワールドカップ北中米大会の最優秀ゴールの候補を発表した。",
-          "span": "FIFA＝国際サッカー連盟は20日、サッカーワールドカップ北中米大会の最優秀ゴールの候補を発表し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日本の前田大然選手が1次リーグのスウェーデン戦で決めたゴールが候補に選ばれた。",
-          "span": "日本の前田大然選手が1次リーグのスウェーデン戦で決めたゴールなどが選ばれました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "前田大然選手の得点が最優秀ゴール候補に選ばれた。",
-          "span": "前田大然の得点 最優秀ゴール候補",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "FIFAは20日、サッカーワールドカップ北中米大会の最優秀ゴールの候補を発表し、日本の前田大然選手が1次リーグのスウェーデン戦で決めたゴールなどが選ばれた。",
-      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positionsは空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
     {
       "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
       "slug": "DozenshurtinBolognaprote",
@@ -272,6 +66,323 @@
           "positions[0].span: spanが最小核ではなかったため、「justice」から「demanding justice」に修正しました。",
           "consensus: 評価の混入があったため、「評価は割れる」という部分を削除し、事実のみを記述する形に修正しました。"
         ]
+      }
+    },
+    {
+      "headline": "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か",
+      "slug": "ニチレイハッカ集団が犯行声明ランサムウエア攻撃か",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015182261000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015182251000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588834?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072100899&g=int&m=rss"
+        }
+      ],
+      "issue": "冷凍食品大手ニチレイへのサイバー攻撃はハッカー集団によるものか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "冷凍食品大手ニチレイでシステム障害が発生した。",
+          "span": "システム障害が発生し",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "システム障害により、ニチレイの出荷などの業務に影響が出た。",
+          "span": "出荷などの業務に影響が出た",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ニチレイへのサイバー攻撃について、ハッカー集団が21日夜に犯行声明を出した。",
+          "span": "ハッカー集団が21日夜、犯行声明を出した",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "ハッカー集団による犯行声明は、セキュリティー会社への取材で明らかになった。",
+          "span": "セキュリティー会社への取材で分かりました",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ニチレイへのサイバー攻撃は「ランサムウエア」攻撃の可能性がある。",
+          "span": "「ランサムウエア」攻撃か",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ファストフードチェーンのケンタッキーフライドチキンは、ニチレイのシステム障害の影響を受けた。",
+          "span": "ニチレイ」で発生したシステム障害の影響で",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ケンタッキーフライドチキンは、一部店舗で営業時間を短縮するなどの対応をとっていた。",
+          "span": "一部の店舗で営業時間を短縮するなどの対応をとっていましたが",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ケンタッキーフライドチキンは、22日からすべての店舗で通常営業を再開した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "冷凍食品大手ニチレイへのサイバー攻撃が発生し、業務に影響が出たこと、およびハッカー集団が犯行声明を出したことについては合意されている。攻撃の具体的な手法（ランサムウェアか否か）については報じられているが、断定はされていない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[7].span が空だったので、元テキストから適切なスパン「22日からすべての店舗で通常営業を再開」を抽出しました。（監査観点3: span の最小核）",
+          "positions[0].claim が発言主体による主張のメタ記述になっていなかったため、「ニチレイへのサイバー攻撃は自分たちが行ったと声明を出している。」に修正しました。（監査観点2: メタ記述の徹底、監査観点8: 著作権）",
+          "positions[0].premises に、犯行声明がセキュリティー会社への取材で明らかになったという事実（facts[3]）を追加しました。（監査観点7: 論理構造の検証）",
+          "fact spanが原文に無い→除去「22日からすべての店舗で通常営業を再…」"
+        ]
+      }
+    },
+    {
+      "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "slug": "USlaunchesfreshstrikeson",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss"
+        }
+      ],
+      "issue": "中東およびウクライナにおける軍事衝突の状況と影響はどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "米国がイランに対して新たな攻撃を開始した。",
+          "span": "US launches fresh strikes on Iran",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ガザでのイスラエル軍の攻撃により12人が死亡した。",
+          "span": "kill 12",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "死亡者には、フィラス・アル＝マスリ氏とその妻、4人の子供を含む6人家族が含まれる。",
+          "span": "Firas al-Masri, his wife and their four children died in one attack",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "医療関係者がこれらの死亡を報告している。",
+          "span": "medics say",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イランのミナーブにある学校への米国の攻撃で32人の子供が死亡した。",
+          "span": "killed in a US strike on a school",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "この攻撃は2月28日に発生した。",
+          "span": "on February 28",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イランは死亡した子供たちの葬儀を執り行った。",
+          "span": "holds funerals for children killed",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナのザポリージャに対するロシアの誘導航空爆弾攻撃により、少なくとも3人が死亡した。",
+          "span": "killed at least three people",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "この攻撃で13人が負傷した。",
+          "span": "injured 13 others",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "各地で軍事衝突が発生し、死傷者が出ていることが報じられている。各主体の主張や評価は異なる。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claim: メタ記述が不足していたため、「〜と報じられている」を追加し、地の文の断定を修正しました。",
+          "issue: 争点として「賛否の割れる問い」の形式ではありませんが、元テキストに特定の対立する論点が存在しないため、現状の「事実」のスタシスに合致する広範な状況説明の問いとして維持しました。これはテキストの性質によるもので、新たな対立点を捏造しない方針に従います。"
+        ]
+      }
+    },
+    {
+      "headline": "日英伊の次期戦闘機開発計画 カナダのオブザーバー参加決定",
+      "slug": "日英伊の次期戦闘機開発計画カナダのオブザバ参加決",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015182091000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072101174&g=pol&m=rss"
+        }
+      ],
+      "issue": "日英伊の次期戦闘機開発計画にカナダがどのように関与するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "日本、イギリス、イタリアによる次期戦闘機開発計画に、カナダがオブザーバーとして参加することが決定した。",
+          "span": "カナダのオブザーバー参加決定",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "この決定は、日本、イギリス、イタリア、カナダの4か国による防衛相会談がイギリスで行われた際に合意された。",
+          "span": "4か国による防衛相会談がイギリスで行われ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日英伊の次期戦闘機開発計画にカナダがオブザーバー参加することが合意された。",
+      "note": "記事は事実報道であり、特定の評価や意見の対立は記述されていない。",
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     }
   ]
