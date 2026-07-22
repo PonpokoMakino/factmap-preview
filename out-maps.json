@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-07-22T06:14:32.176Z",
+  "builtAt": "2026-07-22T12:24:36.775Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
-      "slug": "三重静岡岐阜で40度以上の酷暑日に熱中症に厳重警",
+      "headline": "全国の熱中症搬送急増 1週間でことし初1万人超  前週の2倍以上",
+      "slug": "全国の熱中症搬送急増1週間でことし初1万人超前週",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -17,318 +17,174 @@
           "link": "https://news.web.nhk/newsweb/na/na-k10015182151000"
         },
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015182831000"
+        },
+        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588891?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6588941?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072200540&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026072200925&g=soc&m=rss"
         }
       ],
-      "issue": null,
-      "stasis": null,
+      "issue": "熱中症による搬送者数は増加傾向にあるか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "三重県桑名市、静岡県浜松市佐久間、岐阜県多治見市で気温が40度以上となり、「酷暑日」が観測された。",
-          "span": "気温が40度以上となり、「酷暑日」となりました",
+          "t": "三重県、静岡県、岐阜県で最高気温が40度以上となり、「酷暑日」となった。",
+          "span": "三重県と静岡県、それに岐阜県で最高気温が40度以上と、「酷暑日」となりました",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "東海や関東甲信では、40度に迫る地点が相次いでいる。",
-          "span": "40度に迫る地点が相次いでいて",
+          "t": "23日は東海地方に加え、京都市や甲府市でも「酷暑日」が予想されている。",
+          "span": "23日は東海に加え、京都市や甲府市でも「酷暑日」が予想されています",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "東京都内でも38度を超える気温が観測された。",
-          "span": "38℃超",
+          "t": "熱中症で搬送される人は全国で急増している。",
+          "span": "熱中症で運ばれる人は全国で急増していて",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "6月19日までの1週間に熱中症で搬送された人は全国で1万人を超えた。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "1週間の熱中症搬送者数が1万人を超えたのは今年初めてである。",
+          "span": "1週間の搬送者数が1万人を超えたのはことし初めてで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "直近1週間の熱中症搬送者数は、前の週の2倍以上に急増している。",
+          "span": "前の週の2倍以上と急増している",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熱中症搬送者数は、週単位で今年初めて1万人を超えた。",
+          "span": "週の熱中症搬送者 今年初1万人超",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "熱中症搬送者数は、1週間で1万人を突破した。",
+          "span": "熱中症搬送、１週間で１万人突破",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "三重、静岡、岐阜などで40度以上の「酷暑日」が観測され、東京都内でも38度を超えるなど各地で危険な暑さとなっており、気象庁は熱中症への厳重な警戒を呼びかけている。",
-      "note": null,
+      "consensus": "三重県、静岡県、岐阜県で40度以上の「酷暑日」となり、熱中症による搬送者数が全国で急増している。6月19日までの1週間では1万人を超え、前の週の2倍以上となった。総務省消防庁は、厳重な警戒を呼びかけており、現在の暑さを「もはや災害」と表現している。",
+      "note": "プライバシー配慮のため、熱中症で搬送された個人の特定につながる情報は含んでいない。",
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: 元テキストに賛否の対立が存在しないため、'issue'と'stasis'フィールドを削除しました。",
-          "発言主体・媒体の捏造: 'positions[0].src'から、気象庁の発言主体が明確に特定できないNHKとYahoo!ニュースのソースを削除しました。時事ドットコムのみが「熱中症防止を―気象庁」と明記しています。"
+          "consensusの末尾にあった「評価は割れる。」を削除しました。元テキストに評価が割れる根拠となる記述がないためです。",
+          "positionsのclaimを「〜と述べている／と報じられている」の構造に修正しました。元テキストの断定的な表現をメタ記述にしました。",
+          "positionsのclaimを、元テキストの表現を尊重しつつ、より自然な日本語になるように修正しました。",
+          "positionsのreasonを、より具体的に元テキストの表現を反映するように修正しました。",
+          "fact spanが原文に無い→除去「6月19日までの1週間に熱中症で搬送…」"
         ]
       }
     },
     {
-      "headline": "北海道 十勝岳で2004年以来の噴火 噴火警戒レベル2が継続",
-      "slug": "北海道十勝岳で2004年以来の噴火噴火警戒レベル",
-      "independentSources": 2,
+      "headline": "高市首相秘書、中傷動画疑惑を否定　「作成・発信せず」陳述書提出",
+      "slug": "高市首相秘書中傷動画疑惑を否定作成発信せず陳述書",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 地震・火山"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182521000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015182911000"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050044_0_VFVO53_010000.xml"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588936?source=rss"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050047_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050051_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050033_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050037_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050041_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050030_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722030007_0_VFVO51_016000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722021518_0_VFVO52_016000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072200749&g=pol&m=rss"
         }
       ],
-      "issue": "日本の火山活動の現状と警戒状況はどのようなものか？",
+      "issue": "高市総理大臣の秘書による中傷動画の作成・発信はあったか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "北海道の十勝岳で22日午前に噴火が発生した。",
-          "span": "噴火が発生しました",
+          "t": "高市総理大臣は、自身の陣営が他の候補者を誹謗中傷する動画を投稿したと週刊文春で報じられた件について、秘書による陳述書を国会に提出した。",
+          "span": "高市総理大臣は、みずからの陣営がほかの候補をひぼう中傷する動画を投稿したと週刊文春で報じられたことなどをめぐり、秘書による陳述書を国会に提出しました。",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
             },
             {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "十勝岳の噴火は2004年以来である。",
-          "span": "2004年以来",
-          "src": [
-            {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象台は十勝岳の噴火警戒レベル2を継続している。",
-          "span": "噴火警戒レベル2を継続し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース 主要"
             },
             {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "気象台は十勝岳の火口からおよそ1.5キロの範囲で大きな噴石に警戒するよう呼びかけている。",
-          "span": "大きな噴石に警戒するよう呼びかけています",
-          "src": [
-            {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "薩摩硫黄島は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "諏訪之瀬島は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "霧島山（新燃岳）は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "岩手山は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "阿蘇山は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "雌阿寒岳は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "桜島は噴火警戒レベル3（入山規制）である。",
-          "span": "噴火警戒レベル３（入山規制）です",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "22日21時から24時まで、薩摩硫黄島で噴火が発生した場合、火口から東方向に降灰が予想される。",
-          "span": "火口から東方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "22日21時から24時まで、諏訪之瀬島で噴火が発生した場合、火口から北方向に降灰が予想される。",
-          "span": "火口から北方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "22日21時から24時まで、霧島山（新燃岳）で噴火が発生した場合、火口から東方向に降灰が予想される。",
-          "span": "火口から東方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "22日21時から24時まで、岩手山で噴火が発生した場合、火口から東方向に降灰が予想される。",
-          "span": "火口から東方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "22日21時から24時まで、阿蘇山で噴火が発生した場合、火口から東方向に降灰が予想される。",
-          "span": "火口から東方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "22日21時から24時まで、桜島で噴火が発生した場合、火口から東方向に降灰が予想される。",
-          "span": "火口から東方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "22日21時から24時まで、雌阿寒岳で噴火が発生した場合、火口から南方向に降灰が予想される。",
-          "span": "火口から南方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "北海道の十勝岳で2004年以来となる噴火が発生し、気象庁はこれを「ごく小規模な噴火」と評価している。気象台は噴火警戒レベル2を継続し、大きな噴石への警戒を呼びかけている。また、薩摩硫黄島、諏訪之瀬島、霧島山（新燃岳）、岩手山、阿蘇山、雌阿寒岳は噴火警戒レベル2、桜島は噴火警戒レベル3が継続しており、気象庁は複数の火山について降灰予報を発表している。これらの事実に対する評価の対立は記事中に見られない。",
-      "note": "",
+      "consensus": "高市総理大臣の秘書が、中傷動画の作成・発信をしていない旨の陳述書を国会に提出したことは合意されている。報道内容については言及がない。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "事実欄 (facts[2]) に「ごく小規模」という評価語が混入していたため、発言主体（気象庁）を明記した上でpositions欄へ移動させ、claimをメタ記述に修正しました。"
+          "positions[0].claim: \"中傷動画の作成や発信はしていない\" を \"中傷動画の作成や発信はしていないと述べている\" に修正。メタ記述の徹底（地の文の断定を回避）。"
         ]
       }
     },
     {
-      "headline": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-      "slug": "USrenewsstrikesonIranasT",
+      "headline": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "slug": "IndiasModigovernmentunde",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -337,23 +193,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/7/22/india-protest-how-modis-refusal-to-sack-education-minister-fits-a-pattern?traffic_source=rss"
         }
       ],
-      "issue": "米国とイスラエルによる軍事行動の現状と影響は何か？",
+      "issue": "ウクライナの最高軍司令官は解任されたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "米国はイランへの攻撃を再開した。",
-          "span": "renews strikes on Iran",
+          "t": "ウクライナの最高軍司令官が解任された。",
+          "span": "Oleksandr Syrskyi is dismissed",
           "src": [
             {
               "ty": "press",
@@ -362,8 +218,8 @@
           ]
         },
         {
-          "t": "米国大統領はイランの主要な地下核施設を攻撃すると脅迫した。",
-          "span": "threat to target a key Iranian nuclear site",
+          "t": "解任は、人気のある国防大臣ミハイロ・フェドロフの解任をめぐる反発の後に行われた。",
+          "span": "after backlash over the removal of popular Defence Minister Mykhailo Fedorov",
           "src": [
             {
               "ty": "press",
@@ -372,8 +228,8 @@
           ]
         },
         {
-          "t": "この脅迫は、11夜連続の攻撃に先立って行われた。",
-          "span": "came ahead of the 11th consecutive night of attacks",
+          "t": "インドのモディ政権は、「ゴキブリ」抗議活動の激化により、ますます圧力を受けている。",
+          "span": "India's Modi government under growing pressure as 'cockroach' protests intensify",
           "src": [
             {
               "ty": "press",
@@ -382,8 +238,18 @@
           ]
         },
         {
-          "t": "米軍による11夜連続の攻撃は、これまで攻撃されていなかったイランの州にまで拡大した。",
-          "span": "extended to Iranian provinces not previously hit",
+          "t": "CJPは火曜日、野党であるインド国民会議党が首相官邸前でデモを行ったことで後押しを受けた。",
+          "span": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "抗議者たちは、度重なる試験漏洩について、教育大臣ダルメンドラ・プラダンを解任するよう求めている。",
+          "span": "Protesters want Dharmendra Pradhan to be sacked over serial exam leaks",
           "src": [
             {
               "ty": "press",
@@ -392,18 +258,8 @@
           ]
         },
         {
-          "t": "イスラエルは選挙を前に攻撃を強化した。",
-          "span": "doubles down on attacks",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イスラエルによる攻撃により、ガザでは子供や避難民を含む数十人が死亡し、家族が埋葬されている。",
-          "span": "attacks leave dozens dead, including children and displaced families",
+          "t": "モディ首相は、教育大臣を解任しないというパターンがある。",
+          "span": "How Modi’s refusal to sack education minister fits a pattern",
           "src": [
             {
               "ty": "press",
@@ -413,91 +269,91 @@
         }
       ],
       "positions": [],
-      "consensus": "米国とイスラエルが軍事行動を継続・拡大しており、ガザでは多数の死者が出ている。これらの行動の評価は本アプリでは裁定しない。",
-      "note": "",
+      "consensus": "ウクライナの最高軍司令官は解任された。インドでは、抗議活動が激化しており、教育大臣の解任を求める声があるが、評価は割れる。",
+      "note": "プライバシー配慮のため、個々の抗議者の実名は記載しない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "トランプ大統領 ジェネリック医薬品に2028年から100％の関税",
-      "slug": "トランプ大統領ジェネリック医薬品に2028年から",
+      "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "slug": "IranwarhascostUS375bnsof",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182411000"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588882?source=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/22/iran-wars-37bn-price-tag-why-does-trump-want-67bn-more?traffic_source=rss"
         }
       ],
-      "issue": "トランプ大統領が提案するジェネリック医薬品への関税は妥当か？",
+      "issue": "イラン戦争の費用と追加予算の必要性は妥当か？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "アメリカのトランプ大統領が、輸入ジェネリック医薬品に2028年から100%の関税を課す意向を表明した。",
-          "span": "輸入するジェネリック医薬品に対して、2028年から100％の関税を課す意向",
+          "t": "イラン戦争のこれまでの費用は375億ドルであるとヘグセス氏は述べている。",
+          "span": "$37.5bn",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "トランプ大統領",
-          "stance": "support",
-          "claim": "トランプ大統領は、アメリカ国内に生産拠点を設けるよう求めていると報じられている。",
-          "span": "アメリカ国内に生産拠点を設けるよう求めています",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "actor": "報道機関",
-          "stance": "attack",
-          "claim": "報道機関は、関税によって利用者の負担が増加する可能性があると報じている。",
-          "span": "利用者の負担増加につ",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
+          "t": "ペンタゴンは追加の予算を求めている。",
+          "span": "as Pentagon seeks billions more",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イラン戦争の費用は約370億ドルである。",
+          "span": "$37bn",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ペンタゴンは670億ドルの追加予算を求めている。",
+          "span": "$67bn more",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国は武器の備蓄を急速に補充する必要がある。",
+          "span": "The US must rapidly replenish its stockpiles of weapons",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
-      "consensus": "トランプ大統領がジェネリック医薬品への関税を提案したことは事実だが、その影響については懸念が示されており、評価は割れる可能性がある。",
+      "positions": [],
+      "consensus": "イラン戦争の費用は約370億ドルであり、ペンタゴンは追加予算を求めている。しかし、その妥当性については評価が分かれる可能性がある。",
       "note": null,
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述の徹底と著作権の観点から、「〜と報じられている」の構造に修正し、元の文の言い回しをなぞらないように再記述しました。",
-          "positions[1].claim: メタ記述の徹底と著作権の観点から、「〜と報じられている」の構造に修正し、元の文の言い回しをなぞらないように再記述しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
