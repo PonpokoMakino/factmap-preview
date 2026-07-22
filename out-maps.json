@@ -1,190 +1,10 @@
 {
-  "builtAt": "2026-07-22T12:24:36.775Z",
+  "builtAt": "2026-07-22T18:46:54.798Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "全国の熱中症搬送急増 1週間でことし初1万人超  前週の2倍以上",
-      "slug": "全国の熱中症搬送急増1週間でことし初1万人超前週",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182151000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182831000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588941?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072200925&g=soc&m=rss"
-        }
-      ],
-      "issue": "熱中症による搬送者数は増加傾向にあるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "三重県、静岡県、岐阜県で最高気温が40度以上となり、「酷暑日」となった。",
-          "span": "三重県と静岡県、それに岐阜県で最高気温が40度以上と、「酷暑日」となりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "23日は東海地方に加え、京都市や甲府市でも「酷暑日」が予想されている。",
-          "span": "23日は東海に加え、京都市や甲府市でも「酷暑日」が予想されています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熱中症で搬送される人は全国で急増している。",
-          "span": "熱中症で運ばれる人は全国で急増していて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "6月19日までの1週間に熱中症で搬送された人は全国で1万人を超えた。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "1週間の熱中症搬送者数が1万人を超えたのは今年初めてである。",
-          "span": "1週間の搬送者数が1万人を超えたのはことし初めてで",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "直近1週間の熱中症搬送者数は、前の週の2倍以上に急増している。",
-          "span": "前の週の2倍以上と急増している",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熱中症搬送者数は、週単位で今年初めて1万人を超えた。",
-          "span": "週の熱中症搬送者 今年初1万人超",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "熱中症搬送者数は、1週間で1万人を突破した。",
-          "span": "熱中症搬送、１週間で１万人突破",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "三重県、静岡県、岐阜県で40度以上の「酷暑日」となり、熱中症による搬送者数が全国で急増している。6月19日までの1週間では1万人を超え、前の週の2倍以上となった。総務省消防庁は、厳重な警戒を呼びかけており、現在の暑さを「もはや災害」と表現している。",
-      "note": "プライバシー配慮のため、熱中症で搬送された個人の特定につながる情報は含んでいない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensusの末尾にあった「評価は割れる。」を削除しました。元テキストに評価が割れる根拠となる記述がないためです。",
-          "positionsのclaimを「〜と述べている／と報じられている」の構造に修正しました。元テキストの断定的な表現をメタ記述にしました。",
-          "positionsのclaimを、元テキストの表現を尊重しつつ、より自然な日本語になるように修正しました。",
-          "positionsのreasonを、より具体的に元テキストの表現を反映するように修正しました。",
-          "fact spanが原文に無い→除去「6月19日までの1週間に熱中症で搬送…」"
-        ]
-      }
-    },
-    {
-      "headline": "高市首相秘書、中傷動画疑惑を否定　「作成・発信せず」陳述書提出",
-      "slug": "高市首相秘書中傷動画疑惑を否定作成発信せず陳述書",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182911000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588936?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072200749&g=pol&m=rss"
-        }
-      ],
-      "issue": "高市総理大臣の秘書による中傷動画の作成・発信はあったか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "高市総理大臣は、自身の陣営が他の候補者を誹謗中傷する動画を投稿したと週刊文春で報じられた件について、秘書による陳述書を国会に提出した。",
-          "span": "高市総理大臣は、みずからの陣営がほかの候補をひぼう中傷する動画を投稿したと週刊文春で報じられたことなどをめぐり、秘書による陳述書を国会に提出しました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "高市総理大臣の秘書が、中傷動画の作成・発信をしていない旨の陳述書を国会に提出したことは合意されている。報道内容については言及がない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: \"中傷動画の作成や発信はしていない\" を \"中傷動画の作成や発信はしていないと述べている\" に修正。メタ記述の徹底（地の文の断定を回避）。"
-        ]
-      }
-    },
-    {
-      "headline": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-      "slug": "IndiasModigovernmentunde",
+      "headline": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
+      "slug": "Iransjudiciarywarnsagain",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -193,23 +13,27 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/22/india-protest-how-modis-refusal-to-sack-education-minister-fits-a-pattern?traffic_source=rss"
+          "link": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss"
         }
       ],
-      "issue": "ウクライナの最高軍司令官は解任されたか？",
+      "issue": "米国はサウジアラビアの核開発計画を認める合意を発表するか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ウクライナの最高軍司令官が解任された。",
-          "span": "Oleksandr Syrskyi is dismissed",
+          "t": "米国がサウジアラビアとの間で、同国の核開発計画を認める合意を発表する予定であると報じられている。",
+          "span": "US to announce deal allowing Saudi Arabia a nuclear programme",
           "src": [
             {
               "ty": "press",
@@ -218,8 +42,8 @@
           ]
         },
         {
-          "t": "解任は、人気のある国防大臣ミハイロ・フェドロフの解任をめぐる反発の後に行われた。",
-          "span": "after backlash over the removal of popular Defence Minister Mykhailo Fedorov",
+          "t": "この合意はサウジアラビアの長年の希望を満たすものだが、イスラエルや一部の米国議員からの懸念を招く可能性がある。",
+          "span": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
           "src": [
             {
               "ty": "press",
@@ -228,28 +52,8 @@
           ]
         },
         {
-          "t": "インドのモディ政権は、「ゴキブリ」抗議活動の激化により、ますます圧力を受けている。",
-          "span": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "CJPは火曜日、野党であるインド国民会議党が首相官邸前でデモを行ったことで後押しを受けた。",
-          "span": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "抗議者たちは、度重なる試験漏洩について、教育大臣ダルメンドラ・プラダンを解任するよう求めている。",
-          "span": "Protesters want Dharmendra Pradhan to be sacked over serial exam leaks",
+          "t": "トランプ政権はサウジアラビアがウラン濃縮を可能にする協定を支持していると報じられている。",
+          "span": "Reports suggest ‌the Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.",
           "src": [
             {
               "ty": "press",
@@ -258,8 +62,28 @@
           ]
         },
         {
-          "t": "モディ首相は、教育大臣を解任しないというパターンがある。",
-          "span": "How Modi’s refusal to sack education minister fits a pattern",
+          "t": "イランの司法当局は「浸透者」に対して警告し、新たな処刑を発表した。",
+          "span": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "昨年のイスラエルとの12日間の戦争の後、安全保障犯罪に関連する多くの事件が法律に基づいて訴追されている。",
+          "span": "Many cases related to security offences are prosecuted using a law announced after last year&#039;s 12-day war with Isra",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アナリストは、米国大統領がシリアに対しレバノンのヒズボラに対して介入するよう圧力をかけることは、国内の安全保障を損なう可能性があると述べている。",
+          "span": "Analysts say US president&#039;s pressure on Damascus to intervene in Lebanon could undermine domestic security.",
           "src": [
             {
               "ty": "press",
@@ -269,37 +93,170 @@
         }
       ],
       "positions": [],
-      "consensus": "ウクライナの最高軍司令官は解任された。インドでは、抗議活動が激化しており、教育大臣の解任を求める声があるが、評価は割れる。",
-      "note": "プライバシー配慮のため、個々の抗議者の実名は記載しない。",
+      "consensus": "米国がサウジアラビアの核開発計画を認める合意を発表する予定であると報じられている。この合意はサウジアラビアの長年の希望を満たすものだが、イスラエルや一部の米国議員からの懸念を招く可能性がある。報道によると、トランプ政権はサウジアラビアがウラン濃縮を可能にする協定を支持している。イランの司法当局は「浸透者」に対して警告し、新たな処刑を発表した。昨年のイスラエルとの12日間の戦争の後、安全保障犯罪に関連する多くの事件が法律に基づいて訴追されている。アナリストは米国大統領によるシリアへのヒズボラ介入圧力は国内の安全保障を損なう可能性があると述べている。",
+      "note": "プライバシー配慮のため、個別の事件や人物に関する詳細な情報は省略し、争点と事実関係に焦点を当てています。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "factsの3番目の項目で、元のテキストでは「Reports suggest」とあるものを「報道によると」と解釈し、事実として抽出していたため、抽出エンジンのJSONのまま修正せず、事実として抽出しました。",
+          "positionsのreasonを、元のテキストの事実部分をそのまま引用する形に修正しました。",
+          "consensusの内容を、factsとpositionsの内容を統合する形に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "米長官、日中関係悪化に憂慮　南シナ海情勢で中国けん制",
+      "slug": "米長官日中関係悪化に憂慮南シナ海情勢で中国けん制",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588959?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072200662&g=pol&m=rss"
+        }
+      ],
+      "issue": null,
+      "stasis": "事実合意",
+      "facts": [
+        {
+          "t": "米国務長官が日中関係の悪化に憂慮を示したと報じられている。",
+          "span": "日中関係の悪化に憂慮",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ],
+          "note": "南シナ海情勢で中国をけん制する意図があると報じられている。"
+        }
+      ],
+      "positions": [],
+      "consensus": "米国務長官が日中関係の悪化に憂慮を示したと報じられている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点（issue）がテキスト内の対立を反映していなかったため、positionsを空にし、情報をfactsへ移動。issueをnull、stasisを事実合意に修正しました。",
+          "元のpositions.claimの情報をfacts.tに再記述し、メタ記述を徹底しました。",
+          "元のpositions.reasonをfacts.noteに移動し、文脈情報として整理しました。"
+        ]
+      }
+    },
+    {
+      "headline": "高木美帆さんに国民栄誉賞授与へ 五輪で10個のメダル獲得",
+      "slug": "高木美帆さんに国民栄誉賞授与へ五輪で10個のメダ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015182921000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072201090&g=pol&m=rss"
+        }
+      ],
+      "issue": "高木美帆選手に国民栄誉賞が授与されるか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "スピードスケート女子の高木美帆選手が、オリンピックで日本の女子選手として最多となる10個のメダルを獲得し、現役を引退した。",
+          "span": "スピードスケート女子でオリンピックの日本の女子選手で最多となる10個のメダルを獲得して現役を引退した高木美帆さん",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "政府は、高木美帆選手に国民栄誉賞を授与する方針を固めた。",
+          "span": "国民栄誉賞を授与する方針を固め",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "政府は、高木美帆選手に国民栄誉賞を授与する方針を固めた。",
+          "span": "高木美帆さんに国民栄誉賞",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "政府は、来週28日にも表彰式を開く方向で調整を進めている。",
+          "span": "来週28日にも表彰式を開く方向で調整を進めていま",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "政府は、28日にも表彰式を開く方向で調整を進めている。",
+          "span": "２８日にも表彰式",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "政府は、オリンピックで日本の女子選手最多の10個のメダルを獲得し引退した高木美帆選手に国民栄誉賞を授与する方針を固め、来週28日にも表彰式を開く方向で調整を進めている。",
+      "note": "両記事とも事実の報道に終始しており、異なる立場や意見の表明は含まれていないため、positions は空配列となります。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "slug": "IranwarhascostUS375bnsof",
+      "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "slug": "TrumpthreatenstotargetIr",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "時事ドットコム",
+        "BBC World"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072201140&g=int&m=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/22/iran-wars-37bn-price-tag-why-does-trump-want-67bn-more?traffic_source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "イラン戦争の費用と追加予算の必要性は妥当か？",
+      "issue": "イランがホルムズ海峡での攻撃を続けた場合、米国はイランの橋や発電所を攻撃するか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "イラン戦争のこれまでの費用は375億ドルであるとヘグセス氏は述べている。",
-          "span": "$37.5bn",
+          "t": "イランがホルムズ海峡で船舶を攻撃した場合、米国はいつでも対応するとドナルド・トランプ氏は述べた。",
+          "span": "the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz",
           "src": [
             {
               "ty": "press",
@@ -308,8 +265,8 @@
           ]
         },
         {
-          "t": "ペンタゴンは追加の予算を求めている。",
-          "span": "as Pentagon seeks billions more",
+          "t": "トランプ氏は、イランがホルムズ海峡での攻撃を続けた場合、橋や発電所を標的にすると述べた。",
+          "span": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
           "src": [
             {
               "ty": "press",
@@ -318,42 +275,35 @@
           ]
         },
         {
-          "t": "イラン戦争の費用は約370億ドルである。",
-          "span": "$37bn",
+          "t": "トランプ氏は、イランの橋や発電所の破壊を示唆し、圧力をかけて譲歩を迫った。",
+          "span": "イランの橋、発電所破壊を警告　トランプ氏、圧力で譲歩迫る",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "ペンタゴンは670億ドルの追加予算を求めている。",
-          "span": "$67bn more",
+          "t": "地下核関連施設の攻撃も示唆された。",
+          "span": "地下核関連施設攻撃も示唆",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国は武器の備蓄を急速に補充する必要がある。",
-          "span": "The US must rapidly replenish its stockpiles of weapons",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "イラン戦争の費用は約370億ドルであり、ペンタゴンは追加予算を求めている。しかし、その妥当性については評価が分かれる可能性がある。",
-      "note": null,
+      "consensus": "イランがホルムズ海峡での攻撃を続けた場合、米国はイランの橋や発電所を攻撃する可能性があるとトランプ氏は示唆した。",
+      "note": "プライバシー配慮のため、個人名は特定可能な範囲で記載。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1].t: \"脅迫した\" を \"述べた\" に修正。評価語の混入防止。",
+          "consensus: \"評価は割れる\" を削除。テキストに根拠がないため。"
+        ]
       }
     }
   ]
