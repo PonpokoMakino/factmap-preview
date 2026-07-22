@@ -1,207 +1,10 @@
 {
-  "builtAt": "2026-07-21T23:08:33.556Z",
+  "builtAt": "2026-07-22T06:14:32.176Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "slug": "DozenshurtinBolognaprote",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/21/police-arrest-indian-opposition-leader-gandhi-as-protests-continue-to-grow?traffic_source=rss"
-        }
-      ],
-      "issue": "イタリア・ボローニャで警察に拘束中の男性死亡に対し、どのような抗議活動が行われているか？",
-      "stasis": "状況",
-      "facts": [
-        {
-          "t": "日曜日にモロッコ生まれの男性が警察に拘束中に死亡した。",
-          "span": "man dies while being restrained by police",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ボローニャでの抗議活動で数十人が負傷した。",
-          "span": "Dozens hurt in Bologna protests",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "数千人が街頭に出て抗議した。",
-          "span": "Thousands of people took to the streets",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "警察に拘束中の男性死亡を受け、抗議活動が行われている。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issue: 争点の立て方が中立でなかったため、「正当か？」という評価を含む問いから、事実を記述する問いに修正しました。",
-          "stasis: テキストの内容が政策に関するものではなかったため、「政策」から「状況」に修正しました。",
-          "positions[0].claim: メタ記述の徹底のため、地の文の断定表現を「〜と報じられている」に修正しました。",
-          "positions[0].span: spanが最小核ではなかったため、「justice」から「demanding justice」に修正しました。",
-          "consensus: 評価の混入があったため、「評価は割れる」という部分を削除し、事実のみを記述する形に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "slug": "USlaunchesfreshstrikeson",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/daytime-russian-strike-kills-three-in-zaporizhzhia?traffic_source=rss"
-        }
-      ],
-      "issue": "中東およびウクライナにおける軍事衝突の状況と影響はどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "米国がイランに対して新たな攻撃を開始した。",
-          "span": "US launches fresh strikes on Iran",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ガザでのイスラエル軍の攻撃により12人が死亡した。",
-          "span": "kill 12",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "死亡者には、フィラス・アル＝マスリ氏とその妻、4人の子供を含む6人家族が含まれる。",
-          "span": "Firas al-Masri, his wife and their four children died in one attack",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "医療関係者がこれらの死亡を報告している。",
-          "span": "medics say",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イランのミナーブにある学校への米国の攻撃で32人の子供が死亡した。",
-          "span": "killed in a US strike on a school",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "この攻撃は2月28日に発生した。",
-          "span": "on February 28",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イランは死亡した子供たちの葬儀を執り行った。",
-          "span": "holds funerals for children killed",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ウクライナのザポリージャに対するロシアの誘導航空爆弾攻撃により、少なくとも3人が死亡した。",
-          "span": "killed at least three people",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "この攻撃で13人が負傷した。",
-          "span": "injured 13 others",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "各地で軍事衝突が発生し、死傷者が出ていることが報じられている。各主体の主張や評価は異なる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述が不足していたため、「〜と報じられている」を追加し、地の文の断定を修正しました。",
-          "issue: 争点として「賛否の割れる問い」の形式ではありませんが、元テキストに特定の対立する論点が存在しないため、現状の「事実」のスタシスに合致する広範な状況説明の問いとして維持しました。これはテキストの性質によるもので、新たな対立点を捏造しない方針に従います。"
-        ]
-      }
-    },
-    {
-      "headline": "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か",
-      "slug": "ニチレイハッカ集団が犯行声明ランサムウエア攻撃か",
+      "headline": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
+      "slug": "三重静岡岐阜で40度以上の酷暑日に熱中症に厳重警",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -211,125 +14,415 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182261000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182251000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015182151000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588834?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6588891?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072100899&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026072200540&g=soc&m=rss"
         }
       ],
-      "issue": "冷凍食品大手ニチレイへのサイバー攻撃はハッカー集団によるものか？",
-      "stasis": "事実",
+      "issue": null,
+      "stasis": null,
       "facts": [
         {
-          "t": "冷凍食品大手ニチレイでシステム障害が発生した。",
-          "span": "システム障害が発生し",
+          "t": "三重県桑名市、静岡県浜松市佐久間、岐阜県多治見市で気温が40度以上となり、「酷暑日」が観測された。",
+          "span": "気温が40度以上となり、「酷暑日」となりました",
           "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "システム障害により、ニチレイの出荷などの業務に影響が出た。",
-          "span": "出荷などの業務に影響が出た",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ニチレイへのサイバー攻撃について、ハッカー集団が21日夜に犯行声明を出した。",
-          "span": "ハッカー集団が21日夜、犯行声明を出した",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            },
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "ハッカー集団による犯行声明は、セキュリティー会社への取材で明らかになった。",
-          "span": "セキュリティー会社への取材で分かりました",
+          "t": "東海や関東甲信では、40度に迫る地点が相次いでいる。",
+          "span": "40度に迫る地点が相次いでいて",
           "src": [
             {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
+              "ty": "press",
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "ニチレイへのサイバー攻撃は「ランサムウエア」攻撃の可能性がある。",
-          "span": "「ランサムウエア」攻撃か",
+          "t": "東京都内でも38度を超える気温が観測された。",
+          "span": "38℃超",
           "src": [
             {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ファストフードチェーンのケンタッキーフライドチキンは、ニチレイのシステム障害の影響を受けた。",
-          "span": "ニチレイ」で発生したシステム障害の影響で",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ケンタッキーフライドチキンは、一部店舗で営業時間を短縮するなどの対応をとっていた。",
-          "span": "一部の店舗で営業時間を短縮するなどの対応をとっていましたが",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ケンタッキーフライドチキンは、22日からすべての店舗で通常営業を再開した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
+              "ty": "press",
+              "l": "Yahoo!ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "冷凍食品大手ニチレイへのサイバー攻撃が発生し、業務に影響が出たこと、およびハッカー集団が犯行声明を出したことについては合意されている。攻撃の具体的な手法（ランサムウェアか否か）については報じられているが、断定はされていない。",
+      "consensus": "三重、静岡、岐阜などで40度以上の「酷暑日」が観測され、東京都内でも38度を超えるなど各地で危険な暑さとなっており、気象庁は熱中症への厳重な警戒を呼びかけている。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "facts[7].span が空だったので、元テキストから適切なスパン「22日からすべての店舗で通常営業を再開」を抽出しました。（監査観点3: span の最小核）",
-          "positions[0].claim が発言主体による主張のメタ記述になっていなかったため、「ニチレイへのサイバー攻撃は自分たちが行ったと声明を出している。」に修正しました。（監査観点2: メタ記述の徹底、監査観点8: 著作権）",
-          "positions[0].premises に、犯行声明がセキュリティー会社への取材で明らかになったという事実（facts[3]）を追加しました。（監査観点7: 論理構造の検証）",
-          "fact spanが原文に無い→除去「22日からすべての店舗で通常営業を再…」"
+          "争点の立て方: 元テキストに賛否の対立が存在しないため、'issue'と'stasis'フィールドを削除しました。",
+          "発言主体・媒体の捏造: 'positions[0].src'から、気象庁の発言主体が明確に特定できないNHKとYahoo!ニュースのソースを削除しました。時事ドットコムのみが「熱中症防止を―気象庁」と明記しています。"
         ]
       }
     },
     {
-      "headline": "関東と東海「酷暑日」予想 熱中症に厳重警戒 東北では激しい雨",
-      "slug": "関東と東海酷暑日予想熱中症に厳重警戒東北では激し",
+      "headline": "北海道 十勝岳で2004年以来の噴火 噴火警戒レベル2が継続",
+      "slug": "北海道十勝岳で2004年以来の噴火噴火警戒レベル",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015182521000"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050044_0_VFVO53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050047_0_VFVO53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050051_0_VFVO53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050033_0_VFVO53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050037_0_VFVO53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050041_0_VFVO53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722050030_0_VFVO53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722030007_0_VFVO51_016000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260722021518_0_VFVO52_016000.xml"
+        }
+      ],
+      "issue": "日本の火山活動の現状と警戒状況はどのようなものか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "北海道の十勝岳で22日午前に噴火が発生した。",
+          "span": "噴火が発生しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "十勝岳の噴火は2004年以来である。",
+          "span": "2004年以来",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象台は十勝岳の噴火警戒レベル2を継続している。",
+          "span": "噴火警戒レベル2を継続し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "気象台は十勝岳の火口からおよそ1.5キロの範囲で大きな噴石に警戒するよう呼びかけている。",
+          "span": "大きな噴石に警戒するよう呼びかけています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "薩摩硫黄島は噴火警戒レベル2（火口周辺規制）である。",
+          "span": "噴火警戒レベル２（火口周辺規制）です",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "諏訪之瀬島は噴火警戒レベル2（火口周辺規制）である。",
+          "span": "噴火警戒レベル２（火口周辺規制）です",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "霧島山（新燃岳）は噴火警戒レベル2（火口周辺規制）である。",
+          "span": "噴火警戒レベル２（火口周辺規制）です",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "岩手山は噴火警戒レベル2（火口周辺規制）である。",
+          "span": "噴火警戒レベル２（火口周辺規制）です",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "阿蘇山は噴火警戒レベル2（火口周辺規制）である。",
+          "span": "噴火警戒レベル２（火口周辺規制）です",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "雌阿寒岳は噴火警戒レベル2（火口周辺規制）である。",
+          "span": "噴火警戒レベル２（火口周辺規制）です",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "桜島は噴火警戒レベル3（入山規制）である。",
+          "span": "噴火警戒レベル３（入山規制）です",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "22日21時から24時まで、薩摩硫黄島で噴火が発生した場合、火口から東方向に降灰が予想される。",
+          "span": "火口から東方向に降灰が予想されます",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "22日21時から24時まで、諏訪之瀬島で噴火が発生した場合、火口から北方向に降灰が予想される。",
+          "span": "火口から北方向に降灰が予想されます",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "22日21時から24時まで、霧島山（新燃岳）で噴火が発生した場合、火口から東方向に降灰が予想される。",
+          "span": "火口から東方向に降灰が予想されます",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "22日21時から24時まで、岩手山で噴火が発生した場合、火口から東方向に降灰が予想される。",
+          "span": "火口から東方向に降灰が予想されます",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "22日21時から24時まで、阿蘇山で噴火が発生した場合、火口から東方向に降灰が予想される。",
+          "span": "火口から東方向に降灰が予想されます",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "22日21時から24時まで、桜島で噴火が発生した場合、火口から東方向に降灰が予想される。",
+          "span": "火口から東方向に降灰が予想されます",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "22日21時から24時まで、雌阿寒岳で噴火が発生した場合、火口から南方向に降灰が予想される。",
+          "span": "火口から南方向に降灰が予想されます",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "北海道の十勝岳で2004年以来となる噴火が発生し、気象庁はこれを「ごく小規模な噴火」と評価している。気象台は噴火警戒レベル2を継続し、大きな噴石への警戒を呼びかけている。また、薩摩硫黄島、諏訪之瀬島、霧島山（新燃岳）、岩手山、阿蘇山、雌阿寒岳は噴火警戒レベル2、桜島は噴火警戒レベル3が継続しており、気象庁は複数の火山について降灰予報を発表している。これらの事実に対する評価の対立は記事中に見られない。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "事実欄 (facts[2]) に「ごく小規模」という評価語が混入していたため、発言主体（気象庁）を明記した上でpositions欄へ移動させ、claimをメタ記述に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
+      "slug": "USrenewsstrikesonIranasT",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/us-expands-strikes-on-11th-straight-night-of-attacks?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/22/palestine-weekly-ahead-of-elections-israel-doubles-down-on-attacks?traffic_source=rss"
+        }
+      ],
+      "issue": "米国とイスラエルによる軍事行動の現状と影響は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "米国はイランへの攻撃を再開した。",
+          "span": "renews strikes on Iran",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国大統領はイランの主要な地下核施設を攻撃すると脅迫した。",
+          "span": "threat to target a key Iranian nuclear site",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この脅迫は、11夜連続の攻撃に先立って行われた。",
+          "span": "came ahead of the 11th consecutive night of attacks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米軍による11夜連続の攻撃は、これまで攻撃されていなかったイランの州にまで拡大した。",
+          "span": "extended to Iranian provinces not previously hit",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルは選挙を前に攻撃を強化した。",
+          "span": "doubles down on attacks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルによる攻撃により、ガザでは子供や避難民を含む数十人が死亡し、家族が埋葬されている。",
+          "span": "attacks leave dozens dead, including children and displaced families",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米国とイスラエルが軍事行動を継続・拡大しており、ガザでは多数の死者が出ている。これらの行動の評価は本アプリでは裁定しない。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "トランプ大統領 ジェネリック医薬品に2028年から100％の関税",
+      "slug": "トランプ大統領ジェネリック医薬品に2028年から",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -338,49 +431,72 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182151000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015182411000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588838?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6588882?source=rss"
         }
       ],
-      "issue": null,
-      "stasis": "事実",
+      "issue": "トランプ大統領が提案するジェネリック医薬品への関税は妥当か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "21日に岐阜県と愛知県で最高気温が40度以上を記録し、気象庁の運用開始以来初の「酷暑日」となった。",
-          "span": "最高気温が40度以上となり、気象庁が運用を始めてから初めての「酷暑日」となりました",
+          "t": "アメリカのトランプ大統領が、輸入ジェネリック医薬品に2028年から100%の関税を課す意向を表明した。",
+          "span": "輸入するジェネリック医薬品に対して、2028年から100％の関税を課す意向",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "トランプ大統領",
+          "stance": "support",
+          "claim": "トランプ大統領は、アメリカ国内に生産拠点を設けるよう求めていると報じられている。",
+          "span": "アメリカ国内に生産拠点を設けるよう求めています",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "22日も関東と東海で「酷暑日」が予想されている。",
-          "span": "22日も関東と東海で「酷暑日」が予想されています",
+          "actor": "報道機関",
+          "stance": "attack",
+          "claim": "報道機関は、関税によって利用者の負担が増加する可能性があると報じている。",
+          "span": "利用者の負担増加につ",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK"
             }
           ]
         }
       ],
-      "positions": [],
-      "consensus": "21日に一部地域で酷暑日を記録し、22日も酷暑日が予想される状況であり、熱中症への厳重な警戒が呼びかけられている。",
+      "consensus": "トランプ大統領がジェネリック医薬品への関税を提案したことは事実だが、その影響については懸念が示されており、評価は割れる可能性がある。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "テキスト内に明確な争点や対立する立場が存在しないため、issueをnullにし、positionsを空にしました。元のテキストは事実の報告と警告の伝達に終始しています。",
-          "positionsが空になったことに伴い、consensusを、対立する意見間の合意ではなく、事実状況と警告の伝達を反映するよう修正しました。"
+          "positions[0].claim: メタ記述の徹底と著作権の観点から、「〜と報じられている」の構造に修正し、元の文の言い回しをなぞらないように再記述しました。",
+          "positions[1].claim: メタ記述の徹底と著作権の観点から、「〜と報じられている」の構造に修正し、元の文の言い回しをなぞらないように再記述しました。"
         ]
       }
     }
