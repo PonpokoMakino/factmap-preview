@@ -1,238 +1,7 @@
 {
-  "builtAt": "2026-07-22T18:46:54.798Z",
+  "builtAt": "2026-07-23T01:08:13.702Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
-    {
-      "headline": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
-      "slug": "Iransjudiciarywarnsagain",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/7/22/trump-push-for-syrian-intervention-against-hezbollah-short-sighted?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/22/irans-judiciary-warns-against-infiltrators-announces-new-executions?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/22/proposed-us-saudi-nuclear-energy-deal-what-we-know-so-far?traffic_source=rss"
-        }
-      ],
-      "issue": "米国はサウジアラビアの核開発計画を認める合意を発表するか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "米国がサウジアラビアとの間で、同国の核開発計画を認める合意を発表する予定であると報じられている。",
-          "span": "US to announce deal allowing Saudi Arabia a nuclear programme",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この合意はサウジアラビアの長年の希望を満たすものだが、イスラエルや一部の米国議員からの懸念を招く可能性がある。",
-          "span": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ政権はサウジアラビアがウラン濃縮を可能にする協定を支持していると報じられている。",
-          "span": "Reports suggest ‌the Trump administration backs a pact with Saudi Arabia allowing it to enrich uranium.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イランの司法当局は「浸透者」に対して警告し、新たな処刑を発表した。",
-          "span": "Iran’s judiciary warns against ‘infiltrators’, announces new executions",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "昨年のイスラエルとの12日間の戦争の後、安全保障犯罪に関連する多くの事件が法律に基づいて訴追されている。",
-          "span": "Many cases related to security offences are prosecuted using a law announced after last year&#039;s 12-day war with Isra",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "アナリストは、米国大統領がシリアに対しレバノンのヒズボラに対して介入するよう圧力をかけることは、国内の安全保障を損なう可能性があると述べている。",
-          "span": "Analysts say US president&#039;s pressure on Damascus to intervene in Lebanon could undermine domestic security.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米国がサウジアラビアの核開発計画を認める合意を発表する予定であると報じられている。この合意はサウジアラビアの長年の希望を満たすものだが、イスラエルや一部の米国議員からの懸念を招く可能性がある。報道によると、トランプ政権はサウジアラビアがウラン濃縮を可能にする協定を支持している。イランの司法当局は「浸透者」に対して警告し、新たな処刑を発表した。昨年のイスラエルとの12日間の戦争の後、安全保障犯罪に関連する多くの事件が法律に基づいて訴追されている。アナリストは米国大統領によるシリアへのヒズボラ介入圧力は国内の安全保障を損なう可能性があると述べている。",
-      "note": "プライバシー配慮のため、個別の事件や人物に関する詳細な情報は省略し、争点と事実関係に焦点を当てています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factsの3番目の項目で、元のテキストでは「Reports suggest」とあるものを「報道によると」と解釈し、事実として抽出していたため、抽出エンジンのJSONのまま修正せず、事実として抽出しました。",
-          "positionsのreasonを、元のテキストの事実部分をそのまま引用する形に修正しました。",
-          "consensusの内容を、factsとpositionsの内容を統合する形に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "米長官、日中関係悪化に憂慮　南シナ海情勢で中国けん制",
-      "slug": "米長官日中関係悪化に憂慮南シナ海情勢で中国けん制",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588959?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072200662&g=pol&m=rss"
-        }
-      ],
-      "issue": null,
-      "stasis": "事実合意",
-      "facts": [
-        {
-          "t": "米国務長官が日中関係の悪化に憂慮を示したと報じられている。",
-          "span": "日中関係の悪化に憂慮",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ],
-          "note": "南シナ海情勢で中国をけん制する意図があると報じられている。"
-        }
-      ],
-      "positions": [],
-      "consensus": "米国務長官が日中関係の悪化に憂慮を示したと報じられている。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "争点（issue）がテキスト内の対立を反映していなかったため、positionsを空にし、情報をfactsへ移動。issueをnull、stasisを事実合意に修正しました。",
-          "元のpositions.claimの情報をfacts.tに再記述し、メタ記述を徹底しました。",
-          "元のpositions.reasonをfacts.noteに移動し、文脈情報として整理しました。"
-        ]
-      }
-    },
-    {
-      "headline": "高木美帆さんに国民栄誉賞授与へ 五輪で10個のメダル獲得",
-      "slug": "高木美帆さんに国民栄誉賞授与へ五輪で10個のメダ",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015182921000"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072201090&g=pol&m=rss"
-        }
-      ],
-      "issue": "高木美帆選手に国民栄誉賞が授与されるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "スピードスケート女子の高木美帆選手が、オリンピックで日本の女子選手として最多となる10個のメダルを獲得し、現役を引退した。",
-          "span": "スピードスケート女子でオリンピックの日本の女子選手で最多となる10個のメダルを獲得して現役を引退した高木美帆さん",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "政府は、高木美帆選手に国民栄誉賞を授与する方針を固めた。",
-          "span": "国民栄誉賞を授与する方針を固め",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "政府は、高木美帆選手に国民栄誉賞を授与する方針を固めた。",
-          "span": "高木美帆さんに国民栄誉賞",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "政府は、来週28日にも表彰式を開く方向で調整を進めている。",
-          "span": "来週28日にも表彰式を開く方向で調整を進めていま",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "政府は、28日にも表彰式を開く方向で調整を進めている。",
-          "span": "２８日にも表彰式",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "政府は、オリンピックで日本の女子選手最多の10個のメダルを獲得し引退した高木美帆選手に国民栄誉賞を授与する方針を固め、来週28日にも表彰式を開く方向で調整を進めている。",
-      "note": "両記事とも事実の報道に終始しており、異なる立場や意見の表明は含まれていないため、positions は空配列となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
     {
       "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
       "slug": "TrumpthreatenstotargetIr",
@@ -303,6 +72,256 @@
         "issues": [
           "facts[1].t: \"脅迫した\" を \"述べた\" に修正。評価語の混入防止。",
           "consensus: \"評価は割れる\" を削除。テキストに根拠がないため。"
+        ]
+      }
+    },
+    {
+      "headline": "名古屋 岐阜 京都 甲府で「酷暑日」予想 熱中症に厳重警戒",
+      "slug": "名古屋岐阜京都甲府で酷暑日予想熱中症に厳重警戒",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015183051000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6588982?source=rss"
+        }
+      ],
+      "issue": "日本各地で酷暑が続き、熱中症による救急搬送が急増しているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "8月22日、三重県、静岡県、岐阜県で最高気温が40度以上の「酷暑日」を記録した。",
+          "span": "最高気温が40度以上と「酷暑日」となりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "8月23日には、東海地方に加え、京都市や甲府市でも「酷暑日」が予想されている。",
+          "span": "「酷暑日」が予想されています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        },
+        {
+          "t": "全国的に熱中症による救急搬送者が急増している。",
+          "span": "熱中症で救急搬送される人は全国で急増していて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日本各地で酷暑が続き、熱中症による救急搬送が急増している。評価や意見の対立は記事中に見られない。",
+      "note": "記事は事実の報道と注意喚起に終始しており、特定の立場や意見の対対立は存在しないため、positionsは空配列とした。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: issueが「リスクが高まっているか？」とやや評価的であったため、テキストに直接記述されている「熱中症による救急搬送が急増しているか？」という、より事実に基づいた問いに修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Austrian home where Hitler was born reopened as police station",
+      "slug": "AustrianhomewhereHitlerw",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm2g11ng7j2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss"
+        }
+      ],
+      "issue": "ペルーとオーストリアで報じられた最近の出来事は何ですか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ペルーで火災により一家10人が死亡した。",
+          "span": "Fire kills 10 members of same family in Peru",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "警察がこの事実を報告した。",
+          "span": "police say",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "当局はリマでの火災の原因を調査している。",
+          "span": "Authorities are investigating the cause of the blaze in Lima",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "地元メディアは、火災が放火による可能性があると報じている。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ヒトラーが生まれたオーストリアの家が警察署として再開された。",
+          "span": "Austrian home where Hitler was born reopened as police station",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "数十年間、ネオナチや極右過激派がアドルフ・ヒトラーが生まれたこの家に集まっていた。",
+          "span": "For decades, neo-Nazis and far-right extremists flocked to the Austrian home where Adolf Hitler.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ペルーでの火災とオーストリアの歴史的建造物の再利用に関する事実が報じられている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "issueが広範すぎたため、テキスト内容に合わせた事実記述の問いに修正しました。",
+          "positionsに記載されていた項目は、議論の立場ではなく、報じられた仮説であったため、factsに移動し、positionsを空にしました。",
+          "positionsが空になったため、consensusから「評価は割れる」の記述を削除しました。",
+          "移動したfacts項目のspanを、元テキストの記述全体をカバーするように修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "US and Saudi Arabia announce nuclear cooperation deal",
+      "slug": "USandSaudiArabiaannounce",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss"
+        }
+      ],
+      "issue": "米国とサウジアラビアの核協力協定は、平和的利用と核不拡散を促進するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "米国がサウジアラビアと核協定を締結した。",
+          "span": "signs landmark nuclear deal with Saudi Arabia",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国エネルギー省は、この協定を「平和的な」協力協定であると述べている。",
+          "span": "peaceful",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国エネルギー省は、この協定が米国企業にサウジアラビアの核プログラムへの「大きなアクセス」を与えるだろうと述べている。",
+          "span": "great access",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ政権は、この協定を「歴史的な」合意であると述べている。",
+          "span": "historic",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トランプ政権は、この協定が「世界の核不拡散基準を強化する」と述べている。",
+          "span": "reinforce global nonproliferation standards",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米国とサウジアラビアの間で核協力協定が締結されたことは事実である。この協定の評価については、本記事では米国側の肯定的な見解のみが示されており、異なる評価は提示されていない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "事実欄への評価混入: facts[0].t から「画期的な」を削除しました。",
+          "メタ記述の徹底: positions[0].claim と positions[1].claim を「〜と述べている」の構造に修正しました。",
+          "spanの最小核: positions[0].span と positions[1].span を、claimが複数の要素を含むため空文字に修正しました。",
+          "論理構造の検証: positions[0].premises に [1, 2] を、positions[1].premises に [3, 4] を追加しました。"
         ]
       }
     }
