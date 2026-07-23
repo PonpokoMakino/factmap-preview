@@ -1,87 +1,15 @@
 {
-  "builtAt": "2026-07-23T01:08:13.702Z",
+  "builtAt": "2026-07-23T07:14:42.422Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "slug": "TrumpthreatenstotargetIr",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072201140&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "イランがホルムズ海峡での攻撃を続けた場合、米国はイランの橋や発電所を攻撃するか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "イランがホルムズ海峡で船舶を攻撃した場合、米国はいつでも対応するとドナルド・トランプ氏は述べた。",
-          "span": "the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏は、イランがホルムズ海峡での攻撃を続けた場合、橋や発電所を標的にすると述べた。",
-          "span": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏は、イランの橋や発電所の破壊を示唆し、圧力をかけて譲歩を迫った。",
-          "span": "イランの橋、発電所破壊を警告　トランプ氏、圧力で譲歩迫る",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "地下核関連施設の攻撃も示唆された。",
-          "span": "地下核関連施設攻撃も示唆",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イランがホルムズ海峡での攻撃を続けた場合、米国はイランの橋や発電所を攻撃する可能性があるとトランプ氏は示唆した。",
-      "note": "プライバシー配慮のため、個人名は特定可能な範囲で記載。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].t: \"脅迫した\" を \"述べた\" に修正。評価語の混入防止。",
-          "consensus: \"評価は割れる\" を削除。テキストに根拠がないため。"
-        ]
-      }
-    },
-    {
-      "headline": "名古屋 岐阜 京都 甲府で「酷暑日」予想 熱中症に厳重警戒",
-      "slug": "名古屋岐阜京都甲府で酷暑日予想熱中症に厳重警戒",
-      "independentSources": 2,
+      "headline": "静岡 浜松で41.1度 東海4県で「酷暑日」 熱中症に厳重警戒",
+      "slug": "静岡浜松で411度東海4県で酷暑日熱中症に厳重警",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
@@ -90,60 +18,312 @@
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6588982?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6589024?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072300499&g=soc&m=rss"
         }
       ],
-      "issue": "日本各地で酷暑が続き、熱中症による救急搬送が急増しているか？",
+      "issue": "各地で記録的な高温となったか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "8月22日、三重県、静岡県、岐阜県で最高気温が40度以上の「酷暑日」を記録した。",
-          "span": "最高気温が40度以上と「酷暑日」となりました",
+          "t": "静岡県浜松市佐久間では41.1度を観測し、今年の最高気温を更新した。",
+          "span": "静岡県浜松市佐久間では気温が41.1度を観測し、ことしの最高気温を更新しました",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "8月23日には、東海地方に加え、京都市や甲府市でも「酷暑日」が予想されている。",
-          "span": "「酷暑日」が予想されています",
+          "t": "浜松市で41.1度を観測し、今年の全国最高気温となった。",
+          "span": "浜松で41.1℃観測 今年の全国最高",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "全国的に熱中症による救急搬送者が急増している。",
-          "span": "熱中症で救急搬送される人は全国で急増していて",
+          "t": "浜松市天竜と岐阜県美濃市で40.3度を観測した。",
+          "span": "浜松・天竜と岐阜・美濃で４０．３度観測",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "東海地方の各地で40度以上の「酷暑日」となっている。",
+          "span": "東海の各地で40度以上の「酷暑日」となっている",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東京都内でも39度を超えている。",
+          "span": "都内でも39度を超える",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日本各地で酷暑が続き、熱中症による救急搬送が急増している。評価や意見の対立は記事中に見られない。",
-      "note": "記事は事実の報道と注意喚起に終始しており、特定の立場や意見の対対立は存在しないため、positionsは空配列とした。",
+      "consensus": "23日、静岡県浜松市佐久間では41.1度を観測し、今年の最高気温を更新した。浜松市天竜と岐阜県美濃市では40.3度を観測した。東海地方の各地で40度以上の「酷暑日」となり、東京都内でも39度を超えた。熱中症への厳重な警戒が呼びかけられている。",
+      "note": "複数の報道機関が同様の事実を報じているが、評価や提言に関する主体が特定できないため、positionsは最小限とした。",
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: issueが「リスクが高まっているか？」とやや評価的であったため、テキストに直接記述されている「熱中症による救急搬送が急増しているか？」という、より事実に基づいた問いに修正しました。"
+          "factの項目「各地で危険な暑さとなっている。」は、主観的な評価語「危険な暑さ」を含んでおり、検証可能な事実ではないため削除しました。",
+          "factの項目「浜松市で41.1度を観測し、今年の全国最高気温となった。」のspanを「浜松で41.1℃観測 今年の全国最高」に修正しました。元テキストに存在しないspanを削除しました。",
+          "fact spanが原文に無い→除去「浜松で41.1℃観測　今年の全国最高…」"
         ]
       }
     },
     {
-      "headline": "Austrian home where Hitler was born reopened as police station",
-      "slug": "AustrianhomewhereHitlerw",
+      "headline": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
+      "slug": "SaudiArabiaandUSagreetol",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/7/23/between-hope-and-fear-yemenis-react-to-houthi-blockade-on-saudi-arabia?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/aje-onl-nf_france-battles-massive-wildfires-amid-extreme-heat-230726?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/23/five-soldiers-killed-in-southern-thailand-checkpoint-attack?traffic_source=rss"
+        }
+      ],
+      "issue": "イエメンのフーシ派による紅海での海上封鎖は、地域紛争を再燃させ、人道危機を悪化させるか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "フーシ派は、イランが支援するグループが「海上封鎖」を発表して以来、紅海で初めての攻撃を主張している。",
+          "span": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\"",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フーシ派の海上封鎖の脅威の後、タンカーは急に進路を変更した。",
+          "span": "Tankers make sharp U-turns after Houthi shipping threat",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "船追跡データによると、変更した全ての船はサウジアラビアの港へ向かうか、またはそこから来ていた。",
+          "span": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナのドローンが、ロシア最大のオンライン小売業者ワイルドベリーの複数の小売倉庫を攻撃した。",
+          "span": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国は12日連続でイランへの攻撃を行っている。",
+          "span": "Strikes from the US on Iran are raining down for the 12th night in a row.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国とサウジアラビアは、リヤドが原子力発電所を建設できる民間原子力協定に合意した。",
+          "span": "The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国エネルギー省は、この「平和的な」協力協定により、米企業はサウジアラビアの原子力分野に「大きなアクセス」を得られるとしている。",
+          "span": "the \"peaceful\" co-operation agreement will give US firms \"great access\"",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "タイ南部ナラティワット県で、検問所への襲撃で兵士5人が死亡した。",
+          "span": "Five soldiers killed in southern Thailand checkpoint attack",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "南フランスでは、消防士が大規模な山火事と戦っており、数千人が避難している。",
+          "span": "Thousands of people are being evacuated from areas of southern France as firefighters battle huge wildfires.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米国とサウジアラビアは民間原子力協定に合意した。フーシ派による紅海での海上封鎖の発表とそれに伴うタンカーの進路変更が報じられている。イエメンの人々は、この封鎖が紛争再燃や人道危機悪化を懸念している。評価は割れる。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "factの7番目のt（米国エネルギー省の主張）を、spanと一致するように「米国エネルギー省は、この「平和的な」協力協定により、米企業はサウジアラビアの原子力分野に「大きなアクセス」を得られるとしている。」に修正しました。元のtは「米国エネルギー省は、この「平和的な」協力協定により、米企業はサウジアラビアの原子力分野に「大きなアクセス」を得られるとしている。」となっており、spanと一致させるため、末尾の「サウジアラビアのnu」を削除しました。",
+          "positionの2番目のactorを「米国」から「米国エネルギー省」に修正しました。元のactorは「米国」でしたが、spanとsrcから判断して、より具体的な主体である「米国エネルギー省」が適切です。",
+          "positionの2番目のstanceを「support」から「claim」に修正しました。元のstanceは「support」でしたが、spanとsrcから判断して、主張している内容であるため「claim」がより適切です。"
+        ]
+      }
+    },
+    {
+      "headline": "茂木外相は記者会見で、中国外相と２２日に短時間あいさつを交わしたと明らかにした",
+      "slug": "茂木外相は記者会見で中国外相と日に短時間あいさつ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015184031000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015184051000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072300637&g=flash&m=rss"
+        }
+      ],
+      "issue": "日中外相の接触は、両国関係の改善につながるか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "茂木外務大臣は、訪問先のフィリピンで、中国の王毅外相と短時間ことばを交わしたと記者団に明らかにした。",
+          "span": "ことばを交わした",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日中の外相が接触したのは、両国の関係が悪化した去年11月以降初めてである。",
+          "span": "両国の関係が悪化した去年11月以降初めて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "茂木外務大臣は、イギリスのバーナム政権で新たに就任したミリバンド外相と会談した。",
+          "span": "ミリバンド外相と会談し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "日米外相会談では、新政権のもとでも両国関係を強化し、イラン情勢など国際社会の諸課題に連携して取り組んでいくことを確認した。",
+          "span": "両国関係を強化し、イラン情勢など国際社会の諸課題に連携して取り組んでいくことを確認し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "茂木外務大臣は、イギリスのミリバンド外相と会談し、両国関係の強化と国際課題への連携を確認した。また、中国の王毅外相と短時間接触した。日中の外相の接触は、関係悪化後初めてである。",
+      "note": "プライバシー配慮のため、個別の事件や被害者の特定につながる情報は含んでいません。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Indian police accused of using pellet guns in crackdown on India’s protests",
+      "slug": "Indianpoliceaccusedofusi",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -156,14 +336,18 @@
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/austrian-home-where-hitler-was-born-reopened-as-police-station?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-police-accused-of-using-pellet-guns-in-crackdown-on-indias-protests?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/23/guyana-ferry-disaster-families-demand-answers-as-around-100-feared-dead?traffic_source=rss"
         }
       ],
-      "issue": "ペルーとオーストリアで報じられた最近の出来事は何ですか？",
+      "issue": "ペルーで発生した火災の原因は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ペルーで火災により一家10人が死亡した。",
+          "t": "ペルーのリマで火災が発生し、同じ家族の10人が死亡した。",
           "span": "Fire kills 10 members of same family in Peru",
           "src": [
             {
@@ -173,8 +357,8 @@
           ]
         },
         {
-          "t": "警察がこの事実を報告した。",
-          "span": "police say",
+          "t": "当局は火災の原因を調査している。",
+          "span": "Authorities are investigating the cause of the blaze",
           "src": [
             {
               "ty": "press",
@@ -183,146 +367,22 @@
           ]
         },
         {
-          "t": "当局はリマでの火災の原因を調査している。",
-          "span": "Authorities are investigating the cause of the blaze in Lima",
+          "t": "地元メディアは火災が放火の可能性があると報じている。",
+          "span": "it may have been arson",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "地元メディアは、火災が放火による可能性があると報じている。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ヒトラーが生まれたオーストリアの家が警察署として再開された。",
-          "span": "Austrian home where Hitler was born reopened as police station",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "数十年間、ネオナチや極右過激派がアドルフ・ヒトラーが生まれたこの家に集まっていた。",
-          "span": "For decades, neo-Nazis and far-right extremists flocked to the Austrian home where Adolf Hitler.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ペルーでの火災とオーストリアの歴史的建造物の再利用に関する事実が報じられている。",
+      "consensus": "ペルーのリマで火災が発生し、同じ家族の10人が死亡した。当局は原因を調査しており、地元メディアは放火の可能性を報じている。",
       "note": null,
       "audit": {
-        "changed": true,
-        "issues": [
-          "issueが広範すぎたため、テキスト内容に合わせた事実記述の問いに修正しました。",
-          "positionsに記載されていた項目は、議論の立場ではなく、報じられた仮説であったため、factsに移動し、positionsを空にしました。",
-          "positionsが空になったため、consensusから「評価は割れる」の記述を削除しました。",
-          "移動したfacts項目のspanを、元テキストの記述全体をカバーするように修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "US and Saudi Arabia announce nuclear cooperation deal",
-      "slug": "USandSaudiArabiaannounce",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss"
-        }
-      ],
-      "issue": "米国とサウジアラビアの核協力協定は、平和的利用と核不拡散を促進するか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "米国がサウジアラビアと核協定を締結した。",
-          "span": "signs landmark nuclear deal with Saudi Arabia",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国エネルギー省は、この協定を「平和的な」協力協定であると述べている。",
-          "span": "peaceful",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "米国エネルギー省は、この協定が米国企業にサウジアラビアの核プログラムへの「大きなアクセス」を与えるだろうと述べている。",
-          "span": "great access",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ政権は、この協定を「歴史的な」合意であると述べている。",
-          "span": "historic",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "トランプ政権は、この協定が「世界の核不拡散基準を強化する」と述べている。",
-          "span": "reinforce global nonproliferation standards",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米国とサウジアラビアの間で核協力協定が締結されたことは事実である。この協定の評価については、本記事では米国側の肯定的な見解のみが示されており、異なる評価は提示されていない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄への評価混入: facts[0].t から「画期的な」を削除しました。",
-          "メタ記述の徹底: positions[0].claim と positions[1].claim を「〜と述べている」の構造に修正しました。",
-          "spanの最小核: positions[0].span と positions[1].span を、claimが複数の要素を含むため空文字に修正しました。",
-          "論理構造の検証: positions[0].premises に [1, 2] を、positions[1].premises に [3, 4] を追加しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
