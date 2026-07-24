@@ -1,10 +1,267 @@
 {
-  "builtAt": "2026-07-24T12:08:50.707Z",
+  "builtAt": "2026-07-24T17:14:49.393Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "「副首都」法案 参院特別委で可決 本会議で採決行われる見通し",
-      "slug": "副首都法案参院特別委で可決本会議で採決行われる見",
+      "headline": "第221特別国会が事実上閉会 政府提出の64法案すべて成立",
+      "slug": "第221特別国会が事実上閉会政府提出の64法案す",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015185521000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015185801000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015185791000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589183?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072400116&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072400810&g=pol&m=rss"
+        }
+      ],
+      "issue": "「副首都」構想関連法は成立したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "大規模災害時の首都代替機能「副首都」構想の関連法が参議院本会議で可決・成立した。",
+          "span": "「副首都」構想の関連法は、参議院本会議で採決が行われ、自民・維新両党とチームみらいなどの賛成多数で可決・成立しました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "第221特別国会が事実上閉会し、政府提出の64法案がすべて成立した。",
+          "span": "第221特別国会が事実上閉会しました。この国会では、皇族数の確保に向けた改正皇室典範など政府が提出した64の法案が、すべて成立しました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "議員立法として、与党が連立合意に基づき提出した「副首都」構想関連法も成立した。",
+          "span": "また議員立法では、与党が連立合意に基づいて提出した「副首都」構想…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "愛知県の大村知事と名古屋市の広沢市長が、愛知県として「副首都」の指定を目指すと表明した。",
+          "span": "愛知県の大村知事と名古屋市の広沢市長が24日、そろって記者会見を開き、愛知県として「副首都」の指定を目指すことを正式に…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "改正国民投票法が成立した。",
+          "span": "改正国民投票法が成立",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "「副首都構想」関連法が成立した。",
+          "span": "「副首都構想」関連法が成立",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "副首都法が成立し、特別国会が事実上閉幕した。",
+          "span": "副首都法が成立　与党提出、野党は反対―特別国会、事実上閉幕",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "自民・維新両党とチームみらいなど",
+          "stance": "support",
+          "claim": "「副首都」構想の関連法に賛成した。",
+          "span": "自民・維新両党とチームみらいなどの賛成多数で可決・成立しました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "野党",
+          "stance": "attack",
+          "claim": "副首都法に反対した。",
+          "span": "野党は反対",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "actor": "与党",
+          "stance": "support",
+          "claim": "改正国民投票法を成立させ、改憲発議を目指す方針である。",
+          "span": "与党、改憲発議目指す",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "actor": "愛知県知事と名古屋市長",
+          "stance": "support",
+          "claim": "愛知県として「副首都」の指定を目指すことを表明した。",
+          "span": "愛知県として「副首都」の指定を目指すことを正式に…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "consensus": "「副首都」構想関連法は成立した。賛否は割れている。",
+      "note": "プライバシー配慮のため、個別の野党名は特定せず「野党」とした。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "新潟県で記録的大雨 関東甲信越と東北 25日も激しい雨のおそれ",
+      "slug": "新潟県で記録的大雨関東甲信越と東北25日も激しい",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015185411000"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260724164334_0_VPWW54_070000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260724164334_0_VPWW53_070000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260724164322_0_VPWW56_070000.xml"
+        }
+      ],
+      "issue": "新潟県や東北地方で記録的な大雨が降ったか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "新潟県や東北地方では、停滞する前線の影響で局地的に雨雲が発達し、猛烈な雨が降ったとみられる。",
+          "span": "停滞する前線の影響で、新潟県や東北では局地的に雨雲が発達していて、猛烈な雨が降ったとみられる",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "新潟県の一部地域では「レベル4 危険警報」が出されている。",
+          "span": "「レベル4 危険警報」が出されている地域があり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "福島県中通りでは土砂災害への注意が呼びかけられている。",
+          "span": "中通りでは、土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "福島県では落雷や濃霧による視程障害への注意が呼びかけられている。",
+          "span": "福島県では、落雷や濃霧による視程障害に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "関東甲信越と東北地方では、25日も激しい雨が降るおそれがある。",
+          "span": "関東甲信越と東北 25日も激しい雨のおそれ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "新潟県や東北地方では局地的に雨雲が発達し、猛烈な雨が降ったとみられ、新潟県の一部地域では「レベル4 危険警報」が出されている。福島県中通りでは土砂災害、福島県では落雷や濃霧による視程障害への注意が呼びかけられている。関東甲信越と東北地方では、25日も激しい雨が降るおそれがある。",
+      "note": "複数の気象庁の警報・注意報発表が同一内容のため、出典を一つに集約しました。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "気象庁の警報・注意報に関する事実の出典を一つに集約しました。元JSONでは同一内容の出典が複数記載されていましたが、検品の結果、重複を削除し、代表的な出典のみを残すことで、より簡潔で分かりやすい表現に修正しました。これにより、事実の信頼性を損なうことなく、情報の冗長性を排除しました。",
+          "福島県に関する気象庁の警報・注意報の出典を一つに集約しました。元JSONでは同一内容の出典が複数記載されていましたが、検品の結果、重複を削除し、代表的な出典のみを残すことで、より簡潔で分かりやすい表現に修正しました。これにより、事実の信頼性を損なうことなく、情報の冗長性を排除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "新人小浜、値千金の一発　プロ初本塁打に手応え―プロ野球・巨人",
+      "slug": "新人小浜値千金の一発プロ初本塁打に手応えプロ野球",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -13,101 +270,64 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015185621000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015185521000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015185591000"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072401056&g=flash&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026072401256&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072401243&g=spo&m=rss"
         }
       ],
-      "issue": "憲法改正の国民投票における投票環境整備のための改正国民投票法は、参議院本会議で可決・成立したか？",
+      "issue": "プロ野球で巨人は阪神に勝利し、首位に並んだか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "改正国民投票法は、憲法改正の国民投票について、立会人の要件緩和など投票環境を整備するためのもので、参議院本会議で賛成多数で可決・成立した。",
-          "span": "立会人の要件を緩和するなど投票環境を整備するための改正国民投票法は、参議院本会議で賛成多数で可決・成立しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "「副首都」構想の関連法案は、参議院特別委員会で自民・維新両党の賛成多数で可決された。",
-          "span": "「副首都」構想の関連法案は、24日夜、参議院の特別委員会で採決が行われ、自民・維新両党の賛成多数で可決されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "「副首都」構想の関連法案は、このあと参議院本会議でも採決が行われる見通しである。",
-          "span": "法案は、このあと参議院本会議でも採決が行われる見通しです",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "自民、立民両党は、副首都法案の特別委員会採決で合意した。",
-          "span": "副首都法案の特別委採決で合意した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "改正国民投票法は、憲法改正の国民投票における投票環境整備のための改正であり、参議院本会議で可決・成立した。また、「副首都」構想の関連法案は参議院特別委員会で可決され、本会議での採決が見込まれる。自民、立民両党は同法案の特別委採決で合意した。",
-      "note": "「副首都」法案の特別委員会採決について、NHKは自民・維新両党の賛成多数と報じているが、時事ドットコムは自民・立民両党が採決で合意したと報じている。両者の報道内容に差異はないが、関与政党の記載に違いがある。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issueを「改正国民投票法は、憲法改正の国民投票における投票環境整備のための改正か？」に修正しました。元のissueは、改正国民投票法の内容を問うものではなく、その目的を問う形になっていたため。",
-          "consensusの内容を、factsの内容と一致するように調整しました。元のconsensusは、factsの内容を一部含んでいましたが、より簡潔に事実関係をまとめる形にしました。"
-        ]
-      }
-    },
-    {
-      "headline": "中重レアアース５割超　南鳥島沖試掘の成分分析―本格的な採鉱試験へ・海洋機構など",
-      "slug": "中重レアアス割超南鳥島沖試掘の成分分析本格的な採",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589165?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072400973&g=soc&m=rss"
-        }
-      ],
-      "issue": "南鳥島沖レアアース泥の成分分析結果は、本格的な採鉱試験に進む妥当性を持つか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "南鳥島沖で試掘されたレアアース泥の成分分析結果が公表された。",
+          "t": "プロ野球で巨人が阪神に勝利した。",
           "span": "",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "巨人のルーキー小濱佑斗選手が延長10回にプロ初ホームランとなるツーランを打った。",
+          "span": "延長10回にルーキーの小濱佑斗選手がプロ初ホームランとなるツーランを打って",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "巨人は阪神に勝利したことで、同率で首位に並んだ。",
+          "span": "同率で首位にならびました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "プロ野球で5試合が行われた。",
+          "span": "5試合が行われ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "プロ野球でヤクルトの内山選手が勝負を決める活躍をした。",
+          "span": "内山、勝負決める",
+          "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -115,8 +335,8 @@
           ]
         },
         {
-          "t": "試掘されたレアアース泥の成分のうち、中程度のレアアース（HREE）が5割を超えていた。",
-          "span": "中重レアアース５割超",
+          "t": "巨人の新人小浜選手がプロ初本塁打を打ち、手応えを感じている。",
+          "span": "新人小浜、値千金の一発　プロ初本塁打に手応え",
           "src": [
             {
               "ty": "press",
@@ -126,79 +346,18 @@
         }
       ],
       "positions": [],
-      "consensus": "南鳥島沖で試掘されたレアアース泥の成分分析結果が公表され、中程度のレアアース（HREE）が5割を超えていたことは一致している。本格的な採鉱試験に進むことについては、海洋機構などは前向きな姿勢を示しているが、記事からは他の評価や意見は読み取れないため、評価は割れる可能性がある。",
-      "note": "本記事は分析結果の公表と、それを受けた今後の試験への言及に留まっており、採掘の妥当性や経済性に関する詳細な評価や議論は含まれていない。",
+      "consensus": "プロ野球で巨人は阪神に勝利し、首位に並んだ。新人小浜選手はプロ初本塁打を打った。",
+      "note": "プライバシー配慮のため、選手名は特定可能な範囲で記載。",
       "audit": {
-        "changed": true,
+        "changed": false,
         "issues": [
-          "fact[0].span: 元テキストの「南鳥島レアアース泥 分析結果公表」に修正しました。",
-          "position[0].claim: 「示唆している」を「示唆していると見られる」に修正し、メタ記述の観点（〜と述べている／〜と報じられている）に近づけました。"
+          "fact spanが原文に無い→除去「巨人は阪神に競り勝ち…」"
         ]
       }
     },
     {
-      "headline": "日本赤軍、６人逃亡中　今なお国際手配―警察当局",
-      "slug": "日本赤軍人逃亡中今なお国際手配警察当局",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589178?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072400517&g=soc&m=rss"
-        }
-      ],
-      "issue": "日本赤軍のメンバー6人は現在も国際手配されているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "日本赤軍のメンバー6人が逃亡中であり、現在も国際手配されている。",
-          "span": "逃亡の日本赤軍6人 今も国際手配",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "日本赤軍のメンバー6人が逃亡中であり、現在も国際手配されている。",
-          "span": "日本赤軍、６人逃亡中　今なお国際手配",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "警察当局が日本赤軍のメンバー6人の国際手配を行っている。",
-          "span": "今なお国際手配―警察当局",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "日本赤軍のメンバー6人が逃亡中であり、現在も国際手配されているという事実は、複数の報道機関によって報じられている。",
-      "note": "本件は事実の報道に留まり、評価や意見の対立は見られないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "India's 'cockroach' protesters hold talks with government as stalemate continues",
-      "slug": "Indiascockroachprotester",
+      "headline": "‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs",
+      "slug": "ExtremelydisappointingUS",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -207,19 +366,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/7/24/extremely-disappointing-us-trade-partners-respond-to-trumps-new-tariffs?traffic_source=rss"
         }
       ],
-      "issue": "インドの抗議活動家は政府との交渉を継続するか？",
+      "issue": "米国による新たな関税賦課は、強制労働への懸念に対応するものか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "活動家のソナム・ワンチュク氏が26日間のハンガーストライキを終了すると発表した。",
-          "span": "activist Sonam Wangchuk announced he was ending his 26-day hunger strike",
+          "t": "米国が数十カ国に対し、新たな関税を課した。",
+          "span": "US hits dozens of countries with new wave of tariffs",
           "src": [
             {
               "ty": "press",
@@ -228,8 +387,8 @@
           ]
         },
         {
-          "t": "インドの抗議活動家が政府と交渉を行った。",
-          "span": "India's 'cockroach' protesters hold talks with government",
+          "t": "この関税は、強制労働への懸念を理由に課された。",
+          "span": "Imposed citing forced labour concerns",
           "src": [
             {
               "ty": "press",
@@ -238,28 +397,18 @@
           ]
         },
         {
-          "t": "ウクライナでの攻撃により少なくとも11人が死亡した。",
-          "span": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
+          "t": "この関税は、米国最高裁判所の後に導入された一時的な世界的関税に取って代わるものである。",
+          "span": "the levies replace a temporary global duty brought in after the US Supreme Court",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "ロシアのキロフに対するウクライナの攻撃で6人が死亡した。",
-          "span": "Six people also killed in Ukrainian attack on Russia’s Kirov",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "Wildberriesの倉庫が再び攻撃された。",
-          "span": "Wildberries warehouses hit again",
+          "t": "米国は、強制労働への懸念に関連して、新たな関税の実施を発表した。",
+          "span": "which relate to forced labour claims",
           "src": [
             {
               "ty": "press",
@@ -268,15 +417,51 @@
           ]
         }
       ],
-      "positions": [],
-      "consensus": "インドの抗議活動家は政府と交渉を行った。活動家のソナム・ワンチュク氏は26日間のハンガーストライキを終了すると発表した。ウクライナでの攻撃により少なくとも11人が死亡した。ロシアのキロフに対するウクライナの攻撃で6人が死亡した。Wildberriesの倉庫が再び攻撃された。",
-      "note": "プライバシー配慮のため、インドの抗議活動家の詳細な名称や、ウクライナ紛争における被害者の個人情報は省略した。",
+      "positions": [
+        {
+          "actor": "米国",
+          "stance": "support",
+          "claim": "新たな関税は、強制労働への懸念に対応するために課されたと述べている。",
+          "span": "Imposed citing forced labour concerns",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "米国の貿易相手国",
+          "stance": "attack",
+          "claim": "トランプ政権による新たな関税の実施は「極めて残念」であると述べている。",
+          "span": "‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "米国の貿易相手国",
+          "stance": "attack",
+          "claim": "トランプ政権による新たな関税の実施について疑問を呈している。",
+          "span": "Countries question Trump administration&#039;s latest round of tariffs",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "米国が数十カ国に対し、強制労働への懸念を理由に新たな関税を課したことについて、一部の貿易相手国は「極めて残念」とし、疑問を呈している。",
+      "note": "プライバシー配慮のため、個別の国名は記載しない。トランプ政権の関税措置に対する貿易相手国の反応は、強制労働への懸念という理由付けに対する疑問や失望として表現されている。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[1].spanを元テキストに存在する \"India's 'cockroach' protesters hold talks with government\" に修正しました。",
-          "consensusの内容をfactsの内容と一致するように修正しました。",
-          "fact spanが原文に無い→除去「activist hold talk…」"
+          "positionsのclaimを「〜と述べている」「〜と報じられている」の形式に修正しました。",
+          "factsのtの表現を、より客観的な事実記述に修正しました。"
         ]
       }
     }
