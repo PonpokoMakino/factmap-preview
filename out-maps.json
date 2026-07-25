@@ -1,58 +1,51 @@
 {
-  "builtAt": "2026-07-24T22:31:21.846Z",
+  "builtAt": "2026-07-25T04:26:41.128Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "副首都法が成立　与党提出、野党は反対―特別国会、事実上閉幕",
-      "slug": "副首都法が成立与党提出野党は反対特別国会事実上閉",
-      "independentSources": 3,
+      "headline": "三重 桑名で40.2度 5日連続の「酷暑日」に 熱中症対策を",
+      "slug": "三重桑名で402度5日連続の酷暑日に熱中症対策を",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015185731000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015185701000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589183?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072400116&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072400810&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072500148&g=pol&m=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6589246?source=rss"
         }
       ],
-      "issue": "国会における合意形成のあり方とは何か？",
-      "stasis": "政策",
+      "issue": "",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "国会が事実上閉会した。",
-          "span": "事実上閉会しました",
+          "t": "三重県桑名市で25日午後0時半すぎに40.2度の気温が観測された。",
+          "span": "40.2度を観測しました",
           "src": [
             {
               "ty": "wire",
               "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "「副首都」構想の関連法が成立した。",
-          "span": "副首都法が成立",
+          "t": "国内で40度以上の気温が25日で5日連続で観測された。",
+          "span": "40度以上の気温が観測されたのは25日で5日連続",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁によると、40度以上の気温が5日連続で観測されたのは、統計上比較可能な期間で過去最長を更新した。",
+          "span": "過去最長を更新",
           "src": [
             {
               "ty": "wire",
@@ -61,46 +54,12 @@
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "改正国民投票法が成立した。",
-          "span": "改正国民投票法が成立",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "副首都法は2票差で成立した。",
-          "span": "２票差で成立",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "国会最終盤で与野党の対立が先鋭化し、審議が停滞する場面が見られた。",
-          "span": "与野党の対立が先鋭化して審議が停滞する場面もみられ",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "参議院で与党が過半数に達しない状況が続いている。",
-          "span": "与党が過半数に達しない状況が続く",
+          "t": "東日本と西日本を中心に気温が上昇している。",
+          "span": "東日本と西日本を中心に気温が上がって",
           "src": [
             {
               "ty": "wire",
@@ -109,276 +68,272 @@
           ]
         }
       ],
-      "positions": [
-        {
-          "actor": "与党",
-          "stance": "support",
-          "claim": "与党は改憲発議を目指していると報じられている。",
-          "span": "改憲発議目指す",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "野党",
-          "stance": "attack",
-          "claim": "野党は副首都法に反対したと報じられている。",
-          "span": "反対",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "consensus": "国会における合意形成のあり方が次の国会でも課題となるという認識は共有されているが、その具体的な方法や評価については意見が分かれる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: issueが規範的な問いになっていたため、「国会における合意形成のあり方とは何か？」というより中立的・テーマ的な問いに修正しました。",
-          "メタ記述の徹底: positions[0].claimが地の文の断定になっていたため、「与党は改憲発議を目指していると報じられている。」とメタ記述に修正しました。",
-          "メタ記述の徹底: positions[1].claimが地の文の断定になっていたため、「野党は副首都法に反対したと報じられている。」とメタ記述に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Firefighters struggle to contain Madrid wildfires, as more than 140,000 evacuated in France and Spain",
-      "slug": "Firefightersstruggletoco",
-      "independentSources": 3,
-      "sources": [
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072401226&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/24/spanish-police-accuse-tractor-driver-of-sparking-wildfire-as-blazes-spread?traffic_source=rss"
-        }
-      ],
-      "issue": "スペインとフランスで発生している森林火災の状況と原因について、どのような見解が示されているか？",
-      "stasis": "見解の提示（割れない）",
-      "facts": [
-        {
-          "t": "スペインが森林火災の発生を受け、非常事態宣言を発令した。",
-          "span": "森林火災で非常事態宣言",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "火災はスペインの首都近郊を焼いている。",
-          "span": "首都近郊を焼く",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "フランスとスペインで14万人以上が避難した。",
-          "span": "more than 140,000 evacuated",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "スペインとフランスで熱波によって引き起こされた火災から避難を余儀なくされた人々の数が10万人を超えた。",
-          "span": "passed the 100,000 mark",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "火災は熱波によって引き起こされた。",
-          "span": "heatwave-induced fires",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
       "positions": [],
-      "consensus": "スペインとフランスで大規模な森林火災が発生し、多数の住民が避難を余儀なくされている。火災の深刻度や原因については当局が見解を示している。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: issueが、テキスト内のpositionsが直接対立する問いになっていなかったため、「スペインとフランスで発生している森林火災の状況と原因について、どのような見解が示されているか？」に修正しました。",
-          "争点の立て方: stasisが、positionsが直接対立するものではなかったため、「見解の提示（割れない）」に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Four Palestinians and two Israelis killed in West Bank shooting",
-      "slug": "FourPalestiniansandtwoIs",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss"
-        }
-      ],
-      "issue": "キーウ近郊のドローン展示会へのロシアの攻撃は発生したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ロシアの攻撃により10人が死亡した。",
-          "span": "Ten killed",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "キーウ近郊のドローン展示会が攻撃された。",
-          "span": "Russian attack on drone exhibition near Kyiv",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "このイベントにはウクライナ防衛産業の著名なメンバーが出席していた。",
-          "span": "attended by prominent members of the Ukrainian defence industry",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イベントは弾道ミサイルによって攻撃された。",
-          "span": "hit by ballistic missiles",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ロシアによるキーウ近郊のドローン展示会への攻撃で10人が死亡し、弾道ミサイルが使用された。",
-      "note": "テキストに評価や対立する立場が記述されていないため、事実合意型として処理。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensus欄に、positionsが空であるにもかかわらず「評価は割れる」という記述があったため、事実の要約のみに修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Trump vows to investigate EU over fining of US tech companies",
-      "slug": "TrumpvowstoinvestigateEU",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072500131&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "EUは米国のテクノロジー企業に対する制裁金を撤回すべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "米国大統領がEUに対し「高関税」を警告した。",
-          "span": "高関税",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米国大統領がEUによる米国テクノロジー企業への制裁金について調査すると誓った。",
-          "span": "investigate EU over fining of US tech companies",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "制裁金はGoogle、Apple、Meta、Amazonに対して課されている。",
-          "span": "fines against Google, as well as Apple, Meta and Amazon",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米国大統領はEUによる米国テクノロジー企業への制裁金の撤回を求めているが、EU側の立場は示されておらず、評価は割れる。アプリは裁定しない。",
+      "consensus": "日本各地で記録的な高温が続いており、熱中症対策が呼びかけられている。",
       "note": "",
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].spanが空文字だったため、元テキストの最小核「entirely reversed」に修正しました。",
-          "position spanが原文に無い→除去「制裁金の撤回,entirely re…」"
+          "issue: テキストに議論の対立がないため、問いかけ型のissueを削除しました。"
         ]
+      }
+    },
+    {
+      "headline": "横綱豊昇龍が休場　在位９場所で４度目―大相撲名古屋場所",
+      "slug": "横綱豊昇龍が休場在位場所で度目大相撲名古屋場所",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015185871000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072500295&g=spo&m=rss"
+        }
+      ],
+      "issue": "横綱 豊昇龍の名古屋場所休場に関する状況は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "横綱豊昇龍が名古屋場所14日目（7月25日）から休場する。",
+          "span": "休場することになりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "豊昇龍は名古屋場所13日目までに6敗を喫していた。",
+          "span": "13日目までに6敗",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "今回の休場は、横綱在位9場所で4度目となる。",
+          "span": "在位９場所で４度目",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "横綱 豊昇龍が名古屋場所を休場したことは事実である。",
+      "note": "事実合意型",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "slug": "Morethan220000evacuatedi",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015185881000"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "フランスとスペインにおける山火事の状況",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "フランスとスペインで高温に伴う山火事が拡大している。",
+          "span": "高温にともなう山火事が広がり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フランスとスペインで合わせて少なくとも16万人が避難している。",
+          "span": "合わせて少なくとも16万人が避難",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フランスとスペインで合わせて22万人以上が避難している。",
+          "span": "More than 220,000 evacuated",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フランスとスペインはEU（ヨーロッパ連合）に支援を要請した。",
+          "span": "EU＝ヨーロッパ連合に支援を要請した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フランスでは軍が出動して山火事の対応にあたっている。",
+          "span": "軍が出動して対応にあたっ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フランスの消防士がボルドーに向かう火災と戦っている。",
+          "span": "French firefighters battle a blaze heading towards Bordeaux",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "マドリードの当局は「過去最悪の火災」に直面していると述べている。",
+          "span": "officials in Madrid say they face the \"worst fire in t",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "フランスとスペインで高温に伴う大規模な山火事が発生し、多数の住民が避難している。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[1].t が複数の情報源を合成して「16万人から22万人以上」という範囲を生成していたため、NHKの元テキストに忠実な「少なくとも16万人が避難している」に修正しました。",
+          "facts[6].span が空文字だったため、元テキストから適切なスパン「officials in Madrid say they face the \"worst fire in t」に修正しました。",
+          "fact spanが原文に無い→除去「face the \"worst fi…」"
+        ]
+      }
+    },
+    {
+      "headline": "‘The show must go on’: Trump returns to rescheduled White House press gala",
+      "slug": "TheshowmustgoonTrumpretu",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss"
+        }
+      ],
+      "issue": "トランプ大統領はホワイトハウス記者協会夕食会でどのような行動をとったか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "トランプ大統領が再スケジュールされたホワイトハウス記者協会夕食会に出席した。",
+          "span": "Trump returns to rescheduled White House press gala",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "大統領は夕食会で冗談を言い、対立候補を嘲笑した。",
+          "span": "makes jokes, mocks opponents",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "このイベントは報道の自由を祝うものだった。",
+          "span": "celebrated press freedom",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "最初の夕食会は4月に発生した銃撃事件により中止された。",
+          "span": "cancelled by a shooting in April",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "夕食会は再スケジュールされた。",
+          "span": "rescheduled",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "トランプ大統領が再スケジュールされたホワイトハウス記者協会夕食会に出席し、冗談を言い、対立候補を嘲笑したことは事実として合意されている。このイベントは報道の自由を祝うものであり、最初の夕食会は4月の銃撃事件により中止された後、再スケジュールされた。評価は割れる／アプリは裁定しない。",
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     }
   ]
