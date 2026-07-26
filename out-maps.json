@@ -1,99 +1,64 @@
 {
-  "builtAt": "2026-07-25T10:18:06.148Z",
+  "builtAt": "2026-07-26T10:46:12.152Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
-      "slug": "IsraelarrestsdozensofPal",
-      "independentSources": 2,
+      "headline": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+      "slug": "BecomingthestoryInjuredj",
+      "independentSources": 3,
       "sources": [
+        "NHK 主要ニュース",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186461000"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/25/israel-arrests-dozens-of-palestinians-in-west-bank-amid-settler-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/gallery/2026/7/26/photos-wildfires-in-france-drive-250000-people-from-their-homes?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss"
         }
       ],
-      "issue": "イランが支援するフーシ派によるサウジアラビアへのミサイル攻撃の主張、および米国によるイランの港への封鎖回避を試みたタンカーの無力化、ウクライナのドローン展示会へのロシアによる攻撃、ヨルダン川西岸地区でのパレスチナ人とイスラエル人の死傷者発生とそれに続くイスラエルによるパレスチナ人の逮捕について、それぞれの事実関係と背景は何か？",
+      "issue": "ヨーロッパの山火事による避難者数と影響はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "イランが支援するフーシ派が、サウジアラビアへのミサイル攻撃を主張した。",
-          "span": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+          "t": "ヨーロッパ各地で山火事が発生し、燃え広がっている。",
+          "span": "各地で山火事が発生して火が燃え広がっていて",
           "src": [
             {
               "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フランスとスペインで合わせて34万人以上が山火事のため避難した。",
+          "span": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+          "src": [
+            {
+              "ty": "wire",
               "l": "BBC World"
             }
           ]
         },
         {
-          "t": "米国軍は、イランの港への封鎖を回避しようとしたタンカーを無力化したと発表した。",
-          "span": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "キエフ近郊で開催されたドローン展示会が、弾道ミサイルによって攻撃された。",
-          "span": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ヨルダン川西岸地区での銃撃事件で、パレスチナ人4人とイスラエル人2人が死亡した。",
-          "span": "Four Palestinians and two Israelis killed in West Bank shooting",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "パレスチナ側は、村人が入植者による攻撃を受けたと主張している。",
-          "span": "Palestinians say villagers came under attack by settlers",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イスラエル軍は、パレスチナ人が武器を盗んだと発表している。",
-          "span": "a Palestinian stole a weapon",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イスラエル軍は、ヨルダン川西岸地区で数十人のパレスチナ人を逮捕した。",
-          "span": "Israel arrests dozens of Palestinians in West Bank amid settler attacks",
+          "t": "フランスとスペインで合わせて25万人以上が山火事のため避難した。",
+          "span": "drive 250,000 people from their homes",
           "src": [
             {
               "ty": "press",
@@ -102,8 +67,38 @@
           ]
         },
         {
-          "t": "この軍事作戦は、4人のパレスチナ人と2人のイスラエル兵が死亡した銃撃事件に続いている。",
-          "span": "Military crackdown follows a shooting that killed four Palestinians and two Israeli soldiers",
+          "t": "フランスとスペインで合わせて5万5000人が山火事のため避難した。",
+          "span": "55,000 more people had to be evacuated from their homes overnight.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "スペイン東部で山火事により1人が死亡した。",
+          "span": "スペイン東部では1人が死亡しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フランスのボルドー近郊で山火事が発生し、さらに5万5000人が避難した。",
+          "span": "As the flames approached the city of Bordeaux, 55,000 more people had to be evacuated from their homes overnight.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ツール・ド・フランスの最終ステージが、山火事に対応する緊急サービスへの負担を軽減するため短縮された。",
+          "span": "Sunday’s traditional stage in Paris has been shortened to reduce pressure on emergency services tackling wildfires.",
           "src": [
             {
               "ty": "press",
@@ -113,44 +108,51 @@
         }
       ],
       "positions": [],
-      "consensus": "イランが支援するフーシ派はサウジアラビアへのミサイル攻撃を主張し、米国軍はイランの港への封鎖を回避しようとしたタンカーを無力化したと発表した。キエフ近郊のドローン展示会はロシアによる攻撃を受け、弾道ミサイルで攻撃され死者が出た。ヨルダン川西岸地区での銃撃事件でパレスチナ人4人とイスラエル人2人が死亡し、イスラエル軍は数十人のパレスチナ人を逮捕した。パレスチナ側は入植者による攻撃を主張し、イスラエル軍はパレスチナ人による武器窃盗があったとしている。",
-      "note": "プライバシー配慮のため、事件の詳細な個人情報は省略した。",
+      "consensus": "ヨーロッパ各地で山火事が発生し、フランスとスペインで合わせて34万人以上が避難した。スペイン東部では1人が死亡した。ツール・ド・フランスの最終ステージは短縮された。",
+      "note": "Al Jazeeraの記事には、山火事とは別のガザ地区の状況に関する情報が含まれていますが、本件の争点とは直接関係がないため、事実として抽出しました。",
       "audit": {
         "changed": true,
         "issues": [
-          "factsの3番目の項目で、元のテキストでは「Ten killed in Russian attack on drone exhibition near Kyiv」とあるが、抽出されたJSONでは「キエフ近郊で開催されたドローン展示会が、弾道ミサイルによって攻撃された。」となっており、「Ten killed」の情報が欠落している。spanを「Ten killed in Russian attack on drone exhibition near Kyiv」に変更し、tを「キエフ近郊で開催されたドローン展示会へのロシアによる攻撃で10人が死亡した。」に修正した。",
-          "consensusの最後の文「評価は割れる。」は、元のテキストから直接読み取れる事実ではなく、解釈が含まれるため削除した。"
+          "Fact fact[1] (NHK) and fact[2] (BBC) state the same information about 340,000+ evacuations. Fact fact[3] (Al Jazeera) states 250,000 evacuations. Fact fact[4] (Al Jazeera) states 55,000 evacuations. Fact fact[6] (Al Jazeera) states 55,000 evacuations near Bordeaux. The original JSON aggregated these into a single fact with multiple sources, which is misleading as the numbers differ. Split into separate facts to reflect the source data accurately. Fact fact[1] (NHK) and fact[2] (BBC) are redundant in terms of the core claim about 340,000+ evacuations, but fact[2] has a specific span. Fact fact[3] (Al Jazeera) has a span for 250,000. Fact fact[4] (Al Jazeera) has a span for 55,000. Fact fact[6] (Al Jazeera) also mentions 55,000 near Bordeaux. The original JSON's aggregation of 340,000+ was based on BBC and NHK, but Al Jazeera provided different numbers. The current facts reflect the distinct numbers and their sources. Fact fact[4] and fact[6] are very similar, but fact[6] is more specific about location (Bordeaux). Fact fact[4] is kept as a general statement from Al Jazeera. The original JSON had fact[1] as NHK, fact[2] as BBC, fact[3] as BBC, fact[4] as Al Jazeera, fact[5] as Al Jazeera. The current JSON has fact[1] (NHK), fact[2] (BBC), fact[3] (Al Jazeera 250k), fact[4] (Al Jazeera 55k), fact[5] (NHK 1 death), fact[6] (Al Jazeera 55k Bordeaux), fact[7] (Al Jazeera Tour de France). The original JSON's fact[1] and fact[2] were identical in text but had different sources. Fact[3] was identical text but different source. Fact[4] was identical text but different source. Fact[5] was identical text but different source. This indicates a problem with how the engine handled duplicate claims. The current JSON separates these distinct claims and their sources. Fact fact[8] (Gaza journalists) was removed as it is unrelated to the main issue of European wildfires.",
+          "Fact fact[8] (Gaza journalists) was removed as it is unrelated to the main issue of European wildfires and does not fit the scope of the issue.",
+          "The original JSON had multiple identical facts with different sources. These have been separated to reflect the distinct claims and sources, particularly regarding evacuation numbers from different sources (NHK, BBC, Al Jazeera). Fact fact[1] (NHK) and fact[2] (BBC) both state 340,000+ evacuations. Fact fact[3] (Al Jazeera) states 250,000. Fact fact[4] (Al Jazeera) states 55,000. Fact fact[6] (Al Jazeera) states 55,000 near Bordeaux. The original JSON incorrectly aggregated these. The current JSON separates these distinct figures and their sources. Fact fact[4] and fact[6] are similar but fact[6] is more specific. Fact fact[4] is kept as a general statement from Al Jazeera. Fact fact[8] (Gaza journalists) was removed as it is unrelated to the issue.",
+          "fact spanが原文に無い→除去「合わせて34万人以上が避難する事態と…」"
         ]
       }
     },
     {
-      "headline": "酷暑日５日連続、史上最長記録　山梨と東海、５県６地点で４０度台―熱中症防止を・気象庁",
-      "slug": "酷暑日日連続史上最長記録山梨と東海県地点で度台熱",
-      "independentSources": 2,
+      "headline": "安青錦が３度目Ｖ　大関復帰決めた場所で―大相撲名古屋場所",
+      "slug": "安青錦が度目大関復帰決めた場所で大相撲名古屋場所",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186061000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186751000"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015185701000"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589403?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072500337&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026072600229&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072600267&g=spo&m=rss"
         }
       ],
-      "issue": "記録的な大雨や酷暑は、災害や熱中症のリスクを高めるか？",
+      "issue": "大相撲名古屋場所の優勝者は誰か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "山梨県笛吹市付近で、1時間に約110ミリの猛烈な雨が降ったとみられる。",
-          "span": "レーダーによる解析で午後5時50分までの1時間におよそ110ミリの猛烈な雨が降ったとみられます",
+          "t": "大相撲名古屋場所は千秋楽の26日に終了した。",
+          "span": "千秋楽の26日",
           "src": [
             {
               "ty": "press",
@@ -159,8 +161,8 @@
           ]
         },
         {
-          "t": "国内で40度以上の気温が観測されたのは、25日で5日連続となり、2010年以降で最長記録となった。",
-          "span": "国内で40度以上の気温が観測されたのは25日で5日連続と最も長くなっています",
+          "t": "関脇 安青錦が12勝3敗で優勝した。",
+          "span": "関脇 安青錦が、12勝3敗で",
           "src": [
             {
               "ty": "press",
@@ -169,8 +171,38 @@
           ]
         },
         {
-          "t": "山梨県と東海地方を中心に、5県6地点で40度以上の気温が観測された。",
-          "span": "山梨と東海、５県６地点で４０度台",
+          "t": "安青錦は優勝決定戦で大関 霧島、関脇 熱海富士を破った。",
+          "span": "大関 霧島、関脇 熱海富士との3人による優勝決定戦を制し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "安青錦はことしの初場所以来、3場所ぶり3回目の優勝を果たした。",
+          "span": "ことし初場所以来3回目",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "安青錦は大関復帰を決めた場所で優勝した。",
+          "span": "大関復帰決めた場所で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "幕下では旭富士が優勝した。",
+          "span": "幕下は旭富士が優勝",
           "src": [
             {
               "ty": "press",
@@ -180,40 +212,48 @@
         }
       ],
       "positions": [],
-      "consensus": "山梨県笛吹市付近では記録的な大雨が観測され、災害の危険が迫っていると気象庁は発表した。また、国内では40度以上の酷暑日が5日連続で観測され、2010年以降で最長記録となった。気象庁は熱中症対策の必要性を呼びかけている。",
-      "note": "プライバシー配慮のため、個別の被害状況や個人名は記載しない。",
+      "consensus": "大相撲名古屋場所は関脇 安青錦が12勝3敗で優勝し、3場所ぶり3回目の優勝を果たした。幕下は旭富士が優勝した。",
+      "note": "",
       "audit": {
         "changed": true,
         "issues": [
-          "factの2番目の項目「気象庁は、山梨県笛吹市付近で「記録的短時間大雨」を発表した。」は、元テキストの「気象庁は「記録的短時間大雨」…」という記述から、発表したという事実を直接読み取ることは難しいため削除しました。",
-          "consensusの最後の文「評価は割れる。」は、元テキストから読み取れないため削除しました。"
+          "fact \"安青錦はことしの初場所以来、3場所ぶり3回目の優勝を果たした。\" のspanを \"ことし初場所以来3回目\" に修正しました。元テキストに存在しないspanを削除しました。",
+          "fact spanが原文に無い→除去「ことしの初場所以来、3場所ぶり3回目…」"
         ]
       }
     },
     {
-      "headline": "野球日本代表新監督に井口資仁氏 「世界の頂点を」と意気込み",
-      "slug": "野球日本代表新監督に井口資仁氏世界の頂点をと意気",
+      "headline": "新潟 東北 北陸で大雨 関東など大気不安定 西日本危険な暑さに",
+      "slug": "新潟東北北陸で大雨関東など大気不安定西日本危険な",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186021000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186311000"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072500401&g=spo&m=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726104058_0_VPWW55_080000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726103024_0_VPWW55_080000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726103021_0_VPWW55_060000.xml"
         }
       ],
-      "issue": "野球日本代表の新監督は誰か？",
+      "issue": "新潟県、東北、北陸、茨城県南部、山形県置賜地方における大雨による浸水・冠水・河川増水の危険性はどの程度か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "野球日本代表の新たな監督に井口資仁氏が就任した。",
-          "span": "野球の日本代表の新たな監督に井口資仁氏が就任しました",
+          "t": "前線の影響で、新潟県、東北、北陸地方で梅雨末期のような大雨となっている。",
+          "span": "前線の影響で、新潟県や東北、北陸では梅雨末期のような大雨となり",
           "src": [
             {
               "ty": "press",
@@ -222,8 +262,8 @@
           ]
         },
         {
-          "t": "井口資仁氏は大学時代にアトランタオリンピックに出場し、銀メダルを獲得した経験を持つ。",
-          "span": "大学時代にアトランタオリンピックに出場し、銀メダルを獲得した経験を持つ",
+          "t": "新潟県では浸水や冠水の被害が発生している。",
+          "span": "新潟県では浸水や冠水の被害が発生しています",
           "src": [
             {
               "ty": "press",
@@ -232,26 +272,52 @@
           ]
         },
         {
-          "t": "井口資仁氏は元ロッテ監督である。",
-          "span": "元ロッテ監督",
+          "t": "関東や東海地方でも大気の状態が非常に不安定になり、局地的に雨雲が発達している。",
+          "span": "関東や東海でも大気の状態が非常に不安定になって局地的に雨雲が発達してい",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "茨城県南部では、低い土地の浸水や河川の増水に警戒が必要である。",
+          "span": "低い土地の浸水や河川の増水に警戒してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "茨城県南部では、低い土地の浸水や河川の増水に注意が必要である。",
+          "span": "低い土地の浸水や河川の増水に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "山形県置賜地方では、低い土地の浸水や河川の増水に注意が必要である。",
+          "span": "低い土地の浸水や河川の増水に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "野球日本代表の新監督に井口資仁氏が就任した。井口氏は大学時代にアトランタオリンピックに出場し銀メダルを獲得した経験があり、元ロッテ監督でもある。井口氏は2年後のロサンゼルスオリンピックに向けて、日本の伝統と強みを融合させたチーム作りを目指し、世界の頂点を目指す意気込みを示した。",
-      "note": null,
+      "consensus": "新潟県、東北、北陸地方では梅雨末期のような大雨となり、新潟県では浸水や冠水の被害が発生している。関東や東海地方でも大気の状態が非常に不安定になっている。茨城県南部では低い土地の浸水や河川の増水に警戒・注意が必要であり、山形県置賜地方でも同様に注意が必要である。",
+      "note": "気象庁の発表には「警戒」と「注意」の両方が含まれているが、本件では両者を事実として列挙する。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "issueを「野球日本代表の新監督は井口資仁氏か？」から「野球日本代表の新監督は誰か？」に修正しました。後者の方がより中立的で、事実確認の問いとして適切です。",
-          "consensusの末尾にあった「評価は割れない。」を削除しました。これは抽出エンジンの解釈であり、事実ではありません。",
-          "noteの「プライバシー配慮のため、個人の詳細な経歴や評価に関する情報は最小限に留めた。」を削除しました。これは検品係の判断ではなく、抽出エンジンのメタ情報であり、元テキストの内容とは無関係です。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
