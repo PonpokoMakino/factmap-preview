@@ -1,10 +1,115 @@
 {
-  "builtAt": "2026-07-26T16:32:29.525Z",
+  "builtAt": "2026-07-26T22:09:18.965Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "新潟 東北 北陸で大雨 関東で大気不安定 西日本は危険な暑さに",
-      "slug": "新潟東北北陸で大雨関東で大気不安定西日本は危険な",
+      "headline": "US and Iran hit pause on strikes for second day",
+      "slug": "USandIranhitpauseonstrik",
+      "independentSources": 3,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589421?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072600067&g=int&m=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss"
+        }
+      ],
+      "issue": "イランと米国は、互いの攻撃を停止し、協議による打開を目指しているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "イランは報復を休止した。",
+          "span": "イラン報復休止",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "米国はイランへの攻撃を停止した。",
+          "span": "米軍攻撃停止",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "トランプ米大統領はイランへの攻撃中止を命令した。",
+          "span": "イラン攻撃中止を命令",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "米国とイランは2日連続で攻撃を停止している。",
+          "span": "US and Iran hit pause on strikes for second day",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "外交交渉再開の動きがあるとの報道がある。",
+          "span": "renewed efforts to restore diplomatic talks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "協議での打開が模索されている可能性がある。",
+          "span": "協議での打開模索か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "防空弾不足の懸念もある。",
+          "span": "防空弾不足懸念も",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イランと米国は互いの攻撃を停止しており、外交交渉再開の動きがあるとの報道がある。",
+      "note": "イランと米国双方の攻撃停止と、協議による打開模索の可能性が報じられている。Al Jazeeraは2日連続の攻撃停止と外交交渉再開の動きに言及。時事ドットコムはトランプ大統領の攻撃中止命令と防空弾不足の懸念を報じている。Yahoo!ニュースはイランの報復休止と米軍の攻撃停止を伝えている。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "北陸など土砂災害に厳重警戒 西日本中心に危険な暑さ続く",
+      "slug": "北陸など土砂災害に厳重警戒西日本中心に危険な暑さ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -13,51 +118,35 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186901000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186891000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186881000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186311000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186851000"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161454_0_VXWW50_160000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220720_0_VPWW53_200000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161443_0_VPWW55_160000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220720_0_VPWW54_200000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161443_0_VPWW56_160000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220717_0_VPWW56_200000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161109_0_VPWW53_170000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220507_0_VPWW53_060000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161109_0_VPWW54_170000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726160736_0_VPWW54_170000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220507_0_VPWW54_060000.xml"
         }
       ],
-      "issue": "日本各地の気象状況とそれに伴う災害リスクは何か？",
-      "stasis": "事実",
+      "issue": "土砂災害や浸水、落雷等への厳重な警戒は必要か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "新潟地方気象台は午前0時26分、糸魚川市に「レベル4大雨危険警報」と「レベル4土砂災害危険警報」を発表した。",
-          "span": "レベル4大雨危険警報」と「レベル4土砂災害危険警報」を発表しました",
+          "t": "北陸などでは局地的に雨が強まり、猛烈な雨が降ったとみられている。",
+          "span": "局地的に雨が強まり猛烈な雨が降ったとみられ",
           "src": [
             {
               "ty": "press",
@@ -66,220 +155,148 @@
           ]
         },
         {
-          "t": "気象庁によると、新潟県の糸魚川市付近では午前0時までの1時間におよそ100ミリの猛烈な雨が降ったとみられ、「記録的短時間大雨」が発表された。",
-          "span": "午前0時までの1時間におよそ100ミリの猛烈な雨が降ったとみられます",
+          "t": "27日も東北から九州にかけての広い範囲で大気の非常に不安定な状態が続く。",
+          "span": "東北から九州にかけての広い範囲で大気の非常に不安",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "糸魚川市では低い土地の浸水や川の氾濫の危険性が非常に高まっている。",
-          "span": "低い土地の浸水や川の氾濫の危険性が非常に高くなっていて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "前線の影響により、新潟県、東北、北陸では梅雨末期のような大雨となり、新潟県では浸水や冠水の被害が相次いだ。",
-          "span": "新潟県や東北、北陸では梅雨末期のような大雨となり、新潟県では浸水や冠水の被害が相次ぎました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関東では大気の状態が非常に不安定で、局地的に雨雲が発達している。",
-          "span": "関東でも大気の状態が非常に不安定になって局地的に雨雲が発達していて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "西日本では危険な暑さとなっている。",
-          "span": "西日本は危険な暑さに",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "富山県にレベル4土砂災害危険警報が発表されている。",
-          "span": "レベル４土砂災害危険警報",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "富山県では低い土地の浸水や河川の増水に注意が呼びかけられている。",
-          "span": "低い土地の浸水や河川の増水に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "富山県東部では土砂災害に厳重な警戒が必要である。",
-          "span": "東部では、土砂災害に厳重に警戒してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "石川県加賀では低い土地の浸水に注意が呼びかけられている。",
-          "span": "加賀では、低い土地の浸水に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "石川県では落雷に注意が呼びかけられている。",
-          "span": "石川県では、落雷に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日本各地で大雨や土砂災害、浸水、落雷、高温などの気象災害リスクが高まっており、各気象機関が警報・注意報を発令し、厳重な警戒を呼びかけている。評価は割れるものではなく、アプリは裁定しない。",
-      "note": "",
+      "consensus": "気象庁は、北陸などで猛烈な雨が降ったとみられ、土砂災害や浸水、落雷などへの厳重な警戒を呼びかけている。この呼びかけの妥当性については、アプリは裁定しない。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positions[0].premisesに、根拠となるfacts[0]のインデックスを追加しました。"
+        ]
       }
     },
     {
-      "headline": "安青錦、３度目の優勝　霧島、熱海富士とのともえ戦制す―大相撲名古屋場所",
-      "slug": "安青錦度目の優勝霧島熱海富士とのともえ戦制す大相",
+      "headline": "Berlin Pride attack suspect shot and killed during police operation",
+      "slug": "BerlinPrideattacksuspect",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186751000"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072600267&g=spo&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072600296&g=spo&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072600358&g=spo&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss"
         }
       ],
-      "issue": "安青錦は名古屋場所で優勝したか？",
-      "stasis": "事実",
+      "issue": null,
+      "stasis": null,
       "facts": [
         {
-          "t": "大相撲名古屋場所で関脇 安青錦が優勝した。",
-          "span": "関脇 安青錦が、12勝3敗で並んだ大関 霧島、関脇 熱海富士との3人による優勝決定戦を制し、ことしの初場所以来、3場所ぶり3回目の優勝を果たしました。",
+          "t": "ベルリン西部で、警察官にナイフで襲いかかったアブドゥル・バロット容疑者が警察の作戦中に射殺された。",
+          "span": "shot and killed after he rushed at officers with a knife",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "安青錦は12勝3敗で優勝決定戦に進んだ。",
-          "span": "12勝3敗で並んだ大関 霧島、関脇 熱海富士との3人による優勝決定戦を制し",
+          "t": "容疑者がティアガルテン付近で車を群衆に突っ込ませた。",
+          "span": "drove a car into a crowd",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "優勝決定戦には大関 霧島と関脇 熱海富士も進んだ。",
-          "span": "大関 霧島、関脇 熱海富士との3人による優勝決定戦",
+          "t": "キーウ近郊のドローン展示会に対するロシアの攻撃で10人が死亡した。",
+          "span": "Ten killed in Russian attack",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "安青錦はこれが3場所ぶり3回目の優勝である。",
-          "span": "ことしの初場所以来、3場所ぶり3回目の優勝",
+          "t": "このイベントにはウクライナ国防産業の著名なメンバーが出席していた。",
+          "span": "attended by prominent members of the Ukrainian defence industry",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "安青錦は大関復帰を決めた場所で優勝した。",
-          "span": "安青錦が３度目Ｖ　大関復帰決めた場所で",
+          "t": "展示会は弾道ミサイルによって攻撃された。",
+          "span": "hit by ballistic missiles",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "ty": "wire",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "安青錦は霧島、熱海富士との巴戦を制して優勝した。",
-          "span": "安青錦、３度目の優勝　霧島、熱海富士とのともえ戦制す",
+          "t": "イランが支援するフーシ派がサウジアラビアへのミサイル攻撃を主張した。",
+          "span": "claim missile attack on Saudi Arabia",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "ty": "wire",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "安青錦は巴戦を制して3度目の優勝を果たした。",
-          "span": "弱み見せず、劇的Ｖ３　安青錦、ともえ戦制す",
+          "t": "米軍は、イランの港に対するアメリカの封鎖を回避しようとしていたタンカーを無力化したと発表した。",
+          "span": "disabled a tanker that was attempting to evade the American blockade on Iranian ports",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イランが支援するフーシ派部隊は、イエメン北西部でサウジアラビアの偵察ドローンを撃墜したと主張した。",
+          "span": "claim they shot down a Saudi reconnaissance drone",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "安青錦は名古屋場所で優勝した。",
-      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "ベルリンのプライド攻撃に関する事実と、ドイツ首相による評価が報じられている。その他の国際的な事件についても事実が報じられている。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "争点の立て方: テキストに明示的な対立や議論が提示されていないため、issueとstasisをnullに修正しました。consensusも、テキストにない推測部分（「評価は割れる可能性があるが、アプリは裁定しない」）を削除し、事実の記述に修正しました。"
+        ]
       }
     },
     {
@@ -385,86 +402,6 @@
       "positions": [],
       "consensus": "イスラエル入植者によるヨルダン川西岸地区での攻撃と、イスラエル軍によるガザ地区での攻撃があったことは一致しているが、その状況や背景については異なる主張がある。",
       "note": "プライバシーに配慮し、個別の事件の詳細や被害者の特定につながる情報は含めていない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "トランプ米大統領、イラン攻撃中止を命令　協議での打開模索か、防空弾不足懸念も",
-      "slug": "トランプ米大統領イラン攻撃中止を命令協議での打開",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589421?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072600067&g=int&m=rss"
-        }
-      ],
-      "issue": "イランは米軍の攻撃停止を受けて報復を休止するか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "イランが報復を休止すると報じられた。",
-          "span": "イラン報復休止",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "米軍の攻撃が停止した。",
-          "span": "米軍攻撃停止受け",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "トランプ米大統領がイランへの攻撃中止を命令した。",
-          "span": "トランプ米大統領、イラン攻撃中止を命令",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "協議での打開が模索されている可能性がある。",
-          "span": "協議での打開模索か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "防空弾の不足が懸念されている可能性がある。",
-          "span": "防空弾不足懸念も",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イランが報復を休止し、米軍の攻撃が停止したことは報じられている。トランプ米大統領はイランへの攻撃中止を命令した。協議での打開や防空弾不足の懸念も報じられている。",
-      "note": "複数の情報源から事実関係が報じられているが、評価や今後の展開に関する対立する立場は明示されていないため、positionsは空とする。",
       "audit": {
         "changed": false,
         "issues": []
