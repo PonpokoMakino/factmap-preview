@@ -1,44 +1,63 @@
 {
-  "builtAt": "2026-07-26T10:46:12.152Z",
+  "builtAt": "2026-07-26T16:32:29.525Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-      "slug": "BecomingthestoryInjuredj",
-      "independentSources": 3,
+      "headline": "新潟 東北 北陸で大雨 関東で大気不安定 西日本は危険な暑さに",
+      "slug": "新潟東北北陸で大雨関東で大気不安定西日本は危険な",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "BBC World",
-        "Al Jazeera"
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186461000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186901000"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186891000"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/gallery/2026/7/26/photos-wildfires-in-france-drive-250000-people-from-their-homes?traffic_source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186881000"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186311000"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/26/tour-de-france-final-stage-shortened-as-emergency-teams-tackle-wildfires?traffic_source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161454_0_VXWW50_160000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161443_0_VPWW55_160000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161443_0_VPWW56_160000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161109_0_VPWW53_170000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726161109_0_VPWW54_170000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726160736_0_VPWW54_170000.xml"
         }
       ],
-      "issue": "ヨーロッパの山火事による避難者数と影響はどうか？",
+      "issue": "日本各地の気象状況とそれに伴う災害リスクは何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ヨーロッパ各地で山火事が発生し、燃え広がっている。",
-          "span": "各地で山火事が発生して火が燃え広がっていて",
+          "t": "新潟地方気象台は午前0時26分、糸魚川市に「レベル4大雨危険警報」と「レベル4土砂災害危険警報」を発表した。",
+          "span": "レベル4大雨危険警報」と「レベル4土砂災害危険警報」を発表しました",
           "src": [
             {
               "ty": "press",
@@ -47,38 +66,8 @@
           ]
         },
         {
-          "t": "フランスとスペインで合わせて34万人以上が山火事のため避難した。",
-          "span": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "フランスとスペインで合わせて25万人以上が山火事のため避難した。",
-          "span": "drive 250,000 people from their homes",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "フランスとスペインで合わせて5万5000人が山火事のため避難した。",
-          "span": "55,000 more people had to be evacuated from their homes overnight.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "スペイン東部で山火事により1人が死亡した。",
-          "span": "スペイン東部では1人が死亡しました",
+          "t": "気象庁によると、新潟県の糸魚川市付近では午前0時までの1時間におよそ100ミリの猛烈な雨が降ったとみられ、「記録的短時間大雨」が発表された。",
+          "span": "午前0時までの1時間におよそ100ミリの猛烈な雨が降ったとみられます",
           "src": [
             {
               "ty": "press",
@@ -87,46 +76,110 @@
           ]
         },
         {
-          "t": "フランスのボルドー近郊で山火事が発生し、さらに5万5000人が避難した。",
-          "span": "As the flames approached the city of Bordeaux, 55,000 more people had to be evacuated from their homes overnight.",
+          "t": "糸魚川市では低い土地の浸水や川の氾濫の危険性が非常に高まっている。",
+          "span": "低い土地の浸水や川の氾濫の危険性が非常に高くなっていて",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ツール・ド・フランスの最終ステージが、山火事に対応する緊急サービスへの負担を軽減するため短縮された。",
-          "span": "Sunday’s traditional stage in Paris has been shortened to reduce pressure on emergency services tackling wildfires.",
+          "t": "前線の影響により、新潟県、東北、北陸では梅雨末期のような大雨となり、新潟県では浸水や冠水の被害が相次いだ。",
+          "span": "新潟県や東北、北陸では梅雨末期のような大雨となり、新潟県では浸水や冠水の被害が相次ぎました",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "関東では大気の状態が非常に不安定で、局地的に雨雲が発達している。",
+          "span": "関東でも大気の状態が非常に不安定になって局地的に雨雲が発達していて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "西日本では危険な暑さとなっている。",
+          "span": "西日本は危険な暑さに",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "富山県にレベル4土砂災害危険警報が発表されている。",
+          "span": "レベル４土砂災害危険警報",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "富山県では低い土地の浸水や河川の増水に注意が呼びかけられている。",
+          "span": "低い土地の浸水や河川の増水に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "富山県東部では土砂災害に厳重な警戒が必要である。",
+          "span": "東部では、土砂災害に厳重に警戒してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "石川県加賀では低い土地の浸水に注意が呼びかけられている。",
+          "span": "加賀では、低い土地の浸水に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "石川県では落雷に注意が呼びかけられている。",
+          "span": "石川県では、落雷に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ヨーロッパ各地で山火事が発生し、フランスとスペインで合わせて34万人以上が避難した。スペイン東部では1人が死亡した。ツール・ド・フランスの最終ステージは短縮された。",
-      "note": "Al Jazeeraの記事には、山火事とは別のガザ地区の状況に関する情報が含まれていますが、本件の争点とは直接関係がないため、事実として抽出しました。",
+      "consensus": "日本各地で大雨や土砂災害、浸水、落雷、高温などの気象災害リスクが高まっており、各気象機関が警報・注意報を発令し、厳重な警戒を呼びかけている。評価は割れるものではなく、アプリは裁定しない。",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "Fact fact[1] (NHK) and fact[2] (BBC) state the same information about 340,000+ evacuations. Fact fact[3] (Al Jazeera) states 250,000 evacuations. Fact fact[4] (Al Jazeera) states 55,000 evacuations. Fact fact[6] (Al Jazeera) states 55,000 evacuations near Bordeaux. The original JSON aggregated these into a single fact with multiple sources, which is misleading as the numbers differ. Split into separate facts to reflect the source data accurately. Fact fact[1] (NHK) and fact[2] (BBC) are redundant in terms of the core claim about 340,000+ evacuations, but fact[2] has a specific span. Fact fact[3] (Al Jazeera) has a span for 250,000. Fact fact[4] (Al Jazeera) has a span for 55,000. Fact fact[6] (Al Jazeera) also mentions 55,000 near Bordeaux. The original JSON's aggregation of 340,000+ was based on BBC and NHK, but Al Jazeera provided different numbers. The current facts reflect the distinct numbers and their sources. Fact fact[4] and fact[6] are very similar, but fact[6] is more specific about location (Bordeaux). Fact fact[4] is kept as a general statement from Al Jazeera. The original JSON had fact[1] as NHK, fact[2] as BBC, fact[3] as BBC, fact[4] as Al Jazeera, fact[5] as Al Jazeera. The current JSON has fact[1] (NHK), fact[2] (BBC), fact[3] (Al Jazeera 250k), fact[4] (Al Jazeera 55k), fact[5] (NHK 1 death), fact[6] (Al Jazeera 55k Bordeaux), fact[7] (Al Jazeera Tour de France). The original JSON's fact[1] and fact[2] were identical in text but had different sources. Fact[3] was identical text but different source. Fact[4] was identical text but different source. Fact[5] was identical text but different source. This indicates a problem with how the engine handled duplicate claims. The current JSON separates these distinct claims and their sources. Fact fact[8] (Gaza journalists) was removed as it is unrelated to the main issue of European wildfires.",
-          "Fact fact[8] (Gaza journalists) was removed as it is unrelated to the main issue of European wildfires and does not fit the scope of the issue.",
-          "The original JSON had multiple identical facts with different sources. These have been separated to reflect the distinct claims and sources, particularly regarding evacuation numbers from different sources (NHK, BBC, Al Jazeera). Fact fact[1] (NHK) and fact[2] (BBC) both state 340,000+ evacuations. Fact fact[3] (Al Jazeera) states 250,000. Fact fact[4] (Al Jazeera) states 55,000. Fact fact[6] (Al Jazeera) states 55,000 near Bordeaux. The original JSON incorrectly aggregated these. The current JSON separates these distinct figures and their sources. Fact fact[4] and fact[6] are similar but fact[6] is more specific. Fact fact[4] is kept as a general statement from Al Jazeera. Fact fact[8] (Gaza journalists) was removed as it is unrelated to the issue.",
-          "fact spanが原文に無い→除去「合わせて34万人以上が避難する事態と…」"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "安青錦が３度目Ｖ　大関復帰決めた場所で―大相撲名古屋場所",
-      "slug": "安青錦が度目大関復帰決めた場所で大相撲名古屋場所",
-      "independentSources": 3,
+      "headline": "安青錦、３度目の優勝　霧島、熱海富士とのともえ戦制す―大相撲名古屋場所",
+      "slug": "安青錦度目の優勝霧島熱海富士とのともえ戦制す大相",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
@@ -135,24 +188,24 @@
           "link": "https://news.web.nhk/newsweb/na/na-k10015186751000"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589403?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072600229&g=spo&m=rss"
-        },
-        {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026072600267&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072600296&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072600358&g=spo&m=rss"
         }
       ],
-      "issue": "大相撲名古屋場所の優勝者は誰か？",
+      "issue": "安青錦は名古屋場所で優勝したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "大相撲名古屋場所は千秋楽の26日に終了した。",
-          "span": "千秋楽の26日",
+          "t": "大相撲名古屋場所で関脇 安青錦が優勝した。",
+          "span": "関脇 安青錦が、12勝3敗で並んだ大関 霧島、関脇 熱海富士との3人による優勝決定戦を制し、ことしの初場所以来、3場所ぶり3回目の優勝を果たしました。",
           "src": [
             {
               "ty": "press",
@@ -161,8 +214,8 @@
           ]
         },
         {
-          "t": "関脇 安青錦が12勝3敗で優勝した。",
-          "span": "関脇 安青錦が、12勝3敗で",
+          "t": "安青錦は12勝3敗で優勝決定戦に進んだ。",
+          "span": "12勝3敗で並んだ大関 霧島、関脇 熱海富士との3人による優勝決定戦を制し",
           "src": [
             {
               "ty": "press",
@@ -171,8 +224,8 @@
           ]
         },
         {
-          "t": "安青錦は優勝決定戦で大関 霧島、関脇 熱海富士を破った。",
-          "span": "大関 霧島、関脇 熱海富士との3人による優勝決定戦を制し",
+          "t": "優勝決定戦には大関 霧島と関脇 熱海富士も進んだ。",
+          "span": "大関 霧島、関脇 熱海富士との3人による優勝決定戦",
           "src": [
             {
               "ty": "press",
@@ -181,8 +234,8 @@
           ]
         },
         {
-          "t": "安青錦はことしの初場所以来、3場所ぶり3回目の優勝を果たした。",
-          "span": "ことし初場所以来3回目",
+          "t": "安青錦はこれが3場所ぶり3回目の優勝である。",
+          "span": "ことしの初場所以来、3場所ぶり3回目の優勝",
           "src": [
             {
               "ty": "press",
@@ -192,7 +245,7 @@
         },
         {
           "t": "安青錦は大関復帰を決めた場所で優勝した。",
-          "span": "大関復帰決めた場所で",
+          "span": "安青錦が３度目Ｖ　大関復帰決めた場所で",
           "src": [
             {
               "ty": "press",
@@ -201,8 +254,18 @@
           ]
         },
         {
-          "t": "幕下では旭富士が優勝した。",
-          "span": "幕下は旭富士が優勝",
+          "t": "安青錦は霧島、熱海富士との巴戦を制して優勝した。",
+          "span": "安青錦、３度目の優勝　霧島、熱海富士とのともえ戦制す",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "安青錦は巴戦を制して3度目の優勝を果たした。",
+          "span": "弱み見せず、劇的Ｖ３　安青錦、ともえ戦制す",
           "src": [
             {
               "ty": "press",
@@ -212,117 +275,16 @@
         }
       ],
       "positions": [],
-      "consensus": "大相撲名古屋場所は関脇 安青錦が12勝3敗で優勝し、3場所ぶり3回目の優勝を果たした。幕下は旭富士が優勝した。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "fact \"安青錦はことしの初場所以来、3場所ぶり3回目の優勝を果たした。\" のspanを \"ことし初場所以来3回目\" に修正しました。元テキストに存在しないspanを削除しました。",
-          "fact spanが原文に無い→除去「ことしの初場所以来、3場所ぶり3回目…」"
-        ]
-      }
-    },
-    {
-      "headline": "新潟 東北 北陸で大雨 関東など大気不安定 西日本危険な暑さに",
-      "slug": "新潟東北北陸で大雨関東など大気不安定西日本危険な",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186311000"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726104058_0_VPWW55_080000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726103024_0_VPWW55_080000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726103021_0_VPWW55_060000.xml"
-        }
-      ],
-      "issue": "新潟県、東北、北陸、茨城県南部、山形県置賜地方における大雨による浸水・冠水・河川増水の危険性はどの程度か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "前線の影響で、新潟県、東北、北陸地方で梅雨末期のような大雨となっている。",
-          "span": "前線の影響で、新潟県や東北、北陸では梅雨末期のような大雨となり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "新潟県では浸水や冠水の被害が発生している。",
-          "span": "新潟県では浸水や冠水の被害が発生しています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関東や東海地方でも大気の状態が非常に不安定になり、局地的に雨雲が発達している。",
-          "span": "関東や東海でも大気の状態が非常に不安定になって局地的に雨雲が発達してい",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "茨城県南部では、低い土地の浸水や河川の増水に警戒が必要である。",
-          "span": "低い土地の浸水や河川の増水に警戒してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "茨城県南部では、低い土地の浸水や河川の増水に注意が必要である。",
-          "span": "低い土地の浸水や河川の増水に注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "山形県置賜地方では、低い土地の浸水や河川の増水に注意が必要である。",
-          "span": "低い土地の浸水や河川の増水に注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "新潟県、東北、北陸地方では梅雨末期のような大雨となり、新潟県では浸水や冠水の被害が発生している。関東や東海地方でも大気の状態が非常に不安定になっている。茨城県南部では低い土地の浸水や河川の増水に警戒・注意が必要であり、山形県置賜地方でも同様に注意が必要である。",
-      "note": "気象庁の発表には「警戒」と「注意」の両方が含まれているが、本件では両者を事実として列挙する。",
+      "consensus": "安青錦は名古屋場所で優勝した。",
+      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "slug": "Zelenskytriestofixcrisis",
+      "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "slug": "Israelisettlerssetfireto",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -331,19 +293,27 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss"
         }
       ],
-      "issue": "政治的指導者の人事決定や行動は適切か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "イスラエル入植者によるパレスチナ人への攻撃と、ガザ地区でのイスラエル軍による攻撃は、どのような状況下で行われたか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "ゼレンスキー大統領は国防大臣解任を巡る危機を解決しようと試みている。",
-          "span": "Zelensky tries to fix crisis over removal of defence minister",
+          "t": "イスラエル入植者がヨルダン川西岸地区でモスク、車、農地に放火したとパレスチナ人が主張している。",
+          "span": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
           "src": [
             {
               "ty": "press",
@@ -352,8 +322,8 @@
           ]
         },
         {
-          "t": "ゼレンスキー大統領によるミハイロ・フェドロフ国防大臣解任の決定に対し、抗議活動が続いている。",
-          "span": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov",
+          "t": "入植者とパレスチナ人の衝突の後、ヨルダン川西岸地区でパレスチナ人4人とイスラエル人2人が死亡した。",
+          "span": "Four Palestinians and two Israelis killed in West Bank shooting",
           "src": [
             {
               "ty": "press",
@@ -362,8 +332,28 @@
           ]
         },
         {
-          "t": "インドの教育大臣が辞任した。",
-          "span": "India’s education minister resigns",
+          "t": "パレスチナ人は、村がイスラエル入植者の襲撃を受けたと主張している。",
+          "span": "Palestinians say villagers came under attack by settlers",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエル軍は、パレスチナ人が武器を盗んだと主張している。",
+          "span": "while the Israeli military says a Palestinian stole a weapon",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルがガザ中部でダブルタップ攻撃を実施した。",
+          "span": "Israel carries out double tap strike in central Gaza",
           "src": [
             {
               "ty": "press",
@@ -372,8 +362,8 @@
           ]
         },
         {
-          "t": "ダルメンドラ・プラダンが辞任した。",
-          "span": "Dharmendra Pradhan quits",
+          "t": "イスラエルによる車両への空爆で、ハマスの治安関係者2名が死亡した。",
+          "span": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
           "src": [
             {
               "ty": "press",
@@ -382,8 +372,8 @@
           ]
         },
         {
-          "t": "この辞任は、数週間にわたる「ゴキブリ」抗議活動の後に行われた。",
-          "span": "after weeks of ‘Cockroach’ protests",
+          "t": "死亡したうちの一人は、ガザ中部のハマス内部治安責任者だった。",
+          "span": "The head of internal security for Hamas in central Gaza was among the dead.",
           "src": [
             {
               "ty": "press",
@@ -393,15 +383,91 @@
         }
       ],
       "positions": [],
-      "consensus": "政治的指導者の人事決定や行動は、国民の抗議や評価の対象となる。",
-      "note": "ゼレンスキー大統領に関するコメンテーターの立場は、原文が途中で途切れているため、正確に抽出できませんでした。",
+      "consensus": "イスラエル入植者によるヨルダン川西岸地区での攻撃と、イスラエル軍によるガザ地区での攻撃があったことは一致しているが、その状況や背景については異なる主張がある。",
+      "note": "プライバシーに配慮し、個別の事件の詳細や被害者の特定につながる情報は含めていない。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄 (facts[5]) に評価が混入していたため、positions に移動し、メタ記述 (claim) と span を修正しました。",
-          "positions に移動した項目に対し、関連する事実 (premises) を追加しました。",
-          "fact spanが原文に無い→除去「first major conces…」"
-        ]
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "トランプ米大統領、イラン攻撃中止を命令　協議での打開模索か、防空弾不足懸念も",
+      "slug": "トランプ米大統領イラン攻撃中止を命令協議での打開",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589421?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072600067&g=int&m=rss"
+        }
+      ],
+      "issue": "イランは米軍の攻撃停止を受けて報復を休止するか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "イランが報復を休止すると報じられた。",
+          "span": "イラン報復休止",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "米軍の攻撃が停止した。",
+          "span": "米軍攻撃停止受け",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "トランプ米大統領がイランへの攻撃中止を命令した。",
+          "span": "トランプ米大統領、イラン攻撃中止を命令",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "協議での打開が模索されている可能性がある。",
+          "span": "協議での打開模索か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "防空弾の不足が懸念されている可能性がある。",
+          "span": "防空弾不足懸念も",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イランが報復を休止し、米軍の攻撃が停止したことは報じられている。トランプ米大統領はイランへの攻撃中止を命令した。協議での打開や防空弾不足の懸念も報じられている。",
+      "note": "複数の情報源から事実関係が報じられているが、評価や今後の展開に関する対立する立場は明示されていないため、positionsは空とする。",
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     }
   ]
