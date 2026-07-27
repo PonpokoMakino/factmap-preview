@@ -1,189 +1,26 @@
 {
-  "builtAt": "2026-07-26T22:09:18.965Z",
+  "builtAt": "2026-07-27T04:06:58.122Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "US and Iran hit pause on strikes for second day",
-      "slug": "USandIranhitpauseonstrik",
-      "independentSources": 3,
+      "headline": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
+      "slug": "RussiaandUkrainetradeatt",
+      "independentSources": 4,
       "sources": [
         "Yahoo!ニュース 主要",
         "時事ドットコム",
+        "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589421?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6589479?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072600067&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026072700121&g=int&m=rss"
         },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/26/us-and-iran-hit-pause-on-strikes-for-second-day?traffic_source=rss"
-        }
-      ],
-      "issue": "イランと米国は、互いの攻撃を停止し、協議による打開を目指しているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "イランは報復を休止した。",
-          "span": "イラン報復休止",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "米国はイランへの攻撃を停止した。",
-          "span": "米軍攻撃停止",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "トランプ米大統領はイランへの攻撃中止を命令した。",
-          "span": "イラン攻撃中止を命令",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米国とイランは2日連続で攻撃を停止している。",
-          "span": "US and Iran hit pause on strikes for second day",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "外交交渉再開の動きがあるとの報道がある。",
-          "span": "renewed efforts to restore diplomatic talks",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "協議での打開が模索されている可能性がある。",
-          "span": "協議での打開模索か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "防空弾不足の懸念もある。",
-          "span": "防空弾不足懸念も",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イランと米国は互いの攻撃を停止しており、外交交渉再開の動きがあるとの報道がある。",
-      "note": "イランと米国双方の攻撃停止と、協議による打開模索の可能性が報じられている。Al Jazeeraは2日連続の攻撃停止と外交交渉再開の動きに言及。時事ドットコムはトランプ大統領の攻撃中止命令と防空弾不足の懸念を報じている。Yahoo!ニュースはイランの報復休止と米軍の攻撃停止を伝えている。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "北陸など土砂災害に厳重警戒 西日本中心に危険な暑さ続く",
-      "slug": "北陸など土砂災害に厳重警戒西日本中心に危険な暑さ",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015186851000"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220720_0_VPWW53_200000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220720_0_VPWW54_200000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220717_0_VPWW56_200000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220507_0_VPWW53_060000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260726220507_0_VPWW54_060000.xml"
-        }
-      ],
-      "issue": "土砂災害や浸水、落雷等への厳重な警戒は必要か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "北陸などでは局地的に雨が強まり、猛烈な雨が降ったとみられている。",
-          "span": "局地的に雨が強まり猛烈な雨が降ったとみられ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "27日も東北から九州にかけての広い範囲で大気の非常に不安定な状態が続く。",
-          "span": "東北から九州にかけての広い範囲で大気の非常に不安",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "気象庁は、北陸などで猛烈な雨が降ったとみられ、土砂災害や浸水、落雷などへの厳重な警戒を呼びかけている。この呼びかけの妥当性については、アプリは裁定しない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].premisesに、根拠となるfacts[0]のインデックスを追加しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Berlin Pride attack suspect shot and killed during police operation",
-      "slug": "BerlinPrideattacksuspect",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
         {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
@@ -197,90 +34,134 @@
           "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/27/russia-and-ukraine-trade-attacks-killing-10-including-child-in-chernihiv?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/houthis-claim-saudi-drone-downed-over-northwestern-yemen?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/liveblog/2026/7/27/iran-war-live-iran-halts-retaliatory-strikes-after-pause-in-us-attacks?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei?traffic_source=rss"
         }
       ],
-      "issue": null,
-      "stasis": null,
+      "issue": "国際的な紛争や攻撃の応酬は、平和的解決への道筋を示しているか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "ベルリン西部で、警察官にナイフで襲いかかったアブドゥル・バロット容疑者が警察の作戦中に射殺された。",
-          "span": "shot and killed after he rushed at officers with a knife",
+          "t": "米軍司令官がイランへの攻撃停止を進言したと報じられている。",
+          "span": "イラン攻撃停止進言か",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "イランが報復攻撃を停止した。",
+          "span": "報復を停止",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ベルリンでの警察作戦中に、ベルリンプライド攻撃の容疑者が射殺された。",
+          "span": "Berlin Pride attack suspect shot and killed during police operation",
+          "src": [
+            {
+              "ty": "press",
               "l": "BBC World"
             }
           ]
         },
         {
-          "t": "容疑者がティアガルテン付近で車を群衆に突っ込ませた。",
-          "span": "drove a car into a crowd",
+          "t": "警察は、アブドゥル・バロットがベルリン西部の地区で警官にナイフを持って突進した後、射殺されたと述べている。",
+          "span": "Abdul Ballout was shot and killed after he rushed at officers with a knife",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "容疑者がティアガルテン近くの群衆に車で突っ込んだ。",
+          "span": "drove a car into a crowd near the Tier",
+          "src": [
+            {
+              "ty": "press",
               "l": "BBC World"
             }
           ]
         },
         {
           "t": "キーウ近郊のドローン展示会に対するロシアの攻撃で10人が死亡した。",
-          "span": "Ten killed in Russian attack",
+          "span": "Ten killed in Russian attack on drone exhibition near Kyiv",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "BBC World"
             }
           ]
         },
         {
-          "t": "このイベントにはウクライナ国防産業の著名なメンバーが出席していた。",
-          "span": "attended by prominent members of the Ukrainian defence industry",
+          "t": "ウクライナ国防産業の著名なメンバーが出席していたこのイベントは、弾道ミサイルによって攻撃された。",
+          "span": "was hit by ballistic missiles",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "BBC World"
             }
           ]
         },
         {
-          "t": "展示会は弾道ミサイルによって攻撃された。",
-          "span": "hit by ballistic missiles",
+          "t": "ロシアとウクライナが攻撃を応酬し、チェルニーヒウで子供を含む10人が死亡した。",
+          "span": "Russia and Ukraine trade attacks, killing 10, including child in Chernihiv",
           "src": [
             {
-              "ty": "wire",
-              "l": "BBC World"
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "イランが支援するフーシ派がサウジアラビアへのミサイル攻撃を主張した。",
-          "span": "claim missile attack on Saudi Arabia",
+          "t": "キーウは、ロシアの攻撃によりスーパーマーケットで子供を含む6人が死亡したと述べている。",
+          "span": "Russian strikes killed six, including a child at a supermarket",
           "src": [
             {
-              "ty": "wire",
-              "l": "BBC World"
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "米軍は、イランの港に対するアメリカの封鎖を回避しようとしていたタンカーを無力化したと発表した。",
-          "span": "disabled a tanker that was attempting to evade the American blockade on Iranian ports",
+          "t": "モスクワは、ウクライナの攻撃により4人が死亡したと述べている。",
+          "span": "Ukrainian strikes killed four",
           "src": [
             {
-              "ty": "wire",
-              "l": "BBC World"
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "イランが支援するフーシ派部隊は、イエメン北西部でサウジアラビアの偵察ドローンを撃墜したと主張した。",
-          "span": "claim they shot down a Saudi reconnaissance drone",
+          "t": "米国がイランに対する2週間の爆撃作戦を一時停止した。",
+          "span": "The US has paused its two-week bombing campaign against Iran",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "テヘランは、米国が攻撃を一時停止したことを受けて、報復攻撃を停止した。",
+          "span": "Tehran to suspend its retaliatory attacks",
           "src": [
             {
               "ty": "press",
@@ -289,122 +170,391 @@
           ]
         }
       ],
-      "positions": [],
-      "consensus": "ベルリンのプライド攻撃に関する事実と、ドイツ首相による評価が報じられている。その他の国際的な事件についても事実が報じられている。",
+      "positions": [
+        {
+          "actor": "米側",
+          "stance": "attack",
+          "claim": "戦闘激化への懸念を表明している。",
+          "span": "戦闘激化に懸念",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "actor": "フリードリヒ・メルツ独首相",
+          "stance": "neutral",
+          "claim": "ベルリンの攻撃を「凶悪」だと非難している。",
+          "span": "condemns the attack as \"heinous\"",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "イランの最高指導者",
+          "stance": "support",
+          "claim": "イスラエルによるレバノンへの攻撃の「絶対的かつ無条件の停止」を求めている。",
+          "span": "",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "イランの最高指導者",
+          "stance": "support",
+          "claim": "米国とイランの和平合意を、イスラエルによるレバノンへの攻撃停止と関連付けている。",
+          "span": "ties US-Iran peace deal to Israel ending attacks on Lebanon",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "複数の国際的な紛争や攻撃の応酬が報じられており、その平和的解決への道筋については評価が割れる。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: テキストに明示的な対立や議論が提示されていないため、issueとstasisをnullに修正しました。consensusも、テキストにない推測部分（「評価は割れる可能性があるが、アプリは裁定しない」）を削除し、事実の記述に修正しました。"
+          "positions[2].span が空だったので、元テキストから適切なスパン 'calls for 'absolute, unconditional termination' of Israel's attacks on Lebanon' を抽出して修正しました。",
+          "position spanが原文に無い→除去「calls for 'absolut…」"
         ]
       }
     },
     {
-      "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "slug": "Israelisettlerssetfireto",
+      "headline": "皇位継承、有識者会議は不要　高市首相、暗号資産に関与否定―衆院予算委で閉会中審査",
+      "slug": "皇位継承有識者会議は不要高市首相暗号資産に関与否",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015187101000"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072700185&g=pol&m=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072700245&g=pol&m=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072700266&g=pol&m=rss"
         }
       ],
-      "issue": "イスラエル入植者によるパレスチナ人への攻撃と、ガザ地区でのイスラエル軍による攻撃は、どのような状況下で行われたか？",
-      "stasis": "事実",
+      "issue": "高市政権の物価高対策は適切か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "イスラエル入植者がヨルダン川西岸地区でモスク、車、農地に放火したとパレスチナ人が主張している。",
-          "span": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+          "t": "衆議院予算委員会で集中審議が行われた。",
+          "span": "衆議院予算委員会で集中審議が行われ",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "入植者とパレスチナ人の衝突の後、ヨルダン川西岸地区でパレスチナ人4人とイスラエル人2人が死亡した。",
-          "span": "Four Palestinians and two Israelis killed in West Bank shooting",
+          "t": "衆議院予算委員会で閉会中審査が行われた。",
+          "span": "衆院予算委で閉会中審査",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "パレスチナ人は、村がイスラエル入植者の襲撃を受けたと主張している。",
-          "span": "Palestinians say villagers came under attack by settlers",
+          "t": "高市首相が今夕記者会見を開き、「消費税」と「人事」について説明する予定である。",
+          "span": "高市首相、今夕記者会見　「消費税」「人事」説明へ",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "イスラエル軍は、パレスチナ人が武器を盗んだと主張している。",
-          "span": "while the Israeli military says a Palestinian stole a weapon",
+          "t": "高市首相は、皇位継承に関する有識者会議は不要であるとの見解を示した。",
+          "span": "皇位継承、有識者会議は不要",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "イスラエルがガザ中部でダブルタップ攻撃を実施した。",
-          "span": "Israel carries out double tap strike in central Gaza",
+          "t": "高市首相は、暗号資産への関与を否定した。",
+          "span": "暗号資産に関与否定",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "中道改革連合",
+          "stance": "attack",
+          "claim": "高市政権が物価高対策や国民生活への手当てを後回しにしていると批判した。",
+          "span": "高市政権は物価高対策や国民生活への手当てを後回しにしている",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "イスラエルによる車両への空爆で、ハマスの治安関係者2名が死亡した。",
-          "span": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+          "actor": "高市総理大臣",
+          "stance": "support",
+          "claim": "物価高対策に最優先で取り組んできたと反論した。",
+          "span": "最優先で取り組んできた",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "consensus": "衆議院予算委員会で集中審議や閉会中審査が行われ、高市首相が記者会見を予定している。高市首相は皇位継承に関する有識者会議は不要との見解を示し、暗号資産への関与を否定した。物価高対策に関する政府の取り組みについては評価が割れている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: issue「高市政権の物価高対策は適切か？」と直接関連しないpositions（皇位継承、暗号資産に関する高市首相の発言）をfactsへ移動し、claimを事実記述に修正した。"
+        ]
+      }
+    },
+    {
+      "headline": "西日本や東海で猛暑 九州は危険な暑さ 広く雨雲発達おそれも",
+      "slug": "西日本や東海で猛暑九州は危険な暑さ広く雨雲発達お",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186851000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015186811000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589476?source=rss"
+        }
+      ],
+      "issue": "米国産生鮮ジャガイモの輸入解禁は適切か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "西日本や東海では晴れて気温が上昇している。",
+          "span": "西日本や東海を中心に晴れて気温が上がっていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "死亡したうちの一人は、ガザ中部のハマス内部治安責任者だった。",
-          "span": "The head of internal security for Hamas in central Gaza was among the dead.",
+          "t": "九州では気温が40度近くに達する危険な暑さが予想されている。",
+          "span": "40度に迫る危険な暑さになるところがある見込み",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "午後には東北から九州にかけて湿った空気の影響で雨雲が発達する可能性がある。",
+          "span": "午後は東北から九州にか…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "農林水産省は、米国が全面的な輸入解禁を求めている生のジャガイモについて、今夏にも病害虫リスク評価を完了する見込みである。",
+          "span": "この夏にも病気や害虫リスクの評価を終える見込み",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "生のジャガイモに対するニーズが高まっている。",
+          "span": "生のジャガイモはニーズが高まっている",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東日本では夜間に激しい雷雨が予想されている。",
+          "span": "東日本 夜にかけ激しい雷雨の恐れ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "イスラエル入植者によるヨルダン川西岸地区での攻撃と、イスラエル軍によるガザ地区での攻撃があったことは一致しているが、その状況や背景については異なる主張がある。",
-      "note": "プライバシーに配慮し、個別の事件の詳細や被害者の特定につながる情報は含めていない。",
+      "consensus": "西日本や東海で猛暑が予想され、九州では危険な暑さとなる見込みである。また、東日本や東北から九州にかけて雨雲が発達するおそれがある。一方、農林水産省は米国産生鮮ジャガイモの輸入解禁に向けた病害虫リスク評価を今夏にも終える見込みだが、これに対し産地からは懸念の声が上がっている。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1].span: 文まるごとだったため、最小核「40度に迫る危険な暑さになるところがある見込み」に修正しました。",
+          "facts[3].span: 文まるごとだったため、最小核「この夏にも病気や害虫リスクの評価を終える見込み」に修正しました。",
+          "consensus: 「評価は割れる」という解釈的な表現を削除し、テキストに明示されている「産地からは懸念の声が上がっている」に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "生活保護の処方薬を若者らに　制度悪用、２万錠を無料入手―チェック行き届かず",
+      "slug": "生活保護の処方薬を若者らに制度悪用万錠を無料入手",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589466?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072600164&g=soc&m=rss"
+        }
+      ],
+      "issue": "生活保護制度における処方薬の不正流通が報じられているが、その実態は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "生活保護制度が悪用されたと報じられている。",
+          "span": "生活保護悪用",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "生活保護受給者が処方薬を大量に入手し、若者らに提供していた。",
+          "span": "薬大量入手し若者に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "生活保護の処方薬が若者らに渡っていた。",
+          "span": "生活保護の処方薬を若者らに",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "制度を悪用して約2万錠の薬が無料で入手されていた。",
+          "span": "２万錠を無料入手",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "薬の処方状況に対する自治体のチェックが行き届いていなかった。",
+          "span": "チェック行き届かず",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "生活保護制度の悪用による処方薬の不正流通が確認されており、その防止策について評価や意見が分かれる可能性があるが、本記事では具体的な対立する意見は示されていない。",
+      "note": "提供された記事はタイトルとサブタイトルのみであり、具体的な主張や評価を述べる主体が明示されていないため、positionsは空配列としています。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: 元テキストがヘッドラインのみで具体的な政策議論を含まないため、issueを「生活保護制度における処方薬の不正流通は、どのように防止されるべきか？」から「生活保護制度における処方薬の不正流通が報じられているが、その実態は何か？」に変更し、stasisを「政策」から「事実」に修正しました。これにより、テキストの内容により忠実な争点設定となります。"
+        ]
       }
     }
   ]
