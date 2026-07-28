@@ -1,95 +1,81 @@
 {
-  "rankedAt": "2026-07-28T00:14:07.157Z",
+  "rankedAt": "2026-07-28T03:41:36.099Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "作家の東野圭吾さん死去、６８歳　「白夜行」、「容疑者Ｘの献身」",
-      "slug": "作家の東野圭吾さん死去歳白夜行容疑者の献身",
-      "time": "2026-07-27T22:36:47.000Z",
+      "headline": "東北から近畿で大雨のおそれ 西日本は午後危険な暑さに",
+      "slug": "東北から近畿で大雨のおそれ西日本は午後危険な暑さ",
+      "time": "2026-07-28T03:36:30.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "作家 東野圭吾さん死去 読者や関係者から悼む声",
-          "snippet": "「容疑者Xの献身」など数々のベストセラー小説で知られる作家の東野圭吾さんが今月23日、大腸がんのため68歳で亡くなり、読者や関係者からその死を悼む声が上がっています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015187551000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "東野圭吾さん 数年前から体調崩す",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589572?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "作家の東野圭吾さん死去、６８歳　「白夜行」、「容疑者Ｘの献身」",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072700668&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "東北～九州 局地的に非常に激しい雨 西日本中心に危険な暑さ",
-      "slug": "東北九州局地的に非常に激しい雨西日本中心に危険な",
-      "time": "2026-07-28T00:03:49.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 5,
+      "count": 8,
       "hasPrimary": true,
       "members": [
         {
-          "title": "東北～九州 局地的に非常に激しい雨 西日本中心に危険な暑さ",
-          "snippet": "低気圧の影響などで、28日は東北から九州にかけての広い範囲で大気の状態が非常に不安定になり、局地的に非常に激しい雨が降って大雨になるおそれがあります。気象庁は土砂災害や低い土地の浸水などに警戒するよう…",
+          "title": "東北から近畿で大雨のおそれ 西日本は午後危険な暑さに",
+          "snippet": "低気圧の影響などで、東日本を中心に大気の状態が非常に不安定になり、激しい雨が降っています。東北から近畿では28日、激しい雨や非常に激しい雨が降って大雨になるところもある見込みで、気象庁は土砂災害や低い…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015187561000",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【石川県気象警報・注意報】能登では、低い土地の浸水に警戒してください。",
+          "title": "東日本・東北 激しい雷雨のおそれ",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589600?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728000350_0_VPWW54_170000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728033632_0_VPWW53_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728033632_0_VPWW54_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【宮城県土砂災害警報・注意報】宮城県では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728033624_0_VPWW56_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【石川県気象警報・注意報】能登では、低い土地の浸水に警戒してください。",
+          "snippet": "【宮城県気象警報・注意報】西部では、土砂災害に注意してください。宮城県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728000350_0_VPWW53_170000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728032530_0_VPWW53_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【石川県気象警報・注意報】能登では、低い土地の浸水に警戒してください。",
+          "snippet": "【宮城県気象警報・注意報】西部では、土砂災害に注意してください。宮城県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727235924_0_VPWW54_170000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728032530_0_VPWW54_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【石川県気象警報・注意報】能登では、低い土地の浸水に警戒してください。",
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【宮城県土砂災害警報・注意報】西部では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727235924_0_VPWW53_170000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728032519_0_VPWW56_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -98,13 +84,13 @@
     {
       "headline": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
       "slug": "UkrainedismissesIraniant",
-      "time": "2026-07-27T22:07:23.000Z",
+      "time": "2026-07-28T03:16:30.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 4,
+      "count": 6,
       "hasPrimary": false,
       "members": [
         {
@@ -132,116 +118,95 @@
           "linkKind": "article"
         },
         {
-          "title": "British court dismisses Bahrain’s bid to block activists’ spyware lawsuit",
-          "snippet": "Ruling establishes that countries using spyware on people in the UK can be sued.",
+          "title": "Ukraine’s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+          "snippet": "The US Senate will vote Tuesday on Russian sanctions, days after Ukraine attacked an Iranian vessel in the Caspian Sea.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/27/british-court-dismisses-bahrains-bid-to-block-activists-spyware-lawsuit?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Trump says Iran talks taking place during pause in US military strikes",
+          "snippet": "US President Donald Trump says talks with Iran are continuing during a pause in US military strikes",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Ebola response workers strike in DR Congo as death toll spikes",
+          "snippet": "Healthcare workers at an Ebola treatment centre in Bunia, Democratic Republic of Congo, have gone on strike.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/ebola-response-workers-strike-in-dr-congo-as-death-toll-spikes?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "「セクストーション」相談急増　脅迫し金銭要求、男性多く―支援団体「絶対応じないで」",
-      "slug": "セクストション相談急増脅迫し金銭要求男性多く支援",
-      "time": "2026-07-27T23:24:00.000Z",
+      "headline": "政府 高木美帆さんに国民栄誉賞授与決定 五輪でメダル10個獲得",
+      "slug": "政府高木美帆さんに国民栄誉賞授与決定五輪でメダル",
+      "time": "2026-07-28T02:44:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "政府 高木美帆さんに国民栄誉賞授与決定 五輪でメダル10個獲得",
+          "snippet": "政府は、スピードスケート女子でオリンピックの日本の女子選手で最多となる10個のメダルを獲得して現役を引退した、高木美帆さんに国民栄誉賞を授与することを決めました。表彰式は来月4日に行われます。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015187771000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "高木美帆さんに国民栄誉賞　五輪スケート、８月４日に表彰式",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072800311&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "米、フランス国連大使の発言中に退席　人権高等弁務官再任巡り―国連安保理",
+      "slug": "米フランス国連大使の発言中に退席人権高等弁務官再",
+      "time": "2026-07-28T02:46:45.000Z",
       "independentSources": 2,
       "sources": [
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
-      "count": 3,
+      "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "「セクストーション」相談が急増",
+          "title": "国連で仏発言中 米代表団が退席",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589577?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6589606?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "「セクストーション」相談急増　脅迫し金銭要求、男性多く―支援団体「絶対応じないで」",
+          "title": "米、フランス国連大使の発言中に退席　人権高等弁務官再任巡り―国連安保理",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072700495&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "親密な写真送らせて脅迫する「セクストーション」、被害は１８～２４歳男性が最多 豪",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=20260715049106a&g=afp&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026072800151&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Shot fired outside US consulate in Canada for second time this year",
-      "slug": "ShotfiredoutsideUSconsul",
-      "time": "2026-07-27T22:34:38.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Shots fired at US consulate in Toronto for a second time this year",
-          "snippet": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people ",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Shot fired outside US consulate in Canada for second time this year",
-          "snippet": "Police have previously suggested a link between anti-Jewish attacks in the city and shootings at the US consulate.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/27/shot-fired-outside-us-consulate-in-canada-for-second-time-this-year?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "エディオン会長 ヤマダHDとの統合「対等の精神は譲れない」",
-      "slug": "エディオン会長ヤマダHDとの統合対等の精神は譲れ",
-      "time": "2026-07-27T22:36:55.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "米大統領「合意の可能性ある」 イランは妥協しない姿勢",
-          "snippet": "アメリカのトランプ大統領は27日、イランとの協議をめぐり「合意にいたる可能性はある」と述べる一方、協議に進展がなければ再び軍事作戦に踏み切る考えを強調しました。イラン側も妥協しない姿勢を示していて、双…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015187571000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "エディオン会長 ヤマダHDとの統合「対等の精神は譲れない」",
-          "snippet": "家電量販店最大手の「ヤマダホールディングス」と経営統合に向けた協議を進める「エディオン」の久保允誉会長が、NHKのインタビューに応じました。この中で、統合協議について「対等の精神は譲れない」と強調した…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015187521000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-28T00:11:19.000Z",
+      "headline": "竜巻注意情報（目撃情報付き）",
+      "slug": "竜巻注意情報目撃情報付き",
+      "time": "2026-07-28T03:36:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -250,27 +215,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宗谷地方気象警報・注意報】注意報を解除します。",
+          "title": "竜巻注意情報",
+          "snippet": "【京都府気象防災速報（竜巻注意）】京都府南部、北部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてく",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728001120_0_VPWW54_011000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728033657_0_VPHW50_260000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【宗谷地方気象警報・注意報】注意報を解除します。",
+          "title": "竜巻注意情報（目撃情報付き）",
+          "snippet": "【京都府気象防災速報（竜巻注意）】京都府南部、北部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてく",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728001120_0_VPWW53_011000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728033658_0_VPHW51_260000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-28T00:07:30.000Z",
+      "headline": "竜巻注意情報（目撃情報付き）",
+      "slug": "竜巻注意情報目撃情報付き",
+      "time": "2026-07-28T03:23:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -279,18 +244,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【渡島・檜山地方気象警報・注意報】渡島・檜山地方では、落雷に注意してください。渡島地方では、濃霧による視程障害に注意してください。",
+          "title": "竜巻注意情報",
+          "snippet": "【愛知県気象防災速報（竜巻注意）】愛知県東部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728000731_0_VPWW53_017000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728032310_0_VPHW50_230000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【渡島・檜山地方気象警報・注意報】渡島・檜山地方では、落雷に注意してください。渡島地方では、濃霧による視程障害に注意してください。",
+          "title": "竜巻注意情報（目撃情報付き）",
+          "snippet": "【愛知県気象防災速報（竜巻注意）】愛知県東部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728000731_0_VPWW54_017000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728032310_0_VPHW51_230000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -328,7 +293,7 @@
     {
       "headline": "Chile captures fugitive convicted of singer Victor Jara's murder under Pinochet",
       "slug": "Chilecapturesfugitivecon",
-      "time": "2026-07-27T22:58:49.000Z",
+      "time": "2026-07-28T01:39:50.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -355,9 +320,9 @@
       ]
     },
     {
-      "headline": "消費税減税 自民内税率1％案で進めるべきの意見も 首相判断へ",
-      "slug": "消費税減税自民内税率1案で進めるべきの意見も首相",
-      "time": "2026-07-27T20:11:24.000Z",
+      "headline": "ストーカー加害者にGPS装着 政府が被害者保護で検討へ",
+      "slug": "ストカ加害者にGPS装着政府が被害者保護で検討へ",
+      "time": "2026-07-28T03:10:26.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -366,19 +331,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "消費税減税 自民内税率1％案で進めるべきの意見も 首相判断へ",
-          "snippet": "食料品の消費税減税をめぐり、超党派の「国民会議」の実務者会議では意見の一致に至らなかったと明記した中間とりまとめ案の修正案が示され、方向性は打ち出されませんでした。自民党内では、来年4月から2年間、税…",
+          "title": "ストーカー加害者にGPS装着 政府が被害者保護で検討へ",
+          "snippet": "ストーカーによる重大事件が後を絶たないことを受けて、政府は28日、危険性の高い加害者にGPS機器を装着させて居場所を把握できるようにする、新たな対策の導入を早急に検討していく方針を決定しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015187501000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015187881000",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "ディズニーのチケット1万2000円超に 入園料値上げの動き相次ぐ",
-      "slug": "ディズニのチケット1万2000円超に入園料値上げ",
-      "time": "2026-07-27T23:45:05.000Z",
+      "headline": "農水省 備蓄米買い戻し 新米の作柄など見極め判断へ",
+      "slug": "農水省備蓄米買い戻し新米の作柄など見極め判断へ",
+      "time": "2026-07-28T03:40:40.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -387,19 +352,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ディズニーのチケット1万2000円超に 入園料値上げの動き相次ぐ",
-          "snippet": "東京ディズニーランドとディズニーシーのチケットの料金が、最も混雑する時期でことし10月から初めて1万2000円を超えることになりました。全国のテーマパークでチケットの値上げの動きが続いています。",
+          "title": "農水省 備蓄米買い戻し 新米の作柄など見極め判断へ",
+          "snippet": "民間のコメの在庫量が過去最大に増え、生産地から新米が本格的に出回る前の政府備蓄米の買い戻しを求める声が強まる中、農林水産省は買い戻しについて来月下旬以降に発表される新米の作柄をはじめ、需給動向を見極め…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015187511000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015187861000",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "英首相「ウクライナと100％共にある」支援継続を強調",
-      "slug": "英首相ウクライナと100共にある支援継続を強調",
-      "time": "2026-07-27T22:10:53.000Z",
+      "headline": "食料品の消費税減税 “決断するときには決断する”高市首相",
+      "slug": "食料品の消費税減税決断するときには決断する高市首",
+      "time": "2026-07-28T03:20:20.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -408,19 +373,61 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "英首相「ウクライナと100％共にある」支援継続を強調",
-          "snippet": "イギリスのバーナム首相は、就任後初めてウクライナのゼレンスキー大統領と対面で会談し、「ウクライナと100％共にある」と述べて、無人機の追跡を妨害する最新技術を供与する方針を明らかにしました。",
+          "title": "食料品の消費税減税 “決断するときには決断する”高市首相",
+          "snippet": "食料品の消費税減税をめぐり、高市総理大臣は、自民党の役員会で、超党派の「国民会議」での調整をギリギリまで行うよう指示するとともに「決断するときには決断する」と述べ、最終的にはみずから方針を判断する考え…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015187661000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015187921000",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "西日本で猛烈な暑さ 熱中症に警戒",
-      "slug": "西日本で猛烈な暑さ熱中症に警戒",
-      "time": "2026-07-27T23:12:37.000Z",
+      "headline": "マンション修繕で東海地方でも受注調整疑い 公取委が調査",
+      "slug": "マンション修繕で東海地方でも受注調整疑い公取委が",
+      "time": "2026-07-28T03:26:27.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "マンション修繕で東海地方でも受注調整疑い 公取委が調査",
+          "snippet": "東海地方のマンションの大規模修繕工事をめぐり、設計コンサルタント会社や施工会社、あわせて20社あまりが、受注調整を繰り返していた疑いがあるとして、公正取引委員会は28日、各社の立ち入り検査に入りました…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015187741000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "別の男性にも臓器移植手術あっせんか NPO元理事を再逮捕",
+      "slug": "別の男性にも臓器移植手術あっせんかNPO元理事を",
+      "time": "2026-07-28T03:15:49.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "別の男性にも臓器移植手術あっせんか NPO元理事を再逮捕",
+          "snippet": "カンボジアでの臓器移植手術を都内に住む男性にあっせんし、その対価を受け取ったとしてNPO法人の元理事ら3人が逮捕された事件で、警視庁は元理事が別の60代の男性にも手術をあっせんし、およそ850万円相当…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015187851000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "火災で一家4人死亡 悲しむ同級生",
+      "slug": "火災で一家4人死亡悲しむ同級生",
+      "time": "2026-07-28T02:59:07.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -429,19 +436,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "西日本で猛烈な暑さ 熱中症に警戒",
+          "title": "火災で一家4人死亡 悲しむ同級生",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589573?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6589607?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "プルデンシャル 成果主義見直しへ",
-      "slug": "プルデンシャル成果主義見直しへ",
-      "time": "2026-07-27T22:42:06.000Z",
+      "headline": "相次ぐ夫の転勤 追い詰められた妻",
+      "slug": "相次ぐ夫の転勤追い詰められた妻",
+      "time": "2026-07-28T02:22:58.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -450,19 +457,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "プルデンシャル 成果主義見直しへ",
+          "title": "相次ぐ夫の転勤 追い詰められた妻",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589569?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6589599?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "5歳遺体 客足戻らぬ現場温泉施設",
-      "slug": "5歳遺体客足戻らぬ現場温泉施設",
-      "time": "2026-07-27T23:44:05.000Z",
+      "headline": "刃物で女性3人が襲われる パリ",
+      "slug": "刃物で女性3人が襲われるパリ",
+      "time": "2026-07-28T02:33:57.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -471,19 +478,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "5歳遺体 客足戻らぬ現場温泉施設",
+          "title": "刃物で女性3人が襲われる パリ",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589582?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6589602?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "京都府「国宝」ロケ地購入へ 賛否",
-      "slug": "京都府国宝ロケ地購入へ賛否",
-      "time": "2026-07-27T23:47:44.000Z",
+      "headline": "BYDが日本で軽EV 実質100万円台",
+      "slug": "BYDが日本で軽EV実質100万円台",
+      "time": "2026-07-28T03:04:01.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -492,19 +499,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "京都府「国宝」ロケ地購入へ 賛否",
+          "title": "BYDが日本で軽EV 実質100万円台",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589581?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6589608?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "屋根に人 大阪・天神祭で迷惑行為",
-      "slug": "屋根に人大阪天神祭で迷惑行為",
-      "time": "2026-07-27T22:52:49.000Z",
+      "headline": "VIVANT「別班」実在せずと小泉氏",
+      "slug": "VIVANT別班実在せずと小泉氏",
+      "time": "2026-07-28T03:02:45.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -513,19 +520,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "屋根に人 大阪・天神祭で迷惑行為",
+          "title": "VIVANT「別班」実在せずと小泉氏",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589571?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6589609?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "坂本勇人 球宴で「選手兼指揮官」",
-      "slug": "坂本勇人球宴で選手兼指揮官",
-      "time": "2026-07-27T22:24:50.000Z",
+      "headline": "速報・高校野球 箕面学園vs履正社",
+      "slug": "速報高校野球箕面学園vs履正社",
+      "time": "2026-07-28T03:09:51.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -534,19 +541,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "坂本勇人 球宴で「選手兼指揮官」",
+          "title": "速報・高校野球 箕面学園vs履正社",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589568?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6589610?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "米、フランス国連大使の発言中に退席　人権高等弁務官再任巡り―国連安保理",
-      "slug": "米フランス国連大使の発言中に退席人権高等弁務官再",
-      "time": "2026-07-27T22:09:00.000Z",
+      "headline": "海保、同志社国際高校を捜索　遺族が告訴、業過致死容疑など―沖縄・辺野古転覆事故",
+      "slug": "海保同志社国際高校を捜索遺族が告訴業過致死容疑な",
+      "time": "2026-07-28T02:39:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -555,10 +562,136 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "米、フランス国連大使の発言中に退席　人権高等弁務官再任巡り―国連安保理",
+          "title": "海保、同志社国際高校を捜索　遺族が告訴、業過致死容疑など―沖縄・辺野古転覆事故",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072800151&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026072800300&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「セクストーション」相談急増　脅迫し金銭要求、男性多く―支援団体「絶対応じないで」",
+      "slug": "セクストション相談急増脅迫し金銭要求男性多く支援",
+      "time": "2026-07-27T23:24:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「セクストーション」相談急増　脅迫し金銭要求、男性多く―支援団体「絶対応じないで」",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072700495&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "国家公務員の時短勤務拡大　働き方改革でプラン―政府",
+      "slug": "国家公務員の時短勤務拡大働き方改革でプラン政府",
+      "time": "2026-07-28T02:11:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "国家公務員の時短勤務拡大　働き方改革でプラン―政府",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072800376&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "入管、２２６人増員へ　在留外国人増で体制強化―平口法相",
+      "slug": "入管人増員へ在留外国人増で体制強化平口法相",
+      "time": "2026-07-28T03:22:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "入管、２２６人増員へ　在留外国人増で体制強化―平口法相",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072800377&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "最低賃金上げへ再協議　１１００円台後半で攻防―厚労省審議会",
+      "slug": "最低賃金上げへ再協議円台後半で攻防厚労省審議会",
+      "time": "2026-07-28T01:05:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "最低賃金上げへ再協議　１１００円台後半で攻防―厚労省審議会",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072800087&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "錦織圭、逆転で２回戦へ　引退表明後、初の公式戦―テニス・ムバダラＤＣオープン",
+      "slug": "錦織圭逆転で回戦へ引退表明後初の公式戦テニスムバ",
+      "time": "2026-07-28T00:53:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "錦織圭、逆転で２回戦へ　引退表明後、初の公式戦―テニス・ムバダラＤＣオープン",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072800237&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "日経平均株価の下げ幅が一時３０００円を超えた",
+      "slug": "日経平均株価の下げ幅が一時円を超えた",
+      "time": "2026-07-28T02:19:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "日経平均株価の下げ幅が一時３０００円を超えた",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072800385&g=flash&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -586,114 +719,9 @@
       ]
     },
     {
-      "headline": "フジモリ大統領、２８日就任　日系３世、安定基盤づくりに課題―ペルー",
-      "slug": "フジモリ大統領日就任日系世安定基盤づくりに課題ペ",
-      "time": "2026-07-27T22:11:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "フジモリ大統領、２８日就任　日系３世、安定基盤づくりに課題―ペルー",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072700526&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "バーナム首相、「変化」アピール　就任１週間、矢継ぎ早に施策―英",
-      "slug": "バナム首相変化アピル就任週間矢継ぎ早に施策英",
-      "time": "2026-07-27T22:13:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "バーナム首相、「変化」アピール　就任１週間、矢継ぎ早に施策―英",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072700569&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "アジアからの脱退阻止「働き掛けを」　ＩＣＣ赤根所長、米圧力下で日本に要請",
-      "slug": "アジアからの脱退阻止働き掛けを赤根所長米圧力下で",
-      "time": "2026-07-27T11:31:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "アジアからの脱退阻止「働き掛けを」　ＩＣＣ赤根所長、米圧力下で日本に要請",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072700956&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "地域の子育て支援企業を認定　法人減税、公共事業で優遇検討―政府",
-      "slug": "地域の子育て支援企業を認定法人減税公共事業で優遇",
-      "time": "2026-07-27T23:43:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "地域の子育て支援企業を認定　法人減税、公共事業で優遇検討―政府",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072700527&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "トランプ米大統領、ＦＲＢに利下げ要求　インフレ「大きく下がる」",
-      "slug": "トランプ米大統領に利下げ要求インフレ大きく下がる",
-      "time": "2026-07-27T21:32:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "トランプ米大統領、ＦＲＢに利下げ要求　インフレ「大きく下がる」",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072800132&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-27T23:00:00.000Z",
+      "time": "2026-07-28T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -703,9 +731,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２８日０９時から１２時までは火口から北西方向、２８日２１時から２４時までは火口から南東方向に降灰が予想され",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、２８日２１時から２４時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727230048_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728020033_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -714,7 +742,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-27T23:00:00.000Z",
+      "time": "2026-07-28T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -724,9 +752,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２８日０９時から１２時までは火口から南東方向、２８日２１時から２４時までは火口から南東方",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、２８日２１時から２４時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727230052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728020037_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -735,7 +763,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-27T23:00:00.000Z",
+      "time": "2026-07-28T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -745,9 +773,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２８日０９時から１２時までは火口から東方向、２８日２１時から２４時までは火口から南東方向に降灰が予想されま",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、２８日２１時から２４時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727230055_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728020041_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -756,7 +784,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-27T23:00:00.000Z",
+      "time": "2026-07-28T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -766,9 +794,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、２８日０９時から１２時までは火口から北東方向、２８日２１時から２４時までは火口から北東方向に降灰が予想されます。",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２８日２１時から２４時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727230030_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728020044_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -777,7 +805,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-27T23:00:00.000Z",
+      "time": "2026-07-28T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -787,9 +815,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、２８日０９時から１２時までは火口から北方向、２８日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２８日２１時から２４時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727230033_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728020048_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -798,7 +826,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-27T23:00:00.000Z",
+      "time": "2026-07-28T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -808,9 +836,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、２８日０９時から１２時までは火口から東方向、２８日２１時から２４時までは火口から南東方向に降灰が予想されます。",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２８日２１時から２４時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727230037_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728020051_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -819,7 +847,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-27T23:00:00.000Z",
+      "time": "2026-07-28T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -829,9 +857,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、２８日０９時から１２時までは火口から南東方向、２８日２１時から２４時までは火口から南東方向に降灰が予想されます。",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２８日２１時から２４時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727230041_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728020054_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -840,7 +868,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-27T23:00:00.000Z",
+      "time": "2026-07-28T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -850,9 +878,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２８日０９時から１２時までは火口から東方向、２８日２１時から２４時までは火口から南東方向に降灰が予想されま",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、２８日２１時から２４時までは火口から北東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727230045_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728020030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -861,7 +889,7 @@
     {
       "headline": "震源・震度に関する情報",
       "slug": "震源震度に関する情報",
-      "time": "2026-07-27T21:03:04.000Z",
+      "time": "2026-07-28T00:43:03.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -871,18 +899,18 @@
       "members": [
         {
           "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】２８日０６時００分ころ、地震がありました。",
+          "snippet": "【震源・震度情報】２８日０９時３９分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727210305_0_VXSE53_270000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728004303_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "噴火に関する火山観測報",
-      "slug": "噴火に関する火山観測報",
-      "time": "2026-07-27T20:00:38.000Z",
+      "headline": "震源に関する情報",
+      "slug": "震源に関する情報",
+      "time": "2026-07-28T00:42:12.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -891,52 +919,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "噴火に関する火山観測報",
-          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年07月28日04時30分(271930UTC)\n現　　象：連続噴火停止",
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう２８日０９時３９分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260727200038_0_VFVO52_400000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-07-28T00:11:11.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【宗谷地方濃霧注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728001112_0_VPWW61_011000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-07-28T00:07:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【渡島・檜山地方雷・濃霧注意報】渡島、檜山地方では、急な強い雨や落雷に注意してください。渡島地方では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728000725_0_VPWW61_017000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260728004212_0_VXSE52_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -985,30 +971,30 @@
       ]
     },
     {
-      "headline": "US diplomats walk out as France addresses UN Security Council",
-      "slug": "USdiplomatswalkoutasFran",
-      "time": "2026-07-27T23:07:55.000Z",
+      "headline": "Shots fired at US consulate in Toronto for a second time this year",
+      "slug": "ShotsfiredatUSconsulatei",
+      "time": "2026-07-28T00:36:16.000Z",
       "independentSources": 1,
       "sources": [
-        "Al Jazeera"
+        "BBC World"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "US diplomats walk out as France addresses UN Security Council",
-          "snippet": "US diplomats walk out of UN meeting during France&#039;s speech amid tensions over human rights chief&#039;s reappointme",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/27/us-diplomats-walk-out-as-france-addresses-un-security-council?traffic_source=rss",
+          "title": "Shots fired at US consulate in Toronto for a second time this year",
+          "snippet": "Police said they engaged in a high-speed car chase but failed to arrest the suspect, who remains at large. Three people ",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckgvnw44rz9o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Video shows man subdued after stabbing three women in Paris",
-      "slug": "Videoshowsmansubduedafte",
-      "time": "2026-07-27T21:27:08.000Z",
+      "headline": "US warns hundreds of Boeing jets may require seat safety inspections",
+      "slug": "USwarnshundredsofBoeingj",
+      "time": "2026-07-28T02:54:18.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1017,19 +1003,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Video shows man subdued after stabbing three women in Paris",
-          "snippet": "Three women were wounded, two of them seriously, in a knife attack near Porte de Clichy in Paris.",
+          "title": "US warns hundreds of Boeing jets may require seat safety inspections",
+          "snippet": "US regulator warns of Boeing 737 MAX seat safety concerns, calls for inspection of 453 US-registered jets.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/video-shows-man-subdued-after-stabbing-three-women-in-paris?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/28/us-warns-hundreds-of-boeing-jets-may-require-seat-safety-inspections?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Trump asks US Supreme Court to allow mail-in voting restrictions",
-      "slug": "TrumpasksUSSupremeCourtt",
-      "time": "2026-07-27T21:24:31.000Z",
+      "headline": "How telehealth is helping close the healthcare gap in rural Zimbabwe",
+      "slug": "Howtelehealthishelpingcl",
+      "time": "2026-07-28T02:08:54.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1038,19 +1024,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Trump asks US Supreme Court to allow mail-in voting restrictions",
-          "snippet": "A lower court blocked the mail-in ballot restrictions, ruling Trump lacked authority to change state election rules.",
+          "title": "How telehealth is helping close the healthcare gap in rural Zimbabwe",
+          "snippet": "Virtual consultations are replacing hours of travel, bringing affordable healthcare closer to rural Zimbabweans.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/27/trump-asks-us-supreme-court-to-allow-mail-in-voting-restrictions?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/28/how-telehealth-is-helping-close-the-healthcare-gap-in-rural-zimbabwe?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
-      "slug": "UNslamsIsraelsexpansiono",
-      "time": "2026-07-27T21:17:15.000Z",
+      "headline": "Former senior ICE official says rush for numbers is causing deaths",
+      "slug": "FormerseniorICEofficials",
+      "time": "2026-07-28T01:18:24.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1059,19 +1045,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
-          "snippet": "UN chief Guterres says settlements a &#039;flagrant violation&#039; of international law, amid escalating violence.",
+          "title": "Former senior ICE official says rush for numbers is causing deaths",
+          "snippet": "Fmr. Acting Chief of Staff at ICE: a rush to hire officers and a focus on detention numbers is causing fatal mistakes.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/aje-onl-nf_former-ice-official-rush-for-numbers-causing-deaths-270726?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
-      "slug": "Nvidiaplans250bnpushtobo",
-      "time": "2026-07-27T21:08:21.000Z",
+      "headline": "Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits",
+      "slug": "JohnsonJohnsonoffers55bn",
+      "time": "2026-07-28T01:07:09.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1080,19 +1066,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Nvidia plans $250bn push to bolster OpenAI’s infrastructure ambitions",
-          "snippet": "Political backlash grows as US states propose bans on new data centres, raising challenges for Nvidia and AI industry.",
+          "title": "Johnson & Johnson offers $5.5bn to settle talc cancer lawsuits",
+          "snippet": "Johnson & Johnson agrees to pay $5.5bn to settle nearly 70,000 US lawsuits over talc-based baby powder cancer claims.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/7/27/nvidia-plans-250bn-push-to-bolster-openais-infrastructure-ambitions?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/28/jj-reaches-5-5bn-settlement-over-lawsuits-tying-talc-to-ovarian-cancer?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Hopes of return to diplomacy as US-Iran hold fire for third day",
-      "slug": "Hopesofreturntodiplomacy",
-      "time": "2026-07-27T21:04:09.000Z",
+      "headline": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+      "slug": "HouthiswanttocopyIransHo",
+      "time": "2026-07-28T00:51:50.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1101,19 +1087,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
-          "snippet": "Mediators from Qatar and Pakistan work to restart ceasefire talks amid fragile pause in hostilities.",
+          "title": "Houthis want to copy Iran’s Hormuz control in the Red Sea: Yemeni FM",
+          "snippet": "Speaking in Riyadh, Yemen&#039;s internationally recognised government warns global complacency has emboldened the Houth",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
-      "slug": "WillPerusnewleaderKeikoF",
-      "time": "2026-07-27T20:47:26.000Z",
+      "headline": "Savannah Guthrie pleads for help to find missing mother",
+      "slug": "SavannahGuthriepleadsfor",
+      "time": "2026-07-28T00:22:36.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1122,19 +1108,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Will Peru’s new leader Keiko Fujimori reject her father’s legacy?",
-          "snippet": "Keiko Fujimori was elected president and many people are sceptical she will be able to unite Peru as promised.",
+          "title": "Savannah Guthrie pleads for help to find missing mother",
+          "snippet": "Journalist Savannah Guthrie has made an emotional public appeal for information about her missing mother.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/7/27/will-perus-new-leader-keiko-fujimori-reject-her-fathers-legacy?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/savannah-guthrie-pleads-for-help-to-find-missing-mother?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign",
-      "slug": "HakeemJeffriesputsafford",
-      "time": "2026-07-27T20:27:29.000Z",
+      "headline": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
+      "slug": "TrumponErdoganNetanyahua",
+      "time": "2026-07-28T00:00:42.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1143,10 +1129,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Hakeem Jeffries puts affordability at centre of Democrats’ midterm campaign",
-          "snippet": "US House Democratic leader unveils &#039;Fighting for an Affordable America&#039; agenda, blaming Donald Trump for risin",
+          "title": "Trump on Erdogan, Netanyahu and selling fighter jets to Turkiye",
+          "snippet": "US President Donald Trump called Turkiye &#039;a great ally&#039; when asked about selling F-35 fighter jets to Ankara.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/7/27/hakeem-jeffries-puts-affordability-at-centre-of-democrats-midterm-campaign?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-on-erdogan-netanyahu-and-selling-fighter-jets-to-turkiye?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
