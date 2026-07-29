@@ -1,11 +1,11 @@
 {
-  "rankedAt": "2026-07-29T18:36:41.585Z",
+  "rankedAt": "2026-07-29T19:58:02.179Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "死亡１２人、心肺停止６人　イオンと日本製紙工場で死者８人―８７００人避難・熊本震度７",
       "slug": "死亡人心肺停止人イオンと日本製紙工場で死者人人避",
-      "time": "2026-07-29T18:32:03.000Z",
+      "time": "2026-07-29T19:32:35.000Z",
       "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
@@ -13,7 +13,7 @@
         "時事ドットコム",
         "気象庁 地震・火山"
       ],
-      "count": 10,
+      "count": 15,
       "hasPrimary": true,
       "members": [
         {
@@ -41,10 +41,10 @@
           "linkKind": "article"
         },
         {
-          "title": "【地震情報】熊本県で震度5弱 津波の心配なし（22:19）",
-          "snippet": "29日午後10時19分ごろ、熊本県の天草・芦北地方を震源とする地震があり震度5弱の揺れを観測しました。この地震による津波の心配はありません。",
+          "title": "【地震速報】熊本県益城町で震度3 津波の心配なし",
+          "snippet": "３０日午前３時５９分ごろ地震がありました。この地震による津波の心配はありません。震源地は熊本県熊本地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは３．３と推定されます。各市町村の震度は以下…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015190171000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015190341000",
           "ty": "press",
           "linkKind": "article"
         },
@@ -73,12 +73,52 @@
           "linkKind": "article"
         },
         {
-          "title": "自衛隊４６００人態勢に　現地へクーラー３００台―熊本震度７",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072900912&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】３０日０４時２８分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729193235_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】３０日０４時０２分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729190743_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】３０日０３時５９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729190226_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう３０日０３時５９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729190129_0_VXSE52_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震度速報",
+          "snippet": "【震度速報】３０日０３時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729190042_0_VXSE51_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】３０日０３時３５分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729183856_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
           "title": "震源・震度に関する情報",
@@ -99,9 +139,47 @@
       ]
     },
     {
+      "headline": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+      "slug": "TwofirefightersdieinCret",
+      "time": "2026-07-29T18:42:11.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+          "snippet": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the ",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "France fire crews face searing heat in battle to contain flames",
+          "snippet": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to h",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Bordeaux wildfire battle continues amid extreme heat",
+          "snippet": "Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "FRB政策金利 5会合連続で据え置き 物価動向慎重に見極めか",
       "slug": "FRB政策金利5会合連続で据え置き物価動向慎重に",
-      "time": "2026-07-29T18:24:52.000Z",
+      "time": "2026-07-29T19:29:28.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -112,7 +190,7 @@
       "members": [
         {
           "title": "FRB政策金利 5会合連続で据え置き 物価動向慎重に見極めか",
-          "snippet": "アメリカのFRB＝連邦準備制度理事会は金融政策を決める会合を開き、29日、政策金利を据え置くと発表しました。政策金利を据え置くのは、5会合連続です。直近のイラン情勢によって原油価格が再び上昇傾向となる…",
+          "snippet": "アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、29日、政策金利を据え置くと発表しました。据え置きは5会合連続で、イラン情勢を背景にしたインフレの動向を慎重に見極めるねらいがあるも…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015190151000",
           "ty": "press",
@@ -123,6 +201,36 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6589839?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "slug": "AnthonyFaucirefusestoans",
+      "time": "2026-07-29T18:34:09.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+          "snippet": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
+          "snippet": "Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -159,9 +267,9 @@
       ]
     },
     {
-      "headline": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "slug": "AnthonyFaucirefusestoans",
-      "time": "2026-07-29T17:58:42.000Z",
+      "headline": "Iran pushes back against US as regional attacks heat up",
+      "slug": "IranpushesbackagainstUSa",
+      "time": "2026-07-29T17:45:27.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -171,152 +279,20 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-          "snippet": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute",
+          "title": "Fifa opens disciplinary proceedings against Argentina",
+          "snippet": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Fauci invokes Fifth Amendment in heated COVID-19 Senate hearing",
-          "snippet": "Physician declines to answer Senate questions as Republicans like Rand Paul accuse him of covering up COVID&#039;s origi",
+          "title": "Iran pushes back against US as regional attacks heat up",
+          "snippet": "New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/29/fauci-invokes-fifth-amendment-in-heated-covid-19-senate-hearing?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-29T18:28:44.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 4,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【福島県気象警報・注意報】〈危険警報（土砂災害）〉会津では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729182845_0_VPWW53_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福島県気象警報・注意報】〈危険警報（土砂災害）〉会津では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729182845_0_VPWW54_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【福島県気象警報・注意報】〈危険警報（土砂災害）〉会津では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729182617_0_VPWW53_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福島県気象警報・注意報】〈危険警報（土砂災害）〉会津では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729182617_0_VPWW54_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "ＮＹ株、一時８００ドル安　米イラン対立激化、原油高圧迫",
-      "slug": "株一時ドル安米イラン対立激化原油高圧迫",
-      "time": "2026-07-29T14:34:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ＮＹ株、一時８００ドル安　米イラン対立激化、原油高圧迫",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072901270&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "ＮＹダウの下げ幅が一時８００ドルを超えた",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072901267&g=flash&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-29T18:31:05.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【新潟県気象警報・注意報】下越、中越、上越では、土砂災害に注意してください。下越では、低い土地の浸水に注意してください。新潟県では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729183106_0_VPWW53_150000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【新潟県気象警報・注意報】下越、中越、上越では、土砂災害に注意してください。下越では、低い土地の浸水に注意してください。新潟県では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729183106_0_VPWW54_150000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-07-29T18:26:13.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【青森県気象警報・注意報】津軽、三八上北では、土砂災害に注意してください。津軽では、低い土地の浸水に注意してください。青森県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729182615_0_VPWW53_020000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【青森県気象警報・注意報】津軽、三八上北では、土砂災害に注意してください。津軽では、低い土地の浸水に注意してください。青森県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729182615_0_VPWW54_020000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -489,9 +465,9 @@
       ]
     },
     {
-      "headline": "イランを「激しくたたく」　米大統領",
-      "slug": "イランを激しくたたく米大統領",
-      "time": "2026-07-29T13:00:00.000Z",
+      "headline": "特捜検事不祥事「あり得ない話」　非難の声相次ぐ―法務・検察幹部ら",
+      "slug": "特捜検事不祥事あり得ない話非難の声相次ぐ法務検察",
+      "time": "2026-07-29T10:56:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -500,19 +476,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "イランを「激しくたたく」　米大統領",
+          "title": "特捜検事不祥事「あり得ない話」　非難の声相次ぐ―法務・検察幹部ら",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072901196&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026072901095&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "プロ野球オールスターの主な記録",
-      "slug": "プロ野球オルスタの主な記録",
-      "time": "2026-07-29T14:15:00.000Z",
+      "headline": "〔ＮＹ金〕小幅続落、４０３６．３０ドル（２９日）",
+      "slug": "金小幅続落ドル日",
+      "time": "2026-07-29T18:16:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -521,31 +497,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "プロ野球オールスターの主な記録",
+          "title": "〔ＮＹ金〕小幅続落、４０３６．３０ドル（２９日）",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072901253&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "日本人、１億２０００万人割れ　過去最大９１万人減―外国人４００万人超・総務省",
-      "slug": "日本人億万人割れ過去最大万人減外国人万人超総務省",
-      "time": "2026-07-29T08:11:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "日本人、１億２０００万人割れ　過去最大９１万人減―外国人４００万人超・総務省",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072900693&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026073000068&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -573,9 +528,9 @@
       ]
     },
     {
-      "headline": "特捜検事不祥事「あり得ない話」　非難の声相次ぐ―法務・検察幹部ら",
-      "slug": "特捜検事不祥事あり得ない話非難の声相次ぐ法務検察",
-      "time": "2026-07-29T10:56:00.000Z",
+      "headline": "イランを「激しくたたく」　米大統領",
+      "slug": "イランを激しくたたく米大統領",
+      "time": "2026-07-29T13:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -584,10 +539,94 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "特捜検事不祥事「あり得ない話」　非難の声相次ぐ―法務・検察幹部ら",
+          "title": "イランを「激しくたたく」　米大統領",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026072901095&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026072901196&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "イランが弾道ミサイル発射　ヨルダンの米軍基地標的",
+      "slug": "イランが弾道ミサイル発射ヨルダンの米軍基地標的",
+      "time": "2026-07-29T13:14:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "イランが弾道ミサイル発射　ヨルダンの米軍基地標的",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072900202&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ＮＹ株、一時８００ドル安　米イラン対立激化、原油高圧迫",
+      "slug": "株一時ドル安米イラン対立激化原油高圧迫",
+      "time": "2026-07-29T14:34:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ＮＹ株、一時８００ドル安　米イラン対立激化、原油高圧迫",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072901270&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "フジモリ大統領、厳しい国民の目　もろい権力基盤、対処難しい課題―ペルー新政権",
+      "slug": "フジモリ大統領厳しい国民の目もろい権力基盤対処難",
+      "time": "2026-07-29T14:08:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "フジモリ大統領、厳しい国民の目　もろい権力基盤、対処難しい課題―ペルー新政権",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072900652&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「日本に心からの連帯」　熊本地震受け―欧州首脳",
+      "slug": "日本に心からの連帯熊本地震受け欧州首脳",
+      "time": "2026-07-29T12:40:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「日本に心からの連帯」　熊本地震受け―欧州首脳",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026072901185&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -636,135 +675,9 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-29T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、３０日０９時から１２時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729170055_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-29T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、３０日０９時から１２時までは火口から北方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729170031_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-29T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、３０日０９時から１２時までは火口から東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729170034_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-29T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、３０日０９時から１２時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729170037_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-29T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、３０日０９時から１２時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729170041_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-29T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、３０日０９時から１２時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729170045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-07-29T18:30:50.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:15.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -773,19 +686,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【新潟県大雨警報・注意報】下越では、低い土地の浸水や河川の増水に注意してください。",
+          "title": "熱中症警戒アラート",
+          "snippet": "【奄美地方（鹿児島県）熱中症警戒アラート】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729183051_0_VPWW55_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195515_0_VPFT50_460040.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "土砂災害警戒情報",
-      "slug": "土砂災害警戒情報",
-      "time": "2026-07-29T18:26:21.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:15.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -794,82 +707,187 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "土砂災害警戒情報",
-          "snippet": "【福島県レベル４土砂災害危険警報】＜レベル４土砂災害危険警報の補足情報＞\nレベル４土砂災害危険警報が発表されている地域では、土砂災害の発生するおそれが高いことから、崖の近くや谷の出口など土砂災害警戒区域等にお住まいの方は、市町村から発令され",
+          "title": "熱中症警戒アラート",
+          "snippet": "【大東島地方熱中症警戒アラート】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729182623_0_VXWW50_070000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195516_0_VPFT50_472000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-      "slug": "TwofirefightersdieinCret",
-      "time": "2026-07-29T16:23:41.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:14.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "気象庁 気象警報・注意報"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
-          "snippet": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the ",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "熱中症警戒アラート",
+          "snippet": "【鹿児島県（奄美地方を除く）熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195514_0_VPFT50_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "France fire crews face searing heat in battle to contain flames",
-      "slug": "Francefirecrewsfaceseari",
-      "time": "2026-07-29T16:49:41.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:14.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "気象庁 気象警報・注意報"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "France fire crews face searing heat in battle to contain flames",
-          "snippet": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to h",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "熱中症警戒アラート",
+          "snippet": "【宮崎県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195514_0_VPFT50_450000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-      "slug": "Morethan100aftershockshi",
-      "time": "2026-07-29T11:47:05.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:13.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "気象庁 気象警報・注意報"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
-          "snippet": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "熱中症警戒アラート",
+          "snippet": "【熊本県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195513_0_VPFT50_430000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-      "slug": "SaudiArabiajoinsUSinstri",
-      "time": "2026-07-29T13:48:41.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:12.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【佐賀県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195512_0_VPFT50_410000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【長崎県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195511_0_VPFT50_420000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【大分県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195511_0_VPFT50_440000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【山口県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195510_0_VPFT50_350000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-07-29T19:55:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【福岡県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260729195511_0_VPFT50_400000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "slug": "SaudiArabiasdilemmaasitt",
+      "time": "2026-07-29T18:41:31.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -878,10 +896,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
-          "snippet": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
+          "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+          "snippet": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -903,6 +921,27 @@
           "snippet": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+      "slug": "Morethan100aftershockshi",
+      "time": "2026-07-29T11:47:05.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "More than 100 aftershocks hit Japan after powerful quake that killed 13",
+          "snippet": "People are being urged to stay alert, with earthquake aftershocks potentially reaching magnitude 7, officials say",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cgk43y21j0do?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -951,21 +990,42 @@
       ]
     },
     {
-      "headline": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
-      "slug": "BTSwithdrawfromGrammysam",
-      "time": "2026-07-29T08:16:15.000Z",
+      "headline": "Al-Shabab kills five Kenyan security personnel in ambush",
+      "slug": "AlShababkillsfiveKenyans",
+      "time": "2026-07-29T19:06:38.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "BTS withdraw from Grammys, a month after Asian pop prize introduced",
-          "snippet": "All seven members of the band post a statement online, saying they will boycott the 2027 ceremony.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyjgyd0225o?at_medium=RSS&at_campaign=rss",
+          "title": "Al-Shabab kills five Kenyan security personnel in ambush",
+          "snippet": "The ambush is part of a rapid surge in cross-border attacks along Kenya&#039;s northern frontier.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/29/al-shabab-kills-five-kenyan-security-personnel-in-ambush?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Hindus take holy dip in India’s rivers on sacred holiday",
+      "slug": "HindustakeholydipinIndia",
+      "time": "2026-07-29T18:49:33.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Hindus take holy dip in India’s rivers on sacred holiday",
+          "snippet": "Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1050,90 +1110,6 @@
           "snippet": "The benchmark KOSPI .KS11 sees steep decline as interest in chipmakers falls.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/economy/2026/7/29/south-koreas-stock-market-plunges-as-ai-driven-boom-fades?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Iran pushes back against US as regional attacks heat up",
-      "slug": "IranpushesbackagainstUSa",
-      "time": "2026-07-29T17:45:27.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Iran pushes back against US as regional attacks heat up",
-          "snippet": "New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Democrat senators ask US SEC to probe Trump Media’s fast feed sale",
-      "slug": "DemocratsenatorsaskUSSEC",
-      "time": "2026-07-29T17:40:14.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Democrat senators ask US SEC to probe Trump Media’s fast feed sale",
-          "snippet": "Trump Media has discussed charging as much as $100,000 a month for the Truth API product for buyers to get first access.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/7/29/democrat-senators-ask-us-sec-to-probe-trump-medias-fast-feed-sale?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
-      "slug": "FuelpricessoaronbackofIr",
-      "time": "2026-07-29T17:16:39.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
-          "snippet": "Construction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Is the world at risk of another energy shock?",
-      "slug": "Istheworldatriskofanothe",
-      "time": "2026-07-29T16:43:37.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Is the world at risk of another energy shock?",
-          "snippet": "Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
