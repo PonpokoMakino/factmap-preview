@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-07-30T11:18:59.193Z",
+  "builtAt": "2026-07-30T16:52:15.663Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -153,8 +153,8 @@
       }
     },
     {
-      "headline": "食品消費税、来年４月に１％　２年限定、首相正式表明―財源「赤字国債に頼らず」",
-      "slug": "食品消費税来年月に年限定首相正式表明財源赤字国債",
+      "headline": "NY市場 1ドル＝157円台後半まで値上がり 市場介入の観測も",
+      "slug": "NY市場1ドル157円台後半まで値上がり市場介入",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -164,27 +164,37 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015190631000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015191381000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589935?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6589962?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073000158&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026073001310&g=flash&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073001045&g=flash&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026073001321&g=flash&m=rss"
         }
       ],
-      "issue": "食料品消費税の減税は妥当か？",
-      "stasis": "政策",
+      "issue": "円相場の急激な変動は市場介入によるものか？",
+      "stasis": "因果の解釈（割れる）",
       "facts": [
         {
-          "t": "食料品の消費税率が来年4月から2年間、1%に引き下げられる方針が表明された。",
-          "span": "来年4月から2年間、税率を1％に引き下げ",
+          "t": "ニューヨーク外国為替市場で、ドルを売って円を買う動きが急激に進んだ。",
+          "span": "ドルを売って円を買う動きが急激に進み",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "円相場が一時、1ドル＝157円台後半まで値上がりした。",
+          "span": "1ドル＝157円台後半まで値上がりしました",
           "src": [
             {
               "ty": "press",
@@ -193,45 +203,114 @@
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
+            }
+          ]
+        },
+        {
+          "t": "円相場が一時、1ドル＝160円台に急反発した。",
+          "span": "１ドル＝１６０円台に急反発した",
+          "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "減税とあわせて、中低所得者への給付により実質ゼロとする方針も示された。",
-          "span": "あわせて中低所得の人への給付を行い実質ゼロとする方針",
+          "t": "円相場が一時、1ドル＝159円台に急反発した。",
+          "span": "１ドル＝１５９円台に急反発した",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "金融市場では、政府・日銀による市場介入の観測がある。",
+          "span": "市場介入の観測も",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "財源については、赤字国債に頼らない方針が示された。",
-          "span": "財源「赤字国債に頼らず」",
-          "src": [
+            },
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "食料品の消費税率が来年4月から2年間、1%に引き下げられる方針が表明された。評価は割れる。",
-      "note": "本件は政策決定に関する表明であり、複数の報道機関が報じているが、報道内容に大きな差異はない。ただし、政策の妥当性や財源に関する評価は本件からは読み取れない。",
+      "consensus": "円相場が急激に変動し、一時1ドル＝157円台後半、159円台、160円台まで値上がりした。金融市場では、この変動が政府・日銀による市場介入によるものだという観測があるが、その真偽は確認されていない。",
+      "note": "記事中に特定の立場を表明する主体が存在しないため、positionsは空配列です。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-      "slug": "USlaunchesheavystrikeson",
+      "headline": "矢野雅哉、前川誠太両選手に家宅捜索　松田オーナー「申し訳ない」―プロ野球広島",
+      "slug": "矢野雅哉前川誠太両選手に家宅捜索松田オナ申し訳な",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015190911000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589960?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073001011&g=soc&m=rss"
+        }
+      ],
+      "issue": "プロ野球広島カープの矢野選手と前川選手の自宅に対する警察の捜索",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "プロ野球広島カープの矢野雅哉選手と前川誠太選手の自宅などが警察の捜索を受けた。",
+          "span": "矢野雅哉選手と前川誠太選手の自宅などが警察の捜索を受けた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "警察による捜索は薬物に関連している。",
+          "span": "薬物巡り",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "プロ野球広島カープの矢野雅哉選手と前川誠太選手の自宅などが警察の捜索を受けたことは事実であり、球団とオーナーはそれぞれコメントを発表している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "issue: 争点ではなく出来事の主題であるため、「〜について」の形式を名詞句に修正しました。",
+          "positions[0].premises: 球団のコメントは事実0（捜索）を受けているため、premisesに0を追加しました。",
+          "positions[1].premises: 松田オーナーのコメントは事実0（捜索）を受けているため、premisesに0を追加しました。"
+        ]
+      }
+    },
+    {
+      "headline": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "slug": "Atleastfivemembersofsame",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -243,27 +322,35 @@
           "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/30/attack-on-northwest-pakistan-police-post-kills-11-officers?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/30/us-hits-multiple-targets-in-iran-as-irgc-pledges-retaliation-what-we-know?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/7/30/uefa-members-agree-fifa-boycott-if-world-cup-plans-pursued?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss"
         }
       ],
-      "issue": "米国とイランは、米軍兵士への攻撃未遂を受けて、互いにミサイル攻撃を再開したか？",
+      "issue": "米国とイラン間のミサイル攻撃の再開と、それぞれの主張は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "米国は、米軍兵士への攻撃未遂を受けて、イランに対して大規模な攻撃を実施した。",
+          "t": "米国は、米軍への攻撃未遂後にイランへの攻撃を開始したと報じられています。",
           "span": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
           "src": [
             {
@@ -273,8 +360,8 @@
           ]
         },
         {
-          "t": "一時的な停戦期間の後、両国はミサイル攻撃を再開した。",
-          "span": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+          "t": "短期間の休止期間を経て、双方はミサイル攻撃を再開したと報じられています。",
+          "span": "both sides have now restarted missile attacks",
           "src": [
             {
               "ty": "press",
@@ -283,68 +370,8 @@
           ]
         },
         {
-          "t": "イスラエルによるヨルダン川西岸地区での襲撃と入植者による攻撃が激化している。",
-          "span": "Israeli raids and settler attacks intensify across the occupied West Bank",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "パキスタン北西部で警察施設への攻撃があり、警察官11人が死亡した。",
-          "span": "Attack on northwest Pakistan police post kills 11 officers",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "パキスタン北西部ハンギ地区での襲撃中、15人の攻撃者も死亡した。",
-          "span": "Fifteen attackers were also killed during the hours-long raid in Pakistan&#039;s northwestern Hangu district.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イスラエルによるガザ地区での攻撃により、複数の子供が死亡または負傷した。",
-          "span": "Several children killed and wounded in Israeli attacks across Gaza",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イスラエルの攻撃は、ガザ地区のアル・マワシにある避難民テントを含む複数の地域に着弾した。",
-          "span": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国はイランの複数の標的を攻撃した。",
-          "span": "US hits multiple targets in Iran",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ヨルダンは、米国がイランの施設を攻撃した直後にミサイルを迎撃した。",
-          "span": "Jordan said it intercepted missiles shortly after the US struck Iranian sites including Qeshm and Bushehr.",
+          "t": "イラン南西部の都市アフヴァーズ上空に、米国の新たな攻撃後、大きな煙が立ち上るのが目撃された。",
+          "span": "A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.",
           "src": [
             {
               "ty": "press",
@@ -354,63 +381,15 @@
         }
       ],
       "positions": [],
-      "consensus": "米国はイランへの攻撃を実施し、両国はミサイル攻撃を再開した。イスラエルによる攻撃も激化しており、パキスタンでは警察施設への攻撃で多数が死亡した。",
-      "note": "プライバシー配慮のため、被害者の個人情報は含んでいません。",
+      "consensus": "米国とイランの間でミサイル攻撃が再開されたと報じられています。IRGCはヨルダンの米軍標的に対する報復攻撃を行ったと主張しています。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "consensus: \"評価は割れる\" は元テキストから読み取れないため削除しました。"
+          "facts[0].t: 評価語「大規模な」を削除し、著作権に配慮して中立的に再記述しました。",
+          "facts[1].t: 評価語「比較的平穏な」を削除し、著作権に配慮して中立的に再記述しました。",
+          "consensus: factsの記述変更に合わせて内容を再記述しました。"
         ]
-      }
-    },
-    {
-      "headline": "プロ野球 広島カープ 矢野選手と前川選手の自宅など警察が捜索",
-      "slug": "プロ野球広島カプ矢野選手と前川選手の自宅など警察",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015190911000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589918?source=rss"
-        }
-      ],
-      "issue": "広島カープの矢野選手と前川選手の自宅などが警察の捜索を受けたことは事実か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "プロ野球チーム広島カープは、矢野雅哉選手と前川誠太選手の自宅などが警察の捜索を受けたことを明らかにした。",
-          "span": "広島は矢野雅哉選手と前川誠太選手の自宅などが警察の捜索を受けたと明らかにしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "広島カープ球団は、捜査に全面的に協力するとコメントした。",
-          "span": "球団は「捜査に全面的に協力する」とコメントしています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "広島カープの矢野選手と前川選手の自宅などが警察の捜索を受けたことは明らかになった。球団は捜査に協力するとしている。カープ監督は選手に家宅捜索があったことについて謝罪した。",
-      "note": "本件に関する詳細な捜査内容や選手への処分については、現時点で報じられていない。",
-      "audit": {
-        "changed": false,
-        "issues": []
       }
     }
   ]
