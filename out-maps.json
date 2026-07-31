@@ -1,48 +1,48 @@
 {
-  "builtAt": "2026-07-30T23:29:38.517Z",
+  "builtAt": "2026-07-31T01:07:17.741Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "【被害状況】熊本地震 関連調査中含め34人死亡 熊本県発表",
-      "slug": "被害状況熊本地震関連調査中含め34人死亡熊本県発",
+      "headline": "株価 一時3200円以上値上がり AI・半導体市場拡大への期待",
+      "slug": "株価一時3200円以上値上がりAI半導体市場拡大",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "気象庁 地震・火山"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191461000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015191381000"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191421000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191471000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191291000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015191661000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589966?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6589985?source=rss"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260730225336_0_VXSE53_270000.xml"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589991?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073100183&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073100223&g=int&m=rss"
         }
       ],
-      "issue": "熊本地震の現状と今後の注意点は何か？",
-      "stasis": "事実",
+      "issue": "円相場の急激な値上がりは政府・日銀による市場介入によるものか？",
+      "stasis": "事実 | 因果の解釈（割れる）",
       "facts": [
         {
-          "t": "熊本県では地震活動が活発な状態が続いており、気象庁は1週間ほど最大震度7程度の地震に注意するよう呼びかけている。",
-          "span": "地震活動が活発な状態が続いています",
+          "t": "外国為替市場で30日夜、円相場がおよそ5円、円高方向に動き、一時1ドル=157円台まで値上がりした。",
+          "span": "円相場がおよそ5円、円高方向に動いて1ドル＝157円台まで値上がりし",
           "src": [
             {
               "ty": "press",
@@ -51,58 +51,8 @@
           ]
         },
         {
-          "t": "28日に熊本県で最大震度7の揺れを観測し、大きな被害が出ている。",
-          "span": "28日に最大震度7の揺れを観測し、大きな被害が出ている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊本県は、今回の地震で亡くなったかどうか調査中の人も含めて34人が死亡したと発表した。",
-          "span": "調査中の人も含めて34人が死亡したと発表しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊本県嘉島町の「イオンモール熊本」では、地震後に大規模な爆発が起き、31日も取り残された人がいないかを確認するため、警察による捜索が行われている。",
-          "span": "大規模な爆発が起きた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "31日も東日本と西日本を中心に危険な暑さになる見込みで、熊本県の地震被災地では30日より気温が高く猛烈な暑さになると予想されている。",
-          "span": "危険な暑さになる見込みです",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熱中症を防ぐためにできるかぎりの対策を行うよう呼びかけられている。",
-          "span": "熱中症を防ぐためにできるかぎりの対策を行ってください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "Yahoo!ニュースは、熊本地震の捜索活動において「72時間」が迫っていると報じている。",
-          "span": "迫る「72時間」",
+          "t": "政府関係者が、政府・日銀が為替介入に踏み切ったことを認めた。",
+          "span": "政府・日銀が為替介入",
           "src": [
             {
               "ty": "press",
@@ -111,24 +61,192 @@
           ]
         },
         {
-          "t": "31日07時50分頃に地震があった。",
-          "span": "地震がありました",
+          "t": "アメリカがレートチェックを実施した。",
+          "span": "米はレートチェック実施",
           "src": [
             {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "31日の東京株式市場で、日経平均株価は一時3200円以上値上がりした。",
+          "span": "日経平均株価は一時、3200円以上値上がりしています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "アメリカのIT大手「マイクロソフト」が発表した先月までの3か月間の決算が大幅な増益となった。",
+          "span": "アメリカのIT大手「マイクロソフト」が発表した先月までの3か月間の決算が大幅な増益となった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "熊本地震による被害が発生し、地震活動や気象状況に注意が必要であるという点で合意されている。評価は割れない。",
-      "note": "記事は複数の事実を伝えており、特定の争点に対する評価や意見の対立は含まれていないため、positionsは空配列です。",
+      "consensus": "外国為替市場で円相場が一時1ドル=157円台まで値上がりし、東京株式市場では日経平均株価が一時3200円以上値上がりした。政府関係者は政府・日銀による為替介入があったことを認めており、市場では円相場の値上がりがこの介入によるものとの見方が強い。日経平均株価の値上がりは、アメリカのIT大手マイクロソフトの好決算を受け、AIや半導体市場拡大への期待によるものと見られている。",
+      "note": "",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[6].t: Yahoo!ニュースの見出しを断定的な事実として記述していたため、情報源の報じている内容としてメタ記述に修正しました。"
+          "positions[1].claim: メタ記述の徹底と著作権の観点から、「〜と報じられている」の形式に修正し、元の文言からの再記述を行いました。",
+          "positions[2].claim: メタ記述の徹底と著作権の観点から、「〜と見られている」の形式に修正し、元の文言からの再記述を行いました。",
+          "positions[2].span: 元テキストに存在する最小核のフレーズ「AI・半導体市場拡大への期待」をspanとして設定しました。",
+          "position spanが原文に無い→除去「AIや半導体の市場拡大への期待…」"
         ]
+      }
+    },
+    {
+      "headline": "イオンモール熊本 取り残された人いないか 警察の捜索続く",
+      "slug": "イオンモル熊本取り残された人いないか警察の捜索続",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015191471000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6589984?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073001130&g=soc&m=rss"
+        }
+      ],
+      "issue": "イオンモール熊本の爆発は配管からのガス漏れが原因か？",
+      "stasis": "因果の解釈（専門家による可能性の指摘）",
+      "facts": [
+        {
+          "t": "熊本県嘉島町のイオンモール熊本で、地震後に大規模な爆発が発生した。",
+          "span": "地震後に大規模な爆発が起きた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "31日も、警察がイオンモール熊本で取り残された人がいないか確認するための捜索を続けている。",
+          "span": "取り残された人がいないかを確認するため、警察による捜索が行われています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "熊本県嘉島町のイオンモール熊本で地震後に大規模な爆発が発生し、警察が取り残された人の捜索を続けている。爆発の原因については、専門家が配管からのガス漏れが引火した可能性を指摘している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "stasis: テキスト内に複数の対立する見解が明示されていないため、「割れる」という表現を避け、「専門家による可能性の指摘」に修正しました。テキストに無い情報を推測で加えないという原則に則ります。"
+        ]
+      }
+    },
+    {
+      "headline": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "slug": "Hamassaysithasagreedtodi",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
+        }
+      ],
+      "issue": "トランプ氏が発表した和平計画に基づき、ハマスは武装解除し、イスラエルはガザから撤退するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "トランプ米大統領が「Board of Peace」計画を発表した。",
+          "span": "announces Board of Peace plan",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ米大統領は、ハマスが完全に武装解除することに合意が達したと述べた。",
+          "span": "agreement has been reached for Hamas to fully disarm",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トランプ米大統領は、ハマスの武装解除に続き、イスラエルがガザから撤退すると述べた。",
+          "span": "Israel will withdraw from Gaza following the disarmament of Hamas",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "トランプ米大統領は和平計画を発表し、ハマスの武装解除とイスラエルのガザ撤退に関する合意が達したと述べているが、ハマスは条件付きの合意を示し、イスラエルはコメントしていないため、評価は割れる。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     },
     {
@@ -212,218 +330,6 @@
           "facts[0].t: 評価語「大規模な」を削除し、著作権に配慮して中立的に再記述しました。",
           "facts[1].t: 評価語「比較的平穏な」を削除し、著作権に配慮して中立的に再記述しました。",
           "consensus: factsの記述変更に合わせて内容を再記述しました。"
-        ]
-      }
-    },
-    {
-      "headline": "NY市場 1ドル＝157円台後半まで値上がり 市場介入の観測も",
-      "slug": "NY市場1ドル157円台後半まで値上がり市場介入",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191381000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589962?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073001310&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073001321&g=flash&m=rss"
-        }
-      ],
-      "issue": "円相場の急激な変動は市場介入によるものか？",
-      "stasis": "因果の解釈（割れる）",
-      "facts": [
-        {
-          "t": "ニューヨーク外国為替市場で、ドルを売って円を買う動きが急激に進んだ。",
-          "span": "ドルを売って円を買う動きが急激に進み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "円相場が一時、1ドル＝157円台後半まで値上がりした。",
-          "span": "1ドル＝157円台後半まで値上がりしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "円相場が一時、1ドル＝160円台に急反発した。",
-          "span": "１ドル＝１６０円台に急反発した",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "円相場が一時、1ドル＝159円台に急反発した。",
-          "span": "１ドル＝１５９円台に急反発した",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "金融市場では、政府・日銀による市場介入の観測がある。",
-          "span": "市場介入の観測も",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "円相場が急激に変動し、一時1ドル＝157円台後半、159円台、160円台まで値上がりした。金融市場では、この変動が政府・日銀による市場介入によるものだという観測があるが、その真偽は確認されていない。",
-      "note": "記事中に特定の立場を表明する主体が存在しないため、positionsは空配列です。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "消費減税、自民から異論　早くも「延長含み」見方　インナー辞任のメンバーも",
-      "slug": "消費減税自民から異論早くも延長含み見方インナ辞任",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191271000"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073001140&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073000900&g=pol&m=rss"
-        }
-      ],
-      "issue": "食料品の消費税減税は適切か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "自民党執行部は、高市総理大臣の指示を受け、食料品の消費税減税に関する意見集約を急ぐ方針である。",
-          "span": "自民党執行部は意見集約を急ぐ方針です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "時事ドットコムは、消費税が過去の政権の命運を左右する「鬼門」であると報じている。",
-          "span": "歴代政権の命運を左右",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "自民党内で、インナー辞任のメンバーもいる。",
-          "span": "インナー辞任のメンバーも",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "高市総理大臣",
-          "stance": "support",
-          "claim": "食料品の消費税率を来年4月から2年間、1％に引き下げる方針を表明した。",
-          "span": "来年4月から2年間、税率を1％に引き下げる方針",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "actor": "自民党内の一部",
-          "stance": "attack",
-          "claim": "消費税減税について、財源が明確でないとして異論を唱えている。",
-          "span": "財源が明確でない",
-          "reason": "財源が明確でない。",
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "actor": "自民党内の一部",
-          "stance": "attack",
-          "claim": "消費税減税が「延長含み」であるとの見方を示している。",
-          "span": "「延長含み」見方",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "consensus": "高市総理大臣が食料品の消費税減税方針を表明し、自民党執行部が意見集約を急いでいるが、党内では財源や将来的な延長の可能性について異論が出ている。評価は割れる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].t: 事実欄への評価混入を修正。元のテキストが「鬼門」と評価していることをメタ記述に直し、「時事ドットコムは、消費税が過去の政権の命運を左右する『鬼門』であると報じている。」に変更しました。"
         ]
       }
     }
