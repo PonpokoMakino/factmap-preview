@@ -1,218 +1,65 @@
 {
-  "builtAt": "2026-07-31T01:07:17.741Z",
+  "builtAt": "2026-07-31T07:32:05.706Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "株価 一時3200円以上値上がり AI・半導体市場拡大への期待",
-      "slug": "株価一時3200円以上値上がりAI半導体市場拡大",
-      "independentSources": 3,
+      "headline": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
+      "slug": "FIFAdefiantoverWorldCupi",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191381000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191661000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589985?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589991?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073100183&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073100223&g=int&m=rss"
-        }
-      ],
-      "issue": "円相場の急激な値上がりは政府・日銀による市場介入によるものか？",
-      "stasis": "事実 | 因果の解釈（割れる）",
-      "facts": [
-        {
-          "t": "外国為替市場で30日夜、円相場がおよそ5円、円高方向に動き、一時1ドル=157円台まで値上がりした。",
-          "span": "円相場がおよそ5円、円高方向に動いて1ドル＝157円台まで値上がりし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "政府関係者が、政府・日銀が為替介入に踏み切ったことを認めた。",
-          "span": "政府・日銀が為替介入",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "アメリカがレートチェックを実施した。",
-          "span": "米はレートチェック実施",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "31日の東京株式市場で、日経平均株価は一時3200円以上値上がりした。",
-          "span": "日経平均株価は一時、3200円以上値上がりしています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "アメリカのIT大手「マイクロソフト」が発表した先月までの3か月間の決算が大幅な増益となった。",
-          "span": "アメリカのIT大手「マイクロソフト」が発表した先月までの3か月間の決算が大幅な増益となった",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "外国為替市場で円相場が一時1ドル=157円台まで値上がりし、東京株式市場では日経平均株価が一時3200円以上値上がりした。政府関係者は政府・日銀による為替介入があったことを認めており、市場では円相場の値上がりがこの介入によるものとの見方が強い。日経平均株価の値上がりは、アメリカのIT大手マイクロソフトの好決算を受け、AIや半導体市場拡大への期待によるものと見られている。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[1].claim: メタ記述の徹底と著作権の観点から、「〜と報じられている」の形式に修正し、元の文言からの再記述を行いました。",
-          "positions[2].claim: メタ記述の徹底と著作権の観点から、「〜と見られている」の形式に修正し、元の文言からの再記述を行いました。",
-          "positions[2].span: 元テキストに存在する最小核のフレーズ「AI・半導体市場拡大への期待」をspanとして設定しました。",
-          "position spanが原文に無い→除去「AIや半導体の市場拡大への期待…」"
-        ]
-      }
-    },
-    {
-      "headline": "イオンモール熊本 取り残された人いないか 警察の捜索続く",
-      "slug": "イオンモル熊本取り残された人いないか警察の捜索続",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191471000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589984?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073001130&g=soc&m=rss"
-        }
-      ],
-      "issue": "イオンモール熊本の爆発は配管からのガス漏れが原因か？",
-      "stasis": "因果の解釈（専門家による可能性の指摘）",
-      "facts": [
-        {
-          "t": "熊本県嘉島町のイオンモール熊本で、地震後に大規模な爆発が発生した。",
-          "span": "地震後に大規模な爆発が起きた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "31日も、警察がイオンモール熊本で取り残された人がいないか確認するための捜索を続けている。",
-          "span": "取り残された人がいないかを確認するため、警察による捜索が行われています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "熊本県嘉島町のイオンモール熊本で地震後に大規模な爆発が発生し、警察が取り残された人の捜索を続けている。爆発の原因については、専門家が配管からのガス漏れが引火した可能性を指摘している。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "stasis: テキスト内に複数の対立する見解が明示されていないため、「割れる」という表現を避け、「専門家による可能性の指摘」に修正しました。テキストに無い情報を推測で加えないという原則に則ります。"
-        ]
-      }
-    },
-    {
-      "headline": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "slug": "Hamassaysithasagreedtodi",
-      "independentSources": 2,
-      "sources": [
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015192111000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590032?source=rss"
+        },
+        {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss"
         }
       ],
-      "issue": "トランプ氏が発表した和平計画に基づき、ハマスは武装解除し、イスラエルはガザから撤退するか？",
+      "issue": "FIFAの子会社設立計画は、UEFAのワールドカップ参加ボイコットの脅威にもかかわらず、進められるべきか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "トランプ米大統領が「Board of Peace」計画を発表した。",
-          "span": "announces Board of Peace plan",
+          "t": "FIFAが外部からの投資を募り、商業活動と大会運営事業を担う新たな子会社を設立する計画を発表した。",
+          "span": "外部からの投資を募り商業活動と大会の運営事業を担う新たな子会社を設立する計画を発表した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "UEFA（ヨーロッパサッカー連盟）と加盟する55のサッカー協会は、この計画が撤回されない場合、ワールドカップに参加しないと表明している。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "UEFAは「ワールドカップは売り物ではない」と主張している。",
+          "span": "the World Cup is not for sale",
           "src": [
             {
               "ty": "press",
@@ -221,8 +68,28 @@
           ]
         },
         {
-          "t": "トランプ米大統領は、ハマスが完全に武装解除することに合意が達したと述べた。",
-          "span": "agreement has been reached for Hamas to fully disarm",
+          "t": "UEFAの加盟55協会は、FIFAが計画を推進した場合、将来の大会をボイコットする決議を採択した。",
+          "span": "its 55 member associations vote to boycott future tournaments if Fifa an",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "UEFAは、FIFAの計画が承認された場合、ワールドカップをボイコットすると述べている。",
+          "span": "Uefa to boycott World Cups if Fifa plans approved",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "UEFAは、FIFAの計画が推進された場合、ワールドカップへの参加をボイコットすると決議した。",
+          "span": "European football&#039;s governing body has voted to boycott FIFA if World Cup plans pursued",
           "src": [
             {
               "ty": "press",
@@ -231,22 +98,148 @@
           ]
         },
         {
-          "t": "トランプ米大統領は、ハマスの武装解除に続き、イスラエルがガザから撤退すると述べた。",
-          "span": "Israel will withdraw from Gaza following the disarmament of Hamas",
+          "t": "FIFAは、計画がボイコットの脅威に直面しているにもかかわらず、計画を進める意向を示している。",
+          "span": "",
           "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
             }
           ]
+        },
+        {
+          "t": "FIFAは、計画を進めるにあたり、協議プロセスを継続すると述べている。",
+          "span": "Fifa plans to continue the consultation process",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "FIFAは「誰もサッカーを売っているわけではない」と述べている。",
+          "span": "nobody selling football",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
         }
       ],
-      "positions": [],
-      "consensus": "トランプ米大統領は和平計画を発表し、ハマスの武装解除とイスラエルのガザ撤退に関する合意が達したと述べているが、ハマスは条件付きの合意を示し、イスラエルはコメントしていないため、評価は割れる。",
+      "positions": [
+        {
+          "actor": "UEFA（ヨーロッパサッカー連盟）と加盟する55のサッカー協会",
+          "stance": "attack",
+          "claim": "FIFAの新たな子会社設立計画が撤回されない場合、ワールドカップに参加しない。",
+          "span": "計画撤回されなければW杯参加せず",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "UEFA",
+          "stance": "attack",
+          "claim": "ワールドカップは売り物ではない。",
+          "span": "the World Cup is not for sale",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "UEFAの加盟55協会",
+          "stance": "attack",
+          "claim": "FIFAが計画を推進した場合、将来の大会をボイコットする。",
+          "span": "vote to boycott future tournaments if Fifa an",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "UEFA",
+          "stance": "attack",
+          "claim": "FIFAの計画が承認された場合、ワールドカップをボイコットする。",
+          "span": "Uefa to boycott World Cups if Fifa plans approved",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "UEFA",
+          "stance": "attack",
+          "claim": "FIFAの計画が推進された場合、ワールドカップへの参加をボイコットする。",
+          "span": "European football&#039;s governing body has voted to boycott FIFA if World Cup plans pursued",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "FIFA",
+          "stance": "support",
+          "claim": "計画を進める意向である。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "FIFA",
+          "stance": "neutral",
+          "claim": "計画を進めるにあたり、協議プロセスを継続する。",
+          "span": "Fifa plans to continue the consultation process",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "FIFA",
+          "stance": "neutral",
+          "claim": "誰もサッカーを売っているわけではない。",
+          "span": "nobody selling football",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "consensus": "FIFAは外部投資を募る子会社設立計画を発表したが、UEFAと加盟協会は計画撤回がなければワールドカップ参加をボイコットすると表明している。FIFAは計画を進める意向を示し、協議を続けるとしている。評価は割れている。",
       "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1].span: 元テキストの「計画撤回されなければW杯参加せず」をspanとして追加しました。",
+          "facts[6].span: 元テキストの「Fifa defiant over World Cup investment plan, despite UEFA’s vote to boycott」をspanとして追加しました。",
+          "positions[0].span: 元テキストの「計画撤回されなければW杯参加せず」をspanとして追加しました。",
+          "positions[5].span: 元テキストの「Fifa defiant over World Cup investment plan, despite UEFA’s vote to boycott」をspanとして追加しました。",
+          "fact spanが原文に無い→除去「計画が撤回されなければW杯参加せず…」",
+          "fact spanが原文に無い→除去「Fifa defiant over …」",
+          "position spanが原文に無い→除去「計画が撤回されなければW杯参加せず…」",
+          "position spanが原文に無い→除去「Fifa defiant over …」"
+        ]
       }
     },
     {
@@ -331,6 +324,148 @@
           "facts[1].t: 評価語「比較的平穏な」を削除し、著作権に配慮して中立的に再記述しました。",
           "consensus: factsの記述変更に合わせて内容を再記述しました。"
         ]
+      }
+    },
+    {
+      "headline": "【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表",
+      "slug": "被害状況熊本地震関連調査中含め35人死亡熊本県発",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015191421000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015191921000"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731063456_0_VXSE53_010000.xml"
+        }
+      ],
+      "issue": "熊本地震による被害状況はどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "熊本地震で、熊本県内では災害との関連を調査中の1人を含めて35人が死亡したと発表された。",
+          "span": "今回の地震で県内では災害との関連を調査している1人を含めて35人が死亡し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本地震で、熊本県内では9100人余りが避難していることが発表された。",
+          "span": "9100人余りが避難していることなど",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本地震で震度7の揺れを観測し大きな被害が出ている熊本県氷川町に、能登半島地震で被災した石川県能登町から派遣された「トイレカー」が31日に到着した。",
+          "span": "今回の地震で震度7の揺れを観測し大きな被害が出ている熊本県氷川町に、31日、能登半島地震で被災した石川県能登町から派遣された「トイレカー」が到着しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "31日15時32分頃、地震が発生した。",
+          "span": "３１日１５時３２分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "熊本地震による被害状況は、35人が死亡し、9100人余りが避難している。また、支援としてトイレカーが被災地に到着した。地震は31日15時32分頃に発生した。",
+      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+      "slug": "Hamassaysithasagreedtodi",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
+        }
+      ],
+      "issue": "トランプ氏が発表した和平計画に基づき、ハマスは武装解除し、イスラエルはガザから撤退するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "トランプ米大統領が「Board of Peace」計画を発表した。",
+          "span": "announces Board of Peace plan",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ米大統領は、ハマスが完全に武装解除することに合意が達したと述べた。",
+          "span": "agreement has been reached for Hamas to fully disarm",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トランプ米大統領は、ハマスの武装解除に続き、イスラエルがガザから撤退すると述べた。",
+          "span": "Israel will withdraw from Gaza following the disarmament of Hamas",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "トランプ米大統領は和平計画を発表し、ハマスの武装解除とイスラエルのガザ撤退に関する合意が達したと述べているが、ハマスは条件付きの合意を示し、イスラエルはコメントしていないため、評価は割れる。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     }
   ]
