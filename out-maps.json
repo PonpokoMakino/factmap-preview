@@ -1,45 +1,52 @@
 {
-  "builtAt": "2026-07-31T07:32:05.706Z",
+  "builtAt": "2026-07-31T14:58:21.331Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "FIFA defiant over World Cup investment plan, despite UEFA’s vote to boycott",
-      "slug": "FIFAdefiantoverWorldCupi",
-      "independentSources": 4,
+      "headline": "九州新幹線 熊本～新水俣間「8月中の運転再開は困難」JR九州",
+      "slug": "九州新幹線熊本新水俣間8月中の運転再開は困難JR",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "BBC World",
-        "Al Jazeera"
+        "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015192111000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015191421000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015192431000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015191291000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015192771000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590032?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590081?source=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss"
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731133742_0_VXSE53_270000.xml"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c5y67zrrdddo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/31/fifa-defiant-over-world-cup-investment-plan-despite-uefas-vote-to-boycott?traffic_source=rss"
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731130205_0_VXSE53_010000.xml"
         }
       ],
-      "issue": "FIFAの子会社設立計画は、UEFAのワールドカップ参加ボイコットの脅威にもかかわらず、進められるべきか？",
-      "stasis": "政策",
+      "issue": "熊本地震による被害状況と復旧の見通しはどうか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "FIFAが外部からの投資を募り、商業活動と大会運営事業を担う新たな子会社を設立する計画を発表した。",
-          "span": "外部からの投資を募り商業活動と大会の運営事業を担う新たな子会社を設立する計画を発表した",
+          "t": "熊本地震による死者は、関連死を含め36人になった。",
+          "span": "県内では死者が1人増えて36人になった",
           "src": [
             {
               "ty": "press",
@@ -48,8 +55,8 @@
           ]
         },
         {
-          "t": "UEFA（ヨーロッパサッカー連盟）と加盟する55のサッカー協会は、この計画が撤回されない場合、ワールドカップに参加しないと表明している。",
-          "span": "",
+          "t": "災害との関連を調査している死者は1人から2人になった。",
+          "span": "災害との関連を調査している死者が1人から2人になった",
           "src": [
             {
               "ty": "press",
@@ -58,188 +65,112 @@
           ]
         },
         {
-          "t": "UEFAは「ワールドカップは売り物ではない」と主張している。",
-          "span": "the World Cup is not for sale",
+          "t": "九州新幹線 熊本～新水俣間の8月中の運転再開は困難である。",
+          "span": "熊本駅と新水俣駅間の8月中の運行再開は困難だと発表しました",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "UEFAの加盟55協会は、FIFAが計画を推進した場合、将来の大会をボイコットする決議を採択した。",
-          "span": "its 55 member associations vote to boycott future tournaments if Fifa an",
+          "t": "九州新幹線 熊本～鹿児島中央駅間の運行が取りやめられている。",
+          "span": "熊本駅と鹿児島中央駅の間で運行を取りやめている九州新幹線",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "UEFAは、FIFAの計画が承認された場合、ワールドカップをボイコットすると述べている。",
-          "span": "Uefa to boycott World Cups if Fifa plans approved",
+          "t": "線路や橋りょうに大きな破損が確認されている。",
+          "span": "線路や橋りょうに大きな破損が確認された",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "UEFAは、FIFAの計画が推進された場合、ワールドカップへの参加をボイコットすると決議した。",
-          "span": "European football&#039;s governing body has voted to boycott FIFA if World Cup plans pursued",
+          "t": "1日も気温が上がり、熊本県の地震の被災地でも猛烈な暑さが予想されている。",
+          "span": "熊本県の地震の被災地でも猛烈な暑さが予想されていて",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "FIFAは、計画がボイコットの脅威に直面しているにもかかわらず、計画を進める意向を示している。",
-          "span": "",
+          "t": "震度6強の揺れを観測した。",
+          "span": "震度6強の揺れを観測した",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "FIFAは、計画を進めるにあたり、協議プロセスを継続すると述べている。",
-          "span": "Fifa plans to continue the consultation process",
+          "t": "倒壊した住宅に閉じ込められた女性がいた。",
+          "span": "倒壊した住宅に閉じ込められた女性",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "FIFAは「誰もサッカーを売っているわけではない」と述べている。",
-          "span": "nobody selling football",
+          "t": "地域の住民たちが協力して女性を救出した。",
+          "span": "地域の住民たちが協力して救出する映像が残されていました",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本地震の揺れの大きさが前回を上回った。",
+          "span": "揺れの大きさ前回上回る",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "31日22時35分頃に地震があった。",
+          "span": "３１日２２時３５分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "31日21時59分頃に地震があった。",
+          "span": "３１日２１時５９分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
             }
           ]
         }
       ],
-      "positions": [
-        {
-          "actor": "UEFA（ヨーロッパサッカー連盟）と加盟する55のサッカー協会",
-          "stance": "attack",
-          "claim": "FIFAの新たな子会社設立計画が撤回されない場合、ワールドカップに参加しない。",
-          "span": "計画撤回されなければW杯参加せず",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "UEFA",
-          "stance": "attack",
-          "claim": "ワールドカップは売り物ではない。",
-          "span": "the World Cup is not for sale",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "UEFAの加盟55協会",
-          "stance": "attack",
-          "claim": "FIFAが計画を推進した場合、将来の大会をボイコットする。",
-          "span": "vote to boycott future tournaments if Fifa an",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "UEFA",
-          "stance": "attack",
-          "claim": "FIFAの計画が承認された場合、ワールドカップをボイコットする。",
-          "span": "Uefa to boycott World Cups if Fifa plans approved",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "UEFA",
-          "stance": "attack",
-          "claim": "FIFAの計画が推進された場合、ワールドカップへの参加をボイコットする。",
-          "span": "European football&#039;s governing body has voted to boycott FIFA if World Cup plans pursued",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "FIFA",
-          "stance": "support",
-          "claim": "計画を進める意向である。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "FIFA",
-          "stance": "neutral",
-          "claim": "計画を進めるにあたり、協議プロセスを継続する。",
-          "span": "Fifa plans to continue the consultation process",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "FIFA",
-          "stance": "neutral",
-          "claim": "誰もサッカーを売っているわけではない。",
-          "span": "nobody selling football",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "consensus": "FIFAは外部投資を募る子会社設立計画を発表したが、UEFAと加盟協会は計画撤回がなければワールドカップ参加をボイコットすると表明している。FIFAは計画を進める意向を示し、協議を続けるとしている。評価は割れている。",
-      "note": null,
+      "positions": [],
+      "consensus": "熊本地震による死者は36人（うち関連死調査中2人）に達し、九州新幹線の一部区間では線路や橋りょうの破損により8月中の運転再開が困難である。被災地では猛烈な暑さが予想されるため熱中症対策が呼びかけられている。",
+      "note": "プライバシー配慮のため、救出された女性の個人情報は含めない。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].span: 元テキストの「計画撤回されなければW杯参加せず」をspanとして追加しました。",
-          "facts[6].span: 元テキストの「Fifa defiant over World Cup investment plan, despite UEFA’s vote to boycott」をspanとして追加しました。",
-          "positions[0].span: 元テキストの「計画撤回されなければW杯参加せず」をspanとして追加しました。",
-          "positions[5].span: 元テキストの「Fifa defiant over World Cup investment plan, despite UEFA’s vote to boycott」をspanとして追加しました。",
-          "fact spanが原文に無い→除去「計画が撤回されなければW杯参加せず…」",
-          "fact spanが原文に無い→除去「Fifa defiant over …」",
-          "position spanが原文に無い→除去「計画が撤回されなければW杯参加せず…」",
-          "position spanが原文に無い→除去「Fifa defiant over …」"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
@@ -327,82 +258,8 @@
       }
     },
     {
-      "headline": "【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表",
-      "slug": "被害状況熊本地震関連調査中含め35人死亡熊本県発",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 地震・火山"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191421000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191921000"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731063456_0_VXSE53_010000.xml"
-        }
-      ],
-      "issue": "熊本地震による被害状況はどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "熊本地震で、熊本県内では災害との関連を調査中の1人を含めて35人が死亡したと発表された。",
-          "span": "今回の地震で県内では災害との関連を調査している1人を含めて35人が死亡し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊本地震で、熊本県内では9100人余りが避難していることが発表された。",
-          "span": "9100人余りが避難していることなど",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊本地震で震度7の揺れを観測し大きな被害が出ている熊本県氷川町に、能登半島地震で被災した石川県能登町から派遣された「トイレカー」が31日に到着した。",
-          "span": "今回の地震で震度7の揺れを観測し大きな被害が出ている熊本県氷川町に、31日、能登半島地震で被災した石川県能登町から派遣された「トイレカー」が到着しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "31日15時32分頃、地震が発生した。",
-          "span": "３１日１５時３２分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "熊本地震による被害状況は、35人が死亡し、9100人余りが避難している。また、支援としてトイレカーが被災地に到着した。地震は31日15時32分頃に発生した。",
-      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
-      "slug": "Hamassaysithasagreedtodi",
+      "headline": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
+      "slug": "About60000migrantsarrive",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -411,27 +268,27 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss"
+          "link": "https://www.aljazeera.com/features/2026/7/31/spain-deploys-military-to-ceuta-after-migrant-surge-what-we-know?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss"
         }
       ],
-      "issue": "トランプ氏が発表した和平計画に基づき、ハマスは武装解除し、イスラエルはガザから撤退するか？",
-      "stasis": "政策",
+      "issue": "モロッコからのセウタへの大規模な移民流入は、スペイン領土への「攻撃」と見なされるべきか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "トランプ米大統領が「Board of Peace」計画を発表した。",
-          "span": "announces Board of Peace plan",
+          "t": "約60,000人の移民が24時間以内にスペイン領セウタに到着した。",
+          "span": "About 60,000 migrants arrive in Ceuta in 24 hours",
           "src": [
             {
               "ty": "press",
@@ -440,8 +297,18 @@
           ]
         },
         {
-          "t": "トランプ米大統領は、ハマスが完全に武装解除することに合意が達したと述べた。",
-          "span": "agreement has been reached for Hamas to fully disarm",
+          "t": "セウタはスペイン領である。",
+          "span": "Spanish territory",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "セウタはモロッコと国境を接するスペインの飛び地である。",
+          "span": "Spanish enclave bordering Morocco",
           "src": [
             {
               "ty": "press",
@@ -450,8 +317,58 @@
           ]
         },
         {
-          "t": "トランプ米大統領は、ハマスの武装解除に続き、イスラエルがガザから撤退すると述べた。",
-          "span": "Israel will withdraw from Gaza following the disarmament of Hamas",
+          "t": "スペインはセウタに軍隊を派遣・配備した。",
+          "span": "Spain sending troops",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "数千人がモロッコからセウタの飛び地に入国している。",
+          "span": "thousands enter enclave of Ceuta from Morocco",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "少なくとも18人がスペイン領へ泳いで渡ろうとして溺死した。",
+          "span": "At least 18 people drown",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "少なくとも34人がモロッコと国境を接するスペインの飛び地への越境を試みて死亡したと報じられた。",
+          "span": "At least 34 people reported killed",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "スペインとモロッコの国境で衝突が2日目に突入した。",
+          "span": "Second day of Spain – Morocco border clashes",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "大規模な移民流入があった。",
+          "span": "mass migrant influx",
           "src": [
             {
               "ty": "press",
@@ -461,11 +378,90 @@
         }
       ],
       "positions": [],
-      "consensus": "トランプ米大統領は和平計画を発表し、ハマスの武装解除とイスラエルのガザ撤退に関する合意が達したと述べているが、ハマスは条件付きの合意を示し、イスラエルはコメントしていないため、評価は割れる。",
+      "consensus": "約60,000人の移民がスペイン領セウタに流入し、スペインが軍隊を配備したこと、および越境中に死者が出たことについては合意がある。しかし、この状況が「攻撃」であるかどうかの評価は割れる。",
       "note": null,
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "日米など11か国 北朝鮮IT労働者への注意求める文書公表",
+      "slug": "日米など11か国北朝鮮IT労働者への注意求める文",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193011000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073101349&g=pol&m=rss"
+        }
+      ],
+      "issue": "北朝鮮IT労働者への注意喚起に関する日米など11か国の共同文書公表",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "日本やアメリカを含む11か国の関係機関が、共同で文書を公表した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "公表された文書は、北朝鮮のIT労働者に対する監視を強化するよう求めている。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "文書は、北朝鮮側の手口に関する認識を深め、対抗措置を講じることを目的としている。",
+          "span": "北朝鮮側の手口に関する認識を深め、対抗措置をとること",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "北朝鮮のIT労働者は、他国の国民になりすまして海外企業から収入を得ている。",
+          "span": "ほかの国の国民になりすまし、海外企業から収入を得る北朝鮮のIT労働者",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日本やアメリカを含む11か国が、北朝鮮IT労働者への注意を求める文書を公表したことについては合意されている。この文書の具体的な影響や効果については、記事中では言及されていない。",
+      "note": "記事中に評価や対立する意見を述べる主体が存在しないため、positionsは空配列です。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: issueが賛否の割れる問いではなかったため、中立的なトピック記述に修正しました。",
+          "spanの最小核: facts[0]とfacts[1]のspanが空だったため、元テキストから最小核を抽出して補完しました。",
+          "fact spanが原文に無い→除去「日米など11か国の関係機関が共同で文…」",
+          "fact spanが原文に無い→除去「北朝鮮のIT労働者への監視を強めよう…」"
+        ]
       }
     }
   ]
