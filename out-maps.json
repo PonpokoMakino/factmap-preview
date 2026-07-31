@@ -1,14 +1,15 @@
 {
-  "builtAt": "2026-07-31T14:58:21.331Z",
+  "builtAt": "2026-07-31T18:12:32.101Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "九州新幹線 熊本～新水俣間「8月中の運転再開は困難」JR九州",
-      "slug": "九州新幹線熊本新水俣間8月中の運転再開は困難JR",
-      "independentSources": 3,
+      "headline": "猛暑の被災地、断水続く　「いつまで」避難疲れも―震度６強の宇土市など・熊本地震",
+      "slug": "猛暑の被災地断水続くいつまで避難疲れも震度強の宇",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "気象庁 地震・火山"
       ],
       "links": [
@@ -33,20 +34,24 @@
           "link": "https://news.yahoo.co.jp/pickup/6590081?source=rss"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731133742_0_VXSE53_270000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073101215&g=soc&m=rss"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731130205_0_VXSE53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731165119_0_VXSE53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731160020_0_VXSE53_010000.xml"
         }
       ],
-      "issue": "熊本地震による被害状況と復旧の見通しはどうか？",
+      "issue": "熊本地震の被災地における現状と課題は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "熊本地震による死者は、関連死を含め36人になった。",
-          "span": "県内では死者が1人増えて36人になった",
+          "t": "熊本県内で熊本地震による死者が36人になった。",
+          "span": "36人になった",
           "src": [
             {
               "ty": "press",
@@ -55,7 +60,7 @@
           ]
         },
         {
-          "t": "災害との関連を調査している死者は1人から2人になった。",
+          "t": "災害との関連を調査中の死者が2人になった。",
           "span": "災害との関連を調査している死者が1人から2人になった",
           "src": [
             {
@@ -65,8 +70,8 @@
           ]
         },
         {
-          "t": "九州新幹線 熊本～新水俣間の8月中の運転再開は困難である。",
-          "span": "熊本駅と新水俣駅間の8月中の運行再開は困難だと発表しました",
+          "t": "JR九州は、九州新幹線の熊本駅と鹿児島中央駅の間で運行を取りやめている。",
+          "span": "運行を取りやめている",
           "src": [
             {
               "ty": "press",
@@ -75,17 +80,7 @@
           ]
         },
         {
-          "t": "九州新幹線 熊本～鹿児島中央駅間の運行が取りやめられている。",
-          "span": "熊本駅と鹿児島中央駅の間で運行を取りやめている九州新幹線",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "線路や橋りょうに大きな破損が確認されている。",
+          "t": "九州新幹線の線路や橋りょうに大きな破損が確認された。",
           "span": "線路や橋りょうに大きな破損が確認された",
           "src": [
             {
@@ -95,8 +90,8 @@
           ]
         },
         {
-          "t": "1日も気温が上がり、熊本県の地震の被災地でも猛烈な暑さが予想されている。",
-          "span": "熊本県の地震の被災地でも猛烈な暑さが予想されていて",
+          "t": "1日も熊本県の地震被災地で猛烈な暑さが予想されている。",
+          "span": "猛烈な暑さが予想されていて",
           "src": [
             {
               "ty": "press",
@@ -105,28 +100,8 @@
           ]
         },
         {
-          "t": "震度6強の揺れを観測した。",
-          "span": "震度6強の揺れを観測した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "倒壊した住宅に閉じ込められた女性がいた。",
-          "span": "倒壊した住宅に閉じ込められた女性",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "地域の住民たちが協力して女性を救出した。",
-          "span": "地域の住民たちが協力して救出する映像が残されていました",
+          "t": "熊本県八代市で、倒壊した住宅に閉じ込められた女性が地域住民の協力で救出された。",
+          "span": "倒壊した住宅に閉じ込められた女性を地域の住民たちが協力して救出",
           "src": [
             {
               "ty": "press",
@@ -145,121 +120,61 @@
           ]
         },
         {
-          "t": "31日22時35分頃に地震があった。",
-          "span": "３１日２２時３５分ころ、地震がありました",
+          "t": "猛暑の被災地で断水が続いている。",
+          "span": "断水続く",
           "src": [
             {
               "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "震度6強を観測した宇土市などで避難疲れが見られる。",
+          "span": "避難疲れも",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "1日01時48分ごろに地震があった。",
+          "span": "",
+          "src": [
+            {
+              "ty": "prim",
               "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "31日21時59分頃に地震があった。",
-          "span": "３１日２１時５９分ころ、地震がありました",
+          "t": "1日00時57分ごろに地震があった。",
+          "span": "",
           "src": [
             {
-              "ty": "press",
+              "ty": "prim",
               "l": "気象庁 地震・火山"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "熊本地震による死者は36人（うち関連死調査中2人）に達し、九州新幹線の一部区間では線路や橋りょうの破損により8月中の運転再開が困難である。被災地では猛烈な暑さが予想されるため熱中症対策が呼びかけられている。",
-      "note": "プライバシー配慮のため、救出された女性の個人情報は含めない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "slug": "Atleastfivemembersofsame",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/30/nato-jets-scramble-as-russian-missile-detonates-in-poland?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/irgc-video-of-retaliatory-strikes-on-us-targets-in-jordan?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/30/uefa-members-agree-fifa-boycott-if-world-cup-plans-pursued?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss"
-        }
-      ],
-      "issue": "米国とイラン間のミサイル攻撃の再開と、それぞれの主張は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "米国は、米軍への攻撃未遂後にイランへの攻撃を開始したと報じられています。",
-          "span": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "短期間の休止期間を経て、双方はミサイル攻撃を再開したと報じられています。",
-          "span": "both sides have now restarted missile attacks",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イラン南西部の都市アフヴァーズ上空に、米国の新たな攻撃後、大きな煙が立ち上るのが目撃された。",
-          "span": "A large plume of smoke was seen rising over the southwestern Iranian city of Ahvaz following renewed US strikes.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米国とイランの間でミサイル攻撃が再開されたと報じられています。IRGCはヨルダンの米軍標的に対する報復攻撃を行ったと主張しています。",
+      "consensus": "熊本地震の被災地では、死者数が増加し、新幹線の一部区間の復旧が困難であるなど、依然として厳しい状況が続いている。また、猛暑による熱中症や断水、避難疲れといった課題も顕在化している。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "facts[0].t: 評価語「大規模な」を削除し、著作権に配慮して中立的に再記述しました。",
-          "facts[1].t: 評価語「比較的平穏な」を削除し、著作権に配慮して中立的に再記述しました。",
-          "consensus: factsの記述変更に合わせて内容を再記述しました。"
+          "positions[1] (NHKの熱中症対策の呼びかけ) は、特定のアクターによる争点に対する主張ではなく、メディアが報じる一般的な注意喚起であるため、positionsから削除しました。",
+          "残りのpositions[0] (JR九州の運行再開困難の評価) も、争点に対する主張というよりは、アクターによる状況の事実評価であるため、positionsセクション全体を空にしました。これにより、issueが「現状と課題」という事実ベースの問いであることと整合させました。",
+          "facts[9]とfacts[10]のspanを、文全体から最小核「〜地震があった」に修正しました。"
         ]
       }
     },
     {
-      "headline": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-      "slug": "About60000migrantsarrive",
+      "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "slug": "SpainsPMblamestrafficker",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -276,19 +191,15 @@
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/7/31/spain-deploys-military-to-ceuta-after-migrant-surge-what-we-know?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/second-day-of-spain-morocco-border-clashes-amid-mass-migrant-influx?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss"
         }
       ],
-      "issue": "モロッコからのセウタへの大規模な移民流入は、スペイン領土への「攻撃」と見なされるべきか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "モロッコからの移民流入はスペインの領土保全に対する侵害か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "約60,000人の移民が24時間以内にスペイン領セウタに到着した。",
-          "span": "About 60,000 migrants arrive in Ceuta in 24 hours",
+          "t": "約60,000人の移民がモロッコからスペイン領セウタに到達した。",
+          "span": "60,000 migrants reach Ceuta from Morocco",
           "src": [
             {
               "ty": "press",
@@ -297,8 +208,8 @@
           ]
         },
         {
-          "t": "セウタはスペイン領である。",
-          "span": "Spanish territory",
+          "t": "ほとんどの移民は金曜日の夕方までにモロッコへ帰還した。",
+          "span": "most of the migrants had returned to Morocco by Friday evening",
           "src": [
             {
               "ty": "press",
@@ -307,18 +218,8 @@
           ]
         },
         {
-          "t": "セウタはモロッコと国境を接するスペインの飛び地である。",
-          "span": "Spanish enclave bordering Morocco",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "スペインはセウタに軍隊を派遣・配備した。",
-          "span": "Spain sending troops",
+          "t": "スペインは軍隊を派遣した。",
+          "span": "sending troops",
           "src": [
             {
               "ty": "press",
@@ -327,17 +228,7 @@
           ]
         },
         {
-          "t": "数千人がモロッコからセウタの飛び地に入国している。",
-          "span": "thousands enter enclave of Ceuta from Morocco",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "少なくとも18人がスペイン領へ泳いで渡ろうとして溺死した。",
+          "t": "少なくとも18人がスペイン領土へ泳いで渡ろうとして溺死した。",
           "span": "At least 18 people drown",
           "src": [
             {
@@ -347,51 +238,88 @@
           ]
         },
         {
-          "t": "少なくとも34人がモロッコと国境を接するスペインの飛び地への越境を試みて死亡したと報じられた。",
-          "span": "At least 34 people reported killed",
+          "t": "イタリアはシェンゲン協定を停止した。",
+          "span": "suspended its Schengen agreement",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "スペインとモロッコの国境で衝突が2日目に突入した。",
-          "span": "Second day of Spain – Morocco border clashes",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "大規模な移民流入があった。",
-          "span": "mass migrant influx",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "約60,000人の移民がスペイン領セウタに流入し、スペインが軍隊を配備したこと、および越境中に死者が出たことについては合意がある。しかし、この状況が「攻撃」であるかどうかの評価は割れる。",
+      "consensus": "モロッコからスペイン領セウタへの大規模な移民流入があり、多数が帰還し、一部で死者が出たことは事実として合意されている。この流入が領土保全の侵害にあたるかについては評価が分かれる。",
       "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positions[1]（移民流入の原因を人身売買業者にあるとした）は、issue「モロッコからの移民流入はスペインの領土保全に対する侵害か？」に直接的な賛否を示すものではなく、移民流入の原因に関する別の主張であるため、positionsから削除しました。"
+        ]
       }
     },
     {
-      "headline": "日米など11か国 北朝鮮IT労働者への注意求める文書公表",
-      "slug": "日米など11か国北朝鮮IT労働者への注意求める文",
+      "headline": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
+      "slug": "Tunisianwildfiresexposef",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss"
+        }
+      ],
+      "issue": null,
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ギリシャで発生した山火事により、数百人が海路で避難した。",
+          "span": "Hundreds escape Greek wildfire by sea",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アギオス・バシレイオスでは、約500人（主に観光客）が閉じ込められた後、ボートで避難した。",
+          "span": "evacuated by boat from Agios Vasileios",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ギリシャの山火事により数百人が避難したという事実。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: issueがテキストにない対立を暗示していたため、nullに修正しました。テキストは事実の報告であり、議論の余地はありません。"
+        ]
+      }
+    },
+    {
+      "headline": "Western allies warn North Korean IT workers funding nuclear arsenal",
+      "slug": "WesternallieswarnNorthKo",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "Al Jazeera"
       ],
       "links": [
         {
@@ -399,16 +327,16 @@
           "link": "https://news.web.nhk/newsweb/na/na-k10015193011000"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101349&g=pol&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss"
         }
       ],
-      "issue": "北朝鮮IT労働者への注意喚起に関する日米など11か国の共同文書公表",
+      "issue": "北朝鮮のIT労働者による核開発資金調達活動に対し、国際社会はどのように対応すべきか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "日本やアメリカを含む11か国の関係機関が、共同で文書を公表した。",
-          "span": "",
+          "t": "日本やアメリカなど11か国の関係機関が、北朝鮮のIT労働者への注意を求める共同文書を公表した。",
+          "span": "北朝鮮IT労働者への注意求める文書公表",
           "src": [
             {
               "ty": "press",
@@ -416,33 +344,33 @@
             },
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "公表された文書は、北朝鮮のIT労働者に対する監視を強化するよう求めている。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "文書は、北朝鮮側の手口に関する認識を深め、対抗措置を講じることを目的としている。",
-          "span": "北朝鮮側の手口に関する認識を深め、対抗措置をとること",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
           "t": "北朝鮮のIT労働者は、他国の国民になりすまして海外企業から収入を得ている。",
-          "span": "ほかの国の国民になりすまし、海外企業から収入を得る北朝鮮のIT労働者",
+          "span": "ほかの国の国民になりすまし、海外企業から収入を得る",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "北朝鮮は、AIを活用した労働者が稼いだ外貨を兵器プログラムの資金源としていると非難されている。",
+          "span": "using hard currency earned by AI-assisted workers to power armaments programme",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "公表された文書は、北朝鮮側の手口に関する認識を深め、対抗措置をとることを求めている。",
+          "span": "北朝鮮側の手口に関する認識を深め、対抗措置をとること",
           "src": [
             {
               "ty": "press",
@@ -452,15 +380,12 @@
         }
       ],
       "positions": [],
-      "consensus": "日本やアメリカを含む11か国が、北朝鮮IT労働者への注意を求める文書を公表したことについては合意されている。この文書の具体的な影響や効果については、記事中では言及されていない。",
-      "note": "記事中に評価や対立する意見を述べる主体が存在しないため、positionsは空配列です。",
+      "consensus": "北朝鮮のIT労働者による資金調達活動が国際社会の懸念事項であることには合意がある。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: issueが賛否の割れる問いではなかったため、中立的なトピック記述に修正しました。",
-          "spanの最小核: facts[0]とfacts[1]のspanが空だったため、元テキストから最小核を抽出して補完しました。",
-          "fact spanが原文に無い→除去「日米など11か国の関係機関が共同で文…」",
-          "fact spanが原文に無い→除去「北朝鮮のIT労働者への監視を強めよう…」"
+          "positions[0].claim: メタ記述の徹底のため、「〜と求めている」の構造に修正しました。"
         ]
       }
     }

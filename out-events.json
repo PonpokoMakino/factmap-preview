@@ -1,18 +1,19 @@
 {
-  "rankedAt": "2026-07-31T16:49:13.927Z",
+  "rankedAt": "2026-07-31T18:12:32.101Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "九州新幹線 熊本～新水俣間「8月中の運転再開は困難」JR九州",
-      "slug": "九州新幹線熊本新水俣間8月中の運転再開は困難JR",
-      "time": "2026-07-31T16:00:20.000Z",
-      "independentSources": 3,
+      "headline": "猛暑の被災地、断水続く　「いつまで」避難疲れも―震度６強の宇土市など・熊本地震",
+      "slug": "猛暑の被災地断水続くいつまで避難疲れも震度強の宇",
+      "time": "2026-07-31T16:51:19.000Z",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "気象庁 地震・火山"
       ],
-      "count": 7,
+      "count": 8,
       "hasPrimary": true,
       "members": [
         {
@@ -56,33 +57,79 @@
           "linkKind": "article"
         },
         {
+          "title": "猛暑の被災地、断水続く　「いつまで」避難疲れも―震度６強の宇土市など・熊本地震",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073101215&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　１日０１時４８分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731165119_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
           "title": "震源・震度に関する情報",
           "snippet": "【震源・震度情報】　１日００時５７分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260731160020_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　１日００時０５分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731150820_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "slug": "Atleastfivemembersofsame",
+      "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+      "slug": "SpainsPMblamestrafficker",
+      "time": "2026-07-31T17:03:47.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
+          "snippet": "Spain said most of the migrants had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on ",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
+          "snippet": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
+          "snippet": "Spanish Prime Minister Pedro Sanchez has said that the massive influx of migrants from Morocco was a “violation.&quot;",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
+      "slug": "Tunisianwildfiresexposef",
       "time": "2026-07-31T16:06:05.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 5,
+      "count": 3,
       "hasPrimary": false,
       "members": [
         {
@@ -102,35 +149,49 @@
           "linkKind": "article"
         },
         {
-          "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
-          "snippet": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
           "title": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
           "snippet": "For families in Tunisia&#039;s north, the wildfires have meant lost homes, livestock and harvests.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Western allies warn North Korean IT workers funding nuclear arsenal",
+      "slug": "WesternallieswarnNorthKo",
+      "time": "2026-07-31T17:06:52.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "日米など11か国 北朝鮮IT労働者への注意求める文書公表",
+          "snippet": "ほかの国の国民になりすまし、海外企業から収入を得る北朝鮮のIT労働者への監視を強めようと、日本やアメリカなど11か国の関係機関が共同で文書を公表し、北朝鮮側の手口に関する認識を深め、対抗措置をとること…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193011000",
+          "ty": "press",
+          "linkKind": "article"
         },
         {
-          "title": "Russia and Ukraine report casualties as they continue to trade attacks",
-          "snippet": "Ukraine hit Russian oil refineries several times, while Russia struck Dnipropetrovsk and a cargo vessel near Odesa.",
+          "title": "Western allies warn North Korean IT workers funding nuclear arsenal",
+          "snippet": "Pyongyang accused of using hard currency earned by AI-assisted workers to power armaments programme.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/31/russia-and-ukraine-report-casualties-as-they-continue-to-trade-attacks?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-      "slug": "About60000migrantsarrive",
-      "time": "2026-07-31T16:17:59.000Z",
+      "headline": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+      "slug": "BowenPlanforHamastodisar",
+      "time": "2026-07-31T16:35:17.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -140,27 +201,27 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "About 60,000 migrants arrive in Ceuta in 24 hours, Spanish territory's leader says",
-          "snippet": "Spain's prime minister described the situation as an \"attack\" on its North African territory and said all illegal migran",
+          "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+          "snippet": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement ",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Spain PM: Ceuta migrant surge a ‘violation of territorial integrity’",
-          "snippet": "Spanish Prime Minister Pedro Sanchez has said that the massive influx of migrants from Morocco was a “violation.&quot;",
+          "title": "Three-year roadmap proposed for Hamas disarmament in Gaza",
+          "snippet": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-31T16:41:47.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-07-31T18:07:09.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -169,108 +230,34 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【岩手県気象警報・注意報】内陸では、土砂災害や低い土地の浸水に注意してください。岩手県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731164149_0_VPWW54_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【岩手県気象警報・注意報】内陸では、土砂災害や低い土地の浸水に注意してください。岩手県では、落雷や濃霧による視程障害に注意してください。",
+          "snippet": "【山形県気象警報・注意報】〈危険警報（土砂災害）〉最上では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731164149_0_VPWW53_030000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731180710_0_VPWW53_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【岩手県気象警報・注意報】内陸では、土砂災害や低い土地の浸水に注意してください。岩手県では、落雷や濃霧による視程障害に注意してください。",
+          "snippet": "【山形県気象警報・注意報】〈危険警報（土砂災害）〉最上では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731162915_0_VPWW54_030000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731180710_0_VPWW54_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【岩手県気象警報・注意報】内陸では、土砂災害や低い土地の浸水に注意してください。岩手県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731162915_0_VPWW53_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "太田が決勝本塁打　プロ野球・西武４―５オリックス",
-      "slug": "太田が決勝本塁打プロ野球西武オリックス",
-      "time": "2026-07-31T14:28:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "プロ野球・ひとこと",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101437&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "オリックスの太田、執念の決勝弾　プロ野球",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101449&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "太田が決勝本塁打　プロ野球・西武４―５オリックス",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101424&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-07-31T16:47:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 3,
-      "hasPrimary": true,
-      "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や落雷に注意してください。",
+          "snippet": "【山形県気象警報・注意報】最上では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731164735_0_VPWW54_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731175203_0_VPWW54_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や落雷に注意してください。",
+          "snippet": "【山形県気象警報・注意報】最上では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731164735_0_VPWW53_040000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮城県気象警報・注意報】西部では、土砂災害に注意してください。宮城県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731161947_0_VPWW53_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731175203_0_VPWW53_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -279,7 +266,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-07-31T16:41:36.000Z",
+      "time": "2026-07-31T18:07:05.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -289,19 +276,77 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【岩手県大雨警報・注意報】内陸では、低い土地の浸水や河川の増水に注意してください。",
+          "snippet": "【山形県大雨警報・注意報】最上では、低い土地の浸水や河川の増水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731164136_0_VPWW55_030000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731180705_0_VPWW55_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【岩手県大雨警報・注意報】内陸では、低い土地の浸水や河川の増水に注意してください。",
+          "snippet": "【山形県大雨警報・注意報】最上では、低い土地の浸水や河川の増水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731162908_0_VPWW55_030000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731175150_0_VPWW55_060000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-07-31T17:45:43.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や低い土地の浸水、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731174544_0_VPWW54_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や低い土地の浸水、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731174544_0_VPWW53_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
+      "slug": "NewYorksuesKalshisaysits",
+      "time": "2026-07-31T18:02:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Why is Israel arming illegal settlers?",
+          "snippet": "As settler attacks reach record levels, the government has distributed more than 100,000 assault rifles to Israelis.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/why-is-israel-arming-illegal-settlers?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’",
+          "snippet": "New York is one of many states with cases against Kalshi and others in dispute with Trump gov&#039;t on who gets to regu",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/7/31/new-york-sues-kalshi-says-its-prediction-markets-are-illegal-gambling?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -321,27 +366,6 @@
           "snippet": "日銀は、31日まで開いた金融政策決定会合で、今の政策を維持することを決めました。6月、利上げに踏み切ったばかりで、家計や企業への影響を見極める必要があると判断したとみられます。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015191761000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "日米など11か国 北朝鮮IT労働者への注意求める文書公表",
-      "slug": "日米など11か国北朝鮮IT労働者への注意求める文",
-      "time": "2026-07-31T13:57:42.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "日米など11か国 北朝鮮IT労働者への注意求める文書公表",
-          "snippet": "ほかの国の国民になりすまし、海外企業から収入を得る北朝鮮のIT労働者への監視を強めようと、日本やアメリカなど11か国の関係機関が共同で文書を公表し、北朝鮮側の手口に関する認識を深め、対抗措置をとること…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193011000",
           "ty": "press",
           "linkKind": "article"
         }
@@ -558,27 +582,6 @@
       ]
     },
     {
-      "headline": "米財務省によると、円の為替介入をする可能性を市中銀行に伝えた",
-      "slug": "米財務省によると円の為替介入をする可能性を市中銀",
-      "time": "2026-07-31T14:10:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "米財務省によると、円の為替介入をする可能性を市中銀行に伝えた",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101434&g=flash&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "止まらない円安、米国が日本と再び協調　混乱回避へ、今年２度目の「レートチェック」",
       "slug": "止まらない円安米国が日本と再び協調混乱回避へ今年",
       "time": "2026-07-31T14:53:00.000Z",
@@ -600,9 +603,9 @@
       ]
     },
     {
-      "headline": "れいわ新代表に山本譲司氏　８月中にも党名変更",
-      "slug": "れいわ新代表に山本譲司氏月中にも党名変更",
-      "time": "2026-07-31T12:19:00.000Z",
+      "headline": "オリックスの太田、執念の決勝弾　プロ野球",
+      "slug": "オリックスの太田執念の決勝弾プロ野球",
+      "time": "2026-07-31T14:28:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -611,10 +614,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "れいわ新代表に山本譲司氏　８月中にも党名変更",
+          "title": "オリックスの太田、執念の決勝弾　プロ野球",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073100881&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026073101449&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -642,9 +645,9 @@
       ]
     },
     {
-      "headline": "宇野昌磨と本田真凜、プログラム披露　アイスショーに出演―フィギュア",
-      "slug": "宇野昌磨と本田真凜プログラム披露アイスショに出演",
-      "time": "2026-07-31T10:21:00.000Z",
+      "headline": "韓国軍、あわや米無人機撃墜　一時誤認で警戒態勢",
+      "slug": "韓国軍あわや米無人機撃墜一時誤認で警戒態勢",
+      "time": "2026-07-31T06:43:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -653,10 +656,73 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "宇野昌磨と本田真凜、プログラム披露　アイスショーに出演―フィギュア",
+          "title": "韓国軍、あわや米無人機撃墜　一時誤認で警戒態勢",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101218&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026073100877&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ひろゆき氏と泉房穂氏が地域政党　統一選で候補者擁立へ",
+      "slug": "ひろゆき氏と泉房穂氏が地域政党統一選で候補者擁立",
+      "time": "2026-07-31T08:13:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ひろゆき氏と泉房穂氏が地域政党　統一選で候補者擁立へ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073101019&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "れいわ新代表に山本譲司氏　８月中にも党名変更",
+      "slug": "れいわ新代表に山本譲司氏月中にも党名変更",
+      "time": "2026-07-31T12:19:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "れいわ新代表に山本譲司氏　８月中にも党名変更",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073100881&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "中国、東シナ海に新構造物　２４基目、外務省が抗議",
+      "slug": "中国東シナ海に新構造物基目外務省が抗議",
+      "time": "2026-07-31T12:06:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "中国、東シナ海に新構造物　２４基目、外務省が抗議",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073101325&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -665,91 +731,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-31T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１日０９時から１２時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731140049_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-31T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１日０９時から１２時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731140052_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-31T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731140055_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-31T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731140030_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-07-31T14:00:00.000Z",
+      "time": "2026-07-31T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -761,7 +743,7 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１日０９時から１２時までは火口から北東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731140033_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731170033_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -770,7 +752,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-31T14:00:00.000Z",
+      "time": "2026-07-31T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -782,7 +764,7 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１日０９時から１２時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731140037_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731170037_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -791,7 +773,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-31T14:00:00.000Z",
+      "time": "2026-07-31T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -803,7 +785,7 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１日０９時から１２時までは火口から南方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731140041_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731170041_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -812,7 +794,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-07-31T14:00:00.000Z",
+      "time": "2026-07-31T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -824,7 +806,112 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１日０９時から１２時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731140045_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731170045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-31T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１日０９時から１２時までは火口から南東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731170048_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-31T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１日０９時から１２時までは火口から南東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731170052_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-31T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731170055_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-07-31T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731170030_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "土砂災害警戒情報",
+      "slug": "土砂災害警戒情報",
+      "time": "2026-07-31T18:07:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "土砂災害警戒情報",
+          "snippet": "【山形県レベル４土砂災害危険警報】＜レベル４土砂災害危険警報の補足情報＞\nレベル４土砂災害危険警報が発表されている地域では、崖の近くや谷の出口など土砂災害警戒区域等にお住まいの方は、市町村から発令される避難指示などの情報に留意し、少しでも安",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731180718_0_VXWW50_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -833,7 +920,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（土砂）",
       "slug": "気象警報注意報土砂",
-      "time": "2026-07-31T16:47:32.000Z",
+      "time": "2026-07-31T18:07:05.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -843,32 +930,11 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【宮城県土砂災害警報・注意報】宮城県では、土砂災害に注意してください。",
+          "snippet": "【山形県土砂災害警報・注意報】最上では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731164733_0_VPWW56_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731180705_0_VPWW56_060000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-      "slug": "BowenPlanforHamastodisar",
-      "time": "2026-07-31T15:18:31.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-          "snippet": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement ",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
@@ -936,9 +1002,9 @@
       ]
     },
     {
-      "headline": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-      "slug": "Spainsendingtroopsasthou",
-      "time": "2026-07-31T08:09:17.000Z",
+      "headline": "At least five members of same family killed in Russian missile attack, Zelensky says",
+      "slug": "Atleastfivemembersofsame",
+      "time": "2026-07-30T15:20:19.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -947,10 +1013,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Spain sending troops as thousands enter enclave of Ceuta from Morocco",
-          "snippet": "At least 18 people drown as migrants try to swim to Spanish territory amid scenes of chaos at the border.",
+          "title": "At least five members of same family killed in Russian missile attack, Zelensky says",
+          "snippet": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -978,9 +1044,9 @@
       ]
     },
     {
-      "headline": "Three-year roadmap proposed for Hamas disarmament in Gaza",
-      "slug": "Threeyearroadmapproposed",
-      "time": "2026-07-31T16:35:17.000Z",
+      "headline": "FIFA COO Lamour says staff deceived over Infantino’s World Cup plan",
+      "slug": "FIFACOOLamoursaysstaffde",
+      "time": "2026-07-31T17:38:04.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -989,10 +1055,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Three-year roadmap proposed for Hamas disarmament in Gaza",
-          "snippet": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition",
+          "title": "FIFA COO Lamour says staff deceived over Infantino’s World Cup plan",
+          "snippet": "Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino&#039;s World Cup sell-off ",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
+      "slug": "DRCongoEbolaepidemicbeco",
+      "time": "2026-07-31T16:52:04.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
+          "snippet": "Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1035,90 +1122,6 @@
           "snippet": "He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
-      "slug": "WorldCupFIFAstudyingimpa",
-      "time": "2026-07-31T15:05:55.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "World Cup: FIFA studying impact of expanding to 64 teams for 2030 edition",
-          "snippet": "FIFA&#039;s World Cup 2026 expansion was their first since 1998, but the 2030 edition could rise to 64 teams.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/31/world-cup-fifa-studying-impact-of-expanding-to-64-teams-for-2030-edition?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Police chief resigns days after deadly shooting in US city of Seattle",
-      "slug": "Policechiefresignsdaysaf",
-      "time": "2026-07-31T14:46:09.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Police chief resigns days after deadly shooting in US city of Seattle",
-          "snippet": "Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction",
-      "slug": "Chelseafined135mforFAbre",
-      "time": "2026-07-31T14:36:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Chelsea fined $13.5m for FA breaches, avoid Premier League points deduction",
-          "snippet": "Chelsea rule breaches that led to action were self-reported following takeover by Todd ⁠⁠Boehly and Clearlake Capital.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/7/31/chelsea-fined-13-5m-for-fa-breaches-avoid-premier-league-points-deduction?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Turkiye’s Davutoglu steps back from politics: A timeline of his career",
-      "slug": "TurkiyesDavutoglustepsba",
-      "time": "2026-07-31T14:07:27.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Turkiye’s Davutoglu steps back from politics: A timeline of his career",
-          "snippet": "Ahmet Davutoglu, a former Turkish PM and Erdogan ally-turned-critic, has stepped down from politics.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/31/turkiyes-davutoglu-steps-back-from-politics-a-timeline-of-his-career?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
