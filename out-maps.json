@@ -1,57 +1,155 @@
 {
-  "builtAt": "2026-07-31T18:12:32.101Z",
+  "builtAt": "2026-08-01T10:23:13.983Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "猛暑の被災地、断水続く　「いつまで」避難疲れも―震度６強の宇土市など・熊本地震",
-      "slug": "猛暑の被災地断水続くいつまで避難疲れも震度強の宇",
-      "independentSources": 4,
+      "headline": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "slug": "Indiascockroachprotester",
+      "independentSources": 3,
+      "sources": [
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073101006&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/protesters-detained-at-rally-in-support-of-pakistan-administered-kashmir?traffic_source=rss"
+        }
+      ],
+      "issue": "パキスタンで発生した雪崩事故で、不明者の捜索は難航しているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "パキスタンの山で雪崩が発生し、10人が不明になった。",
+          "span": "著名登山家ら１０人不明　８０００メートル峰で雪崩―パキスタン",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "雪崩は木曜日にブロードピークで発生した。",
+          "span": "Thursday's avalanche on Broad Peak",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "7人が依然として行方不明である。",
+          "span": "seven still missing",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "悪天候が捜索活動の妨げとなっている。",
+          "span": "Poor weather has been hampering the search",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インドの抗議者たちは、ペレット銃によるものと一致する傷を負っている。",
+          "span": "have wounds consistent with pellet-gun fire",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "専門家によると、多数の小さな丸い穿孔はペレット銃による負傷の兆候である。",
+          "span": "the dozens of tiny round punctures are tell-tale signs of pellet gun injuries",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "パキスタンで、カシミール地方の連帯を示すために抗議活動が行われた。",
+          "span": "rally in support of Pakistan-administered Kashmir",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ラホールで数人の抗議者が拘束された。",
+          "span": "Police detained several protesters in Lahore, Pakistan",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "パキスタンで発生した雪崩事故で10人が不明となり、悪天候のため捜索が難航している。また、インドの抗議者がペレット銃によるものと一致する傷を負っており、パキスタンではカシミール地方への連帯を示す抗議活動で数人が拘束された。これらの事実について、記事中に評価や意見の対立は見られない。",
+      "note": "複数のニュースソースからの情報を統合しました。インドの抗議者に関する情報は、パキスタンの雪崩事故とは別の出来事ですが、提供された情報に含まれていたため構造化しました。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "沖縄尚学と横浜、初戦で激突　札幌日大―仙台育英で開幕・全国高校野球",
+      "slug": "沖縄尚学と横浜初戦で激突札幌日大仙台育英で開幕全",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "気象庁 地震・火山"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191421000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015192431000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015191291000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015192771000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015192981000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590081?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590170?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101215&g=soc&m=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731165119_0_VXSE53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260731160020_0_VXSE53_010000.xml"
+          "link": "https://www.jiji.com/jc/article?k=2026080100326&g=spo&m=rss"
         }
       ],
-      "issue": "熊本地震の被災地における現状と課題は何か？",
+      "issue": "夏の甲子園で、大会連覇を目指す沖縄尚学高校は初戦で横浜高校と対戦するか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "熊本県内で熊本地震による死者が36人になった。",
-          "span": "36人になった",
+          "t": "夏の全国高校野球の組み合わせ抽選が行われた。",
+          "span": "組み合わせ抽せんが行われ",
           "src": [
             {
               "ty": "press",
@@ -60,8 +158,8 @@
           ]
         },
         {
-          "t": "災害との関連を調査中の死者が2人になった。",
-          "span": "災害との関連を調査している死者が1人から2人になった",
+          "t": "大会連覇を目指す沖縄尚学高校は、横浜高校と対戦することになった。",
+          "span": "大会連覇を目指す沖縄尚学高校は、去年のセンバツ大会で優勝した神奈川の横浜高校と対戦することになりました",
           "src": [
             {
               "ty": "press",
@@ -70,8 +168,8 @@
           ]
         },
         {
-          "t": "JR九州は、九州新幹線の熊本駅と鹿児島中央駅の間で運行を取りやめている。",
-          "span": "運行を取りやめている",
+          "t": "夏の甲子園は今月5日に甲子園球場で開幕する。",
+          "span": "今月5日に甲子園球場で開幕する",
           "src": [
             {
               "ty": "press",
@@ -80,38 +178,63 @@
           ]
         },
         {
-          "t": "九州新幹線の線路や橋りょうに大きな破損が確認された。",
-          "span": "線路や橋りょうに大きな破損が確認された",
+          "t": "沖縄尚学高校と横浜高校が初戦で対戦する。",
+          "span": "沖縄尚学と横浜、初戦で激突",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "1日も熊本県の地震被災地で猛烈な暑さが予想されている。",
-          "span": "猛烈な暑さが予想されていて",
+          "t": "夏の甲子園の組み合わせが決定した。",
+          "span": "夏の甲子園 組み合わせが決定",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
+        }
+      ],
+      "positions": [],
+      "consensus": "夏の甲子園の組み合わせ抽選が行われ、大会連覇を目指す沖縄尚学高校は横浜高校と初戦で対戦することが決定した。大会は今月5日に開幕する。",
+      "note": "地震の被害が続いているという記述があるが、本件の争点とは直接関係がないため、事実としては取り込まない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Sri Lanka sentences two officials to death for not stopping Easter bombings",
+      "slug": "SriLankasentencestwooffi",
+      "independentSources": 3,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590168?source=rss"
         },
         {
-          "t": "熊本県八代市で、倒壊した住宅に閉じ込められた女性が地域住民の協力で救出された。",
-          "span": "倒壊した住宅に閉じ込められた女性を地域の住民たちが協力して救出",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "t": "熊本地震の揺れの大きさが前回を上回った。",
-          "span": "揺れの大きさ前回上回る",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/sri-lanka-sentences-two-officials-to-death-for-not-stopping-easter-bombings?traffic_source=rss"
+        }
+      ],
+      "issue": "ロシアによるウクライナ首都への空爆で死者は出たか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ロシアがウクライナの首都を空爆し、少なくとも9人が死亡したと報じられている。",
+          "span": "ロシアがウ首都を空爆 9人死亡",
           "src": [
             {
               "ty": "press",
@@ -120,272 +243,128 @@
           ]
         },
         {
-          "t": "猛暑の被災地で断水が続いている。",
-          "span": "断水続く",
+          "t": "ロシアによるウクライナ首都への攻撃で、少なくとも9人が死亡したとウクライナ当局者が伝えている。",
+          "span": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "震度6強を観測した宇土市などで避難疲れが見られる。",
-          "span": "避難疲れも",
+          "t": "モスクワがウクライナの首都への弾道ミサイル攻撃をエスカレートさせている。",
+          "span": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "1日01時48分ごろに地震があった。",
-          "span": "",
+          "t": "スリランカで、2019年のイースター爆破事件を阻止できなかったとして、2人の公務員に死刑判決が下された。",
+          "span": "Sri Lanka sentences two officials to death for not stopping 2019 Easter bombings.",
           "src": [
             {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "1日00時57分ごろに地震があった。",
-          "span": "",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "熊本地震の被災地では、死者数が増加し、新幹線の一部区間の復旧が困難であるなど、依然として厳しい状況が続いている。また、猛暑による熱中症や断水、避難疲れといった課題も顕在化している。",
-      "note": null,
+      "consensus": "ロシアによるウクライナ首都への空爆で9人が死亡したという事実は、複数の情報源によって報じられている。しかし、Al Jazeeraの記事は別の事件に関するものであり、本件とは直接関係がない。本件に関する評価や見解の対立は、提示された情報からは確認できない。",
+      "note": "Al Jazeeraの記事は、提示された他の記事とは異なる事件（スリランカのイースター爆破事件）に関するものであり、本件（ロシアによるウクライナ首都空爆）とは直接関係がないため、事実として取り扱うが、文脈上の関連性は低い。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[1] (NHKの熱中症対策の呼びかけ) は、特定のアクターによる争点に対する主張ではなく、メディアが報じる一般的な注意喚起であるため、positionsから削除しました。",
-          "残りのpositions[0] (JR九州の運行再開困難の評価) も、争点に対する主張というよりは、アクターによる状況の事実評価であるため、positionsセクション全体を空にしました。これにより、issueが「現状と課題」という事実ベースの問いであることと整合させました。",
-          "facts[9]とfacts[10]のspanを、文全体から最小核「〜地震があった」に修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
-      "slug": "SpainsPMblamestrafficker",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/spain-pm-ceuta-migrant-surge-a-violation-of-territorial?traffic_source=rss"
-        }
-      ],
-      "issue": "モロッコからの移民流入はスペインの領土保全に対する侵害か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "約60,000人の移民がモロッコからスペイン領セウタに到達した。",
-          "span": "60,000 migrants reach Ceuta from Morocco",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ほとんどの移民は金曜日の夕方までにモロッコへ帰還した。",
-          "span": "most of the migrants had returned to Morocco by Friday evening",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "スペインは軍隊を派遣した。",
-          "span": "sending troops",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "少なくとも18人がスペイン領土へ泳いで渡ろうとして溺死した。",
-          "span": "At least 18 people drown",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イタリアはシェンゲン協定を停止した。",
-          "span": "suspended its Schengen agreement",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "モロッコからスペイン領セウタへの大規模な移民流入があり、多数が帰還し、一部で死者が出たことは事実として合意されている。この流入が領土保全の侵害にあたるかについては評価が分かれる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[1]（移民流入の原因を人身売買業者にあるとした）は、issue「モロッコからの移民流入はスペインの領土保全に対する侵害か？」に直接的な賛否を示すものではなく、移民流入の原因に関する別の主張であるため、positionsから削除しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
-      "slug": "Tunisianwildfiresexposef",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c79glnx1y55o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/7/31/tunisian-wildfires-expose-failing-infrastructure-community-vulnerabilities?traffic_source=rss"
-        }
-      ],
-      "issue": null,
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ギリシャで発生した山火事により、数百人が海路で避難した。",
-          "span": "Hundreds escape Greek wildfire by sea",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "アギオス・バシレイオスでは、約500人（主に観光客）が閉じ込められた後、ボートで避難した。",
-          "span": "evacuated by boat from Agios Vasileios",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ギリシャの山火事により数百人が避難したという事実。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: issueがテキストにない対立を暗示していたため、nullに修正しました。テキストは事実の報告であり、議論の余地はありません。"
-        ]
-      }
-    },
-    {
-      "headline": "Western allies warn North Korean IT workers funding nuclear arsenal",
-      "slug": "WesternallieswarnNorthKo",
+      "headline": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
+      "slug": "イオンモル熊本での捜索活動が終了7人が死亡5人が",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Al Jazeera"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193011000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193131000"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/7/31/western-allies-warn-north-korean-it-workers-funding-nuclear-arsenal?traffic_source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193651000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590166?source=rss"
         }
       ],
-      "issue": "北朝鮮のIT労働者による核開発資金調達活動に対し、国際社会はどのように対応すべきか？",
-      "stasis": "政策",
+      "issue": "熊本地震による死者数と避難者数は何人か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "日本やアメリカなど11か国の関係機関が、北朝鮮のIT労働者への注意を求める共同文書を公表した。",
-          "span": "北朝鮮IT労働者への注意求める文書公表",
+          "t": "熊本県は、災害との関連を調査中の2人を含め、県内で36人が死亡したと発表した。",
+          "span": "県内では災害との関連を調査している2人を含めて36人が死亡したと発表しました",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "北朝鮮のIT労働者は、他国の国民になりすまして海外企業から収入を得ている。",
-          "span": "ほかの国の国民になりすまし、海外企業から収入を得る",
+          "t": "熊本県内の避難所には9000人余りが避難している。",
+          "span": "9000人余避難",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "北朝鮮は、AIを活用した労働者が稼いだ外貨を兵器プログラムの資金源としていると非難されている。",
-          "span": "using hard currency earned by AI-assisted workers to power armaments programme",
+          "t": "イオンモール熊本での警察や消防による捜索活動は、1日正午に終了した。",
+          "span": "イオンモール熊本での捜索活動が終了",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "公表された文書は、北朝鮮側の手口に関する認識を深め、対抗措置をとることを求めている。",
-          "span": "北朝鮮側の手口に関する認識を深め、対抗措置をとること",
+          "t": "イオンモール熊本では7人が死亡し、5人がけがをした。",
+          "span": "7人が死亡 5人がけが",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "イオンモール熊本の捜索活動は終了した。",
+          "span": "イオンモール熊本の捜索活動終了",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "北朝鮮のIT労働者による資金調達活動が国際社会の懸念事項であることには合意がある。",
-      "note": null,
+      "consensus": "熊本地震により、県内で36人が死亡し、9000人余りが避難している。イオンモール熊本では7人が死亡し、5人がけがをした。イオンモール熊本での捜索活動は終了した。",
+      "note": "複数の情報源で死者数や避難者数に関する情報が断片的に報じられているが、全体像を把握するため統合した。イオンモール熊本に関する情報は、NHKとYahoo!ニュースで重複しているが、両方の出典を記載した。",
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「〜と求めている」の構造に修正しました。"
+          "fact 3のspanを元テキストに合わせ修正: \"\" -> \"イオンモール熊本での捜索活動が終了\"",
+          "fact spanが原文に無い→除去「イオンモール熊本での警察や消防による…」"
         ]
       }
     }
