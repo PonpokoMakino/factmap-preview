@@ -1,19 +1,19 @@
 {
-  "rankedAt": "2026-08-01T17:38:30.272Z",
+  "rankedAt": "2026-08-01T18:39:34.118Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "【地震情報】熊本 水俣市 上天草市などで震度4 津波の心配なし",
-      "slug": "地震情報熊本水俣市上天草市などで震度4津波の心配",
-      "time": "2026-08-01T17:14:14.000Z",
+      "headline": "夏の避難所、「一律マスク」不要　適度な運動で健康管理を―熊本地震",
+      "slug": "夏の避難所一律マスク不要適度な運動で健康管理を熊",
+      "time": "2026-08-01T18:25:03.000Z",
       "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "気象庁 地震・火山",
-        "気象庁 気象警報・注意報"
+        "時事ドットコム",
+        "気象庁 地震・火山"
       ],
-      "count": 16,
+      "count": 10,
       "hasPrimary": true,
       "members": [
         {
@@ -21,14 +21,6 @@
           "snippet": "2日午前1時7分ごろ、熊本県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015193911000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "秋田 横手市に避難指示 686世帯の計1479人",
-          "snippet": "「レベル4土砂災害危険警報」と「レベル4大雨危険警報」が発表されている秋田県横手市は、土砂災害のおそれがあるとして1日午後11時20分、横手本町や城南町などの土砂災害警戒区域に住む686世帯、あわせて…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193921000",
           "ty": "press",
           "linkKind": "article"
         },
@@ -81,66 +73,26 @@
           "linkKind": "article"
         },
         {
+          "title": "夏の避難所、「一律マスク」不要　適度な運動で健康管理を―熊本地震",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080100277&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　２日０３時２２分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801182503_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
           "title": "震源・震度に関する情報",
           "snippet": "【震源・震度情報】　２日０１時３９分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260801164143_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮城県気象警報・注意報】〈危険警報（土砂災害）〉西部では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801171415_0_VPWW53_040000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮城県気象警報・注意報】〈危険警報（土砂災害）〉西部では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801171415_0_VPWW54_040000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【秋田県気象警報・注意報】〈危険警報（大雨、土砂災害）〉内陸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801164120_0_VPWW54_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【秋田県気象警報・注意報】〈危険警報（大雨、土砂災害）〉内陸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801164120_0_VPWW53_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【岩手県気象警報・注意報】〈危険警報（大雨、土砂災害）〉内陸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801164029_0_VPWW54_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【岩手県気象警報・注意報】〈危険警報（大雨、土砂災害）〉内陸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801164029_0_VPWW53_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "土砂災害警戒情報",
-          "snippet": "【岩手県レベル４土砂災害危険警報】＜レベル４土砂災害危険警報の補足情報＞\nレベル４土砂災害危険警報が発表されている地域では、崖の近くや谷の出口など土砂災害警戒区域等にお住まいの方は、市町村から発令される避難指示などの情報に留意し、少しでも安",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801163542_0_VXWW50_030000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -194,17 +146,103 @@
       ]
     },
     {
-      "headline": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "slug": "NinekilledinstrikesonKyi",
-      "time": "2026-08-01T16:07:10.000Z",
+      "headline": "秋田 横手市に避難指示 686世帯の計1479人",
+      "slug": "秋田横手市に避難指示686世帯の計1479人",
+      "time": "2026-08-01T18:33:32.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 7,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "秋田 横手市に避難指示 686世帯の計1479人",
+          "snippet": "「レベル4土砂災害危険警報」と「レベル4大雨危険警報」が発表されている秋田県横手市は、土砂災害のおそれがあるとして1日午後11時20分、横手本町や城南町などの土砂災害警戒区域に住む686世帯、あわせて…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193921000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【岩手県気象警報・注意報】〈危険警報（大雨、土砂災害）〉内陸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801183333_0_VPWW54_030000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【岩手県気象警報・注意報】〈危険警報（大雨、土砂災害）〉内陸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801183333_0_VPWW53_030000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【岩手県土砂災害警報・注意報】内陸では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801183325_0_VPWW56_030000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【岩手県気象警報・注意報】〈危険警報（大雨、土砂災害）〉内陸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801181024_0_VPWW54_030000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【岩手県気象警報・注意報】〈危険警報（大雨、土砂災害）〉内陸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801181024_0_VPWW53_030000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮城県気象警報・注意報】〈危険警報（土砂災害）〉西部では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801171415_0_VPWW53_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+      "slug": "IsraeliWestBanksettlerte",
+      "time": "2026-08-01T17:45:26.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 3,
+      "count": 5,
       "hasPrimary": false,
       "members": [
+        {
+          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
+          "snippet": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ce",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+          "snippet": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
           "snippet": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
@@ -214,18 +252,18 @@
           "linkKind": "article"
         },
         {
-          "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
-          "snippet": "Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament",
+          "title": "At least 9 people killed in Russian missile attacks on Kyiv",
+          "snippet": "At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Israeli strike destroys Gaza hospital warehouse",
-          "snippet": "Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyrs Hospital, staff say.",
+          "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+          "snippet": "Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/1/israeli-strikes-kill-four-across-gaza-destroy-medical-supply-warehouse?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -262,96 +300,6 @@
       ]
     },
     {
-      "headline": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "slug": "UKrapperYungFillyfoundno",
-      "time": "2026-08-01T16:15:24.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-          "snippet": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Moroccan rapper Mehdi El Youbi temporarily released from prison",
-          "snippet": "The outspoken artist was detained in mid-July for ‘insulting a constitutional institution&#039;.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "slug": "Indiascockroachprotester",
-      "time": "2026-08-01T15:00:07.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-          "snippet": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "India cracks down on protesters accused of ‘abusing’ Modi",
-          "snippet": "Police cases, social media takedowns and online abuse have followed many who took part in India’s youth protests.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/india-cracks-down-on-protesters-accused-of-abusing-modi?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
-      "slug": "InfantinosFIFAcrisisWhat",
-      "time": "2026-08-01T17:07:46.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Call for 'full review' as pressure grows on Infantino",
-          "snippet": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and th",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
-          "snippet": "Backlash to FIFA&#039;s private investment plan for World Cups and events was huge; now football reacts to U-turn&#039;s",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "ソフトバンクの上茶谷、先発で３連勝　プロ野球",
       "slug": "ソフトバンクの上茶谷先発で連勝プロ野球",
       "time": "2026-08-01T14:01:00.000Z",
@@ -362,6 +310,14 @@
       "count": 3,
       "hasPrimary": false,
       "members": [
+        {
+          "title": "プロ野球・ひとこと",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080100460&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "ソフトバンクの上茶谷、先発で３連勝　プロ野球",
           "snippet": "",
@@ -377,43 +333,35 @@
           "link": "https://www.jiji.com/jc/article?k=2026080100450&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
-        },
-        {
-          "title": "プロ野球・ひとこと",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080100460&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "slug": "IsraeliWestBanksettlerte",
-      "time": "2026-08-01T15:46:08.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-01T18:23:16.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "気象庁 気象警報・注意報"
       ],
       "count": 2,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "Spain attacks 'selfish' response of some EU countries to Ceuta migrant crossings",
-          "snippet": "Italy has temporarily suspended the Schengen arrangement with Spain as Prime Minister Giorgia Meloni called scenes in Ce",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【上川・留萌地方気象警報・注意報】上川・留萌地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801182317_0_VPWW54_012000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
-          "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-          "snippet": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【上川・留萌地方気象警報・注意報】上川・留萌地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801182317_0_VPWW53_012000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -544,9 +492,9 @@
       ]
     },
     {
-      "headline": "イタリア南部でＭ４．７　２１人負傷、余震６０回",
-      "slug": "イタリア南部で人負傷余震回",
-      "time": "2026-08-01T09:32:00.000Z",
+      "headline": "フィリピン、国連に南シナ海の海図提出　領有権争い、中国反発",
+      "slug": "フィリピン国連に南シナ海の海図提出領有権争い中国",
+      "time": "2026-08-01T05:45:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -555,31 +503,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "イタリア南部でＭ４．７　２１人負傷、余震６０回",
+          "title": "フィリピン、国連に南シナ海の海図提出　領有権争い、中国反発",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080100173&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "スペイン、国境沿岸に海上フェンス　不法移民防止で",
-      "slug": "スペイン国境沿岸に海上フェンス不法移民防止で",
-      "time": "2026-08-01T12:57:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "スペイン、国境沿岸に海上フェンス　不法移民防止で",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080100438&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080100288&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -775,21 +702,21 @@
       ]
     },
     {
-      "headline": "噴火に関する火山観測報",
-      "slug": "噴火に関する火山観測報",
-      "time": "2026-08-01T16:28:11.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
+      "slug": "気象警報注意報土砂",
+      "time": "2026-08-01T18:23:05.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 地震・火山"
+        "気象庁 気象警報・注意報"
       ],
       "count": 1,
       "hasPrimary": true,
       "members": [
         {
-          "title": "噴火に関する火山観測報",
-          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月02日01時12分(011612UTC)\n現　　象：噴火",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801162811_0_VFVO52_400000.xml",
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【上川・留萌地方土砂災害警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801182305_0_VPWW56_012000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -798,7 +725,7 @@
     {
       "headline": "指定河川洪水予報",
       "slug": "指定河川洪水予報",
-      "time": "2026-08-01T17:13:55.000Z",
+      "time": "2026-08-01T18:10:05.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -808,53 +735,53 @@
       "members": [
         {
           "title": "指定河川洪水予報",
-          "snippet": "【江合川レベル３氾濫警報】【警戒レベル３相当情報［洪水］】〔警戒レベル２から３相当に切替〕江合川では、避難判断水位に到達し、今後、水位はさらに上昇する見込み",
+          "snippet": "【北上川上流レベル３氾濫警報】【警戒レベル３相当情報［洪水］】〔継続〕北上川上流では、避難判断水位に到達し、今後、水位はさらに上昇する見込み",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801171401_0_VXKO57_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801181012_0_VXKO50_030000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "指定河川洪水予報",
-      "slug": "指定河川洪水予報",
-      "time": "2026-08-01T16:41:09.000Z",
+      "headline": "Call for 'full review' as pressure grows on Infantino",
+      "slug": "Callforfullreviewaspress",
+      "time": "2026-08-01T17:07:46.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
+        "BBC World"
       ],
       "count": 1,
-      "hasPrimary": true,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "指定河川洪水予報",
-          "snippet": "【雄物川上流レベル２氾濫注意報】【警戒レベル２情報［洪水］】〔新規〕雄物川上流では、氾濫注意水位に到達し、今後、水位はさらに上昇する見込み",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801164115_0_VXKO51_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "Call for 'full review' as pressure grows on Infantino",
+          "snippet": "The leadership of Fifa is publicly questioned by football's governing bodies in Europe, North and Central America and th",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c04kr2nv3v3o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "指定河川洪水予報",
-      "slug": "指定河川洪水予報",
-      "time": "2026-08-01T16:40:09.000Z",
+      "headline": "Italy putting nearly all major cities on highest heat alert",
+      "slug": "Italyputtingnearlyallmaj",
+      "time": "2026-08-01T17:51:46.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
+        "BBC World"
       ],
       "count": 1,
-      "hasPrimary": true,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "指定河川洪水予報",
-          "snippet": "【北上川上流レベル３氾濫警報】【警戒レベル３相当情報［洪水］】〔警戒レベル２から３相当に切替〕北上川上流では、避難判断水位に到達し、今後、水位はさらに上昇する見込み",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801164016_0_VXKO50_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "Italy putting nearly all major cities on highest heat alert",
+          "snippet": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two wi",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -901,6 +828,27 @@
       ]
     },
     {
+      "headline": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "slug": "Indiascockroachprotester",
+      "time": "2026-08-01T15:00:07.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+          "snippet": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Trump administration drops Reflecting Pool vandalism charge and admits 'botched' repairs",
       "slug": "Trumpadministrationdrops",
       "time": "2026-08-01T17:16:51.000Z",
@@ -916,6 +864,111 @@
           "snippet": "President Donald Trump had blamed \"sick\" vandals, and a former Olympian had been charged, but prosecutors now say contra",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cz05yx5dd7yo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "At least three killed in explosion near cafe in Russia’s Moscow",
+      "slug": "Atleastthreekilledinexpl",
+      "time": "2026-08-01T18:22:35.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "At least three killed in explosion near cafe in Russia’s Moscow",
+          "snippet": "⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+      "slug": "MarathonshineslightonGaz",
+      "time": "2026-08-01T17:57:18.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+          "snippet": "More than 58,000 children have lost one or both parents by Israel&#039;s war, highlighting urgent humanitarian challenge",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
+      "slug": "Trumppledgestopursueanti",
+      "time": "2026-08-01T17:48:41.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
+          "snippet": "The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Care for a dirty soda? How this drink trend became a US obsession",
+      "slug": "CareforadirtysodaHowthis",
+      "time": "2026-08-01T17:37:34.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Care for a dirty soda? How this drink trend became a US obsession",
+          "snippet": "How Utah novelty grew into national trend, fuelled by customisation, social media, desire for affordable social spaces.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/longform/2026/8/1/care-for-a-dirty-soda-how-this-drink-trend-became-a-us-obsession?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Israeli forces detain residents and demolish homes in southern Syria",
+      "slug": "Israeliforcesdetainresid",
+      "time": "2026-08-01T17:28:52.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Israeli forces detain residents and demolish homes in southern Syria",
+          "snippet": "Since Assad’s ouster, Israel has sent troops beyond the 1974 disengagement line into Syria&#039;s southern provinces.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/israeli-forces-detain-residents-and-demolish-homes-in-southern-syria?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -943,6 +996,27 @@
       ]
     },
     {
+      "headline": "Moroccan rapper Mehdi El Youbi temporarily released from prison",
+      "slug": "MoroccanrapperMehdiElYou",
+      "time": "2026-08-01T16:15:24.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Moroccan rapper Mehdi El Youbi temporarily released from prison",
+          "snippet": "The outspoken artist was detained in mid-July for ‘insulting a constitutional institution&#039;.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "At least 11 wounded by Colombia car bomb days before presidential election",
       "slug": "Atleast11woundedbyColomb",
       "time": "2026-08-01T15:48:39.000Z",
@@ -958,69 +1032,6 @@
           "snippet": "President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
-      "slug": "TwoexSriLankaofficialsse",
-      "time": "2026-08-01T15:34:15.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
-          "snippet": "Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Is Spain being punished?",
-      "slug": "IsSpainbeingpunished",
-      "time": "2026-08-01T13:50:36.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Is Spain being punished?",
-          "snippet": "In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Children run marathon to spotlight Gaza’s growing orphan crises",
-      "slug": "Childrenrunmarathontospo",
-      "time": "2026-08-01T13:46:33.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Children run marathon to spotlight Gaza’s growing orphan crises",
-          "snippet": "Children run marathon to spotlight Gaza&#039;s growing orphan crisis",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
