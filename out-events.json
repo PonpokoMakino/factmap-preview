@@ -1,40 +1,41 @@
 {
-  "rankedAt": "2026-08-01T12:42:11.770Z",
+  "rankedAt": "2026-08-01T14:16:52.063Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "熊本地震 関連調査中含め36人死亡 住宅被害3400超 県発表",
       "slug": "熊本地震関連調査中含め36人死亡住宅被害3400",
-      "time": "2026-08-01T12:36:07.000Z",
-      "independentSources": 2,
+      "time": "2026-08-01T14:02:01.000Z",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "Yahoo!ニュース 主要",
+        "気象庁 地震・火山"
       ],
-      "count": 6,
-      "hasPrimary": false,
+      "count": 10,
+      "hasPrimary": true,
       "members": [
+        {
+          "title": "【地震速報】熊本 宇城市で震度5弱 津波の心配なし",
+          "snippet": "1日午後9時47分ごろ熊本県で震度5弱の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193851000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "岡山 矢掛町 2歳の男の子が行方不明 祖母の家に帰省中",
+          "snippet": "1日午前、岡山県矢掛町で祖母の家に帰省していた2歳の男の子の行方が分からなくなり、警察と消防が周辺を捜索しています。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193811000",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "熊本地震 関連調査中含め36人死亡 住宅被害3400超 県発表",
           "snippet": "熊本県は今回の地震で県内では災害との関連を調査している2人を含めて36人が死亡し、3400を超える住宅に被害があったと発表しました。建物の調査が進んでいない地域もあるため今後被害が大きく増えるおそれが…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015193131000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "愛知 豊田 矢作川で川遊びの中学2年の男子生徒が流され死亡",
-          "snippet": "1日午後、愛知県豊田市の矢作川で、川遊びをしていた中学2年生の男子生徒が流され、死亡しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193641000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "愛知 弥富 木曽川で60～70代とみられる男性が溺れ死亡",
-          "snippet": "1日午後、愛知県弥富市の木曽川で60代から70代とみられる男性が溺れて死亡しました。警察が当時の状況を詳しく調べています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193791000",
           "ty": "press",
           "linkKind": "article"
         },
@@ -55,81 +56,98 @@
           "linkKind": "article"
         },
         {
-          "title": "熊本地震 生き埋めの妻救った夫",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590187?source=rss",
+          "title": "40度に迫る暑さ 2日は大分で酷暑日予想 熱中症対策の徹底を",
+          "snippet": "1日も広い範囲で気温が上がり、東海や九州では40度に迫る危険な暑さとなりました。2日は暑さがさらに厳しく、大分県日田市では40度と「酷暑日」が予想されるほか、熊本県の地震の被災地でも猛暑が続く見込みで…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193191000",
           "ty": "press",
           "linkKind": "article"
+        },
+        {
+          "title": "猛暑日予想 週明け熊本は40℃恐れ",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590190?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "2歳が行方不明 祖母の家に帰省中",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590182?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　１日２２時５９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140201_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　１日２２時５６分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801135842_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "宮城 大崎 鬼首 中山東 中山西の537世帯1031人に避難指示",
-      "slug": "宮城大崎鬼首中山東中山西の537世帯1031人に",
-      "time": "2026-08-01T12:37:23.000Z",
-      "independentSources": 2,
+      "headline": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+      "slug": "MountaineerNirmalPurjaki",
+      "time": "2026-08-01T14:11:40.000Z",
+      "independentSources": 3,
       "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "BBC World"
       ],
-      "count": 6,
-      "hasPrimary": true,
+      "count": 4,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "宮城 大崎 鬼首 中山東 中山西の537世帯1031人に避難指示",
-          "snippet": "レベル4土砂災害危険警報が発表されている宮城県大崎市は、土砂災害のおそれがあるとして1日午後8時15分、鬼首地区、中山東行政区、中山西行政区の合わせて537世帯1031人を対象に避難指示を出しました。…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193801000",
+          "title": "著名登山家死亡 パキスタンで雪崩",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590194?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【岩手県気象警報・注意報】〈危険警報（土砂災害）〉内陸では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801123725_0_VPWW53_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "著名登山家ら１０人不明　８０００メートル峰で雪崩―パキスタン",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073101006&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【岩手県気象警報・注意報】〈危険警報（土砂災害）〉内陸では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801123725_0_VPWW54_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "著名登山家の死亡確認　パキスタンのブロードピークで雪崩遭遇",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080100431&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【秋田県気象警報・注意報】秋田県では、土砂災害や低い土地の浸水、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801122552_0_VPWW53_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【秋田県気象警報・注意報】秋田県では、土砂災害や低い土地の浸水、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801122551_0_VPWW54_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【岩手県気象警報・注意報】〈危険警報（土砂災害）〉内陸では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801122243_0_VPWW54_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
+          "snippet": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
     {
       "headline": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "slug": "Perusexpresidentleavesja",
-      "time": "2026-08-01T11:58:23.000Z",
+      "time": "2026-08-01T13:59:19.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -155,18 +173,18 @@
           "linkKind": "article"
         },
         {
-          "title": "FIFA World Cup crisis: Who could replace Infantino as president?",
-          "snippet": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
+          "title": "Infantino’s FIFA crisis: What is reaction to World Cup investment U-turn?",
+          "snippet": "Backlash to FIFA&#039;s private investment plan for World Cups and events was huge; now football reacts to U-turn&#039;s",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/8/1/infantinos-fifa-crisis-what-is-reaction-to-world-cup-investment-u-turn?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Infantino’s World Cup crisis: UEFA has ‘lost confidence’ in FIFA leadership",
-          "snippet": "UEFA, who were the strongest opponents of FIFA&#039;s plan, slam the Gianni Infantino-led governing body despite standdo",
+          "title": "Infantino’s FIFA World Cup crisis: Who could replace president?",
+          "snippet": "Who is tipped to replace Gianni Infantino after the World Cup investment plan crisis?",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/1/uefa-welcomes-fifa-world-cup-standdown-after-voting-to-boycott?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/8/1/is-infantino-under-threat-over-fifa-world-cup-plan-will-president-resign?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -175,13 +193,13 @@
     {
       "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
       "slug": "IsraeliWestBanksettlerte",
-      "time": "2026-08-01T12:32:22.000Z",
+      "time": "2026-08-01T12:57:13.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 4,
+      "count": 3,
       "hasPrimary": false,
       "members": [
         {
@@ -201,27 +219,57 @@
           "linkKind": "article"
         },
         {
-          "title": "Spain says migrants in Ceuta have returned to Morocco",
-          "snippet": "Spain says 50,000 migrants who entered its North African enclave of Ceuta have returned to Morocco.",
+          "title": "Spain says migrants leaving Ceuta after mass influx in which 67 died",
+          "snippet": "Spain’s foreign minister maintains &#039;the integrity of the Schengen area is absolutely guaranteed&#039;.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-sv-ceuta-migrants-returned-es?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
-          "snippet": "Iranian Kurdish groups based in Iraq have been heavily attacked in the war, but most deny US assistance.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-      "slug": "Indiascockroachprotester",
-      "time": "2026-08-01T11:08:17.000Z",
+      "headline": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+      "slug": "Iranwarnsagainstflamesof",
+      "time": "2026-08-01T14:07:36.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
+          "snippet": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Israeli strike destroys Gaza hospital warehouse",
+          "snippet": "Israeli strike destroys medical supplies warehouse at Gaza&#039;s Al-Aqsa Martyrs Hospital, staff say.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Iran warns against ‘flames of war’ amid US strike threats on energy sites",
+          "snippet": "Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+      "slug": "UKrapperYungFillyfoundno",
+      "time": "2026-08-01T13:10:47.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -231,77 +279,76 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
-          "snippet": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+          "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
+          "snippet": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "India’s Modi says he forgives students who abused him in Cockroach protests",
-          "snippet": "PM says &#039;misled children&#039; need to be shown &#039;the right path&#039; as his supporters dox and abuse proteste",
+          "title": "Most Australian teens still online three months after under-16 ban",
+          "snippet": "The Australian government has defended the ban after a report concluded most teenagers had found ways to get around it.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/1/indias-modi-says-he-forgives-students-who-abused-him-in-cockroach-protests?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/1/most-australian-teens-still-online-three-months-after-under-16-ban?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-      "slug": "Racetorescueremainingcli",
-      "time": "2026-08-01T10:38:41.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Race to rescue remaining climbers after deadly avalanche in Pakistan",
-          "snippet": "Poor weather has been hampering the search for seven still missing after Thursday's avalanche on Broad Peak.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Omani legend, US novice: Pakistan recovers bodies from Broad Peak",
-          "snippet": "Rescuers are still looking for other missing climbers swept away in an avalanche on the world&#039;s 12th largest peak.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/1/omani-legend-us-novice-pakistan-recovers-bodies-from-broad-peak?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-01T12:04:10.000Z",
+      "headline": "地方気象解説情報",
+      "slug": "地方気象解説情報",
+      "time": "2026-08-01T14:06:17.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 地震・火山"
+        "気象庁 気象警報・注意報"
       ],
       "count": 2,
       "hasPrimary": true,
       "members": [
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　１日２１時０１分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801120410_0_VXSE53_270000.xml",
+          "title": "地方気象解説情報",
+          "snippet": "【東北地方気象解説情報（大雨・落雷）】東北地方では、低気圧や前線の影響により、２日明け方にかけて、大雨による土砂災害、低い土地の浸水、河川の増水や氾濫に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140618_0_VPCJ51_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　１日１８時４１分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801094453_0_VXSE53_270000.xml",
+          "title": "地方気象情報",
+          "snippet": "【東北地方気象解説情報（大雨・落雷）】東北地方では、低気圧や前線の影響により、２日明け方にかけて、大雨による土砂災害、低い土地の浸水、河川の増水や氾濫に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140618_0_VPCJ50_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-01T14:04:46.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【秋田県気象警報・注意報】〈危険警報（土砂災害）〉内陸では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140448_0_VPWW53_050000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【秋田県気象警報・注意報】〈危険警報（土砂災害）〉内陸では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140448_0_VPWW54_050000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -310,7 +357,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-08-01T12:23:13.000Z",
+      "time": "2026-08-01T13:57:39.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -320,26 +367,84 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】注意報を解除します。",
+          "snippet": "【神奈川県気象警報・注意報】神奈川県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801122314_0_VPWW54_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801135741_0_VPWW54_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【東京都気象警報・注意報】注意報を解除します。",
+          "snippet": "【神奈川県気象警報・注意報】神奈川県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801122314_0_VPWW53_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801135741_0_VPWW53_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "円相場 再び円高方向に 円安是正で日米が異例の協調対応か",
-      "slug": "円相場再び円高方向に円安是正で日米が異例の協調対",
-      "time": "2026-08-01T11:15:01.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-01T13:57:38.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【静岡県気象警報・注意報】東部では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801135739_0_VPWW53_220000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【静岡県気象警報・注意報】東部では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801135739_0_VPWW54_220000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-01T13:57:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【千葉県気象警報・注意報】千葉県では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801135738_0_VPWW54_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【千葉県気象警報・注意報】千葉県では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801135738_0_VPWW53_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "愛知 豊田 矢作川で川遊びの中学2年の男子生徒が流され死亡",
+      "slug": "愛知豊田矢作川で川遊びの中学2年の男子生徒が流さ",
+      "time": "2026-08-01T12:34:40.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -348,19 +453,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "円相場 再び円高方向に 円安是正で日米が異例の協調対応か",
-          "snippet": "政府・日銀は、歴史的な円安に歯止めをかけるため日本時間の30日夜に市場介入に踏み切りましたが、31日夕方から1日未明にかけても急激に円高方向に動く場面が相次ぎました。アメリカの通貨当局が異例の協調対応…",
+          "title": "愛知 豊田 矢作川で川遊びの中学2年の男子生徒が流され死亡",
+          "snippet": "1日午後、愛知県豊田市の矢作川で、川遊びをしていた中学2年生の男子生徒が流され、死亡しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193711000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193641000",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "熊本 10市町の7万2千戸で断水続く",
-      "slug": "熊本10市町の7万2千戸で断水続く",
-      "time": "2026-08-01T11:45:41.000Z",
+      "headline": "石破氏 財源示さない減税は無責任",
+      "slug": "石破氏財源示さない減税は無責任",
+      "time": "2026-08-01T12:22:42.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -369,19 +474,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "熊本 10市町の7万2千戸で断水続く",
+          "title": "石破氏 財源示さない減税は無責任",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590188?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590189?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "避難者2200人規模受け入れへ 調整",
-      "slug": "避難者2200人規模受け入れへ調整",
-      "time": "2026-08-01T10:31:28.000Z",
+      "headline": "日米両政府 円安是正の方針表明へ",
+      "slug": "日米両政府円安是正の方針表明へ",
+      "time": "2026-08-01T13:44:35.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -390,31 +495,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "避難者2200人規模受け入れへ 調整",
+          "title": "日米両政府 円安是正の方針表明へ",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590181?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "2歳が行方不明 祖母の家に帰省中",
-      "slug": "2歳が行方不明祖母の家に帰省中",
-      "time": "2026-08-01T10:49:40.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "2歳が行方不明 祖母の家に帰省中",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590182?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590196?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -442,9 +526,9 @@
       ]
     },
     {
-      "headline": "原点知って 長岡花火マナーに懸念",
-      "slug": "原点知って長岡花火マナに懸念",
-      "time": "2026-08-01T08:08:35.000Z",
+      "headline": "バレー男子 フルセットで米に惜敗",
+      "slug": "バレ男子フルセットで米に惜敗",
+      "time": "2026-08-01T14:13:23.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -453,19 +537,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "原点知って 長岡花火マナーに懸念",
+          "title": "バレー男子 フルセットで米に惜敗",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590158?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590197?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "速報バレー男子 日本vs.アメリカ",
-      "slug": "速報バレ男子日本vsアメリカ",
-      "time": "2026-08-01T11:31:09.000Z",
+      "headline": "日ハム継投策裏目に 決勝弾浴びる",
+      "slug": "日ハム継投策裏目に決勝弾浴びる",
+      "time": "2026-08-01T13:18:39.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -474,52 +558,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "速報バレー男子 日本vs.アメリカ",
+          "title": "日ハム継投策裏目に 決勝弾浴びる",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590185?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "山本舞香ら 所属巡る報告相次ぐ",
-      "slug": "山本舞香ら所属巡る報告相次ぐ",
-      "time": "2026-08-01T10:18:10.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "山本舞香ら 所属巡る報告相次ぐ",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590178?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "著名登山家ら１０人不明　８０００メートル峰で雪崩―パキスタン",
-      "slug": "著名登山家ら人不明メトル峰で雪崩パキスタン",
-      "time": "2026-07-31T12:10:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "著名登山家ら１０人不明　８０００メートル峰で雪崩―パキスタン",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101006&g=int&m=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590193?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -568,48 +610,6 @@
       ]
     },
     {
-      "headline": "８月１日からマイナ完全移行　「手元にあるか確認を」―厚労省",
-      "slug": "月日からマイナ完全移行手元にあるか確認を厚労省",
-      "time": "2026-08-01T04:42:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "８月１日からマイナ完全移行　「手元にあるか確認を」―厚労省",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073100755&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "沖縄尚学と横浜、初戦で激突　札幌日大―仙台育英で開幕・全国高校野球",
-      "slug": "沖縄尚学と横浜初戦で激突札幌日大仙台育英で開幕全",
-      "time": "2026-08-01T09:53:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "沖縄尚学と横浜、初戦で激突　札幌日大―仙台育英で開幕・全国高校野球",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080100326&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "ロシア軍攻撃で９人死亡　ウクライナ首都、防空弾不足か",
       "slug": "ロシア軍攻撃で人死亡ウクライナ首都防空弾不足か",
       "time": "2026-08-01T09:41:00.000Z",
@@ -625,27 +625,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026080100354&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "中国、東シナ海に新構造物　２４基目、外務省が抗議",
-      "slug": "中国東シナ海に新構造物基目外務省が抗議",
-      "time": "2026-07-31T12:06:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "中国、東シナ海に新構造物　２４基目、外務省が抗議",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101325&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -673,9 +652,9 @@
       ]
     },
     {
-      "headline": "ロシア領でのスターリンク許可要請か　ゼレンスキー氏、トランプ氏に",
-      "slug": "ロシア領でのスタリンク許可要請かゼレンスキ氏トラ",
-      "time": "2026-07-31T20:16:00.000Z",
+      "headline": "強豪ひしめき混戦予想　沖縄尚学、横浜、履正社など―高校野球",
+      "slug": "強豪ひしめき混戦予想沖縄尚学横浜履正社など高校野",
+      "time": "2026-08-01T12:56:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -684,19 +663,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ロシア領でのスターリンク許可要請か　ゼレンスキー氏、トランプ氏に",
+          "title": "強豪ひしめき混戦予想　沖縄尚学、横浜、履正社など―高校野球",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080100117&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080100437&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "杉田和博元副長官お別れの会　在職歴代最長、高市早苗首相も献花",
-      "slug": "杉田和博元副長官お別れの会在職歴代最長高市早苗首",
-      "time": "2026-08-01T07:14:00.000Z",
+      "headline": "ソフトバンク零封勝ち　プロ野球・楽天０―５ソフトバンク",
+      "slug": "ソフトバンク零封勝ちプロ野球楽天ソフトバンク",
+      "time": "2026-08-01T11:58:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -705,264 +684,222 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "杉田和博元副長官お別れの会　在職歴代最長、高市早苗首相も献花",
+          "title": "ソフトバンク零封勝ち　プロ野球・楽天０―５ソフトバンク",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080100305&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080100416&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-01T11:00:00.000Z",
+      "headline": "米、ウイグル強制労働で新たに４３社から輸入禁止　中国は反発",
+      "slug": "米ウイグル強制労働で新たに社から輸入禁止中国は反",
+      "time": "2026-08-01T08:43:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１日２１時から２４時までは火口から南東方向、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801110037_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-01T11:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１日２１時から２４時までは火口から南方向、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801110041_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-01T11:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１日２１時から２４時までは火口から南東方向、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801110045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-01T11:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１日２１時から２４時までは火口から南方向、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801110048_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-01T11:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１日２１時から２４時までは火口から南東方向、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801110052_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-01T11:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１日２１時から２４時までは火口から南方向、２日０９時から１２時までは火口から南方向に降灰",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801110055_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-01T11:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１日２１時から２４時までは火口から北西方向、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801110030_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-01T11:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１日２１時から２４時までは火口から東方向、２日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801110033_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-01T12:37:11.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【岩手県大雨警報・注意報】内陸では、低い土地の浸水や河川の増水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801123712_0_VPWW55_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-01T12:25:44.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【秋田県大雨警報・注意報】秋田県では、低い土地の浸水や河川の増水に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801122545_0_VPWW55_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-01T12:23:07.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【東京都雷注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801122308_0_VPWW61_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-      "slug": "NinekilledinstrikesonKyi",
-      "time": "2026-08-01T11:52:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
+        "時事ドットコム"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
-          "snippet": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+          "title": "米、ウイグル強制労働で新たに４３社から輸入禁止　中国は反発",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080100327&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "スペイン、国境沿岸に海上フェンス　不法移民防止で",
+      "slug": "スペイン国境沿岸に海上フェンス不法移民防止で",
+      "time": "2026-08-01T12:57:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "スペイン、国境沿岸に海上フェンス　不法移民防止で",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080100438&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-01T14:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140052_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-01T14:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140055_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-01T14:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140031_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-01T14:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、２日０９時から１２時までは火口から南西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-01T14:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140037_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-01T14:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140041_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-01T14:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-01T14:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801140048_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -982,6 +919,27 @@
           "snippet": "Around 500 people, mostly tourists, are evacuated by boat from Agios Vasileios after becoming trapped.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c0kmzx8vpv4o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+      "slug": "Indiascockroachprotester",
+      "time": "2026-07-31T23:58:12.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "India's 'cockroach' protesters have wounds consistent with pellet-gun fire, say experts",
+          "snippet": "Ballistic experts say the dozens of tiny round punctures are tell-tale signs of pellet gun injuries.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c74gwvygkjdo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1009,21 +967,63 @@
       ]
     },
     {
-      "headline": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-      "slug": "UKrapperYungFillyfoundno",
-      "time": "2026-07-31T05:21:18.000Z",
+      "headline": "Is Spain being punished?",
+      "slug": "IsSpainbeingpunished",
+      "time": "2026-08-01T13:50:36.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "UK rapper Yung Filly found not guilty of raping woman after Australian show",
-          "snippet": "The YouTuber has been found guilty for two counts of assault over the 2024 incident in Perth.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crrv7vk0knro?at_medium=RSS&at_campaign=rss",
+          "title": "Is Spain being punished?",
+          "snippet": "In the months leading up to the crisis in Ceuta, pro-Israel voices conspicuously raised the issue of the enclave",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/opinions/2026/8/1/is-spain-being-punished?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Children run marathon to spotlight Gaza’s growing orphan crises",
+      "slug": "Childrenrunmarathontospo",
+      "time": "2026-08-01T13:46:33.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Children run marathon to spotlight Gaza’s growing orphan crises",
+          "snippet": "Children run marathon to spotlight Gaza&#039;s growing orphan crisis",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+      "slug": "SdeTeimanwalkoutlaysbare",
+      "time": "2026-08-01T12:40:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Sde Teiman walkout lays bare an Israeli military running out of trust",
+          "snippet": "Nearly three years of open-ended war have made obedience inside the Israeli military increasingly conditional.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/opinions/2026/8/1/sde-teiman-walkout-lays-bare-an-israeli-military-running-out-of-trust?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1045,69 +1045,6 @@
           "snippet": "101 East investigates how the Philippines’ ambitious regreening programme is failing the nation’s forests.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/101-east/2026/8/1/vanishing-forests-why-is-the-philippines-failing-at-reforestation?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Trump mimics sound of Patriot missile interceptions",
-      "slug": "TrumpmimicssoundofPatrio",
-      "time": "2026-08-01T11:21:32.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Trump mimics sound of Patriot missile interceptions",
-          "snippet": "US President Donald Trump mimicked missile interceptions as he described the US military shooting down Iranian missiles.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/aje-onl-nf_01-08-trump-jordan-missiles-clip-010826?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Iran: The Making of a War",
-      "slug": "IranTheMakingofaWar",
-      "time": "2026-08-01T10:30:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Iran: The Making of a War",
-          "snippet": "From coup to conflict - how decades of rivalries and miscalculations have shaped one of today’s most dangerous wars.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Beneath Tunisia’s silence, public anger simmers",
-      "slug": "BeneathTunisiassilencepu",
-      "time": "2026-08-01T09:42:50.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Beneath Tunisia’s silence, public anger simmers",
-          "snippet": "Behind Tunisia’s enforced calm, anger is growing over repression, economic decline and collapsing public services.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/1/beneath-tunisias-silence-public-anger-simmers?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
