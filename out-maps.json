@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-02T08:39:08.989Z",
+  "builtAt": "2026-08-02T12:41:27.754Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -156,118 +156,172 @@
       }
     },
     {
-      "headline": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
-      "slug": "Trumpsaysheiscancellings",
+      "headline": "台風13号 非常に強い勢力で西へ 小笠原はあすから影響か",
+      "slug": "台風13号非常に強い勢力で西へ小笠原はあすから影",
       "independentSources": 3,
       "sources": [
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080200129&g=flash&m=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194111000"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080200088&g=int&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590290?source=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802123511_0_VPWW53_130000.xml"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802123511_0_VPWW54_130000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802123506_0_VPWW59_130000.xml"
         }
       ],
-      "issue": "米国はイランへの攻撃を取りやめるか？",
+      "issue": "台風13号は小笠原諸島や沖縄・奄美にどのような影響を与えるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "トランプ米大統領は、イランへの攻撃を中止すると表明した。",
-          "span": "イラン攻撃見送り表明",
+          "t": "非常に強い台風13号は日本の南の海上を西寄りに進んでいる。",
+          "span": "非常に強い台風13号は日本の南の海上を西寄りに進んでいて",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "攻撃中止の条件として、ホルムズ海峡の開放などに関する合意成立を挙げた。",
-          "span": "ホルムズ開放条件",
+          "t": "小笠原諸島では3日から波や風が強まり、高波に厳重な警戒が必要である。",
+          "span": "小笠原諸島では3日から波や風が強まり、高波に厳重に警戒が必要です",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "トランプ大統領は、イランと他の近隣諸国が攻撃を一時停止するよう米国に要請したと主張した。",
-          "span": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack",
+          "t": "台風13号は6日ごろ、強い勢力で沖縄・奄美に接近し、大荒れの天気になるおそれがある。",
+          "span": "6日・木曜日ごろには強い勢力で沖縄・奄美に接近して大荒れの天気になるおそれ",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "トランプ大統領は、交渉が進展したことを理由に、イランへの軍事攻撃を中止したと発表した。",
-          "span": "announced that he has cancelled a planned military strike on Iran, claiming progress in talks",
+          "t": "東京都の伊豆諸島北部と小笠原諸島では高波に注意が必要である。",
+          "span": "伊豆諸島北部、小笠原諸島では、高波に注意してください",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "東京都の伊豆諸島北部と伊豆諸島南部では落雷に注意が必要である。",
+          "span": "伊豆諸島北部、伊豆諸島南部では、落雷に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "トランプ米大統領は、イランへの攻撃を中止すると表明した。ただし、その条件として合意の成立を挙げている。この表明は複数の報道機関によって報じられている。",
-      "note": "複数の報道機関が同様の事実を報じているが、報道機関ごとに表現が若干異なる。トランプ大統領の発言内容を各報道機関が引用する形で構成されている。",
+      "consensus": "台風13号は日本の南の海上を西寄りに進んでおり、小笠原諸島では3日から波や風が強まり高波に厳重な警戒が必要。6日ごろには沖縄・奄美に接近して大荒れの天気になるおそれがある。東京都の伊豆諸島北部と小笠原諸島では高波に、伊豆諸島北部と伊豆諸島南部では落雷に注意が必要である。",
+      "note": "複数の気象庁発表が同一内容のため、事実として集約した。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "ドジャース、スクバル獲得へ　サイ・ヤング賞左腕―米大リーグ",
-      "slug": "ドジャススクバル獲得へサイヤング賞左腕米大リグ",
+      "headline": "90代女性遺体見つかる 別事件で逮捕のベトナム人が遺棄か 埼玉",
+      "slug": "90代女性遺体見つかる別事件で逮捕のベトナム人が",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590272?source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194411000"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080200189&g=spo&m=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194271000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590299?source=rss"
         }
       ],
-      "issue": "山本由伸投手の獲得競争におけるドジャースの動向はどうか？",
+      "issue": "落石による死亡事故の発生と原因究明について",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ドジャースがサイ・ヤング賞左腕のスクバル獲得に向けて動いていると報じられた。",
-          "span": "ドジャース、スクバル獲得へ　サイ・ヤング賞左腕",
+          "t": "兵庫県豊岡市の観光地「淀の洞門」近くで、30代の女性が倒れているのが見つかり、その後死亡した。",
+          "span": "兵庫県豊岡市の観光地、「淀の洞門」近くで30代の女性が倒れているのが見つかり、その後、死亡しました。",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "山本由伸投手の獲得報道について、本人は驚いていると報じられた。",
-          "span": "山本由伸は驚き",
+          "t": "警察は、洞門からの落石が女性に当たったとみて、詳しい状況を調べている。",
+          "span": "警察によりますと、洞門からの落石が当たったということで、当時の詳しい状況を調べています。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "埼玉県入間市で、一人暮らしの90代の女性の行方がわからなくなり、別の事件で逮捕されたベトナム国籍の33歳の容疑者の説明に基づき、警察が山林を捜索したところ、遺体で見つかった。",
+          "span": "埼玉県入間市の住宅で1人暮らしの90代の女性の行方がわからなくなり別の事件で逮捕されたベトナム国籍の33歳の容疑者の説明に基づき警察が県内の山林を捜索したところ遺体で見つかりました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "落石で女性が死亡した事故を小学生が目撃していた。",
+          "span": "落石で女性死亡 小学生の子が目撃",
           "src": [
             {
               "ty": "press",
@@ -277,19 +331,16 @@
         }
       ],
       "positions": [],
-      "consensus": "ドジャースがスクバル獲得に向けて動いていると報じられており、山本由伸投手はそれについて驚いていると報じられている。",
-      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positionsは空とする。",
+      "consensus": "兵庫県豊岡市の観光地で落石により女性が死亡した。また、埼玉県入間市で90代女性の遺体が発見された。小学生が落石による女性死亡事故を目撃していた。これらの事実について、記事中に異なる評価や見解は見られない。",
+      "note": "複数の事件が混在しているため、事実を個別に抽出した。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "consensusの「評価は割れない」を削除。事実合意型の場合、評価の有無を明記する必要はない。",
-          "factsのspanを元テキストの核となる部分に修正。1つ目のspanを「ドジャース、スクバル獲得へ　サイ・ヤング賞左腕」に、2つ目のspanを「山本由伸は驚き」に修正。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
-      "slug": "WhyUgandaseemstobewinnin",
+      "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
+      "slug": "HowSpainsmigrantcrisiscr",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -298,30 +349,54 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss"
+          "link": "https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss"
         }
       ],
-      "issue": "ウガンダはエボラ出血熱との戦いに勝利しているか？",
+      "issue": "スペインのセウタにおける移民危機は、ヨーロッパの政治にどのような影響を与えたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ウガンダは、約2週間前に最後のエボラ患者を退院させた。",
-          "span": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago",
+          "t": "数千人のモロッコ人がスペインの北アフリカの飛び地であるセウタへの到達を試みた。",
+          "span": "thousands of Moroccans attempted to reach the Spanish North African enclave of Ceuta",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "セウタでの移民危機は、ヨーロッパの政治に影響を与え、移民問題に関するヨーロッパ内の分裂を露呈させた。",
+          "span": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
             }
           ]
+        },
+        {
+          "t": "セウタの住民数百人が、計画されていた極右の反移民集会に反対するために集まった。",
+          "span": "Hundreds of residents in Spain&#039;s North African enclave of Ceuta gathered to oppose a planned far-right rally",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "ウガンダは最後のエボラ患者を約2週間前に退院させたという事実について、全員が合意している。",
-      "note": "この記事は、ウガンダのエボラ対策の成功と、コンゴ民主共和国でのウイルスの拡散という対照的な状況について報じているが、ウガンダの状況に関する評価や意見の対立は含まれていない。",
+      "consensus": "数千人のモロッコ人がスペインのセウタへの到達を試み、この危機はヨーロッパの政治に影響を与え、移民問題に関する分裂を露呈させた。セウタの住民は極右の反移民集会に反対するために集まった。",
+      "note": "プライバシー配慮のため、移民個人の特定につながる情報は含んでいません。",
       "audit": {
         "changed": false,
         "issues": []
