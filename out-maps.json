@@ -1,14 +1,15 @@
 {
-  "builtAt": "2026-08-02T15:31:28.264Z",
+  "builtAt": "2026-08-02T16:33:18.830Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "熊本地震 車中泊で死亡 熱中症疑い 3日 熊本 酷暑日予想で注意",
-      "slug": "熊本地震車中泊で死亡熱中症疑い3日熊本酷暑日予想",
-      "independentSources": 3,
+      "headline": "壁の下敷き、高齢男性が心肺停止　「イオンモール宇城」で発見―熊本震度７",
+      "slug": "壁の下敷き高齢男性が心肺停止イオンモル宇城で発見",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "気象庁 地震・火山"
       ],
       "links": [
@@ -29,24 +30,28 @@
           "link": "https://news.yahoo.co.jp/pickup/6590302?source=rss"
         },
         {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080200265&g=soc&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026073101386&g=soc&m=rss"
+        },
+        {
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260802152927_0_VXSE53_270000.xml"
         },
         {
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260802152823_0_VXSE53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802145359_0_VXSE53_010000.xml"
         }
       ],
-      "issue": null,
-      "stasis": null,
+      "issue": "熊本地震による被害状況と、それに影響を与える気象状況、および政府の対応方針はどのようなものか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "熊本県内で2日午後7時時点で、地震による死者が38人に達した。",
-          "span": "38人が死亡した",
+          "t": "熊本県は2日午後7時時点で、熊本地震による死者が38人に上ると発表した。",
+          "span": "38人が死亡したと発表しました",
           "src": [
             {
               "ty": "press",
@@ -55,8 +60,8 @@
           ]
         },
         {
-          "t": "38人の死者のうち1人は災害関連死の疑いがある。",
-          "span": "災害関連死の疑いがある1人",
+          "t": "死亡者には、災害関連死の疑いがある1人と、地震の直接の被害による「直接死」かどうか調査中の2人が含まれる。",
+          "span": "災害関連死の疑いがある1人や地震の直接の被害で亡くなった「直接死」かどうか調査している2人を含めて",
           "src": [
             {
               "ty": "press",
@@ -65,17 +70,7 @@
           ]
         },
         {
-          "t": "38人の死者のうち2人は、地震の直接の被害による「直接死」かどうかが調査中である。",
-          "span": "「直接死」かどうか調査している2人",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊本地震の被災者で車中泊中に死亡した人がおり、熱中症の疑いが持たれている。",
+          "t": "熊本地震に関連し、車中泊中に熱中症の疑いで死亡した事例が報告されている。",
           "span": "車中泊で死亡 熱中症疑い",
           "src": [
             {
@@ -85,17 +80,27 @@
           ]
         },
         {
-          "t": "3日には熊本市など九州で酷暑日が予想されており、熱中症対策が呼びかけられている。",
-          "span": "3日は熊本市など九州で酷暑日予想 熱中症対策を",
+          "t": "熊本地震により、イオンモール宇城で男性客が崩落した天井の下敷きとなり死亡した。",
+          "span": "崩落した天井の下敷き―熊本地震",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "2日には高知県と和歌山県で40度を超える酷暑日を観測した。",
+          "t": "イオンモール宇城で、壁の下敷きになった高齢男性が心肺停止状態で見つかった。",
+          "span": "壁の下敷き、高齢男性が心肺停止",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "2日には高知県と和歌山県で気温が40度を超える酷暑日となった。",
           "span": "高知県と和歌山県で40度を超える酷暑日となった",
           "src": [
             {
@@ -105,8 +110,8 @@
           ]
         },
         {
-          "t": "2日には全国の40を超える観測点で観測史上最も高い気温を記録した。",
-          "span": "観測史上、最も高い気温を観測する記録的な暑さ",
+          "t": "2日には全国の40を超える観測点で観測史上最も高い気温が記録された。",
+          "span": "観測史上、最も高い気温を観測",
           "src": [
             {
               "ty": "press",
@@ -115,22 +120,8 @@
           ]
         },
         {
-          "t": "2日午後11時49分ごろ、北海道で震度3の地震が観測された。",
-          "span": "北海道で震度3の揺れを観測する地震がありました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "北海道の地震による津波の心配はない。",
-          "span": "津波の心配なし",
+          "t": "3日は熊本市など九州地方で酷暑日となることが予想されている。",
+          "span": "3日は熊本市など九州で酷暑日",
           "src": [
             {
               "ty": "press",
@@ -139,7 +130,27 @@
           ]
         },
         {
-          "t": "3日0時26分ごろに地震が発生した。",
+          "t": "熱中症対策が呼びかけられている。",
+          "span": "熱中症対策を",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "2日午後11時49分ごろ、北海道で震度3の地震が発生したが、津波の心配はない。",
+          "span": "北海道で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "3日0時26分ごろ、地震が発生した。",
           "span": "３日００時２６分ころ、地震がありました",
           "src": [
             {
@@ -149,7 +160,7 @@
           ]
         },
         {
-          "t": "3日0時25分ごろに地震が発生した。",
+          "t": "3日0時25分ごろ、地震が発生した。",
           "span": "３日００時２５分ころ、地震がありました",
           "src": [
             {
@@ -160,28 +171,30 @@
         }
       ],
       "positions": [],
-      "consensus": "熊本地震による死者が38人に達し、その中には災害関連死の疑いや熱中症の疑いがあるケースが含まれる。また、記録的な暑さが続き、今後も酷暑日が予想されている。",
+      "consensus": "記事は複数の事実を報じており、評価は割れない。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」を追加しました。",
-          "facts[4].span: 元テキストの記述をより正確に反映するため、spanを「3日は熊本市など九州で酷暑日予想 熱中症対策を」に修正しました。",
-          "issue: テキスト内に賛否の対立が見られないため、issueをnullに設定し、stasisもnullに設定しました。",
-          "positions: テキスト内に実在の対立する立場が提示されていないため、positionsを空配列に修正しました。",
-          "consensus: positionsの変更に伴い、官房長官の方針に関する記述を削除し、事実のみを要約するように修正しました。"
+          "facts[6].spanを最小核に修正しました。",
+          "facts[8].tから評価的な記述を削除し、元のテキストに忠実な表現に修正しました。"
         ]
       }
     },
     {
-      "headline": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "slug": "AtleasteightkilledinIsra",
-      "independentSources": 2,
+      "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "slug": "Atleast13killedinIsraeli",
+      "independentSources": 3,
       "sources": [
+        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080200088&g=int&m=rss"
+        },
         {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
@@ -192,6 +205,10 @@
         },
         {
           "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss"
         },
         {
@@ -199,11 +216,21 @@
           "link": "https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint?traffic_source=rss"
         }
       ],
-      "issue": "米国によるイランへの軍事攻撃中止の判断は、その意図や効果についてどのように解釈されているか？",
+      "issue": "米国によるイランへの軍事攻撃は適切か、またホルムズ海峡の安全保障はどのように確保されるべきか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "米国大統領はイランへの攻撃を中止した。",
+          "t": "トランプ氏がイランへの攻撃を見送る意向を表明した。",
+          "span": "トランプ氏、イラン攻撃見送り表明",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "トランプ米大統領がイランへの攻撃を中止した。",
           "span": "Trump cancels Iran strikes",
           "src": [
             {
@@ -213,8 +240,18 @@
           ]
         },
         {
-          "t": "攻撃中止は「迅速に」合意がなされることを条件としている。",
-          "span": "subject to deal being made 'rapidly'",
+          "t": "関係各国が土壇場で外交努力を行った。",
+          "span": "関係各国、土壇場の外交努力",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ハマスが武装解除合意に達した後、イスラエルによるガザへの攻撃で少なくとも13人が死亡した。",
+          "span": "At least 13 killed in Israeli strikes on Gaza",
           "src": [
             {
               "ty": "press",
@@ -223,37 +260,7 @@
           ]
         },
         {
-          "t": "米国大統領は、イランや他の中東諸国がワシントンに攻撃を控えるよう求めたと主張している。",
-          "span": "Iran and other Middle Eastern countries asked Washington to hold off on any attack",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ハマスが武装解除合意に同意した後、ガザでイスラエルによる攻撃により少なくとも8人が死亡した。",
-          "span": "At least eight killed in Israeli strikes on Gaza",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イスラエルは、ガザ市、ハンユニス、ディール・エル・バラハへの攻撃で軍事作戦員を標的にしたと述べている。",
-          "span": "targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領がイランへの攻撃を中止したにもかかわらず、ホルムズ海峡での進展はない。",
+          "t": "トランプ氏がイランへの攻撃を中止したにもかかわらず、ホルムズ海峡に関する進展はなかった。",
           "span": "No breakthrough on Strait of Hormuz",
           "src": [
             {
@@ -263,8 +270,8 @@
           ]
         },
         {
-          "t": "マルコ・ルビオ氏のホルムズ海峡迂回計画は、パイプラインの制限と紅海の深刻な脅威によって妨げられていると専門家が警告している。",
-          "span": "",
+          "t": "マルコ・ルビオ氏がホルムズ海峡迂回計画を提案した。",
+          "span": "Rubio’s bypass plan",
           "src": [
             {
               "ty": "press",
@@ -273,109 +280,131 @@
           ]
         }
       ],
-      "positions": [],
-      "consensus": "米国はイランへの軍事攻撃を中止したが、その意図や効果については評価が割れている。アプリは裁定しない。",
+      "positions": [
+        {
+          "actor": "トランプ氏",
+          "stance": "support",
+          "claim": "ホルムズ海峡の開放をイラン攻撃見送りの条件としたと報じられている。",
+          "span": "ホルムズ開放条件",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "actor": "トランプ米大統領",
+          "stance": "support",
+          "claim": "迅速な合意がイラン攻撃中止の条件であると述べた。",
+          "span": "subject to deal being made 'rapidly'",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "トランプ米大統領",
+          "stance": "neutral",
+          "claim": "イランや他の中東諸国がワシントンに攻撃を控えるよう求めたと主張した。",
+          "span": "Iran and other Middle Eastern countries asked Washington to hold off on any attack",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "イスラエル",
+          "stance": "neutral",
+          "claim": "ガザ市、ハンユニス、ディル・アル・バラへの攻撃で軍事作戦要員を標的にしていたと述べた。",
+          "span": "targeting military operatives",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "Al Jazeera (意見記事)",
+          "stance": "support",
+          "claim": "米国にとって最もましな選択肢は、覚書第5条が機能するに任せることであると提言している。",
+          "span": "let the MoU Article 5 play out",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "op",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "イラン",
+          "stance": "attack",
+          "claim": "トランプ氏の攻撃中止に関するコメントは「心理作戦の一環」であると述べた。",
+          "span": "",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "専門家（Al Jazeera）",
+          "stance": "attack",
+          "claim": "マルコ・ルビオ氏のホルムズ海峡迂回計画はパイプラインの限界と紅海の深刻な脅威によって妨げられると警告している。",
+          "span": "hindered by pipeline limits and severe Red Sea threats",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "トランプ米大統領はイランへの攻撃を見送る意向を表明し、実際の中止に至ったが、ホルムズ海峡に関する具体的な進展は見られない。米国によるイランへの軍事行動の是非や、ホルムズ海峡の安全保障確保策については、関係者や専門家の間で異なる見解が示されている。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "issue: 争点の立て方が、提示されたpositionsと直接的に対応していなかったため、「米国によるイランへの軍事攻撃中止の判断は、その意図や効果についてどのように解釈されているか？」に修正しました。",
-          "spanの最小核: facts[3].spanが文全体だったため、最小核「At least eight killed in Israeli strikes on Gaza」に修正しました。",
-          "spanの最小核: facts[6].spanが空文字だったため、元テキストから「Marco Rubio's Hormuz bypass plan is hindered by pipeline limits and severe Red Sea threats」を抽出しました。",
-          "メタ記述の徹底: positions[0].claimが地の文の断定になっており、かつ発言主体の主張内容と異なっていたため、「イランや他の中東諸国が攻撃を控えるよう求めたため、攻撃を中止したと主張している。」に修正しました。",
-          "メタ記述の徹底: positions[0].stanceが「support」では不適切だったため、「neutral」に修正しました。",
-          "メタ記述の徹底: positions[0].reasonがclaimの内容と重複していたため、nullに修正しました。",
-          "spanの最小核: positions[0].spanが修正後のclaim内容と一致していなかったため、元テキストから「Iran and other Middle Eastern countries asked Washington to hold off on any attack」を抽出しました。",
-          "spanの最小核: positions[1].spanが空文字だったため、元テキストから「Trump's comment on pullback from threatened strikes made 'within the context of psychological operat」を抽出しました。",
-          "fact spanが原文に無い→除去「Rubio's Hormuz byp…」",
-          "position spanが原文に無い→除去「Trump's comment on…」"
-        ]
-      }
-    },
-    {
-      "headline": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
-      "slug": "PakistanadministeredKash",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss"
-        }
-      ],
-      "issue": "インドネシアのフェリー火災の状況はどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "インドネシアのフェリー火災で5人が死亡した。",
-          "span": "Five dead",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "同火災により41人が行方不明となっている。",
-          "span": "41 missing",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "当該フェリーはマドゥラ島沖で火災を起こした。",
-          "span": "caught fire off Madura island",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "当該フェリーには少なくとも250人が乗船していた。",
-          "span": "at least 250 people on board",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "インドネシアのジャワ海でフェリー火災が発生し、数十人が行方不明となっている。",
-          "span": "dozens missing",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "インドネシアのフェリー火災で5人が死亡し、41人が行方不明となっている。このフェリーには少なくとも250人が乗船しており、マドゥラ島沖（ジャワ海）で火災が発生したと報じられている。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[4].t から評価語「Deadly」に相当する記述を削除し、spanを最小核に修正しました。",
-          "facts[3].span を最小核に修正しました。"
+          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」を追加しました。",
+          "positions[4].claim: メタ記述の徹底のため、「〜と提言している」に変更しました。",
+          "facts[5].span: 空文字だったspanを元テキストから「Rubio’s bypass plan」に修正しました。",
+          "positions[5].span: 空文字だったspanを元テキストから「'within the context of psychological operat'」に修正しました。",
+          "fact spanが原文に無い→除去「Marco Rubio's Horm…」",
+          "position spanが原文に無い→除去「'within the contex…」"
         ]
       }
     },
@@ -448,6 +477,89 @@
         "changed": true,
         "issues": [
           "争点（issue）は対立する見解がある場合に立てるものなので、テキストに対立がないため空にした。それに伴いstasisも空にした。"
+        ]
+      }
+    },
+    {
+      "headline": "日米両政府が円安・ドル高阻止に向けた共同声明を発出する方向で調整している",
+      "slug": "日米両政府が円安ドル高阻止に向けた共同声明を発出",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194291000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080200310&g=flash&m=rss"
+        }
+      ],
+      "issue": "日米両政府は円安是正のため協調介入を行い、共同声明を発表する方向で調整しているか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "政府・日銀は、7月30日から8月1日にかけて断続的に市場介入を実施した。",
+          "span": "断続的に市場介入を実施しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "市場介入は歴史的な円安に歯止めをかける目的で行われた。",
+          "span": "歴史的な円安に歯止めをかけるため",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アメリカの通貨当局と連携し、円安の是正に向けて協調介入が行われた。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "政府は3日に日米共同の声明を発表する方向で調整している。",
+          "span": "3日に日米共同の声明発表へ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "日米両政府が円安・ドル高阻止に向けた共同声明を発出する方向で調整している。",
+          "span": "円安・ドル高阻止に向けた共同声明を発出する方向で調整している",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日米両政府が円安是正のため協調介入を行い、共同声明の発表に向けて調整しているという点で合意している。ただし、その効果や妥当性に関する評価は記事中にないため、アプリは裁定しない。",
+      "note": "NHK記事の本文が途中で切れているため、一部の事実はタイトルから補完しています。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[2]から評価語「異例の」を削除し、tとspanを修正しました。",
+          "positionsに、NHKが協調介入を「異例」と報じている旨の項目を追加しました。"
         ]
       }
     }
