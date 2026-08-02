@@ -1,23 +1,32 @@
 {
-  "builtAt": "2026-08-01T21:54:56.743Z",
+  "builtAt": "2026-08-02T08:39:08.989Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Three killed after bomb detonated at Moscow restaurant, state media say",
-      "slug": "Threekilledafterbombdeto",
-      "independentSources": 6,
+      "headline": "熱中症死か、初の災害関連疑い　車中泊の７０代、死者３８人に―２次避難へ準備急ぐ・熊本地震６日目",
+      "slug": "熱中症死か初の災害関連疑い車中泊の代死者人に次避",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "気象庁 気象警報・注意報",
-        "BBC World",
-        "Al Jazeera"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194231000"
+        },
+        {
+          "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015193881000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194121000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015193991000"
         },
         {
           "source": "NHK 主要ニュース",
@@ -25,97 +34,160 @@
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193871000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194201000"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193951000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193971000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194081000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590190?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590262?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080100304&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026080200123&g=soc&m=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801213847_0_VPWW53_030000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080200151&g=soc&m=rss"
+        }
+      ],
+      "issue": "熊本地震における死者数と熱中症対策の必要性は関連しているか？",
+      "stasis": "因果の解釈（割れる）",
+      "facts": [
+        {
+          "t": "イオンモール宇城で、熊本地震により崩れた天井の下敷きとなった男性客の死亡が確認された。",
+          "span": "店を訪れていた男性客が地震で崩れた天井の下敷きとなって死亡したことが確認された",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801213847_0_VPWW54_030000.xml"
+          "t": "熊本県は、災害関連死の疑いがある1人、および地震の直接死かどうか調査中の2人を含め、県内での死者数が合計38人になったと発表した。",
+          "span": "県内では災害関連死の疑いがある1人や地震の直接の被害で亡くなった「直接死」かどうか調査している2人を含めて38人が死亡したと発表しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801213553_0_VPWW53_060000.xml"
+          "t": "熊本地震の被災地では猛烈な暑さが続いており、避難のため車中泊をしていた70代の女性が熱中症の疑いで死亡した。",
+          "span": "地震後に避難のため車中泊をし、70代の女性が熱中症の疑いで死亡しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801213553_0_VPWW54_060000.xml"
+          "t": "7月28日に最大震度7を観測した熊本県では、1日夜も宇城市で震度5弱の揺れを観測するなど地震活動が活発化している。",
+          "span": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、1日夜も宇城市で震度5弱の強い揺れを観測するなど地震活動が活発になっていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801213543_0_VPWW56_060000.xml"
+          "t": "気象庁は、熊本県で引き続き最大震度7程度の揺れに注意するよう呼びかけている。",
+          "span": "気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけてい",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801213507_0_VPFJ50_130000.xml"
+          "t": "西日本と東日本では2日も気温が上がり、高知県と和歌山県では40度を超える酷暑日となり、熊本県でも39度を超える危険な暑さとなっている。",
+          "span": "高知県と和歌山県では40度を超える酷暑日に、熊本県でも39度を超える危険な暑さになっているところがあり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260801213507_0_VPFJ51_130000.xml"
+          "t": "1日午後、伊豆諸島の三宅島で土砂崩れが発生し、住宅1棟が半壊したが、けが人はいない。",
+          "span": "1日午後、東京 伊豆諸島の三宅島で都道ののり面が崩れて土砂が住宅1棟に流れ込むなどの被害が出ました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "三宅島の土砂崩れの影響で断水や停電が発生している。",
+          "span": "この影響で断水や停電も起きていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "和歌山県と高知県では8日連続で40度台の酷暑日となっている。",
+          "span": "和歌山、高知両県で４０度台　国内酷暑日８日目",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "熊本地震により、イオンモール宇城で天井崩落による死亡者1名が確認された。熊本県は、災害関連死の疑い1名と直接死調査中の2名を含め、死者数を合計38名と発表した。被災地では猛暑が続き、車中泊をしていた70代女性が熱中症の疑いで死亡した。気象庁は、熊本県での地震活動活発化と危険な暑さに対し、最大震度7程度の揺れと熱中症対策への注意を呼びかけている。和歌山・高知両県では40度を超える酷暑日が続いている。三宅島では土砂崩れで住宅が半壊したが、けが人はいない。芸能界でも支援活動が広がっている。",
+      "note": "プライバシー配慮のため、個別の被害者の詳細な情報は省略し、事実と構造の抽出に注力した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+      "slug": "Trumpsaysheiscancellings",
+      "independentSources": 3,
+      "sources": [
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080200129&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080200088&g=int&m=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss"
         }
       ],
-      "issue": "主要な出来事",
+      "issue": "米国はイランへの攻撃を取りやめるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "熊本県内で、先月28日の地震に関連して、調査中の2人を含め36人が死亡し、9000人余りが避難している。",
-          "span": "災害との関連を調査している2人を含めて36人が死亡し、9000人余りが避難しています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊本県内では暑さが続く見込みで、県は避難所での熱中症対策を強化する方針である。",
-          "span": "熱中症対策を強化へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "政府は、熊本地震の被災地で続く断水の早期解消のため、全国の自治体に技術職員の派遣を要請するなど、インフラ復旧の取り組みを進めている。",
-          "span": "被災地で続く断水の早期解消に向けて全国の自治体に技術職員の派遣を要請するなど、インフラ復旧の取り組みを進めることにしています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "益城町では50人のボランティアが家具搬出を手助けした。",
-          "span": "５０人、家具搬出手助け",
+          "t": "トランプ米大統領は、イランへの攻撃を中止すると表明した。",
+          "span": "イラン攻撃見送り表明",
           "src": [
             {
               "ty": "press",
@@ -124,118 +196,18 @@
           ]
         },
         {
-          "t": "西日本と東日本では2日も気温が上昇し、大分県日田市では40度の酷暑日が予想されている。",
-          "span": "西日本と東日本は2日も気温が上がり、大分県日田市では40度と酷暑日が予想されている",
+          "t": "攻撃中止の条件として、ホルムズ海峡の開放などに関する合意成立を挙げた。",
+          "span": "ホルムズ開放条件",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "熊本県の地震被災地でも危険な暑さとなる見込みである。",
-          "span": "熊本県の地震の被災地でも危険な暑さとなる見込みで",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "週明けには熊本で40℃の猛暑日が予想されている。",
-          "span": "週明け熊本は40℃恐れ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "東北地方では低気圧などの影響で土砂災害の可能性がある。",
-          "span": "東北は土砂災害に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "岩手県の内陸では土砂災害に厳重に警戒するよう警報が出ている。",
-          "span": "内陸では、土砂災害に厳重に警戒してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "山形県の最上地域では土砂災害に厳重に警戒するよう警報が出ている。",
-          "span": "最上では、土砂災害に厳重に警戒してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "東京都の小笠原諸島では、台風第13号の影響で3日から5日頃にかけてうねりを伴った高波が予想されている。",
-          "span": "小笠原諸島では、３日から５日頃にかけてうねりを伴った高波に",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "東京都の小笠原諸島では、4日から5日頃にかけて、土砂災害や低い土地の浸水、河川の増水、強風が予想されている。",
-          "span": "４日から５日頃にかけて、土砂災害や低い土地の浸水、河川の増水、強風に",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "アメリカのメディアは、トランプ政権がこの週末にもイスラエルとともにイランへの攻撃を計画していると報じた。",
-          "span": "トランプ政権がこの週末にもイスラエルとともにイランへの攻撃を計画していると報じました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ロシアの首都モスクワ中心部で爆発が発生し、現地のメディアによると3人が死亡、15人が負傷した。",
-          "span": "モスクワ中心部で爆発があり、現地のメディアによりますと、これまでに3人が死亡し、15人がけがをしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ロシアでは、ウクライナへの軍事侵攻開始以降、軍の幹部が爆発によって殺害される事件が相次いでいる。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "モスクワの爆発では、警備当局によると、女性が爆発物を持ってレストランに入ろうとしたが、警備員に阻止された。",
-          "span": "a woman tried to enter the restaurant with explosives but was stopped by a security guard",
+          "t": "トランプ大統領は、イランと他の近隣諸国が攻撃を一時停止するよう米国に要請したと主張した。",
+          "span": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack",
           "src": [
             {
               "ty": "press",
@@ -244,8 +216,8 @@
           ]
         },
         {
-          "t": "モスクワのクドリンスカヤ広場での爆発で、当局によると15人以上が負傷した。",
-          "span": "More than 15 people also ​injured ‌in the blast in Kudrinskaya Square",
+          "t": "トランプ大統領は、交渉が進展したことを理由に、イランへの軍事攻撃を中止したと発表した。",
+          "span": "announced that he has cancelled a planned military strike on Iran, claiming progress in talks",
           "src": [
             {
               "ty": "press",
@@ -255,145 +227,69 @@
         }
       ],
       "positions": [],
-      "consensus": "熊本地震の被害状況、全国的な猛暑と気象災害への警戒、および国際的な事件が報じられている。これらの出来事に対する評価や解釈は、本記事中では明確に割れていない。",
-      "note": null,
+      "consensus": "トランプ米大統領は、イランへの攻撃を中止すると表明した。ただし、その条件として合意の成立を挙げている。この表明は複数の報道機関によって報じられている。",
+      "note": "複数の報道機関が同様の事実を報じているが、報道機関ごとに表現が若干異なる。トランプ大統領の発言内容を各報道機関が引用する形で構成されている。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "issue: 争点ではないため「現在の国内外の主要な出来事と課題は何か？」から「主要な出来事」に修正しました。",
-          "facts[5].t: 事実欄への評価混入（「徹底が必要である」という提言）を修正し、「熊本県の地震被災地でも危険な暑さとなる見込みである。」としました。",
-          "facts[5].span: `t`の修正に伴い、spanを「熊本県の地震の被災地でも危険な暑さとなる見込みで」に修正しました。",
-          "facts[7].t: 事実欄への評価混入（「厳重な警戒が必要である」という提言）を修正し、「東北地方では低気圧などの影響で土砂災害の可能性がある。」としました。",
-          "facts[7].span: `t`の修正に伴い、spanを「東北は土砂災害に」に修正しました。",
-          "facts[10].t: 事実欄への評価混入（「厳重な警戒が必要である」という提言）を修正し、「東京都の小笠原諸島では、台風第13号の影響で3日から5日頃にかけてうねりを伴った高波が予想されている。」としました。",
-          "facts[10].span: `t`の修正に伴い、spanを「小笠原諸島では、３日から５日頃にかけてうねりを伴った高波に」に修正しました。",
-          "facts[11].t: 事実欄への評価混入（「注意・警戒が必要である」という提言）を修正し、「東京都の小笠原諸島では、4日から5日頃にかけて、土砂災害や低い土地の浸水、河川の増水、強風が予想されている。」としました。",
-          "facts[11].span: `t`の修正に伴い、spanを「４日から５日頃にかけて、土砂災害や低い土地の浸水、河川の増水、強風に」に修正しました。",
-          "facts[1].span: spanが空文字だったため、元テキストの最小核「熱中症対策を強化へ」に修正しました。",
-          "facts[14].span: spanが空文字だったため、元テキストの最小核「軍の幹部が爆発によって殺害される事件が相次」に修正しました。",
-          "facts[16].span: spanが空文字だったため、元テキストの最小核「More than 15 people also ​injured ‌in the blast in Kudrinskaya Square」に修正しました。",
-          "fact spanが原文に無い→除去「県内は暑さが続く見込みで、県は避難所…」",
-          "fact spanが原文に無い→除去「ロシアでは、ウクライナへの軍事侵攻開…」",
-          "fact spanが原文に無い→除去「More than 15 peopl…」"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-      "slug": "MountaineerNirmalPurjaki",
-      "independentSources": 3,
+      "headline": "ドジャース、スクバル獲得へ　サイ・ヤング賞左腕―米大リーグ",
+      "slug": "ドジャススクバル獲得へサイヤング賞左腕米大リグ",
+      "independentSources": 2,
       "sources": [
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590194?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590272?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101006&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080100431&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyljq79kdko?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026080200189&g=spo&m=rss"
         }
       ],
-      "issue": "著名登山家がパキスタンのブロードピークで雪崩に遭遇し死亡したか？",
+      "issue": "山本由伸投手の獲得競争におけるドジャースの動向はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "著名登山家がパキスタンで雪崩に遭遇した。",
-          "span": "パキスタンで雪崩",
+          "t": "ドジャースがサイ・ヤング賞左腕のスクバル獲得に向けて動いていると報じられた。",
+          "span": "ドジャース、スクバル獲得へ　サイ・ヤング賞左腕",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "山本由伸投手の獲得報道について、本人は驚いていると報じられた。",
+          "span": "山本由伸は驚き",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "著名登山家が死亡したことが確認された。",
-          "span": "著名登山家死亡",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "著名登山家ら10人が不明となっている。",
-          "span": "著名登山家ら１０人不明",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "雪崩はパキスタンの8000メートル峰で発生した。",
-          "span": "８０００メートル峰で雪崩",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "著名登山家はパキスタンのブロードピークで雪崩に遭遇した。",
-          "span": "ブロードピークで雪崩遭遇",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "著名登山家は2019年に世界の14の最高峰を6ヶ月強で登頂したことで知られていた。",
-          "span": "The renowned mountaineer was known for scaling the world's 14 highest peaks in just over six months in 2019.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "著名登山家ニルマル・プルジャ氏がパキスタンでの雪崩で死亡したと、彼の会社が伝えている。",
-          "span": "Mountaineer Nirmal Purja killed in Pakistan avalanche, his company says",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "著名登山家がパキスタンで雪崩に遭遇し、死亡したことが確認された。また、10人が不明となっている。",
-      "note": "BBC Worldの記事では、著名登山家ニルマル・プルジャ氏の名前が特定されている。",
+      "consensus": "ドジャースがスクバル獲得に向けて動いていると報じられており、山本由伸投手はそれについて驚いていると報じられている。",
+      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positionsは空とする。",
       "audit": {
         "changed": true,
         "issues": [
-          "fact 7のspanが空文字だったため、元テキストから特定し修正しました。",
-          "fact 7のtが元の英語の直訳になっていたため、自然な日本語に修正しました。",
-          "fact spanが原文に無い→除去「Mountaineer Nirmal…」"
+          "consensusの「評価は割れない」を削除。事実合意型の場合、評価の有無を明記する必要はない。",
+          "factsのspanを元テキストの核となる部分に修正。1つ目のspanを「ドジャース、スクバル獲得へ　サイ・ヤング賞左腕」に、2つ目のspanを「山本由伸は驚き」に修正。"
         ]
       }
     },
     {
-      "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-      "slug": "IsraeliWestBanksettlerte",
+      "headline": "Why Uganda seems to be winning the battle against Ebola as virus spreads in DR Congo",
+      "slug": "WhyUgandaseemstobewinnin",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -402,201 +298,30 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2v91xn1z9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/clyemjn44qqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/1/spain-says-migrants-leaving-ceuta-after-mass-influx-in-which-67-died?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss"
         }
       ],
-      "issue": "スペインは、一部のEU諸国によるセウタへの移民流入への対応を「利己的」と非難しているか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "セウタへの移民流入が発生した。",
-          "span": "mass influx",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "移民流入により67人が死亡した。",
-          "span": "in which 67 died",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イタリアはスペインとのシェンゲン協定を一時停止した。",
-          "span": "Italy has temporarily suspended the Schengen arrangement with Spain",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "西岸地区におけるパレスチナ人に対する入植者の暴力が増加している。",
-          "span": "Settler violence against Palestinians is on the rise in the West Bank",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "入植地と前哨地が拡大している。",
-          "span": "as settlements and outposts expand",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "スペイン",
-          "stance": "attack",
-          "claim": "一部のEU諸国によるセウタへの移民流入への対応は「利己的」である。",
-          "span": "'selfish'",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "イタリア首相 ジョルジャ・メローニ",
-          "stance": "attack",
-          "claim": "セウタの状況は（利己的であると示唆）。",
-          "span": "called scenes in Ce",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "スペイン",
-          "stance": "support",
-          "claim": "シェンゲン圏の完全性が保証されている。",
-          "span": "the integrity of the Schengen area is absolutely guaranteed",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "イスラエルの西岸地区入植者",
-          "stance": "support",
-          "claim": "パレスチナ人への攻撃は報復として正当化される。",
-          "span": "attacks on Palestinians are justified as revenge",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "consensus": "セウタへの移民流入が発生し、一部の国がシェンゲン協定を一時停止した。西岸地区では入植者の暴力が増加している。スペインはシェンゲン圏の完全性を保証すると主張しているが、一部のEU諸国やイタリア首相は対応を批判している。入植者はパレスチナ人への攻撃を報復として正当化している。評価は割れる。",
-      "note": "プライバシー配慮のため、移民の個人情報は含んでいない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[2].claim: 元テキストのスペイン外相の発言「シェンゲン圏の完全性が絶対に保証されている」を、抽出エンジンは「スペインはシェンゲン圏の完全性を保証すると主張している」と地の文で断定していたため、「〜と述べている」というメタ記述の構造に修正しました。",
-          "positions[2].span: 元テキストのスペイン外相の発言のspanが空文字だったため、元テキストの該当箇所「the integrity of the Schengen area is absolutely guaranteed」を補いました。",
-          "position spanが原文に無い→除去「'the integrity of …」"
-        ]
-      }
-    },
-    {
-      "headline": "岡山 矢掛町で2歳男児が行方不明 きょうも警察と消防が捜索",
-      "slug": "岡山矢掛町で2歳男児が行方不明きょうも警察と消防",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193901000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590182?source=rss"
-        }
-      ],
-      "issue": "岡山県矢掛町で2歳男児が行方不明になっている状況は何か？",
+      "issue": "ウガンダはエボラ出血熱との戦いに勝利しているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "岡山県矢掛町で2歳の男児が行方不明になっている。",
-          "span": "2歳男児が行方不明",
+          "t": "ウガンダは、約2週間前に最後のエボラ患者を退院させた。",
+          "span": "Uganda discharged its last Ebola patient from hospital roughly two weeks ago",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        },
-        {
-          "t": "男児は8月1日に祖母の家に帰省中に姿が分からなくなった。",
-          "span": "行方が分からなくなり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "警察と消防が男児の捜索を行っている。",
-          "span": "警察と消防が捜索",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "8月2日も周辺の山などを捜索する予定である。",
-          "span": "2日も周辺の山などを捜索することにしています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "岡山県矢掛町で2歳の男児が8月1日から行方不明になっており、警察と消防が捜索を続けているという事実が報じられている。この件に関して、記事中に評価や意見の対立は見られない。",
-      "note": "本件は事実の報道であり、評価や意見の対立は含まれていないため、positionsは空配列です。",
+      "consensus": "ウガンダは最後のエボラ患者を約2週間前に退院させたという事実について、全員が合意している。",
+      "note": "この記事は、ウガンダのエボラ対策の成功と、コンゴ民主共和国でのウイルスの拡散という対照的な状況について報じているが、ウガンダの状況に関する評価や意見の対立は含まれていない。",
       "audit": {
         "changed": false,
         "issues": []
