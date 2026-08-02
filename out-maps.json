@@ -1,32 +1,20 @@
 {
-  "builtAt": "2026-08-02T12:41:27.754Z",
+  "builtAt": "2026-08-02T15:31:28.264Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "熱中症死か、初の災害関連疑い　車中泊の７０代、死者３８人に―２次避難へ準備急ぐ・熊本地震６日目",
-      "slug": "熱中症死か初の災害関連疑い車中泊の代死者人に次避",
+      "headline": "熊本地震 車中泊で死亡 熱中症疑い 3日 熊本 酷暑日予想で注意",
+      "slug": "熊本地震車中泊で死亡熱中症疑い3日熊本酷暑日予想",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194231000"
-        },
-        {
-          "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015193881000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194121000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193991000"
         },
         {
           "source": "NHK 主要ニュース",
@@ -34,31 +22,31 @@
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194201000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194081000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194521000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590262?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590302?source=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080200123&g=soc&m=rss"
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802152927_0_VXSE53_270000.xml"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080200151&g=soc&m=rss"
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802152823_0_VXSE53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802145359_0_VXSE53_010000.xml"
         }
       ],
-      "issue": "熊本地震における死者数と熱中症対策の必要性は関連しているか？",
-      "stasis": "因果の解釈（割れる）",
+      "issue": null,
+      "stasis": null,
       "facts": [
         {
-          "t": "イオンモール宇城で、熊本地震により崩れた天井の下敷きとなった男性客の死亡が確認された。",
-          "span": "店を訪れていた男性客が地震で崩れた天井の下敷きとなって死亡したことが確認された",
+          "t": "熊本県内で2日午後7時時点で、地震による死者が38人に達した。",
+          "span": "38人が死亡した",
           "src": [
             {
               "ty": "press",
@@ -67,8 +55,8 @@
           ]
         },
         {
-          "t": "熊本県は、災害関連死の疑いがある1人、および地震の直接死かどうか調査中の2人を含め、県内での死者数が合計38人になったと発表した。",
-          "span": "県内では災害関連死の疑いがある1人や地震の直接の被害で亡くなった「直接死」かどうか調査している2人を含めて38人が死亡したと発表しました",
+          "t": "38人の死者のうち1人は災害関連死の疑いがある。",
+          "span": "災害関連死の疑いがある1人",
           "src": [
             {
               "ty": "press",
@@ -77,8 +65,8 @@
           ]
         },
         {
-          "t": "熊本地震の被災地では猛烈な暑さが続いており、避難のため車中泊をしていた70代の女性が熱中症の疑いで死亡した。",
-          "span": "地震後に避難のため車中泊をし、70代の女性が熱中症の疑いで死亡しました",
+          "t": "38人の死者のうち2人は、地震の直接の被害による「直接死」かどうかが調査中である。",
+          "span": "「直接死」かどうか調査している2人",
           "src": [
             {
               "ty": "press",
@@ -87,8 +75,8 @@
           ]
         },
         {
-          "t": "7月28日に最大震度7を観測した熊本県では、1日夜も宇城市で震度5弱の揺れを観測するなど地震活動が活発化している。",
-          "span": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、1日夜も宇城市で震度5弱の強い揺れを観測するなど地震活動が活発になっていて",
+          "t": "熊本地震の被災者で車中泊中に死亡した人がおり、熱中症の疑いが持たれている。",
+          "span": "車中泊で死亡 熱中症疑い",
           "src": [
             {
               "ty": "press",
@@ -97,8 +85,8 @@
           ]
         },
         {
-          "t": "気象庁は、熊本県で引き続き最大震度7程度の揺れに注意するよう呼びかけている。",
-          "span": "気象庁は引き続き最大震度7程度の揺れに注意するよう呼びかけてい",
+          "t": "3日には熊本市など九州で酷暑日が予想されており、熱中症対策が呼びかけられている。",
+          "span": "3日は熊本市など九州で酷暑日予想 熱中症対策を",
           "src": [
             {
               "ty": "press",
@@ -107,8 +95,8 @@
           ]
         },
         {
-          "t": "西日本と東日本では2日も気温が上がり、高知県と和歌山県では40度を超える酷暑日となり、熊本県でも39度を超える危険な暑さとなっている。",
-          "span": "高知県と和歌山県では40度を超える酷暑日に、熊本県でも39度を超える危険な暑さになっているところがあり",
+          "t": "2日には高知県と和歌山県で40度を超える酷暑日を観測した。",
+          "span": "高知県と和歌山県で40度を超える酷暑日となった",
           "src": [
             {
               "ty": "press",
@@ -117,8 +105,8 @@
           ]
         },
         {
-          "t": "1日午後、伊豆諸島の三宅島で土砂崩れが発生し、住宅1棟が半壊したが、けが人はいない。",
-          "span": "1日午後、東京 伊豆諸島の三宅島で都道ののり面が崩れて土砂が住宅1棟に流れ込むなどの被害が出ました",
+          "t": "2日には全国の40を超える観測点で観測史上最も高い気温を記録した。",
+          "span": "観測史上、最も高い気温を観測する記録的な暑さ",
           "src": [
             {
               "ty": "press",
@@ -127,8 +115,22 @@
           ]
         },
         {
-          "t": "三宅島の土砂崩れの影響で断水や停電が発生している。",
-          "span": "この影響で断水や停電も起きていて",
+          "t": "2日午後11時49分ごろ、北海道で震度3の地震が観測された。",
+          "span": "北海道で震度3の揺れを観測する地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "北海道の地震による津波の心配はない。",
+          "span": "津波の心配なし",
           "src": [
             {
               "ty": "press",
@@ -137,136 +139,249 @@
           ]
         },
         {
-          "t": "和歌山県と高知県では8日連続で40度台の酷暑日となっている。",
-          "span": "和歌山、高知両県で４０度台　国内酷暑日８日目",
+          "t": "3日0時26分ごろに地震が発生した。",
+          "span": "３日００時２６分ころ、地震がありました",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "3日0時25分ごろに地震が発生した。",
+          "span": "３日００時２５分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "熊本地震により、イオンモール宇城で天井崩落による死亡者1名が確認された。熊本県は、災害関連死の疑い1名と直接死調査中の2名を含め、死者数を合計38名と発表した。被災地では猛暑が続き、車中泊をしていた70代女性が熱中症の疑いで死亡した。気象庁は、熊本県での地震活動活発化と危険な暑さに対し、最大震度7程度の揺れと熱中症対策への注意を呼びかけている。和歌山・高知両県では40度を超える酷暑日が続いている。三宅島では土砂崩れで住宅が半壊したが、けが人はいない。芸能界でも支援活動が広がっている。",
-      "note": "プライバシー配慮のため、個別の被害者の詳細な情報は省略し、事実と構造の抽出に注力した。",
+      "consensus": "熊本地震による死者が38人に達し、その中には災害関連死の疑いや熱中症の疑いがあるケースが含まれる。また、記録的な暑さが続き、今後も酷暑日が予想されている。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」を追加しました。",
+          "facts[4].span: 元テキストの記述をより正確に反映するため、spanを「3日は熊本市など九州で酷暑日予想 熱中症対策を」に修正しました。",
+          "issue: テキスト内に賛否の対立が見られないため、issueをnullに設定し、stasisもnullに設定しました。",
+          "positions: テキスト内に実在の対立する立場が提示されていないため、positionsを空配列に修正しました。",
+          "consensus: positionsの変更に伴い、官房長官の方針に関する記述を削除し、事実のみを要約するように修正しました。"
+        ]
       }
     },
     {
-      "headline": "台風13号 非常に強い勢力で西へ 小笠原はあすから影響か",
-      "slug": "台風13号非常に強い勢力で西へ小笠原はあすから影",
-      "independentSources": 3,
+      "headline": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "slug": "AtleasteightkilledinIsra",
+      "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194111000"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590290?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802123511_0_VPWW53_130000.xml"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802123511_0_VPWW54_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802123506_0_VPWW59_130000.xml"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint?traffic_source=rss"
         }
       ],
-      "issue": "台風13号は小笠原諸島や沖縄・奄美にどのような影響を与えるか？",
-      "stasis": "事実",
+      "issue": "米国によるイランへの軍事攻撃中止の判断は、その意図や効果についてどのように解釈されているか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "非常に強い台風13号は日本の南の海上を西寄りに進んでいる。",
-          "span": "非常に強い台風13号は日本の南の海上を西寄りに進んでいて",
+          "t": "米国大統領はイランへの攻撃を中止した。",
+          "span": "Trump cancels Iran strikes",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "小笠原諸島では3日から波や風が強まり、高波に厳重な警戒が必要である。",
-          "span": "小笠原諸島では3日から波や風が強まり、高波に厳重に警戒が必要です",
+          "t": "攻撃中止は「迅速に」合意がなされることを条件としている。",
+          "span": "subject to deal being made 'rapidly'",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "台風13号は6日ごろ、強い勢力で沖縄・奄美に接近し、大荒れの天気になるおそれがある。",
-          "span": "6日・木曜日ごろには強い勢力で沖縄・奄美に接近して大荒れの天気になるおそれ",
+          "t": "米国大統領は、イランや他の中東諸国がワシントンに攻撃を控えるよう求めたと主張している。",
+          "span": "Iran and other Middle Eastern countries asked Washington to hold off on any attack",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "東京都の伊豆諸島北部と小笠原諸島では高波に注意が必要である。",
-          "span": "伊豆諸島北部、小笠原諸島では、高波に注意してください",
+          "t": "ハマスが武装解除合意に同意した後、ガザでイスラエルによる攻撃により少なくとも8人が死亡した。",
+          "span": "At least eight killed in Israeli strikes on Gaza",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "東京都の伊豆諸島北部と伊豆諸島南部では落雷に注意が必要である。",
-          "span": "伊豆諸島北部、伊豆諸島南部では、落雷に注意してください",
+          "t": "イスラエルは、ガザ市、ハンユニス、ディール・エル・バラハへの攻撃で軍事作戦員を標的にしたと述べている。",
+          "span": "targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領がイランへの攻撃を中止したにもかかわらず、ホルムズ海峡での進展はない。",
+          "span": "No breakthrough on Strait of Hormuz",
+          "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "マルコ・ルビオ氏のホルムズ海峡迂回計画は、パイプラインの制限と紅海の深刻な脅威によって妨げられていると専門家が警告している。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風13号は日本の南の海上を西寄りに進んでおり、小笠原諸島では3日から波や風が強まり高波に厳重な警戒が必要。6日ごろには沖縄・奄美に接近して大荒れの天気になるおそれがある。東京都の伊豆諸島北部と小笠原諸島では高波に、伊豆諸島北部と伊豆諸島南部では落雷に注意が必要である。",
-      "note": "複数の気象庁発表が同一内容のため、事実として集約した。",
+      "consensus": "米国はイランへの軍事攻撃を中止したが、その意図や効果については評価が割れている。アプリは裁定しない。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issue: 争点の立て方が、提示されたpositionsと直接的に対応していなかったため、「米国によるイランへの軍事攻撃中止の判断は、その意図や効果についてどのように解釈されているか？」に修正しました。",
+          "spanの最小核: facts[3].spanが文全体だったため、最小核「At least eight killed in Israeli strikes on Gaza」に修正しました。",
+          "spanの最小核: facts[6].spanが空文字だったため、元テキストから「Marco Rubio's Hormuz bypass plan is hindered by pipeline limits and severe Red Sea threats」を抽出しました。",
+          "メタ記述の徹底: positions[0].claimが地の文の断定になっており、かつ発言主体の主張内容と異なっていたため、「イランや他の中東諸国が攻撃を控えるよう求めたため、攻撃を中止したと主張している。」に修正しました。",
+          "メタ記述の徹底: positions[0].stanceが「support」では不適切だったため、「neutral」に修正しました。",
+          "メタ記述の徹底: positions[0].reasonがclaimの内容と重複していたため、nullに修正しました。",
+          "spanの最小核: positions[0].spanが修正後のclaim内容と一致していなかったため、元テキストから「Iran and other Middle Eastern countries asked Washington to hold off on any attack」を抽出しました。",
+          "spanの最小核: positions[1].spanが空文字だったため、元テキストから「Trump's comment on pullback from threatened strikes made 'within the context of psychological operat」を抽出しました。",
+          "fact spanが原文に無い→除去「Rubio's Hormuz byp…」",
+          "position spanが原文に無い→除去「Trump's comment on…」"
+        ]
       }
     },
     {
-      "headline": "90代女性遺体見つかる 別事件で逮捕のベトナム人が遺棄か 埼玉",
-      "slug": "90代女性遺体見つかる別事件で逮捕のベトナム人が",
+      "headline": "Pakistan-administered Kashmir election boycott follows deadly crackdown",
+      "slug": "PakistanadministeredKash",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c74g0wjvlrxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/deadly-ferry-fire-leaves-dozens-missing-in-indonesias-java-sea?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/02-08-reported-kamal-hyder-pak-pk?traffic_source=rss"
+        }
+      ],
+      "issue": "インドネシアのフェリー火災の状況はどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "インドネシアのフェリー火災で5人が死亡した。",
+          "span": "Five dead",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "同火災により41人が行方不明となっている。",
+          "span": "41 missing",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "当該フェリーはマドゥラ島沖で火災を起こした。",
+          "span": "caught fire off Madura island",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "当該フェリーには少なくとも250人が乗船していた。",
+          "span": "at least 250 people on board",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアのジャワ海でフェリー火災が発生し、数十人が行方不明となっている。",
+          "span": "dozens missing",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "インドネシアのフェリー火災で5人が死亡し、41人が行方不明となっている。このフェリーには少なくとも250人が乗船しており、マドゥラ島沖（ジャワ海）で火災が発生したと報じられている。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[4].t から評価語「Deadly」に相当する記述を削除し、spanを最小核に修正しました。",
+          "facts[3].span を最小核に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "兵庫 豊岡の観光地「淀の洞門」で落石が頭にあたり女性死亡",
+      "slug": "兵庫豊岡の観光地淀の洞門で落石が頭にあたり女性死",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -278,128 +393,62 @@
           "link": "https://news.web.nhk/newsweb/na/na-k10015194411000"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194271000"
-        },
-        {
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6590299?source=rss"
         }
       ],
-      "issue": "落石による死亡事故の発生と原因究明について",
-      "stasis": "事実",
+      "issue": "",
+      "stasis": "",
       "facts": [
         {
-          "t": "兵庫県豊岡市の観光地「淀の洞門」近くで、30代の女性が倒れているのが見つかり、その後死亡した。",
-          "span": "兵庫県豊岡市の観光地、「淀の洞門」近くで30代の女性が倒れているのが見つかり、その後、死亡しました。",
+          "t": "兵庫県豊岡市の観光地「淀の洞門」近くで、2日昼前に30代の女性が倒れているのが見つかり、その後死亡した。",
+          "span": "30代の女性が倒れているのが見つかり、その後、死亡しました",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "警察は、洞門からの落石が女性に当たったとみて、詳しい状況を調べている。",
-          "span": "警察によりますと、洞門からの落石が当たったということで、当時の詳しい状況を調べています。",
+          "t": "警察によると、洞門からの落石が女性に当たった。",
+          "span": "洞門からの落石が当たった",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "埼玉県入間市で、一人暮らしの90代の女性の行方がわからなくなり、別の事件で逮捕されたベトナム国籍の33歳の容疑者の説明に基づき、警察が山林を捜索したところ、遺体で見つかった。",
-          "span": "埼玉県入間市の住宅で1人暮らしの90代の女性の行方がわからなくなり別の事件で逮捕されたベトナム国籍の33歳の容疑者の説明に基づき警察が県内の山林を捜索したところ遺体で見つかりました。",
+          "t": "警察は当時の詳しい状況を調べている。",
+          "span": "当時の詳しい状況を調べています",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "落石で女性が死亡した事故を小学生が目撃していた。",
-          "span": "落石で女性死亡 小学生の子が目撃",
+          "t": "落石事故を小学生の子どもが目撃した。",
+          "span": "小学生の子が目撃",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Yahoo!ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "兵庫県豊岡市の観光地で落石により女性が死亡した。また、埼玉県入間市で90代女性の遺体が発見された。小学生が落石による女性死亡事故を目撃していた。これらの事実について、記事中に異なる評価や見解は見られない。",
-      "note": "複数の事件が混在しているため、事実を個別に抽出した。",
+      "consensus": "兵庫県豊岡市の観光地「淀の洞門」で落石事故が発生し、女性が死亡した。本件に関する評価や意見の対立は記事中にない。",
+      "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "slug": "HowSpainsmigrantcrisiscr",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/8/2/spanish-ceuta-witnesses-a-deadly-game-for-moroccan-migrants?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/2-08-sv-ceuta-cancel-farright-protests-es?traffic_source=rss"
-        }
-      ],
-      "issue": "スペインのセウタにおける移民危機は、ヨーロッパの政治にどのような影響を与えたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "数千人のモロッコ人がスペインの北アフリカの飛び地であるセウタへの到達を試みた。",
-          "span": "thousands of Moroccans attempted to reach the Spanish North African enclave of Ceuta",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "セウタでの移民危機は、ヨーロッパの政治に影響を与え、移民問題に関するヨーロッパ内の分裂を露呈させた。",
-          "span": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "セウタの住民数百人が、計画されていた極右の反移民集会に反対するために集まった。",
-          "span": "Hundreds of residents in Spain&#039;s North African enclave of Ceuta gathered to oppose a planned far-right rally",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "数千人のモロッコ人がスペインのセウタへの到達を試み、この危機はヨーロッパの政治に影響を与え、移民問題に関する分裂を露呈させた。セウタの住民は極右の反移民集会に反対するために集まった。",
-      "note": "プライバシー配慮のため、移民個人の特定につながる情報は含んでいません。",
-      "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "争点（issue）は対立する見解がある場合に立てるものなので、テキストに対立がないため空にした。それに伴いstasisも空にした。"
+        ]
       }
     }
   ]
