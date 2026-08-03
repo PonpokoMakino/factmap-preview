@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-03T18:04:21.256Z",
+  "builtAt": "2026-08-03T21:01:09.583Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -163,70 +163,6 @@
       }
     },
     {
-      "headline": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "slug": "Myonlysonwasshotstanding",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss"
-        }
-      ],
-      "issue": "パキスタン管理下のカシミールにおける抗議活動は正当なものか？",
-      "stasis": "価値・倫理",
-      "facts": [
-        {
-          "t": "パキスタン管理下のカシミール、ラワラコットで治安部隊と抗議参加者の間で激しい衝突が発生した。",
-          "span": "violent clashes between security forces and protesters",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "これらの抗議活動は死者を伴うものだった。",
-          "span": "deadly protests",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "パキスタン管理下のカシミール、ラワラコットで治安部隊と抗議参加者の間で激しい衝突が発生し、死者を伴う抗議活動があった。評価は割れる／アプリは裁定しない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述の徹底と著作権の観点から、発言主体を明記し、地の文の断定ではなく「〜と述べている」形式に修正しました。"
-        ]
-      }
-    },
-    {
       "headline": "自民、消費減税を事実上了承　反対論押し切る、５日にも閣議決定",
       "slug": "自民消費減税を事実上了承反対論押し切る日にも閣議",
       "independentSources": 2,
@@ -308,33 +244,97 @@
       }
     },
     {
-      "headline": "東京 多摩動物公園 ライオン3頭が相次ぎ死ぬ 熱中症か",
-      "slug": "東京多摩動物公園ライオン3頭が相次ぎ死ぬ熱中症か",
+      "headline": "台風13号 小笠原で高波・暴風厳重警戒 その後沖縄・奄美へ",
+      "slug": "台風13号小笠原で高波暴風厳重警戒その後沖縄奄美",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015195441000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194591000"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590415?source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803204113_0_VPFJ51_130000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803204113_0_VPFJ50_130000.xml"
         }
       ],
-      "issue": "東京多摩動物公園でライオンが相次いで死んだ事象の状況と原因は何か？",
-      "stasis": "事実",
+      "issue": "台風13号の接近に伴う小笠原諸島への影響と必要な警戒は何か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "東京日野市の多摩動物公園で飼育されていたライオン3頭が相次いで死んだ。",
-          "span": "飼育していたライオン3頭が相次いで死んだ",
+          "t": "大型で非常に強い台風13号は小笠原近海を西寄りに進んでいる。",
+          "span": "小笠原近海を西寄りに進んでいて",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風13号は4日に小笠原諸島に最も近づく見込みである。",
+          "span": "4日に小笠原諸島に最も近づく見込みです",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風13号はその後、沖縄・奄美へ向かう。",
+          "span": "その後沖縄・奄美へ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "大型で非常に強い台風13号が小笠原諸島に接近しており、気象庁が高波、暴風、土砂災害への厳重な警戒と不要不急の外出自粛を呼びかけている。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "立方体体積、４人に１人誤答　全国学テの分析結果公表―校外勉強時間は短縮傾向・文科省",
+      "slug": "立方体体積人に人誤答全国学テの分析結果公表校外勉",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590421?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300651&g=soc&m=rss"
+        }
+      ],
+      "issue": "全国学力テストの分析結果はどのような内容か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "文部科学省が全国学力テストの分析結果を公表した。",
+          "span": "全国学テの分析結果公表",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             },
             {
               "ty": "press",
@@ -343,49 +343,29 @@
           ]
         },
         {
-          "t": "この死亡は8月2日までに発表された。",
-          "span": "2日までに",
+          "t": "全国学力テストにおいて、立方体の体積を求める問題で約4人に1人が誤答した。",
+          "span": "立方体体積、４人に１人誤答",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "動物園は死因を熱中症の疑いとみている。",
-          "span": "熱中症の疑いがある",
+          "t": "全国学力テストの分析結果から、校外での勉強時間が短縮傾向にあることが示された。",
+          "span": "校外勉強時間は短縮傾向",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "動物園は今後、詳しい調査を行う予定である。",
-          "span": "今後詳しい調査を行う",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "他に3頭のライオンも治療を受けている。",
-          "span": "他3頭も治療",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "東京多摩動物公園でライオン3頭が8月2日までに相次いで死に、動物園は熱中症の疑いがあるとみて詳しい調査を行う予定である。また、他に3頭のライオンも治療を受けている。",
-      "note": null,
+      "consensus": "文部科学省が全国学力テストの分析結果を公表し、特定の課題が明らかになった。本記事には評価や意見の対立は記述されていない。",
+      "note": "",
       "audit": {
         "changed": false,
         "issues": []
