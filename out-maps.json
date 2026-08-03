@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-03T10:57:13.505Z",
+  "builtAt": "2026-08-03T18:04:21.256Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -163,132 +163,41 @@
       }
     },
     {
-      "headline": "US and Japan take action to prop up yen in rare joint move",
-      "slug": "USandJapantakeactiontopr",
-      "independentSources": 3,
+      "headline": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+      "slug": "Myonlysonwasshotstanding",
+      "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194421000"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300101&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "日米は円安是正のため協調介入を実施したか、また今後も実施するか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "日本の通貨当局は、歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにした。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日米両国は、今後も協調介入を実施することにためらわないとしている。",
-          "span": "今後も協調介入の実施をちゅうちょしないという考えを示しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日米両国は、円を支えるための行動を取った。",
-          "span": "US and Japan take action to prop up yen in rare joint move",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "日米両国は、将来的に共同介入を実施することをためらわないと述べた。",
-          "span": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "日米は協調介入を実施し、今後も実施する意向を示している。トランプ米大統領は為替介入が米国に利益をもたらすと述べている。",
-      "note": "BBC Worldの記事は英語で書かれているが、内容はNHKと時事通信の報道と一致する。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[0].span: 元テキストの「日本の通貨当局からは「日米通貨同盟の完成形…」は文の途中であり、事実の全体を正確に表していないため、事実の全体を正確に表すように修正しました。",
-          "consensus: 元のconsensusは「トランプ米大統領は米国に利益があると述べている。」となっており、事実と異なるため、事実と一致するように修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
-      "slug": "AungSanSuuKyiappearsheal",
-      "independentSources": 3,
-      "sources": [
-        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300540&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/3/republicans-say-they-will-back-blanche-after-us-justice-department-order?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss"
         }
       ],
-      "issue": "アウン・サン・スー・チー氏の近影が公開されたか？",
-      "stasis": "事実",
+      "issue": "パキスタン管理下のカシミールにおける抗議活動は正当なものか？",
+      "stasis": "価値・倫理",
       "facts": [
         {
-          "t": "アウン・サン・スー・チー氏が国際赤十字委員会（ICRC）関係者と面会した。",
-          "span": "国際赤十字関係者と面会",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ミャンマーの軍事政権が、アウン・サン・スー・チー氏の近影を公開した。",
-          "span": "近影も公開",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "アウン・サン・スー・チー氏が2年半ぶりに確認された外部との接触で健康そうに見える写真が公開された。",
-          "span": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+          "t": "パキスタン管理下のカシミール、ラワラコットで治安部隊と抗議参加者の間で激しい衝突が発生した。",
+          "span": "violent clashes between security forces and protesters",
           "src": [
             {
               "ty": "press",
@@ -297,125 +206,189 @@
           ]
         },
         {
-          "t": "ミャンマーの軍事政府が公開した写真には、ICRC関係者と面会するアウン・サン・スー・チー氏が写っている。",
-          "span": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+          "t": "これらの抗議活動は死者を伴うものだった。",
+          "span": "deadly protests",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ミャンマー軍事政権が、2021年のクーデター以降初となるアウン・サン・スー・チー氏の画像を公開した。",
-          "span": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ミャンマー軍事政権が、2021年のクーデター以降初となるアウン・サン・スー・チー氏の画像を公開した。",
-          "span": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "アウン・サン・スー・チー氏が国際赤十字関係者と面会し、近影が公開されたことは複数の情報源で報じられている。",
-      "note": "プライバシー配慮のため、アウン・サン・スー・チー氏の健康状態に関する評価は事実として扱わず、公開された情報のみを記載した。",
+      "consensus": "パキスタン管理下のカシミール、ラワラコットで治安部隊と抗議参加者の間で激しい衝突が発生し、死者を伴う抗議活動があった。評価は割れる／アプリは裁定しない。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "issueを「アウン・サン・スー・チー氏の近影が公開されたか？」に修正。元のissueは健康状態に関する評価を含んでいたため。",
-          "factのt=\"アウン・サン・スー・チー氏が2年半ぶりに確認された外部との接触で健康そうに見える写真が公開された。\"のspanを\"Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years\"に修正。元のspanはテキストに存在しないため。",
-          "factのt=\"ミャンマー軍事政権が、2021年のクーデター以降初となるアウン・サン・スー・チー氏の画像を公開した。\"のspanを\"Myanmar releases first images of Aung San Suu Kyi since 2021 military coup\"に修正。元のspanはテキストに存在しないため。",
-          "factのt=\"ミャンマー軍事政権が、2021年のクーデター以降初となるアウン・サン・スー・チー氏の画像を公開した。\"のspanを\"Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.\"に修正。元のspanはテキストに存在しないため。"
+          "positions[0].claim: メタ記述の徹底と著作権の観点から、発言主体を明記し、地の文の断定ではなく「〜と述べている」形式に修正しました。"
         ]
       }
     },
     {
-      "headline": "震度7の氷川町 高校生が自宅で死亡 父親「まだ信じられない」",
-      "slug": "震度7の氷川町高校生が自宅で死亡父親まだ信じられ",
+      "headline": "自民、消費減税を事実上了承　反対論押し切る、５日にも閣議決定",
+      "slug": "自民消費減税を事実上了承反対論押し切る日にも閣議",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "気象庁 地震・火山"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194551000"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590429?source=rss"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803085627_0_VXSE53_270000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300793&g=pol&m=rss"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803072712_0_VXSE53_270000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300609&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300893&g=pol&m=rss"
         }
       ],
-      "issue": "氷川町で発生した地震により、高校生が死亡した事実はあるか？",
-      "stasis": "事実",
+      "issue": "消費減税は実施すべきか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "3日17時54分頃、地震があった。",
-          "span": "３日１７時５４分ころ、地震がありました。",
+          "t": "自民党は消費減税を事実上了承した。",
+          "span": "消費減税を事実上了承",
           "src": [
             {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "3日16時24分頃、地震があった。",
-          "span": "３日１６時２４分ころ、地震がありました。",
+          "t": "自民党は消費減税に対する反対論を押し切った。",
+          "span": "反対論押し切る",
           "src": [
             {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "震度7を観測した熊本県氷川町で、地震直後に高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後死亡した。",
-          "span": "震度7を観測した熊本県氷川町で、地震直後、高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後、死亡した",
+          "t": "消費減税は5日にも閣議決定される見込みである。",
+          "span": "５日にも閣議決定",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "亡くなった高校生は地震により亡くなったとみられる。",
-          "span": "地震により亡くなったとみられ",
+          "t": "小渕氏が自民党税制調査会を辞任した。",
+          "span": "税調辞任",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "震度7を観測した熊本県氷川町で、地震直後に高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後死亡した。亡くなった高校生は地震により亡くなったとみられる。父親は「まだ信じられない」と述べている。",
-      "note": "プライバシーに配慮し、被害者の実名は伏せています。",
+      "consensus": "自民党内で消費減税の方針が事実上了承され、閣議決定が迫っているが、党内には反対意見も存在する。評価は割れる。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "positionsのclaimを「まだ信じられない」から「まだ信じられないと述べている」に修正し、メタ記述の徹底（監査観点2）を適用しました。",
-          "consensusの末尾にあった「評価は割れる。」を削除しました。これはテキストから読み取れる事実ではなく、監査観点1（事実欄への評価混入）および監査観点5（争点の立て方）に抵触する可能性があるためです。",
-          "position spanが原文に無い→除去「まだ信じられない。…」"
+          "positions[0].claim: メタ記述と著作権の観点から「消費減税の方針に反対していると報じられている」に修正。",
+          "positions[1].claim: メタ記述と著作権の観点から「消費減税に異論があると述べている」に修正。"
         ]
+      }
+    },
+    {
+      "headline": "東京 多摩動物公園 ライオン3頭が相次ぎ死ぬ 熱中症か",
+      "slug": "東京多摩動物公園ライオン3頭が相次ぎ死ぬ熱中症か",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015195441000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590415?source=rss"
+        }
+      ],
+      "issue": "東京多摩動物公園でライオンが相次いで死んだ事象の状況と原因は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "東京日野市の多摩動物公園で飼育されていたライオン3頭が相次いで死んだ。",
+          "span": "飼育していたライオン3頭が相次いで死んだ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "この死亡は8月2日までに発表された。",
+          "span": "2日までに",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "動物園は死因を熱中症の疑いとみている。",
+          "span": "熱中症の疑いがある",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "動物園は今後、詳しい調査を行う予定である。",
+          "span": "今後詳しい調査を行う",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "他に3頭のライオンも治療を受けている。",
+          "span": "他3頭も治療",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "東京多摩動物公園でライオン3頭が8月2日までに相次いで死に、動物園は熱中症の疑いがあるとみて詳しい調査を行う予定である。また、他に3頭のライオンも治療を受けている。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     }
   ]
