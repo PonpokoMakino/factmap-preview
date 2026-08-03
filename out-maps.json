@@ -1,24 +1,21 @@
 {
-  "builtAt": "2026-08-03T07:37:38.804Z",
+  "builtAt": "2026-08-03T10:57:13.505Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "地震の死亡38人 避難8556人 熊本県災害対策本部【ライブ配信】",
-      "slug": "地震の死亡38人避難8556人熊本県災害対策本部",
-      "independentSources": 3,
+      "headline": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
+      "slug": "Twoworkerskilledinblasta",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "気象庁 地震・火山"
+        "時事ドットコム",
+        "BBC World"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194741000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194551000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194841000"
         },
         {
           "source": "NHK 主要ニュース",
@@ -26,27 +23,35 @@
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590376?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590406?source=rss"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803072712_0_VXSE53_270000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300609&g=pol&m=rss"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803060317_0_VXSE53_010000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300563&g=flash&m=rss"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803053313_0_VXSE53_010000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300801&g=soc&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300053&g=pol&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "今回の地震による被害状況と関連事象はどのようなものか？",
+      "issue": "熊本地震の激甚災害指定と予備費使用、およびイオンモール爆発事故における従業員の死亡原因は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "熊本県内で今回の地震による死者が3日午前7時半の時点で38人、避難者が8556人である。",
-          "span": "3日午前7時半の時点で、災害関連死の疑いがある人などを含めて38人が死亡し、避難所には8556人が避難しています",
+          "t": "高市総理大臣は、熊本地震を国が復旧費用を支援する「激甚災害」に指定する方針を明らかにした。",
+          "span": "国が復旧にかかる費用を支援する「激甚災害」に指定する方針を明らかにしました",
           "src": [
             {
               "ty": "press",
@@ -55,8 +60,8 @@
           ]
         },
         {
-          "t": "震度7を観測した熊本県氷川町で、地震直後に高校1年生の女子生徒が自宅で倒れているのが見つかり、その後死亡した。",
-          "span": "高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後、死亡した",
+          "t": "高市総理大臣は、今年度予算の予備費から200億円を超える規模の使用を閣議決定した。",
+          "span": "4日、200億円を超える規模の今年度予算の予備費の使用を閣議決定し",
           "src": [
             {
               "ty": "press",
@@ -65,18 +70,8 @@
           ]
         },
         {
-          "t": "熊本県嘉島町のイオンモール熊本で発生した爆発で死亡した従業員2人について、雑貨店の運営会社が、避難後に売上金を金庫に戻すよう指示していたことを認めた。",
-          "span": "雑貨店の運営会社が、2人が一時、避難したあと、売上金を金庫に戻すために建物の中に戻るよう指示していたことを明らかにしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "雑貨店の幹部が、従業員への指示について謝罪した。",
-          "span": "雑貨店幹部が指示謝罪",
+          "t": "熊本地震は激甚災害に指定される見込みである。",
+          "span": "熊本地震 激甚災害に指定見込み",
           "src": [
             {
               "ty": "press",
@@ -85,93 +80,8 @@
           ]
         },
         {
-          "t": "3日16時24分頃、地震が発生した。",
-          "span": "３日１６時２４分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "3日15時00分頃、地震が発生した。",
-          "span": "３日１５時００分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "3日14時30分頃、地震が発生した。",
-          "span": "３日１４時３０分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "今回の地震による被害状況と関連事象について、記事間で事実の合意が見られる。評価は割れていない。",
-      "note": "事実合意型",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "酷暑の被災地、熊本４０．３度　ホテル避難受け付け、仮設建設始まる―４日で地震１週間",
-      "slug": "酷暑の被災地熊本度ホテル避難受け付け仮設建設始ま",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194581000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590380?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300055&g=soc&m=rss"
-        }
-      ],
-      "issue": "熊本県における地震活動の活発化と酷暑への対応は十分か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "熊本県では、7月28日に最大震度7の地震が発生し、その後も地震活動が活発になっている。",
-          "span": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊本市では日中の最高気温が40度を超え、観測史上初の酷暑日となった。",
-          "span": "熊本市で日中の最高気温が40度を超えて初の酷暑日になりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊本市の最高気温は40.3度を記録した。",
-          "span": "熊本４０．３度",
+          "t": "高市首相は熊本の被災地を訪問し、被災者や自治体の要望を聴取した。",
+          "span": "高市首相、熊本被災地を訪問　被災者・自治体の要望聴取",
           "src": [
             {
               "ty": "press",
@@ -180,8 +90,58 @@
           ]
         },
         {
-          "t": "地震発生から4日で1週間となる。",
-          "span": "４日で地震１週間",
+          "t": "イオンモール熊本で爆発が起き、雑貨店の従業員2人が死亡した。",
+          "span": "大規模な爆発が起きた熊本県嘉島町のイオンモール熊本で、従業員2人が死亡した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "死亡した従業員2人は、一時避難した後、売上金を金庫に戻すために建物の中に戻るよう指示されていた。",
+          "span": "2人が一時、避難したあと、売上金を金庫に戻すために建物の中に戻るよう指示していたこと",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "雑貨店の運営会社は、従業員2人が建物の中に戻るよう指示したことを明らかにし、遺族に謝罪した。",
+          "span": "従業員2人が死亡した雑貨店の運営会社が、2人が一時、避難したあと、売上金を金庫に戻すために建物の中に戻るよう指示していたことを明らかにしました。会…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "イオンモール爆発事故で、従業員2人は上司の指示で建物に戻り死亡した。",
+          "span": "sending them back to Aeon Mall to secure cash.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "自民党税制調査会は、消費減税を事実上、了承した。",
+          "span": "消費減税を事実上了承した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "自民党は、反対論を押し切って消費減税を事実上了承し、5日にも閣議決定する見込みである。",
+          "span": "自民、消費減税を事実上了承　反対論押し切る、５日にも閣議決定",
           "src": [
             {
               "ty": "press",
@@ -191,58 +151,165 @@
         }
       ],
       "positions": [],
-      "consensus": "熊本県では地震活動が活発化し、熊本市では初の酷暑日を記録した。気象庁は引き続き最大震度7程度の揺れに注意を呼びかけている。被災地では屋外作業の自粛やホテル避難の受け付け、仮設住宅建設が進められている。",
-      "note": "プライバシー配慮のため、被災者の個人を特定できる情報は含んでいない。",
+      "consensus": "熊本地震は激甚災害に指定される見込みであり、予備費の使用も閣議決定された。イオンモール熊本での爆発事故では、従業員2人が避難後に売上金回収のため建物に戻るよう指示され死亡した。自民党は消費減税を事実上了承した。",
+      "note": "イオンモール爆発事故に関する情報は、NHKと時事ドットコム、BBC Worldで報じられている。高市首相の動向はNHKと時事ドットコムで報じられている。消費減税に関する情報は時事ドットコムで報じられている。",
       "audit": {
         "changed": true,
         "issues": [
-          "fact 1: spanを元テキストの核となる部分に修正しました。",
-          "fact 2: spanを元テキストの核となる部分に修正しました。",
-          "position 1: spanを元テキストの核となる部分に修正しました。",
-          "position 2: spanを元テキストの核となる部分に修正しました。",
-          "position 3: spanを元テキストの核となる部分に修正しました。",
-          "consensus: 抽出エンジンのconsensusは、事実と報道の呼びかけを羅列したもので、評価や判断を含んでいないため、そのまま維持しました。ただし、元のconsensusにあった「評価は割れる。」は、テキスト中に具体的な評価の対立が示されていないため削除しました。",
-          "position spanが原文に無い→除去「引き続き最大震度7程度の揺れに注意を…」"
+          "fact 7のspanを元テキストに合うように修正しました。",
+          "consensusから「評価は割れる。」を削除しました。元テキストに評価が割れるという記述がないためです。",
+          "fact spanが原文に無い→除去「雑貨店の運営会社が、…明らかにしまし…」"
         ]
       }
     },
     {
-      "headline": "Massive Attack respond after Singapore ban over Palestine display",
-      "slug": "MassiveAttackrespondafte",
-      "independentSources": 2,
+      "headline": "US and Japan take action to prop up yen in rare joint move",
+      "slug": "USandJapantakeactiontopr",
+      "independentSources": 3,
       "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194421000"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300101&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "日米は円安是正のため協調介入を実施したか、また今後も実施するか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "日本の通貨当局は、歴史的な円安の是正に向けてアメリカとの協調介入を実施したことを明らかにした。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "日米両国は、今後も協調介入を実施することにためらわないとしている。",
+          "span": "今後も協調介入の実施をちゅうちょしないという考えを示しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "日米両国は、円を支えるための行動を取った。",
+          "span": "US and Japan take action to prop up yen in rare joint move",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "日米両国は、将来的に共同介入を実施することをためらわないと述べた。",
+          "span": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日米は協調介入を実施し、今後も実施する意向を示している。トランプ米大統領は為替介入が米国に利益をもたらすと述べている。",
+      "note": "BBC Worldの記事は英語で書かれているが、内容はNHKと時事通信の報道と一致する。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0].span: 元テキストの「日本の通貨当局からは「日米通貨同盟の完成形…」は文の途中であり、事実の全体を正確に表していないため、事実の全体を正確に表すように修正しました。",
+          "consensus: 元のconsensusは「トランプ米大統領は米国に利益があると述べている。」となっており、事実と異なるため、事実と一致するように修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
+      "slug": "AungSanSuuKyiappearsheal",
+      "independentSources": 3,
+      "sources": [
+        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300540&g=int&m=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/08-03-2026-aung-san-suu-kyi-pictures-sv?traffic_source=rss"
         }
       ],
-      "issue": "イランとの新たな協議は開始されるのか？",
-      "stasis": "政策",
+      "issue": "アウン・サン・スー・チー氏の近影が公開されたか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "トランプ大統領はイランとの新たな協議を月曜日に開始するよう提案した。",
-          "span": "suggests new talks with Iran to begin on Monday",
+          "t": "アウン・サン・スー・チー氏が国際赤十字委員会（ICRC）関係者と面会した。",
+          "span": "国際赤十字関係者と面会",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ミャンマーの軍事政権が、アウン・サン・スー・チー氏の近影を公開した。",
+          "span": "近影も公開",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "アウン・サン・スー・チー氏が2年半ぶりに確認された外部との接触で健康そうに見える写真が公開された。",
+          "span": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            },
+            }
+          ]
+        },
+        {
+          "t": "ミャンマーの軍事政府が公開した写真には、ICRC関係者と面会するアウン・サン・スー・チー氏が写っている。",
+          "span": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ミャンマー軍事政権が、2021年のクーデター以降初となるアウン・サン・スー・チー氏の画像を公開した。",
+          "span": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup",
+          "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
@@ -250,38 +317,8 @@
           ]
         },
         {
-          "t": "イランは新たな協議が差し迫っているという提案に反応していない。",
-          "span": "Tehran has not responded to the suggestion that new talks are imminent",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領は以前、交渉による紛争終結について言及していた。",
-          "span": "a negotiated end to th",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領はイランへの「大規模な攻撃」を一時停止した。",
-          "span": "pauses ‘massive attack’ on Iran",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "石油価格は（攻撃延期に）反応して下落した。",
-          "span": "oil prices dropped in response",
+          "t": "ミャンマー軍事政権が、2021年のクーデター以降初となるアウン・サン・スー・チー氏の画像を公開した。",
+          "span": "Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.",
           "src": [
             {
               "ty": "press",
@@ -291,37 +328,66 @@
         }
       ],
       "positions": [],
-      "consensus": "トランプ大統領はイランへの攻撃を中止し、月曜日から新たな協議を開始するよう提案した。イランからの公式な反応はまだない。評価は割れる／アプリは裁定しない。",
-      "note": null,
+      "consensus": "アウン・サン・スー・チー氏が国際赤十字関係者と面会し、近影が公開されたことは複数の情報源で報じられている。",
+      "note": "プライバシー配慮のため、アウン・サン・スー・チー氏の健康状態に関する評価は事実として扱わず、公開された情報のみを記載した。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issueを「アウン・サン・スー・チー氏の近影が公開されたか？」に修正。元のissueは健康状態に関する評価を含んでいたため。",
+          "factのt=\"アウン・サン・スー・チー氏が2年半ぶりに確認された外部との接触で健康そうに見える写真が公開された。\"のspanを\"Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years\"に修正。元のspanはテキストに存在しないため。",
+          "factのt=\"ミャンマー軍事政権が、2021年のクーデター以降初となるアウン・サン・スー・チー氏の画像を公開した。\"のspanを\"Myanmar releases first images of Aung San Suu Kyi since 2021 military coup\"に修正。元のspanはテキストに存在しないため。",
+          "factのt=\"ミャンマー軍事政権が、2021年のクーデター以降初となるアウン・サン・スー・チー氏の画像を公開した。\"のspanを\"Myanmar releases first images of Aung San Suu Kyi since 2021 military coup.\"に修正。元のspanはテキストに存在しないため。"
+        ]
       }
     },
     {
-      "headline": "羽田空港 荷物預け入れ締め切りを出発30分前に 出発の遅れ増え",
-      "slug": "羽田空港荷物預け入れ締め切りを出発30分前に出発",
+      "headline": "震度7の氷川町 高校生が自宅で死亡 父親「まだ信じられない」",
+      "slug": "震度7の氷川町高校生が自宅で死亡父親まだ信じられ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194531000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194551000"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590377?source=rss"
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803085627_0_VXSE53_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803072712_0_VXSE53_270000.xml"
         }
       ],
-      "issue": "羽田空港における荷物預け入れ締め切り時間の変更は、出発の遅延増加に影響するか？",
-      "stasis": "政策",
+      "issue": "氷川町で発生した地震により、高校生が死亡した事実はあるか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "羽田空港を発着する国内線の空の便で、出発の遅れが増加し、定時運航が課題となっている。",
-          "span": "羽田空港を発着する国内線の空の便で出発の遅れが増えるなど定時運航が課題となっています",
+          "t": "3日17時54分頃、地震があった。",
+          "span": "３日１７時５４分ころ、地震がありました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "3日16時24分頃、地震があった。",
+          "span": "３日１６時２４分ころ、地震がありました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "震度7を観測した熊本県氷川町で、地震直後に高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後死亡した。",
+          "span": "震度7を観測した熊本県氷川町で、地震直後、高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後、死亡した",
           "src": [
             {
               "ty": "press",
@@ -330,32 +396,26 @@
           ]
         },
         {
-          "t": "9月から、全日空や日本航空など各社が羽田空港で乗客の荷物預け入れ締め切り時刻を10分前倒しする。",
-          "span": "9月から全日空や日本航空など各社が、羽田空港で乗客が荷物を預ける際の締め切り時刻を10分前倒しして出",
+          "t": "亡くなった高校生は地震により亡くなったとみられる。",
+          "span": "地震により亡くなったとみられ",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "羽田空港国内線で、預け入れ締切が厳格化されている。",
-          "span": "預け入れ締切を厳格化",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "羽田空港を発着する国内線の空の便で出発の遅れが増え、定時運航が課題となっている。9月から全日空や日本航空など各社が、羽田空港で乗客が荷物を預ける際の締め切り時刻を10分前倒しする。羽田空港国内線で預け入れ締切が厳格化されている。",
-      "note": "本件は、事実の記述に留まり、それに対する評価や意見の対立を示す記述がなかったため、positions は空となります。",
+      "consensus": "震度7を観測した熊本県氷川町で、地震直後に高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後死亡した。亡くなった高校生は地震により亡くなったとみられる。父親は「まだ信じられない」と述べている。",
+      "note": "プライバシーに配慮し、被害者の実名は伏せています。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positionsのclaimを「まだ信じられない」から「まだ信じられないと述べている」に修正し、メタ記述の徹底（監査観点2）を適用しました。",
+          "consensusの末尾にあった「評価は割れる。」を削除しました。これはテキストから読み取れる事実ではなく、監査観点1（事実欄への評価混入）および監査観点5（争点の立て方）に抵触する可能性があるためです。",
+          "position spanが原文に無い→除去「まだ信じられない。…」"
+        ]
       }
     }
   ]
