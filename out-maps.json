@@ -1,57 +1,52 @@
 {
-  "builtAt": "2026-08-02T16:33:18.830Z",
+  "builtAt": "2026-08-03T07:37:38.804Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "壁の下敷き、高齢男性が心肺停止　「イオンモール宇城」で発見―熊本震度７",
-      "slug": "壁の下敷き高齢男性が心肺停止イオンモル宇城で発見",
-      "independentSources": 4,
+      "headline": "地震の死亡38人 避難8556人 熊本県災害対策本部【ライブ配信】",
+      "slug": "地震の死亡38人避難8556人熊本県災害対策本部",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
         "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193881000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194741000"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015193981000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194551000"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194521000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194801000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590302?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080200265&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026073101386&g=soc&m=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590376?source=rss"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802152927_0_VXSE53_270000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803072712_0_VXSE53_270000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260802152823_0_VXSE53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803060317_0_VXSE53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803053313_0_VXSE53_010000.xml"
         }
       ],
-      "issue": "熊本地震による被害状況と、それに影響を与える気象状況、および政府の対応方針はどのようなものか？",
+      "issue": "今回の地震による被害状況と関連事象はどのようなものか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "熊本県は2日午後7時時点で、熊本地震による死者が38人に上ると発表した。",
-          "span": "38人が死亡したと発表しました",
+          "t": "熊本県内で今回の地震による死者が3日午前7時半の時点で38人、避難者が8556人である。",
+          "span": "3日午前7時半の時点で、災害関連死の疑いがある人などを含めて38人が死亡し、避難所には8556人が避難しています",
           "src": [
             {
               "ty": "press",
@@ -60,8 +55,8 @@
           ]
         },
         {
-          "t": "死亡者には、災害関連死の疑いがある1人と、地震の直接の被害による「直接死」かどうか調査中の2人が含まれる。",
-          "span": "災害関連死の疑いがある1人や地震の直接の被害で亡くなった「直接死」かどうか調査している2人を含めて",
+          "t": "震度7を観測した熊本県氷川町で、地震直後に高校1年生の女子生徒が自宅で倒れているのが見つかり、その後死亡した。",
+          "span": "高校1年生の女子生徒が自宅の部屋で倒れているのが見つかり、その後、死亡した",
           "src": [
             {
               "ty": "press",
@@ -70,8 +65,8 @@
           ]
         },
         {
-          "t": "熊本地震に関連し、車中泊中に熱中症の疑いで死亡した事例が報告されている。",
-          "span": "車中泊で死亡 熱中症疑い",
+          "t": "熊本県嘉島町のイオンモール熊本で発生した爆発で死亡した従業員2人について、雑貨店の運営会社が、避難後に売上金を金庫に戻すよう指示していたことを認めた。",
+          "span": "雑貨店の運営会社が、2人が一時、避難したあと、売上金を金庫に戻すために建物の中に戻るよう指示していたことを明らかにしました",
           "src": [
             {
               "ty": "press",
@@ -80,78 +75,18 @@
           ]
         },
         {
-          "t": "熊本地震により、イオンモール宇城で男性客が崩落した天井の下敷きとなり死亡した。",
-          "span": "崩落した天井の下敷き―熊本地震",
+          "t": "雑貨店の幹部が、従業員への指示について謝罪した。",
+          "span": "雑貨店幹部が指示謝罪",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "イオンモール宇城で、壁の下敷きになった高齢男性が心肺停止状態で見つかった。",
-          "span": "壁の下敷き、高齢男性が心肺停止",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "2日には高知県と和歌山県で気温が40度を超える酷暑日となった。",
-          "span": "高知県と和歌山県で40度を超える酷暑日となった",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "2日には全国の40を超える観測点で観測史上最も高い気温が記録された。",
-          "span": "観測史上、最も高い気温を観測",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "3日は熊本市など九州地方で酷暑日となることが予想されている。",
-          "span": "3日は熊本市など九州で酷暑日",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熱中症対策が呼びかけられている。",
-          "span": "熱中症対策を",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "2日午後11時49分ごろ、北海道で震度3の地震が発生したが、津波の心配はない。",
-          "span": "北海道で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "3日0時26分ごろ、地震が発生した。",
-          "span": "３日００時２６分ころ、地震がありました",
+          "t": "3日16時24分頃、地震が発生した。",
+          "span": "３日１６時２４分ころ、地震がありました",
           "src": [
             {
               "ty": "prim",
@@ -160,8 +95,18 @@
           ]
         },
         {
-          "t": "3日0時25分ごろ、地震が発生した。",
-          "span": "３日００時２５分ころ、地震がありました",
+          "t": "3日15時00分頃、地震が発生した。",
+          "span": "３日１５時００分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "3日14時30分頃、地震が発生した。",
+          "span": "３日１４時３０分ころ、地震がありました",
           "src": [
             {
               "ty": "prim",
@@ -171,67 +116,142 @@
         }
       ],
       "positions": [],
-      "consensus": "記事は複数の事実を報じており、評価は割れない。",
-      "note": null,
+      "consensus": "今回の地震による被害状況と関連事象について、記事間で事実の合意が見られる。評価は割れていない。",
+      "note": "事実合意型",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "酷暑の被災地、熊本４０．３度　ホテル避難受け付け、仮設建設始まる―４日で地震１週間",
+      "slug": "酷暑の被災地熊本度ホテル避難受け付け仮設建設始ま",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194581000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590380?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080300055&g=soc&m=rss"
+        }
+      ],
+      "issue": "熊本県における地震活動の活発化と酷暑への対応は十分か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "熊本県では、7月28日に最大震度7の地震が発生し、その後も地震活動が活発になっている。",
+          "span": "7月28日に最大震度7の非常に激しい揺れを観測した熊本県では、地震活動が活発になっている",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本市では日中の最高気温が40度を超え、観測史上初の酷暑日となった。",
+          "span": "熊本市で日中の最高気温が40度を超えて初の酷暑日になりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本市の最高気温は40.3度を記録した。",
+          "span": "熊本４０．３度",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "地震発生から4日で1週間となる。",
+          "span": "４日で地震１週間",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "熊本県では地震活動が活発化し、熊本市では初の酷暑日を記録した。気象庁は引き続き最大震度7程度の揺れに注意を呼びかけている。被災地では屋外作業の自粛やホテル避難の受け付け、仮設住宅建設が進められている。",
+      "note": "プライバシー配慮のため、被災者の個人を特定できる情報は含んでいない。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[6].spanを最小核に修正しました。",
-          "facts[8].tから評価的な記述を削除し、元のテキストに忠実な表現に修正しました。"
+          "fact 1: spanを元テキストの核となる部分に修正しました。",
+          "fact 2: spanを元テキストの核となる部分に修正しました。",
+          "position 1: spanを元テキストの核となる部分に修正しました。",
+          "position 2: spanを元テキストの核となる部分に修正しました。",
+          "position 3: spanを元テキストの核となる部分に修正しました。",
+          "consensus: 抽出エンジンのconsensusは、事実と報道の呼びかけを羅列したもので、評価や判断を含んでいないため、そのまま維持しました。ただし、元のconsensusにあった「評価は割れる。」は、テキスト中に具体的な評価の対立が示されていないため削除しました。",
+          "position spanが原文に無い→除去「引き続き最大震度7程度の揺れに注意を…」"
         ]
       }
     },
     {
-      "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
-      "slug": "Atleast13killedinIsraeli",
-      "independentSources": 3,
+      "headline": "Massive Attack respond after Singapore ban over Palestine display",
+      "slug": "MassiveAttackrespondafte",
+      "independentSources": 2,
       "sources": [
-        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080200088&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cr59qe86yj4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/opinions/2026/8/2/how-to-end-the-hormuz?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/8/2/rubios-bypass-plan-can-the-world-escape-the-strait-of-hormuz-chokepoint?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss"
         }
       ],
-      "issue": "米国によるイランへの軍事攻撃は適切か、またホルムズ海峡の安全保障はどのように確保されるべきか？",
+      "issue": "イランとの新たな協議は開始されるのか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "トランプ氏がイランへの攻撃を見送る意向を表明した。",
-          "span": "トランプ氏、イラン攻撃見送り表明",
+          "t": "トランプ大統領はイランとの新たな協議を月曜日に開始するよう提案した。",
+          "span": "suggests new talks with Iran to begin on Monday",
           "src": [
             {
-              "ty": "wire",
-              "l": "時事ドットコム"
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "トランプ米大統領がイランへの攻撃を中止した。",
-          "span": "Trump cancels Iran strikes",
+          "t": "イランは新たな協議が差し迫っているという提案に反応していない。",
+          "span": "Tehran has not responded to the suggestion that new talks are imminent",
           "src": [
             {
               "ty": "press",
@@ -240,18 +260,8 @@
           ]
         },
         {
-          "t": "関係各国が土壇場で外交努力を行った。",
-          "span": "関係各国、土壇場の外交努力",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ハマスが武装解除合意に達した後、イスラエルによるガザへの攻撃で少なくとも13人が死亡した。",
-          "span": "At least 13 killed in Israeli strikes on Gaza",
+          "t": "トランプ大統領は以前、交渉による紛争終結について言及していた。",
+          "span": "a negotiated end to th",
           "src": [
             {
               "ty": "press",
@@ -260,8 +270,8 @@
           ]
         },
         {
-          "t": "トランプ氏がイランへの攻撃を中止したにもかかわらず、ホルムズ海峡に関する進展はなかった。",
-          "span": "No breakthrough on Strait of Hormuz",
+          "t": "トランプ大統領はイランへの「大規模な攻撃」を一時停止した。",
+          "span": "pauses ‘massive attack’ on Iran",
           "src": [
             {
               "ty": "press",
@@ -270,8 +280,8 @@
           ]
         },
         {
-          "t": "マルコ・ルビオ氏がホルムズ海峡迂回計画を提案した。",
-          "span": "Rubio’s bypass plan",
+          "t": "石油価格は（攻撃延期に）反応して下落した。",
+          "span": "oil prices dropped in response",
           "src": [
             {
               "ty": "press",
@@ -280,137 +290,17 @@
           ]
         }
       ],
-      "positions": [
-        {
-          "actor": "トランプ氏",
-          "stance": "support",
-          "claim": "ホルムズ海峡の開放をイラン攻撃見送りの条件としたと報じられている。",
-          "span": "ホルムズ開放条件",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "トランプ米大統領",
-          "stance": "support",
-          "claim": "迅速な合意がイラン攻撃中止の条件であると述べた。",
-          "span": "subject to deal being made 'rapidly'",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "トランプ米大統領",
-          "stance": "neutral",
-          "claim": "イランや他の中東諸国がワシントンに攻撃を控えるよう求めたと主張した。",
-          "span": "Iran and other Middle Eastern countries asked Washington to hold off on any attack",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "イスラエル",
-          "stance": "neutral",
-          "claim": "ガザ市、ハンユニス、ディル・アル・バラへの攻撃で軍事作戦要員を標的にしていたと述べた。",
-          "span": "targeting military operatives",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "Al Jazeera (意見記事)",
-          "stance": "support",
-          "claim": "米国にとって最もましな選択肢は、覚書第5条が機能するに任せることであると提言している。",
-          "span": "let the MoU Article 5 play out",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "op",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "イラン",
-          "stance": "attack",
-          "claim": "トランプ氏の攻撃中止に関するコメントは「心理作戦の一環」であると述べた。",
-          "span": "",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "専門家（Al Jazeera）",
-          "stance": "attack",
-          "claim": "マルコ・ルビオ氏のホルムズ海峡迂回計画はパイプラインの限界と紅海の深刻な脅威によって妨げられると警告している。",
-          "span": "hindered by pipeline limits and severe Red Sea threats",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "consensus": "トランプ米大統領はイランへの攻撃を見送る意向を表明し、実際の中止に至ったが、ホルムズ海峡に関する具体的な進展は見られない。米国によるイランへの軍事行動の是非や、ホルムズ海峡の安全保障確保策については、関係者や専門家の間で異なる見解が示されている。",
+      "positions": [],
+      "consensus": "トランプ大統領はイランへの攻撃を中止し、月曜日から新たな協議を開始するよう提案した。イランからの公式な反応はまだない。評価は割れる／アプリは裁定しない。",
       "note": null,
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」を追加しました。",
-          "positions[4].claim: メタ記述の徹底のため、「〜と提言している」に変更しました。",
-          "facts[5].span: 空文字だったspanを元テキストから「Rubio’s bypass plan」に修正しました。",
-          "positions[5].span: 空文字だったspanを元テキストから「'within the context of psychological operat'」に修正しました。",
-          "fact spanが原文に無い→除去「Marco Rubio's Horm…」",
-          "position spanが原文に無い→除去「'within the contex…」"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "兵庫 豊岡の観光地「淀の洞門」で落石が頭にあたり女性死亡",
-      "slug": "兵庫豊岡の観光地淀の洞門で落石が頭にあたり女性死",
+      "headline": "羽田空港 荷物預け入れ締め切りを出発30分前に 出発の遅れ増え",
+      "slug": "羽田空港荷物預け入れ締め切りを出発30分前に出発",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -419,91 +309,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194411000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015194531000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590299?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590377?source=rss"
         }
       ],
-      "issue": "",
-      "stasis": "",
-      "facts": [
-        {
-          "t": "兵庫県豊岡市の観光地「淀の洞門」近くで、2日昼前に30代の女性が倒れているのが見つかり、その後死亡した。",
-          "span": "30代の女性が倒れているのが見つかり、その後、死亡しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "警察によると、洞門からの落石が女性に当たった。",
-          "span": "洞門からの落石が当たった",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "警察は当時の詳しい状況を調べている。",
-          "span": "当時の詳しい状況を調べています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "落石事故を小学生の子どもが目撃した。",
-          "span": "小学生の子が目撃",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "兵庫県豊岡市の観光地「淀の洞門」で落石事故が発生し、女性が死亡した。本件に関する評価や意見の対立は記事中にない。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "争点（issue）は対立する見解がある場合に立てるものなので、テキストに対立がないため空にした。それに伴いstasisも空にした。"
-        ]
-      }
-    },
-    {
-      "headline": "日米両政府が円安・ドル高阻止に向けた共同声明を発出する方向で調整している",
-      "slug": "日米両政府が円安ドル高阻止に向けた共同声明を発出",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194291000"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080200310&g=flash&m=rss"
-        }
-      ],
-      "issue": "日米両政府は円安是正のため協調介入を行い、共同声明を発表する方向で調整しているか？",
+      "issue": "羽田空港における荷物預け入れ締め切り時間の変更は、出発の遅延増加に影響するか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "政府・日銀は、7月30日から8月1日にかけて断続的に市場介入を実施した。",
-          "span": "断続的に市場介入を実施しました",
+          "t": "羽田空港を発着する国内線の空の便で、出発の遅れが増加し、定時運航が課題となっている。",
+          "span": "羽田空港を発着する国内線の空の便で出発の遅れが増えるなど定時運航が課題となっています",
           "src": [
             {
               "ty": "press",
@@ -512,8 +330,8 @@
           ]
         },
         {
-          "t": "市場介入は歴史的な円安に歯止めをかける目的で行われた。",
-          "span": "歴史的な円安に歯止めをかけるため",
+          "t": "9月から、全日空や日本航空など各社が羽田空港で乗客の荷物預け入れ締め切り時刻を10分前倒しする。",
+          "span": "9月から全日空や日本航空など各社が、羽田空港で乗客が荷物を預ける際の締め切り時刻を10分前倒しして出",
           "src": [
             {
               "ty": "press",
@@ -522,45 +340,22 @@
           ]
         },
         {
-          "t": "アメリカの通貨当局と連携し、円安の是正に向けて協調介入が行われた。",
-          "span": "",
+          "t": "羽田空港国内線で、預け入れ締切が厳格化されている。",
+          "span": "預け入れ締切を厳格化",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "政府は3日に日米共同の声明を発表する方向で調整している。",
-          "span": "3日に日米共同の声明発表へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日米両政府が円安・ドル高阻止に向けた共同声明を発出する方向で調整している。",
-          "span": "円安・ドル高阻止に向けた共同声明を発出する方向で調整している",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日米両政府が円安是正のため協調介入を行い、共同声明の発表に向けて調整しているという点で合意している。ただし、その効果や妥当性に関する評価は記事中にないため、アプリは裁定しない。",
-      "note": "NHK記事の本文が途中で切れているため、一部の事実はタイトルから補完しています。",
+      "consensus": "羽田空港を発着する国内線の空の便で出発の遅れが増え、定時運航が課題となっている。9月から全日空や日本航空など各社が、羽田空港で乗客が荷物を預ける際の締め切り時刻を10分前倒しする。羽田空港国内線で預け入れ締切が厳格化されている。",
+      "note": "本件は、事実の記述に留まり、それに対する評価や意見の対立を示す記述がなかったため、positions は空となります。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[2]から評価語「異例の」を削除し、tとspanを修正しました。",
-          "positionsに、NHKが協調介入を「異例」と報じている旨の項目を追加しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
