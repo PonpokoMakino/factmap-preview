@@ -1,37 +1,37 @@
 {
-  "builtAt": "2026-08-03T21:01:09.583Z",
+  "builtAt": "2026-08-04T07:14:57.193Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Two workers killed in blast after re-entering quake-hit Japan mall on boss' order",
-      "slug": "Twoworkerskilledinblasta",
+      "headline": "熊本地震、避難８０００人超　酷暑の被災地、住宅被害１万２０００棟―宿泊キャンセルも・発生１週間",
+      "slug": "熊本地震避難人超酷暑の被災地住宅被害万棟宿泊キャ",
       "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "BBC World"
+        "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194841000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015195771000"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194801000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015195471000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015195591000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015195861000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590406?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300609&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300563&g=flash&m=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590503?source=rss"
         },
         {
           "source": "時事ドットコム",
@@ -39,19 +39,33 @@
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300053&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026080400106&g=soc&m=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss"
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260804050815_0_VXSE51_010000.xml"
         }
       ],
-      "issue": "熊本地震の激甚災害指定と予備費使用、およびイオンモール爆発事故における従業員の死亡原因は何か？",
+      "issue": "熊本地震の被災状況と今後の見通しはどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "高市総理大臣は、熊本地震を国が復旧費用を支援する「激甚災害」に指定する方針を明らかにした。",
-          "span": "国が復旧にかかる費用を支援する「激甚災害」に指定する方針を明らかにしました",
+          "t": "熊本県で最大震度7の揺れを観測した地震から1週間が経過した。",
+          "span": "熊本県で最大震度7を観測した地震から4日で1週間です",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "これまでに災害関連死の疑いがある人を含め、38人が死亡した。",
+          "span": "これまでに災害関連死の疑いがある人などを含めて38人が死亡しました",
           "src": [
             {
               "ty": "press",
@@ -60,8 +74,8 @@
           ]
         },
         {
-          "t": "高市総理大臣は、今年度予算の予備費から200億円を超える規模の使用を閣議決定した。",
-          "span": "4日、200億円を超える規模の今年度予算の予備費の使用を閣議決定し",
+          "t": "被災地では連日危険な暑さが続いており、車中泊を余儀なくされる人もいる。",
+          "span": "被災地では連日危険な暑さが続く中、車中泊を余儀なくされる人もいて",
           "src": [
             {
               "ty": "press",
@@ -70,18 +84,8 @@
           ]
         },
         {
-          "t": "熊本地震は激甚災害に指定される見込みである。",
-          "span": "熊本地震 激甚災害に指定見込み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "高市首相は熊本の被災地を訪問し、被災者や自治体の要望を聴取した。",
-          "span": "高市首相、熊本被災地を訪問　被災者・自治体の要望聴取",
+          "t": "住宅被害は1万2000棟にのぼる。",
+          "span": "住宅被害１万２０００棟",
           "src": [
             {
               "ty": "press",
@@ -90,8 +94,38 @@
           ]
         },
         {
-          "t": "イオンモール熊本で爆発が起き、雑貨店の従業員2人が死亡した。",
-          "span": "大規模な爆発が起きた熊本県嘉島町のイオンモール熊本で、従業員2人が死亡した",
+          "t": "避難者は8000人を超えている。",
+          "span": "避難８０００人超",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "宿泊施設のキャンセルも発生している。",
+          "span": "宿泊キャンセルも",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "イオン爆発で従業員2人が死亡した。",
+          "span": "イオン爆発で従業員２人死亡",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は4日午後4時から会見を開き、地震活動、暑さ、雨の見通しについて説明した。",
+          "span": "気象庁は午後4時から会見を開き、地震活動の状況のほか、暑さや雨など気象の見通しについても説明しています",
           "src": [
             {
               "ty": "press",
@@ -100,8 +134,8 @@
           ]
         },
         {
-          "t": "死亡した従業員2人は、一時避難した後、売上金を金庫に戻すために建物の中に戻るよう指示されていた。",
-          "span": "2人が一時、避難したあと、売上金を金庫に戻すために建物の中に戻るよう指示していたこと",
+          "t": "北陸と東北が梅雨明けしたとみられると気象庁が発表した。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -110,8 +144,8 @@
           ]
         },
         {
-          "t": "雑貨店の運営会社は、従業員2人が建物の中に戻るよう指示したことを明らかにし、遺族に謝罪した。",
-          "span": "従業員2人が死亡した雑貨店の運営会社が、2人が一時、避難したあと、売上金を金庫に戻すために建物の中に戻るよう指示していたことを明らかにしました。会…",
+          "t": "福岡県では39度の危険な暑さが予想されている。",
+          "span": "福岡県では39度の危険な暑さが予想されている",
           "src": [
             {
               "ty": "press",
@@ -120,8 +154,77 @@
           ]
         },
         {
-          "t": "イオンモール爆発事故で、従業員2人は上司の指示で建物に戻り死亡した。",
-          "span": "sending them back to Aeon Mall to secure cash.",
+          "t": "4日14時06分頃、震度3以上が観測された。",
+          "span": "４日１４時０６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "ベネズエラで発生した大地震で6000人を超える死亡が確認された。",
+          "span": "6000人を超える人の死亡が確認されました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ベネズエラ大地震では、がれきの撤去は全体の16％余りに留まっている。",
+          "span": "撤去されたがれきは全体の16％余りにとどまっていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "熊本地震から1週間が経過し、多数の死者が出ている。被災地では暑さが続き、避難生活を送る人もいる。気象庁は地震活動や気象の見通しについて説明し、熱中症対策を呼びかけた。北陸と東北は梅雨明けした。ベネズエラ大地震では多数の死者が確認され、復旧支援が課題となっている。",
+      "note": "ベネズエラ大地震に関する情報は、熊本地震とは別の出来事だが、同じニュースソースで報じられているため含めた。災害関連死や捜索・復旧支援の課題については、具体的な主体が明記されていないため「不明」とした。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "factsのspanが空だったため、元テキストから適切なspanを補完しました。",
+          "positionsのactorが「不明」となっているものについて、元テキストから特定できる主体がないため、そのまま維持しました。",
+          "consensusの末尾にあった「評価は割れる。」は、抽出エンジンによる評価と判断し削除しました。",
+          "fact spanが原文に無い→除去「北陸と東北が「梅雨明けしたとみられる…」"
+        ]
+      }
+    },
+    {
+      "headline": "Why are the Washington wildfires so severe? Spokane fires explained",
+      "slug": "WhyaretheWashingtonwildf",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss"
+        }
+      ],
+      "issue": "フランスとアメリカの山火事の発生原因と影響は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "フランスの山火事により、Le Porge村で第二次世界大戦時の砲弾数百個が発見された。",
+          "span": "hundreds of WW2 shells in village",
           "src": [
             {
               "ty": "press",
@@ -130,186 +233,246 @@
           ]
         },
         {
-          "t": "自民党税制調査会は、消費減税を事実上、了承した。",
-          "span": "消費減税を事実上了承した",
+          "t": "Le Porge村では、山火事の最中に爆発音が聞こえ、古い弾薬が原因と考えられている。",
+          "span": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "自民党は、反対論を押し切って消費減税を事実上了承し、5日にも閣議決定する見込みである。",
-          "span": "自民、消費減税を事実上了承　反対論押し切る、５日にも閣議決定",
+          "t": "ワシントン州スポケーンの山火事が広範囲に広がり、深刻な状況となっている。",
+          "span": "Why are the Washington wildfires so severe? Spokane fires explained",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "スポケーンの山火事が急速に拡大した原因と、ワシントン州が大規模な火災危機に直面している理由が報じられている。",
+          "span": "Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アメリカ北西部を襲った火災を鎮圧するために消防士が必要とした迅速さが、ボディカメラ映像に捉えられている。",
+          "span": "Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "熊本地震は激甚災害に指定される見込みであり、予備費の使用も閣議決定された。イオンモール熊本での爆発事故では、従業員2人が避難後に売上金回収のため建物に戻るよう指示され死亡した。自民党は消費減税を事実上了承した。",
-      "note": "イオンモール爆発事故に関する情報は、NHKと時事ドットコム、BBC Worldで報じられている。高市首相の動向はNHKと時事ドットコムで報じられている。消費減税に関する情報は時事ドットコムで報じられている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "fact 7のspanを元テキストに合うように修正しました。",
-          "consensusから「評価は割れる。」を削除しました。元テキストに評価が割れるという記述がないためです。",
-          "fact spanが原文に無い→除去「雑貨店の運営会社が、…明らかにしまし…」"
-        ]
-      }
-    },
-    {
-      "headline": "自民、消費減税を事実上了承　反対論押し切る、５日にも閣議決定",
-      "slug": "自民消費減税を事実上了承反対論押し切る日にも閣議",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590429?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300793&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300609&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300893&g=pol&m=rss"
-        }
-      ],
-      "issue": "消費減税は実施すべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "自民党は消費減税を事実上了承した。",
-          "span": "消費減税を事実上了承",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "自民党は消費減税に対する反対論を押し切った。",
-          "span": "反対論押し切る",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "消費減税は5日にも閣議決定される見込みである。",
-          "span": "５日にも閣議決定",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "小渕氏が自民党税制調査会を辞任した。",
-          "span": "税調辞任",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "自民党内で消費減税の方針が事実上了承され、閣議決定が迫っているが、党内には反対意見も存在する。評価は割れる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述と著作権の観点から「消費減税の方針に反対していると報じられている」に修正。",
-          "positions[1].claim: メタ記述と著作権の観点から「消費減税に異論があると述べている」に修正。"
-        ]
-      }
-    },
-    {
-      "headline": "台風13号 小笠原で高波・暴風厳重警戒 その後沖縄・奄美へ",
-      "slug": "台風13号小笠原で高波暴風厳重警戒その後沖縄奄美",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015194591000"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803204113_0_VPFJ51_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260803204113_0_VPFJ50_130000.xml"
-        }
-      ],
-      "issue": "台風13号の接近に伴う小笠原諸島への影響と必要な警戒は何か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "大型で非常に強い台風13号は小笠原近海を西寄りに進んでいる。",
-          "span": "小笠原近海を西寄りに進んでいて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風13号は4日に小笠原諸島に最も近づく見込みである。",
-          "span": "4日に小笠原諸島に最も近づく見込みです",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風13号はその後、沖縄・奄美へ向かう。",
-          "span": "その後沖縄・奄美へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "大型で非常に強い台風13号が小笠原諸島に接近しており、気象庁が高波、暴風、土砂災害への厳重な警戒と不要不急の外出自粛を呼びかけている。",
-      "note": null,
+      "consensus": "フランスの山火事により第二次世界大戦時の砲弾が発見され、アメリカ北西部では山火事が深刻化していることが報じられている。詳細な原因や状況については、報道機関によって異なる情報が提示されている。",
+      "note": "複数の異なる出来事に関する報道を統合した。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "立方体体積、４人に１人誤答　全国学テの分析結果公表―校外勉強時間は短縮傾向・文科省",
-      "slug": "立方体体積人に人誤答全国学テの分析結果公表校外勉",
+      "headline": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "slug": "IransaysitisintalkswithO",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
+        }
+      ],
+      "issue": "イランは米国との交渉を再開するとトランプ氏が述べた後、米国との交渉は行っていないと述べているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "イランはオマーンと交渉中であると発表した。",
+          "span": "Iran says it is in talks with Oman",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イランは米国との交渉は行っていないと発表した。",
+          "span": "but not the US",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ氏は、イランとの交渉が再開されると述べた。",
+          "span": "after Trump says negotiations to resume",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イランが米国との交渉がないと発言したことは、ドナルド・トランプ氏による指導者への強い非難を促した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ライン川の水位が記録的な低さになった。",
+          "span": "Rhine falls to record low levels",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ライン川、ドナウ川、ポー川の水位低下は、商品の輸送を制限し、電力出力を減少させた。",
+          "span": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国株は過去最高値に近づいている。",
+          "span": "US stocks near record high",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "原油価格は下落した。",
+          "span": "oil falls",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トランプ氏はイランとの交渉が進んでいると主張した。",
+          "span": "as Trump claims Iran talks under way",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ワシントンとテヘランは交渉の状況について相反する説明をしている。",
+          "span": "Washington, Tehran offer conflicting accounts of status of talks.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "イラン",
+          "stance": "neutral",
+          "claim": "米国との交渉は行っていない。",
+          "span": "not the US",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "ドナルド・トランプ",
+          "stance": "attack",
+          "claim": "イランの指導者を強く非難した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "ドナルド・トランプ",
+          "stance": "support",
+          "claim": "イランとの交渉が再開されると述べた。",
+          "span": "negotiations to resume",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "ドナルド・トランプ",
+          "stance": "support",
+          "claim": "イランとの交渉が進んでいると主張した。",
+          "span": "claims Iran talks under way",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "イランはオマーンと交渉中だが米国とは行っていないと発表し、トランプ氏は交渉再開を主張している。ワシントンとテヘランは交渉の状況について相反する説明をしている。",
+      "note": "プライバシー配慮のため、個人名は公表されている範囲で記載。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: \"評価は割れる\" はテキストから直接読み取れないため削除しました。",
+          "positions: ドナルド・トランプ氏の \"negotiations to resume\" に関する claim を \"イランとの交渉が再開されると述べた\" に修正しました。元の \"イランとの交渉が再開されると述べた\" は、元のテキストの \"negotiations to resume\" の意味合いをより正確に反映しています。",
+          "positions: ドナルド・トランプ氏の \"claims Iran talks under way\" に関する claim を \"イランとの交渉が進んでいると主張した\" に修正しました。元の \"イランとの交渉が進んでいると主張した\" は、元のテキストの \"claims Iran talks under way\" の意味合いをより正確に反映しています。",
+          "fact spanが原文に無い→除去「Iran's remarks tha…」",
+          "position spanが原文に無い→除去「issue a strong con…」"
+        ]
+      }
+    },
+    {
+      "headline": "大谷翔平、痛恨のけん制死　米大リーグ・ドジャース",
+      "slug": "大谷翔平痛恨のけん制死米大リグドジャス",
       "independentSources": 2,
       "sources": [
         "Yahoo!ニュース 主要",
@@ -318,24 +481,20 @@
       "links": [
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590421?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590488?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300651&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026080400618&g=spo&m=rss"
         }
       ],
-      "issue": "全国学力テストの分析結果はどのような内容か？",
-      "stasis": "事実",
+      "issue": "大谷選手らの走塁ミスは問題視されているか？",
+      "stasis": "評価（合意）",
       "facts": [
         {
-          "t": "文部科学省が全国学力テストの分析結果を公表した。",
-          "span": "全国学テの分析結果公表",
+          "t": "大谷選手を含む複数の選手が走塁ミスをした。",
+          "span": "大谷ら相次ぐ走塁ミス",
           "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
@@ -343,32 +502,27 @@
           ]
         },
         {
-          "t": "全国学力テストにおいて、立方体の体積を求める問題で約4人に1人が誤答した。",
-          "span": "立方体体積、４人に１人誤答",
+          "t": "大谷選手がけん制死となった。",
+          "span": "けん制死",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "全国学力テストの分析結果から、校外での勉強時間が短縮傾向にあることが示された。",
-          "span": "校外勉強時間は短縮傾向",
-          "src": [
-            {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "文部科学省が全国学力テストの分析結果を公表し、特定の課題が明らかになった。本記事には評価や意見の対立は記述されていない。",
-      "note": "",
+      "consensus": "大谷選手を含む複数の選手が走塁ミスをし、大谷選手がけん制死となったことは事実である。これらの走塁ミスに対する評価は監督から苦言として示されている。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1].tから評価語「痛恨の」を削除し、spanも「けん制死」に修正しました。",
+          "issueをテキストの内容により即した「大谷選手らの走塁ミスは問題視されているか？」に変更しました。",
+          "issueの変更に伴い、stasisを「評価（合意）」に変更しました（テキストに反対意見がないため）。",
+          "positions[0].premisesに、監督の苦言の根拠となる事実（facts[0]とfacts[1]）を追加しました。"
+        ]
       }
     }
   ]
