@@ -1,61 +1,130 @@
 {
-  "builtAt": "2026-08-04T07:14:57.193Z",
+  "builtAt": "2026-08-05T16:19:37.015Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "熊本地震、避難８０００人超　酷暑の被災地、住宅被害１万２０００棟―宿泊キャンセルも・発生１週間",
-      "slug": "熊本地震避難人超酷暑の被災地住宅被害万棟宿泊キャ",
-      "independentSources": 4,
+      "headline": "高校野球 第1試合 仙台育英が札幌日大に勝利 2回戦へ",
+      "slug": "高校野球第1試合仙台育英が札幌日大に勝利2回戦へ",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "気象庁 地震・火山"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015195771000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015195471000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015195591000"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015195861000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015197431000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590503?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590662?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080300801&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080400106&g=soc&m=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260804050815_0_VXSE51_010000.xml"
+          "link": "https://www.jiji.com/jc/article?k=2026080501140&g=spo&m=rss"
         }
       ],
-      "issue": "熊本地震の被災状況と今後の見通しはどうか？",
+      "issue": "夏の全国高校野球の開幕戦と女性審判の活動状況はどのようなものか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "熊本県で最大震度7の揺れを観測した地震から1週間が経過した。",
-          "span": "熊本県で最大震度7を観測した地震から4日で1週間です",
+          "t": "夏の全国高校野球が甲子園球場で開幕した。",
+          "span": "夏の全国高校野球が甲子園球場で開幕し",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "開会式直後の第1試合が行われた。",
+          "span": "開会式直後の第1試合は",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "宮城の仙台育英高校が南北海道の札幌日大高校に3対1で勝利した。",
+          "span": "宮城の仙台育英高校が南北海道の札幌日大高校に3対1で勝って",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "仙台育英高校は2回戦に進んだ。",
+          "span": "2回戦に進みました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "女性審判が高校野球で初のジャッジを行った。",
+          "span": "女性審判が初ジャッジ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "甲子園出場の女性審判が試合後に涙を流した。",
+          "span": "試合後に涙",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "夏の全国高校野球の開幕戦の結果と女性審判の活動について、記事は客観的な事実を報じており、評価や意見の対立は見られない。",
+      "note": "記事は客観的な事実のみを報じており、特定の立場や意見の表明がないため、positionsは空配列です。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Left-wing political outsider wins Democratic Senate primary in Michigan",
+      "slug": "Leftwingpoliticaloutside",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080500801&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "アブドゥル・エル＝サイード氏のミシガン州民主党予備選での勝利はどのような特徴を持つか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アブドゥル・エル＝サイード氏がミシガン州の民主党上院予備選で勝利した。",
+          "span": "wins Democratic Senate primary in Michigan",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "BBC World"
             },
             {
               "ty": "press",
@@ -64,29 +133,13 @@
           ]
         },
         {
-          "t": "これまでに災害関連死の疑いがある人を含め、38人が死亡した。",
-          "span": "これまでに災害関連死の疑いがある人などを含めて38人が死亡しました",
+          "t": "エル＝サイード氏は急進左派の政治的アウトサイダーである。",
+          "span": "Left-wing political outsider",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "被災地では連日危険な暑さが続いており、車中泊を余儀なくされる人もいる。",
-          "span": "被災地では連日危険な暑さが続く中、車中泊を余儀なくされる人もいて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "住宅被害は1万2000棟にのぼる。",
-          "span": "住宅被害１万２０００棟",
-          "src": [
+              "ty": "wire",
+              "l": "BBC World"
+            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -94,434 +147,181 @@
           ]
         },
         {
-          "t": "避難者は8000人を超えている。",
-          "span": "避難８０００人超",
+          "t": "エル＝サイード氏はエジプト系移民の息子である。",
+          "span": "the son of Egyptian immigrants",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "ty": "wire",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "宿泊施設のキャンセルも発生している。",
-          "span": "宿泊キャンセルも",
+          "t": "11月の本選挙で当選すれば、彼は米国初のムスリム上院議員となる。",
+          "span": "would be the first Muslim US senator if elected in November",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "イオン爆発で従業員2人が死亡した。",
-          "span": "イオン爆発で従業員２人死亡",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は4日午後4時から会見を開き、地震活動、暑さ、雨の見通しについて説明した。",
-          "span": "気象庁は午後4時から会見を開き、地震活動の状況のほか、暑さや雨など気象の見通しについても説明しています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "北陸と東北が梅雨明けしたとみられると気象庁が発表した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "福岡県では39度の危険な暑さが予想されている。",
-          "span": "福岡県では39度の危険な暑さが予想されている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "4日14時06分頃、震度3以上が観測された。",
-          "span": "４日１４時０６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "ベネズエラで発生した大地震で6000人を超える死亡が確認された。",
-          "span": "6000人を超える人の死亡が確認されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ベネズエラ大地震では、がれきの撤去は全体の16％余りに留まっている。",
-          "span": "撤去されたがれきは全体の16％余りにとどまっていて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "熊本地震から1週間が経過し、多数の死者が出ている。被災地では暑さが続き、避難生活を送る人もいる。気象庁は地震活動や気象の見通しについて説明し、熱中症対策を呼びかけた。北陸と東北は梅雨明けした。ベネズエラ大地震では多数の死者が確認され、復旧支援が課題となっている。",
-      "note": "ベネズエラ大地震に関する情報は、熊本地震とは別の出来事だが、同じニュースソースで報じられているため含めた。災害関連死や捜索・復旧支援の課題については、具体的な主体が明記されていないため「不明」とした。",
+      "consensus": "アブドゥル・エル＝サイード氏がミシガン州民主党上院予備選で勝利したこと、彼が急進左派の政治的アウトサイダーでありエジプト系移民の息子であること、そして当選すれば初のムスリム上院議員となる可能性は、記事中で合意された事実である。時事ドットコムは、この勝利が急進左派の躍進と勢いの鮮明化を示していると報じている。",
+      "note": "本記事は主に事実の報道であり、複数の立場による評価や解釈の対立は記述されていない。時事ドットコムのヘッドラインには、勝利の意義に関する解釈が含まれる。",
       "audit": {
         "changed": true,
         "issues": [
-          "factsのspanが空だったため、元テキストから適切なspanを補完しました。",
-          "positionsのactorが「不明」となっているものについて、元テキストから特定できる主体がないため、そのまま維持しました。",
-          "consensusの末尾にあった「評価は割れる。」は、抽出エンジンによる評価と判断し削除しました。",
-          "fact spanが原文に無い→除去「北陸と東北が「梅雨明けしたとみられる…」"
+          "事実欄 (facts[4]) に含まれていた記者の解釈（「〜を示している」）を、発言主体（時事ドットコム）を明記した上でpositionsへ移動し、メタ記述（「〜と報じている」）に修正しました。",
+          "positionsに項目が追加されたため、issueを「意義」を問うものから、より事実記述に即した「特徴」を問うものに修正しました。",
+          "positionsに項目が追加されたため、consensusとnoteの記述を更新し、現状をより正確に反映させました。"
         ]
       }
     },
     {
-      "headline": "Why are the Washington wildfires so severe? Spokane fires explained",
-      "slug": "WhyaretheWashingtonwildf",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cgmkxjrrwdvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/4/why-are-the-washington-wildfires-so-severe-spokane-fires-explained?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/bodycam-video-shows-firefighters-battling-blaze-in-spokane-us?traffic_source=rss"
-        }
-      ],
-      "issue": "フランスとアメリカの山火事の発生原因と影響は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "フランスの山火事により、Le Porge村で第二次世界大戦時の砲弾数百個が発見された。",
-          "span": "hundreds of WW2 shells in village",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "Le Porge村では、山火事の最中に爆発音が聞こえ、古い弾薬が原因と考えられている。",
-          "span": "Explosions heard in Le Porge as the wildfires raged are believed to have have been the old munitions",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ワシントン州スポケーンの山火事が広範囲に広がり、深刻な状況となっている。",
-          "span": "Why are the Washington wildfires so severe? Spokane fires explained",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "スポケーンの山火事が急速に拡大した原因と、ワシントン州が大規模な火災危機に直面している理由が報じられている。",
-          "span": "Why Spokane&#039;s wildfires spread so fast, what caused them and why Washington is facing a major fire crisis",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "アメリカ北西部を襲った火災を鎮圧するために消防士が必要とした迅速さが、ボディカメラ映像に捉えられている。",
-          "span": "Bodycam footage from firefighters shows the speed needed to put out the blaze sweeping through the northwestern US",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "フランスの山火事により第二次世界大戦時の砲弾が発見され、アメリカ北西部では山火事が深刻化していることが報じられている。詳細な原因や状況については、報道機関によって異なる情報が提示されている。",
-      "note": "複数の異なる出来事に関する報道を統合した。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "slug": "IransaysitisintalkswithO",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss"
-        }
-      ],
-      "issue": "イランは米国との交渉を再開するとトランプ氏が述べた後、米国との交渉は行っていないと述べているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "イランはオマーンと交渉中であると発表した。",
-          "span": "Iran says it is in talks with Oman",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イランは米国との交渉は行っていないと発表した。",
-          "span": "but not the US",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏は、イランとの交渉が再開されると述べた。",
-          "span": "after Trump says negotiations to resume",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イランが米国との交渉がないと発言したことは、ドナルド・トランプ氏による指導者への強い非難を促した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ライン川の水位が記録的な低さになった。",
-          "span": "Rhine falls to record low levels",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ライン川、ドナウ川、ポー川の水位低下は、商品の輸送を制限し、電力出力を減少させた。",
-          "span": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "米国株は過去最高値に近づいている。",
-          "span": "US stocks near record high",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "原油価格は下落した。",
-          "span": "oil falls",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏はイランとの交渉が進んでいると主張した。",
-          "span": "as Trump claims Iran talks under way",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ワシントンとテヘランは交渉の状況について相反する説明をしている。",
-          "span": "Washington, Tehran offer conflicting accounts of status of talks.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "イラン",
-          "stance": "neutral",
-          "claim": "米国との交渉は行っていない。",
-          "span": "not the US",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "ドナルド・トランプ",
-          "stance": "attack",
-          "claim": "イランの指導者を強く非難した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "ドナルド・トランプ",
-          "stance": "support",
-          "claim": "イランとの交渉が再開されると述べた。",
-          "span": "negotiations to resume",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "ドナルド・トランプ",
-          "stance": "support",
-          "claim": "イランとの交渉が進んでいると主張した。",
-          "span": "claims Iran talks under way",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "consensus": "イランはオマーンと交渉中だが米国とは行っていないと発表し、トランプ氏は交渉再開を主張している。ワシントンとテヘランは交渉の状況について相反する説明をしている。",
-      "note": "プライバシー配慮のため、個人名は公表されている範囲で記載。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensus: \"評価は割れる\" はテキストから直接読み取れないため削除しました。",
-          "positions: ドナルド・トランプ氏の \"negotiations to resume\" に関する claim を \"イランとの交渉が再開されると述べた\" に修正しました。元の \"イランとの交渉が再開されると述べた\" は、元のテキストの \"negotiations to resume\" の意味合いをより正確に反映しています。",
-          "positions: ドナルド・トランプ氏の \"claims Iran talks under way\" に関する claim を \"イランとの交渉が進んでいると主張した\" に修正しました。元の \"イランとの交渉が進んでいると主張した\" は、元のテキストの \"claims Iran talks under way\" の意味合いをより正確に反映しています。",
-          "fact spanが原文に無い→除去「Iran's remarks tha…」",
-          "position spanが原文に無い→除去「issue a strong con…」"
-        ]
-      }
-    },
-    {
-      "headline": "大谷翔平、痛恨のけん制死　米大リーグ・ドジャース",
-      "slug": "大谷翔平痛恨のけん制死米大リグドジャス",
+      "headline": "Why some scientists are thrilled that a SpaceX rocket has crashed into the Moon",
+      "slug": "Whysomescientistsarethri",
       "independentSources": 2,
       "sources": [
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World"
       ],
       "links": [
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590488?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590670?source=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080400618&g=spo&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "大谷選手らの走塁ミスは問題視されているか？",
-      "stasis": "評価（合意）",
+      "issue": "スペースXロケット残骸の月衝突は科学的に有益か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "大谷選手を含む複数の選手が走塁ミスをした。",
-          "span": "大谷ら相次ぐ走塁ミス",
+          "t": "スペースXのロケット残骸が月に衝突した可能性がある。",
+          "span": "月衝突か",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "大谷選手がけん制死となった。",
-          "span": "けん制死",
+          "t": "月への衝突は偶発的な出来事であった。",
+          "span": "the collision was an accident",
           "src": [
             {
-              "ty": "wire",
-              "l": "時事ドットコム"
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "大谷選手を含む複数の選手が走塁ミスをし、大谷選手がけん制死となったことは事実である。これらの走塁ミスに対する評価は監督から苦言として示されている。",
+      "consensus": "スペースXのロケット残骸が月に衝突した可能性があり、この衝突は偶発的な出来事であった。一部の科学者は、この出来事を科学的に有益であると評価している。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claim が地の文の断定になっていたため、「〜と述べている」の構造に修正。",
+          "positions[0].reason が地の文の断定になっていたため、「〜ためだと述べている」の構造に修正。"
+        ]
+      }
+    },
+    {
+      "headline": "Germany investigates explosive device attached to drone at Leipzig airport",
+      "slug": "Germanyinvestigatesexplo",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss"
+        }
+      ],
+      "issue": "ドイツの空港で爆発物を搭載したドローンが発見され、空中衝突が発生した事件の詳細は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ドイツの空港で爆発物を搭載したドローンが発見された。",
+          "span": "Drone carrying explosives found",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "そのドローンはウクライナの貨物機の近くで発見された。",
+          "span": "found near Ukrainian cargo planes",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "別の物体が貨物機と空中衝突した。",
+          "span": "collided with a cargo aircraft in mid-air",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ドイツ当局はライプツィヒ空港でドローンに取り付けられた爆発装置を調査している。",
+          "span": "Germany investigates explosive device attached to drone at Leipzig airport",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "空港職員がその物体を発見した。",
+          "span": "spotted the object",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "当局はその装置を「未知の爆発物」と表現した。",
+          "span": "authorities described as &#039;an unknown explosive device&#039;",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ドイツのライプツィヒ空港で爆発物を搭載したドローンが発見され、ウクライナの貨物機の近くで見つかった。また、別の物体が貨物機と空中衝突した。当局はこれを「未知の爆発物」と表現し、現在調査中である。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "facts[1].tから評価語「痛恨の」を削除し、spanも「けん制死」に修正しました。",
-          "issueをテキストの内容により即した「大谷選手らの走塁ミスは問題視されているか？」に変更しました。",
-          "issueの変更に伴い、stasisを「評価（合意）」に変更しました（テキストに反対意見がないため）。",
-          "positions[0].premisesに、監督の苦言の根拠となる事実（facts[0]とfacts[1]）を追加しました。"
+          "span の最小核: facts[5].span が空だったため、元テキストから適切なスパン 'authorities described as &#039;an unknown explosive device&#039;' を抽出しました。",
+          "fact spanが原文に無い→除去「described as 'an u…」"
         ]
       }
     }
