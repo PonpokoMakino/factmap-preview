@@ -1,10 +1,136 @@
 {
-  "builtAt": "2026-08-05T16:19:37.015Z",
+  "builtAt": "2026-08-05T22:00:16.067Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "高校野球 第1試合 仙台育英が札幌日大に勝利 2回戦へ",
-      "slug": "高校野球第1試合仙台育英が札幌日大に勝利2回戦へ",
+      "headline": "台風13号 沖縄・奄美接近へ 影響長引くおそれ 厳重警戒を",
+      "slug": "台風13号沖縄奄美接近へ影響長引くおそれ厳重警戒",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015197571000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015197581000"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590676?source=rss"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805191347_0_VXSE53_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805184611_0_VXSE53_270000.xml"
+        }
+      ],
+      "issue": "",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "熊本県で先月、震度7の揺れを観測する地震が発生し、大きな被害があった。",
+          "span": "震度7の揺れを観測した地震で大きな被害のあった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本県では6日も気温が上がり、危険な暑さとなる見込みである。",
+          "span": "6日も気温が上がって危険な暑さとなるところもある見込みで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "大型で強い台風13号は、6日から8日にかけて沖縄・奄美に近づく見込みである。",
+          "span": "大型で強い台風13号は、6日から8日にかけて沖縄・奄美に近づく見込みで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "沖縄・奄美では6日から風が強まり、波も高くなる見込みである。",
+          "span": "沖縄・奄美では6日から風が強まり、波も高くなる見込みです",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "週末にかけて、台風13号による風や雨などの影響が長引くおそれがある。",
+          "span": "週末にかけて風や雨などの影響が長引くおそれがあり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風13号は明日、沖縄に最接近する。",
+          "span": "台風13号あす沖縄に最接近",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "6日04時10分ごろ、地震が発生した。",
+          "span": "６日０４時１０分ころ、地震がありました。",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "6日03時43分ごろ、地震が発生した。",
+          "span": "６日０３時４３分ころ、地震がありました。",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "熊本県では熱中症対策、沖縄・奄美では台風13号への警戒が呼びかけられており、複数の地震も観測されている。本件は事実の報告と注意喚起であり、特定の争点に対する評価の対立は見られない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点が存在しないため、`issue`を空にし、`positions`を空配列にしました。",
+          "`positions[0]`（熱中症対策）の`premises`から、直接の根拠ではない`facts[0]`（地震被害）を削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "広島 原爆投下から81年 核兵器の廃絶を国内外に訴え",
+      "slug": "広島原爆投下から81年核兵器の廃絶を国内外に訴え",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,23 +140,27 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015197431000"
+          "link": "https://news.web.nhk/newsweb/na/na-k10015197471000"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015197691000"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590662?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6590674?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080501140&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026080500601&g=soc&m=rss"
         }
       ],
-      "issue": "夏の全国高校野球の開幕戦と女性審判の活動状況はどのようなものか？",
-      "stasis": "事実",
+      "issue": "広島は、原爆投下81年に際し、核兵器廃絶についてどのような訴えを行ったか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "夏の全国高校野球が甲子園球場で開幕した。",
-          "span": "夏の全国高校野球が甲子園球場で開幕し",
+          "t": "広島への原爆投下から81年が経過した。",
+          "span": "原爆が投下されて81年",
           "src": [
             {
               "ty": "press",
@@ -39,38 +169,8 @@
           ]
         },
         {
-          "t": "開会式直後の第1試合が行われた。",
-          "span": "開会式直後の第1試合は",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "宮城の仙台育英高校が南北海道の札幌日大高校に3対1で勝利した。",
-          "span": "宮城の仙台育英高校が南北海道の札幌日大高校に3対1で勝って",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "仙台育英高校は2回戦に進んだ。",
-          "span": "2回戦に進みました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "女性審判が高校野球で初のジャッジを行った。",
-          "span": "女性審判が初ジャッジ",
+          "t": "8月6日は広島の「原爆の日」である。",
+          "span": "広島原爆の日",
           "src": [
             {
               "ty": "press",
@@ -79,103 +179,46 @@
           ]
         },
         {
-          "t": "甲子園出場の女性審判が試合後に涙を流した。",
-          "span": "試合後に涙",
+          "t": "世界的に核による脅しや核抑止力強化の動きが存在する。",
+          "span": "核による脅しや核抑止力を強化しようとする動きがみられる",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "Yahoo!ニュース 主要は、核リスクが高まっていると報じている。",
+          "span": "核リスク高まる",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
-        }
-      ],
-      "positions": [],
-      "consensus": "夏の全国高校野球の開幕戦の結果と女性審判の活動について、記事は客観的な事実を報じており、評価や意見の対立は見られない。",
-      "note": "記事は客観的な事実のみを報じており、特定の立場や意見の表明がないため、positionsは空配列です。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-      "slug": "Leftwingpoliticaloutside",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080500801&g=int&m=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "アブドゥル・エル＝サイード氏のミシガン州民主党予備選での勝利はどのような特徴を持つか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "アブドゥル・エル＝サイード氏がミシガン州の民主党上院予備選で勝利した。",
-          "span": "wins Democratic Senate primary in Michigan",
+          "t": "広島市の平和公園で被爆者や遺族が祈りをささげた。",
+          "span": "",
           "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            },
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "エル＝サイード氏は急進左派の政治的アウトサイダーである。",
-          "span": "Left-wing political outsider",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "エル＝サイード氏はエジプト系移民の息子である。",
-          "span": "the son of Egyptian immigrants",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "11月の本選挙で当選すれば、彼は米国初のムスリム上院議員となる。",
-          "span": "would be the first Muslim US senator if elected in November",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "アブドゥル・エル＝サイード氏がミシガン州民主党上院予備選で勝利したこと、彼が急進左派の政治的アウトサイダーでありエジプト系移民の息子であること、そして当選すれば初のムスリム上院議員となる可能性は、記事中で合意された事実である。時事ドットコムは、この勝利が急進左派の躍進と勢いの鮮明化を示していると報じている。",
-      "note": "本記事は主に事実の報道であり、複数の立場による評価や解釈の対立は記述されていない。時事ドットコムのヘッドラインには、勝利の意義に関する解釈が含まれる。",
+      "consensus": "広島への原爆投下から81年が経過し、犠牲者の追悼が行われるとともに、被爆地・広島は核兵器廃絶を国内外に訴えている。現在の国際情勢において核による脅しや核抑止力強化の動きが見られ、核リスクが高まっているという認識がある。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "事実欄 (facts[4]) に含まれていた記者の解釈（「〜を示している」）を、発言主体（時事ドットコム）を明記した上でpositionsへ移動し、メタ記述（「〜と報じている」）に修正しました。",
-          "positionsに項目が追加されたため、issueを「意義」を問うものから、より事実記述に即した「特徴」を問うものに修正しました。",
-          "positionsに項目が追加されたため、consensusとnoteの記述を更新し、現状をより正確に反映させました。"
+          "事実欄への評価混入: facts[3].t が評価を含んでいたため、「Yahoo!ニュース 主要は、核リスクが高まっていると報じている。」と、報道内容を記述する形に修正しました。",
+          "メタ記述の徹底: positions[0].claim が地の文の断定になっていたため、「〜と報じられている。」の構造に修正しました。",
+          "span の最小核: facts[0].span を「原爆が投下されて81年」に、facts[4].span を「被爆者や遺族が祈りをささげる」に、positions[0].span を「核兵器の廃絶を改めて国内外に訴えます」に、それぞれ述部の最小句に削りました。",
+          "争点の立て方: issue が賛否の割れる問いではなかったため、テキストの内容を反映した中立的な記述的質問「広島は、原爆投下81年に際し、核兵器廃絶についてどのような訴えを行ったか？」に修正しました。"
         ]
       }
     },
@@ -233,8 +276,8 @@
       }
     },
     {
-      "headline": "Germany investigates explosive device attached to drone at Leipzig airport",
-      "slug": "Germanyinvestigatesexplo",
+      "headline": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
+      "slug": "USannouncesmorethan100mi",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -243,19 +286,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/5/germany-investigates-explosive-device-attached-to-drone-at-leipzig-airport?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/05-08-sv-hasina-returns-bangladesh-bn?traffic_source=rss"
         }
       ],
-      "issue": "ドイツの空港で爆発物を搭載したドローンが発見され、空中衝突が発生した事件の詳細は何か？",
+      "issue": "シェイク・ハシナ元首相はバングラデシュに帰国するのか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ドイツの空港で爆発物を搭載したドローンが発見された。",
-          "span": "Drone carrying explosives found",
+          "t": "シェイク・ハシナ氏は78歳である。",
+          "span": "The 78-year-old",
           "src": [
             {
               "ty": "press",
@@ -264,8 +311,8 @@
           ]
         },
         {
-          "t": "そのドローンはウクライナの貨物機の近くで発見された。",
-          "span": "found near Ukrainian cargo planes",
+          "t": "彼女は2024年の蜂起に対する弾圧における人道に対する罪で有罪判決を受けている。",
+          "span": "has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising",
           "src": [
             {
               "ty": "press",
@@ -274,18 +321,8 @@
           ]
         },
         {
-          "t": "別の物体が貨物機と空中衝突した。",
-          "span": "collided with a cargo aircraft in mid-air",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ドイツ当局はライプツィヒ空港でドローンに取り付けられた爆発装置を調査している。",
-          "span": "Germany investigates explosive device attached to drone at Leipzig airport",
+          "t": "米国は8人のハリスコ・カルテル幹部に対し、1億ドル以上の報奨金を発表した。",
+          "span": "announces more than $100m in rewards for eight Jalisco cartel leaders",
           "src": [
             {
               "ty": "press",
@@ -294,8 +331,8 @@
           ]
         },
         {
-          "t": "空港職員がその物体を発見した。",
-          "span": "spotted the object",
+          "t": "トランプ政権は、報奨金を増額することで、著名なメキシコ・カルテルの指導部を弱体化させようとした。",
+          "span": "The Trump administration has sought to weaken the leadership of high-profile Mexican cartels by increasing the bounties",
           "src": [
             {
               "ty": "press",
@@ -304,8 +341,8 @@
           ]
         },
         {
-          "t": "当局はその装置を「未知の爆発物」と表現した。",
-          "span": "authorities described as &#039;an unknown explosive device&#039;",
+          "t": "シェイク・ハシナ氏はバングラデシュの元首相である。",
+          "span": "Deposed Bangladesh Prime Minister Sheikh Hasina",
           "src": [
             {
               "ty": "press",
@@ -315,13 +352,13 @@
         }
       ],
       "positions": [],
-      "consensus": "ドイツのライプツィヒ空港で爆発物を搭載したドローンが発見され、ウクライナの貨物機の近くで見つかった。また、別の物体が貨物機と空中衝突した。当局はこれを「未知の爆発物」と表現し、現在調査中である。",
+      "consensus": "シェイク・ハシナ元首相が12月にバングラデシュに帰国する意向を示しているが、過去の有罪判決を巡る評価は割れる。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "span の最小核: facts[5].span が空だったため、元テキストから適切なスパン 'authorities described as &#039;an unknown explosive device&#039;' を抽出しました。",
-          "fact spanが原文に無い→除去「described as 'an u…」"
+          "争点の立て方: issueがテキスト内の対立を反映していなかったため、より記述的な問いに修正した。",
+          "stasis: issueの変更に伴い、stasisを「政策」から「事実」に修正した。"
         ]
       }
     }
