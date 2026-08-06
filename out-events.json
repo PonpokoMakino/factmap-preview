@@ -1,22 +1,22 @@
 {
-  "rankedAt": "2026-08-05T23:15:39.220Z",
+  "rankedAt": "2026-08-06T00:12:44.593Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風13号 沖縄・奄美接近へ 影響長引くおそれ 厳重警戒を",
       "slug": "台風13号沖縄奄美接近へ影響長引くおそれ厳重警戒",
-      "time": "2026-08-05T23:10:00.000Z",
+      "time": "2026-08-06T00:10:43.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "気象庁 地震・火山"
       ],
-      "count": 4,
-      "hasPrimary": false,
+      "count": 8,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "【地震速報】長崎 熊本 鹿児島で震度4 津波の心配なし",
-          "snippet": "６日午前７時５９分ごろ地震がありました。この地震による津波の心配はありません。震源地は熊本県天草・芦北地方で震源の深さは１０キロ、地震の規模を示すマグニチュードは５．１と推定されます。",
+          "title": "【地震速報】熊本 長崎 鹿児島で震度4 津波の心配なし",
+          "snippet": "6日午前7時59分ごろ、熊本県と長崎県、鹿児島県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015195511000",
           "ty": "press",
@@ -32,55 +32,117 @@
         },
         {
           "title": "台風13号 沖縄・奄美接近へ 影響長引くおそれ 厳重警戒を",
-          "snippet": "大型で強い台風13号は、6日から8日にかけて沖縄・奄美に近づく見込みで、沖縄・奄美では6日から風が強まり、波も高くなる見込みです。週末にかけて風や雨などの影響が長引くおそれがあり、厳重な警戒が必要です…",
+          "snippet": "大型で強い台風13号は、沖縄から九州南部を強風域に巻き込みながら西寄りに進んでいて、沖縄・奄美を中心に6日から風が強まり、波も高くなる見込みです。週末にかけて風や雨などの影響が長引くおそれがあり、厳重…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015197581000",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "熊本県などで震度4 津波心配なし",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590688?source=rss",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　６日０８時１９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805232251_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　６日０７時５９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805230339_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震度速報",
+          "snippet": "【震度速報】　６日０７時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805230300_0_VXSE51_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震度速報",
+          "snippet": "【震度速報】　６日０７時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805230200_0_VXSE51_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震度速報",
+          "snippet": "【震度速報】　６日０７時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805230100_0_VXSE51_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
+      "slug": "USannouncesmorethan100mi",
+      "time": "2026-08-05T23:34:47.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
+          "snippet": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Nigeria announces rescue of 308 kidnapped citizens",
+          "snippet": "Kidnapping for ransom by armed groups and bandits has become a major crisis in Nigeria.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/5/nigeria-announces-rescue-of-308-kidnapped-citizens?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
+          "snippet": "The Trump administration has sought to weaken the leadership of high-profile Mexican cartels by increasing the bounties.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "広島 原爆投下から81年 核兵器の廃絶を国内外に訴え",
-      "slug": "広島原爆投下から81年核兵器の廃絶を国内外に訴え",
-      "time": "2026-08-05T22:48:56.000Z",
+      "headline": "ドジャース 大谷 今季初1試合2本のホームラン チームは6連敗",
+      "slug": "ドジャス大谷今季初1試合2本のホムランチムは6連",
+      "time": "2026-08-05T23:26:56.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要"
       ],
-      "count": 3,
+      "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "広島 原爆投下から81年 核兵器の廃絶を国内外に訴え",
-          "snippet": "広島に原爆が投下されて6日で81年です。世界で核による脅しや核抑止力を強化しようとする動きがみられる中、被爆地・広島は犠牲者を追悼するとともに、核兵器の廃絶を改めて国内外に訴えます。",
+          "title": "ドジャース 大谷 今季初1試合2本のホームラン チームは6連敗",
+          "snippet": "大リーグ、ドジャースの大谷翔平選手はカブス戦で今シーズン初めてとなる1試合2本のホームランを打ちました。しかし、チームは敗れ、今シーズンワーストの6連敗です。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015197471000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015197681000",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "広島「原爆の日」の朝  被爆者や遺族が祈りささげる",
-          "snippet": "広島に原爆が投下されて81年の朝、広島市の平和公園では被爆者や遺族など多くの人が祈りをささげています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015197691000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "中継 「原爆の日」広島で平和式典",
+          "title": "大谷が25号&26号も ド軍は6連敗",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590645?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590675?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -111,66 +173,6 @@
           "snippet": "Infantino has faced leadership crisis as UEFA, AFC and Concacaf threaten drastic actions over commercial rights plan.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/5/fifa-pledges-to-defend-infantino-after-world-cup-rights-plan-collapses?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
-      "slug": "USannouncesmorethan100mi",
-      "time": "2026-08-05T21:07:03.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Ex-leader Hasina gambles on return to Bangladesh despite death penalty",
-          "snippet": "The 78-year-old has been convicted of crimes against humanity over a deadly crackdown on a 2024 uprising.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvg9j8820v6o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US announces more than $100m in rewards for eight Jalisco cartel leaders",
-          "snippet": "The Trump administration has sought to weaken the leadership of high-profile Mexican cartels by increasing the bounties.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/5/us-announces-more-than-100m-in-rewards-for-eight-jalisco-cartel-leaders?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
-      "slug": "IransaysHormuztalkswithO",
-      "time": "2026-08-05T21:21:51.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
-          "snippet": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Iran says Hormuz talks with Oman in ‘final’ stages as route approved",
-          "snippet": "The geographical coordinates of the route in the waterway have been agreed upon with Oman, according to Tehran.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -214,9 +216,125 @@
       ]
     },
     {
-      "headline": "ドジャース 大谷 カブス戦で25号ソロ 26号ツーランホームラン",
-      "slug": "ドジャス大谷カブス戦で25号ソロ26号ツランホム",
-      "time": "2026-08-05T21:25:14.000Z",
+      "headline": "広島 原爆投下から81年 核兵器の廃絶を国内外に訴え",
+      "slug": "広島原爆投下から81年核兵器の廃絶を国内外に訴え",
+      "time": "2026-08-05T22:30:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "広島 原爆投下から81年 核兵器の廃絶を国内外に訴え",
+          "snippet": "広島に原爆が投下されて6日で81年です。世界で核による脅しや核抑止力を強化しようとする動きがみられる中、被爆地・広島は犠牲者を追悼するとともに、核兵器の廃絶を改めて国内外に訴えます。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015197471000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "広島「原爆の日」の朝  被爆者や遺族が祈りささげる",
+          "snippet": "広島に原爆が投下されて81年の朝、広島市の平和公園では被爆者や遺族など多くの人が祈りをささげています。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015197691000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-05T22:55:44.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮崎県気象警報・注意報】宮崎県では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805225545_0_VPWW54_450000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮崎県気象警報・注意報】宮崎県では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805225545_0_VPWW53_450000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-05T22:52:22.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【愛媛県気象警報・注意報】南予では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805225223_0_VPWW54_380000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【愛媛県気象警報・注意報】南予では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805225223_0_VPWW53_380000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-05T23:43:41.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805234342_0_VPTW60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805224107_0_VPTW60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "独の空港で爆発物搭載したドローン ロシア関与か 独政府が示唆",
+      "slug": "独の空港で爆発物搭載したドロンロシア関与か独政府",
+      "time": "2026-08-05T23:43:58.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -225,40 +343,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ドジャース 大谷 カブス戦で25号ソロ 26号ツーランホームラン",
-          "snippet": "大リーグ、ドジャースの大谷翔平選手が5日のカブス戦に1番・指名打者で先発出場し、今永昇太投手から打った1回の第1打席の25号ソロホームランに続き、8回の第5打席で26号ツーランホームランを打ちました。…",
+          "title": "独の空港で爆発物搭載したドローン ロシア関与か 独政府が示唆",
+          "snippet": "ドイツ東部の空港の滑走路付近で爆発物を搭載したドローンが見つかり、ドイツ政府は、ロシアが関与している可能性を示唆しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015197681000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015197711000",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "消費税減税の基本方針決定 秋に法案提出し成立目指す 政府与党",
-      "slug": "消費税減税の基本方針決定秋に法案提出し成立目指す",
-      "time": "2026-08-05T20:37:10.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "消費税減税の基本方針決定 秋に法案提出し成立目指す 政府与党",
-          "snippet": "食料品の消費税減税をめぐり、政府は来年4月から2年間、1％に引き下げるなどとした基本方針を5日に決定しました。政府・与党はことし秋に想定される臨時国会に必要な法案を提出し、成立を目指すことにしています…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015197551000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "消費減税1% 外食に「割高感」も",
-      "slug": "消費減税1外食に割高感も",
-      "time": "2026-08-05T21:59:07.000Z",
+      "headline": "平和祈念式 広島市長の宣言全文",
+      "slug": "平和祈念式広島市長の宣言全文",
+      "time": "2026-08-05T23:59:30.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -267,10 +364,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "消費減税1% 外食に「割高感」も",
+          "title": "平和祈念式 広島市長の宣言全文",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590677?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590690?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "イラン トランプ氏に攻撃自制促す",
+      "slug": "イラントランプ氏に攻撃自制促す",
+      "time": "2026-08-05T23:19:37.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "イラン トランプ氏に攻撃自制促す",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590683?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "消費減税 日本の社会保障は岐路に",
+      "slug": "消費減税日本の社会保障は岐路に",
+      "time": "2026-08-05T23:35:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "消費減税 日本の社会保障は岐路に",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590685?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -292,27 +431,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6590680?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "スペースXロケット残骸 月衝突か",
-      "slug": "スペスXロケット残骸月衝突か",
-      "time": "2026-08-05T14:16:27.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "スペースXロケット残骸 月衝突か",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590670?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -361,9 +479,9 @@
       ]
     },
     {
-      "headline": "大谷が25号&26号も ド軍は6連敗",
-      "slug": "大谷が25号26号もド軍は6連敗",
-      "time": "2026-08-05T21:35:28.000Z",
+      "headline": "FIFA会長が留任「心から謝罪」",
+      "slug": "FIFA会長が留任心から謝罪",
+      "time": "2026-08-05T23:56:04.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -372,10 +490,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "大谷が25号&26号も ド軍は6連敗",
+          "title": "FIFA会長が留任「心から謝罪」",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590675?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590691?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -403,9 +521,9 @@
       ]
     },
     {
-      "headline": "ＮＹ円、１５７円台後半",
-      "slug": "円円台後半",
-      "time": "2026-08-05T21:53:00.000Z",
+      "headline": "元ジャンポケ斉藤被告に懲役７年求刑　判決は１１月、ロケバス性的暴行―東京地裁",
+      "slug": "元ジャンポケ斉藤被告に懲役年求刑判決は月ロケバス",
+      "time": "2026-08-05T09:47:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -414,52 +532,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ＮＹ円、１５７円台後半",
+          "title": "元ジャンポケ斉藤被告に懲役７年求刑　判決は１１月、ロケバス性的暴行―東京地裁",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080600179&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "バングラデシュのハシナ前首相「母国を正しい道に」　インドで初の公の場",
-      "slug": "バングラデシュのハシナ前首相母国を正しい道にイン",
-      "time": "2026-08-05T21:17:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "バングラデシュのハシナ前首相「母国を正しい道に」　インドで初の公の場",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080600154&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「健康的な食事不可能に」　栄養価の高い食品、５年間に２５％上昇　国連機関",
-      "slug": "健康的な食事不可能に栄養価の高い食品年間に上昇国",
-      "time": "2026-08-05T10:15:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「健康的な食事不可能に」　栄養価の高い食品、５年間に２５％上昇　国連機関",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080500971&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080500643&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -487,9 +563,9 @@
       ]
     },
     {
-      "headline": "被爆米兵調査「遺志継ぐ」　故森重昭さんの妻佳代子さん―「国境なき悲劇」二人三脚で発信・広島",
-      "slug": "被爆米兵調査遺志継ぐ故森重昭さんの妻佳代子さん国",
-      "time": "2026-08-05T22:05:00.000Z",
+      "headline": "豪ジェットスター、荷物棚を全面有料化　成田便往復１万円超、来年２月から",
+      "slug": "豪ジェットスタ荷物棚を全面有料化成田便往復万円超",
+      "time": "2026-08-05T05:09:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -498,10 +574,73 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "被爆米兵調査「遺志継ぐ」　故森重昭さんの妻佳代子さん―「国境なき悲劇」二人三脚で発信・広島",
+          "title": "豪ジェットスター、荷物棚を全面有料化　成田便往復１万円超、来年２月から",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080500622&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080500578&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "６日、広島原爆の日　８１回目、核廃絶へ政策転換促す",
+      "slug": "日広島原爆の日回目核廃絶へ政策転換促す",
+      "time": "2026-08-05T15:05:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "６日、広島原爆の日　８１回目、核廃絶へ政策転換促す",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080500601&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ドローン企業社長、車爆破で重傷　ロシア中部、暗殺未遂か",
+      "slug": "ドロン企業社長車爆破で重傷ロシア中部暗殺未遂か",
+      "time": "2026-08-05T22:41:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ドローン企業社長、車爆破で重傷　ロシア中部、暗殺未遂か",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080600208&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ドジャース大谷翔平、今季初の２発　カブス今永昇太は８勝目―ＭＬＢ",
+      "slug": "ドジャス大谷翔平今季初の発カブス今永昇太は勝目",
+      "time": "2026-08-05T23:08:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ドジャース大谷翔平、今季初の２発　カブス今永昇太は８勝目―ＭＬＢ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080600226&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -529,9 +668,9 @@
       ]
     },
     {
-      "headline": "ＮＹ株、３日連続で最高値　中東の緊張緩和期待で",
-      "slug": "株日連続で最高値中東の緊張緩和期待で",
-      "time": "2026-08-05T21:22:00.000Z",
+      "headline": "「健康的な食事不可能に」　栄養価の高い食品、５年間に２５％上昇　国連機関",
+      "slug": "健康的な食事不可能に栄養価の高い食品年間に上昇国",
+      "time": "2026-08-05T10:15:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -540,19 +679,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ＮＹ株、３日連続で最高値　中東の緊張緩和期待で",
+          "title": "「健康的な食事不可能に」　栄養価の高い食品、５年間に２５％上昇　国連機関",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080600127&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080500971&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "元ジャンポケ斉藤被告に懲役７年求刑　判決は１１月、ロケバス性的暴行―東京地裁",
-      "slug": "元ジャンポケ斉藤被告に懲役年求刑判決は月ロケバス",
-      "time": "2026-08-05T09:47:00.000Z",
+      "headline": "夏の風物詩に暗い影　笛で警戒、河川に忌避剤も―クマ対策入念・東北三大祭り",
+      "slug": "夏の風物詩に暗い影笛で警戒河川に忌避剤もクマ対策",
+      "time": "2026-08-05T22:07:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -561,31 +700,220 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "元ジャンポケ斉藤被告に懲役７年求刑　判決は１１月、ロケバス性的暴行―東京地裁",
+          "title": "夏の風物詩に暗い影　笛で警戒、河川に忌避剤も―クマ対策入念・東北三大祭り",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080500643&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080500591&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "ウェザーニューズ、天気アプリを全世界配信　５７言語に対応",
-      "slug": "ウェザニュズ天気アプリを全世界配信言語に対応",
-      "time": "2026-08-05T21:05:00.000Z",
+      "headline": "震源に関する情報",
+      "slug": "震源に関する情報",
+      "time": "2026-08-05T23:02:28.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう　６日０７時５９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805230228_0_VXSE52_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-05T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、６日０９時から１２時までは火口から西方向、６日２１時から２４時までは火口から西方向に降灰",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805230055_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-05T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、６日０９時から１２時までは火口から南西方向、６日２１時から２４時までは火口から南西方向に降灰が予想されます",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805230048_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-05T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、６日０９時から１２時までは火口から南西方向、６日２１時から２４時までは火口から南西方向に降灰が予想されます",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805230051_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-05T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、６日０９時から１２時までは火口から南西方向、６日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805230045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（波浪）",
+      "slug": "気象警報注意報波浪",
+      "time": "2026-08-05T22:55:32.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（波浪）",
+          "snippet": "【宮崎県波浪警報・注意報】南部平野部、北部平野部では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805225533_0_VPWW59_450000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-05T22:55:32.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【宮崎県雷注意報】宮崎県では、急な強い雨や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805225533_0_VPWW61_450000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（波浪）",
+      "slug": "気象警報注意報波浪",
+      "time": "2026-08-05T22:52:12.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（波浪）",
+          "snippet": "【愛媛県波浪警報・注意報】南予では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805225213_0_VPWW59_380000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-05T22:21:13.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【山梨県気象警報・注意報】山梨県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260805222115_0_VPWW53_190000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+      "slug": "IransaysithasagreedStrai",
+      "time": "2026-08-05T21:21:51.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "ウェザーニューズ、天気アプリを全世界配信　５７言語に対応",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080600150&g=int&m=rss",
+          "title": "Iran says it has agreed Strait of Hormuz shipping route with Oman",
+          "snippet": "A foreign ministry spokesman did not give details but said an agreement with the Gulf nation was \"in the final stages\".",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
