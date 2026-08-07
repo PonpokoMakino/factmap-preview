@@ -1,17 +1,17 @@
 {
-  "rankedAt": "2026-08-07T18:22:47.523Z",
+  "rankedAt": "2026-08-07T19:29:05.209Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "大型で非常に強い台風13号 暴風や土砂災害など厳重警戒",
-      "slug": "大型で非常に強い台風13号暴風や土砂災害など厳重",
-      "time": "2026-08-07T18:20:30.000Z",
+      "headline": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
+      "slug": "台風影響7日は約470便が欠航8日も320便余が",
+      "time": "2026-08-07T19:23:57.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 3,
+      "count": 12,
       "hasPrimary": true,
       "members": [
         {
@@ -23,18 +23,90 @@
           "linkKind": "article"
         },
         {
+          "title": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
+          "snippet": "国内の主な航空会社によりますと、台風の影響で7日は沖縄県や鹿児島県の空港を発着する便を中心に、およそ470便が欠航となりました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015199401000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】北部では、土砂災害や低い土地の浸水に注意してください。長野県では、落雷に注意してください。",
+          "snippet": "【鹿児島県（奄美地方を除く）気象警報・注意報】種子島・屋久島地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807182031_0_VPWW54_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807192358_0_VPWW54_460100.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】北部では、土砂災害や低い土地の浸水に注意してください。長野県では、落雷に注意してください。",
+          "snippet": "【鹿児島県（奄美地方を除く）気象警報・注意報】種子島・屋久島地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807182031_0_VPWW53_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807192358_0_VPWW53_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（暴風）",
+          "snippet": "【鹿児島県（奄美地方を除く）暴風（雪）警報・注意報】薩摩、大隅、種子島・屋久島地方では、強風に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807192348_0_VPWW58_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（波浪）",
+          "snippet": "【鹿児島県（奄美地方を除く）波浪警報・注意報】種子島・屋久島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807192348_0_VPWW59_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "竜巻注意情報",
+          "snippet": "【奄美地方（鹿児島県）気象防災速報（竜巻注意）】奄美地方は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807192258_0_VPHW50_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "竜巻注意情報（目撃情報付き）",
+          "snippet": "【奄美地方（鹿児島県）気象防災速報（竜巻注意）】奄美地方は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807192259_0_VPHW51_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】〈危険警報（土砂災害）〉奄美地方では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807191825_0_VPWW54_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】〈危険警報（土砂災害）〉奄美地方では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807191825_0_VPWW53_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（暴風）",
+          "snippet": "【奄美地方（鹿児島県）暴風（雪）警報・注意報】奄美地方では、暴風に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807191819_0_VPWW58_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（波浪）",
+          "snippet": "【奄美地方（鹿児島県）波浪警報・注意報】奄美地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807191819_0_VPWW59_460040.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -117,39 +189,9 @@
       ]
     },
     {
-      "headline": "国税不祥事、「前例ない事態次々」に危機感　「パパ活」、情報漏えいも",
-      "slug": "国税不祥事前例ない事態次に危機感パパ活情報漏えい",
-      "time": "2026-08-07T12:34:50.000Z",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "国税不祥事 前例ない事態に危機感",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590905?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "国税不祥事、「前例ない事態次々」に危機感　「パパ活」、情報漏えいも",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700626&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
       "slug": "Spainthreatensretaliatio",
-      "time": "2026-08-07T16:33:50.000Z",
+      "time": "2026-08-07T18:56:33.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -177,9 +219,9 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-07T17:00:00.000Z",
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-07T18:45:23.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -188,128 +230,20 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、８日０９時から１２時までは火口から西方向に降灰が予想されます。",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　８日０３時４１分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807170052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807184523_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、８日０９時から１２時までは火口から西方向に降灰が予想されます。",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　８日０３時２２分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807140052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807182520_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-07T18:19:31.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【釧路・根室地方気象警報・注意報】釧路・根室地方では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807181932_0_VPWW54_014100.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【釧路・根室地方気象警報・注意報】釧路・根室地方では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807181932_0_VPWW53_014100.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-07T18:19:16.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【富山県気象警報・注意報】西部では、低い土地の浸水に注意してください。富山県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807181917_0_VPWW54_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【富山県気象警報・注意報】西部では、低い土地の浸水に注意してください。富山県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807181917_0_VPWW53_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-07T18:18:02.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【新潟県気象警報・注意報】中越では、低い土地の浸水に注意してください。下越、中越、上越では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807181803_0_VPWW53_150000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【新潟県気象警報・注意報】中越では、低い土地の浸水に注意してください。下越、中越、上越では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807181803_0_VPWW54_150000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
-      "slug": "台風影響7日は約470便が欠航8日も320便余が",
-      "time": "2026-08-07T08:41:43.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
-          "snippet": "国内の主な航空会社によりますと、台風の影響で7日は沖縄県や鹿児島県の空港を発着する便を中心に、およそ470便が欠航となりました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199401000",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
@@ -377,9 +311,9 @@
       ]
     },
     {
-      "headline": "米就業者 市場予想に反し減少 利上げ観測後退で円高ドル安進む",
-      "slug": "米就業者市場予想に反し減少利上げ観測後退で円高ド",
-      "time": "2026-08-07T14:53:24.000Z",
+      "headline": "台湾軍 中国による侵攻を想定した大規模演習を公開",
+      "slug": "台湾軍中国による侵攻を想定した大規模演習を公開",
+      "time": "2026-08-07T16:02:44.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -388,19 +322,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "米就業者 市場予想に反し減少 利上げ観測後退で円高ドル安進む",
-          "snippet": "円相場や株価に影響を及ぼすアメリカの雇用統計が発表され、7月の農業分野以外の就業者は減少に転じ、市場の予想を大幅に下回りました。アメリカのFRB＝連邦準備制度理事会が早期に利上げに踏み切るという観測が…",
+          "title": "台湾軍 中国による侵攻を想定した大規模演習を公開",
+          "snippet": "台湾で、中国による侵攻に備えて、年に一度の大規模な軍事演習が行われ、兵士らが実戦を想定して対応を確認しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199701000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015199791000",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "悠仁さま ボーイスカウト大会でテントを設営",
-      "slug": "悠仁さまボイスカウト大会でテントを設営",
-      "time": "2026-08-07T11:11:41.000Z",
+      "headline": "韓国調査船が竹島周辺EEZ内で海洋調査か 日本政府が抗議",
+      "slug": "韓国調査船が竹島周辺EEZ内で海洋調査か日本政府",
+      "time": "2026-08-07T16:43:08.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -409,10 +343,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "悠仁さま ボーイスカウト大会でテントを設営",
-          "snippet": "秋篠宮ご夫妻の長男の悠仁さまは、広島県で行われている国内最大級のボーイスカウトのキャンプ大会に参加し、自身が泊まるテントを設営されました。",
+          "title": "韓国調査船が竹島周辺EEZ内で海洋調査か 日本政府が抗議",
+          "snippet": "島根県の竹島西方の日本の排他的経済水域内で、韓国の調査船が日本側の同意を得ずに海洋調査とみられる活動を行っていることが確認され、政府は外交ルートを通じて韓国側に強く抗議しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199491000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015199831000",
           "ty": "press",
           "linkKind": "article"
         }
@@ -434,6 +368,27 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6590888?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "国税不祥事 前例ない事態に危機感",
+      "slug": "国税不祥事前例ない事態に危機感",
+      "time": "2026-08-07T12:34:50.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "国税不祥事 前例ない事態に危機感",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590905?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -566,6 +521,27 @@
       ]
     },
     {
+      "headline": "調査資産家から多額現金、競艇に　２０代税務署員、脱税容疑も―「実家仕送り」うそ、免職・国税当局",
+      "slug": "調査資産家から多額現金競艇に代税務署員脱税容疑も",
+      "time": "2026-08-07T07:43:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "調査資産家から多額現金、競艇に　２０代税務署員、脱税容疑も―「実家仕送り」うそ、免職・国税当局",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
       "slug": "ドイツ月熱波で人死亡冷房普及せず備え不足",
       "time": "2026-08-06T09:43:00.000Z",
@@ -587,6 +563,48 @@
       ]
     },
     {
+      "headline": "火葬料高騰、国・都で連携　高市・小池氏が確認",
+      "slug": "火葬料高騰国都で連携高市小池氏が確認",
+      "time": "2026-08-07T11:03:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "火葬料高騰、国・都で連携　高市・小池氏が確認",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080701051&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
+      "slug": "サウジなどカ国共同防衛協定イスラム版指摘も",
+      "time": "2026-08-07T13:32:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "民間への人材流出に危機感　給与増や転居手当で配慮―人事院勧告",
       "slug": "民間への人材流出に危機感給与増や転居手当で配慮人",
       "time": "2026-08-07T12:05:00.000Z",
@@ -602,27 +620,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026080700652&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "調査資産家から多額現金、競艇に　２０代税務署員、脱税容疑も―「実家仕送り」うそ、免職・国税当局",
-      "slug": "調査資産家から多額現金競艇に代税務署員脱税容疑も",
-      "time": "2026-08-07T07:43:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "調査資産家から多額現金、競艇に　２０代税務署員、脱税容疑も―「実家仕送り」うそ、免職・国税当局",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -671,9 +668,9 @@
       ]
     },
     {
-      "headline": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
-      "slug": "サウジなどカ国共同防衛協定イスラム版指摘も",
-      "time": "2026-08-07T13:32:00.000Z",
+      "headline": "「主犯格」川口被告に無期懲役　江別集団暴行死―札幌地裁",
+      "slug": "主犯格川口被告に無期懲役江別集団暴行死札幌地裁",
+      "time": "2026-08-07T09:18:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -682,19 +679,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
+          "title": "「主犯格」川口被告に無期懲役　江別集団暴行死―札幌地裁",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080700654&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "火葬料高騰、国・都で連携　高市・小池氏が確認",
-      "slug": "火葬料高騰国都で連携高市小池氏が確認",
-      "time": "2026-08-07T11:03:00.000Z",
+      "headline": "脳腫瘍手術で誤部位摘出　５０代患者に重い障害―京大",
+      "slug": "脳腫瘍手術で誤部位摘出代患者に重い障害京大",
+      "time": "2026-08-07T10:26:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -703,10 +700,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "火葬料高騰、国・都で連携　高市・小池氏が確認",
+          "title": "脳腫瘍手術で誤部位摘出　５０代患者に重い障害―京大",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701051&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080701018&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -734,23 +731,44 @@
       ]
     },
     {
-      "headline": "大阪市「４区」に再編案決定　財政安定性を重視―都構想",
-      "slug": "大阪市区に再編案決定財政安定性を重視都構想",
-      "time": "2026-08-07T09:47:00.000Z",
+      "headline": "震源に関する情報",
+      "slug": "震源に関する情報",
+      "time": "2026-08-07T18:43:52.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "気象庁 地震・火山"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "大阪市「４区」に再編案決定　財政安定性を重視―都構想",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700987&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう　８日０３時４１分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807184352_0_VXSE52_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "震度速報",
+      "slug": "震度速報",
+      "time": "2026-08-07T18:43:05.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "震度速報",
+          "snippet": "【震度速報】　８日０３時４１分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807184307_0_VXSE51_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -830,6 +848,27 @@
       "members": [
         {
           "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、８日０９時から１２時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807170052_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-07T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
           "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、８日０９時から１２時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260807170056_0_VFVO53_010000.xml",
@@ -854,111 +893,6 @@
           "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、８日０９時から１２時までは火口から北東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260807170031_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-07T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、８日０９時から１２時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807170034_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-07T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、８日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807170037_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-07T16:12:59.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　８日０１時１０分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807161259_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-07T18:20:18.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【長野県大雨警報・注意報】北部では、低い土地の浸水や河川の増水に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807182018_0_VPWW55_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-07T18:19:30.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【釧路・根室地方雷・濃霧注意報】根室、釧路地方では、竜巻などの激しい突風や急な強い雨、落雷、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807181930_0_VPWW61_014100.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1091,6 +1025,27 @@
       ]
     },
     {
+      "headline": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+      "slug": "Severalkilledinattackson",
+      "time": "2026-08-07T18:54:55.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
+          "snippet": "Ukraine continues to strike warehouses and logistics hubs run by Wildberries, which it says aid Moscow&#039;s war effort",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Inside the results: How redistricting shaped Tennessee’s primary election",
       "slug": "InsidetheresultsHowredis",
       "time": "2026-08-07T18:00:05.000Z",
@@ -1190,27 +1145,6 @@
           "snippet": "Authorities suspect narcotics dealers and gang rivalries are behind prison violence at facilities in Sri Lanka.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/7/sri-lanka-prisoners-riot-leaving-3-dead-23-injured-in-chaos?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-      "slug": "TwocivilianskilledinHout",
-      "time": "2026-08-07T14:22:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Two civilians killed in Houthi strike on Marib, says Yemen’s government",
-          "snippet": "Health Minister Qassem Bahaibah says 14 injured, accuses group of targeting residential areas and displacement camps.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/7/two-civilians-killed-in-houthi-strike-on-marib-says-yemens-government?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
