@@ -1,54 +1,99 @@
 {
-  "builtAt": "2026-08-07T16:29:51.083Z",
+  "builtAt": "2026-08-07T22:19:24.473Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
-      "slug": "TurkiyeSaudiArabiaPakist",
-      "independentSources": 3,
+      "headline": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+      "slug": "USappealscourtupholdsinj",
+      "independentSources": 2,
       "sources": [
         "時事ドットコム",
-        "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026080800094&g=int&m=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-pakistan-turkiye-defence-pact-challenges-us-role?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/7/turkiye-saudi-arabi-pakistan-sign-joint-defence-agreement-whats-in-it?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/saudi-arabia-turkiye-and-pakistan-sign-joint-defence-pact?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss"
         }
       ],
-      "issue": "サウジアラビア、パキスタン、トルコの相互防衛協定は地域安全保障にどのような影響を与えるか？",
-      "stasis": "因果の解釈",
+      "issue": "トランプ政権は連邦議会の承認なしにホワイトハウスのボールルーム建設を進めることができるか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "サウジアラビア、パキスタン、トルコの3カ国が相互防衛協定を締結した。",
-          "span": "相互防衛協定を結んだ",
+          "t": "連邦高裁がホワイトハウスのボールルーム建設プロジェクトを一時停止するよう命じた。",
+          "span": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
           "src": [
             {
-              "ty": "wire",
-              "l": "時事ドットコム"
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "パキスタンは、3カ国のいずれかへの攻撃は、全てへの攻撃に相当すると表明している。",
-          "span": "an attack on any of the three will amount to an attack against all",
+          "t": "連邦高裁は、建設差し止めの命令を維持した。",
+          "span": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領は、米最高裁に上訴した。",
+          "span": "トランプ氏、米最高裁に上訴",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "連邦高裁はホワイトハウスのボールルーム建設プロジェクトの一時停止を命じ、トランプ大統領は最高裁に上訴した。しかし、建設を進めるには議会の承認が必要であるという見解が示されている。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
+      "slug": "Spainimposesbordercontro",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss"
+        }
+      ],
+      "issue": "スペインとイタリアの間で、セウタへの移民流入を巡る対立の状況は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "スペインはイタリアに対し国境管理を課している。",
+          "span": "Spain imposes border controls against Italy",
           "src": [
             {
               "ty": "press",
@@ -57,19 +102,39 @@
           ]
         },
         {
-          "t": "サウジアラビアの皇太子、トルコ大統領、パキスタン首相がメッカで共同防衛協定に署名した。",
-          "span": "signed a joint defence agreement in Mecca",
+          "t": "セウタへの移民流入を巡る対立が激化している。",
+          "span": "row over Ceuta migrant influx intensifies",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イタリアは国境管理を導入した。",
+          "span": "Italy introduced border controls",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "これは、モロッコからスペイン領への約78,000人の移民流入に続くものである。",
+          "span": "an influx of about 78,000 migrants from neighbouring Morocco into the Spanish",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "サウジアラビア、パキスタン、トルコの3カ国が相互防衛協定を締結したことについては合意があるが、その地域安全保障への影響については専門家の解釈が示されている。",
-      "note": null,
+      "consensus": "スペインとイタリアの間で、セウタへの移民流入を巡る対立が激化し、両国が国境管理を導入しているという事実については合意がある。評価は割れる／アプリは裁定しない。",
+      "note": "",
       "audit": {
         "changed": false,
         "issues": []
@@ -236,106 +301,6 @@
           "争点の立て方: issueがテキストにない対立を推測していたため、テキストが報じる事実確認の問いに修正しました。",
           "stasis: issueの変更に伴い、stasisを「評価・予測」から「事実確認」に修正しました。"
         ]
-      }
-    },
-    {
-      "headline": "７月の米雇用、２．３万人減　予想外の縮小、失業率４．１％に改善",
-      "slug": "月の米雇用万人減予想外の縮小失業率に改善",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199701000"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701110&g=int&m=rss"
-        }
-      ],
-      "issue": "米国の7月雇用統計の結果と、それによる金融市場への影響は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "7月のアメリカの農業分野以外の就業者数は減少に転じた。",
-          "span": "減少に転じ",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "7月のアメリカの雇用は2.3万人減少した。",
-          "span": "２．３万人減",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "就業者数の減少は市場の予想を大幅に下回った。",
-          "span": "市場の予想を大幅に下回りました",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "就業者数の減少は予想外の縮小であった。",
-          "span": "予想外の縮小",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "失業率は4.1%に改善した。",
-          "span": "失業率４．１％に改善",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "アメリカのFRBが早期に利上げに踏み切るという観測が後退した。",
-          "span": "利上げ観測後退",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "円高ドル安が進んだ。",
-          "span": "円高ドル安進む",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米国の7月雇用統計は市場予想に反して農業分野以外の就業者数が減少し、失業率は改善した。これにより、FRBの早期利上げ観測が後退し、円高ドル安が進んだという事実が確認された。本件に関する評価や政策提言は記事中に見られない。",
-      "note": "記事は事実の報告に終始しており、特定の主体による評価や主張、政策提言の対立が見られないため、positionsは空配列とした。",
-      "audit": {
-        "changed": false,
-        "issues": []
       }
     }
   ]
