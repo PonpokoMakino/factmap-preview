@@ -1,111 +1,17 @@
 {
-  "rankedAt": "2026-08-07T20:08:30.092Z",
+  "rankedAt": "2026-08-07T20:56:56.960Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
-      "slug": "台風影響7日は約470便が欠航8日も320便余が",
-      "time": "2026-08-07T20:05:35.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 10,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "大型で非常に強い台風13号 暴風や土砂災害など厳重警戒",
-          "snippet": "大型で非常に強い台風13号は、沖縄本島地方や奄美地方を暴風域に巻き込みながら西寄りに進んでいます。沖縄・奄美では風や雨の影響を長時間受けていて、暴風や土砂災害などに厳重な警戒を続けてください。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199841000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
-          "snippet": "国内の主な航空会社によりますと、台風の影響で7日は沖縄県や鹿児島県の空港を発着する便を中心に、およそ470便が欠航となりました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199401000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "地方気象情報",
-          "snippet": "【東北地方気象解説情報（大雨・落雷・降ひょう）】東北太平洋側南部では、８日朝にかけて、大雨による低い土地の浸水、河川の増水や氾濫に警戒してください。東北地方では、８日夜遅くにかけてと９日昼過ぎから夜遅くにかけて、土砂災害や低い土地の浸水、河",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200535_0_VPCJ50_040000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "地方気象解説情報",
-          "snippet": "【東北地方気象解説情報（大雨・落雷・降ひょう）】東北太平洋側南部では、８日朝にかけて、大雨による低い土地の浸水、河川の増水や氾濫に警戒してください。東北地方では、８日夜遅くにかけてと９日昼過ぎから夜遅くにかけて、土砂災害や低い土地の浸水、河",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200535_0_VPCJ51_040000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象解説情報",
-          "snippet": "【鹿児島県（奄美地方を除く）気象解説情報（台風第１３号）】種子島・屋久島地方では８日夜遅くにかけて、うねりを伴った高波に警戒してください。大隅、種子島・屋久島地方では、８日夜遅くにかけて土砂災害に十分注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200531_0_VPFJ51_460100.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象情報",
-          "snippet": "【鹿児島県（奄美地方を除く）気象解説情報（台風第１３号）】種子島・屋久島地方では８日夜遅くにかけて、うねりを伴った高波に警戒してください。大隅、種子島・屋久島地方では、８日夜遅くにかけて土砂災害に十分注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200532_0_VPFJ50_460100.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象情報",
-          "snippet": "【沖縄本島地方気象解説情報（台風第１３号）】台風第１３号は、現在久米島に最も接近しています。沖縄本島地方では、暴風やうねりを伴う高波、高潮、土砂災害や低い土地の浸水、河川の増水や氾濫に厳重に警戒してください。８日朝にかけて線状降水帯が発生し",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200431_0_VPFJ50_471000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象解説情報",
-          "snippet": "【沖縄本島地方気象解説情報（台風第１３号）】台風第１３号は、現在久米島に最も接近しています。沖縄本島地方では、暴風やうねりを伴う高波、高潮、土砂災害や低い土地の浸水、河川の増水や氾濫に厳重に警戒してください。８日朝にかけて線状降水帯が発生し",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200431_0_VPFJ51_471000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "地方気象情報",
-          "snippet": "【沖縄地方気象解説情報（台風第１３号）】宮古島地方に暴風警報を発表しました。沖縄地方では暴風やうねりを伴う高波、高潮、土砂災害や低い土地の浸水、河川の増水や氾濫に厳重に警戒してください。沖縄本島地方では、８日朝にかけて線状降水帯が発生して大",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200406_0_VPCJ50_471000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "地方気象解説情報",
-          "snippet": "【沖縄地方気象解説情報（台風第１３号）】宮古島地方に暴風警報を発表しました。沖縄地方では暴風やうねりを伴う高波、高潮、土砂災害や低い土地の浸水、河川の増水や氾濫に厳重に警戒してください。沖縄本島地方では、８日朝にかけて線状降水帯が発生して大",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200406_0_VPCJ51_471000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
       "slug": "Spaintoimposebordercontr",
-      "time": "2026-08-07T19:51:16.000Z",
+      "time": "2026-08-07T20:33:23.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 5,
+      "count": 4,
       "hasPrimary": false,
       "members": [
         {
@@ -113,14 +19,6 @@
           "snippet": "Italy introduced border controls following an influx of about 78,000 migrants from neighbouring Morocco into the Spanish",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Meta fined $567m in largest child safety ruling against social media giant",
-          "snippet": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -133,18 +31,18 @@
           "linkKind": "article"
         },
         {
-          "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
-          "snippet": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
+          "title": "Meta fined $567m in largest child safety ruling against social media giant",
+          "snippet": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Italy vows to maintain border checks despite Spain’s countermeasures threat",
-          "snippet": "Madrid warns of &#039;proportional measures&#039; if Rome does not put an end to checks amid fallout from Ceuta migrant ",
+          "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
+          "snippet": "Authorities say they broke up one of the largest criminal networks running migrant smuggling in Western Mediterranean.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -189,9 +87,84 @@
       ]
     },
     {
-      "headline": "地方気象解説情報",
-      "slug": "地方気象解説情報",
-      "time": "2026-08-07T20:03:38.000Z",
+      "headline": "国税不祥事、「前例ない事態次々」に危機感　「パパ活」、情報漏えいも",
+      "slug": "国税不祥事前例ない事態次に危機感パパ活情報漏えい",
+      "time": "2026-08-07T12:34:50.000Z",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "国税不祥事 前例ない事態に危機感",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590905?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "国税不祥事、「前例ない事態次々」に危機感　「パパ活」、情報漏えいも",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080700626&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-07T20:50:21.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 4,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【沖縄本島地方気象警報・注意報】〈危険警報（土砂災害、高潮）〉本島北部、久米島では、土砂災害や高潮に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807205023_0_VPWW54_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【沖縄本島地方気象警報・注意報】〈危険警報（土砂災害、高潮）〉本島北部、久米島では、土砂災害や高潮に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807205023_0_VPWW53_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【沖縄本島地方気象警報・注意報】〈危険警報（土砂災害、高潮）〉本島北部、久米島では、土砂災害や高潮に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807204337_0_VPWW53_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【沖縄本島地方気象警報・注意報】〈危険警報（土砂災害、高潮）〉本島北部、久米島では、土砂災害や高潮に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807204337_0_VPWW54_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-07T20:45:58.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -200,20 +173,62 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "地方気象情報",
-          "snippet": "【北陸地方気象解説情報（大雨）】北陸地方では、８日夜遅くにかけて低い土地の浸水や河川の増水に注意・警戒してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮城県気象警報・注意報】宮城県では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200338_0_VPCJ50_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807204559_0_VPWW53_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "地方気象解説情報",
-          "snippet": "【北陸地方気象解説情報（大雨）】北陸地方では、８日夜遅くにかけて低い土地の浸水や河川の増水に注意・警戒してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮城県気象警報・注意報】宮城県では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807200338_0_VPCJ51_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807204559_0_VPWW54_040000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "大型で非常に強い台風13号 暴風などに厳重警戒",
+      "slug": "大型で非常に強い台風13号暴風などに厳重警戒",
+      "time": "2026-08-07T20:47:31.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "大型で非常に強い台風13号 暴風などに厳重警戒",
+          "snippet": "大型で非常に強い台風13号は、依然として沖縄本島地方や奄美地方を暴風域に巻き込みながら西寄りに進んでいます。暴風などに厳重な警戒を続けてください。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015199841000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
+      "slug": "台風影響7日は約470便が欠航8日も320便余が",
+      "time": "2026-08-07T08:41:43.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
+          "snippet": "国内の主な航空会社によりますと、台風の影響で7日は沖縄県や鹿児島県の空港を発着する便を中心に、およそ470便が欠航となりました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015199401000",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -338,27 +353,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6590888?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "国税不祥事 前例ない事態に危機感",
-      "slug": "国税不祥事前例ない事態に危機感",
-      "time": "2026-08-07T12:34:50.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "国税不祥事 前例ない事態に危機感",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590905?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -512,6 +506,27 @@
       ]
     },
     {
+      "headline": "米大統領、ＦＲＢ理事解任へ　最高裁は無効判断",
+      "slug": "米大統領理事解任へ最高裁は無効判断",
+      "time": "2026-08-07T19:18:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米大統領、ＦＲＢ理事解任へ　最高裁は無効判断",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800074&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
       "slug": "ドイツ月熱波で人死亡冷房普及せず備え不足",
       "time": "2026-08-06T09:43:00.000Z",
@@ -533,9 +548,9 @@
       ]
     },
     {
-      "headline": "火葬料高騰、国・都で連携　高市・小池氏が確認",
-      "slug": "火葬料高騰国都で連携高市小池氏が確認",
-      "time": "2026-08-07T11:03:00.000Z",
+      "headline": "米ホワイトハウスはクックＦＲＢ理事の解任に向けた手続きに着手したと明らかにした",
+      "slug": "米ホワイトハウスはクック理事の解任に向けた手続き",
+      "time": "2026-08-07T19:03:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -544,10 +559,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "火葬料高騰、国・都で連携　高市・小池氏が確認",
+          "title": "米ホワイトハウスはクックＦＲＢ理事の解任に向けた手続きに着手したと明らかにした",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701051&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080800064&g=flash&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -575,9 +590,9 @@
       ]
     },
     {
-      "headline": "民間への人材流出に危機感　給与増や転居手当で配慮―人事院勧告",
-      "slug": "民間への人材流出に危機感給与増や転居手当で配慮人",
-      "time": "2026-08-07T12:05:00.000Z",
+      "headline": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
+      "slug": "サウジアラビアとパキスタントルコのカ国は相互防衛",
+      "time": "2026-08-07T11:19:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -586,19 +601,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "民間への人材流出に危機感　給与増や転居手当で配慮―人事院勧告",
+          "title": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700652&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "７月の米雇用、２．３万人減　予想外の縮小、失業率４．１％に改善",
-      "slug": "月の米雇用万人減予想外の縮小失業率に改善",
-      "time": "2026-08-07T13:49:00.000Z",
+      "headline": "火葬料高騰、国・都で連携　高市・小池氏が確認",
+      "slug": "火葬料高騰国都で連携高市小池氏が確認",
+      "time": "2026-08-07T11:03:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -607,52 +622,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "７月の米雇用、２．３万人減　予想外の縮小、失業率４．１％に改善",
+          "title": "火葬料高騰、国・都で連携　高市・小池氏が確認",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701110&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "高市首相がマッサージ　就任後初、出張続きで疲労たまる？",
-      "slug": "高市首相がマッサジ就任後初出張続きで疲労たまる",
-      "time": "2026-08-07T11:59:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "高市首相がマッサージ　就任後初、出張続きで疲労たまる？",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701086&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「主犯格」川口被告に無期懲役　江別集団暴行死―札幌地裁",
-      "slug": "主犯格川口被告に無期懲役江別集団暴行死札幌地裁",
-      "time": "2026-08-07T09:18:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「主犯格」川口被告に無期懲役　江別集団暴行死―札幌地裁",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700654&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080701051&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -680,9 +653,9 @@
       ]
     },
     {
-      "headline": "自維、古謝氏を推薦　沖縄知事選",
-      "slug": "自維古謝氏を推薦沖縄知事選",
-      "time": "2026-08-07T09:51:00.000Z",
+      "headline": "７月の米雇用、２．３万人減　予想外の縮小、失業率４．１％に改善",
+      "slug": "月の米雇用万人減予想外の縮小失業率に改善",
+      "time": "2026-08-07T13:49:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -691,10 +664,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "自維、古謝氏を推薦　沖縄知事選",
+          "title": "７月の米雇用、２．３万人減　予想外の縮小、失業率４．１％に改善",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700991&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080701110&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -911,6 +884,90 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-07T20:50:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【沖縄本島地方大雨警報・注意報】本島北部では、低い土地の浸水や河川の増水に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807205017_0_VPWW55_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-07T20:45:46.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【宮城県大雨警報・注意報】宮城県では、低い土地の浸水や河川の増水に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807204547_0_VPWW55_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
+      "slug": "気象警報注意報土砂",
+      "time": "2026-08-07T20:43:34.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【沖縄本島地方土砂災害警報・注意報】本島北部では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807204335_0_VPWW56_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-07T20:42:20.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260807204220_0_VPTW60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "Seven killed after Thai student opens fire at home and school",
       "slug": "SevenkilledafterThaistud",
       "time": "2026-08-07T15:51:16.000Z",
@@ -926,6 +983,27 @@
           "snippet": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "slug": "KidnappedrareSerbianeagl",
+      "time": "2026-08-07T20:40:56.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+          "snippet": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who dema",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1016,21 +1094,21 @@
       ]
     },
     {
-      "headline": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-      "slug": "Australianaviationcrewca",
-      "time": "2026-08-07T05:44:29.000Z",
+      "headline": "Contaminated water putting Gaza families at risk",
+      "slug": "Contaminatedwaterputting",
+      "time": "2026-08-07T19:47:42.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Australian aviation crew carries out daring midwinter Antarctica rescue",
-          "snippet": "Team evacuated a patient from McMurdo Station after landing plane in total darkness and temperature of -43°C.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c89nqlz5p4qo?at_medium=RSS&at_campaign=rss",
+          "title": "Contaminated water putting Gaza families at risk",
+          "snippet": "Gaza’s damaged water infrastructure is leaving families struggling to access safe drinking water.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
