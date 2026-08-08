@@ -1,74 +1,294 @@
 {
-  "builtAt": "2026-08-07T22:19:24.473Z",
+  "builtAt": "2026-08-08T08:07:47.259Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "US appeals court upholds injunction pausing Trump’s White House ballroom",
-      "slug": "USappealscourtupholdsinj",
-      "independentSources": 2,
+      "headline": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
+      "slug": "台風13号暴風など長時間続く厳重警戒を中継映像も",
+      "independentSources": 3,
       "sources": [
-        "時事ドットコム",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800094&g=int&m=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015199841000"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015200211000"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/7/us-appeals-court-upholds-injunction-pausing-trumps-white-house-ballroom?traffic_source=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590977?source=rss"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080642_0_VPCJ50_471000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080559_0_VPWW53_471000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080559_0_VPWW54_471000.xml"
         }
       ],
-      "issue": "トランプ政権は連邦議会の承認なしにホワイトハウスのボールルーム建設を進めることができるか？",
-      "stasis": "政策",
+      "issue": "台風13号による影響はどの程度か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "連邦高裁がホワイトハウスのボールルーム建設プロジェクトを一時停止するよう命じた。",
-          "span": "A federal appeals court has ordered President Donald Trump’s administration to halt construction on a ballroom project.",
+          "t": "大型で非常に強い台風13号が沖縄本島の西の海上を進んでおり、久米島などが暴風域に入っている。",
+          "span": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいて久米島などが暴風域に入っています。",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "連邦高裁は、建設差し止めの命令を維持した。",
-          "span": "US appeals court upholds injunction pausing Trump’s White House ballroom",
+          "t": "沖縄・奄美では風雨の影響が長時間続いており、暴風などに厳重な警戒が必要である。",
+          "span": "沖縄・奄美では風や雨の影響が長時間続いていて暴風などに厳重な警戒を続けてください。",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "トランプ大統領は、米最高裁に上訴した。",
-          "span": "トランプ氏、米最高裁に上訴",
+          "t": "北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、局地的に雨雲が発達している。",
+          "span": "北日本から西日本にかけての広い範囲で、大気の状態が非常に不安定になり局地的に雨雲が発達しています。",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "青森県、岩手県、新潟県では猛烈な雨が降ったとみられ、「記録的短時間大雨」の気象防災速報が相次いでいる。",
+          "span": "青森県と岩手県、それに新潟県では猛烈な雨が降ったとみられ、「記録的短時間大雨」の気象防災速報が相次いで…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風13号により、沖縄で転倒などにより5人がけがをした。",
+          "span": "台風13号 沖縄で転倒など5人けが",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "沖縄本島地方と八重山地方の一部地域では、9日未明にかけて暴風に警戒が必要である。",
+          "span": "沖縄本島地方と八重山地方の一部地域では、９日未明にかけて暴風に警戒してください。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "沖縄地方では9日にかけて非常に強い風が吹く見込みで、強風に十分な注意が必要である。",
+          "span": "沖縄地方では９日にかけて、非常に強い風が吹く見込みです。強風に十分注意してください。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "沖縄地方では10日にかけて猛烈なしけや大しけとなる見込みである。",
+          "span": "また、１０日にかけて猛烈なしけや大し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "沖縄本島中南部と久米島では暴風に警戒が必要である。",
+          "span": "本島中南部、久米島では、暴風に警戒してください。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "沖縄本島地方では高波に警戒が必要である。",
+          "span": "沖縄本島地方では、高波に警戒してください。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "連邦高裁はホワイトハウスのボールルーム建設プロジェクトの一時停止を命じ、トランプ大統領は最高裁に上訴した。しかし、建設を進めるには議会の承認が必要であるという見解が示されている。",
-      "note": null,
+      "consensus": "台風13号は沖縄本島近海を進み、暴風域に入った地域がある。沖縄・奄美では長時間にわたり風雨の影響が続き、厳重な警戒が必要。北日本から西日本では大気が不安定で局地的に雨雲が発達し、青森、岩手、新潟では記録的短時間大雨となった。沖縄では転倒などにより5人がけがをした。気象庁は沖縄本島地方や久米島などで暴風や高波に警戒を呼びかけている。沖縄地方では9日にかけて非常に強い風が吹き、10日にかけては猛烈なしけとなる見込み。",
+      "note": "プライバシーに配慮し、個別のけが人の詳細情報は含めない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
-      "slug": "Spainimposesbordercontro",
+      "headline": "South Korea FA apologises over ‘sexual services’ allegations",
+      "slug": "SouthKoreaFAapologisesov",
+      "independentSources": 3,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590997?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800252&g=int&m=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss"
+        }
+      ],
+      "issue": "大韓サッカー協会は、不祥事や性接待疑惑に関して謝罪したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "大韓サッカー協会が不祥事を受けて謝罪したと報じられている。",
+          "span": "不祥事受け 大韓サッカー協会謝罪",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "韓国サッカー協会に性接待疑惑があり、日本人審判も対象に含まれる可能性があると報じられている。",
+          "span": "韓国サッカー協会に性接待疑惑　日本人審判も対象か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "韓国サッカー協会が「性的なサービス」の疑惑に関連して謝罪したと報じられている。",
+          "span": "Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "疑惑は2014年ワールドカップおよびロンドン2012オリンピック競技大会の予選に関連していると報じられている。",
+          "span": "qualifiers for World Cup 2014 and the London 2012 Olympic Games.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "大韓サッカー協会は不祥事を受けて謝罪したと報じられている。韓国サッカー協会には性接待疑惑があり、日本人審判も対象に含まれる可能性があると報じられている。この疑惑は2014年ワールドカップおよびロンドン2012オリンピック競技大会の予選に関連していると報じられている。",
+      "note": "複数の情報源が謝罪と疑惑について報じているが、具体的な不祥事の内容や性接待の詳細については、提供されたテキストからは特定できない。Al Jazeeraの記事は、疑惑が特定の大会の予選に関連していることを示唆している。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "slug": "SaudiArabiaTurkeyandPaki",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "サウジアラビア、パキスタン、トルコ間の相互防衛協定は「イスラム版NATO」と指摘されるか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "サウジアラビア、パキスタン、トルコの3カ国が相互防衛協定を結んだ。",
+          "span": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "パキスタンは、中東紛争の中で、3カ国のいずれかに対する攻撃は全てに対する攻撃とみなされると述べた。",
+          "span": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "サウジアラビア、パキスタン、トルコの3カ国が相互防衛協定を結んだ。パキスタンは、3カ国のいずれかに対する攻撃は全てに対する攻撃とみなされると述べた。この協定は「イスラム版NATO」と指摘されている。",
+      "note": "本件は報道に基づく事実と、それに対する指摘を構造化した。各国の公式な立場表明や、協定の詳細に関する情報は含まれていない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Russian strikes near Ukrainian capital kill three, including child",
+      "slug": "RussianstrikesnearUkrain",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -77,23 +297,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss"
         }
       ],
-      "issue": "スペインとイタリアの間で、セウタへの移民流入を巡る対立の状況は何か？",
+      "issue": "ロシアによるキエフ近郊へのミサイル攻撃で死者が出たか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "スペインはイタリアに対し国境管理を課している。",
-          "span": "Spain imposes border controls against Italy",
+          "t": "ロシアによるミサイル攻撃がキエフ近郊で発生した。",
+          "span": "Russian missile attacks",
           "src": [
             {
               "ty": "press",
@@ -102,8 +318,8 @@
           ]
         },
         {
-          "t": "セウタへの移民流入を巡る対立が激化している。",
-          "span": "row over Ceuta migrant influx intensifies",
+          "t": "この攻撃により、子供を含む3人が死亡した。",
+          "span": "Child among three killed",
           "src": [
             {
               "ty": "press",
@@ -112,8 +328,8 @@
           ]
         },
         {
-          "t": "イタリアは国境管理を導入した。",
-          "span": "Italy introduced border controls",
+          "t": "ロシアは夜間の攻撃を継続した。",
+          "span": "Russia continued its overnight attacks",
           "src": [
             {
               "ty": "press",
@@ -122,185 +338,22 @@
           ]
         },
         {
-          "t": "これは、モロッコからスペイン領への約78,000人の移民流入に続くものである。",
-          "span": "an influx of about 78,000 migrants from neighbouring Morocco into the Spanish",
+          "t": "ロシアによるキエフ近郊への攻撃で3人が死亡し、その中には子供が含まれていた。",
+          "span": "Russian strikes near Ukrainian capital kill three, including child",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "スペインとイタリアの間で、セウタへの移民流入を巡る対立が激化し、両国が国境管理を導入しているという事実については合意がある。評価は割れる／アプリは裁定しない。",
-      "note": "",
+      "consensus": "ロシアによるキエフ近郊へのミサイル攻撃で、子供を含む3人が死亡したという事実は両報道機関で一致している。ウクライナの弾薬供給の減少や、米国上院による新たな対ロシア制裁、ウクライナによる防空迎撃の要請については、両報道機関で言及されているが、直接的な因果関係や評価は示されていない。",
+      "note": "両記事とも、攻撃の事実と死者数について報じている。BBCはロシアの攻撃継続に言及し、Al Jazeeraは米国上院の制裁可決とウクライナの要請に言及しているが、これらは攻撃の直接的な結果や評価ではなく、状況説明の一部として提示されている。",
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "調査資産家から多額現金、競艇に　２０代税務署員、脱税容疑も―「実家仕送り」うそ、免職・国税当局",
-      "slug": "調査資産家から多額現金競艇に代税務署員脱税容疑も",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199381000"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700624&g=soc&m=rss"
-        }
-      ],
-      "issue": "茨城県の税務署職員による不正行為と懲戒免職処分に関する事案",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "茨城県の税務署職員が、税務調査で知り合った高齢女性から約1億5000万円を受け取り、競艇に使用した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "当該職員は脱税していた。",
-          "span": "脱税していた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関東信越国税局は当該職員を懲戒免職処分とした。",
-          "span": "関東信越国税局は懲戒免職の処分にしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "当該職員は20代であった。",
-          "span": "２０代税務署員",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "当該職員は、受け取った金銭について「実家への仕送り」と偽っていた。",
-          "span": "「実家仕送り」うそ",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "茨城県の税務署職員が、税務調査で知り合った高齢女性から約1億5000万円を受け取り競艇につぎ込み、脱税もしていたため、関東信越国税局から懲戒免職処分を受けた。職員は20代で、「実家への仕送り」と偽っていた。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issueフィールドが、stasisが「事実」でpositionsが空であるにもかかわらず疑問形になっていたため、事実を記述する形に修正しました。",
-          "fact spanが原文に無い→除去「税務職員が高齢女性から約1億5000…」"
-        ]
-      }
-    },
-    {
-      "headline": "国税不祥事、「前例ない事態次々」に危機感　「パパ活」、情報漏えいも",
-      "slug": "国税不祥事前例ない事態次に危機感パパ活情報漏えい",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590905?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700626&g=soc&m=rss"
-        }
-      ],
-      "issue": "国税庁で相次ぐ不祥事は、どのような状況として認識されているか？",
-      "stasis": "事実確認",
-      "facts": [
-        {
-          "t": "国税庁で複数の不祥事が相次いで発生している。",
-          "span": "国税不祥事",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "これらの不祥事は「前例ない事態」として認識され、危機感が示されている。",
-          "span": "前例ない事態に危機感",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "不祥事の中には、いわゆる「パパ活」問題が含まれる。",
-          "span": "パパ活",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "不祥事の中には、情報漏えい問題が含まれる。",
-          "span": "情報漏えい",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "国税庁で複数の不祥事が相次いで発生しており、これらが「前例ない事態」として認識されている。これらの不祥事に対する評価や原因分析については、記事からは具体的な対立する意見は読み取れない。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: issueがテキストにない対立を推測していたため、テキストが報じる事実確認の問いに修正しました。",
-          "stasis: issueの変更に伴い、stasisを「評価・予測」から「事実確認」に修正しました。"
-        ]
       }
     }
   ]

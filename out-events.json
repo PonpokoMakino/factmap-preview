@@ -1,18 +1,19 @@
 {
-  "rankedAt": "2026-08-08T07:28:53.866Z",
+  "rankedAt": "2026-08-08T08:07:47.259Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
       "slug": "台風13号暴風など長時間続く厳重警戒を中継映像も",
-      "time": "2026-08-08T06:13:51.000Z",
-      "independentSources": 2,
+      "time": "2026-08-08T08:06:41.000Z",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "Yahoo!ニュース 主要",
+        "気象庁 気象警報・注意報"
       ],
-      "count": 2,
-      "hasPrimary": false,
+      "count": 6,
+      "hasPrimary": true,
       "members": [
         {
           "title": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
@@ -23,10 +24,119 @@
           "linkKind": "article"
         },
         {
+          "title": "青森 岩手 新潟に記録的短時間大雨 浸水などに厳重警戒を",
+          "snippet": "北日本から西日本にかけての広い範囲で、大気の状態が非常に不安定になり局地的に雨雲が発達しています。青森県と岩手県、それに新潟県では猛烈な雨が降ったとみられ、「記録的短時間大雨」の気象防災速報が相次いで…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015200211000",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
           "title": "台風13号 沖縄で転倒など5人けが",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6590977?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "地方気象情報",
+          "snippet": "【沖縄地方気象解説情報（台風第１３号）】沖縄本島地方と八重山地方の一部地域では、９日未明にかけて暴風に警戒してください。沖縄地方では９日にかけて、非常に強い風が吹く見込みです。強風に十分注意してください。また、１０日にかけて猛烈なしけや大し",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080642_0_VPCJ50_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【沖縄本島地方気象警報・注意報】本島中南部、久米島では、暴風に警戒してください。沖縄本島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080559_0_VPWW53_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【沖縄本島地方気象警報・注意報】本島中南部、久米島では、暴風に警戒してください。沖縄本島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080559_0_VPWW54_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "South Korea FA apologises over ‘sexual services’ allegations",
+      "slug": "SouthKoreaFAapologisesov",
+      "time": "2026-08-08T08:02:02.000Z",
+      "independentSources": 3,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "不祥事受け 大韓サッカー協会謝罪",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590997?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "韓国サッカー協会に性接待疑惑　日本人審判も対象か",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800252&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "South Korea FA apologises over ‘sexual services’ allegations",
+          "snippet": "Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "slug": "SaudiArabiaTurkeyandPaki",
+      "time": "2026-08-07T17:42:54.000Z",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+          "snippet": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -63,9 +173,9 @@
       ]
     },
     {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-08T03:35:26.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-08T08:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -74,27 +184,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　８日１２時３２分ころ、地震がありました。",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、８日２１時から２４時までは火口から西方向、９日０９時から１２時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808033526_0_VXSE53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　８日１１時０７分ころ、地震がありました。",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、８日２１時から２４時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808021012_0_VXSE53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808050045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-08T07:26:50.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-08T08:04:13.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -102,28 +212,28 @@
       "count": 2,
       "hasPrimary": true,
       "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】中部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072652_0_VPWW54_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】中部では、低い土地の浸水に警戒してください。",
+          "snippet": "【福井県気象警報・注意報】嶺北では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072652_0_VPWW53_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080414_0_VPWW53_180000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【福井県気象警報・注意報】嶺北では、低い土地の浸水に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080414_0_VPWW54_180000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-08-08T07:26:41.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-08T08:02:05.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -132,27 +242,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象情報",
-          "snippet": "【山形県気象解説情報（大雨・落雷・突風）】村山・置賜では、８日夜のはじめ頃にかけて、大雨による低い土地の浸水、河川の増水や氾濫に警戒し、土砂災害に十分注意してください。また、竜巻などの激しい突風や落雷、降ひょうに注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【八重山地方気象警報・注意報】与那国島地方では、暴風に警戒してください。八重山地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072641_0_VPFJ50_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080206_0_VPWW53_474000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象解説情報",
-          "snippet": "【山形県気象解説情報（大雨・落雷・突風）】村山・置賜では、８日夜のはじめ頃にかけて、大雨による低い土地の浸水、河川の増水や氾濫に警戒し、土砂災害に十分注意してください。また、竜巻などの激しい突風や落雷、降ひょうに注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【八重山地方気象警報・注意報】与那国島地方では、暴風に警戒してください。八重山地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072641_0_VPFJ51_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080206_0_VPWW54_474000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-08-08T07:25:14.000Z",
+      "headline": "地方気象解説情報",
+      "slug": "地方気象解説情報",
+      "time": "2026-08-08T08:01:47.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -161,47 +271,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象解説情報",
-          "snippet": "【青森県気象解説情報（大雨・落雷・突風）】津軽では、８日夜のはじめ頃にかけて、土砂災害に厳重に警戒し、低い土地の浸水、河川の増水に十分注意してください。また、青森県では、竜巻などの激しい突風や落雷、降ひょうに注意してください。",
+          "title": "地方気象情報",
+          "snippet": "【九州南部・奄美地方気象解説情報（台風第１３号）】奄美地方では、土砂災害に厳重に警戒し、うねりを伴った高波に警戒してください。鹿児島県（奄美地方を除く）では、うねりを伴った高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072514_0_VPFJ51_020000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080148_0_VPCJ50_460100.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象情報",
-          "snippet": "【青森県気象解説情報（大雨・落雷・突風）】津軽では、８日夜のはじめ頃にかけて、土砂災害に厳重に警戒し、低い土地の浸水、河川の増水に十分注意してください。また、青森県では、竜巻などの激しい突風や落雷、降ひょうに注意してください。",
+          "title": "地方気象解説情報",
+          "snippet": "【九州南部・奄美地方気象解説情報（台風第１３号）】奄美地方では、土砂災害に厳重に警戒し、うねりを伴った高波に警戒してください。鹿児島県（奄美地方を除く）では、うねりを伴った高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072514_0_VPFJ50_020000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-08-08T07:25:09.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "府県気象情報",
-          "snippet": "【福島県気象解説情報（大雨・落雷・突風）】福島県では、暖かく湿った空気や日中の気温の上昇により、大気の状態が非常に不安定となっています。８日夜のはじめ頃にかけて大雨による低い土地の浸水や河川の増水に警戒してください。また、８日夜遅くにかけて",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072510_0_VPFJ50_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象解説情報",
-          "snippet": "【福島県気象解説情報（大雨・落雷・突風）】福島県では、暖かく湿った空気や日中の気温の上昇により、大気の状態が非常に不安定となっています。８日夜のはじめ頃にかけて大雨による低い土地の浸水や河川の増水に警戒してください。また、８日夜遅くにかけて",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072510_0_VPFJ51_070000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080148_0_VPCJ51_460100.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -231,27 +312,6 @@
           "snippet": "Norway’s football federation has called on Gianni Infantino to resign.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "新潟で「記録的短時間大雨」の気象防災速報を発表",
-      "slug": "新潟で記録的短時間大雨の気象防災速報を発表",
-      "time": "2026-08-08T06:54:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "新潟で「記録的短時間大雨」の気象防災速報を発表",
-          "snippet": "気象庁によりますと、新潟県長岡市付近ではレーダーによる解析で午後3時20分までの1時間におよそ100ミリの猛烈な雨が降ったとみられます。災害の危険が迫っていることから、気象庁は「記録的短時間大雨」の気…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015200211000",
           "ty": "press",
           "linkKind": "article"
         }
@@ -363,9 +423,9 @@
       ]
     },
     {
-      "headline": "新潟県中越 線状降水帯発生の恐れ",
-      "slug": "新潟県中越線状降水帯発生の恐れ",
-      "time": "2026-08-08T06:48:49.000Z",
+      "headline": "被爆81年 語り部再開を目指す99歳",
+      "slug": "被爆81年語り部再開を目指す99歳",
+      "time": "2026-08-08T05:48:57.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -374,19 +434,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "新潟県中越 線状降水帯発生の恐れ",
+          "title": "被爆81年 語り部再開を目指す99歳",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590987?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590978?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "自民党「萩生田幹事長」案が浮上",
-      "slug": "自民党萩生田幹事長案が浮上",
-      "time": "2026-08-08T06:01:53.000Z",
+      "headline": "タイの学校銃撃疑い14歳 計画的か",
+      "slug": "タイの学校銃撃疑い14歳計画的か",
+      "time": "2026-08-08T07:25:18.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -395,52 +455,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "自民党「萩生田幹事長」案が浮上",
+          "title": "タイの学校銃撃疑い14歳 計画的か",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590982?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "男性2人溺れ1人心肺停止 海水浴場",
-      "slug": "男性2人溺れ1人心肺停止海水浴場",
-      "time": "2026-08-08T05:43:16.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "男性2人溺れ1人心肺停止 海水浴場",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590979?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "高速道で何度も追突され 一部始終",
-      "slug": "高速道で何度も追突され一部始終",
-      "time": "2026-08-08T01:59:41.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "高速道で何度も追突され 一部始終",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590948?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590992?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -468,9 +486,9 @@
       ]
     },
     {
-      "headline": "認知症の林家パー子 支える夫ペー",
-      "slug": "認知症の林家パ子支える夫ペ",
-      "time": "2026-08-08T07:07:10.000Z",
+      "headline": "テーマパーク値上げ 30施設超に",
+      "slug": "テマパク値上げ30施設超に",
+      "time": "2026-08-08T07:27:43.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -479,19 +497,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "認知症の林家パー子 支える夫ペー",
+          "title": "テーマパーク値上げ 30施設超に",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590989?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590991?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "音楽P・蔦谷好位置氏 離婚を公表",
-      "slug": "音楽P蔦谷好位置氏離婚を公表",
-      "time": "2026-08-08T06:27:58.000Z",
+      "headline": "今村聖奈が入場後に落馬 両足負傷",
+      "slug": "今村聖奈が入場後に落馬両足負傷",
+      "time": "2026-08-08T07:51:28.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -500,10 +518,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "音楽P・蔦谷好位置氏 離婚を公表",
+          "title": "今村聖奈が入場後に落馬 両足負傷",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590984?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590995?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "吉木りさ いじめ被害を今明かす訳",
+      "slug": "吉木りさいじめ被害を今明かす訳",
+      "time": "2026-08-08T07:38:41.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "吉木りさ いじめ被害を今明かす訳",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590994?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -531,27 +570,6 @@
       ]
     },
     {
-      "headline": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
-      "slug": "サウジなどカ国共同防衛協定イスラム版指摘も",
-      "time": "2026-08-07T13:32:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
       "slug": "ドイツ月熱波で人死亡冷房普及せず備え不足",
       "time": "2026-08-06T09:43:00.000Z",
@@ -573,27 +591,6 @@
       ]
     },
     {
-      "headline": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
-      "slug": "サウジアラビアとパキスタントルコのカ国は相互防衛",
-      "time": "2026-08-07T11:19:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "デラエスプリエジャ大統領が就任　親米右派、対日強化も―コロンビア",
       "slug": "デラエスプリエジャ大統領が就任親米右派対日強化も",
       "time": "2026-08-08T02:21:00.000Z",
@@ -609,27 +606,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026080800145&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "韓国サッカー協会に性接待疑惑　日本人審判も対象か",
-      "slug": "韓国サッカ協会に性接待疑惑日本人審判も対象か",
-      "time": "2026-08-08T06:10:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "韓国サッカー協会に性接待疑惑　日本人審判も対象か",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800252&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -722,7 +698,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-08T05:00:00.000Z",
+      "time": "2026-08-08T08:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -732,9 +708,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、８日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、８日２１時から２４時までは火口から西方向、９日０９時から１２時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808050045_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080037_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -743,7 +719,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-08T05:00:00.000Z",
+      "time": "2026-08-08T08:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -753,9 +729,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、８日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、８日２１時から２４時までは火口から北西方向、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808050049_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080041_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -764,7 +740,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-08T05:00:00.000Z",
+      "time": "2026-08-08T08:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -774,9 +750,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、８日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、８日２１時から２４時までは火口から西方向、９日０９時から１２時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808050052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080048_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -785,7 +761,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-08T05:00:00.000Z",
+      "time": "2026-08-08T08:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -795,9 +771,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、８日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、８日２１時から２４時までは火口から北西方向、９日０９時から１２時までは火口から北西方向に降灰が予想されます",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808050056_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080052_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -806,7 +782,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-08T05:00:00.000Z",
+      "time": "2026-08-08T08:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -816,9 +792,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、８日２１時から２４時までは火口から南西方向に降灰が予想されます。",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、８日２１時から２４時までは火口から西方向、９日０９時から１２時までは火口から北西方向に降",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808050031_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080055_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -827,7 +803,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-08T05:00:00.000Z",
+      "time": "2026-08-08T08:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -837,9 +813,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、８日２１時から２４時までは火口から北東方向に降灰が予想されます。",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、８日２１時から２４時までは火口から北東方向、９日０９時から１２時までは火口から南方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808050034_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -848,7 +824,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-08T05:00:00.000Z",
+      "time": "2026-08-08T08:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -858,18 +834,18 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、８日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、８日２１時から２４時までは火口から北東方向、９日０９時から１２時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808050037_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080033_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-08T05:00:00.000Z",
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-08T07:58:10.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -878,19 +854,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、８日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　８日１６時５５分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808050042_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808075810_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-08T07:26:45.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-08T08:01:22.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -899,31 +875,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【長野県大雨警報・注意報】中部では、低い土地の浸水や河川の増水に警戒してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【栃木県気象警報・注意報】北部では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072646_0_VPWW55_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "府県気象情報",
-      "slug": "府県気象情報",
-      "time": "2026-08-08T07:24:09.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "府県気象情報",
-          "snippet": "【群馬県気象解説情報（大雨・落雷・突風）】群馬県では、８日夜遅くにかけてと、９日昼過ぎから夜遅くにかけて、低い土地の浸水、河川の増水に注意・警戒してください。北部では、９日昼過ぎから夜遅くにかけて、土砂災害に注意・警戒してください。また、落",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808072410_0_VPFJ50_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080123_0_VPWW54_090000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1008,27 +963,6 @@
           "snippet": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "slug": "SaudiArabiaTurkeyandPaki",
-      "time": "2026-08-07T17:42:54.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-          "snippet": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1239,27 +1173,6 @@
           "snippet": "For many Congolese, the census is about identity, recognition and finally being recorded by the state.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
-      "slug": "Saudiintelligencechiefme",
-      "time": "2026-08-08T03:42:43.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
-          "snippet": "Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
