@@ -1,24 +1,41 @@
 {
-  "builtAt": "2026-08-08T19:02:18.629Z",
+  "builtAt": "2026-08-08T19:40:33.395Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "【地震速報】岩手 普代村で震度4 津波の心配なし",
-      "slug": "地震速報岩手普代村で震度4津波の心配なし",
-      "independentSources": 3,
+      "headline": "岩手県沿岸北部で震度４の揺れを観測した",
+      "slug": "岩手県沿岸北部で震度の揺れを観測した",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42879"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42913"
         },
         {
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591037?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900034&g=flash&m=rss"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193615_0_VXSE53_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193526_0_VXSE52_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193442_0_VXSE51_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
@@ -53,13 +70,39 @@
       "stasis": "事実",
       "facts": [
         {
-          "t": "9日午前2時58分ごろ、岩手県沖を震源とする地震が発生した。",
-          "span": "",
+          "t": "9日午前4時33分ごろ、熊本県熊本地方で震度3の地震が観測された。",
+          "span": "震度3が、熊本県熊本地方",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "岩手県で震度4が観測され、津波の心配はないと報じられた。",
+          "span": "岩手県で震度4 津波の心配なし",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "岩手県沿岸北部で震度4の揺れが観測された。",
+          "span": "岩手県沿岸北部で震度４の揺れを観測した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "9日午前4時33分ごろ、地震があった。",
+          "span": "地震がありました",
+          "src": [
             {
               "ty": "prim",
               "l": "気象庁 地震・火山"
@@ -67,62 +110,355 @@
           ]
         },
         {
-          "t": "震源の深さは40キロと推定されている。",
-          "span": "震源の深さは40キロ",
+          "t": "9日午前4時33分ごろ、地震があった。",
+          "span": "地震がありました",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "地震の規模を示すマグニチュードは5.6と推定されている。",
-          "span": "マグニチュードは5.6と推定されます",
+          "t": "9日午前4時33分ごろの地震により強い揺れを感じ、震度3以上が観測された地域が発表された。",
+          "span": "震度３以上が観測された地域をお知らせします",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "岩手県普代村で震度4を観測した。",
-          "span": "岩手 普代村で震度4",
+          "t": "9日午前3時56分ごろ、地震があった。",
+          "span": "地震がありました",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "この地震による津波の心配はない。",
-          "span": "津波の心配はありません",
+          "t": "9日午前3時10分ごろ、地震があった。",
+          "span": "地震がありました",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "9日午前2時58分ごろ、地震があった。",
+          "span": "地震がありました",
+          "src": [
             {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "9日午前2時58分ごろ、地震があった。",
+          "span": "地震がありました",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "9日午前2時58分ごろの地震により強い揺れを感じ、震度3以上が観測された地域が発表された。",
+          "span": "震度３以上が観測された地域をお知らせします",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "9日午前2時58分ごろの地震により強い揺れを感じ、震度3以上が観測された地域が発表された。",
+          "span": "震度３以上が観測された地域をお知らせします",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "9日午前2時53分ごろ、地震があった。",
+          "span": "地震がありました",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "9日午前2時58分ごろに岩手県沖で地震が発生し、岩手県普代村で震度4を観測したが、津波の心配はないという点で合意されている。",
-      "note": "",
+      "consensus": "9日未明から午前4時台にかけて、日本各地で複数の地震が発生し、震度3または震度4の揺れが観測されたことが報じられている。津波の心配はないとされている。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[0].spanがtの内容（震源地）を完全にカバーしていなかったため、元テキストの「震源地は岩手県沖で」を含めるように修正しました。"
+          "spanの最小核: facts[1]とfacts[2]のspanが元テキストの該当部分全体をカバーするように修正しました。",
+          "著作権: facts[1]とfacts[2]のtフィールドに、元の出典テキストに明示されていない時間情報が追加されていたため、削除しました。"
         ]
+      }
+    },
+    {
+      "headline": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
+      "slug": "台風13号影響は長時間続く警戒を台風15号の動き",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42871"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193705_0_VPWW54_160000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193705_0_VPWW53_160000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193703_0_VPWW56_160000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193408_0_VPWW53_460100.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193408_0_VPWW54_460100.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193353_0_VPWW56_460100.xml"
+        }
+      ],
+      "issue": "台風13号およびその他の地域における気象状況と警戒の必要性",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "大型で非常に強い台風13号が沖縄本島の西の海上を進んでいる。",
+          "span": "沖縄本島の西の海上を進んでいます",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "沖縄・奄美では風や雨の影響が長時間続いている。",
+          "span": "風や雨の影響が長時間続いていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "沖縄・奄美では、土砂災害などに対して厳重な警戒を続けるよう呼びかけられている。",
+          "span": "土砂災害などに厳重な警戒を続けてください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "富山県では、土砂災害や竜巻などの激しい突風、落雷に注意するよう呼びかけられている。",
+          "span": "土砂災害や竜巻などの激しい突風、落雷に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "富山県では、土砂災害に注意するよう呼びかけられている。",
+          "span": "土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "鹿児島県（奄美地方を除く）の薩摩、大隅、種子島・屋久島地方では、土砂災害や高波、竜巻などの激しい突風、落雷に注意するよう呼びかけられている。",
+          "span": "土砂災害や高波、竜巻などの激しい突風、落雷に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "鹿児島県（奄美地方を除く）の薩摩、大隅地方では、低い土地の浸水や強風に注意するよう呼びかけられている。",
+          "span": "低い土地の浸水や強風に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "鹿児島県（奄美地方除く）では、土砂災害に注意するよう呼びかけられている。",
+          "span": "土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風13号の進路と影響、および各地域での気象警報・注意報の内容は共通の事実として認識されており、それに対する評価の対立はない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[2]のt: 「〜必要がある」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
+          "facts[3]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
+          "facts[4]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
+          "facts[5]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
+          "facts[6]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
+          "facts[7]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。"
+        ]
+      }
+    },
+    {
+      "headline": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "slug": "FastmovingCanadawildfire",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss"
+        }
+      ],
+      "issue": "世界各地の山火事の発生状況と影響はどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "カナダのブリティッシュコロンビア州で発生しているボールドレンジ山火事は「制御不能」とされている。",
+          "span": "still considered \"out of control\"",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "カナダのブリティッシュコロンビア州の山火事は95平方キロメートル以上に拡大した。",
+          "span": "spread to more than 36 sq miles (95",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "カナダの山火事により、数千人が避難を余儀なくされている。",
+          "span": "forcing thousands to flee homes",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イタリアのガルダ湖近くで山火事が発生した。",
+          "span": "a wildfire broke out near Italy’s Lake Garda",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イタリアの山火事により、少なくとも200人が避難した。",
+          "span": "At least 200 people have been evacuated",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "カナダ西部で急速に広がる山火事が発生している。",
+          "span": "fast-moving wildfires spread across western Canada",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ブリティッシュコロンビア州当局は、住民に対し避難準備を整えるよう警告している。",
+          "span": "warn residents to be prepared to leave their homes",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ブリティッシュコロンビア州は避難命令を発令した。",
+          "span": "British Columbia issues evacuation orders",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "カナダのブリティッシュコロンビア州とイタリアのガルダ湖近くで山火事が発生し、多数の住民が避難を余儀なくされている。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     },
     {
@@ -186,150 +522,6 @@
           "facts[1]のspanを「練習中35℃」から「練習中」に修正しました。spanは述部の最小句に限定すべきであり、「35℃」は事実[2]で別途扱っているためです。",
           "facts[2]のspanを「練習中35℃」から「35℃」に修正しました。spanは述部の最小句に限定すべきであり、「練習中」は事実[1]で別途扱っているためです。"
         ]
-      }
-    },
-    {
-      "headline": "災害ボランティア、活動本格化　氷川町でも受け入れ始まる―知事「私たちに力を」・熊本地震",
-      "slug": "災害ボランティア活動本格化氷川町でも受け入れ始ま",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42867"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800301&g=soc&m=rss"
-        }
-      ],
-      "issue": "2024年7月28日の熊本地震の発生メカニズムと復旧活動の現状はどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "7月28日に最大震度7の地震が発生した。",
-          "span": "最大震度7の地震",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この地震は、日奈久断層帯のうち10年前の熊本地震で活動した場所と隣り合う領域がずれ動いて発生したと専門家は分析している。",
-          "span": "隣り合う領域がずれ動き、発生した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "専門家は、断層帯に割れ残っている領域があると分析している。",
-          "span": "割れ残っている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "災害ボランティアの活動が本格化している。",
-          "span": "活動本格化",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "氷川町でも災害ボランティアの受け入れが始まった。",
-          "span": "受け入れ始まる",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "2024年7月28日に最大震度7の地震が発生し、専門家は日奈久断層帯の活動が原因と分析している。また、災害ボランティアの活動が本格化し、知事は支援を呼びかけている。これらの事実について、記事中に対立する評価や意見は示されていない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].span: 元テキストの最小核に修正（空文字から「隣り合う領域がずれ動き、発生した」へ）。",
-          "facts[2].t: 元テキストの文脈（専門家の分析）に合わせ、発言主体を明確にするため「断層帯には割れ残っている領域がある。」から「専門家は、断層帯に割れ残っている領域があると分析している。」へ修正。",
-          "fact spanが原文に無い→除去「日奈久断層帯の隣り合う領域がずれ動き…」"
-        ]
-      }
-    },
-    {
-      "headline": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
-      "slug": "DebilitatingHunterBidens",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss"
-        }
-      ],
-      "issue": "",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "リオネル・メッシの父親であり代理人であるホルヘ・メッシ氏が死去した。",
-          "span": "Lionel Messi's father and agent Jorge dies",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ホルヘ・メッシ氏は68歳だった。",
-          "span": "at the age of 68",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "彼の死は長患いの後だった。",
-          "span": "following a long illness",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "全員一致の最小事実",
-      "note": "",
-      "audit": {
-        "changed": false,
-        "issues": []
       }
     }
   ]

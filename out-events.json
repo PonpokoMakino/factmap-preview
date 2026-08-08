@@ -1,25 +1,26 @@
 {
-  "rankedAt": "2026-08-08T19:02:18.629Z",
+  "rankedAt": "2026-08-08T19:40:33.395Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "【地震速報】岩手 普代村で震度4 津波の心配なし",
-      "slug": "地震速報岩手普代村で震度4津波の心配なし",
-      "time": "2026-08-08T18:59:24.000Z",
-      "independentSources": 3,
+      "headline": "岩手県沿岸北部で震度４の揺れを観測した",
+      "slug": "岩手県沿岸北部で震度の揺れを観測した",
+      "time": "2026-08-08T19:36:33.000Z",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "気象庁 地震・火山"
       ],
-      "count": 9,
+      "count": 13,
       "hasPrimary": true,
       "members": [
         {
-          "title": "【地震速報】岩手 普代村で震度4 津波の心配なし",
-          "snippet": "9日午前2時58分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は岩手県沖で震源の深さは40キロ、地震の規模を示すマグニチュードは5.6と推定されます。\n各市町村の震度は以下の…",
+          "title": "【地震速報】熊本県で震度3",
+          "snippet": "9日午前4時33分ごろ地震がありました。\n現在、震度3以上が観測されている地域は以下のとおりです。\n▼震度3が、熊本県熊本地方。\n今後の情報に注意してください。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42879",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42913",
           "ty": "press",
           "linkKind": "article"
         },
@@ -30,6 +31,38 @@
           "link": "https://news.yahoo.co.jp/pickup/6591037?source=rss",
           "ty": "press",
           "linkKind": "article"
+        },
+        {
+          "title": "岩手県沿岸北部で震度４の揺れを観測した",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900034&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　９日０４時３３分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193615_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう　９日０４時３３分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193526_0_VXSE52_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震度速報",
+          "snippet": "【震度速報】　９日０４時３３分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193442_0_VXSE51_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
           "title": "震源・震度に関する情報",
@@ -90,6 +123,114 @@
       ]
     },
     {
+      "headline": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
+      "slug": "台風13号影響は長時間続く警戒を台風15号の動き",
+      "time": "2026-08-08T19:37:04.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 7,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
+          "snippet": "大型で非常に強い台風13号は沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42871",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【富山県気象警報・注意報】富山県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193705_0_VPWW54_160000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【富山県気象警報・注意報】富山県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193705_0_VPWW53_160000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【富山県土砂災害警報・注意報】富山県では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193703_0_VPWW56_160000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【鹿児島県（奄美地方を除く）気象警報・注意報】薩摩、大隅、種子島・屋久島地方では、土砂災害や高波、竜巻などの激しい突風、落雷に注意してください。薩摩、大隅地方では、低い土地の浸水や強風に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193408_0_VPWW53_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【鹿児島県（奄美地方を除く）気象警報・注意報】薩摩、大隅、種子島・屋久島地方では、土砂災害や高波、竜巻などの激しい突風、落雷に注意してください。薩摩、大隅地方では、低い土地の浸水や強風に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193408_0_VPWW54_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【鹿児島県（奄美地方を除く）土砂災害警報・注意報】鹿児島県（奄美地方除く）では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193353_0_VPWW56_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+      "slug": "FastmovingCanadawildfire",
+      "time": "2026-08-08T19:13:03.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
+          "snippet": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 ",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "At least 200 people evacuated as wildfire rages near Lake Garda",
+          "snippet": "At least 200 people have been evacuated after a wildfire broke out near Italy’s Lake Garda.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
+          "snippet": "Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
       "slug": "ラグビリグワンフィジ出身選手が死亡熱中症疑いで搬",
       "time": "2026-08-08T16:54:00.000Z",
@@ -114,36 +255,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591031?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "災害ボランティア、活動本格化　氷川町でも受け入れ始まる―知事「私たちに力を」・熊本地震",
-      "slug": "災害ボランティア活動本格化氷川町でも受け入れ始ま",
-      "time": "2026-08-08T16:53:00.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-          "snippet": "7月28日に発生した最大震度7の地震は「日奈久断層帯」のうち10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残っていると…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42867",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "災害ボランティア、活動本格化　氷川町でも受け入れ始まる―知事「私たちに力を」・熊本地震",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800301&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -240,128 +351,9 @@
       ]
     },
     {
-      "headline": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-      "slug": "FastmovingCanadawildfire",
-      "time": "2026-08-08T18:13:49.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-          "snippet": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread to more than 36 sq miles (95 ",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "British Columbia issues evacuation orders ahead of fast-moving wildfires",
-          "snippet": "Authorities warn residents to be prepared to leave their homes as fast-moving wildfires spread across western Canada.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-      "slug": "SaudiPakistanTurkiyepact",
-      "time": "2026-08-08T16:52:11.000Z",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
-          "snippet": "The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-      "slug": "WatchMomentoppositionMPt",
-      "time": "2026-08-08T16:09:06.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
-          "snippet": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards K",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Opposition MP hurls eggs at Kosovo Prime Minister",
-          "snippet": "An opposition lawmaker threw eggs at acting Prime Minster Albin Kurti during a parliamentary session.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-08-08T19:00:19.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808190021_0_VPTW62_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808184541_0_VPTW60_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-08T18:41:35.000Z",
+      "time": "2026-08-08T19:35:35.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -371,69 +363,19 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【十勝地方気象警報・注意報】十勝地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【山形県気象警報・注意報】山形県では、竜巻などの激しい突風や落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808184136_0_VPWW53_014030.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193536_0_VPWW53_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【十勝地方気象警報・注意報】十勝地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【山形県気象警報・注意報】山形県では、竜巻などの激しい突風や落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808184136_0_VPWW54_014030.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193536_0_VPWW54_060000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-08T18:41:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【胆振・日高地方気象警報・注意報】日高地方では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808184107_0_VPWW54_015000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【胆振・日高地方気象警報・注意報】日高地方では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808184107_0_VPWW53_015000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
-      "slug": "台風13号影響は長時間続く警戒を台風15号の動き",
-      "time": "2026-08-08T16:50:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
-          "snippet": "大型で非常に強い台風13号は沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42871",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
@@ -453,6 +395,27 @@
           "snippet": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260808de42872",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+      "slug": "熊本地震10年前の地震と隣り合う領域で発生か専門",
+      "time": "2026-08-08T16:53:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+          "snippet": "7月28日に発生した最大震度7の地震は「日奈久断層帯」のうち10年前の熊本地震の際に活動した場所と隣り合う領域がずれ動き、発生したとみられることが専門家の分析で分かりました。断層帯には割れ残っていると…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42867",
           "ty": "press",
           "linkKind": "article"
         }
@@ -627,9 +590,9 @@
       ]
     },
     {
-      "headline": "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
-      "slug": "高市首相に新たな動画問題熊本視察風アピル",
-      "time": "2026-08-07T22:09:00.000Z",
+      "headline": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
+      "slug": "ドイツ月熱波で人死亡冷房普及せず備え不足",
+      "time": "2026-08-06T09:43:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -638,10 +601,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
+          "title": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700880&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080600962&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ライン川渇水が水運直撃　供給混乱で産業界悲鳴―ドイツ",
+      "slug": "ライン川渇水が水運直撃供給混乱で産業界悲鳴ドイツ",
+      "time": "2026-08-08T11:35:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ライン川渇水が水運直撃　供給混乱で産業界悲鳴―ドイツ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800239&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -669,9 +653,9 @@
       ]
     },
     {
-      "headline": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
-      "slug": "ドイツ月熱波で人死亡冷房普及せず備え不足",
-      "time": "2026-08-06T09:43:00.000Z",
+      "headline": "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
+      "slug": "高市首相に新たな動画問題熊本視察風アピル",
+      "time": "2026-08-07T22:09:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -680,19 +664,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
+          "title": "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080600962&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080700880&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "ＤｅＮＡの筒香がサヨナラ本塁打　プロ野球・ＤｅＮＡ４―３広島",
-      "slug": "の筒香がサヨナラ本塁打プロ野球広島",
-      "time": "2026-08-08T14:00:00.000Z",
+      "headline": "雇用急ブレーキ、９月利上げ後退　物価上昇リスク板挟みに―米ＦＲＢ",
+      "slug": "雇用急ブレキ月利上げ後退物価上昇リスク板挟みに米",
+      "time": "2026-08-08T11:34:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -701,73 +685,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ＤｅＮＡの筒香がサヨナラ本塁打　プロ野球・ＤｅＮＡ４―３広島",
+          "title": "雇用急ブレーキ、９月利上げ後退　物価上昇リスク板挟みに―米ＦＲＢ",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800405&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "押し込まれた千葉　Ｊリーグ",
-      "slug": "押し込まれた千葉リグ",
-      "time": "2026-08-08T13:53:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "押し込まれた千葉　Ｊリーグ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800404&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ラグビー日本代表・談話",
-      "slug": "ラグビ日本代表談話",
-      "time": "2026-08-08T13:46:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ラグビー日本代表・談話",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800400&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "トランプ米大統領、ＦＲＢ理事解任へ　最高裁は無効判断、揺らぐ独立性",
-      "slug": "トランプ米大統領理事解任へ最高裁は無効判断揺らぐ",
-      "time": "2026-08-08T03:24:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "トランプ米大統領、ＦＲＢ理事解任へ　最高裁は無効判断、揺らぐ独立性",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800074&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080800232&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -795,114 +716,72 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-08T17:00:00.000Z",
+      "headline": "９日、長崎原爆の日　８１年目、「法の支配」回復を要請",
+      "slug": "日長崎原爆の日年目法の支配回復を要請",
+      "time": "2026-08-08T11:32:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 地震・火山"
+        "時事ドットコム"
       ],
       "count": 1,
-      "hasPrimary": true,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808170048_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "９日、長崎原爆の日　８１年目、「法の支配」回復を要請",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800229&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-08T17:00:00.000Z",
+      "headline": "学校銃乱射事件、女子生徒も死亡　死者、犯人含め９人に―タイ",
+      "slug": "学校銃乱射事件女子生徒も死亡死者犯人含め人にタイ",
+      "time": "2026-08-08T13:05:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 地震・火山"
+        "時事ドットコム"
       ],
       "count": 1,
-      "hasPrimary": true,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808170051_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "学校銃乱射事件、女子生徒も死亡　死者、犯人含め９人に―タイ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800381&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-08T17:00:00.000Z",
+      "headline": "悠仁さま、朝食作りに参加　ボーイスカウト祭典、同世代と交流―広島",
+      "slug": "悠仁さま朝食作りに参加ボイスカウト祭典同世代と交",
+      "time": "2026-08-08T10:58:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 地震・火山"
+        "時事ドットコム"
       ],
       "count": 1,
-      "hasPrimary": true,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、９日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808170055_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-08T19:00:07.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【岐阜県土砂災害警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808190007_0_VPWW56_210000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "台風の暴風域に入る確率",
-      "slug": "台風の暴風域に入る確率",
-      "time": "2026-08-08T18:48:05.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風の暴風域に入る確率",
-          "snippet": "【台風の暴風域に入る確率】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808184930_0_VPTA50_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "悠仁さま、朝食作りに参加　ボーイスカウト祭典、同世代と交流―広島",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800202&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
     {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-08T18:41:31.000Z",
+      "time": "2026-08-08T19:35:31.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -912,18 +791,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【十勝地方雷・濃霧注意報】十勝地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【山形県雷・濃霧注意報】山形県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808184132_0_VPWW61_014030.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193532_0_VPWW61_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-08T18:41:05.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-08T19:31:08.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -932,12 +811,33 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【釧路・根室地方気象警報・注意報】釧路・根室地方では、濃霧による視程障害に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808184106_0_VPWW53_014100.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193109_0_VPWW54_460040.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "slug": "HormuztalkspositiveOmans",
+      "time": "2026-08-08T19:18:57.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "snippet": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclea",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -1026,9 +926,9 @@
       ]
     },
     {
-      "headline": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-      "slug": "ThaiPMvowstointroducestr",
-      "time": "2026-08-07T21:19:27.000Z",
+      "headline": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "slug": "WatchMomentoppositionMPt",
+      "time": "2026-08-08T15:59:37.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1037,10 +937,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
-          "snippet": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+          "title": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+          "snippet": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards K",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+      "slug": "Lebanesesoldiersinjuredw",
+      "time": "2026-08-08T19:00:43.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Lebanese soldiers injured while Israeli troops intrude on southern town",
+          "snippet": "Soldiers disarm unexploded ordnance in Zawtar al-Gharbiyah, near where Israeli forces reportedly built an earth barrier.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/8/lebanese-soldiers-injured-while-israeli-troops-intrude-on-southern-town?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+      "slug": "USslamsChinesenaturerese",
+      "time": "2026-08-08T18:57:53.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US slams Chinese ‘nature reserve’ as effort to claim South China Sea",
+          "snippet": "US State Department accuses China of attempting to deny Filipino vessels access to fishing grounds in contested area.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/8/us-slams-chinese-nature-reserve-as-effort-to-claim-south-china-sea?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1089,9 +1031,9 @@
       ]
     },
     {
-      "headline": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
-      "slug": "Whichstarsneedtoshinethi",
-      "time": "2026-08-08T16:26:36.000Z",
+      "headline": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
+      "slug": "SaudiPakistanTurkiyepact",
+      "time": "2026-08-08T16:52:11.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1100,31 +1042,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Which stars need to shine this season: Real Madrid, Barcelona, Man Utd, PSG",
-          "snippet": "From the Premier League and La Liga to the UEFA Champions League, which players hold the key to their clubs&#039; season",
+          "title": "Saudi-Pakistan-Turkiye pact: A new shield or strategic signal?",
+          "snippet": "The agreement names no adversary, but analysts say Iran and its regional network are central to the thinking behind it.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/8/which-stars-need-to-shine-this-season-real-madrid-barcelona-man-utd-psg?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "UNRWA has been with me since birth, I cannot imagine a future without it",
-      "slug": "UNRWAhasbeenwithmesinceb",
-      "time": "2026-08-08T15:52:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "UNRWA has been with me since birth, I cannot imagine a future without it",
-          "snippet": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/8/saudi-pakistan-turkiye-pact-a-new-shield-or-strategic-signal?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
