@@ -1,19 +1,18 @@
 {
-  "rankedAt": "2026-08-08T03:55:13.326Z",
+  "rankedAt": "2026-08-08T04:55:55.037Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風１３号、中国大陸へ　沖縄・奄美は土砂災害など警戒―気象庁",
       "slug": "台風号中国大陸へ沖縄奄美は土砂災害など警戒気象庁",
-      "time": "2026-08-08T03:53:32.000Z",
-      "independentSources": 4,
+      "time": "2026-08-08T04:53:47.000Z",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム",
         "気象庁 気象警報・注意報"
       ],
-      "count": 9,
+      "count": 7,
       "hasPrimary": true,
       "members": [
         {
@@ -21,14 +20,6 @@
           "snippet": "大型で非常に強い台風13号は、沖縄県の北西の海上を進んでいて久米島などが暴風域に入っています。沖縄・奄美では風や雨の影響が長時間続いていて暴風などに厳重な警戒を続けてください。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015199841000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "台風15号 11-12日接近・上陸恐れ",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590959?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -41,50 +32,42 @@
           "linkKind": "article"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や落雷に注意してください。西部では、低い土地の浸水に注意してください。東部では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808035334_0_VPWW53_040000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や落雷に注意してください。西部では、低い土地の浸水に注意してください。東部では、濃霧による視程障害に注意してください。",
+          "snippet": "【群馬県気象警報・注意報】群馬県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。北部では、低い土地の浸水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808035333_0_VPWW54_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808045348_0_VPWW54_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【青森県気象警報・注意報】三八上北では、土砂災害に注意してください。津軽、三八上北では、落雷に注意してください。",
+          "snippet": "【群馬県気象警報・注意報】群馬県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。北部では、低い土地の浸水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808035206_0_VPWW53_020000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808045348_0_VPWW53_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【群馬県土砂災害警報・注意報】群馬県では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808045344_0_VPWW56_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【青森県気象警報・注意報】三八上北では、土砂災害に注意してください。津軽、三八上北では、落雷に注意してください。",
+          "snippet": "【長野県気象警報・注意報】北部では、土砂災害に注意してください。北部、中部では、低い土地の浸水に注意してください。長野県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808035206_0_VPWW54_020000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808044546_0_VPWW54_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【青森県土砂災害警報・注意報】三八上北では、土砂災害に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【長野県気象警報・注意報】北部では、土砂災害に注意してください。北部、中部では、低い土地の浸水に注意してください。長野県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808035157_0_VPWW56_020000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【山形県土砂災害警報・注意報】村山、最上では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808034721_0_VPWW56_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808044546_0_VPWW53_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -100,7 +83,7 @@
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 3,
+      "count": 4,
       "hasPrimary": false,
       "members": [
         {
@@ -108,6 +91,14 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -124,82 +115,6 @@
           "snippet": "Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
-      "slug": "熊本地震死者1人増災害関連死の疑い1人含め死者3",
-      "time": "2026-08-08T03:17:29.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "熊本 各地で厳しい暑さ熱中症対策徹底 揺れにも備えを",
-          "snippet": "最大震度7の地震で大きな被害のあった熊本県では8日も午前中から厳しい暑さとなっています。午後も気温が上がる見込みで水分をこまめにとるなどできるかぎりの熱中症対策を続けてください。また、風がやや強い状態…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199781000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
-          "snippet": "熊本県は、8日午前7時半の時点で、県内では今回の地震による「直接死」かどうか調査している人が1人増えて2人になり、災害関連死の疑いがある1人を含めて39人が亡くなったと発表しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199981000",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "熊本地震、死者３９人に　関連調査中が１人増え",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800192&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-      "slug": "USSenatepassessweepingRu",
-      "time": "2026-08-08T03:20:41.000Z",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "Al Jazeera"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "対ロ制裁法案を可決　原油主要輸入国に関税１００％―米上院",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800158&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US Senate passes Russia sanctions that could hurt India and China",
-          "snippet": "The US Senate approved its strongest move against Russia under Trump.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-          "snippet": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -229,36 +144,67 @@
           "title": "インドネシアに「ドラえもん」１６人　日本アニメの影響浸透",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800111&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080800111&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "及川光博が再婚 お相手は妊娠",
-      "slug": "及川光博が再婚お相手は妊娠",
-      "time": "2026-08-08T03:23:21.000Z",
-      "independentSources": 1,
+      "headline": "悠仁さま、朝食作りに参加　ボーイスカウト祭典、同世代と交流―広島",
+      "slug": "悠仁さま朝食作りに参加ボイスカウト祭典同世代と交",
+      "time": "2026-08-08T02:34:00.000Z",
+      "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要"
+        "NHK 主要ニュース",
+        "時事ドットコム"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "及川光博が再婚 お相手は妊娠",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590956?source=rss",
+          "title": "悠仁さま ボーイスカウトのキャンプで豚汁作りや木工体験",
+          "snippet": "秋篠宮ご夫妻の長男の悠仁さまは、広島県で行われているボーイスカウトのキャンプ大会で、朝食の豚汁作りや木製のコースター作りを体験されました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015199941000",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "声優の衣川里佳 結婚を発表",
+          "title": "悠仁さま、朝食作りに参加　ボーイスカウト祭典、同世代と交流―広島",
           "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590961?source=rss",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800202&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Russian strikes near Ukrainian capital kill three, including child",
+      "slug": "RussianstrikesnearUkrain",
+      "time": "2026-08-08T04:23:33.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Child among three killed in Russian missile attacks near Kyiv",
+          "snippet": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of miss",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Russian strikes near Ukrainian capital kill three, including child",
+          "snippet": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -294,9 +240,9 @@
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-08T03:47:25.000Z",
+      "headline": "竜巻注意情報（目撃情報付き）",
+      "slug": "竜巻注意情報目撃情報付き",
+      "time": "2026-08-08T04:53:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -305,78 +251,20 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【山形県気象警報・注意報】村山では、低い土地の浸水に警戒してください。",
+          "title": "竜巻注意情報",
+          "snippet": "【群馬県気象防災速報（竜巻注意）】群馬県南部、北部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてく",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808034727_0_VPWW53_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808045302_0_VPHW50_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山形県気象警報・注意報】村山では、低い土地の浸水に警戒してください。",
+          "title": "竜巻注意情報（目撃情報付き）",
+          "snippet": "【群馬県気象防災速報（竜巻注意）】群馬県南部、北部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてく",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808034726_0_VPWW54_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808045303_0_VPHW51_100000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
-      "slug": "DelaEspriellasworninasCo",
-      "time": "2026-08-08T01:15:53.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
-          "snippet": "Right-wing politician Abelardo De La Espriella takes office after narrowly winning June’s presidential runoff.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
-          "snippet": "The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Submerged Indonesian village re-emerges as drought lowers water levels",
-      "slug": "SubmergedIndonesianvilla",
-      "time": "2026-08-08T02:54:02.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
-          "snippet": "Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Puerto Rico rations water as severe drought leaves reservoirs depleted",
-          "snippet": "Puerto Rico is beginning 48-hour water rationing for more than 180,000 households as severe drought depletes reservoirs.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/puerto-rico-rations-water-as-severe-drought-leaves-reservoirs-depleted?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
@@ -396,6 +284,27 @@
           "snippet": "お盆休みをふるさとや行楽地で過ごす人たちの混雑は、8日がピークです。新幹線の下りでは満席が多くなっていて、高速道路の下りも20キロを超える渋滞となっています。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015199951000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "地震被害の熊本 氷川町でボランティアが活動開始",
+      "slug": "地震被害の熊本氷川町でボランティアが活動開始",
+      "time": "2026-08-08T04:15:31.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "地震被害の熊本 氷川町でボランティアが活動開始",
+          "snippet": "今回の地震で大きな被害を受けた熊本県氷川町では、8日からボランティアの活動が始まり、被災した住宅の片づけなどにあたっています。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015200101000",
           "ty": "press",
           "linkKind": "article"
         }
@@ -423,9 +332,9 @@
       ]
     },
     {
-      "headline": "悠仁さま ボーイスカウトのキャンプで豚汁作りや木工体験",
-      "slug": "悠仁さまボイスカウトのキャンプで豚汁作りや木工体",
-      "time": "2026-08-08T02:21:35.000Z",
+      "headline": "きょうも猛暑日に熱中症対策徹底を 午後は大気不安定に",
+      "slug": "きょうも猛暑日に熱中症対策徹底を午後は大気不安定",
+      "time": "2026-08-08T03:25:05.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -434,10 +343,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "悠仁さま ボーイスカウトのキャンプで豚汁作りや木工体験",
-          "snippet": "秋篠宮ご夫妻の長男の悠仁さまは、広島県で行われているボーイスカウトのキャンプ大会で、朝食の豚汁作りや木製のコースター作りを体験されました。",
+          "title": "きょうも猛暑日に熱中症対策徹底を 午後は大気不安定に",
+          "snippet": "8日も西日本などを中心に、午前中から35度以上の猛暑日となっているところがあります。熱中症への対策を徹底してください。一方、午後は、大気の状態が非常に不安定になり、局地的に非常に激しい雨が降るところも…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199941000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015200031000",
           "ty": "press",
           "linkKind": "article"
         }
@@ -486,9 +395,9 @@
       ]
     },
     {
-      "headline": "野球部員死亡 別CT画像で診察か",
-      "slug": "野球部員死亡別CT画像で診察か",
-      "time": "2026-08-08T00:13:58.000Z",
+      "headline": "露唯一の反戦政党 選挙排除の危機",
+      "slug": "露唯一の反戦政党選挙排除の危機",
+      "time": "2026-08-08T04:12:47.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -497,19 +406,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "野球部員死亡 別CT画像で診察か",
+          "title": "露唯一の反戦政党 選挙排除の危機",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590937?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590966?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "日本のマヨネーズ 世界でなぜ人気",
-      "slug": "日本のマヨネズ世界でなぜ人気",
-      "time": "2026-08-08T01:08:32.000Z",
+      "headline": "高速道で何度も追突され 一部始終",
+      "slug": "高速道で何度も追突され一部始終",
+      "time": "2026-08-08T01:59:41.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -518,19 +427,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "日本のマヨネーズ 世界でなぜ人気",
+          "title": "高速道で何度も追突され 一部始終",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590943?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590948?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "速報 Dバックスvs.ドジャース",
-      "slug": "速報Dバックスvsドジャス",
-      "time": "2026-08-08T03:41:50.000Z",
+      "headline": "令和8年8月8日 婚姻届窓口に行列",
+      "slug": "令和8年8月8日婚姻届窓口に行列",
+      "time": "2026-08-08T03:18:53.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -539,10 +448,73 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "速報 Dバックスvs.ドジャース",
+          "title": "令和8年8月8日 婚姻届窓口に行列",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590963?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590958?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ド軍7連敗 悪夢のサヨナラ負け",
+      "slug": "ド軍7連敗悪夢のサヨナラ負け",
+      "time": "2026-08-08T04:30:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ド軍7連敗 悪夢のサヨナラ負け",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590969?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "スノボHP冨田せな 結婚を発表",
+      "slug": "スノボHP冨田せな結婚を発表",
+      "time": "2026-08-08T04:42:34.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "スノボHP冨田せな 結婚を発表",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590970?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "及川光博が再婚 お相手は妊娠",
+      "slug": "及川光博が再婚お相手は妊娠",
+      "time": "2026-08-08T02:50:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "及川光博が再婚 お相手は妊娠",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590956?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -570,27 +542,6 @@
       ]
     },
     {
-      "headline": "侵攻「順調」が過去最低　対ウクライナ、厭戦気分か―ロシア世論",
-      "slug": "侵攻順調が過去最低対ウクライナ厭戦気分かロシア世",
-      "time": "2026-08-07T22:21:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "侵攻「順調」が過去最低　対ウクライナ、厭戦気分か―ロシア世論",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800134&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
       "slug": "ドイツ月熱波で人死亡冷房普及せず備え不足",
       "time": "2026-08-06T09:43:00.000Z",
@@ -606,6 +557,27 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026080600962&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "侵攻「順調」が過去最低　対ウクライナ、厭戦気分か―ロシア世論",
+      "slug": "侵攻順調が過去最低対ウクライナ厭戦気分かロシア世",
+      "time": "2026-08-07T22:21:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "侵攻「順調」が過去最低　対ウクライナ、厭戦気分か―ロシア世論",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800134&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -633,9 +605,9 @@
       ]
     },
     {
-      "headline": "財源なき減税、揺らぐ信認　積極財政に「日本売り」危機―高市政権「悲願」に固執",
-      "slug": "財源なき減税揺らぐ信認積極財政に日本売り危機高市",
-      "time": "2026-08-05T10:40:00.000Z",
+      "headline": "デラエスプリエジャ大統領が就任　親米右派、対日強化も―コロンビア",
+      "slug": "デラエスプリエジャ大統領が就任親米右派対日強化も",
+      "time": "2026-08-08T02:21:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -644,10 +616,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "財源なき減税、揺らぐ信認　積極財政に「日本売り」危機―高市政権「悲願」に固執",
+          "title": "デラエスプリエジャ大統領が就任　親米右派、対日強化も―コロンビア",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080500988&g=cyr&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080800145&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -824,7 +796,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-08T03:53:28.000Z",
+      "time": "2026-08-08T04:53:44.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -834,9 +806,9 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【宮城県大雨警報・注意報】西部では、低い土地の浸水や河川の増水に注意してください。",
+          "snippet": "【群馬県大雨警報・注意報】北部では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808035328_0_VPWW55_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808045344_0_VPWW55_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -845,7 +817,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-08T03:47:20.000Z",
+      "time": "2026-08-08T04:45:37.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -855,9 +827,30 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【山形県大雨警報・注意報】村山では、低い土地の浸水や河川の増水に警戒してください。",
+          "snippet": "【長野県大雨警報・注意報】北部、中部では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808034721_0_VPWW55_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808044537_0_VPWW55_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-08T04:43:47.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【山形県気象警報・注意報】村山、置賜では、低い土地の浸水に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808044348_0_VPWW54_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -927,6 +920,27 @@
       ]
     },
     {
+      "headline": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "slug": "IranbecauseIknewIwoulddi",
+      "time": "2026-08-08T00:02:49.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+          "snippet": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "slug": "Spanishpolicearrest78peo",
       "time": "2026-08-07T16:13:45.000Z",
@@ -942,27 +956,6 @@
           "snippet": "The group moved synthetic drugs from Spain to Algeria, then used the return journey to smuggle migrants and weapons.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/clylejzkkx4o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Kidnapped rare Serbian eagle freed into wild after rescue",
-      "slug": "KidnappedrareSerbianeagl",
-      "time": "2026-08-07T20:40:56.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
-          "snippet": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who dema",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -990,9 +983,9 @@
       ]
     },
     {
-      "headline": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
-      "slug": "SophiaLafortezastepsaway",
-      "time": "2026-08-07T21:05:45.000Z",
+      "headline": "Book hidden in fireplace returned to Australian library 150 years overdue",
+      "slug": "Bookhiddeninfireplaceret",
+      "time": "2026-08-07T18:06:58.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1001,19 +994,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Sophia Laforteza steps away from Katseye, the second member to depart this year",
-          "snippet": "The announcement came comes after fellow bandmate Manon Bannerman went on a hiatus from the ensemble.",
+          "title": "Book hidden in fireplace returned to Australian library 150 years overdue",
+          "snippet": "It is thought an apprentice stonemason who worked on the Houses of Parliament in London borrowed it.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4g305dz0y9o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c39eprxln0go?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Mexico and Peru restore diplomatic relations after asylum row",
-      "slug": "MexicoandPerurestoredipl",
-      "time": "2026-08-07T15:38:28.000Z",
+      "headline": "Kidnapped rare Serbian eagle freed into wild after rescue",
+      "slug": "KidnappedrareSerbianeagl",
+      "time": "2026-08-07T20:40:56.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1022,31 +1015,136 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Mexico and Peru restore diplomatic relations after asylum row",
-          "snippet": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November",
+          "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+          "snippet": "Feliks the eagle was abducted as he first flew the nest in Serbia and wound up in the Middle East with poachers who dema",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "A new youth agitation grips an Indian state after 'cockroach' protests",
-      "slug": "Anewyouthagitationgripsa",
-      "time": "2026-08-07T08:32:57.000Z",
+      "headline": "Norway Football Federation calls for FIFA president to resign",
+      "slug": "NorwayFootballFederation",
+      "time": "2026-08-08T04:37:56.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "A new youth agitation grips an Indian state after 'cockroach' protests",
-          "snippet": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jhark",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5ywv6egvx8o?at_medium=RSS&at_campaign=rss",
+          "title": "Norway Football Federation calls for FIFA president to resign",
+          "snippet": "Norway’s football federation has called on Gianni Infantino to resign.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-clip-klaveness-infantino-no?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Armenia puts Church leader on trial for allegedly being a Russian spy",
+      "slug": "ArmeniaputsChurchleadero",
+      "time": "2026-08-08T04:31:42.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Armenia puts Church leader on trial for allegedly being a Russian spy",
+          "snippet": "Armenia’s head of the Apostolic Church and senior clergy could face jail time over allegations of spying for Russia.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-armenia-church-trial-sv?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
+      "slug": "IveneverbeencountedDRCon",
+      "time": "2026-08-08T04:29:46.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "‘I’ve never been counted’: DR Congo’s first census in 42 years",
+          "snippet": "For many Congolese, the census is about identity, recognition and finally being recorded by the state.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/8/ive-never-been-counted-dr-congos-first-census-in-42-years?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+      "slug": "Saudiintelligencechiefme",
+      "time": "2026-08-08T03:42:43.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+          "snippet": "Prime Minister Ali al-Zaidi had cancelled an earlier Saudi trip after deadly July 29 US-Saudi strikes on Iraq.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "US Senate passes Russia sanctions that could hurt India and China",
+      "slug": "USSenatepassesRussiasanc",
+      "time": "2026-08-08T03:20:41.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US Senate passes Russia sanctions that could hurt India and China",
+          "snippet": "The US Senate approved its strongest move against Russia under Trump.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Submerged Indonesian village re-emerges as drought lowers water levels",
+      "slug": "SubmergedIndonesianvilla",
+      "time": "2026-08-08T02:54:02.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+          "snippet": "Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1089,27 +1187,6 @@
           "snippet": "Republican senators are using the summer recess to avoid politically difficult votes.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-      "slug": "Sudanswarthreatensanenti",
-      "time": "2026-08-08T00:24:42.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-          "snippet": "War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
