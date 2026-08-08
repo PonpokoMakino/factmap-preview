@@ -1,11 +1,41 @@
 {
-  "rankedAt": "2026-08-08T05:42:24.436Z",
+  "rankedAt": "2026-08-08T06:25:01.152Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
+      "headline": "トランプ氏、「大統領ビジネス」加速　暗号資産や聖書、野党は批判―米中間選挙",
+      "slug": "トランプ氏大統領ビジネス加速暗号資産や聖書野党は",
+      "time": "2026-08-08T04:13:15.000Z",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "トランプ氏「大統領ビジネス」増",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590964?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "トランプ氏、「大統領ビジネス」加速　暗号資産や聖書、野党は批判―米中間選挙",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080700675&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Russian strikes near Ukrainian capital kill three, including child",
       "slug": "RussianstrikesnearUkrain",
-      "time": "2026-08-08T05:15:51.000Z",
+      "time": "2026-08-08T06:12:56.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -27,36 +57,6 @@
           "snippet": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "What could the Mecca defence pact mean for the US role in the Middle East?",
-      "slug": "WhatcouldtheMeccadefence",
-      "time": "2026-08-08T01:29:14.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-          "snippet": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
-          "snippet": "Analysts say regional partners are seeking alternatives to supplement their security without discarding US support.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/what-could-the-mecca-defence-pact-mean-for-the-us-role-in-the-middle-east?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -92,9 +92,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-08T05:39:41.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-08T06:23:12.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -103,18 +103,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山梨県気象警報・注意報】中・西部では、低い土地の浸水に注意してください。山梨県では、落雷に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や低い土地の浸水、落雷に注意してください。東部では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053942_0_VPWW54_190000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062313_0_VPWW53_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【山梨県気象警報・注意報】中・西部では、低い土地の浸水に注意してください。山梨県では、落雷に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や低い土地の浸水、落雷に注意してください。東部では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053943_0_VPWW53_190000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062313_0_VPWW54_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -123,7 +123,7 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-08T05:39:40.000Z",
+      "time": "2026-08-08T06:21:30.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -133,17 +133,17 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【岐阜県気象警報・注意報】岐阜県では、低い土地の浸水や落雷に注意してください。",
+          "snippet": "【山梨県気象警報・注意報】中・西部では、土砂災害や低い土地の浸水に注意してください。山梨県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053941_0_VPWW53_210000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062131_0_VPWW53_190000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【岐阜県気象警報・注意報】岐阜県では、低い土地の浸水や落雷に注意してください。",
+          "snippet": "【山梨県気象警報・注意報】中・西部では、土砂災害や低い土地の浸水に注意してください。山梨県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053941_0_VPWW54_210000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062131_0_VPWW54_190000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -152,7 +152,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-08-08T05:39:38.000Z",
+      "time": "2026-08-08T06:20:22.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -162,17 +162,17 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【十勝地方気象警報・注意報】十勝地方では、低い土地の浸水や竜巻などの激しい突風、落雷に注意してください。",
+          "snippet": "【福島県気象警報・注意報】中通りでは、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053939_0_VPWW54_014030.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062023_0_VPWW54_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【十勝地方気象警報・注意報】十勝地方では、低い土地の浸水や竜巻などの激しい突風、落雷に注意してください。",
+          "snippet": "【福島県気象警報・注意報】中通りでは、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053939_0_VPWW53_014030.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062024_0_VPWW53_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -210,7 +210,7 @@
     {
       "headline": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
       "slug": "台風13号暴風など長時間続く厳重警戒を中継映像も",
-      "time": "2026-08-08T04:59:37.000Z",
+      "time": "2026-08-08T06:13:51.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -220,9 +220,72 @@
       "members": [
         {
           "title": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
-          "snippet": "大型で非常に強い台風13号は、沖縄県の北西の海上を進んでいて久米島などが暴風域に入っています。沖縄・奄美では風や雨の影響が長時間続いていて暴風などに厳重な警戒を続けてください。",
+          "snippet": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいて久米島などが暴風域に入っています。沖縄・奄美では風や雨の影響が長時間続いていて暴風などに厳重な警戒を続けてください。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/na-k10015199841000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "新潟 中越で線状降水帯発生のおそれ 直前予測を発表",
+      "slug": "新潟中越で線状降水帯発生のおそれ直前予測を発表",
+      "time": "2026-08-08T06:16:55.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "新潟 中越で線状降水帯発生のおそれ 直前予測を発表",
+          "snippet": "気象庁は新潟県の中越では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午後3時8分、「線状降水帯直前予測」の気象防災速報を発表しました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015200201000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+      "slug": "オプンAI開発一時中断AIみずからサイバ攻撃実行",
+      "time": "2026-08-08T06:10:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+          "snippet": "生成AIの「ChatGPT」の開発を手がけるアメリカのオープンAIは、AIモデル「アストラ」の開発の一時中断を7日、発表しました。理由について、AIの能力が大幅に向上し、みずからの判断で重大なサイバー…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015200151000",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "熊本 氷川町でボランティアが活動開始【8日 被災地の動き】",
+      "slug": "熊本氷川町でボランティアが活動開始8日被災地の動",
+      "time": "2026-08-08T06:21:43.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "熊本 氷川町でボランティアが活動開始【8日 被災地の動き】",
+          "snippet": "最大震度7の地震で大きな被害のあった熊本県。8月8日の被災地や、支援の動きをまとめました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015200101000",
           "ty": "press",
           "linkKind": "article"
         }
@@ -250,48 +313,6 @@
       ]
     },
     {
-      "headline": "千葉 南房総 海水浴場で男性2人が溺れる このうち1人意識なし",
-      "slug": "千葉南房総海水浴場で男性2人が溺れるこのうち1人",
-      "time": "2026-08-08T04:56:52.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "千葉 南房総 海水浴場で男性2人が溺れる このうち1人意識なし",
-          "snippet": "8日午前、千葉県南房総市の海水浴場で男性2人が溺れ、このうち60代の1人が意識がない状態で病院に搬送されました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015200141000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "地震被害の熊本 氷川町でボランティアが活動開始",
-      "slug": "地震被害の熊本氷川町でボランティアが活動開始",
-      "time": "2026-08-08T04:15:31.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "地震被害の熊本 氷川町でボランティアが活動開始",
-          "snippet": "今回の地震で大きな被害を受けた熊本県氷川町では、8日からボランティアの活動が始まり、被災した住宅の片づけなどにあたっています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015200101000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か",
       "slug": "ロシアがNATO限定侵攻の可能性も米情報機関が分",
       "time": "2026-08-08T01:19:45.000Z",
@@ -313,9 +334,9 @@
       ]
     },
     {
-      "headline": "悠仁さま ボーイスカウトのキャンプで豚汁作りや木工体験",
-      "slug": "悠仁さまボイスカウトのキャンプで豚汁作りや木工体",
-      "time": "2026-08-08T02:21:35.000Z",
+      "headline": "高校野球 初出場の東日大昌平が白樺学園をリード（5回終了時）",
+      "slug": "高校野球初出場の東日大昌平が白樺学園をリド5回終",
+      "time": "2026-08-08T05:51:58.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -324,40 +345,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "悠仁さま ボーイスカウトのキャンプで豚汁作りや木工体験",
-          "snippet": "秋篠宮ご夫妻の長男の悠仁さまは、広島県で行われているボーイスカウトのキャンプ大会で、朝食の豚汁作りや木製のコースター作りを体験されました。",
+          "title": "高校野球 初出場の東日大昌平が白樺学園をリード（5回終了時）",
+          "snippet": "夏の全国高校野球、大会4日目の第2試合は、5回を終えて、初出場、福島の東日本国際大昌平高校が北北海道の白樺学園を1対0でリードしています。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199941000",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015200171000",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "高校野球 青森山田が遊学館に競り勝ち2回戦へ",
-      "slug": "高校野球青森山田が遊学館に競り勝ち2回戦へ",
-      "time": "2026-08-08T05:13:38.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "高校野球 青森山田が遊学館に競り勝ち2回戦へ",
-          "snippet": "夏の全国高校野球、大会4日目の第1試合は、先に6点をリードした青森山田高校が、石川の遊学館高校の追い上げを振り切って6対5で勝ち、2回戦に進みました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199911000",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "高市首相 人事で旧安倍派重用か",
-      "slug": "高市首相人事で旧安倍派重用か",
-      "time": "2026-08-08T04:03:47.000Z",
+      "headline": "自民党「萩生田幹事長」案が浮上",
+      "slug": "自民党萩生田幹事長案が浮上",
+      "time": "2026-08-08T06:01:53.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -366,19 +366,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "高市首相 人事で旧安倍派重用か",
+          "title": "自民党「萩生田幹事長」案が浮上",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590962?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590982?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "無理に学校行かせ被爆死 母は自責",
-      "slug": "無理に学校行かせ被爆死母は自責",
-      "time": "2026-08-08T02:48:25.000Z",
+      "headline": "大分 被害なしでも旅先変更相次ぐ",
+      "slug": "大分被害なしでも旅先変更相次ぐ",
+      "time": "2026-08-08T04:08:46.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -387,10 +387,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "無理に学校行かせ被爆死 母は自責",
+          "title": "大分 被害なしでも旅先変更相次ぐ",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590957?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6590967?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "男性2人溺れ1人心肺停止 海水浴場",
+      "slug": "男性2人溺れ1人心肺停止海水浴場",
+      "time": "2026-08-08T05:43:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "男性2人溺れ1人心肺停止 海水浴場",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6590979?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -460,48 +481,6 @@
       ]
     },
     {
-      "headline": "令和8年8月8日 婚姻届窓口に行列",
-      "slug": "令和8年8月8日婚姻届窓口に行列",
-      "time": "2026-08-08T03:18:53.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "令和8年8月8日 婚姻届窓口に行列",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590958?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "スノボHP冨田せな 結婚を発表",
-      "slug": "スノボHP冨田せな結婚を発表",
-      "time": "2026-08-08T04:42:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "スノボHP冨田せな 結婚を発表",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590970?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "ミッチー再婚 芸能界50代パパ続々",
       "slug": "ミッチ再婚芸能界50代パパ続",
       "time": "2026-08-08T05:06:56.000Z",
@@ -517,69 +496,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6590972?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "侵攻「順調」が過去最低　対ウクライナ、厭戦気分か―ロシア世論",
-      "slug": "侵攻順調が過去最低対ウクライナ厭戦気分かロシア世",
-      "time": "2026-08-07T22:21:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "侵攻「順調」が過去最低　対ウクライナ、厭戦気分か―ロシア世論",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800134&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
-      "slug": "高市首相に新たな動画問題熊本視察風アピル",
-      "time": "2026-08-07T22:09:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080700880&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
-      "slug": "サウジアラビアとパキスタントルコのカ国は相互防衛",
-      "time": "2026-08-07T11:19:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -607,9 +523,9 @@
       ]
     },
     {
-      "headline": "インドネシアに「ドラえもん」１６人　日本アニメの影響浸透",
-      "slug": "インドネシアにドラえもん人日本アニメの影響浸透",
-      "time": "2026-08-07T21:14:00.000Z",
+      "headline": "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
+      "slug": "高市首相に新たな動画問題熊本視察風アピル",
+      "time": "2026-08-07T22:09:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -618,52 +534,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "インドネシアに「ドラえもん」１６人　日本アニメの影響浸透",
+          "title": "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800111&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "トランプ米大統領、ＦＲＢ理事解任へ　最高裁は無効判断、揺らぐ独立性",
-      "slug": "トランプ米大統領理事解任へ最高裁は無効判断揺らぐ",
-      "time": "2026-08-08T03:24:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "トランプ米大統領、ＦＲＢ理事解任へ　最高裁は無効判断、揺らぐ独立性",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800074&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
-      "slug": "サウジなどカ国共同防衛協定イスラム版指摘も",
-      "time": "2026-08-07T13:32:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080700880&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -691,9 +565,9 @@
       ]
     },
     {
-      "headline": "対ロ制裁法案を可決　原油主要輸入国に関税１００％―米上院",
-      "slug": "対ロ制裁法案を可決原油主要輸入国に関税米上院",
-      "time": "2026-08-07T23:39:00.000Z",
+      "headline": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
+      "slug": "サウジなどカ国共同防衛協定イスラム版指摘も",
+      "time": "2026-08-07T13:32:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -702,10 +576,94 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "対ロ制裁法案を可決　原油主要輸入国に関税１００％―米上院",
+          "title": "サウジなど３カ国、共同防衛協定　「イスラム版ＮＡＴＯ」指摘も",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800158&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
+      "slug": "サウジアラビアとパキスタントルコのカ国は相互防衛",
+      "time": "2026-08-07T11:19:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "侵攻「順調」が過去最低　対ウクライナ、厭戦気分か―ロシア世論",
+      "slug": "侵攻順調が過去最低対ウクライナ厭戦気分かロシア世",
+      "time": "2026-08-07T22:21:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "侵攻「順調」が過去最低　対ウクライナ、厭戦気分か―ロシア世論",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800134&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "トランプ米大統領、ＦＲＢ理事解任へ　最高裁は無効判断、揺らぐ独立性",
+      "slug": "トランプ米大統領理事解任へ最高裁は無効判断揺らぐ",
+      "time": "2026-08-08T03:24:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "トランプ米大統領、ＦＲＢ理事解任へ　最高裁は無効判断、揺らぐ独立性",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800074&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "国税不祥事、「前例ない事態次々」に危機感　「パパ活」、情報漏えいも",
+      "slug": "国税不祥事前例ない事態次に危機感パパ活情報漏えい",
+      "time": "2026-08-07T07:43:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "国税不祥事、「前例ない事態次々」に危機感　「パパ活」、情報漏えいも",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080700626&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -903,7 +861,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-08T05:39:36.000Z",
+      "time": "2026-08-08T06:22:58.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -913,18 +871,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【十勝地方大雨警報・注意報】十勝地方では、低い土地の浸水や河川の増水に注意してください。",
+          "snippet": "【宮城県大雨警報・注意報】宮城県では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053936_0_VPWW55_014030.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062259_0_VPWW55_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-08T05:39:35.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
+      "slug": "気象警報注意報土砂",
+      "time": "2026-08-08T06:22:58.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -933,10 +891,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【岐阜県大雨警報・注意報】岐阜県では、低い土地の浸水や河川の増水に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【宮城県土砂災害警報・注意報】宮城県では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053936_0_VPWW55_210000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062259_0_VPWW56_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -945,7 +903,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-08T05:39:35.000Z",
+      "time": "2026-08-08T06:21:21.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -957,16 +915,16 @@
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
           "snippet": "【山梨県大雨警報・注意報】中・西部では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053936_0_VPWW55_190000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062122_0_VPWW55_190000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-08T05:37:41.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-08T06:20:18.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -975,10 +933,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【石狩・空知・後志地方気象警報・注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【福島県大雨警報・注意報】中通りでは、低い土地の浸水や河川の増水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808053742_0_VPWW54_016000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808062019_0_VPWW55_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1069,6 +1027,27 @@
       ]
     },
     {
+      "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "slug": "SaudiArabiaTurkeyandPaki",
+      "time": "2026-08-07T17:42:54.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+          "snippet": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
       "slug": "Spanishpolicearrest78peo",
       "time": "2026-08-07T16:13:45.000Z",
@@ -1153,6 +1132,69 @@
       ]
     },
     {
+      "headline": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
+      "slug": "Hundredscamponsweltering",
+      "time": "2026-08-08T05:45:58.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Hundreds camp on sweltering Rome street amid tussle over squatted building",
+          "snippet": "After a fire broke out, the building was cleared in what activists say was a politically motivated move.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/8/hundreds-camp-on-sweltering-rome-street-amid-tussle-over-squatted-building?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Bangladesh say Shakib will not play cricket again after Hasina event",
+      "slug": "BangladeshsayShakibwilln",
+      "time": "2026-08-08T05:30:53.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Bangladesh say Shakib will not play cricket again after Hasina event",
+          "snippet": "Shakib Al Hasan says he will return home to face trial if safety assured, but Bangladesh rule out cricket comeback.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/8/bangladesh-say-shakib-will-not-play-cricket-again-after-hasina-event?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Violence is driving Palestinian Christians out of their Holy Land",
+      "slug": "ViolenceisdrivingPalesti",
+      "time": "2026-08-08T05:28:45.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Violence is driving Palestinian Christians out of their Holy Land",
+          "snippet": "Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Armenia puts Church leader on trial for allegedly being a Russian spy",
       "slug": "ArmeniaputsChurchleadero",
       "time": "2026-08-08T04:31:42.000Z",
@@ -1231,48 +1273,6 @@
           "snippet": "The US Senate approved its strongest move against Russia under Trump.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Submerged Indonesian village re-emerges as drought lowers water levels",
-      "slug": "SubmergedIndonesianvilla",
-      "time": "2026-08-08T02:54:02.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
-          "snippet": "Drone footage shows the remains of a submerged village re-emerging from Indonesia’s Karian Reservoir after a drought.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "US courts clear way for deportations of South Sudan, Myanmar nationals",
-      "slug": "UScourtsclearwayfordepor",
-      "time": "2026-08-08T02:08:28.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
-          "snippet": "Rulings allow Trump administration to end Temporary Protected Status for nationals of the two countries.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
