@@ -1,11 +1,11 @@
 {
-  "rankedAt": "2026-08-08T19:40:33.395Z",
+  "rankedAt": "2026-08-08T20:10:34.992Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "岩手県沿岸北部で震度４の揺れを観測した",
-      "slug": "岩手県沿岸北部で震度の揺れを観測した",
-      "time": "2026-08-08T19:36:33.000Z",
+      "headline": "【地震情報】岩手 普代村で震度4 津波の心配なし",
+      "slug": "地震情報岩手普代村で震度4津波の心配なし",
+      "time": "2026-08-08T19:44:04.000Z",
       "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
@@ -13,14 +13,22 @@
         "時事ドットコム",
         "気象庁 地震・火山"
       ],
-      "count": 13,
+      "count": 7,
       "hasPrimary": true,
       "members": [
         {
-          "title": "【地震速報】熊本県で震度3",
-          "snippet": "9日午前4時33分ごろ地震がありました。\n現在、震度3以上が観測されている地域は以下のとおりです。\n▼震度3が、熊本県熊本地方。\n今後の情報に注意してください。",
+          "title": "【地震速報】熊本 宇城で震度3 津波の心配なし",
+          "snippet": "9日午前4時33分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は熊本県熊本地方で震源の深さは10キロ、地震の規模を示すマグニチュードは3.6と推定されます。\n各市町村の震度は…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260809de42913",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "【地震情報】岩手 普代村で震度4 津波の心配なし",
+          "snippet": "9日午前2時58分ごろ、岩手県で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42879",
           "ty": "press",
           "linkKind": "article"
         },
@@ -41,152 +49,104 @@
           "linkKind": "article"
         },
         {
+          "title": "岩手で震度４",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900039&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　９日０４時３９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808194404_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
           "title": "震源・震度に関する情報",
           "snippet": "【震源・震度情報】　９日０４時３３分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193615_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
-        },
-        {
-          "title": "震源に関する情報",
-          "snippet": "【震源に関する情報】きょう　９日０４時３３分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193526_0_VXSE52_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震度速報",
-          "snippet": "【震度速報】　９日０４時３３分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193442_0_VXSE51_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　９日０３時５６分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808185924_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　９日０３時１０分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808181406_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　９日０２時５８分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808180207_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源に関する情報",
-          "snippet": "【震源に関する情報】きょう　９日０２時５８分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808180057_0_VXSE52_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震度速報",
-          "snippet": "【震度速報】　９日０２時５８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808180037_0_VXSE51_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震度速報",
-          "snippet": "【震度速報】　９日０２時５８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808175937_0_VXSE51_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　９日０２時５３分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808175608_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
-      "slug": "台風13号影響は長時間続く警戒を台風15号の動き",
-      "time": "2026-08-08T19:37:04.000Z",
+      "headline": "台風13号 次第に離れるも高波に厳重警戒 台風15号 進路に注意",
+      "slug": "台風13号次第に離れるも高波に厳重警戒台風15号",
+      "time": "2026-08-08T20:05:52.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 7,
+      "count": 8,
       "hasPrimary": true,
       "members": [
         {
-          "title": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
-          "snippet": "大型で非常に強い台風13号は沖縄本島の西の海上を進んでいます。沖縄・奄美では風や雨の影響が長時間続いていて、土砂災害などに厳重な警戒を続けてください。",
+          "title": "台風13号 次第に離れるも高波に厳重警戒 台風15号 進路に注意",
+          "snippet": "大型で非常に強い台風13号は次第に沖縄から離れていますが、波は高く、風も強い見込みで、気象庁は高波に厳重に警戒し、強風に十分注意するよう呼びかけています。一方、大型の台風15号は火曜日ごろ、北日本や東…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260808de42871",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【富山県気象警報・注意報】富山県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。",
+          "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
+          "snippet": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42872",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "府県気象情報",
+          "snippet": "【沖縄本島地方気象解説情報（台風第１３号）】久米島の暴風警報を強風注意報に切り替えましたが、沖縄本島地方では、引き続き非常に強い風に十分注意してください。また、９日は土砂災害や低い土地の浸水、河川の増水、落雷や竜巻などの激しい突風に十分注意",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193705_0_VPWW54_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200553_0_VPFJ50_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【富山県気象警報・注意報】富山県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。",
+          "title": "府県気象解説情報",
+          "snippet": "【沖縄本島地方気象解説情報（台風第１３号）】久米島の暴風警報を強風注意報に切り替えましたが、沖縄本島地方では、引き続き非常に強い風に十分注意してください。また、９日は土砂災害や低い土地の浸水、河川の増水、落雷や竜巻などの激しい突風に十分注意",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193705_0_VPWW53_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200553_0_VPFJ51_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【富山県土砂災害警報・注意報】富山県では、土砂災害に注意してください。",
+          "title": "地方気象解説情報",
+          "snippet": "【東北地方気象解説情報（大雨・落雷・突風）】東北地方では、９日昼前から夜遅くにかけて、大雨による土砂災害や低い土地の浸水、河川の増水に十分注意してください。また、竜巻などの激しい突風や落雷、降ひょうに注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193703_0_VPWW56_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200515_0_VPCJ51_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【鹿児島県（奄美地方を除く）気象警報・注意報】薩摩、大隅、種子島・屋久島地方では、土砂災害や高波、竜巻などの激しい突風、落雷に注意してください。薩摩、大隅地方では、低い土地の浸水や強風に注意してください。",
+          "title": "地方気象情報",
+          "snippet": "【東北地方気象解説情報（大雨・落雷・突風）】東北地方では、９日昼前から夜遅くにかけて、大雨による土砂災害や低い土地の浸水、河川の増水に十分注意してください。また、竜巻などの激しい突風や落雷、降ひょうに注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193408_0_VPWW53_460100.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200516_0_VPCJ50_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【鹿児島県（奄美地方を除く）気象警報・注意報】薩摩、大隅、種子島・屋久島地方では、土砂災害や高波、竜巻などの激しい突風、落雷に注意してください。薩摩、大隅地方では、低い土地の浸水や強風に注意してください。",
+          "title": "全般気象解説情報",
+          "snippet": "【全般気象解説情報（台風第１３号）】台風第１３号は沖縄地方や奄美地方から次第に遠ざかる見込みですが、沖縄地方では９日は、うねりを伴った高波に厳重に警戒し、１０日は警戒してください。また、奄美地方では９日は、うねりを伴った高波に警戒してくださ",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193408_0_VPWW54_460100.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200421_0_VPZJ51_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【鹿児島県（奄美地方を除く）土砂災害警報・注意報】鹿児島県（奄美地方除く）では、土砂災害に注意してください。",
+          "title": "全般気象情報",
+          "snippet": "【全般気象解説情報（台風第１３号）】台風第１３号は沖縄地方や奄美地方から次第に遠ざかる見込みですが、沖縄地方では９日は、うねりを伴った高波に厳重に警戒し、１０日は警戒してください。また、奄美地方では９日は、うねりを伴った高波に警戒してくださ",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193353_0_VPWW56_460100.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200421_0_VPZJ50_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -231,30 +191,30 @@
       ]
     },
     {
-      "headline": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "slug": "ラグビリグワンフィジ出身選手が死亡熱中症疑いで搬",
-      "time": "2026-08-08T16:54:00.000Z",
+      "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "slug": "HormuztalkspositiveOmans",
+      "time": "2026-08-08T19:18:57.000Z",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム",
+        "BBC World"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-          "snippet": "ラグビーリーグワンの2部にあたるディビジョン2の「九州電力キューデンヴォルテクス」は、チームに所属するサイモニ・ヴニランギ選手が熱中症の疑いで病院に搬送され、その後死亡したと発表しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42866",
+          "title": "ホルムズ通航で「進展」　イランとオマーンの協議",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800105&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "ラグビー九電選手死亡 練習中35℃",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591031?source=rss",
+          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+          "snippet": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclea",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -351,9 +311,38 @@
       ]
     },
     {
+      "headline": "府県気象解説情報",
+      "slug": "府県気象解説情報",
+      "time": "2026-08-08T20:04:42.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "府県気象解説情報",
+          "snippet": "【奄美地方（鹿児島県）気象解説情報（台風第１３号）】奄美地方では、９日昼前にかけてうねりを伴った高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200443_0_VPFJ51_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象情報",
+          "snippet": "【奄美地方（鹿児島県）気象解説情報（台風第１３号）】奄美地方では、９日昼前にかけてうねりを伴った高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200443_0_VPFJ50_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-08T19:35:35.000Z",
+      "time": "2026-08-08T20:02:26.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -363,40 +352,19 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【山形県気象警報・注意報】山形県では、竜巻などの激しい突風や落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
+          "snippet": "【石川県気象警報・注意報】能登では、低い土地の浸水に注意してください。石川県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193536_0_VPWW53_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200227_0_VPWW53_170000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山形県気象警報・注意報】山形県では、竜巻などの激しい突風や落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
+          "snippet": "【石川県気象警報・注意報】能登では、低い土地の浸水に注意してください。石川県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193536_0_VPWW54_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200227_0_VPWW54_170000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
-      "slug": "北日本と東日本中心9日も大気の状態が非常に不安定",
-      "time": "2026-08-08T16:51:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
-          "snippet": "8日は北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、「記録的短時間大雨」の気象防災速報があわせて7回発表されるなど局地的な大雨となりました。9日も大気の状態が非常に不安定になる見…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42872",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
@@ -548,6 +516,27 @@
       ]
     },
     {
+      "headline": "ラグビー九電選手死亡 練習中35℃",
+      "slug": "ラグビ九電選手死亡練習中35",
+      "time": "2026-08-08T13:31:15.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ラグビー九電選手死亡 練習中35℃",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591031?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "離婚から2年 金田朋子の家族の形",
       "slug": "離婚から2年金田朋子の家族の形",
       "time": "2026-08-08T13:32:52.000Z",
@@ -590,69 +579,6 @@
       ]
     },
     {
-      "headline": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
-      "slug": "ドイツ月熱波で人死亡冷房普及せず備え不足",
-      "time": "2026-08-06T09:43:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080600962&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ライン川渇水が水運直撃　供給混乱で産業界悲鳴―ドイツ",
-      "slug": "ライン川渇水が水運直撃供給混乱で産業界悲鳴ドイツ",
-      "time": "2026-08-08T11:35:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ライン川渇水が水運直撃　供給混乱で産業界悲鳴―ドイツ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800239&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ソロモン諸島、米と海上保安協力　政権交代で「親中」脱却進む",
-      "slug": "ソロモン諸島米と海上保安協力政権交代で親中脱却進",
-      "time": "2026-08-08T11:36:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ソロモン諸島、米と海上保安協力　政権交代で「親中」脱却進む",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800234&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "高市首相に新たな動画問題　熊本視察「ＰＶ風」アピール",
       "slug": "高市首相に新たな動画問題熊本視察風アピル",
       "time": "2026-08-07T22:09:00.000Z",
@@ -674,9 +600,9 @@
       ]
     },
     {
-      "headline": "雇用急ブレーキ、９月利上げ後退　物価上昇リスク板挟みに―米ＦＲＢ",
-      "slug": "雇用急ブレキ月利上げ後退物価上昇リスク板挟みに米",
-      "time": "2026-08-08T11:34:00.000Z",
+      "headline": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
+      "slug": "ドイツ月熱波で人死亡冷房普及せず備え不足",
+      "time": "2026-08-06T09:43:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -685,19 +611,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "雇用急ブレーキ、９月利上げ後退　物価上昇リスク板挟みに―米ＦＲＢ",
+          "title": "ドイツ、６月熱波で９６００人死亡　冷房普及せず備え不足",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800232&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080600962&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "東日本国際大昌平が初勝利　英明、大分商、青森山田も２回戦へ―全国高校野球",
-      "slug": "東日本国際大昌平が初勝利英明大分商青森山田も回戦",
-      "time": "2026-08-08T12:07:00.000Z",
+      "headline": "ソロモン諸島、米と海上保安協力　政権交代で「親中」脱却進む",
+      "slug": "ソロモン諸島米と海上保安協力政権交代で親中脱却進",
+      "time": "2026-08-08T11:36:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -706,10 +632,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "東日本国際大昌平が初勝利　英明、大分商、青森山田も２回戦へ―全国高校野球",
+          "title": "ソロモン諸島、米と海上保安協力　政権交代で「親中」脱却進む",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800156&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080800234&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -758,9 +684,9 @@
       ]
     },
     {
-      "headline": "悠仁さま、朝食作りに参加　ボーイスカウト祭典、同世代と交流―広島",
-      "slug": "悠仁さま朝食作りに参加ボイスカウト祭典同世代と交",
-      "time": "2026-08-08T10:58:00.000Z",
+      "headline": "町田、大勝で発進　柏も開幕白星―Ｊ１",
+      "slug": "町田大勝で発進柏も開幕白星",
+      "time": "2026-08-08T12:22:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -769,75 +695,201 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "悠仁さま、朝食作りに参加　ボーイスカウト祭典、同世代と交流―広島",
+          "title": "町田、大勝で発進　柏も開幕白星―Ｊ１",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800202&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080800364&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-08T19:35:31.000Z",
+      "headline": "雇用急ブレーキ、９月利上げ後退　物価上昇リスク板挟みに―米ＦＲＢ",
+      "slug": "雇用急ブレキ月利上げ後退物価上昇リスク板挟みに米",
+      "time": "2026-08-08T11:34:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【山形県雷・濃霧注意報】山形県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193532_0_VPWW61_060000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-08T19:31:08.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193109_0_VPWW54_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-      "slug": "HormuztalkspositiveOmans",
-      "time": "2026-08-08T19:18:57.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
+        "時事ドットコム"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-          "snippet": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclea",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+          "title": "雇用急ブレーキ、９月利上げ後退　物価上昇リスク板挟みに―米ＦＲＢ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800232&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、９日０９時から１２時までは火口から西方向、９日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200041_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、９日０９時から１２時までは火口から西方向、９日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から北西方向に降灰が予想されます",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200048_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から北西方向に降灰が予想されます",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200051_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、９日０９時から１２時までは火口から西方向、９日２１時から２４時までは火口から西方向に降灰",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200055_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、９日０９時から１２時までは火口から南方向、９日２１時から２４時までは火口から南方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200030_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、９日０９時から１２時までは火口から南東方向、９日２１時から２４時までは火口から北方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200033_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、９日０９時から１２時までは火口から西方向、９日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808200037_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
