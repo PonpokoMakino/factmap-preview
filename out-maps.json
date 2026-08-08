@@ -1,14 +1,82 @@
 {
-  "builtAt": "2026-08-08T08:07:47.259Z",
+  "builtAt": "2026-08-08T14:16:09.650Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
-      "slug": "台風13号暴風など長時間続く厳重警戒を中継映像も",
+      "headline": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
+      "slug": "NetanyahumullsSaudiTurki",
       "independentSources": 3,
       "sources": [
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss"
+        }
+      ],
+      "issue": "サウジアラビア、トルコ、パキスタンの間で相互防衛協定が結ばれたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "サウジアラビア、トルコ、パキスタンの3カ国が相互防衛協定を結んだ。",
+          "span": "相互防衛協定を結んだ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "パキスタンは、中東での紛争の中、3カ国のいずれかに対する攻撃は全てに対する攻撃とみなされると述べた。",
+          "span": "an attack on any of the three will amount to an attack against all",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "サウジアラビア、トルコ、パキスタンが新たな防衛協定を形成した。",
+          "span": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "サウジアラビア、トルコ、パキスタンの3カ国が相互防衛協定を結んだという事実は報じられている。パキスタンは、3カ国のいずれかへの攻撃は全てへの攻撃とみなされると表明している。ネタニヤフはイスラエルの選挙が迫る中、この協定を検討している。",
+      "note": "Al Jazeeraの記事では、ネタニヤフが協定を検討していると報じられているが、そのスタンス（support/attack/neutral）は明示されていないため、neutralとした。また、Al Jazeeraの記事ではトルコを「Turkiye」と表記している。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensusの「評価は割れる。」を削除しました。テキストから評価が割れているという事実は読み取れないためです。",
+          "positionsのclaimを「〜と述べている／と報じられている」の形式に修正しました。元のclaimは地の文の断定になっていたためです。",
+          "factsのspanを最小核に修正しました。元のspanは文全体またはそれに近いものでした。"
+        ]
+      }
+    },
+    {
+      "headline": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
+      "slug": "台風13号影響は長時間続く警戒を台風15号の動き",
+      "independentSources": 2,
+      "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
       "links": [
@@ -17,32 +85,28 @@
           "link": "https://news.web.nhk/newsweb/na/na-k10015199841000"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015200211000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590977?source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808140430_0_VPFJ51_460100.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080642_0_VPCJ50_471000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808140430_0_VPFJ50_460100.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080559_0_VPWW53_471000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808140120_0_VPCJ50_460100.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808080559_0_VPWW54_471000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808140120_0_VPCJ51_460100.xml"
         }
       ],
-      "issue": "台風13号による影響はどの程度か？",
+      "issue": "台風13号による影響はいつまで続くか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "大型で非常に強い台風13号が沖縄本島の西の海上を進んでおり、久米島などが暴風域に入っている。",
-          "span": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいて久米島などが暴風域に入っています。",
+          "t": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいる。",
+          "span": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます",
           "src": [
             {
               "ty": "press",
@@ -51,8 +115,8 @@
           ]
         },
         {
-          "t": "沖縄・奄美では風雨の影響が長時間続いており、暴風などに厳重な警戒が必要である。",
-          "span": "沖縄・奄美では風や雨の影響が長時間続いていて暴風などに厳重な警戒を続けてください。",
+          "t": "沖縄・奄美では風雨の影響が長時間続いている。",
+          "span": "沖縄・奄美では風や雨の影響が長時間続いていて",
           "src": [
             {
               "ty": "press",
@@ -61,68 +125,8 @@
           ]
         },
         {
-          "t": "北日本から西日本にかけての広い範囲で大気の状態が非常に不安定になり、局地的に雨雲が発達している。",
-          "span": "北日本から西日本にかけての広い範囲で、大気の状態が非常に不安定になり局地的に雨雲が発達しています。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "青森県、岩手県、新潟県では猛烈な雨が降ったとみられ、「記録的短時間大雨」の気象防災速報が相次いでいる。",
-          "span": "青森県と岩手県、それに新潟県では猛烈な雨が降ったとみられ、「記録的短時間大雨」の気象防災速報が相次いで…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風13号により、沖縄で転倒などにより5人がけがをした。",
-          "span": "台風13号 沖縄で転倒など5人けが",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "沖縄本島地方と八重山地方の一部地域では、9日未明にかけて暴風に警戒が必要である。",
-          "span": "沖縄本島地方と八重山地方の一部地域では、９日未明にかけて暴風に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "沖縄地方では9日にかけて非常に強い風が吹く見込みで、強風に十分な注意が必要である。",
-          "span": "沖縄地方では９日にかけて、非常に強い風が吹く見込みです。強風に十分注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "沖縄地方では10日にかけて猛烈なしけや大しけとなる見込みである。",
-          "span": "また、１０日にかけて猛烈なしけや大し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "沖縄本島中南部と久米島では暴風に警戒が必要である。",
-          "span": "本島中南部、久米島では、暴風に警戒してください。",
+          "t": "鹿児島県（奄美地方を除く）の薩摩、大隅、種子島・屋久島地方では、10日にかけてうねりを伴った高波に注意が必要である。",
+          "span": "薩摩、大隅、種子島・屋久島地方では、１０日にかけてうねりを伴った高波に注意してください",
           "src": [
             {
               "ty": "press",
@@ -135,8 +139,50 @@
           ]
         },
         {
-          "t": "沖縄本島地方では高波に警戒が必要である。",
-          "span": "沖縄本島地方では、高波に警戒してください。",
+          "t": "鹿児島県（奄美地方を除く）の薩摩地方では、9日明け方にかけて土砂災害に注意が必要である。",
+          "span": "薩摩地方では、９日明け方にかけて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "鹿児島県（奄美地方を除く）の大隅、種子島・屋久島地方では、9日夜遅くにかけて土砂災害に注意が必要である。",
+          "span": "大隅、種子島・屋久島地方では、９日夜遅くにかけて土砂災害に注",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "九州南部・奄美地方の奄美地方では、9日明け方にかけて土砂災害に厳重な警戒が必要である。",
+          "span": "奄美地方では、９日明け方にかけて土砂災害に厳重に警戒し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "九州南部・奄美地方の奄美地方では、9日昼前にかけてうねりを伴った高波に警戒が必要である。",
+          "span": "９日昼前にかけてうねりを伴った高波に警戒してください",
           "src": [
             {
               "ty": "press",
@@ -150,145 +196,79 @@
         }
       ],
       "positions": [],
-      "consensus": "台風13号は沖縄本島近海を進み、暴風域に入った地域がある。沖縄・奄美では長時間にわたり風雨の影響が続き、厳重な警戒が必要。北日本から西日本では大気が不安定で局地的に雨雲が発達し、青森、岩手、新潟では記録的短時間大雨となった。沖縄では転倒などにより5人がけがをした。気象庁は沖縄本島地方や久米島などで暴風や高波に警戒を呼びかけている。沖縄地方では9日にかけて非常に強い風が吹き、10日にかけては猛烈なしけとなる見込み。",
-      "note": "プライバシーに配慮し、個別のけが人の詳細情報は含めない。",
+      "consensus": "台風13号は沖縄本島近海を進んでおり、沖縄・奄美地方では風雨の影響が長時間続いており、土砂災害や高波への警戒が必要である。",
+      "note": "気象庁の情報は、鹿児島県（奄美地方を除く）と九州南部・奄美地方に分けて発表されているが、内容は一部重複しており、事実として統合した。NHKは警戒を呼びかけている。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "South Korea FA apologises over ‘sexual services’ allegations",
-      "slug": "SouthKoreaFAapologisesov",
-      "independentSources": 3,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6590997?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080800252&g=int&m=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss"
-        }
-      ],
-      "issue": "大韓サッカー協会は、不祥事や性接待疑惑に関して謝罪したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "大韓サッカー協会が不祥事を受けて謝罪したと報じられている。",
-          "span": "不祥事受け 大韓サッカー協会謝罪",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "韓国サッカー協会に性接待疑惑があり、日本人審判も対象に含まれる可能性があると報じられている。",
-          "span": "韓国サッカー協会に性接待疑惑　日本人審判も対象か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "韓国サッカー協会が「性的なサービス」の疑惑に関連して謝罪したと報じられている。",
-          "span": "Football association apologises over claims relating to qualifiers for World Cup 2014 and the London 2012 Olympic Games.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "疑惑は2014年ワールドカップおよびロンドン2012オリンピック競技大会の予選に関連していると報じられている。",
-          "span": "qualifiers for World Cup 2014 and the London 2012 Olympic Games.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "大韓サッカー協会は不祥事を受けて謝罪したと報じられている。韓国サッカー協会には性接待疑惑があり、日本人審判も対象に含まれる可能性があると報じられている。この疑惑は2014年ワールドカップおよびロンドン2012オリンピック競技大会の予選に関連していると報じられている。",
-      "note": "複数の情報源が謝罪と疑惑について報じているが、具体的な不祥事の内容や性接待の詳細については、提供されたテキストからは特定できない。Al Jazeeraの記事は、疑惑が特定の大会の予選に関連していることを示唆している。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-      "slug": "SaudiArabiaTurkeyandPaki",
+      "headline": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
+      "slug": "ラグビリグワンフィジ出身選手が死亡熱中症疑いで搬",
       "independentSources": 2,
       "sources": [
-        "時事ドットコム",
-        "BBC World"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701068&g=int&m=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/na-k10015200291000"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591031?source=rss"
         }
       ],
-      "issue": "サウジアラビア、パキスタン、トルコ間の相互防衛協定は「イスラム版NATO」と指摘されるか？",
-      "stasis": "政策",
+      "issue": "ラグビーリーグワン所属選手が熱中症の疑いで死亡した件について、その原因と経緯は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "サウジアラビア、パキスタン、トルコの3カ国が相互防衛協定を結んだ。",
-          "span": "サウジアラビアとパキスタン、トルコの３カ国は相互防衛協定を結んだ",
+          "t": "ラグビーリーグワンのディビジョン2に所属する「九州電力キューデンヴォルテクス」のサイモニ・ヴニランギ選手が、熱中症の疑いで病院に搬送された後、死亡した。",
+          "span": "チームに所属するサイモニ・ヴニランギ選手が熱中症の疑いで病院に搬送され、その後、死亡したと発表しました",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "パキスタンは、中東紛争の中で、3カ国のいずれかに対する攻撃は全てに対する攻撃とみなされると述べた。",
-          "span": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+          "t": "選手は練習中に熱中症の疑いで搬送された。",
+          "span": "練習中",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "練習時の気温は35℃だった。",
+          "span": "35℃",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "サウジアラビア、パキスタン、トルコの3カ国が相互防衛協定を結んだ。パキスタンは、3カ国のいずれかに対する攻撃は全てに対する攻撃とみなされると述べた。この協定は「イスラム版NATO」と指摘されている。",
-      "note": "本件は報道に基づく事実と、それに対する指摘を構造化した。各国の公式な立場表明や、協定の詳細に関する情報は含まれていない。",
+      "consensus": "ラグビーリーグワンのディビジョン2に所属する「九州電力キューデンヴォルテクス」のサイモニ・ヴニランギ選手が、熱中症の疑いで病院に搬送された後、死亡した。練習時の気温は35℃だった。",
+      "note": "プライバシーに配慮し、選手の氏名は公開情報に基づき記載。熱中症の疑いであり、確定診断ではないため、その旨を明記。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1]のspanを「練習中35℃」から「練習中」に修正しました。spanは述部の最小句に限定すべきであり、「35℃」は事実[2]で別途扱っているためです。",
+          "facts[2]のspanを「練習中35℃」から「35℃」に修正しました。spanは述部の最小句に限定すべきであり、「練習中」は事実[1]で別途扱っているためです。"
+        ]
       }
     },
     {
-      "headline": "Russian strikes near Ukrainian capital kill three, including child",
-      "slug": "RussianstrikesnearUkrain",
+      "headline": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+      "slug": "USgifts1bntoColombiaonne",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -297,19 +277,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss"
         }
       ],
-      "issue": "ロシアによるキエフ近郊へのミサイル攻撃で死者が出たか？",
-      "stasis": "事実",
+      "issue": "コロンビアの新大統領就任初日に米国からの10億ドルの贈与は妥当か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "ロシアによるミサイル攻撃がキエフ近郊で発生した。",
-          "span": "Russian missile attacks",
+          "t": "米国はコロンビアの新右派大統領就任初日に10億ドルの贈与を行った。",
+          "span": "US gifts $1bn to Colombia on new right-wing president's first day of office",
           "src": [
             {
               "ty": "press",
@@ -318,42 +298,24 @@
           ]
         },
         {
-          "t": "この攻撃により、子供を含む3人が死亡した。",
-          "span": "Child among three killed",
+          "t": "アベラルド・デ・ラ・エスピリエラは初演説で「麻薬テロリズム」との「全面戦争」を約束した。",
+          "span": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ロシアは夜間の攻撃を継続した。",
-          "span": "Russia continued its overnight attacks",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ロシアによるキエフ近郊への攻撃で3人が死亡し、その中には子供が含まれていた。",
-          "span": "Russian strikes near Ukrainian capital kill three, including child",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ロシアによるキエフ近郊へのミサイル攻撃で、子供を含む3人が死亡したという事実は両報道機関で一致している。ウクライナの弾薬供給の減少や、米国上院による新たな対ロシア制裁、ウクライナによる防空迎撃の要請については、両報道機関で言及されているが、直接的な因果関係や評価は示されていない。",
-      "note": "両記事とも、攻撃の事実と死者数について報じている。BBCはロシアの攻撃継続に言及し、Al Jazeeraは米国上院の制裁可決とウクライナの要請に言及しているが、これらは攻撃の直接的な結果や評価ではなく、状況説明の一部として提示されている。",
+      "consensus": "米国はコロンビアの新大統領就任初日に10億ドルの贈与を行った。アベラルド・デ・ラ・エスピリエラは初演説で「麻薬テロリズム」との「全面戦争」を約束した。評価は割れる。",
+      "note": "コロンビアの新大統領の氏名は明記されていないため、アベラルド・デ・ラ・エスピリエラが新大統領本人か、あるいはその演説内容を報じているものと解釈した。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positions[0].claim: \"アベラルド・デ・ラ・エスピリエラは初演説で「麻薬テロリズム」との「全面戦争」を約束した。\" を \"アベラルド・デ・ラ・エスピリエラは「麻薬テロリズム」との「全面戦争」を行うと述べている。\" に修正。メタ記述の徹底（claimが「〜と述べている」の構造になるように修正）。spanを最小核に削る（\"all-out war\"）。"
+        ]
       }
     }
   ]
