@@ -1,112 +1,74 @@
 {
-  "builtAt": "2026-08-08T14:16:09.650Z",
+  "builtAt": "2026-08-08T19:02:18.629Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Netanyahu mulls Saudi, Turkiye, Pakistan pact as Israeli elections loom",
-      "slug": "NetanyahumullsSaudiTurki",
+      "headline": "【地震速報】岩手 普代村で震度4 津波の心配なし",
+      "slug": "地震速報岩手普代村で震度4津波の心配なし",
       "independentSources": 3,
       "sources": [
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080701063&g=flash&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/netanyahu-mulls-saudi-turkiye-pakistan-pact-as-israeli-elections-loom?traffic_source=rss"
-        }
-      ],
-      "issue": "サウジアラビア、トルコ、パキスタンの間で相互防衛協定が結ばれたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "サウジアラビア、トルコ、パキスタンの3カ国が相互防衛協定を結んだ。",
-          "span": "相互防衛協定を結んだ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "パキスタンは、中東での紛争の中、3カ国のいずれかに対する攻撃は全てに対する攻撃とみなされると述べた。",
-          "span": "an attack on any of the three will amount to an attack against all",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "サウジアラビア、トルコ、パキスタンが新たな防衛協定を形成した。",
-          "span": "Saudi Arabia, Turkiye, and Pakistan form a new defence pact",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "サウジアラビア、トルコ、パキスタンの3カ国が相互防衛協定を結んだという事実は報じられている。パキスタンは、3カ国のいずれかへの攻撃は全てへの攻撃とみなされると表明している。ネタニヤフはイスラエルの選挙が迫る中、この協定を検討している。",
-      "note": "Al Jazeeraの記事では、ネタニヤフが協定を検討していると報じられているが、そのスタンス（support/attack/neutral）は明示されていないため、neutralとした。また、Al Jazeeraの記事ではトルコを「Turkiye」と表記している。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensusの「評価は割れる。」を削除しました。テキストから評価が割れているという事実は読み取れないためです。",
-          "positionsのclaimを「〜と述べている／と報じられている」の形式に修正しました。元のclaimは地の文の断定になっていたためです。",
-          "factsのspanを最小核に修正しました。元のspanは文全体またはそれに近いものでした。"
-        ]
-      }
-    },
-    {
-      "headline": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
-      "slug": "台風13号影響は長時間続く警戒を台風15号の動き",
-      "independentSources": 2,
-      "sources": [
         "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "Yahoo!ニュース 主要",
+        "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015199841000"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42879"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808140430_0_VPFJ51_460100.xml"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591037?source=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808140430_0_VPFJ50_460100.xml"
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808185924_0_VXSE53_010000.xml"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808140120_0_VPCJ50_460100.xml"
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808181406_0_VXSE53_270000.xml"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808140120_0_VPCJ51_460100.xml"
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808180207_0_VXSE53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808180057_0_VXSE52_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808180037_0_VXSE51_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808175937_0_VXSE51_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808175608_0_VXSE53_270000.xml"
         }
       ],
-      "issue": "台風13号による影響はいつまで続くか？",
+      "issue": "",
       "stasis": "事実",
       "facts": [
         {
-          "t": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいる。",
-          "span": "大型で非常に強い台風13号は、沖縄本島の西の海上を進んでいます",
+          "t": "9日午前2時58分ごろ、岩手県沖を震源とする地震が発生した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "震源の深さは40キロと推定されている。",
+          "span": "震源の深さは40キロ",
           "src": [
             {
               "ty": "press",
@@ -115,8 +77,8 @@
           ]
         },
         {
-          "t": "沖縄・奄美では風雨の影響が長時間続いている。",
-          "span": "沖縄・奄美では風や雨の影響が長時間続いていて",
+          "t": "地震の規模を示すマグニチュードは5.6と推定されている。",
+          "span": "マグニチュードは5.6と推定されます",
           "src": [
             {
               "ty": "press",
@@ -125,82 +87,42 @@
           ]
         },
         {
-          "t": "鹿児島県（奄美地方を除く）の薩摩、大隅、種子島・屋久島地方では、10日にかけてうねりを伴った高波に注意が必要である。",
-          "span": "薩摩、大隅、種子島・屋久島地方では、１０日にかけてうねりを伴った高波に注意してください",
+          "t": "岩手県普代村で震度4を観測した。",
+          "span": "岩手 普代村で震度4",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "NHK 主要ニュース"
             },
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "鹿児島県（奄美地方を除く）の薩摩地方では、9日明け方にかけて土砂災害に注意が必要である。",
-          "span": "薩摩地方では、９日明け方にかけて",
+          "t": "この地震による津波の心配はない。",
+          "span": "津波の心配はありません",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "NHK 主要ニュース"
             },
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "鹿児島県（奄美地方を除く）の大隅、種子島・屋久島地方では、9日夜遅くにかけて土砂災害に注意が必要である。",
-          "span": "大隅、種子島・屋久島地方では、９日夜遅くにかけて土砂災害に注",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "九州南部・奄美地方の奄美地方では、9日明け方にかけて土砂災害に厳重な警戒が必要である。",
-          "span": "奄美地方では、９日明け方にかけて土砂災害に厳重に警戒し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "九州南部・奄美地方の奄美地方では、9日昼前にかけてうねりを伴った高波に警戒が必要である。",
-          "span": "９日昼前にかけてうねりを伴った高波に警戒してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風13号は沖縄本島近海を進んでおり、沖縄・奄美地方では風雨の影響が長時間続いており、土砂災害や高波への警戒が必要である。",
-      "note": "気象庁の情報は、鹿児島県（奄美地方を除く）と九州南部・奄美地方に分けて発表されているが、内容は一部重複しており、事実として統合した。NHKは警戒を呼びかけている。",
+      "consensus": "9日午前2時58分ごろに岩手県沖で地震が発生し、岩手県普代村で震度4を観測したが、津波の心配はないという点で合意されている。",
+      "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[0].spanがtの内容（震源地）を完全にカバーしていなかったため、元テキストの「震源地は岩手県沖で」を含めるように修正しました。"
+        ]
       }
     },
     {
@@ -267,8 +189,92 @@
       }
     },
     {
-      "headline": "US gifts $1bn to Colombia on new right-wing president's first day of office",
-      "slug": "USgifts1bntoColombiaonne",
+      "headline": "災害ボランティア、活動本格化　氷川町でも受け入れ始まる―知事「私たちに力を」・熊本地震",
+      "slug": "災害ボランティア活動本格化氷川町でも受け入れ始ま",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42867"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800301&g=soc&m=rss"
+        }
+      ],
+      "issue": "2024年7月28日の熊本地震の発生メカニズムと復旧活動の現状はどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "7月28日に最大震度7の地震が発生した。",
+          "span": "最大震度7の地震",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この地震は、日奈久断層帯のうち10年前の熊本地震で活動した場所と隣り合う領域がずれ動いて発生したと専門家は分析している。",
+          "span": "隣り合う領域がずれ動き、発生した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "専門家は、断層帯に割れ残っている領域があると分析している。",
+          "span": "割れ残っている",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "災害ボランティアの活動が本格化している。",
+          "span": "活動本格化",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "氷川町でも災害ボランティアの受け入れが始まった。",
+          "span": "受け入れ始まる",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "2024年7月28日に最大震度7の地震が発生し、専門家は日奈久断層帯の活動が原因と分析している。また、災害ボランティアの活動が本格化し、知事は支援を呼びかけている。これらの事実について、記事中に対立する評価や意見は示されていない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[1].span: 元テキストの最小核に修正（空文字から「隣り合う領域がずれ動き、発生した」へ）。",
+          "facts[2].t: 元テキストの文脈（専門家の分析）に合わせ、発言主体を明確にするため「断層帯には割れ残っている領域がある。」から「専門家は、断層帯に割れ残っている領域があると分析している。」へ修正。",
+          "fact spanが原文に無い→除去「日奈久断層帯の隣り合う領域がずれ動き…」"
+        ]
+      }
+    },
+    {
+      "headline": "‘Debilitating’: Hunter Biden speaks out about father Joe Biden’s cancer",
+      "slug": "DebilitatingHunterBidens",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -277,19 +283,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/8/debilitating-hunter-biden-speaks-out-about-father-joe-bidens-cancer?traffic_source=rss"
         }
       ],
-      "issue": "コロンビアの新大統領就任初日に米国からの10億ドルの贈与は妥当か？",
-      "stasis": "政策",
+      "issue": "",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "米国はコロンビアの新右派大統領就任初日に10億ドルの贈与を行った。",
-          "span": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+          "t": "リオネル・メッシの父親であり代理人であるホルヘ・メッシ氏が死去した。",
+          "span": "Lionel Messi's father and agent Jorge dies",
           "src": [
             {
               "ty": "press",
@@ -298,8 +304,18 @@
           ]
         },
         {
-          "t": "アベラルド・デ・ラ・エスピリエラは初演説で「麻薬テロリズム」との「全面戦争」を約束した。",
-          "span": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\"",
+          "t": "ホルヘ・メッシ氏は68歳だった。",
+          "span": "at the age of 68",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "彼の死は長患いの後だった。",
+          "span": "following a long illness",
           "src": [
             {
               "ty": "press",
@@ -309,13 +325,11 @@
         }
       ],
       "positions": [],
-      "consensus": "米国はコロンビアの新大統領就任初日に10億ドルの贈与を行った。アベラルド・デ・ラ・エスピリエラは初演説で「麻薬テロリズム」との「全面戦争」を約束した。評価は割れる。",
-      "note": "コロンビアの新大統領の氏名は明記されていないため、アベラルド・デ・ラ・エスピリエラが新大統領本人か、あるいはその演説内容を報じているものと解釈した。",
+      "consensus": "全員一致の最小事実",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: \"アベラルド・デ・ラ・エスピリエラは初演説で「麻薬テロリズム」との「全面戦争」を約束した。\" を \"アベラルド・デ・ラ・エスピリエラは「麻薬テロリズム」との「全面戦争」を行うと述べている。\" に修正。メタ記述の徹底（claimが「〜と述べている」の構造になるように修正）。spanを最小核に削る（\"all-out war\"）。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
