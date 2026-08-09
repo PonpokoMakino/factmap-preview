@@ -1,11 +1,11 @@
 {
-  "rankedAt": "2026-08-09T22:29:24.028Z",
+  "rankedAt": "2026-08-09T23:01:44.961Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風１５号、１１日に東北・関東接近　上陸の恐れ、強風大雨注意―気象庁",
       "slug": "台風号日に東北関東接近上陸の恐れ強風大雨注意気象",
-      "time": "2026-08-09T21:41:02.000Z",
+      "time": "2026-08-09T22:36:50.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -170,7 +170,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-09T20:00:00.000Z",
+      "time": "2026-08-09T23:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -180,17 +180,75 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から北西方向に降灰が予想されま",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１０日０９時から１２時までは火口から南西方向、１０日２１時から２４時までは火口から南西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809230031_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向に降灰が予想されます。",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１０日０９時から１２時までは火口から南西方向、１０日２１時から２４時までは火口から南西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809170052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200031_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-09T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１０日０９時から１２時までは火口から南西方向、１０日２１時から２４時までは火口から南西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809230034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１０日０９時から１２時までは火口から南西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-09T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809230037_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200037_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -313,21 +371,29 @@
       ]
     },
     {
-      "headline": "土石流で橋が流される 仮設の橋で移動可能に 長野 安曇野",
-      "slug": "土石流で橋が流される仮設の橋で移動可能に長野安曇",
-      "time": "2026-08-09T20:42:14.000Z",
+      "headline": "What’s driving unrest in Pakistan-administered Kashmir?",
+      "slug": "WhatsdrivingunrestinPaki",
+      "time": "2026-08-09T22:37:11.000Z",
       "independentSources": 1,
       "sources": [
-        "NHK 主要ニュース"
+        "Al Jazeera"
       ],
-      "count": 1,
+      "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "土石流で橋が流される 仮設の橋で移動可能に 長野 安曇野",
-          "snippet": "8日、土石流で県道の橋が流され、宿泊施設に最大でおよそ390人が取り残された長野県安曇野市では、9日、仮設の橋が架けられて歩いて渡れるようになり、市は10日も橋を渡った人たちを近くの駅まで車で移動させ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43038",
+          "title": "What’s driving unrest in Pakistan-administered Kashmir?",
+          "snippet": "Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera&#039;s Ava Warriner explains.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
+          "snippet": "Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -355,6 +421,27 @@
       ]
     },
     {
+      "headline": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
+      "slug": "イオンモル設備の緊急点検各地でイベント中止延期相",
+      "time": "2026-08-09T22:45:29.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
+          "snippet": "熊本県嘉島町の「イオンモール熊本」で起きた大規模な爆発を受けて、全国各地のイオンモールではガス設備の緊急点検などのためイベントの中止や延期が相次いでいます。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de43010",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "自衛隊の指揮統制に国産AI 検討",
       "slug": "自衛隊の指揮統制に国産AI検討",
       "time": "2026-08-09T21:29:55.000Z",
@@ -370,6 +457,27 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591140?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "不同意性交の認知件数 増加傾向",
+      "slug": "不同意性交の認知件数増加傾向",
+      "time": "2026-08-09T22:38:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "不同意性交の認知件数 増加傾向",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591146?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -475,27 +583,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591143?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "W結婚発表 STARTOでは5年ぶり",
-      "slug": "W結婚発表STARTOでは5年ぶり",
-      "time": "2026-08-09T13:25:16.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "W結婚発表 STARTOでは5年ぶり",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591132?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -693,6 +780,69 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
+      "time": "2026-08-09T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809230042_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-09T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809230045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-09T22:36:44.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１０日０７時３３分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809223644_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
       "time": "2026-08-09T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
@@ -706,153 +856,6 @@
           "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から西方向に",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200055_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-09T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１０日０９時から１２時までは火口から南西方向、１０日２１時から２４時までは火口から南西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200031_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-09T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１０日０９時から１２時までは火口から南西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200034_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-09T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200037_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-09T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200041_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-09T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-09T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１０日０９時から１２時までは火口から西方向、１０日２１時から２４時までは火口から西方向に降灰が予想されます",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809200049_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-09T17:26:14.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１０日０２時２３分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809172614_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1132,27 +1135,6 @@
       ]
     },
     {
-      "headline": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
-      "slug": "WheredoesIranstandonSaud",
-      "time": "2026-08-09T18:44:28.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
-          "snippet": "Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
       "slug": "JannikSinnerwithdrawsfro",
       "time": "2026-08-09T16:53:53.000Z",
@@ -1189,27 +1171,6 @@
           "snippet": "Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "How Israel’s occupation fuels resistance",
-      "slug": "HowIsraelsoccupationfuel",
-      "time": "2026-08-09T16:19:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "How Israel’s occupation fuels resistance",
-          "snippet": "Israel is trapped in a cycle it created.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
