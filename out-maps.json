@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-08-09T07:11:39.625Z",
+  "builtAt": "2026-08-09T13:08:24.113Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "核兵器「必要悪でなく絶対悪」　平和宣言、多国間主義回帰を要請―原爆投下から８１年・長崎",
-      "slug": "核兵器必要悪でなく絶対悪平和宣言多国間主義回帰を",
-      "independentSources": 3,
+      "headline": "「十字架」背負った８１年　戦火やまぬ世界に憤り―被爆者代表の本村チヨ子さん・長崎原爆忌",
+      "slug": "十字架背負った年戦火やまぬ世界に憤り被爆者代表の",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
@@ -21,89 +20,84 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260809de42929"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591081?source=rss"
-        },
-        {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900106&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026080900108&g=soc&m=rss"
         }
       ],
-      "issue": "長崎への原爆投下から81年となる中、核兵器廃絶に向けた取り組みは十分か？",
-      "stasis": "政策",
+      "issue": "長崎市長は核兵器を「絶対悪」と表現し、「長崎を最後の被爆地に」と訴えたか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "長崎に原爆が投下されてから9日で81年となる。",
-          "span": "長崎に原爆が投下されて9日で81年です。",
+          "t": "長崎に原爆が投下されてから81年となる9日に平和祈念式典が行われた。",
+          "span": "長崎に原爆が投下されて81年の9日、長崎市で平和祈念式典が行われ",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "長崎市の平和公園など各地で、被爆者や遺族などが祈りをささげている。",
+          "span": "長崎市の平和公園など各地で被爆者や遺族など多くの人が祈りをささげています",
+          "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "鈴木史朗市長",
+          "stance": "support",
+          "claim": "核兵器は「必要悪」ではなく「絶対悪」であり、人類と核兵器は決して共存できないと述べた。",
+          "span": "核兵器は『必要悪』ではなく『絶対悪』であり、人類と核兵器は決して共存できない",
+          "reason": "「長崎を最後の被爆地に」という言葉に続く形で述べられた。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "鈴木史朗市長",
+          "stance": "support",
+          "claim": "「長崎を最後の被爆地に」と述べた。",
+          "span": "『長崎を最後の被爆地に』",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "本村チヨ子さん",
+          "stance": "attack",
+          "claim": "戦火やまぬ世界に憤りを示した。",
+          "span": "戦火やまぬ世界に憤り",
+          "reason": "「十字架」を背負った81年という文脈で述べられた。",
+          "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
             }
           ]
-        },
-        {
-          "t": "長崎市の平和公園などで、被爆者や遺族などが祈りをささげている。",
-          "span": "長崎市の平和公園など各地で被爆者や遺族など多くの人が祈りをささげています。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "「被爆者なき時代」が近づいている。",
-          "span": "「被爆者なき時代」が近づき、",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "核兵器をめぐる国際情勢が厳しさを増している。",
-          "span": "核兵器をめぐる国際情勢が厳しさを増すなか、",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
         }
       ],
-      "positions": [],
-      "consensus": "長崎への原爆投下から81年となり、被爆者や遺族などが各地で祈りをささげている。平和宣言では、人類と核兵器は共存できないこと、多国間主義への回帰が要請された。核兵器は「必要悪でなく絶対悪」とされた。",
-      "note": "プライバシー配慮のため、個別の被爆者や遺族の特定につながる情報は含んでいません。",
+      "consensus": "長崎に原爆が投下されて81年となる9日に平和祈念式典が行われ、被爆者や遺族などが各地で祈りをささげている。鈴木史朗市長は核兵器を「絶対悪」と表現し、「長崎を最後の被爆地に」と訴えた。被爆者代表の本村チヨ子さんは戦火やまぬ世界に憤りを示した。",
+      "note": "本村チヨ子さんの「憤り」は、市長の「絶対悪」という表現に対する直接的な反論ではないが、現状の世界に対する批判的な立場を示すものとしてattackに分類した。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "position[0]のclaimを「人類と核兵器は決して共存できないと平和宣言で述べた。」に修正。元のclaim「人類と核兵器は決して共存できない。」は断定的すぎたため。",
-          "position[0]のreasonを「「長崎を最後の被爆地に」というメッセージ。」に修正。元のreason「「核兵器「必要悪でなく絶対悪」」は、position[2]と重複しており、position[0]の根拠としては不十分だったため。",
-          "position[1]のclaimを「多国間主義への回帰を要請した。」に修正。元のclaim「多国間主義回帰を要請」は名詞句だったため。",
-          "position[1]のspanを「多国間主義回帰を要請」に修正。元のspanが空だったため。",
-          "consensusを「長崎への原爆投下から81年となり、被爆者や遺族などが各地で祈りをささげている。平和宣言では、人類と核兵器は共存できないこと、多国間主義への回帰が要請された。核兵器は「必要悪でなく絶対悪」とされた。」に修正。元のconsensusの末尾「評価は割れる。」は、テキストから直接読み取れる情報ではなく、また、提示されたpositionは全てsupportであり、割れているとは言えないため削除。",
-          "position[0]のclaimを「人類と核兵器は決して共存できないと平和宣言で述べた。」に修正。元のclaim「人類と核兵器は決して共存…」は不完全だったため。",
-          "position[0]のreasonを「「長崎を最後の被爆地に」というメッセージ。」に修正。元のreason「「核兵器「必要悪でなく絶対悪」」は、position[2]と重複しており、position[0]の根拠としては不十分だったため。",
-          "position[1]のclaimを「多国間主義への回帰を要請した。」に修正。元のclaim「多国間主義回帰を要請」は名詞句だったため。",
-          "position[1]のspanを「多国間主義回帰を要請」に修正。元のspanが空だったため。",
-          "consensusを「長崎への原爆投下から81年となり、被爆者や遺族などが各地で祈りをささげている。平和宣言では、人類と核兵器は共存できないこと、多国間主義への回帰が要請された。核兵器は「必要悪でなく絶対悪」とされた。」に修正。元のconsensusの末尾「評価は割れる。」は、テキストから直接読み取れる情報ではなく、また、提示されたpositionは全てsupportであり、割れているとは言えないため削除。",
-          "position spanが原文に無い→除去「多国間主義回帰を要請し…」"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "長野 安曇野で土石流が発生 約390人が取り残されたか",
-      "slug": "長野安曇野で土石流が発生約390人が取り残された",
+      "headline": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
+      "slug": "大気不安定関東で激しい雨浸水や川の増水など警戒を",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -112,39 +106,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42947"
-        },
-        {
-          "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260809de42956"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42972"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809130316_0_VPFJ50_100000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809070940_0_VPWW54_090000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809070940_0_VPWW53_090000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809070857_0_VPFJ50_070000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809070857_0_VPFJ51_070000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809130316_0_VPFJ51_100000.xml"
         }
       ],
-      "issue": "大雨による土砂災害や浸水、河川増水のリスクはどの程度か？",
-      "stasis": "評価・予測",
+      "issue": "大気不安定による災害への警戒は必要か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "長野県安曇野市で8日夜、大雨の影響で土石流が発生し、土砂が県道に流れ込み橋を押し流した。",
-          "span": "8日夜、大雨の影響で安曇野市で土石流が発生し土砂が県道に流れ込んだり橋を押し流したりしました",
+          "t": "東日本を中心に大気の状態が非常に不安定になっている。",
+          "span": "東日本を中心に大気の状態が非常に不安定になり",
           "src": [
             {
               "ty": "press",
@@ -153,8 +131,8 @@
           ]
         },
         {
-          "t": "安曇野市の土石流により、複数の宿泊施設であわせておよそ390人が取り残された可能性がある。",
-          "span": "複数の宿泊施設であわせておよそ390人が",
+          "t": "関東では雨が強まっている。",
+          "span": "関東で雨が強まっています",
           "src": [
             {
               "ty": "press",
@@ -163,8 +141,8 @@
           ]
         },
         {
-          "t": "東北や東日本を中心に、これから大気の状態が非常に不安定になる見込みである。",
-          "span": "東北や東日本を中心にこれから大気の状態が非常に不安定になる見込みです",
+          "t": "9日夜遅くにかけて激しい雨が降るおそれがある。",
+          "span": "9日夜遅くにかけて激しい雨が降るおそれがあり",
           "src": [
             {
               "ty": "press",
@@ -173,8 +151,8 @@
           ]
         },
         {
-          "t": "局地的に雷を伴って非常に激しい雨が降るおそれがある。",
-          "span": "局地的に雷を伴って非常に激しい雨が降るおそれがあり",
+          "t": "気象庁は低い土地の浸水や川の増水・氾濫に警戒を呼びかけている。",
+          "span": "気象庁は低い土地の浸水や川の増水・氾濫に警戒するよう呼びかけています",
           "src": [
             {
               "ty": "press",
@@ -183,73 +161,37 @@
           ]
         },
         {
-          "t": "秋田県湯沢市にレベル4土砂災害危険警報が発表された。",
-          "span": "秋田県の湯沢市にレベル4土砂災害危険警報を発表しました",
+          "t": "群馬県では、警報級の大雨となる可能性は低くなった。",
+          "span": "警報級の大雨となる可能性は低くなりました",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "栃木県では、土砂災害、竜巻などの激しい突風、落雷、濃霧による視程障害に注意が必要である。",
-          "span": "栃木県では、土砂災害や竜巻などの激しい突風、落雷、濃霧による視程障害に注意してください",
-          "src": [
-            {
-              "ty": "op",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "福島県会津では、9日夜のはじめ頃にかけて、大雨による土砂災害に厳重な警戒が必要である。",
-          "span": "会津では、９日夜のはじめ頃にかけて、大雨による土砂災害に厳重に警戒し",
+          "t": "群馬県では、10日未明にかけて低い土地の浸水、河川の増水、土砂災害や落雷、竜巻などの激しい突風、降ひょうに注意が必要である。",
+          "span": "１０日未明にかけて、低い土地の浸水、河川の増水、土砂災害や落雷、竜巻などの激しい突風、降ひょうに注意してください",
           "src": [
             {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "福島県では、9日夜遅くにかけて大雨による低い土地の浸水、河川の増水に十分注意が必要である。",
-          "span": "福島県では９日夜遅くにかけて大雨による低い土地の浸水、河川の増水に十分注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "福島県では、竜巻などの激しい突風や落雷、降ひょうに注意が必要である。",
-          "span": "竜巻などの激しい突風や落雷、降ひょ",
-          "src": [
-            {
-              "ty": "op",
+              "ty": "press",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "大雨の影響で土石流が発生し、複数の地域で土砂災害や浸水、河川増水のリスクが高まっている。気象庁や地方気象台は厳重な警戒を呼びかけている。",
-      "note": "プライバシー配慮のため、安曇野市の取り残された人数は「約390人」と記載。",
+      "consensus": "東日本を中心に大気の状態が非常に不安定になっており、関東では雨が強まっている。9日夜遅くにかけて激しい雨が降るおそれがあるため、低い土地の浸水や川の増水・氾濫に警戒が必要である。群馬県では警報級の大雨の可能性は低いが、10日未明にかけて低い土地の浸水、河川の増水、土砂災害、落雷、激しい突風、降ひょうに注意が必要である。",
+      "note": "群馬県に関する気象解説情報は、出典が重複しているため1件にまとめています。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "consensus: 元のconsensusに「評価は割れない」という記述がありましたが、テキスト中に評価が割れるような記述は見当たらなかったため削除しました。",
-          "positions: 元のpositionsのclaimが「〜と述べている／と報じられている」の構造になっていなかったため、修正しました。",
-          "facts: factsのspanが元の文の語順や言い回しをなぞっていたため、自分の言葉での再記述に修正しました。ただし、span自体は元のテキストに存在しないものを生成しないように注意しました。",
-          "facts: factsのtが評価語を含んでいたため、検証可能な事実のみを残すように修正しました。",
-          "audit: 元のJSONにはauditフィールドがなかったため、追加しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
-      "slug": "Helicoptercrashkillspilo",
+      "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "slug": "IsraelrejectsTrumps15poi",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -258,54 +200,28 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss"
         }
       ],
-      "issue": "フランスの山火事の原因は誰にあるのか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "ドナルド・トランプ氏のガザ和平計画はイスラエルに受け入れられるか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "フランスで先月、前例のない山火事が発生した。",
-          "span": "unprecedented fires which tore through the country last month",
+          "t": "ドナルド・トランプ氏がガザに関する15項目の和平計画を提案した。",
+          "span": "Trump's 15-point plan for Gaza",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "カナダのブリティッシュコロンビア州オカナガン地域で、急速に拡大する山火事により2万人以上が避難を余儀なくされた。",
-          "span": "A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ユタ州での山火事鎮圧活動が継続されており、鎮火率は24パーセントである。",
-          "span": "Utah wildfire suppression efforts continued, with containment standing at 24 percent",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ユタ州での山火事鎮圧活動中にヘリコプターが墜落し、パイロットと乗員1名が死亡した。",
-          "span": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "Al Jazeera"
@@ -314,87 +230,76 @@
         }
       ],
       "positions": [],
-      "consensus": "フランスで前例のない山火事が発生し、カナダとユタ州でも山火事が発生した。ユタ州では鎮火率が24%で、鎮圧活動中にヘリコプター墜落事故が発生した。フランス政府は火災の原因究明を試みている。",
-      "note": "フランスの山火事に関する原因究明の試みは、誰を非難するかという問題提起を含んでいるが、具体的な非難の対象や根拠は記事中に示されていないため、争点は「誰にあるのか？」という問いの形とし、stasisは「評価・予測（割れる）」とした。カナダとユタ州の山火事に関する記述は事実の提示にとどまる。",
+      "consensus": "イスラエルがドナルド・トランプ氏のガザ和平計画を拒否したこと、およびネタニヤフ首相がハマスの武装解除をガザからの撤退条件としていることについては合意されている。計画の妥当性や撤退条件の是非については、本記事では評価が示されていない。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "positionsの2番目の項目「（報道によると）」「ユタ州での山火事鎮圧活動中にヘリコプターが墜落し、パイロットと乗員1名が死亡した。」は、事実としてfactsに移動しました。actorが不明確なため、事実として扱うのが中立的です。",
-          "consensusの内容を、factsに移動したヘリコプター墜落事故の情報を反映するように修正しました。"
+          "positions[0].claim: メタ記述の徹底のため、「イスラエルは、ドナルド・トランプ氏のガザ和平計画を拒否したと報じられている。」に修正しました。"
         ]
       }
     },
     {
-      "headline": "Lionel Messi returns to Argentina after father Jorge’s death",
-      "slug": "LionelMessireturnstoArge",
+      "headline": "張本智和、美和兄妹が優勝　卓球ＷＴＴ横浜大会",
+      "slug": "張本智和美和兄妹が優勝卓球横浜大会",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591126?source=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900180&g=spo&m=rss"
         }
       ],
-      "issue": "リオネル・メッシの父ホルヘ・メッシは死去したか？",
+      "issue": "卓球WTTC横浜大会で張本兄妹は優勝したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "リオネル・メッシの父で代理人のホルヘ・メッシが68歳で死去した。",
+          "t": "卓球WTTC横浜大会で張本智和・美和兄妹が優勝した。",
           "span": "",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "ホルヘ・メッシは長年の病気の後で死去した。",
-          "span": "following a long illness",
+          "t": "張本智和・美和兄妹が卓球WTTC横浜大会で優勝した。",
+          "span": "張本智和、美和兄妹が優勝　卓球ＷＴＴ横浜大会",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "ホルヘ・メッシは土曜日に死去した。",
-          "span": "a day after his father died",
+          "t": "優勝賞金は約1200万円であった。",
+          "span": "2人で賞金約1200万円",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "リオネル・メッシは土曜日に家族と共にアルゼンチンに帰国した。",
-          "span": "Lionel Messi returned to Argentina with his family on Saturday",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ホルヘ・メッシは68歳で死去した。リオネル・メッシは土曜日に家族と共にアルゼンチンに帰国した。",
-      "note": "本件は事実の報道であり、評価や意見の対立は含まれていないため、positions は空となります。",
+      "consensus": "卓球WTTC横浜大会で張本智和・美和兄妹が優勝し、賞金は約1200万円であった。",
+      "note": "プライバシー配慮のため、個別の選手名は公表されている範囲で記載。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[0].span: 元テキストの該当箇所をより正確に反映するように修正しました。",
-          "facts[2].span: 元テキストの該当箇所をより正確に反映するように修正しました。",
-          "fact spanが原文に無い→除去「Jorge Messi, Lione…」"
+          "factのspanを元テキストに合わせ修正。consensusの評価部分を削除。",
+          "fact spanが原文に無い→除去「張本兄妹Ｖ　２人で賞金約１２００万円…」",
+          "fact spanが原文に無い→除去「２人で賞金約１２００万円…」"
         ]
       }
     }
