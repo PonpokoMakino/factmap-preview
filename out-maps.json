@@ -1,77 +1,58 @@
 {
-  "builtAt": "2026-08-08T19:40:33.395Z",
+  "builtAt": "2026-08-09T07:11:39.625Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "岩手県沿岸北部で震度４の揺れを観測した",
-      "slug": "岩手県沿岸北部で震度の揺れを観測した",
-      "independentSources": 4,
+      "headline": "核兵器「必要悪でなく絶対悪」　平和宣言、多国間主義回帰を要請―原爆投下から８１年・長崎",
+      "slug": "核兵器必要悪でなく絶対悪平和宣言多国間主義回帰を",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "気象庁 地震・火山"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42913"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42887"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42929"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591037?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6591081?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900034&g=flash&m=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193615_0_VXSE53_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193526_0_VXSE52_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193442_0_VXSE51_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808185924_0_VXSE53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808181406_0_VXSE53_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808180207_0_VXSE53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808180057_0_VXSE52_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808180037_0_VXSE51_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808175937_0_VXSE51_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808175608_0_VXSE53_270000.xml"
+          "link": "https://www.jiji.com/jc/article?k=2026080900106&g=pol&m=rss"
         }
       ],
-      "issue": "",
-      "stasis": "事実",
+      "issue": "長崎への原爆投下から81年となる中、核兵器廃絶に向けた取り組みは十分か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "9日午前4時33分ごろ、熊本県熊本地方で震度3の地震が観測された。",
-          "span": "震度3が、熊本県熊本地方",
+          "t": "長崎に原爆が投下されてから9日で81年となる。",
+          "span": "長崎に原爆が投下されて9日で81年です。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "長崎市の平和公園などで、被爆者や遺族などが祈りをささげている。",
+          "span": "長崎市の平和公園など各地で被爆者や遺族など多くの人が祈りをささげています。",
           "src": [
             {
               "ty": "press",
@@ -80,139 +61,49 @@
           ]
         },
         {
-          "t": "岩手県で震度4が観測され、津波の心配はないと報じられた。",
-          "span": "岩手県で震度4 津波の心配なし",
+          "t": "「被爆者なき時代」が近づいている。",
+          "span": "「被爆者なき時代」が近づき、",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "岩手県沿岸北部で震度4の揺れが観測された。",
-          "span": "岩手県沿岸北部で震度４の揺れを観測した",
+          "t": "核兵器をめぐる国際情勢が厳しさを増している。",
+          "span": "核兵器をめぐる国際情勢が厳しさを増すなか、",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "9日午前4時33分ごろ、地震があった。",
-          "span": "地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "9日午前4時33分ごろ、地震があった。",
-          "span": "地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "9日午前4時33分ごろの地震により強い揺れを感じ、震度3以上が観測された地域が発表された。",
-          "span": "震度３以上が観測された地域をお知らせします",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "9日午前3時56分ごろ、地震があった。",
-          "span": "地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "9日午前3時10分ごろ、地震があった。",
-          "span": "地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "9日午前2時58分ごろ、地震があった。",
-          "span": "地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "9日午前2時58分ごろ、地震があった。",
-          "span": "地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "9日午前2時58分ごろの地震により強い揺れを感じ、震度3以上が観測された地域が発表された。",
-          "span": "震度３以上が観測された地域をお知らせします",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "9日午前2時58分ごろの地震により強い揺れを感じ、震度3以上が観測された地域が発表された。",
-          "span": "震度３以上が観測された地域をお知らせします",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "9日午前2時53分ごろ、地震があった。",
-          "span": "地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "9日未明から午前4時台にかけて、日本各地で複数の地震が発生し、震度3または震度4の揺れが観測されたことが報じられている。津波の心配はないとされている。",
+      "consensus": "長崎への原爆投下から81年となり、被爆者や遺族などが各地で祈りをささげている。平和宣言では、人類と核兵器は共存できないこと、多国間主義への回帰が要請された。核兵器は「必要悪でなく絶対悪」とされた。",
+      "note": "プライバシー配慮のため、個別の被爆者や遺族の特定につながる情報は含んでいません。",
       "audit": {
         "changed": true,
         "issues": [
-          "spanの最小核: facts[1]とfacts[2]のspanが元テキストの該当部分全体をカバーするように修正しました。",
-          "著作権: facts[1]とfacts[2]のtフィールドに、元の出典テキストに明示されていない時間情報が追加されていたため、削除しました。"
+          "position[0]のclaimを「人類と核兵器は決して共存できないと平和宣言で述べた。」に修正。元のclaim「人類と核兵器は決して共存できない。」は断定的すぎたため。",
+          "position[0]のreasonを「「長崎を最後の被爆地に」というメッセージ。」に修正。元のreason「「核兵器「必要悪でなく絶対悪」」は、position[2]と重複しており、position[0]の根拠としては不十分だったため。",
+          "position[1]のclaimを「多国間主義への回帰を要請した。」に修正。元のclaim「多国間主義回帰を要請」は名詞句だったため。",
+          "position[1]のspanを「多国間主義回帰を要請」に修正。元のspanが空だったため。",
+          "consensusを「長崎への原爆投下から81年となり、被爆者や遺族などが各地で祈りをささげている。平和宣言では、人類と核兵器は共存できないこと、多国間主義への回帰が要請された。核兵器は「必要悪でなく絶対悪」とされた。」に修正。元のconsensusの末尾「評価は割れる。」は、テキストから直接読み取れる情報ではなく、また、提示されたpositionは全てsupportであり、割れているとは言えないため削除。",
+          "position[0]のclaimを「人類と核兵器は決して共存できないと平和宣言で述べた。」に修正。元のclaim「人類と核兵器は決して共存…」は不完全だったため。",
+          "position[0]のreasonを「「長崎を最後の被爆地に」というメッセージ。」に修正。元のreason「「核兵器「必要悪でなく絶対悪」」は、position[2]と重複しており、position[0]の根拠としては不十分だったため。",
+          "position[1]のclaimを「多国間主義への回帰を要請した。」に修正。元のclaim「多国間主義回帰を要請」は名詞句だったため。",
+          "position[1]のspanを「多国間主義回帰を要請」に修正。元のspanが空だったため。",
+          "consensusを「長崎への原爆投下から81年となり、被爆者や遺族などが各地で祈りをささげている。平和宣言では、人類と核兵器は共存できないこと、多国間主義への回帰が要請された。核兵器は「必要悪でなく絶対悪」とされた。」に修正。元のconsensusの末尾「評価は割れる。」は、テキストから直接読み取れる情報ではなく、また、提示されたpositionは全てsupportであり、割れているとは言えないため削除。",
+          "position spanが原文に無い→除去「多国間主義回帰を要請し…」"
         ]
       }
     },
     {
-      "headline": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
-      "slug": "台風13号影響は長時間続く警戒を台風15号の動き",
+      "headline": "長野 安曇野で土石流が発生 約390人が取り残されたか",
+      "slug": "長野安曇野で土石流が発生約390人が取り残された",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -221,39 +112,39 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260808de42871"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42947"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42956"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42972"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193705_0_VPWW54_160000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809070940_0_VPWW54_090000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193705_0_VPWW53_160000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809070940_0_VPWW53_090000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193703_0_VPWW56_160000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809070857_0_VPFJ50_070000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193408_0_VPWW53_460100.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193408_0_VPWW54_460100.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260808193353_0_VPWW56_460100.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809070857_0_VPFJ51_070000.xml"
         }
       ],
-      "issue": "台風13号およびその他の地域における気象状況と警戒の必要性",
-      "stasis": "事実",
+      "issue": "大雨による土砂災害や浸水、河川増水のリスクはどの程度か？",
+      "stasis": "評価・予測",
       "facts": [
         {
-          "t": "大型で非常に強い台風13号が沖縄本島の西の海上を進んでいる。",
-          "span": "沖縄本島の西の海上を進んでいます",
+          "t": "長野県安曇野市で8日夜、大雨の影響で土石流が発生し、土砂が県道に流れ込み橋を押し流した。",
+          "span": "8日夜、大雨の影響で安曇野市で土石流が発生し土砂が県道に流れ込んだり橋を押し流したりしました",
           "src": [
             {
               "ty": "press",
@@ -262,8 +153,8 @@
           ]
         },
         {
-          "t": "沖縄・奄美では風や雨の影響が長時間続いている。",
-          "span": "風や雨の影響が長時間続いていて",
+          "t": "安曇野市の土石流により、複数の宿泊施設であわせておよそ390人が取り残された可能性がある。",
+          "span": "複数の宿泊施設であわせておよそ390人が",
           "src": [
             {
               "ty": "press",
@@ -272,8 +163,8 @@
           ]
         },
         {
-          "t": "沖縄・奄美では、土砂災害などに対して厳重な警戒を続けるよう呼びかけられている。",
-          "span": "土砂災害などに厳重な警戒を続けてください",
+          "t": "東北や東日本を中心に、これから大気の状態が非常に不安定になる見込みである。",
+          "span": "東北や東日本を中心にこれから大気の状態が非常に不安定になる見込みです",
           "src": [
             {
               "ty": "press",
@@ -282,74 +173,83 @@
           ]
         },
         {
-          "t": "富山県では、土砂災害や竜巻などの激しい突風、落雷に注意するよう呼びかけられている。",
-          "span": "土砂災害や竜巻などの激しい突風、落雷に注意してください",
+          "t": "局地的に雷を伴って非常に激しい雨が降るおそれがある。",
+          "span": "局地的に雷を伴って非常に激しい雨が降るおそれがあり",
           "src": [
             {
-              "ty": "prim",
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "秋田県湯沢市にレベル4土砂災害危険警報が発表された。",
+          "span": "秋田県の湯沢市にレベル4土砂災害危険警報を発表しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "栃木県では、土砂災害、竜巻などの激しい突風、落雷、濃霧による視程障害に注意が必要である。",
+          "span": "栃木県では、土砂災害や竜巻などの激しい突風、落雷、濃霧による視程障害に注意してください",
+          "src": [
+            {
+              "ty": "op",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "富山県では、土砂災害に注意するよう呼びかけられている。",
-          "span": "土砂災害に注意してください",
+          "t": "福島県会津では、9日夜のはじめ頃にかけて、大雨による土砂災害に厳重な警戒が必要である。",
+          "span": "会津では、９日夜のはじめ頃にかけて、大雨による土砂災害に厳重に警戒し",
           "src": [
             {
-              "ty": "prim",
+              "ty": "op",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "鹿児島県（奄美地方を除く）の薩摩、大隅、種子島・屋久島地方では、土砂災害や高波、竜巻などの激しい突風、落雷に注意するよう呼びかけられている。",
-          "span": "土砂災害や高波、竜巻などの激しい突風、落雷に注意してください",
+          "t": "福島県では、9日夜遅くにかけて大雨による低い土地の浸水、河川の増水に十分注意が必要である。",
+          "span": "福島県では９日夜遅くにかけて大雨による低い土地の浸水、河川の増水に十分注意してください",
           "src": [
             {
-              "ty": "prim",
+              "ty": "op",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "鹿児島県（奄美地方を除く）の薩摩、大隅地方では、低い土地の浸水や強風に注意するよう呼びかけられている。",
-          "span": "低い土地の浸水や強風に注意してください",
+          "t": "福島県では、竜巻などの激しい突風や落雷、降ひょうに注意が必要である。",
+          "span": "竜巻などの激しい突風や落雷、降ひょ",
           "src": [
             {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "鹿児島県（奄美地方除く）では、土砂災害に注意するよう呼びかけられている。",
-          "span": "土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "prim",
+              "ty": "op",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風13号の進路と影響、および各地域での気象警報・注意報の内容は共通の事実として認識されており、それに対する評価の対立はない。",
-      "note": null,
+      "consensus": "大雨の影響で土石流が発生し、複数の地域で土砂災害や浸水、河川増水のリスクが高まっている。気象庁や地方気象台は厳重な警戒を呼びかけている。",
+      "note": "プライバシー配慮のため、安曇野市の取り残された人数は「約390人」と記載。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[2]のt: 「〜必要がある」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
-          "facts[3]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
-          "facts[4]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
-          "facts[5]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
-          "facts[6]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。",
-          "facts[7]のt: 「〜が必要である」という評価的な記述を「〜よう呼びかけられている」というメタ記述に修正しました（監査観点1, 8）。"
+          "consensus: 元のconsensusに「評価は割れない」という記述がありましたが、テキスト中に評価が割れるような記述は見当たらなかったため削除しました。",
+          "positions: 元のpositionsのclaimが「〜と述べている／と報じられている」の構造になっていなかったため、修正しました。",
+          "facts: factsのspanが元の文の語順や言い回しをなぞっていたため、自分の言葉での再記述に修正しました。ただし、span自体は元のテキストに存在しないものを生成しないように注意しました。",
+          "facts: factsのtが評価語を含んでいたため、検証可能な事実のみを残すように修正しました。",
+          "audit: 元のJSONにはauditフィールドがなかったため、追加しました。"
         ]
       }
     },
     {
-      "headline": "Fast-moving Canada wildfire doubles in size forcing thousands to flee homes",
-      "slug": "FastmovingCanadawildfire",
+      "headline": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
+      "slug": "Helicoptercrashkillspilo",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -358,23 +258,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/at-least-200-people-evacuated-as-wildfire-rages-near-lake-garda?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfire-forces-thousands-of-evacuations-in-western-canada?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/9/helicopter-crash-kills-pilot-and-crew-member-amid-utah-wildfire-battle?traffic_source=rss"
         }
       ],
-      "issue": "世界各地の山火事の発生状況と影響はどうか？",
-      "stasis": "事実",
+      "issue": "フランスの山火事の原因は誰にあるのか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "カナダのブリティッシュコロンビア州で発生しているボールドレンジ山火事は「制御不能」とされている。",
-          "span": "still considered \"out of control\"",
+          "t": "フランスで先月、前例のない山火事が発生した。",
+          "span": "unprecedented fires which tore through the country last month",
           "src": [
             {
               "ty": "press",
@@ -383,28 +283,8 @@
           ]
         },
         {
-          "t": "カナダのブリティッシュコロンビア州の山火事は95平方キロメートル以上に拡大した。",
-          "span": "spread to more than 36 sq miles (95",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "カナダの山火事により、数千人が避難を余儀なくされている。",
-          "span": "forcing thousands to flee homes",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イタリアのガルダ湖近くで山火事が発生した。",
-          "span": "a wildfire broke out near Italy’s Lake Garda",
+          "t": "カナダのブリティッシュコロンビア州オカナガン地域で、急速に拡大する山火事により2万人以上が避難を余儀なくされた。",
+          "span": "A fast-moving wildfire has forced more than 20,000 people to evacuate parts of British Columbia’s Okanagan region",
           "src": [
             {
               "ty": "press",
@@ -413,8 +293,8 @@
           ]
         },
         {
-          "t": "イタリアの山火事により、少なくとも200人が避難した。",
-          "span": "At least 200 people have been evacuated",
+          "t": "ユタ州での山火事鎮圧活動が継続されており、鎮火率は24パーセントである。",
+          "span": "Utah wildfire suppression efforts continued, with containment standing at 24 percent",
           "src": [
             {
               "ty": "press",
@@ -423,28 +303,8 @@
           ]
         },
         {
-          "t": "カナダ西部で急速に広がる山火事が発生している。",
-          "span": "fast-moving wildfires spread across western Canada",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ブリティッシュコロンビア州当局は、住民に対し避難準備を整えるよう警告している。",
-          "span": "warn residents to be prepared to leave their homes",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ブリティッシュコロンビア州は避難命令を発令した。",
-          "span": "British Columbia issues evacuation orders",
+          "t": "ユタ州での山火事鎮圧活動中にヘリコプターが墜落し、パイロットと乗員1名が死亡した。",
+          "span": "Helicopter crash kills pilot and crew member amid Utah wildfire battle",
           "src": [
             {
               "ty": "press",
@@ -454,73 +314,87 @@
         }
       ],
       "positions": [],
-      "consensus": "カナダのブリティッシュコロンビア州とイタリアのガルダ湖近くで山火事が発生し、多数の住民が避難を余儀なくされている。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
-      "slug": "ラグビリグワンフィジ出身選手が死亡熱中症疑いで搬",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/na-k10015200291000"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591031?source=rss"
-        }
-      ],
-      "issue": "ラグビーリーグワン所属選手が熱中症の疑いで死亡した件について、その原因と経緯は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ラグビーリーグワンのディビジョン2に所属する「九州電力キューデンヴォルテクス」のサイモニ・ヴニランギ選手が、熱中症の疑いで病院に搬送された後、死亡した。",
-          "span": "チームに所属するサイモニ・ヴニランギ選手が熱中症の疑いで病院に搬送され、その後、死亡したと発表しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "選手は練習中に熱中症の疑いで搬送された。",
-          "span": "練習中",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "練習時の気温は35℃だった。",
-          "span": "35℃",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ラグビーリーグワンのディビジョン2に所属する「九州電力キューデンヴォルテクス」のサイモニ・ヴニランギ選手が、熱中症の疑いで病院に搬送された後、死亡した。練習時の気温は35℃だった。",
-      "note": "プライバシーに配慮し、選手の氏名は公開情報に基づき記載。熱中症の疑いであり、確定診断ではないため、その旨を明記。",
+      "consensus": "フランスで前例のない山火事が発生し、カナダとユタ州でも山火事が発生した。ユタ州では鎮火率が24%で、鎮圧活動中にヘリコプター墜落事故が発生した。フランス政府は火災の原因究明を試みている。",
+      "note": "フランスの山火事に関する原因究明の試みは、誰を非難するかという問題提起を含んでいるが、具体的な非難の対象や根拠は記事中に示されていないため、争点は「誰にあるのか？」という問いの形とし、stasisは「評価・予測（割れる）」とした。カナダとユタ州の山火事に関する記述は事実の提示にとどまる。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[1]のspanを「練習中35℃」から「練習中」に修正しました。spanは述部の最小句に限定すべきであり、「35℃」は事実[2]で別途扱っているためです。",
-          "facts[2]のspanを「練習中35℃」から「35℃」に修正しました。spanは述部の最小句に限定すべきであり、「練習中」は事実[1]で別途扱っているためです。"
+          "positionsの2番目の項目「（報道によると）」「ユタ州での山火事鎮圧活動中にヘリコプターが墜落し、パイロットと乗員1名が死亡した。」は、事実としてfactsに移動しました。actorが不明確なため、事実として扱うのが中立的です。",
+          "consensusの内容を、factsに移動したヘリコプター墜落事故の情報を反映するように修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Lionel Messi returns to Argentina after father Jorge’s death",
+      "slug": "LionelMessireturnstoArge",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-09-2026-messi-arrives-argentina-clip?traffic_source=rss"
+        }
+      ],
+      "issue": "リオネル・メッシの父ホルヘ・メッシは死去したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "リオネル・メッシの父で代理人のホルヘ・メッシが68歳で死去した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ホルヘ・メッシは長年の病気の後で死去した。",
+          "span": "following a long illness",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ホルヘ・メッシは土曜日に死去した。",
+          "span": "a day after his father died",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "リオネル・メッシは土曜日に家族と共にアルゼンチンに帰国した。",
+          "span": "Lionel Messi returned to Argentina with his family on Saturday",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ホルヘ・メッシは68歳で死去した。リオネル・メッシは土曜日に家族と共にアルゼンチンに帰国した。",
+      "note": "本件は事実の報道であり、評価や意見の対立は含まれていないため、positions は空となります。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0].span: 元テキストの該当箇所をより正確に反映するように修正しました。",
+          "facts[2].span: 元テキストの該当箇所をより正確に反映するように修正しました。",
+          "fact spanが原文に無い→除去「Jorge Messi, Lione…」"
         ]
       }
     }
