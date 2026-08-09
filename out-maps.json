@@ -1,7 +1,142 @@
 {
-  "builtAt": "2026-08-09T13:08:24.113Z",
+  "builtAt": "2026-08-09T18:57:11.138Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
+    {
+      "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "slug": "IsraelrejectsTrumps15poi",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss"
+        }
+      ],
+      "issue": "ドナルド・トランプ氏のガザ和平計画はイスラエルに受け入れられるか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "ドナルド・トランプ氏がガザに関する15項目の和平計画を提案した。",
+          "span": "Trump's 15-point plan for Gaza",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イスラエルがドナルド・トランプ氏のガザ和平計画を拒否したこと、およびネタニヤフ首相がハマスの武装解除をガザからの撤退条件としていることについては合意されている。計画の妥当性や撤退条件の是非については、本記事では評価が示されていない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claim: メタ記述の徹底のため、「イスラエルは、ドナルド・トランプ氏のガザ和平計画を拒否したと報じられている。」に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "長野県知事選 現職 阿部守一氏が5回目の当選 投票率は過去最低",
+      "slug": "長野県知事選現職阿部守一氏が5回目の当選投票率は",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42980"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42978"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591137?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900355&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900283&g=pol&m=rss"
+        }
+      ],
+      "issue": "長野県知事選挙および和歌山市長選挙の結果は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "長野県知事選挙において、現職の阿部守一氏が5回目の当選を果たした。",
+          "span": "5回目の当選を果たしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "長野県知事選挙の投票率は過去最低を記録した。",
+          "span": "投票率は過去最低",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "和歌山市長選挙において、新人で元県議会議員の尾崎太郎氏が初めての当選を果たした。",
+          "span": "初めての当選を果たしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "長野県知事選挙では現職の阿部守一氏が5選し、投票率は過去最低を記録した。和歌山市長選挙では新人の尾崎太郎氏が初当選した。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
     {
       "headline": "「十字架」背負った８１年　戦火やまぬ世界に憤り―被爆者代表の本村チヨ子さん・長崎原爆忌",
       "slug": "十字架背負った年戦火やまぬ世界に憤り被爆者代表の",
@@ -96,152 +231,8 @@
       }
     },
     {
-      "headline": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
-      "slug": "大気不安定関東で激しい雨浸水や川の増水など警戒を",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42956"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809130316_0_VPFJ50_100000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809130316_0_VPFJ51_100000.xml"
-        }
-      ],
-      "issue": "大気不安定による災害への警戒は必要か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "東日本を中心に大気の状態が非常に不安定になっている。",
-          "span": "東日本を中心に大気の状態が非常に不安定になり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関東では雨が強まっている。",
-          "span": "関東で雨が強まっています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "9日夜遅くにかけて激しい雨が降るおそれがある。",
-          "span": "9日夜遅くにかけて激しい雨が降るおそれがあり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は低い土地の浸水や川の増水・氾濫に警戒を呼びかけている。",
-          "span": "気象庁は低い土地の浸水や川の増水・氾濫に警戒するよう呼びかけています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "群馬県では、警報級の大雨となる可能性は低くなった。",
-          "span": "警報級の大雨となる可能性は低くなりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "群馬県では、10日未明にかけて低い土地の浸水、河川の増水、土砂災害や落雷、竜巻などの激しい突風、降ひょうに注意が必要である。",
-          "span": "１０日未明にかけて、低い土地の浸水、河川の増水、土砂災害や落雷、竜巻などの激しい突風、降ひょうに注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "東日本を中心に大気の状態が非常に不安定になっており、関東では雨が強まっている。9日夜遅くにかけて激しい雨が降るおそれがあるため、低い土地の浸水や川の増水・氾濫に警戒が必要である。群馬県では警報級の大雨の可能性は低いが、10日未明にかけて低い土地の浸水、河川の増水、土砂災害、落雷、激しい突風、降ひょうに注意が必要である。",
-      "note": "群馬県に関する気象解説情報は、出典が重複しているため1件にまとめています。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "slug": "IsraelrejectsTrumps15poi",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss"
-        }
-      ],
-      "issue": "ドナルド・トランプ氏のガザ和平計画はイスラエルに受け入れられるか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "ドナルド・トランプ氏がガザに関する15項目の和平計画を提案した。",
-          "span": "Trump's 15-point plan for Gaza",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イスラエルがドナルド・トランプ氏のガザ和平計画を拒否したこと、およびネタニヤフ首相がハマスの武装解除をガザからの撤退条件としていることについては合意されている。計画の妥当性や撤退条件の是非については、本記事では評価が示されていない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「イスラエルは、ドナルド・トランプ氏のガザ和平計画を拒否したと報じられている。」に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "張本智和、美和兄妹が優勝　卓球ＷＴＴ横浜大会",
-      "slug": "張本智和美和兄妹が優勝卓球横浜大会",
+      "headline": "台風１５号、１１日に東北・関東接近　上陸の恐れ、強風大雨注意―気象庁",
+      "slug": "台風号日に東北関東接近上陸の恐れ強風大雨注意気象",
       "independentSources": 2,
       "sources": [
         "Yahoo!ニュース 主要",
@@ -250,19 +241,19 @@
       "links": [
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591126?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6591129?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900180&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026080900265&g=soc&m=rss"
         }
       ],
-      "issue": "卓球WTTC横浜大会で張本兄妹は優勝したか？",
+      "issue": "台風15号は日本列島にどのような影響をもたらすか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "卓球WTTC横浜大会で張本智和・美和兄妹が優勝した。",
-          "span": "",
+          "t": "台風15号が日本列島を横断する可能性がある。",
+          "span": "列島を横断する可能性",
           "src": [
             {
               "ty": "press",
@@ -271,36 +262,41 @@
           ]
         },
         {
-          "t": "張本智和・美和兄妹が卓球WTTC横浜大会で優勝した。",
-          "span": "張本智和、美和兄妹が優勝　卓球ＷＴＴ横浜大会",
+          "t": "台風15号は11日に東北・関東地方に接近する見込みである。",
+          "span": "１１日に東北・関東接近",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "優勝賞金は約1200万円であった。",
-          "span": "2人で賞金約1200万円",
+          "t": "台風15号が日本に上陸する恐れがある。",
+          "span": "上陸の恐れ",
           "src": [
             {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は強風と大雨への注意を呼びかけている。",
+          "span": "強風大雨注意",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "卓球WTTC横浜大会で張本智和・美和兄妹が優勝し、賞金は約1200万円であった。",
-      "note": "プライバシー配慮のため、個別の選手名は公表されている範囲で記載。",
+      "consensus": "台風15号が日本列島に接近し、上陸の恐れがあり、強風と大雨に注意が必要であるという点で合意されている。評価は割れない。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "factのspanを元テキストに合わせ修正。consensusの評価部分を削除。",
-          "fact spanが原文に無い→除去「張本兄妹Ｖ　２人で賞金約１２００万円…」",
-          "fact spanが原文に無い→除去「２人で賞金約１２００万円…」"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
