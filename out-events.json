@@ -1,7 +1,61 @@
 {
-  "rankedAt": "2026-08-09T20:02:19.344Z",
+  "rankedAt": "2026-08-09T20:48:49.149Z",
   "lens": "独立報道社数(volume)順",
   "events": [
+    {
+      "headline": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
+      "slug": "大気不安定関東で激しい雨浸水や川の増水など警戒を",
+      "time": "2026-08-09T20:41:01.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 5,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
+          "snippet": "東日本を中心に大気の状態が非常に不安定になり、この時間は関東で雨が強まっています。\n\n9日夜遅くにかけて激しい雨が降るおそれがあり、気象庁は低い土地の浸水や川の増水・氾濫に警戒するよう呼びかけています…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42956",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "地方気象情報",
+          "snippet": "【東北地方気象解説情報（台風第１５号）】東北太平洋側では、１１日昼前から夜遅くにかけて、大雨による土砂災害に厳重に警戒し、低い土地の浸水、河川の増水や氾濫に警戒してください。また、１１日朝から夕方にかけて暴風に、海上では、１１日昼前から夜遅",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809204101_0_VPCJ50_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "地方気象解説情報",
+          "snippet": "【東北地方気象解説情報（台風第１５号）】東北太平洋側では、１１日昼前から夜遅くにかけて、大雨による土砂災害に厳重に警戒し、低い土地の浸水、河川の増水や氾濫に警戒してください。また、１１日朝から夕方にかけて暴風に、海上では、１１日昼前から夜遅",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809204101_0_VPCJ51_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象情報",
+          "snippet": "【新潟県気象解説情報（台風第１５号）】台風第１５号は１１日に新潟県へ接近する見込みです。新潟県では、１１日昼過ぎから夜遅くにかけて低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また下越と佐渡の陸上では、１１日夕方から夜遅くに",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809203116_0_VPFJ50_150000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象解説情報",
+          "snippet": "【新潟県気象解説情報（台風第１５号）】台風第１５号は１１日に新潟県へ接近する見込みです。新潟県では、１１日昼過ぎから夜遅くにかけて低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また下越と佐渡の陸上では、１１日夕方から夜遅くに",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809203116_0_VPFJ51_150000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
     {
       "headline": "長野県知事選 現職 阿部守一氏が5回目の当選 投票率は過去最低",
       "slug": "長野県知事選現職阿部守一氏が5回目の当選投票率は",
@@ -79,15 +133,15 @@
       ]
     },
     {
-      "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "slug": "IsraelrejectsTrumps15poi",
-      "time": "2026-08-09T16:08:19.000Z",
+      "headline": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
+      "slug": "PalestinianssayNetanyahu",
+      "time": "2026-08-09T20:02:57.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 2,
+      "count": 3,
       "hasPrimary": false,
       "members": [
         {
@@ -99,39 +153,18 @@
           "linkKind": "article"
         },
         {
-          "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
-          "snippet": "Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.",
+          "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
+          "snippet": "‘We&#039;re going backwards.’",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
-      "slug": "熊本地震災害関連死の疑い含めて39人死亡避難所に",
-      "time": "2026-08-09T15:38:25.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
-          "snippet": "熊本県内では今回の地震で、9日午後6時の時点で、災害関連死の疑いがある人などを含めて39人が死亡し、避難所には6183人が避難しています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42950",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "熊本地震 自宅全壊の被災者の偽画像拡散 報道写真をAIで加工か",
-          "snippet": "7月に発生した最大震度7の地震で、自宅が全壊した男性を取材した新聞社の写真を、AIで加工したとみられる偽画像が、SNSで拡散していることが分かりました。\n\n自宅前でピースサインをしている姿になっていて…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42999",
+          "title": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+          "snippet": "Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -167,9 +200,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-09T19:58:24.000Z",
+      "headline": "府県気象解説情報",
+      "slug": "府県気象解説情報",
+      "time": "2026-08-09T20:27:27.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -178,27 +211,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波や濃霧による視程障害に注意してください。",
+          "title": "府県気象情報",
+          "snippet": "【岐阜県気象解説情報（落雷・突風・降ひょう）】美濃地方では、１０日昼過ぎから夜遅くにかけて、竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195824_0_VPWW54_472000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809202728_0_VPFJ50_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波や濃霧による視程障害に注意してください。",
+          "title": "府県気象解説情報",
+          "snippet": "【岐阜県気象解説情報（落雷・突風・降ひょう）】美濃地方では、１０日昼過ぎから夜遅くにかけて、竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195824_0_VPWW53_472000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809202728_0_VPFJ51_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-09T19:58:22.000Z",
+      "headline": "府県気象解説情報",
+      "slug": "府県気象解説情報",
+      "time": "2026-08-09T20:27:14.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -207,27 +240,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【沖縄本島地方気象警報・注意報】本島北部では、土砂災害に注意してください。沖縄本島地方では、高波や落雷に注意してください。",
+          "title": "府県気象情報",
+          "snippet": "【静岡県気象解説情報（落雷・突風・降ひょう）】静岡県では、１０日昼過ぎから夜遅くにかけて、竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195824_0_VPWW54_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809202714_0_VPFJ50_220000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【沖縄本島地方気象警報・注意報】本島北部では、土砂災害に注意してください。沖縄本島地方では、高波や落雷に注意してください。",
+          "title": "府県気象解説情報",
+          "snippet": "【静岡県気象解説情報（落雷・突風・降ひょう）】静岡県では、１０日昼過ぎから夜遅くにかけて、竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195824_0_VPWW53_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809202714_0_VPFJ51_220000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-09T19:58:22.000Z",
+      "headline": "府県気象解説情報",
+      "slug": "府県気象解説情報",
+      "time": "2026-08-09T20:26:46.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -236,76 +269,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、強風や高波、落雷に注意してください。",
+          "title": "府県気象情報",
+          "snippet": "【愛知県気象解説情報（落雷・突風・降ひょう）】愛知県では、１０日昼過ぎから夜遅くにかけて、竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195822_0_VPWW54_473000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809202647_0_VPFJ50_230000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、強風や高波、落雷に注意してください。",
+          "title": "府県気象解説情報",
+          "snippet": "【愛知県気象解説情報（落雷・突風・降ひょう）】愛知県では、１０日昼過ぎから夜遅くにかけて、竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195822_0_VPWW53_473000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-09T19:58:21.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【八重山地方気象警報・注意報】八重山地方では、強風や高波、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195822_0_VPWW53_474000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【八重山地方気象警報・注意報】八重山地方では、強風や高波、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195822_0_VPWW54_474000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-09T19:58:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、土砂災害や高波、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195821_0_VPWW54_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、土砂災害や高波、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809195821_0_VPWW53_460040.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260809202646_0_VPFJ51_230000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -341,9 +316,9 @@
       ]
     },
     {
-      "headline": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
-      "slug": "大気不安定関東で激しい雨浸水や川の増水など警戒を",
-      "time": "2026-08-09T12:35:45.000Z",
+      "headline": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
+      "slug": "熊本地震災害関連死の疑い含めて39人死亡避難所に",
+      "time": "2026-08-09T12:45:04.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -352,19 +327,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
-          "snippet": "東日本を中心に大気の状態が非常に不安定になり、この時間は関東で雨が強まっています。\n\n9日夜遅くにかけて激しい雨が降るおそれがあり、気象庁は低い土地の浸水や川の増水・氾濫に警戒するよう呼びかけています…",
+          "title": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
+          "snippet": "熊本県内では今回の地震で、9日午後6時の時点で、災害関連死の疑いがある人などを含めて39人が死亡し、避難所には6183人が避難しています。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42956",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42950",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "イラン ホルムズ海峡開放で米に条件提示 双方で駆け引き続く",
-      "slug": "イランホルムズ海峡開放で米に条件提示双方で駆け引",
-      "time": "2026-08-09T14:03:12.000Z",
+      "headline": "土石流で橋が流される 仮設の橋で移動可能に 長野 安曇野",
+      "slug": "土石流で橋が流される仮設の橋で移動可能に長野安曇",
+      "time": "2026-08-09T20:42:14.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -373,10 +348,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "イラン ホルムズ海峡開放で米に条件提示 双方で駆け引き続く",
-          "snippet": "イランの最高安全保障委員会は8日、声明で、ホルムズ海峡での船舶の通航再開に向けて、アメリカが海上封鎖を解除することや、武力行使によって生じた被害を補償することなどが条件だと主張しました。海峡の通航再開…",
+          "title": "土石流で橋が流される 仮設の橋で移動可能に 長野 安曇野",
+          "snippet": "8日、土石流で県道の橋が流され、宿泊施設に最大でおよそ390人が取り残された長野県安曇野市では、9日、仮設の橋が架けられて歩いて渡れるようになり、市は10日も橋を渡った人たちを近くの駅まで車で移動させ…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de43006",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43038",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "イラン 米に補償求める 米は経済的圧力示唆で駆け引き続く",
+      "slug": "イラン米に補償求める米は経済的圧力示唆で駆け引き",
+      "time": "2026-08-09T20:45:29.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "イラン 米に補償求める 米は経済的圧力示唆で駆け引き続く",
+          "snippet": "イランのアラグチ外相は、ホルムズ海峡の船舶の通航再開をめぐり、アメリカからの被害の補償などがない限り、協議を再開することはないという考えを強調しました。\n\n一方、アメリカのトランプ大統領はイラン側に経…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43045",
           "ty": "press",
           "linkKind": "article"
         }
@@ -551,27 +547,6 @@
       ]
     },
     {
-      "headline": "長野知事に阿部氏５選　共産系新人破る",
-      "slug": "長野知事に阿部氏選共産系新人破る",
-      "time": "2026-08-09T14:51:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "長野知事に阿部氏５選　共産系新人破る",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900283&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "和歌山市長に尾崎氏初当選　元新５人破る",
       "slug": "和歌山市長に尾崎氏初当選元新人破る",
       "time": "2026-08-09T14:45:00.000Z",
@@ -587,90 +562,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026080900355&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "イラン最高指導者、大統領と会談　健康不安払拭が狙いか",
-      "slug": "イラン最高指導者大統領と会談健康不安払拭が狙いか",
-      "time": "2026-08-09T14:37:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "イラン最高指導者、大統領と会談　健康不安払拭が狙いか",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900358&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "北朝鮮、ロシアに最大５万人派兵か　ゼレンスキー氏、韓国に協力強化要請",
-      "slug": "北朝鮮ロシアに最大万人派兵かゼレンスキ氏韓国に協",
-      "time": "2026-08-09T06:28:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "北朝鮮、ロシアに最大５万人派兵か　ゼレンスキー氏、韓国に協力強化要請",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900175&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "山火事で非常事態宣言　２万人超が避難―カナダ",
-      "slug": "山火事で非常事態宣言万人超が避難カナダ",
-      "time": "2026-08-09T12:02:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "山火事で非常事態宣言　２万人超が避難―カナダ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900306&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "台湾、長崎式典の参加者格下げ　席が「使節団区域外」と抗議",
-      "slug": "台湾長崎式典の参加者格下げ席が使節団区域外と抗議",
-      "time": "2026-08-09T07:43:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "台湾、長崎式典の参加者格下げ　席が「使節団区域外」と抗議",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900198&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -698,6 +589,69 @@
       ]
     },
     {
+      "headline": "長野知事に阿部氏５選　共産系新人破る",
+      "slug": "長野知事に阿部氏選共産系新人破る",
+      "time": "2026-08-09T14:51:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "長野知事に阿部氏５選　共産系新人破る",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900283&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "和歌山市長選で尾崎太郎（おざき・たろう）氏が初当選を果たした",
+      "slug": "和歌山市長選で尾崎太郎おざきたろう氏が初当選を果",
+      "time": "2026-08-09T14:18:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "和歌山市長選で尾崎太郎（おざき・たろう）氏が初当選を果たした",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900354&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "北朝鮮、ロシアに最大５万人派兵か　ゼレンスキー氏、韓国に協力強化要請",
+      "slug": "北朝鮮ロシアに最大万人派兵かゼレンスキ氏韓国に協",
+      "time": "2026-08-09T06:28:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "北朝鮮、ロシアに最大５万人派兵か　ゼレンスキー氏、韓国に協力強化要請",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900175&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "中国消費者物価、０．５％上昇　プラス維持も伸び鈍化―７月",
       "slug": "中国消費者物価上昇プラス維持も伸び鈍化月",
       "time": "2026-08-09T05:52:00.000Z",
@@ -719,9 +673,9 @@
       ]
     },
     {
-      "headline": "花巻東、鳴門渦潮が２回戦へ　岡山学芸館、霞ケ浦も―全国高校野球",
-      "slug": "花巻東鳴門渦潮が回戦へ岡山学芸館霞ケ浦も全国高校",
-      "time": "2026-08-09T12:38:00.000Z",
+      "headline": "イラン最高指導者、大統領と会談　健康不安払拭が狙いか",
+      "slug": "イラン最高指導者大統領と会談健康不安払拭が狙いか",
+      "time": "2026-08-09T14:37:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -730,10 +684,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "花巻東、鳴門渦潮が２回戦へ　岡山学芸館、霞ケ浦も―全国高校野球",
+          "title": "イラン最高指導者、大統領と会談　健康不安払拭が狙いか",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900069&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026080900358&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "台風１５号、１１日に東北・関東接近　上陸の恐れ、強風大雨注意―気象庁",
+      "slug": "台風号日に東北関東接近上陸の恐れ強風大雨注意気象",
+      "time": "2026-08-09T10:41:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "台風１５号、１１日に東北・関東接近　上陸の恐れ、強風大雨注意―気象庁",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900265&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -755,6 +730,27 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026080900106&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "岩盤層「ＭＡＧＡ」健在　福音派、トランプ氏支持―「動員」偏重、分断の危険・米中間選挙",
+      "slug": "岩盤層健在福音派トランプ氏支持動員偏重分断の危険",
+      "time": "2026-08-08T22:05:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "岩盤層「ＭＡＧＡ」健在　福音派、トランプ氏支持―「動員」偏重、分断の危険・米中間選挙",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080800231&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1175,27 +1171,6 @@
           "snippet": "Israel is trapped in a cycle it created.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/how-israels-occupation-fuels-resistance?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Incumbents secure Hawaii primary wins, defying progressive challengers",
-      "slug": "IncumbentssecureHawaiipr",
-      "time": "2026-08-09T16:07:23.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Incumbents secure Hawaii primary wins, defying progressive challengers",
-          "snippet": "Their victories highlight ongoing clashes between centrist Democrats and more progressive candidates.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/9/incumbents-secure-hawaii-primary-wins-defying-progressive-challengers?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
