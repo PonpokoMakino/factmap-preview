@@ -1,105 +1,10 @@
 {
-  "builtAt": "2026-08-10T04:44:13.976Z",
+  "builtAt": "2026-08-10T10:49:52.413Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "長野 安曇野 土石流で橋が流される 仮設の橋使い移動呼びかけ",
-      "slug": "長野安曇野土石流で橋が流される仮設の橋使い移動呼",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43043"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43038"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591177?source=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810042354_0_VPFJ50_090000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810042354_0_VPFJ51_090000.xml"
-        }
-      ],
-      "issue": "台風15号の接近に伴う影響と警戒事項は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "台風15号が11日に東北や関東甲信に接近し、雨や風が強まり荒れた天気となる見込みである。",
-          "span": "台風15号は11日には東北や関東甲信にかなり近づき、雨や風が強まり荒れた天気になる見込みです",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風15号は明日（12日）関東・東北に上陸する恐れがある。",
-          "span": "台風 あす関東・東北に上陸の恐れ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "8日、長野県安曇野市で土石流により県道の橋が流された。",
-          "span": "8日、土石流で県道の橋が流され",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "長野県安曇野市では、土石流により宿泊施設に一時およそ390人が取り残された。",
-          "span": "宿泊施設に一時、およそ390人が取り残された",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "現在も一部の人が長野県安曇野市の施設にとどまっている。",
-          "span": "現在も施設にとどまっている人がいて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風15号が東北・関東に接近し、土砂災害や浸水、暴風などへの警戒が呼びかけられている。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[2].actor を「栃木県気象解説情報」から「気象庁」に修正しました。気象解説情報の発行主体が気象庁であるため。"
-        ]
-      }
-    },
-    {
-      "headline": "日銀 7月の金融政策決定会合“利上げペース加速”意見相次ぐ",
-      "slug": "日銀7月の金融政策決定会合利上げペス加速意見相次",
+      "headline": "台風15号 交通機関への影響は（鉄道 高速道路 空の便）",
+      "slug": "台風15号交通機関への影響は鉄道高速道路空の便",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -108,52 +13,136 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43068"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43043"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43124"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591178?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6591227?source=rss"
         }
       ],
-      "issue": "日本銀行は今後の利上げペースを加速すべきか？",
-      "stasis": "政策",
+      "issue": "台風15号はいつ、どこに接近・上陸する見込みか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "日本銀行は、先月の金融政策決定会合における主な意見を公表した。",
-          "span": "主な意見を公表し",
+          "t": "台風15号は11日、関東甲信にかなり近づき、夜にかけて上陸するおそれがある。",
+          "span": "台風15号は11日、関東甲信にかなり近づき、夜にかけて上陸するおそれがあります",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "先月の金融政策決定会合では、政策金利が据え置かれた。",
-          "span": "政策金利を据え置いた",
+          "t": "東日本と東北では、台風15号の影響で雨や風が強まり、荒れた天気になると見込まれる。",
+          "span": "東日本と東北では雨や風が強まって荒れた天気になる見込み",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、土砂災害、低い土地の浸水、川の増水や氾濫、暴風などに注意を呼びかけている。",
+          "span": "気象庁は土砂災害や低い土地の浸水、川の増水や氾濫、それに暴風な",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風15号による交通機関への影響について、最新情報が随時伝えられる予定である。",
+          "span": "台風15号による交通機関への影響です。最新の情報を随時、このページでお伝えします",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日本銀行が先月の金融政策決定会合の主な意見を公表したことは事実として合意されているが、今後の利上げペースについては意見が分かれている。",
-      "note": null,
+      "consensus": "台風15号は11日にかけて関東甲信に接近し、夜に上陸するおそれがある。東日本と東北では荒れた天気になり、気象庁は土砂災害などに注意を呼びかけている。交通機関への影響も報じられている。",
+      "note": "記事は主に事実の伝達に留まっており、評価や意見の対立を示すpositionsは確認されなかった。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Alleged Irish crime boss Daniel Kinahan in court after Dubai extradition",
-      "slug": "AllegedIrishcrimebossDan",
+      "headline": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+      "slug": "Atleast13killedinUkraini",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081000598&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqx7lje8l79o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "ウクライナ軍によるロシア中部への無人機攻撃で死者は出たか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ロシア中部タタルスタン地域で、ウクライナ軍による無人機攻撃により少なくとも13人が死亡したと報じられた。",
+          "span": "At least 13 killed in Ukrainian strike on Russia's Tatarstan region, officials say",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この攻撃は、モスクワによるウクライナ侵攻開始以降、ウクライナによるロシアへの無人機攻撃で最も死者数が多いものの一つであると報じられた。",
+          "span": "It is one of the deadliest Ukrainian drone attacks on Russia since the start of Moscow's war on Ukraine.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ロシア中部の石油企業が攻撃の標的になった可能性があると報じられた。",
+          "span": "ウクライナ軍、石油企業標的か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ウクライナ軍によるロシア中部への無人機攻撃で少なくとも13人が死亡したという事実は、複数の報道機関によって報じられている。",
+      "note": "タイの元国会議員に関する情報は、本件（ウクライナによるロシアへの無人機攻撃）とは関連性が低いため、構造化対象から除外した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Tropical Storm Dolphin batters eastern China with heavy rain, strong winds",
+      "slug": "TropicalStormDolphinbatt",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -162,24 +151,34 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/alleged-irish-crime-boss-daniel-kinahan-in-court-after-dubai-extradition?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss"
         }
       ],
-      "issue": "ダニエル・キナハンはドバイからの身柄引き渡し後、法廷に出廷したか？",
+      "issue": "台風ドルフィンは中国東部に壊滅的な影響を与えるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ダニエル・キナハンが法廷に出廷した。",
-          "span": "appears in court",
+          "t": "台風ドルフィンが中国東部に上陸し、上海を含む地域に強風と大雨をもたらした。",
+          "span": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            },
+            }
+          ]
+        },
+        {
+          "t": "熱帯低気圧ドルフィンが中国東部を強風と大雨で襲っている。",
+          "span": "Tropical Storm Dolphin batters eastern China with heavy rain, strong winds",
+          "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
@@ -187,13 +186,19 @@
           ]
         },
         {
-          "t": "彼はドバイから身柄を引き渡された。",
-          "span": "extradited from Dubai",
+          "t": "中国は、台風ドルフィンの接近に伴い、100万人の住民を避難させた。",
+          "span": "China evacuates one million from homes as massive storm arrives",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            },
+            }
+          ]
+        },
+        {
+          "t": "中国は、台風ドルフィンの接近に伴い、100万人の住民を避難させた。",
+          "span": "China evacuates a million from homes as Typhoon Dolphin arrives",
+          "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
@@ -201,98 +206,112 @@
           ]
         },
         {
-          "t": "彼はアイルランドの犯罪組織のボスと疑われている。",
-          "span": "Suspected crime boss",
+          "t": "ドルフィンは今後数日間で、湖北省や河南省といった中部省にさらに内陸に進むと予測されている。",
+          "span": "Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days.",
           "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
             {
               "ty": "press",
               "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "アイルランド刑務所庁は、彼を法廷に輸送するために防弾・防爆バンを購入した。",
-          "span": "bought a bulletproof and bombproof van",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "彼の年齢は49歳である。",
-          "span": "49-year-old",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ダニエル・キナハンがドバイからの身柄引き渡し後、法廷に出廷したという事実については合意がある。",
-      "note": "記事には評価や意見の対立が記述されていないため、positionsは空配列です。",
+      "consensus": "台風ドルフィンが中国東部に上陸し、強風と大雨をもたらし、100万人が避難した。ドルフィンは今後、中部省にさらに内陸に進むと予測されている。",
+      "note": "複数の情報源が同じ事実を報じているため、重複する事実は統合し、各事実のspanは最も代表的なものを採用した。positionsは空配列とした。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?",
-      "slug": "CouldMoroccosfootballchi",
+      "headline": "新潟市の海で親子3人流される 13歳と8歳のきょうだい死亡",
+      "slug": "新潟市の海で親子3人流される13歳と8歳のきょう",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43094"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591216?source=rss"
         }
       ],
-      "issue": "エクアドル大統領候補暗殺事件の捜査状況",
+      "issue": "新潟市の海で親子3人が流され、きょうだい2人が死亡した件について、海上保安部は当時の詳しい状況を調査中か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "エクアドル検察当局は、大統領候補フェルの暗殺事件に関与したとして、元大臣を起訴した。",
-          "span": "Ecuador charges ex-minister over presidential candidate assassination case",
+          "t": "新潟市西蒲区の海で親子3人が流される事故が発生した。",
+          "span": "新潟市西蒲区の海で親子3人が流される事故があり",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "検察当局は、ロス・ロボス・カルテルのリーダーを含む他の6人も、フェル氏殺害に間接的に関与したとして告発している。",
-          "span": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fer",
+          "t": "事故により、中学1年生の13歳の女の子が死亡した。",
+          "span": "中学1年生の13歳の女の子",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "事故により、小学3年生の8歳の男の子が死亡した。",
+          "span": "小学3年生の8歳の男の子",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "死亡したのは13歳の女の子と8歳の男の子のきょうだいだった。",
+          "span": "13歳と8歳のきょうだい",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "海上保安部が当時の詳しい状況を調べている。",
+          "span": "海上保安部が当時の詳しい状況を調べています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "海水浴場で事故が発生した。",
+          "span": "海水浴場で事故",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "エクアドル検察当局は、大統領候補フェル氏の暗殺事件に関与したとして、元大臣とロス・ロボス・カルテルのリーダーを含む6人を起訴・告発した。",
-      "note": null,
+      "consensus": "新潟市西蒲区の海で親子3人が流される事故があり、13歳の女の子と8歳の男の子のきょうだいが死亡した。海上保安部が詳しい状況を調べている。",
+      "note": "本件は事実の報道のみであり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: issueが賛否の割れる問いではなく、事実の報告であったため、「エクアドル大統領候補暗殺事件の捜査状況」に変更しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
