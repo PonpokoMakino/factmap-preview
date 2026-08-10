@@ -1,40 +1,119 @@
 {
-  "builtAt": "2026-08-09T18:57:11.138Z",
+  "builtAt": "2026-08-10T00:37:38.862Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "slug": "IsraelrejectsTrumps15poi",
-      "independentSources": 2,
+      "headline": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+      "slug": "PerezHiltonfaceslongreco",
+      "independentSources": 3,
       "sources": [
+        "NHK 主要ニュース",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260809de43024"
+        },
+        {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss"
         }
       ],
-      "issue": "ドナルド・トランプ氏のガザ和平計画はイスラエルに受け入れられるか？",
+      "issue": "イスラエルによるガザ和平計画の拒否は、和平実現に影響を与えるか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "ドナルド・トランプ氏がガザに関する15項目の和平計画を提案した。",
-          "span": "Trump's 15-point plan for Gaza",
+          "t": "イスラエルのネタニヤフ首相が、ガザ地区の和平に向けた工程表を拒否すると表明した。",
+          "span": "和平に向けた工程表 拒否すると表明",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "その工程表はアメリカ主導の和平計画に基づき、イスラム組織ハマスの武装解除などが含まれていた。",
+          "span": "アメリカ主導の和平計画に基づいて示されたイスラム組織ハマスの武装解除などに向けた工程表",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルはトランプ氏のガザに関する15項目計画を拒否した。",
+          "span": "rejects Trump's 15-point plan for Gaza",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            },
+            }
+          ]
+        },
+        {
+          "t": "米国のブロガー、ペレス・ヒルトン氏がライブストリーム中に自傷行為をしたとの報道後、長期の回復が必要とされている。",
+          "span": "faces long recovery after reports he self-harmed during livestream",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ヒルトン氏の家族によると、彼は病院で「重篤だが安定した」状態にある。",
+          "span": "in a \"serious but stable\" condition in hospital",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルはガザ和平に関する15項目計画を正式に拒否した。",
+          "span": "formally rejects 15-point Gaza peace plan",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "パレスチナジャーナリスト組合は、7月にパレスチナ人ジャーナリストに対する108件の攻撃を報告した。",
+          "span": "reports 108 attacks on Palestinian journalists in July",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "パレスチナジャーナリスト組合は、2023年10月以降、ガザで270人以上のジャーナリストが殺害されたことを明らかにした。",
+          "span": "over 270 journalists killed in Gaza since October 2023",
+          "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
@@ -43,12 +122,135 @@
         }
       ],
       "positions": [],
-      "consensus": "イスラエルがドナルド・トランプ氏のガザ和平計画を拒否したこと、およびネタニヤフ首相がハマスの武装解除をガザからの撤退条件としていることについては合意されている。計画の妥当性や撤退条件の是非については、本記事では評価が示されていない。",
-      "note": null,
+      "consensus": "イスラエルのネタニヤフ首相が、アメリカ主導のガザ和平計画を拒否すると表明したことは事実である。和平の実現可能性については評価が割れる。",
+      "note": "ペレス・ヒルトン氏に関する事実は、ガザ地区の和平に関する主要な争点とは直接関連しないが、記事中に含まれていたため記載した。",
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「イスラエルは、ドナルド・トランプ氏のガザ和平計画を拒否したと報じられている。」に修正しました。"
+          "positions[0].claim: メタ記述を徹底するため、「〜と報じられている」を追加しました。",
+          "positions[0].premises: ネタニヤフ首相の拒否表明の根拠となる事実（拒否の事実と計画の内容）を追記しました。",
+          "positions[3].premises: パレスチナ人の主張の根拠となる事実（ネタニヤフ首相の拒否）を追記しました。"
+        ]
+      }
+    },
+    {
+      "headline": "便乗犯罪、被災者に追い打ち　悪質商法も、警察が警戒強化―熊本地震",
+      "slug": "便乗犯罪被災者に追い打ち悪質商法も警察が警戒強化",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43033"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43032"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591156?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026080900225&g=soc&m=rss"
+        }
+      ],
+      "issue": "東日本から西日本、特に熊本地震の被災地における猛暑と便乗犯罪の状況、およびそれらへの対策はどうか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "東日本から西日本で猛暑が続いている。",
+          "span": "猛暑続く",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "10日も東日本と西日本では猛烈な暑さが予想されている。",
+          "span": "10日も東日本と西日本では気温が上がり猛烈な暑さが予想されていて",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熱中症対策を一層心がけるよう呼びかけられている。",
+          "span": "熱中症対策を一層、心がけてください",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本地震で大きな被害のあった熊本県では10日も厳しい暑さが続く見込み。",
+          "span": "10日も厳しい暑さが続く見込みです",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "復旧作業の際は引き続き熱中症に注意するよう呼びかけられている。",
+          "span": "復旧作業の際は引き続き熱中症に注意するようにしてください",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本地震の被災者に対し便乗犯罪が発生している。",
+          "span": "便乗犯罪 熊本の被災者に追い打ち",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "悪質商法も発生している。",
+          "span": "悪質商法も",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "警察が警戒を強化している。",
+          "span": "警察が警戒強化",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "東日本から西日本、特に熊本地震の被災地では猛暑が続き、熱中症対策が呼びかけられている。また、熊本地震の被災者に対し便乗犯罪や悪質商法が発生しており、警察が警戒を強化している。これらの対策の適切性については、本記事中では評価が割れていない。",
+      "note": "本記事は事実の報道と注意喚起に終始しており、特定の立場や評価の対立は記述されていないため、positionsは空配列とした。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: テキストに評価や対立する立場がないため、issueを「対策の適切性」を問うものから、事実状況と対策を問う記述的なものに変更しました。"
         ]
       }
     },
@@ -138,101 +340,8 @@
       }
     },
     {
-      "headline": "「十字架」背負った８１年　戦火やまぬ世界に憤り―被爆者代表の本村チヨ子さん・長崎原爆忌",
-      "slug": "十字架背負った年戦火やまぬ世界に憤り被爆者代表の",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42887"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260809de42929"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900108&g=soc&m=rss"
-        }
-      ],
-      "issue": "長崎市長は核兵器を「絶対悪」と表現し、「長崎を最後の被爆地に」と訴えたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "長崎に原爆が投下されてから81年となる9日に平和祈念式典が行われた。",
-          "span": "長崎に原爆が投下されて81年の9日、長崎市で平和祈念式典が行われ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "長崎市の平和公園など各地で、被爆者や遺族などが祈りをささげている。",
-          "span": "長崎市の平和公園など各地で被爆者や遺族など多くの人が祈りをささげています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "鈴木史朗市長",
-          "stance": "support",
-          "claim": "核兵器は「必要悪」ではなく「絶対悪」であり、人類と核兵器は決して共存できないと述べた。",
-          "span": "核兵器は『必要悪』ではなく『絶対悪』であり、人類と核兵器は決して共存できない",
-          "reason": "「長崎を最後の被爆地に」という言葉に続く形で述べられた。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "鈴木史朗市長",
-          "stance": "support",
-          "claim": "「長崎を最後の被爆地に」と述べた。",
-          "span": "『長崎を最後の被爆地に』",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "本村チヨ子さん",
-          "stance": "attack",
-          "claim": "戦火やまぬ世界に憤りを示した。",
-          "span": "戦火やまぬ世界に憤り",
-          "reason": "「十字架」を背負った81年という文脈で述べられた。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "consensus": "長崎に原爆が投下されて81年となる9日に平和祈念式典が行われ、被爆者や遺族などが各地で祈りをささげている。鈴木史朗市長は核兵器を「絶対悪」と表現し、「長崎を最後の被爆地に」と訴えた。被爆者代表の本村チヨ子さんは戦火やまぬ世界に憤りを示した。",
-      "note": "本村チヨ子さんの「憤り」は、市長の「絶対悪」という表現に対する直接的な反論ではないが、現状の世界に対する批判的な立場を示すものとしてattackに分類した。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "台風１５号、１１日に東北・関東接近　上陸の恐れ、強風大雨注意―気象庁",
-      "slug": "台風号日に東北関東接近上陸の恐れ強風大雨注意気象",
+      "headline": "相次ぐＡＩモデル「暴走」　自律的攻撃に危機感―米、規制強化の動きも",
+      "slug": "相次ぐモデル暴走自律的攻撃に危機感米規制強化の動",
       "independentSources": 2,
       "sources": [
         "Yahoo!ニュース 主要",
@@ -241,62 +350,47 @@
       "links": [
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591129?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6591142?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026080900265&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026080900242&g=int&m=rss"
         }
       ],
-      "issue": "台風15号は日本列島にどのような影響をもたらすか？",
-      "stasis": "事実",
+      "issue": "AIの自律的攻撃に対し、米国はどのような認識を示しているか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "台風15号が日本列島を横断する可能性がある。",
-          "span": "列島を横断する可能性",
+          "t": "AIモデルの「暴走」が相次いでいる。",
+          "span": "相次ぐＡＩモデル「暴走」",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "台風15号は11日に東北・関東地方に接近する見込みである。",
-          "span": "１１日に東北・関東接近",
-          "src": [
-            {
-              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "台風15号が日本に上陸する恐れがある。",
-          "span": "上陸の恐れ",
+          "t": "米国でAIの自律的攻撃に対する規制強化の動きがある。",
+          "span": "規制強化の動きも",
           "src": [
             {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は強風と大雨への注意を呼びかけている。",
-          "span": "強風大雨注意",
-          "src": [
-            {
-              "ty": "wire",
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風15号が日本列島に接近し、上陸の恐れがあり、強風と大雨に注意が必要であるという点で合意されている。評価は割れない。",
+      "consensus": "記事はAIモデルの「暴走」とそれに対する米国の危機感、規制強化の動きを報じている。評価は割れる／アプリは裁定しない。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positions[0].claim: メタ記述の徹底（「〜と報じられている」の追加）と著作権対応のため、地の文の断定を修正しました。",
+          "issue: positions[0].claimの内容（米国の認識）と整合するように、争点を修正しました。",
+          "positions[0].premises: 「危機感」がfacts[0]の「AIモデルの暴走」に基づくと考えられるため、関連する事実の添字を追加しました。"
+        ]
       }
     }
   ]
