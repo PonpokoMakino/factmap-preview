@@ -1,20 +1,29 @@
 {
-  "rankedAt": "2026-08-10T23:05:57.421Z",
+  "rankedAt": "2026-08-10T23:47:52.031Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "熊本地震から2週間 依然 活発な活動 最大震度5弱以上に注意",
-      "slug": "熊本地震から2週間依然活発な活動最大震度5弱以上",
-      "time": "2026-08-10T23:01:27.000Z",
-      "independentSources": 3,
+      "headline": "売上金保管指示「許せない」　「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
+      "slug": "売上金保管指示許せない明るく責任感の強い子イオン",
+      "time": "2026-08-10T23:41:43.000Z",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "気象庁 地震・火山"
       ],
-      "count": 3,
+      "count": 6,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "【地震】熊本・八代市 芦北町で震度3 津波心配なし（7:59）",
+          "snippet": "11日午前7時59分ごろ、熊本県で震度3の揺れを観測する地震がありました。\nこの地震による津波の心配はありません。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43235",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "熊本地震から2週間 依然 活発な活動 最大震度5弱以上に注意",
           "snippet": "熊本県で最大震度7の揺れを観測する地震が発生してから11日で2週間です。\n\n気象庁は、地震の回数は徐々に減少しているものの、依然として活発な活動が続いているとして、今後1か月ほどは最大震度5弱程度以上…",
@@ -32,6 +41,22 @@
           "linkKind": "article"
         },
         {
+          "title": "売上金保管指示「許せない」　「明るく、責任感の強い子」―イオン爆発犠牲の大竹玖瑠美さん親族・熊本地震",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081000451&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１１日０７時５９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810230324_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
           "title": "震度速報",
           "snippet": "【震度速報】１１日０７時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
           "source": "気象庁 地震・火山",
@@ -42,54 +67,54 @@
       ]
     },
     {
-      "headline": "Russian court bars only anti-war party from standing in parliamentary elections",
-      "slug": "Russiancourtbarsonlyanti",
-      "time": "2026-08-10T21:25:00.000Z",
+      "headline": "Trump to demand compensation for Tehran’s ‘conflicts’",
+      "slug": "Trumptodemandcompensatio",
+      "time": "2026-08-10T22:15:00.000Z",
       "independentSources": 3,
       "sources": [
+        "NHK 主要ニュース",
         "時事ドットコム",
-        "BBC World",
         "Al Jazeera"
       ],
       "count": 3,
       "hasPrimary": false,
       "members": [
         {
-          "title": "ロシア最高裁、唯一の反戦政党「ヤブロコ」を下院選から除外",
+          "title": "アメリカ大統領「イランに補償求める」イランは重要ポスト交代",
+          "snippet": "アメリカのトランプ大統領は、イランが武力行使によって生じた被害の補償を求めていることに触れ「私もイランに補償を求める」とSNSに投稿し、イラン側をけん制するねらいがあるとみられます。\n\n一方、イランで…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43219",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "トランプ氏、イランに補償要求　交渉さらに難航も",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100149&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081100177&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-          "snippet": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow co",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
-          "snippet": "The pro-Kremlin nationalist party Rodina accused the Yabloko party of receiving undeclared campaign support.",
+          "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
+          "snippet": "President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "台風15号 宮城 栗原市が市内全域に高齢者等避難(午前6:00)",
-      "slug": "台風15号宮城栗原市が市内全域に高齢者等避難午前",
+      "headline": "台風15号関東上陸おそれ 東日本から東北で土砂災害や暴風警戒",
+      "slug": "台風15号関東上陸おそれ東日本から東北で土砂災害",
       "time": "2026-08-10T22:44:50.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要"
       ],
-      "count": 4,
+      "count": 3,
       "hasPrimary": false,
       "members": [
         {
@@ -109,64 +134,10 @@
           "linkKind": "article"
         },
         {
-          "title": "台風15号 宮城 栗原市が市内全域に高齢者等避難(午前6:00)",
-          "snippet": "宮城県栗原市は台風15号が接近していることから、11日午前6時に、市内全域に「高齢者等避難」を出しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43222",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
           "title": "台風が関東上陸へ 交通乱れに注意",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591272?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "slug": "WevehadalotofclosecallsC",
-      "time": "2026-08-10T21:15:41.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 4,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-          "snippet": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada'",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Canada flight cancelled after child refuses to wear seat belt",
-          "snippet": "The incident has sparked a debate over child safety and discipline on commercial planes.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
-          "snippet": "Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
-          "snippet": "US Rep. Nancy Mace clashed with CNN&#039;s Omar Jimenez over Islamophobic remarks after Abdul El-Sayed’s win in Michigan",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -211,30 +182,38 @@
       ]
     },
     {
-      "headline": "日本版GPS衛星「みちびき7号機」 H3ロケットで打ち上げ成功",
-      "slug": "日本版GPS衛星みちびき7号機H3ロケットで打ち",
-      "time": "2026-08-10T22:52:04.000Z",
+      "headline": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "slug": "WevehadalotofclosecallsC",
+      "time": "2026-08-10T21:15:41.000Z",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "BBC World",
+        "Al Jazeera"
       ],
-      "count": 2,
+      "count": 3,
       "hasPrimary": false,
       "members": [
         {
-          "title": "日本版GPS衛星「みちびき7号機」 H3ロケットで打ち上げ成功",
-          "snippet": "スマートフォンなどの位置情報の精度を高め、防災などの分野でも活用される日本版GPS衛星「みちびき」の7号機は、11日午前、鹿児島県の種子島宇宙センターからH3ロケット9号機で打ち上げられ、予定の軌道に…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43195",
+          "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+          "snippet": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada'",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "H3ロケット9号機 打ち上げ成功",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591271?source=rss",
+          "title": "Canada flight cancelled after child refuses to wear seat belt",
+          "snippet": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
+          "snippet": "Thousands of firefighters and dozens of helicopters battle growing wildfires across Indonesia.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -271,39 +250,9 @@
       ]
     },
     {
-      "headline": "琵琶湖で花火大会、中止を発表　火薬使用の申請なし―滋賀",
-      "slug": "琵琶湖で花火大会中止を発表火薬使用の申請なし滋賀",
-      "time": "2026-08-10T13:04:32.000Z",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "突如中止の花火大会 主催者が回答",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591256?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "琵琶湖で花火大会、中止を発表　火薬使用の申請なし―滋賀",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000280&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "At least 13 killed in Ukrainian drone strike deep into Russia",
-      "slug": "Atleast13killedinUkraini",
-      "time": "2026-08-10T14:34:25.000Z",
+      "headline": "Russian court bars only anti-war party from standing in parliamentary elections",
+      "slug": "Russiancourtbarsonlyanti",
+      "time": "2026-08-10T21:25:00.000Z",
       "independentSources": 2,
       "sources": [
         "時事ドットコム",
@@ -313,18 +262,18 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "無人機攻撃で１３人死亡　ウクライナ軍、石油企業標的か―ロシア中部",
+          "title": "ロシア最高裁、唯一の反戦政党「ヤブロコ」を下院選から除外",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000598&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081100149&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-          "snippet": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since ",
+          "title": "Russian court bars only anti-war party from standing in parliamentary elections",
+          "snippet": "Russia's only liberal, anti-war party will not be able to take part in next month's parliamentary elections, a Moscow co",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -391,8 +340,103 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
+      "headline": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+      "slug": "ColombiasEspriellatolead",
+      "time": "2026-08-10T22:46:32.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
+          "snippet": "Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+          "snippet": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
+          "snippet": "Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-10T23:13:26.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810231327_0_VPWW53_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810231327_0_VPWW54_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-10T23:11:12.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【千葉県気象警報・注意報】北東部では、暴風や高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810231114_0_VPWW53_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【千葉県気象警報・注意報】北東部では、暴風や高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810231114_0_VPWW54_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
       "time": "2026-08-10T22:57:08.000Z",
       "independentSources": 1,
       "sources": [
@@ -402,85 +446,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【新潟県気象警報・注意報】下越、佐渡では、強風に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810225709_0_VPWW54_150000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "気象特別警報・警報・注意報",
           "snippet": "【新潟県気象警報・注意報】下越、佐渡では、強風に注意してください。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260810225709_0_VPWW53_150000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-10T22:56:52.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810225653_0_VPWW54_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810225653_0_VPWW53_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-10T22:41:13.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【富山県気象警報・注意報】富山県では、高波に注意してください。",
+          "snippet": "【新潟県気象警報・注意報】下越、佐渡では、強風に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810224114_0_VPWW54_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【富山県気象警報・注意報】富山県では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810224114_0_VPWW53_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810225709_0_VPWW54_150000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "アメリカ大統領「イランに補償求める」イランは重要ポスト交代",
-      "slug": "アメリカ大統領イランに補償求めるイランは重要ポス",
-      "time": "2026-08-10T21:21:00.000Z",
+      "headline": "日本版GPS衛星「みちびき7号機」 H3ロケットで打ち上げ成功",
+      "slug": "日本版GPS衛星みちびき7号機H3ロケットで打ち",
+      "time": "2026-08-10T22:52:04.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -489,19 +475,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "アメリカ大統領「イランに補償求める」イランは重要ポスト交代",
-          "snippet": "アメリカのトランプ大統領は、イランが武力行使によって生じた被害の補償を求めていることに触れ「私もイランに補償を求める」とSNSに投稿し、イラン側をけん制するねらいがあるとみられます。\n\n一方、イランで…",
+          "title": "日本版GPS衛星「みちびき7号機」 H3ロケットで打ち上げ成功",
+          "snippet": "スマートフォンなどの位置情報の精度を高め、防災などの分野でも活用される日本版GPS衛星「みちびき」の7号機は、11日午前、鹿児島県の種子島宇宙センターからH3ロケット9号機で打ち上げられ、予定の軌道に…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43219",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43195",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "中1と小3死亡 遊具があおられ落水",
-      "slug": "中1と小3死亡遊具があおられ落水",
-      "time": "2026-08-10T11:44:56.000Z",
+      "headline": "中国で複数邦人の拘束が判明",
+      "slug": "中国で複数邦人の拘束が判明",
+      "time": "2026-08-10T23:05:46.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -510,10 +496,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "中1と小3死亡 遊具があおられ落水",
+          "title": "中国で複数邦人の拘束が判明",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591245?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591277?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "母殺害疑い娘が投げ銭1千万円以上",
+      "slug": "母殺害疑い娘が投げ銭1千万円以上",
+      "time": "2026-08-10T23:26:37.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "母殺害疑い娘が投げ銭1千万円以上",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591280?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "右折車と衝突 バイクの22歳が死亡",
+      "slug": "右折車と衝突バイクの22歳が死亡",
+      "time": "2026-08-10T23:09:22.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "右折車と衝突 バイクの22歳が死亡",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591278?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -562,9 +590,9 @@
       ]
     },
     {
-      "headline": "首相動静（８月１０日）",
-      "slug": "首相動静月日",
-      "time": "2026-08-10T13:05:00.000Z",
+      "headline": "対イスラエル、争点に　民主で勢い増す急進左派―共和は分裂期待・米中間選挙",
+      "slug": "対イスラエル争点に民主で勢い増す急進左派共和は分",
+      "time": "2026-08-10T22:04:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -573,19 +601,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "首相動静（８月１０日）",
+          "title": "対イスラエル、争点に　民主で勢い増す急進左派―共和は分裂期待・米中間選挙",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000093&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081000446&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "フェアリー、五輪枠狙う　世界新体操、１２日開幕",
-      "slug": "フェアリ五輪枠狙う世界新体操日開幕",
-      "time": "2026-08-10T08:36:00.000Z",
+      "headline": "琵琶湖で花火大会、中止を発表　火薬使用の申請なし―滋賀",
+      "slug": "琵琶湖で花火大会中止を発表火薬使用の申請なし滋賀",
+      "time": "2026-08-10T08:32:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -594,19 +622,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "フェアリー、五輪枠狙う　世界新体操、１２日開幕",
+          "title": "琵琶湖で花火大会、中止を発表　火薬使用の申請なし―滋賀",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000680&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081000280&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "腸内細菌の毒素で遺伝子変異　日本人の大腸がん、半数に関与―除菌など予防法目指す・大阪大と東大",
-      "slug": "腸内細菌の毒素で遺伝子変異日本人の大腸がん半数に",
-      "time": "2026-08-10T09:21:00.000Z",
+      "headline": "株価急落で大統領支持率ダウン　若年層の離脱顕著―韓国",
+      "slug": "株価急落で大統領支持率ダウン若年層の離脱顕著韓国",
+      "time": "2026-08-10T22:05:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -615,19 +643,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "腸内細菌の毒素で遺伝子変異　日本人の大腸がん、半数に関与―除菌など予防法目指す・大阪大と東大",
+          "title": "株価急落で大統領支持率ダウン　若年層の離脱顕著―韓国",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000476&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081000662&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "プロ野球中日の嶋基宏コーチが人身事故　自転車と衝突し女性けが―警視庁",
-      "slug": "プロ野球中日の嶋基宏コチが人身事故自転車と衝突し",
-      "time": "2026-08-10T14:05:00.000Z",
+      "headline": "ＦＲＢ議長と電話「１度だけ」　頻繁な会話否定―米大統領",
+      "slug": "議長と電話度だけ頻繁な会話否定米大統領",
+      "time": "2026-08-10T22:23:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -636,33 +664,12 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "プロ野球中日の嶋基宏コーチが人身事故　自転車と衝突し女性けが―警視庁",
+          "title": "ＦＲＢ議長と電話「１度だけ」　頻繁な会話否定―米大統領",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000888&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081100182&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-10T23:03:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１１日０７時５９分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810230324_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -837,6 +844,48 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（暴風）",
       "slug": "気象警報注意報暴風",
+      "time": "2026-08-10T23:11:02.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（暴風）",
+          "snippet": "【千葉県暴風（雪）警報・注意報】北東部では、暴風に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810231103_0_VPWW58_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（波浪）",
+      "slug": "気象警報注意報波浪",
+      "time": "2026-08-10T23:11:02.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（波浪）",
+          "snippet": "【千葉県波浪警報・注意報】北東部では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810231103_0_VPWW59_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
+      "slug": "気象警報注意報暴風",
       "time": "2026-08-10T22:57:03.000Z",
       "independentSources": 1,
       "sources": [
@@ -856,51 +905,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-10T22:56:43.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【長野県濃霧注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810225644_0_VPWW61_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（波浪）",
-      "slug": "気象警報注意報波浪",
-      "time": "2026-08-10T22:41:12.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（波浪）",
-          "snippet": "【富山県波浪警報・注意報】富山県では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810224112_0_VPWW59_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-08-10T22:11:51.000Z",
+      "time": "2026-08-10T22:56:52.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -910,11 +917,32 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【青森県気象警報・注意報】津軽、三八上北では、強風に注意してください。青森県では、高波や濃霧による視程障害に注意してください。",
+          "snippet": "【長野県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810221153_0_VPWW54_020000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810225653_0_VPWW54_200000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "At least 13 killed in Ukrainian drone strike deep into Russia",
+      "slug": "Atleast13killedinUkraini",
+      "time": "2026-08-10T14:34:25.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
+          "snippet": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since ",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -973,7 +1001,7 @@
       "members": [
         {
           "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-          "snippet": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots adminis",
+          "snippet": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
@@ -1003,9 +1031,9 @@
       ]
     },
     {
-      "headline": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
-      "slug": "ColombiasEspriellatolead",
-      "time": "2026-08-10T21:48:23.000Z",
+      "headline": "Ceuta mayor calls for migrant detention amid mass influx crisis",
+      "slug": "Ceutamayorcallsformigran",
+      "time": "2026-08-10T22:41:03.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1014,10 +1042,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Colombia’s Espriella to lead emergency efforts following Bogota earthquake",
-          "snippet": "Colombia’s newly inaugurated president announced to lead emergency rescue efforts in Bogota’s earthquake-struck areas.",
+          "title": "Ceuta mayor calls for migrant detention amid mass influx crisis",
+          "snippet": "Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/colombias-espriella-to-lead-emergency-efforts-following-bogota-earthquake?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1060,48 +1088,6 @@
           "snippet": "US court rules Meta, Google and TikTok will face addiction lawsuits as Meta heads to trial this week over child safety",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Trump to demand compensation for Tehran’s ‘conflicts’",
-      "slug": "Trumptodemandcompensatio",
-      "time": "2026-08-10T20:55:21.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Trump to demand compensation for Tehran’s ‘conflicts’",
-          "snippet": "President Donald Trump says he’ll demand compensation from Iran for people killed or wounded in the US war on Iran.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/trump-to-demand-compensation-for-tehrans?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Trump administration has revoked over 175,000 visas: US State Department",
-      "slug": "Trumpadministrationhasre",
-      "time": "2026-08-10T19:46:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Trump administration has revoked over 175,000 visas: US State Department",
-          "snippet": "Most of the visa revocations stemmed from law-enforcement encounters involving criminal activity, the department said.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
