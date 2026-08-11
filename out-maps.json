@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-11T07:50:34.948Z",
+  "builtAt": "2026-08-11T08:54:15.152Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -153,8 +153,8 @@
       }
     },
     {
-      "headline": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
-      "slug": "YemensHouthislaunchballi",
+      "headline": "At least 132 killed in Colombia's largest  earthquake in years",
+      "slug": "Atleast132killedinColomb",
       "independentSources": 3,
       "sources": [
         "時事ドットコム",
@@ -167,39 +167,15 @@
           "link": "https://www.jiji.com/jc/article?k=2026081100066&g=int&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000878&g=int&m=rss"
-        },
-        {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss"
-        },
-        {
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss"
         }
       ],
-      "issue": "コロンビアで発生した地震による被害状況はどうか？",
+      "issue": "コロンビアで発生した地震による死者数は110人を超えたか？",
       "stasis": "事実",
       "facts": [
         {
@@ -213,7 +189,17 @@
           ]
         },
         {
-          "t": "この地震により、110人以上が死亡した。",
+          "t": "コロンビアでマグニチュード7.4の地震が発生した。",
+          "span": "magnitude 7.4 earthquake",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "地震により110人超が死亡したと報じられている。",
           "span": "１１０人超死亡",
           "src": [
             {
@@ -223,57 +209,7 @@
           ]
         },
         {
-          "t": "建物が多数倒壊した。",
-          "span": "建物多数倒壊",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "非常事態が宣言された。",
-          "span": "非常事態を宣言",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "建物に被害が出た。",
-          "span": "建物被害",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "負傷者も出た。",
-          "span": "負傷者も",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "コロンビアで数年ぶりの大規模な地震が発生した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この地震で少なくとも132人が死亡した。",
+          "t": "地震により132人が死亡したと報じられている。",
           "span": "At least 132 killed",
           "src": [
             {
@@ -283,7 +219,7 @@
           ]
         },
         {
-          "t": "480人以上が負傷した。",
+          "t": "地震により480人以上が負傷した。",
           "span": "More than 480 people were injured",
           "src": [
             {
@@ -293,7 +229,7 @@
           ]
         },
         {
-          "t": "さらに多くの人が倒壊した建物の下敷きになっているとみられている。",
+          "t": "建物の下敷きになったままの人がさらにいるとみられている。",
           "span": "with more feared trapped under collapsed buildings",
           "src": [
             {
@@ -303,24 +239,42 @@
           ]
         },
         {
-          "t": "ある家族は、マグニチュード7.4の地震が発生し、家が破壊される瞬間を記録した。",
-          "span": "A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home",
+          "t": "地震により多数の建物が倒壊した。",
+          "span": "建物多数倒壊",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "地震により家屋が破壊された。",
+          "span": "destroys home",
           "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
             }
           ]
+        },
+        {
+          "t": "コロンビアで非常事態が宣言された。",
+          "span": "非常事態を宣言",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "コロンビアでマグニチュード7.4の地震が発生し、多数の死傷者と建物被害が出た。非常事態が宣言された。",
-      "note": "他の記事はコロンビアの地震とは無関係なため、構造化対象から除外しました。",
+      "consensus": "コロンビアでマグニチュード7.4の地震が発生し、多数の建物が倒壊した。死者数については110人超、または132人と報じられており、負傷者も480人以上いるとされている。非常事態が宣言された。",
+      "note": "死者数について、時事ドットコムは「110人超」、BBC Worldは「132人」と報じており、数値に差異がある。Al Jazeeraは地震の瞬間と家屋破壊の映像を報じている。",
       "audit": {
         "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「Colombia's largest…」"
-        ]
+        "issues": []
       }
     },
     {
@@ -481,60 +435,98 @@
       }
     },
     {
-      "headline": "東京メトロ半蔵門線 運転見合わせ 駅構内でアスベスト見つかる",
-      "slug": "東京メトロ半蔵門線運転見合わせ駅構内でアスベスト",
+      "headline": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "slug": "WevehadalotofclosecallsC",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43221"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591330?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/11/indonesian-officials-race-to-contain-wildfires-as-dozens-of-schools-shut?traffic_source=rss"
         }
       ],
-      "issue": "東京メトロ半蔵門線はいつ運転を再開するか？",
-      "stasis": "事実",
+      "issue": "カナダ発のフライトで子供がシートベルト着用を拒否したインシデントは、商業便における子供の安全と規律に関する議論を巻き起こしたか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "東京メトロ半蔵門線でアスベストを含む素材が見つかった。",
-          "span": "アスベストを含む素材が見つかった",
+          "t": "カナダ発のフライトで、子供がシートベルトの着用を拒否したため、そのフライトがキャンセルされた。",
+          "span": "child refuses to wear seat belt",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "東京メトロ半蔵門線の一部区間で11日朝の始発から運転を見合わせている。",
-          "span": "一部の区間で11日朝の始発から運転を見合わせています",
+          "t": "カナダで山火事が発生し、12,000人以上の人々が避難を余儀なくされ、一部の家屋が焼失した。",
+          "span": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "半蔵門線の運転再開は「本日中」と報じられている。",
-          "span": "運転再開は「本日中」",
+          "t": "イランからの脅威を受けて、トランプ氏がトルコから秘密裏に飛行機で移動したと報じられている。",
+          "span": "Iran threat prompted secret Trump flight from Turkiye: Reports",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トランプ氏は、報道陣や一部ホワイトハウス職員に気づかれずに、ケータリングカートを使って飛行機を乗り換えたと報じられている。",
+          "span": "Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアで山火事が発生し、多数の学校が閉鎖されている。",
+          "span": "Indonesian officials race to contain wildfires as dozens of schools shut",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアでは、大気質の悪化により多数の学校が閉鎖されており、雲種子散布機が展開されている。",
+          "span": "Cloud-seeding aircraft have been deployed as dozens of schools remain closed due to poor air quality",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "東京メトロ半蔵門線は半蔵門駅構内でアスベストを含む素材が見つかったため、11日朝の始発から一部区間で運転を見合わせており、運転再開は本日中と報じられている。",
-      "note": "",
+      "consensus": "複数のニュースソースから、カナダでの山火事による避難、トランプ氏の秘密裏の移動、インドネシアでの山火事と学校閉鎖に関する事実が報じられている。カナダ発のフライトキャンセルは、子供の安全と規律に関する議論を巻き起こしたとされている。評価は割れる。",
+      "note": "プライバシー配慮のため、個別の事件の詳細は一般化して記述。",
       "audit": {
         "changed": false,
         "issues": []
