@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-08-11T08:54:15.152Z",
+  "builtAt": "2026-08-11T11:50:12.729Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風15号 交通機関への影響は（鉄道 高速道路 空の便）11日",
-      "slug": "台風15号交通機関への影響は鉄道高速道路空の便1",
+      "headline": "台風15号 茨城県南部に上陸 茨城上陸は統計開始から初 気象庁",
+      "slug": "台風15号茨城県南部に上陸茨城上陸は統計開始から",
       "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
@@ -22,8 +22,12 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260810de43204"
         },
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43243"
+        },
+        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591316?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6591354?source=rss"
         },
         {
           "source": "時事ドットコム",
@@ -31,130 +35,210 @@
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074640_0_VPWW54_060000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811114339_0_VPFJ50_240000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074640_0_VPWW53_060000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811114338_0_VPFJ51_240000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074626_0_VPWW56_060000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811114327_0_VPFJ51_230000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074406_0_VPFJ51_030000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074406_0_VPFJ50_030000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811114327_0_VPFJ50_230000.xml"
         }
       ],
-      "issue": "台風15号はいつ、どこに上陸するおそれがあるか？",
+      "issue": "台風15号は茨城県に上陸したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "台風15号は11日夜に関東に上陸するおそれがある。",
-          "span": "11日夜には上陸するおそれがあります",
+          "t": "台風15号が午後8時頃に茨城県南部に上陸した。",
+          "span": "台風15号が午後8時ごろ茨城県南部に上陸した",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風15号は茨城付近に上陸する見込み。",
-          "span": "台風１５号、茨城付近上陸へ",
-          "src": [
+              "ty": "wire",
+              "l": "NHK"
+            },
+            {
+              "ty": "prim",
+              "l": "気象庁"
+            },
             {
               "ty": "press",
+              "l": "Yahoo!ニュース"
+            },
+            {
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "台風は夜に関東上陸する見込み。",
-          "span": "台風は夜に関東上陸へ",
+          "t": "茨城県への台風上陸は、統計を取り始めた1951年以降で初めてである。",
+          "span": "台風が茨城県に上陸するのは、統計を取り始めた1951年以降、初めてだ",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            },
+            {
+              "ty": "prim",
+              "l": "気象庁"
+            }
+          ]
+        },
+        {
+          "t": "台風15号による交通機関（鉄道、高速道路、空の便）への影響が報じられており、最新情報が随時更新される。",
+          "span": "台風15号による交通機関への影響です。最新の情報を随時、このページでお伝えします。",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "気象予報士の向笠康二郎氏が台風15号の今後の見通しについて解説する。",
+          "span": "今後の見通しについて、向笠康二郎 気象予報士の解説です",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "台風15号の上陸に伴い、災害への警戒が呼びかけられている。",
+          "span": "災害に警戒",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Yahoo!ニュース"
             }
           ]
         },
         {
-          "t": "東日本と東北では、12日にかけて総雨量が多くなる見込み。",
-          "span": "12日にかけて総雨量が多くなる見込み",
+          "t": "気象庁は関東や東北地方に対し、暴風や大雨への警戒を呼びかけている。",
+          "span": "関東や東北、暴風大雨警戒",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "山形県では強風に注意が必要。",
-          "span": "山形県では、強風に注意してください",
-          "src": [
+              "ty": "wire",
+              "l": "時事ドットコム"
+            },
             {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "山形県置賜では土砂災害に注意が必要。",
-          "span": "置賜では、土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "岩手県沿岸北部と沿岸南部では、12日朝から夜遅くにかけて、大雨による土砂災害に厳重に警戒する必要がある。",
-          "span": "沿岸北部と沿岸南部では、１２日朝から夜遅くにかけて、大雨による土砂災害に厳重に警戒し",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "岩手県沿岸北部と沿岸南部では、12日朝から夜遅くにかけて、低い土地の浸水、河川の増水や氾濫に警戒する必要がある。",
-          "span": "低い土地の浸水、河川の増水や氾濫に警戒してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "岩手県沿岸では、11日夜遅くにかけて、うねりを伴った高波に警戒する必要がある。",
-          "span": "１１日夜遅くにかけて、うねりを伴った高波に警戒し",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
+              "ty": "prim",
+              "l": "気象庁"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風15号は11日夜に関東に上陸するおそれがあり、茨城付近が予想されている。東日本と東北では12日にかけて総雨量が多くなる見込み。山形県では強風や土砂災害、岩手県沿岸では大雨による土砂災害、低い土地の浸水、河川増水・氾濫、高波に警戒が必要である。",
-      "note": "プライバシー配慮のため、個別の交通機関への影響に関する詳細は省略した。",
+      "consensus": "台風15号は20時頃に茨城県南部に上陸し、これは統計開始以来初めての事態であると複数の報道機関および気象庁が報じている。",
+      "note": "本記事は事実の報道に終始しており、特定の立場や評価の対立は存在しない事実合意型である。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[2].span が元のテキストの該当部分を十分にカバーしていなかったため、'台風15号による交通機関への影響です。最新の情報を随時、このページでお伝えします。' に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
+      "slug": "WhoisAtefNajibformerSyri",
+      "independentSources": 4,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591351?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081100473&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss"
+        }
+      ],
+      "issue": "シリアのアサド前大統領への死刑判決は、シリアの移行期正義にとってどのような意味を持つか？",
+      "stasis": "価値・倫理",
+      "facts": [
+        {
+          "t": "シリアの裁判所がアサド前大統領に死刑判決を下した。",
+          "span": "前大統領に死刑判決",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "判決は欠席裁判で行われた。",
+          "span": "in absentia",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "前大統領は内戦中の「人道に対する罪」および「戦争犯罪」で有罪とされた。",
+          "span": "「人道に対する罪」",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "シリアの元高官であるアテフ・ナジブもアサド前大統領と共に死刑判決を受けた。",
+          "span": "Atef Najib, former Syrian official sentenced to death with al-Assad",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "シリアの裁判所がアサド前大統領に死刑判決を下したことは事実であり、その判決が移行期正義にどのような意味を持つかについては専門家の見解が示されている。",
+      "note": null,
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "At least 132 killed in Colombia's largest  earthquake in years",
-      "slug": "Atleast132killedinColomb",
+      "headline": "Baby among those rescued as hundreds feared missing after Colombia quake",
+      "slug": "Babyamongthoserescuedash",
       "independentSources": 3,
       "sources": [
         "時事ドットコム",
@@ -172,25 +256,25 @@
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/baby-among-those-rescued-as-hundreds-feared-missing-after-colombia-quake?traffic_source=rss"
         }
       ],
-      "issue": "コロンビアで発生した地震による死者数は110人を超えたか？",
+      "issue": "コロンビアで発生した地震の被害状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "コロンビアでマグニチュード7.4の地震が発生した。",
+          "t": "南米コロンビアでマグニチュード7.4の地震が発生した。",
           "span": "Ｍ７．４",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "コロンビアでマグニチュード7.4の地震が発生した。",
-          "span": "magnitude 7.4 earthquake",
+          "t": "コロンビア西部でマグニチュード7.4の地震が発生した。",
+          "span": "A 7.4-magnitude quake",
           "src": [
             {
               "ty": "press",
@@ -199,17 +283,17 @@
           ]
         },
         {
-          "t": "地震により110人超が死亡したと報じられている。",
-          "span": "１１０人超死亡",
+          "t": "地震により132人が死亡した。",
+          "span": "１３２人死亡",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "地震により132人が死亡したと報じられている。",
+          "t": "地震により少なくとも132人が死亡した。",
           "span": "At least 132 killed",
           "src": [
             {
@@ -219,7 +303,17 @@
           ]
         },
         {
-          "t": "地震により480人以上が負傷した。",
+          "t": "地震により132人が死亡した。",
+          "span": "killing 132",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "480人以上が負傷した。",
           "span": "More than 480 people were injured",
           "src": [
             {
@@ -229,28 +323,18 @@
           ]
         },
         {
-          "t": "建物の下敷きになったままの人がさらにいるとみられている。",
-          "span": "with more feared trapped under collapsed buildings",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "地震により多数の建物が倒壊した。",
+          "t": "多数の建物が倒壊した。",
           "span": "建物多数倒壊",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "地震により家屋が破壊された。",
-          "span": "destroys home",
+          "t": "建物が破壊された。",
+          "span": "destroying buildings",
           "src": [
             {
               "ty": "press",
@@ -259,277 +343,177 @@
           ]
         },
         {
-          "t": "コロンビアで非常事態が宣言された。",
+          "t": "コロンビア政府は非常事態を宣言した。",
           "span": "非常事態を宣言",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "倒壊した建物の下にさらに多くの人が閉じ込められていると懸念されている。",
+          "span": "more feared trapped under collapsed buildings",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "数百人が行方不明と懸念されている。",
+          "span": "hundreds feared missing",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "赤ちゃんを含む人々が救助された。",
+          "span": "Baby among those rescued",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "コロンビアでマグニチュード7.4の地震が発生し、多数の建物が倒壊した。死者数については110人超、または132人と報じられており、負傷者も480人以上いるとされている。非常事態が宣言された。",
-      "note": "死者数について、時事ドットコムは「110人超」、BBC Worldは「132人」と報じており、数値に差異がある。Al Jazeeraは地震の瞬間と家屋破壊の映像を報じている。",
+      "consensus": "南米コロンビアでマグニチュード7.4の地震が発生し、少なくとも132人が死亡、480人以上が負傷した。多数の建物が倒壊し、非常事態が宣言された。倒壊した建物の下に閉じ込められたり、行方不明になっている人が多数いると懸念されており、赤ちゃんを含む救助活動が行われている。",
+      "note": "本記事は事実の報道であり、評価や意見の対立は含まれていない事実合意型です。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "イオン、従業員に再入館許可　爆発事故前、私物回収など理由に―熊本地震",
-      "slug": "イオン従業員に再入館許可爆発事故前私物回収など理",
-      "independentSources": 3,
+      "headline": "熊本地震 “たかおっちゃん”のスニーカー　めいが思い語る",
+      "slug": "熊本地震たかおっちゃんのスニカめいが思い語る",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム",
         "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43246"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43276"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43205"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43203"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100278&g=soc&m=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43234"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074524_0_VXSE53_270000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811112810_0_VXSE53_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811053223_0_VXSE53_270000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811102012_0_VXSE53_010000.xml"
         }
       ],
-      "issue": "イオンモール熊本爆発事故において、避難後に一時入館が認められた事実は、災害対応として妥当か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "熊本地震の状況と影響は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "イオンモール熊本で爆発事故が発生し、7人が死亡した。",
-          "span": "7人が死亡したイオンモール熊本での爆発について",
+          "t": "熊本地震が発生した。",
+          "span": "熊本地震",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "イオンは、従業員への聞き取りの結果、いったん避難したあとに一時入館を認めた事実があったと発表した。",
-          "span": "いったん避難したあとに一時入館を認めた事実があったと発表しました",
-          "src": [
+            },
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "一時入館の理由として、車の鍵や携帯電話の回収、レジ締めなどの要望があった。",
-          "span": "車の鍵や携帯電話の回収のほかレジ締めなどの要望",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "イオンは、爆発事故前に従業員に私物回収などを理由に再入館を許可した。",
-          "span": "イオン、従業員に再入館許可　爆発事故前、私物回収など理由に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "熊本県で最大震度7の揺れを観測する地震が発生してから11日で2週間である。",
-          "span": "熊本県で最大震度7の揺れを観測する地震が発生してから11日で2週間です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、地震の回数は徐々に減少しているものの、依然として活発な活動が続いているとしている。",
-          "span": "地震の回数は徐々に減少しているものの、依然として活発な活動が続いているとして",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、今後1か月ほどは最大震度5弱程度以上の地震に注意が必要だと発表した。",
-          "span": "今後1か月ほどは最大震度5弱程度以上の地",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "県内では6000人以上が避難生活を余儀なくされている。",
-          "span": "6000人以上が避難生活を余儀なくされていて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "災害関連死の防止が課題となっており、より安全な場所に移る「2次避難」などを進めることが重要視されている。",
-          "span": "災害関連死の防止が課題に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "11日16時42分頃に地震があった。",
-          "span": "１１日１６時４２分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "press",
+              "ty": "prim",
               "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "11日14時28分頃に地震があった。",
-          "span": "１１日１４時２８分ころ、地震がありました",
+          "t": "熊本県八代市で震度6強の揺れが観測された。",
+          "span": "震度6強の揺れを観測した",
           "src": [
             {
               "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本県で最大震度7の揺れが観測された。",
+          "span": "最大震度7の揺れ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "地震発生から11日で2週間が経過した。",
+          "span": "11日で2週間です",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "被災地で仮設住宅の建設が始まった。",
+          "span": "仮設住宅の建設始まる",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "11日20時25分ごろに地震があった。",
+          "span": "地震がありました",
+          "src": [
+            {
+              "ty": "prim",
               "l": "気象庁 地震・火山"
             }
           ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イオンモール熊本で爆発事故が発生し、7人が死亡した。イオンは、従業員への聞き取りの結果、いったん避難したあとに一時入館を認めた事実があったと発表した。一時入館の理由として、車の鍵や携帯電話の回収、レジ締めなどの要望があった。熊本県で最大震度7の揺れを観測する地震が発生してから11日で2週間であり、気象庁は今後1か月ほどは最大震度5弱程度以上の地震に注意が必要だと発表した。県内では6000人以上が避難生活を余儀なくされており、災害関連死の防止が課題となっている。11日には地震が複数回観測された。",
-      "note": "イオンモール熊本の爆発事故と熊本地震に関する複数の報道を統合した。イオンの一時入館許可に関する評価は、記事中では明確に賛否が分かれていないため、中立的な stance とした。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "slug": "WevehadalotofclosecallsC",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/11/indonesian-officials-race-to-contain-wildfires-as-dozens-of-schools-shut?traffic_source=rss"
-        }
-      ],
-      "issue": "カナダ発のフライトで子供がシートベルト着用を拒否したインシデントは、商業便における子供の安全と規律に関する議論を巻き起こしたか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "カナダ発のフライトで、子供がシートベルトの着用を拒否したため、そのフライトがキャンセルされた。",
-          "span": "child refuses to wear seat belt",
+          "t": "11日19時17分ごろに地震があった。",
+          "span": "地震がありました",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "カナダで山火事が発生し、12,000人以上の人々が避難を余儀なくされ、一部の家屋が焼失した。",
-          "span": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada",
+          "t": "熊本県八代市で叔父を亡くした女性が、叔父宛てに届いたスニーカーを手に思いを語った。",
+          "span": "",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イランからの脅威を受けて、トランプ氏がトルコから秘密裏に飛行機で移動したと報じられている。",
-          "span": "Iran threat prompted secret Trump flight from Turkiye: Reports",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏は、報道陣や一部ホワイトハウス職員に気づかれずに、ケータリングカートを使って飛行機を乗り換えたと報じられている。",
-          "span": "Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "インドネシアで山火事が発生し、多数の学校が閉鎖されている。",
-          "span": "Indonesian officials race to contain wildfires as dozens of schools shut",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "インドネシアでは、大気質の悪化により多数の学校が閉鎖されており、雲種子散布機が展開されている。",
-          "span": "Cloud-seeding aircraft have been deployed as dozens of schools remain closed due to poor air quality",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "複数のニュースソースから、カナダでの山火事による避難、トランプ氏の秘密裏の移動、インドネシアでの山火事と学校閉鎖に関する事実が報じられている。カナダ発のフライトキャンセルは、子供の安全と規律に関する議論を巻き起こしたとされている。評価は割れる。",
-      "note": "プライバシー配慮のため、個別の事件の詳細は一般化して記述。",
+      "consensus": "熊本地震が発生し、熊本県八代市で震度6強、熊本県で最大震度7の揺れが観測された。地震発生から11日で2週間が経過し、被災地では仮設住宅の建設が始まった。また、11日には20時25分ごろと19時17分ごろに地震が観測されており、熊本県八代市で叔父を亡くした女性がスニーカーを手に思いを語るなど、個人的な影響も報じられている。これらの事実について、記事内に対立する評価や主張は存在しない。",
+      "note": "本記事は事実の記述が中心であり、論調の対立や評価・主張を述べる主体が存在しないため、事実合意型としてpositionsは空配列です。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "span の最小核: facts[2].span を「最大震度7の揺れを観測する地震が発生」から「最大震度7の揺れ」に修正しました。",
+          "span の最小核: facts[7].span を「スニーカーを手に思いを語りました」から「思いを語る」に修正しました。"
+        ]
       }
     }
   ]
