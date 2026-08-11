@@ -1,23 +1,34 @@
 {
-  "rankedAt": "2026-08-11T15:28:36.559Z",
+  "rankedAt": "2026-08-11T16:26:29.616Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風15号 各地の被害 茨城で3人けが 関東で1万8880戸停電",
       "slug": "台風15号各地の被害茨城で3人けが関東で1万88",
-      "time": "2026-08-11T14:45:06.000Z",
-      "independentSources": 1,
+      "time": "2026-08-11T16:24:34.000Z",
+      "independentSources": 4,
       "sources": [
-        "NHK 主要ニュース"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "気象庁 気象警報・注意報"
       ],
-      "count": 3,
-      "hasPrimary": false,
+      "count": 11,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "台風15号 茨城県南部に上陸 茨城上陸は統計開始から初 気象庁",
-          "snippet": "気象庁は、台風15号が午後8時ごろ茨城県南部に上陸したと発表しました。関東では30メートル近い最大瞬間風速が観測されているほか、台風の中心から離れた東北でも12日にかけて湿った空気が流れ込み総雨量が多…",
+          "title": "台風15号 関東で強風被害 台風から離れても大雨に警戒",
+          "snippet": "茨城県に上陸した台風15号は関東甲信を西寄りに進んでいて、強風による倒木などの被害が出ました。12日は台風から離れた東北などでも湿った空気の影響で激しい雨が降るおそれがあり、気象庁は土砂災害や低い土地…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260811de43217",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "台風15号 各地の被害 茨城で3人けが 関東で1万8880戸停電",
+          "snippet": "台風15号により各地で被害がでています。最新の情報を随時、このページでお伝えします。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43291",
           "ty": "press",
           "linkKind": "article"
         },
@@ -30,126 +41,66 @@
           "linkKind": "article"
         },
         {
-          "title": "台風15号 各地の被害 茨城で3人けが 関東で1万8880戸停電",
-          "snippet": "台風15号により各地で被害がでています。最新の情報を随時、このページでお伝えします。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43291",
+          "title": "東北道下りで全車線塞ぐ倒木 栃木",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591362?source=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "野口、起用に応える逆転弾　プロ野球・オリックス",
-      "slug": "野口起用に応える逆転弾プロ野球オリックス",
-      "time": "2026-08-11T13:27:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
+        },
         {
-          "title": "野口、起用に応える逆転弾　プロ野球・オリックス",
+          "title": "台風１５号、茨城県南部上陸　東日本横断へ、暴風大雨警戒―気象庁",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100639&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081100588&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "１２日の予告先発投手　プロ野球・セ・リーグ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100460&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-11T15:23:35.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【東京都気象警報・注意報】東京地方では、低い土地の浸水に注意してください。東京地方、伊豆諸島北部、伊豆諸島南部では、強風や高波、竜巻などの激しい突風、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811152336_0_VPWW53_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】東京地方では、低い土地の浸水に注意してください。東京地方、伊豆諸島北部、伊豆諸島南部では、強風や高波、竜巻などの激しい突風、落雷に注意してください。",
+          "snippet": "【千葉県気象警報・注意報】北東部では、土砂災害に注意してください。千葉県では、低い土地の浸水や強風、高波、竜巻などの激しい突風、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811152336_0_VPWW54_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-11T15:19:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【香川県気象警報・注意報】香川県では、高潮に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811151921_0_VPWW54_370000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811162436_0_VPWW54_120000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【香川県気象警報・注意報】香川県では、高潮に注意してください。",
+          "snippet": "【千葉県気象警報・注意報】北東部では、土砂災害に注意してください。千葉県では、低い土地の浸水や強風、高波、竜巻などの激しい突風、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811151921_0_VPWW53_370000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811162436_0_VPWW53_120000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-11T15:16:25.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【千葉県土砂災害警報・注意報】北東部では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811162434_0_VPWW56_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "snippet": "【神奈川県気象警報・注意報】東部では、低い土地の浸水に注意してください。神奈川県では、強風や高波、竜巻などの激しい突風、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811151626_0_VPWW54_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811162405_0_VPWW54_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "snippet": "【神奈川県気象警報・注意報】東部では、低い土地の浸水に注意してください。神奈川県では、強風や高波、竜巻などの激しい突風、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811151626_0_VPWW53_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811162405_0_VPWW53_140000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【神奈川県大雨警報・注意報】東部では、低い土地の浸水や河川の増水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811162401_0_VPWW55_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -158,12 +109,13 @@
     {
       "headline": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
       "slug": "Trumphidincateringtrucki",
-      "time": "2026-08-11T14:47:28.000Z",
-      "independentSources": 1,
+      "time": "2026-08-11T15:47:53.000Z",
+      "independentSources": 2,
       "sources": [
-        "BBC World"
+        "BBC World",
+        "Al Jazeera"
       ],
-      "count": 2,
+      "count": 3,
       "hasPrimary": false,
       "members": [
         {
@@ -175,41 +127,250 @@
           "linkKind": "article"
         },
         {
-          "title": "Houthis kill three in first deadly attack since start of Iran war - reports",
-          "snippet": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran con",
+          "title": "Russia releases former US Marine reported in poor health",
+          "snippet": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-lik",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
+          "snippet": "President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfect health’.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
-      "slug": "WhatareSaudiArabiaTurkiy",
-      "time": "2026-08-11T13:47:50.000Z",
-      "independentSources": 1,
+      "headline": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
+      "slug": "Lebanonparliamentvotesto",
+      "time": "2026-08-11T15:24:07.000Z",
+      "independentSources": 2,
       "sources": [
+        "BBC World",
         "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Lebanon parliament votes to abolish death penalty",
+          "snippet": "The new law - which next goes to the cabinet for approval - would make Lebanon the first country in the Middle East to e",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8enj8p1xwgo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
+          "snippet": "Death sentences will be replaced with life imprisonment with aggravated hard labour.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
+          "snippet": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "slug": "RussiausingNorthKoreanmi",
+      "time": "2026-08-11T16:19:44.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "BBC World"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
-          "snippet": "The Mecca defence pact combines a top oil exporter, NATO&#039;s second-largest army and the only Muslim nuclear arsenal.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
+          "title": "ゼレンスキー大統領「ロシアが北朝鮮のミサイルで攻撃」",
+          "snippet": "ウクライナのゼレンスキー大統領は、11日朝にかけて行われたロシアによる攻撃で北朝鮮の弾道ミサイルが使われたという見方を示し、防空体制の強化に向けて、改めて各国に支援を求めました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43300",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "What’s behind Iran’s new military appointments and what do they indicate?",
-          "snippet": "Observers say the nominations empower the hardline old guard, prioritise loyalty over military innovation.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/11/whats-behind-irans-new-military-appointments-and-what-do-they-indicate?traffic_source=rss",
+          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+          "snippet": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "slug": "OustedSyriandictatorBash",
+      "time": "2026-08-11T14:50:10.000Z",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "シリアのアサド前大統領に死刑判決　内戦下で「人道に対する罪」",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081100473&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+          "snippet": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "推定噴煙流向報",
+      "slug": "推定噴煙流向報",
+      "time": "2026-08-11T15:57:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 3,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "推定噴煙流向報",
+          "snippet": "【桜島　推定噴煙流向報】",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811155748_0_VFVO60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "推定噴煙流向報",
+          "snippet": "【桜島　推定噴煙流向報】",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811153333_0_VFVO60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "推定噴煙流向報",
+          "snippet": "【桜島　推定噴煙流向報】",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811142503_0_VFVO60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "噴火に関する火山観測報",
+      "slug": "噴火に関する火山観測報",
+      "time": "2026-08-11T15:57:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 3,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "噴火に関する火山観測報",
+          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月12日00時50分(111550UTC)\n現　　象：連続噴火継続",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811155715_0_VFVO52_400000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "噴火に関する火山観測報",
+          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月12日00時20分(111520UTC)\n現　　象：噴火",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811153300_0_VFVO52_400000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "噴火に関する火山観測報",
+          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月11日23時15分(111415UTC)\n現　　象：噴火",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811142429_0_VFVO52_400000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-11T16:22:26.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811162226_0_VPTW60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811160434_0_VPTW61_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-11T16:01:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【渡島・檜山地方気象警報・注意報】渡島地方では、強風や高波、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811160137_0_VPWW53_017000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【渡島・檜山地方気象警報・注意報】渡島地方では、強風や高波、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811160137_0_VPWW54_017000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -277,27 +438,6 @@
       ]
     },
     {
-      "headline": "ゼレンスキー大統領「ロシアが北朝鮮のミサイルで攻撃」",
-      "slug": "ゼレンスキ大統領ロシアが北朝鮮のミサイルで攻撃",
-      "time": "2026-08-11T13:57:58.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ゼレンスキー大統領「ロシアが北朝鮮のミサイルで攻撃」",
-          "snippet": "ウクライナのゼレンスキー大統領は、11日朝にかけて行われたロシアによる攻撃で北朝鮮の弾道ミサイルが使われたという見方を示し、防空体制の強化に向けて、改めて各国に支援を求めました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43300",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "台風上陸 12日も各地で大雨予想",
       "slug": "台風上陸12日も各地で大雨予想",
       "time": "2026-08-11T13:12:11.000Z",
@@ -313,27 +453,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591361?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "東北道下りで全車線塞ぐ倒木 栃木",
-      "slug": "東北道下りで全車線塞ぐ倒木栃木",
-      "time": "2026-08-11T13:22:53.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "東北道下りで全車線塞ぐ倒木 栃木",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591362?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -466,6 +585,27 @@
       ]
     },
     {
+      "headline": "南米コロンビアでＭ７．４、２２０人超死亡　建物多数倒壊、非常事態を宣言",
+      "slug": "南米コロンビアで人超死亡建物多数倒壊非常事態を宣",
+      "time": "2026-08-11T14:10:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "南米コロンビアでＭ７．４、２２０人超死亡　建物多数倒壊、非常事態を宣言",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081100066&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "高市氏贈呈のメロンをやゆ？　オーストラリア首相の放談が物議",
       "slug": "高市氏贈呈のメロンをやゆオストラリア首相の放談が",
       "time": "2026-08-11T09:48:00.000Z",
@@ -481,48 +621,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081100513&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "入管庁、強制退去の外国人情報を自治体に提供",
-      "slug": "入管庁強制退去の外国人情報を自治体に提供",
-      "time": "2026-08-10T21:28:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "入管庁、強制退去の外国人情報を自治体に提供",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000642&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "中国、台湾東沖で軍事訓練へ　インドネシアと",
-      "slug": "中国台湾東沖で軍事訓練へインドネシアと",
-      "time": "2026-08-11T11:52:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "中国、台湾東沖で軍事訓練へ　インドネシアと",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100595&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -571,9 +669,9 @@
       ]
     },
     {
-      "headline": "高市首相、コロンビア地震でお見舞い",
-      "slug": "高市首相コロンビア地震でお見舞い",
-      "time": "2026-08-11T11:48:00.000Z",
+      "headline": "入管庁、強制退去の外国人情報を自治体に提供",
+      "slug": "入管庁強制退去の外国人情報を自治体に提供",
+      "time": "2026-08-10T21:28:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -582,19 +680,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "高市首相、コロンビア地震でお見舞い",
+          "title": "入管庁、強制退去の外国人情報を自治体に提供",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100590&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081000642&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "三重、小刻みに加点　高校野球・松商学園３―５三重",
-      "slug": "三重小刻みに加点高校野球松商学園三重",
-      "time": "2026-08-11T12:14:00.000Z",
+      "headline": "野口、起用に応える逆転弾　プロ野球・オリックス",
+      "slug": "野口起用に応える逆転弾プロ野球オリックス",
+      "time": "2026-08-11T13:27:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -603,19 +701,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "三重、小刻みに加点　高校野球・松商学園３―５三重",
+          "title": "野口、起用に応える逆転弾　プロ野球・オリックス",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100607&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081100639&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "智弁和歌山、履正社が３回戦へ　敦賀気比、三重も勝ち上がり―全国高校野球",
-      "slug": "智弁和歌山履正社が回戦へ敦賀気比三重も勝ち上がり",
-      "time": "2026-08-11T12:09:00.000Z",
+      "headline": "中国、台湾東沖で軍事訓練へ　インドネシアと",
+      "slug": "中国台湾東沖で軍事訓練へインドネシアと",
+      "time": "2026-08-11T11:52:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -624,19 +722,40 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "智弁和歌山、履正社が３回戦へ　敦賀気比、三重も勝ち上がり―全国高校野球",
+          "title": "中国、台湾東沖で軍事訓練へ　インドネシアと",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100198&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081100595&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "推定噴煙流向報",
-      "slug": "推定噴煙流向報",
-      "time": "2026-08-11T14:25:00.000Z",
+      "headline": "旧統一教会元幹部らを在宅起訴　政治家１３２人に違法献金―韓国",
+      "slug": "旧統一教会元幹部らを在宅起訴政治家人に違法献金韓",
+      "time": "2026-08-11T13:25:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "旧統一教会元幹部らを在宅起訴　政治家１３２人に違法献金―韓国",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081100638&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（詳細）",
+      "slug": "降灰予報詳細",
+      "time": "2026-08-11T16:18:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -645,31 +764,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "推定噴煙流向報",
-          "snippet": "【桜島　推定噴煙流向報】",
+          "title": "降灰予報（詳細）",
+          "snippet": "【火山名　桜島　降灰予報（詳細）】　１２日００時２０分に桜島（南岳山頂火口）で発生した噴火は現在も継続しています。今後も噴火が継続した場合、１２日００時２０分から１２日０７時までに鹿児島市（桜島）ではやや多量の降灰があり、降灰は鹿児島県肝付",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811142503_0_VFVO60_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "噴火に関する火山観測報",
-      "slug": "噴火に関する火山観測報",
-      "time": "2026-08-11T14:24:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "噴火に関する火山観測報",
-          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月11日23時15分(111415UTC)\n現　　象：噴火",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811142429_0_VFVO52_400000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811161852_0_VFVO55_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -739,198 +837,9 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-11T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１２日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811140030_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-11T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１２日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811140033_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-11T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１２日０９時から１２時までは火口から南西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811140037_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-11T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１２日０９時から１２時までは火口から東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811140041_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-11T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１２日０９時から１２時までは火口から北方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811140045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "指定河川洪水予報",
-      "slug": "指定河川洪水予報",
-      "time": "2026-08-11T15:23:19.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "指定河川洪水予報",
-          "snippet": "【善福寺川レベル２氾濫注意報解除】〔解除〕善福寺川　氾濫のおそれなくなる",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811152324_0_VXKO76_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（高潮）",
-      "slug": "気象警報注意報高潮",
-      "time": "2026-08-11T15:19:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（高潮）",
-          "snippet": "【香川県高潮警報・注意報】香川県では、高潮に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811151907_0_VPWW57_370000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
-      "slug": "気象警報注意報暴風",
-      "time": "2026-08-11T15:16:17.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（暴風）",
-          "snippet": "【群馬県暴風（雪）警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811151617_0_VPWW58_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-11T15:14:42.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福島県気象警報・注意報】会津では、土砂災害に注意してください。浜通りでは、強風に注意してください。福島県では、高波や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811151444_0_VPWW54_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "slug": "RussiausingNorthKoreanmi",
-      "time": "2026-08-11T09:39:58.000Z",
+      "headline": "Watch: Family escapes home during Colombia earthquake",
+      "slug": "WatchFamilyescapeshomedu",
+      "time": "2026-08-11T10:12:21.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -939,94 +848,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-          "snippet": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missile",
+          "title": "Watch: Family escapes home during Colombia earthquake",
+          "snippet": "At least 169 people are dead and a state of emergency has been declared after Colombia was hit by one of its largest ear",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "slug": "OustedSyriandictatorBash",
-      "time": "2026-08-11T14:50:10.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-          "snippet": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "At least 169 killed in Colombia's largest  earthquake in years",
-      "slug": "Atleast169killedinColomb",
-      "time": "2026-08-11T13:21:32.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "At least 169 killed in Colombia's largest  earthquake in years",
-          "snippet": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
-      "slug": "LuigiMangionebackincourt",
-      "time": "2026-08-11T11:35:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
-          "snippet": "Mangione's lawyers have yet to signal their defence, while prosecutors are in a battle over evidence.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
-      "slug": "AustraliaPMunderfireforr",
-      "time": "2026-08-11T07:55:22.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Australia PM under fire for remarks on Japanese counterpart's melon gifts",
-          "snippet": "An ex-Japanese envoy said the \"sexist\" comments \"betrayed the close bond\" between the countries.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c0jl6ewvq42o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/videos/cwyl3w1e6zxo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1054,9 +879,9 @@
       ]
     },
     {
-      "headline": "Drone captures devastating aftermath of Spokane wildfires",
-      "slug": "Dronecapturesdevastating",
-      "time": "2026-08-11T14:02:07.000Z",
+      "headline": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+      "slug": "LuigiMangioneappearsinco",
+      "time": "2026-08-11T16:12:35.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1065,10 +890,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Drone captures devastating aftermath of Spokane wildfires",
-          "snippet": "The aerial footage shows homes destroyed down to their foundations, with burned cars still parked in some driveways.",
+          "title": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+          "snippet": "Mangione's lawyers have yet to signal their defence strategy, while prosecutors are in a battle over evidence.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/c80nm9melpmo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Houthis reportedly kill four in first deadly attack since start of Iran war",
+      "slug": "Houthisreportedlykillfou",
+      "time": "2026-08-11T15:41:13.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
+          "snippet": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran con",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1090,6 +936,69 @@
           "snippet": "Authorities promise tough new laws in the country, which has high levels of firearms ownership.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cm2g550v0pvo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Hungary elects supreme court judge ousted by Orban as new president",
+      "slug": "Hungaryelectssupremecour",
+      "time": "2026-08-11T15:50:51.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Hungary elects supreme court judge ousted by Orban as new president",
+          "snippet": "Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Rwanda: The genocide against the Tutsi",
+      "slug": "RwandaThegenocideagainst",
+      "time": "2026-08-11T15:49:09.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Rwanda: The genocide against the Tutsi",
+          "snippet": "How colonial identity, extremist politics and &#039;hate radio&#039; helped turn Rwanda’s genocide into organised mass m",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "DC residents debate safety gains a year into Trump’s Guard deployment",
+      "slug": "DCresidentsdebatesafetyg",
+      "time": "2026-08-11T15:07:50.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "DC residents debate safety gains a year into Trump’s Guard deployment",
+          "snippet": "Mixed reactions persist in Washington, DC, a year after Trump deployed the National Guard to address crime concerns.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/11/dc-residents-debate-safety-gains-a-year-into-trumps-guard-deployment?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1138,27 +1047,6 @@
       ]
     },
     {
-      "headline": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
-      "slug": "WaronIranMojtabaKhamenei",
-      "time": "2026-08-11T14:30:23.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "War on Iran: Mojtaba Khamenei is in ‘perfect health’, Iran says",
-          "snippet": "President Masoud Pezeshkian says Supreme Leader Mojtaba Khamenei is in ‘perfect health’.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/war-on-iran-mojtaba-khamenei-is-in-perfect-health-iran-says?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "‘Only job I know’: Philippine sailors return to sea despite wartime risks",
       "slug": "OnlyjobIknowPhilippinesa",
       "time": "2026-08-11T14:06:09.000Z",
@@ -1180,9 +1068,9 @@
       ]
     },
     {
-      "headline": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
-      "slug": "UnderFireLebanonsfirstre",
-      "time": "2026-08-11T13:46:44.000Z",
+      "headline": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+      "slug": "WhatareSaudiArabiaTurkiy",
+      "time": "2026-08-11T13:47:50.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1191,73 +1079,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
-          "snippet": "First responders in Lebanon risk their lives to save others even as Israeli attacks intensify around them.",
+          "title": "What are Saudi Arabia, Turkiye and Pakistan’s joint military capabilities?",
+          "snippet": "The Mecca defence pact combines a top oil exporter, NATO&#039;s second-largest army and the only Muslim nuclear arsenal.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/8/11/aje-onl-or_lbn_paramedics-110826?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Liverpool fans seek clarity on Bezos bid to buy stake",
-      "slug": "Liverpoolfansseekclarity",
-      "time": "2026-08-11T13:36:26.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Liverpool fans seek clarity on Bezos bid to buy stake",
-          "snippet": "Jeff Bezos reportedly part of consortium interested in English Premier League club Liverpool, but fans ask for meeting.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/11/liverpool-fans-seek-clarity-on-bezos-bid-to-buy-stake?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
-      "slug": "HunterBidendefendsTucker",
-      "time": "2026-08-11T13:10:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
-          "snippet": "Hunter Biden defends Tucker Carlson over Netanyahu comments",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/hunter-biden-defends-tucker-carlson-over-netanyahu-comments?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
-      "slug": "SomalideniedWorldCupprou",
-      "time": "2026-08-11T13:09:21.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup",
-          "snippet": "Omar Artan was turned away on arrival at Miami International Airport before World Cup 2026 where he was to officiate.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/11/somali-referee-denied-world-cup-proud-to-oversee-uefa-super-cup?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/11/what-are-saudi-arabia-turkiye-and-pakistans-joint-military-capabilities?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
