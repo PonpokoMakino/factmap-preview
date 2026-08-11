@@ -1,373 +1,210 @@
 {
-  "builtAt": "2026-08-10T20:04:10.143Z",
+  "builtAt": "2026-08-11T07:50:34.948Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "111 dead after Colombia quakes leave trail of destruction",
-      "slug": "111deadafterColombiaquak",
-      "independentSources": 5,
+      "headline": "台風15号 交通機関への影響は（鉄道 高速道路 空の便）11日",
+      "slug": "台風15号交通機関への影響は鉄道高速道路空の便1",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "気象庁 地震・火山",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43201"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43215"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591262?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000878&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100066&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100064&g=flash&m=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810181549_0_VXSE53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810181450_0_VXSE52_010000.xml"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/111-dead-after-colombia-quakes-leave-trail-of-destruction?traffic_source=rss"
-        }
-      ],
-      "issue": "",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "コロンビア北西部でマグニチュード7.4の地震が発生した。",
-          "span": "M7.4の地震",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "アメリカの地質調査所（USGS）によると、地震は日本時間の10日午後9時半ごろ、現地時間の10日午前7時半ごろに発生した。",
-          "span": "日本時間の10日午後9時半ごろ、現地時間の10日午前7時半ごろ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "コロンビアの地震の震源の深さは107キロメートルであった。",
-          "span": "震源の深さは107キロ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "コロンビア大統領は、地震により111人が死亡し、87人が負傷したと発表した。",
-          "span": "111人死亡 87人けが",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "Al Jazeeraは、コロンビア西部を襲ったマグニチュード7.4の地震により、少なくとも111人が死亡したと報じた。",
-          "span": "111 dead",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ロイター通信によると、コロンビアの地震で少なくとも82人が死亡したと時事ドットコムが報じた。",
-          "span": "少なくとも８２人が死亡した",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "コロンビアの地震により、建物被害や負傷者が出た。",
-          "span": "建物被害、負傷者も",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "11日午前3時12分ごろ、熊本県上天草で震度3の揺れを観測する地震が発生した。",
-          "span": "震度3の揺れを観測する地震",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "熊本県で発生した地震による津波の心配はない。",
-          "span": "津波の心配なし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "コロンビアでマグニチュード7.4の地震が発生し、多数の死傷者が出ていること、および熊本で震度3の地震が発生し、津波の心配がないことについて、複数の情報源が報じている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[7].spanが文まるごとだったため、最小核「震度3の揺れを観測する地震」に修正しました。",
-          "facts[8].spanが文まるごとだったため、最小核「津波の心配なし」に修正しました。",
-          "出典が入力に無い→除去「USGS」"
-        ]
-      }
-    },
-    {
-      "headline": "台風15号 交通機関への影響は（鉄道 高速道路 空の便）",
-      "slug": "台風15号交通機関への影響は鉄道高速道路空の便",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43043"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43217"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43124"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43204"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591269?source=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810200012_0_VPCJ51_040000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810200012_0_VPZJ51_010000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810200012_0_VPCJ50_040000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260810200013_0_VPZJ50_010000.xml"
-        }
-      ],
-      "issue": "台風15号の接近に伴う影響と警戒事項は何か？",
-      "stasis": "評価・予測",
-      "facts": [
-        {
-          "t": "台風15号は9月11日に関東甲信にかなり接近する。",
-          "span": "関東甲信にかなり近づき",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風15号は9月11日夜にかけて上陸するおそれがある。",
-          "span": "夜にかけて上陸するおそれがあります",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "東日本と東北では雨や風が強まり荒れた天気となる見込み。",
-          "span": "雨や風が強まって荒れた天気になる見込み",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風15号により交通機関（鉄道、高速道路、空の便）に影響が出る可能性がある。",
-          "span": "交通機関への影響",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風15号が関東甲信に接近し、東日本と東北で荒れた天気となる見込みであり、気象庁は各地で土砂災害や浸水、暴風などへの厳重な警戒を呼びかけている。評価は割れない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[3].span が空文字だったため、元テキストから適切なspan「低い土地の浸水、河川の増水や氾濫に警戒してください」を抽出して修正しました。",
-          "position spanが原文に無い→除去「低い土地の浸水、河川の増水や氾anに…」"
-        ]
-      }
-    },
-    {
-      "headline": "琵琶湖で花火大会、中止を発表　火薬使用の申請なし―滋賀",
-      "slug": "琵琶湖で花火大会中止を発表火薬使用の申請なし滋賀",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591256?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6591316?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000280&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026081100246&g=soc&m=rss"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074640_0_VPWW54_060000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074640_0_VPWW53_060000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074626_0_VPWW56_060000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074406_0_VPFJ51_030000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074406_0_VPFJ50_030000.xml"
         }
       ],
-      "issue": "琵琶湖の花火大会はなぜ中止されたのか？",
+      "issue": "台風15号はいつ、どこに上陸するおそれがあるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "琵琶湖で開催予定だった花火大会が中止された。",
-          "span": "中止を発表",
+          "t": "台風15号は11日夜に関東に上陸するおそれがある。",
+          "span": "11日夜には上陸するおそれがあります",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風15号は茨城付近に上陸する見込み。",
+          "span": "台風１５号、茨城付近上陸へ",
+          "src": [
+            {
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "中止の理由は、火薬使用の申請がされていなかったためである。",
-          "span": "火薬使用の申請なし",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "花火大会の主催者が中止に関して回答した。",
-          "span": "主催者が回答",
+          "t": "台風は夜に関東上陸する見込み。",
+          "span": "台風は夜に関東上陸へ",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
+        },
+        {
+          "t": "東日本と東北では、12日にかけて総雨量が多くなる見込み。",
+          "span": "12日にかけて総雨量が多くなる見込み",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "山形県では強風に注意が必要。",
+          "span": "山形県では、強風に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "山形県置賜では土砂災害に注意が必要。",
+          "span": "置賜では、土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "岩手県沿岸北部と沿岸南部では、12日朝から夜遅くにかけて、大雨による土砂災害に厳重に警戒する必要がある。",
+          "span": "沿岸北部と沿岸南部では、１２日朝から夜遅くにかけて、大雨による土砂災害に厳重に警戒し",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "岩手県沿岸北部と沿岸南部では、12日朝から夜遅くにかけて、低い土地の浸水、河川の増水や氾濫に警戒する必要がある。",
+          "span": "低い土地の浸水、河川の増水や氾濫に警戒してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "岩手県沿岸では、11日夜遅くにかけて、うねりを伴った高波に警戒する必要がある。",
+          "span": "１１日夜遅くにかけて、うねりを伴った高波に警戒し",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "琵琶湖で開催予定だった花火大会は、火薬使用の申請がなかったため中止された。主催者はこの件について回答している。",
-      "note": "",
+      "consensus": "台風15号は11日夜に関東に上陸するおそれがあり、茨城付近が予想されている。東日本と東北では12日にかけて総雨量が多くなる見込み。山形県では強風や土砂災害、岩手県沿岸では大雨による土砂災害、低い土地の浸水、河川増水・氾濫、高波に警戒が必要である。",
+      "note": "プライバシー配慮のため、個別の交通機関への影響に関する詳細は省略した。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "プロ野球中日の嶋基宏コーチが人身事故　自転車と衝突し女性けが―警視庁",
-      "slug": "プロ野球中日の嶋基宏コチが人身事故自転車と衝突し",
-      "independentSources": 2,
+      "headline": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+      "slug": "YemensHouthislaunchballi",
+      "independentSources": 3,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591267?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081100066&g=int&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081000888&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026081000878&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/family-watches-helplessly-as-colombia-quake-destroys-home?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss"
         }
       ],
-      "issue": "プロ野球中日ドラゴンズの嶋基宏コーチによる人身事故の発生",
+      "issue": "コロンビアで発生した地震による被害状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "プロ野球中日ドラゴンズの嶋基宏コーチが人身事故を起こした。",
-          "span": "嶋基宏コーチが人身事故",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "事故は自転車との衝突だった。",
-          "span": "自転車と衝突し",
+          "t": "コロンビアでマグニチュード7.4の地震が発生した。",
+          "span": "Ｍ７．４",
           "src": [
             {
               "ty": "press",
@@ -376,13 +213,9 @@
           ]
         },
         {
-          "t": "衝突した相手の女性が軽傷を負った。",
-          "span": "相手軽傷",
+          "t": "この地震により、110人以上が死亡した。",
+          "span": "１１０人超死亡",
           "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -390,19 +223,318 @@
           ]
         },
         {
-          "t": "警視庁が事故について捜査している。",
-          "span": "警視庁",
+          "t": "建物が多数倒壊した。",
+          "span": "建物多数倒壊",
           "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "非常事態が宣言された。",
+          "span": "非常事態を宣言",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "建物に被害が出た。",
+          "span": "建物被害",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "負傷者も出た。",
+          "span": "負傷者も",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "コロンビアで数年ぶりの大規模な地震が発生した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この地震で少なくとも132人が死亡した。",
+          "span": "At least 132 killed",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "480人以上が負傷した。",
+          "span": "More than 480 people were injured",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "さらに多くの人が倒壊した建物の下敷きになっているとみられている。",
+          "span": "with more feared trapped under collapsed buildings",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ある家族は、マグニチュード7.4の地震が発生し、家が破壊される瞬間を記録した。",
+          "span": "A family documents the moment a magnitude 7.4 earthquake hits, and destroys their home",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "プロ野球中日ドラゴンズの嶋基宏コーチが自転車との人身事故を起こし、相手の女性が軽傷を負ったことが報じられている。",
-      "note": "本記事は事実報道であり、評価や意見の対立は含まれていません。",
+      "consensus": "コロンビアでマグニチュード7.4の地震が発生し、多数の死傷者と建物被害が出た。非常事態が宣言された。",
+      "note": "他の記事はコロンビアの地震とは無関係なため、構造化対象から除外しました。",
+      "audit": {
+        "changed": false,
+        "issues": [
+          "fact spanが原文に無い→除去「Colombia's largest…」"
+        ]
+      }
+    },
+    {
+      "headline": "イオン、従業員に再入館許可　爆発事故前、私物回収など理由に―熊本地震",
+      "slug": "イオン従業員に再入館許可爆発事故前私物回収など理",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43246"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43205"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43203"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081100278&g=soc&m=rss"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811074524_0_VXSE53_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811053223_0_VXSE53_270000.xml"
+        }
+      ],
+      "issue": "イオンモール熊本爆発事故において、避難後に一時入館が認められた事実は、災害対応として妥当か？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "イオンモール熊本で爆発事故が発生し、7人が死亡した。",
+          "span": "7人が死亡したイオンモール熊本での爆発について",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "イオンは、従業員への聞き取りの結果、いったん避難したあとに一時入館を認めた事実があったと発表した。",
+          "span": "いったん避難したあとに一時入館を認めた事実があったと発表しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "一時入館の理由として、車の鍵や携帯電話の回収、レジ締めなどの要望があった。",
+          "span": "車の鍵や携帯電話の回収のほかレジ締めなどの要望",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "イオンは、爆発事故前に従業員に私物回収などを理由に再入館を許可した。",
+          "span": "イオン、従業員に再入館許可　爆発事故前、私物回収など理由に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "熊本県で最大震度7の揺れを観測する地震が発生してから11日で2週間である。",
+          "span": "熊本県で最大震度7の揺れを観測する地震が発生してから11日で2週間です",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、地震の回数は徐々に減少しているものの、依然として活発な活動が続いているとしている。",
+          "span": "地震の回数は徐々に減少しているものの、依然として活発な活動が続いているとして",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、今後1か月ほどは最大震度5弱程度以上の地震に注意が必要だと発表した。",
+          "span": "今後1か月ほどは最大震度5弱程度以上の地",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "県内では6000人以上が避難生活を余儀なくされている。",
+          "span": "6000人以上が避難生活を余儀なくされていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "災害関連死の防止が課題となっており、より安全な場所に移る「2次避難」などを進めることが重要視されている。",
+          "span": "災害関連死の防止が課題に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "11日16時42分頃に地震があった。",
+          "span": "１１日１６時４２分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "11日14時28分頃に地震があった。",
+          "span": "１１日１４時２８分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イオンモール熊本で爆発事故が発生し、7人が死亡した。イオンは、従業員への聞き取りの結果、いったん避難したあとに一時入館を認めた事実があったと発表した。一時入館の理由として、車の鍵や携帯電話の回収、レジ締めなどの要望があった。熊本県で最大震度7の揺れを観測する地震が発生してから11日で2週間であり、気象庁は今後1か月ほどは最大震度5弱程度以上の地震に注意が必要だと発表した。県内では6000人以上が避難生活を余儀なくされており、災害関連死の防止が課題となっている。11日には地震が複数回観測された。",
+      "note": "イオンモール熊本の爆発事故と熊本地震に関する複数の報道を統合した。イオンの一時入館許可に関する評価は、記事中では明確に賛否が分かれていないため、中立的な stance とした。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "東京メトロ半蔵門線 運転見合わせ 駅構内でアスベスト見つかる",
+      "slug": "東京メトロ半蔵門線運転見合わせ駅構内でアスベスト",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43221"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591330?source=rss"
+        }
+      ],
+      "issue": "東京メトロ半蔵門線はいつ運転を再開するか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "東京メトロ半蔵門線でアスベストを含む素材が見つかった。",
+          "span": "アスベストを含む素材が見つかった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東京メトロ半蔵門線の一部区間で11日朝の始発から運転を見合わせている。",
+          "span": "一部の区間で11日朝の始発から運転を見合わせています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "半蔵門線の運転再開は「本日中」と報じられている。",
+          "span": "運転再開は「本日中」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "東京メトロ半蔵門線は半蔵門駅構内でアスベストを含む素材が見つかったため、11日朝の始発から一部区間で運転を見合わせており、運転再開は本日中と報じられている。",
+      "note": "",
       "audit": {
         "changed": false,
         "issues": []
