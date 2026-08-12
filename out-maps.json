@@ -1,15 +1,15 @@
 {
-  "builtAt": "2026-08-12T22:40:51.900Z",
+  "builtAt": "2026-08-12T23:24:09.462Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "熊本 地震活動が依然活発 きょうも厳しい暑さに 熱中症対策を",
-      "slug": "熊本地震活動が依然活発きょうも厳しい暑さに熱中症",
+      "headline": "手術中の激震、過酷な救命活動　八代市の熊本総合病院「できること最大限やった」―熊本地震",
+      "slug": "手術中の激震過酷な救命活動八代市の熊本総合病院で",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 地震・火山",
-        "気象庁 気象警報・注意報"
+        "時事ドットコム",
+        "気象庁 地震・火山"
       ],
       "links": [
         {
@@ -21,36 +21,20 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260812de43532"
         },
         {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200634&g=soc&m=rss"
+        },
+        {
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260812212557_0_VXSE53_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812212403_0_VXSE51_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812212303_0_VXSE51_010000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812222433_0_VPWW53_430000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812222433_0_VPWW54_430000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812222428_0_VPWW61_430000.xml"
         }
       ],
-      "issue": "熊本県における地震活動と気象状況に関して、住民にどのような注意喚起や対策が促されているか？",
-      "stasis": "政策",
+      "issue": "熊本地震の活動状況と影響、およびそのメカニズムは何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "熊本県は先月、最大震度7の地震により大きな被害を受けた。",
-          "span": "最大震度7の地震で大きな被害があった",
+          "t": "熊本県では地震活動が依然として活発である。",
+          "span": "地震活動が依然活発",
           "src": [
             {
               "ty": "press",
@@ -59,7 +43,7 @@
           ]
         },
         {
-          "t": "熊本県では13日も厳しい暑さが予想されている。",
+          "t": "熊本県では13日も厳しい暑さになる見込みである。",
           "span": "13日も厳しい暑さになる見込み",
           "src": [
             {
@@ -69,8 +53,8 @@
           ]
         },
         {
-          "t": "13日の明け方、震度3の揺れを観測する地震が発生した。",
-          "span": "震度3の揺れを観測する地震が起きる",
+          "t": "13日の明け方にも震度3の揺れを観測する地震が発生した。",
+          "span": "13日の明け方にも震度3の揺れを観測する地震が起きる",
           "src": [
             {
               "ty": "press",
@@ -79,38 +63,8 @@
           ]
         },
         {
-          "t": "13日06時21分ころ、地震が発生した。",
-          "span": "１３日０６時２１分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "13日06時21分ころの地震により、強い揺れが感じられた。",
-          "span": "地震による強い揺れを感じました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "13日06時21分ころの地震で震度3以上が観測された地域があった。",
-          "span": "震度３以上が観測された地域をお知らせします",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "政府の地震調査委員会は、先月熊本県で最大震度7の揺れを観測した大地震について評価をまとめた。",
-          "span": "評価をまとめました",
+          "t": "政府の地震調査委員会は、熊本地震に関する評価をまとめた。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -137,26 +91,34 @@
               "l": "NHK 主要ニュース"
             }
           ]
+        },
+        {
+          "t": "気象庁によると、13日06時21分ごろに地震が発生した。",
+          "span": "１３日０６時２１分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "熊本県では地震活動が活発であり、厳しい暑さや気象の変化が予想されるため、熱中症、落雷、火の取り扱いに対する注意喚起がなされている。",
+      "consensus": "熊本地震の活動は依然活発であり、専門家による断層の評価が示されている。復旧作業には熱中症対策が必要である。",
       "note": null,
       "audit": {
-        "changed": true,
+        "changed": false,
         "issues": [
-          "issueの表現を、テキストの内容（複数の注意喚起）に合わせて「熊本県における地震活動と気象状況に関して、住民にどのような注意喚起や対策が促されているか？」に修正しました。",
-          "positions[0]の熱中症対策の呼びかけが、facts[0]（地震被害）とfacts[1]（厳しい暑さ）に基づいているため、premisesに[0, 1]を追加しました。"
+          "fact spanが原文に無い→除去「評価をまとめた…」"
         ]
       }
     },
     {
-      "headline": "国旗損壊処罰法が施行　「著しく不快」で拘禁２年",
-      "slug": "国旗損壊処罰法が施行著しく不快で拘禁年",
-      "independentSources": 3,
+      "headline": "国旗損壊、難しい取り締まり　「やってもやらなくても批判」―通達ににじむ苦慮・警察当局",
+      "slug": "国旗損壊難しい取り締まりやってもやらなくても批判",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
@@ -165,38 +127,34 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260812de43520"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591512?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200596&g=pol&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200596&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026081200609&g=pol&m=rss"
         }
       ],
-      "issue": null,
+      "issue": "国旗損壊処罰法の取り締まりは適切に実施可能か？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "日本の国旗を損壊する行為を罰する「国旗損壊処罰法」が5月13日に施行された。",
-          "span": "施行されました",
+          "t": "日本の国旗を損壊する行為を罰する法律が13日に施行された。",
+          "span": "法律が、13日、施行されました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
             },
             {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "この法律は、著しく不快感や嫌悪感を催させる方法で国旗を公然と損壊する行為などに対し、罰則を科す。",
-          "span": "罰則が科されることになり",
+          "t": "著しく不快感や嫌悪感を催させる方法で国旗を公然と損壊する行為に罰則が科される。",
+          "span": "著しく不快感や嫌悪感を催させる方法で国旗を公然と損壊する行為などに対し罰則が科される",
           "src": [
             {
               "ty": "press",
@@ -205,18 +163,18 @@
           ]
         },
         {
-          "t": "「著しく不快」な行為に対しては、拘禁2年の罰則が適用される。",
-          "span": "「著しく不快」で拘禁２年",
+          "t": "罰則は最大で拘禁2年である。",
+          "span": "拘禁２年",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "法務省は、法律の趣旨や対象となる行為などについて言及している。",
-          "span": "法律の趣旨や対象となる行為など…",
+          "t": "法務省は法律の趣旨や対象となる行為について説明する方針である。",
+          "span": "法律の趣旨や対象となる行為など",
           "src": [
             {
               "ty": "press",
@@ -226,12 +184,12 @@
         }
       ],
       "positions": [],
-      "consensus": "国旗損壊処罰法が5月13日に施行されたという事実には合意があるが、その適切性に関する評価は記事中に見られない。",
-      "note": "",
+      "consensus": "国旗損壊処罰法は施行されたが、警察当局はその取り締まりに困難を伴うと見ている。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: 元テキストには国旗損壊処罰法の施行に関する評価や議論が含まれていないため、'issue'はnullに修正しました。テキストは事実の報道に終始しています。"
+          "span の最小核: facts[0].span が文全体だったため、述部の最小句「法律が、13日、施行されました」に修正しました。"
         ]
       }
     },
@@ -295,79 +253,53 @@
       }
     },
     {
-      "headline": "ICE plans to equip agents with gloves that can deliver electric shocks",
-      "slug": "ICEplanstoequipagentswit",
+      "headline": "米大統領報道官が退任へ　家族との時間を優先",
+      "slug": "米大統領報道官が退任へ家族との時間を優先",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591519?source=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081300189&g=int&m=rss"
         }
       ],
-      "issue": "米国移民税関執行局（ICE）の電気ショックグローブ導入計画は適切か？",
-      "stasis": "政策",
+      "issue": null,
+      "stasis": "事実",
       "facts": [
         {
-          "t": "米国移民税関執行局（ICE）は、職員に電気ショックを与えられるグローブを装備させる計画である。",
-          "span": "ICE plans to equip agents with gloves that can deliver electric shocks",
+          "t": "米大統領報道官が今月で辞任する予定である。",
+          "span": "米大統領報道官が今月で辞任",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "米国国土安全保障省は、これらのグローブに最大2000万ドルを費やす見込みである。",
-          "span": "spending $20m on gloves",
+          "t": "米大統領報道官は家族との時間を優先するため退任する。",
+          "span": "家族との時間を優先",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "これらのグローブは、対象者を強制することを目的としている。",
-          "span": "intended to compel subjects",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この計画は、大統領の移民取り締まりに対する批判の中で進められている。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "米国移民税関執行局（ICE）が電気ショックグローブの導入を計画し、最大2000万ドルを費やす見込みであるという事実は合意されている。この計画の適切性に関する評価は、提示された情報からは判断できない。",
+      "consensus": "米大統領報道官が今月で辞任し、その理由は家族との時間を優先するためである。",
+      "note": null,
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[3].spanが空だったので、元テキストの該当箇所 'amid criticism of the president's immigration crackdow' を設定しました。",
-          "fact spanが原文に無い→除去「amid criticism of …」"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
