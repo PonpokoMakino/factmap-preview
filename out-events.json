@@ -1,17 +1,18 @@
 {
-  "rankedAt": "2026-08-12T21:55:39.642Z",
+  "rankedAt": "2026-08-12T22:40:51.900Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "熊本 地震活動が依然活発 きょうも厳しい暑さに 熱中症対策を",
       "slug": "熊本地震活動が依然活発きょうも厳しい暑さに熱中症",
-      "time": "2026-08-12T21:53:31.000Z",
-      "independentSources": 2,
+      "time": "2026-08-12T22:24:32.000Z",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 地震・火山"
+        "気象庁 地震・火山",
+        "気象庁 気象警報・注意報"
       ],
-      "count": 6,
+      "count": 8,
       "hasPrimary": true,
       "members": [
         {
@@ -19,14 +20,6 @@
           "snippet": "先月、最大震度7の地震で大きな被害があった熊本県は、13日も厳しい暑さになる見込みで、復旧作業などを行う際は熱中症対策を心がけてください。また、13日の明け方にも震度3の揺れを観測する地震が起きるなど…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260812de43525",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "【地震速報】長崎県・熊本県・鹿児島県で震度3 津波の心配なし",
-          "snippet": "13日午前6時21分ごろ、長崎県と熊本県と鹿児島県で震度3の揺れを観測する地震がありました。\n\nこの地震による津波の心配はありません。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260813de43548",
           "ty": "press",
           "linkKind": "article"
         },
@@ -61,6 +54,69 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260812212303_0_VXSE51_010000.xml",
           "ty": "prim",
           "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【熊本県気象警報・注意報】熊本、阿蘇、球磨地方では、落雷に注意してください。熊本県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812222433_0_VPWW53_430000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【熊本県気象警報・注意報】熊本、阿蘇、球磨地方では、落雷に注意してください。熊本県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812222433_0_VPWW54_430000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【熊本県雷・乾燥注意報】熊本、阿蘇、球磨地方では、急な強い雨や落雷に注意してください。熊本県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812222428_0_VPWW61_430000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "国旗損壊処罰法が施行　「著しく不快」で拘禁２年",
+      "slug": "国旗損壊処罰法が施行著しく不快で拘禁年",
+      "time": "2026-08-12T21:43:29.000Z",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "国旗損壊処罰法 きょう施行",
+          "snippet": "日本の国旗を損壊する行為を罰する法律が、13日、施行されました。著しく不快感や嫌悪感を催させる方法で国旗を公然と損壊する行為などに対し罰則が科されることになり、法務省は「法律の趣旨や対象となる行為など…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43520",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "日本国旗損壊罪法 きょう施行",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591512?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "国旗損壊処罰法が施行　「著しく不快」で拘禁２年",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200596&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -103,60 +159,30 @@
       ]
     },
     {
-      "headline": "国旗損壊処罰法が施行　「著しく不快」で拘禁２年",
-      "slug": "国旗損壊処罰法が施行著しく不快で拘禁年",
-      "time": "2026-08-12T20:12:33.000Z",
+      "headline": "ICE plans to equip agents with gloves that can deliver electric shocks",
+      "slug": "ICEplanstoequipagentswit",
+      "time": "2026-08-12T22:22:57.000Z",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "国旗損壊処罰法 きょう施行",
-          "snippet": "日本の国旗を損壊する行為を罰する法律が、13日、施行されました。著しく不快感や嫌悪感を催させる方法で国旗を公然と損壊する行為などに対し罰則が科されることになり、法務省は「法律の趣旨や対象となる行為など…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43520",
+          "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
+          "snippet": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to ",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "国旗損壊処罰法が施行　「著しく不快」で拘禁２年",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200596&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ドイツ 情報機関の権限を大幅に強化する法案を閣議決定",
-      "slug": "ドイツ情報機関の権限を大幅に強化する法案を閣議決",
-      "time": "2026-08-12T21:37:58.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ドイツ 情報機関の権限を大幅に強化する法案を閣議決定",
-          "snippet": "ドイツ政府は、情報機関の権限を大幅に強化し、敵対勢力のITシステムに侵入することも可能にする法案を閣議決定しました。サイバー攻撃やスパイ活動など新たな脅威に対抗するためとしています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260813de43547",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "ドイツ、情報機関の能力強化へ　反撃容認で「大転換」",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200996&g=int&m=rss",
+          "title": "Trump administration plans to give ICE officers electric-shock gloves",
+          "snippet": "US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president&#039;s immigration crackdow",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -193,30 +219,95 @@
       ]
     },
     {
-      "headline": "ICE plans to equip agents with gloves that can deliver electric shocks",
-      "slug": "ICEplanstoequipagentswit",
-      "time": "2026-08-12T21:53:26.000Z",
-      "independentSources": 2,
+      "headline": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+      "slug": "HegsethcautionsthatICCma",
+      "time": "2026-08-12T21:53:17.000Z",
+      "independentSources": 1,
       "sources": [
-        "BBC World",
         "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US strikes in Yemen killed 153 civilians in 2025, says Pentagon review",
+          "snippet": "The unclassified Pentagon review sheds new light on civilian harm from the US campaign against Yemen’s Houthis.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/12/us-strikes-in-yemen-killed-153-civilians-in-2025-says-pentagon-review?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Hegseth cautions that ICC may investigate US boat strikes in Latin America",
+          "snippet": "US defence chief vows to continue campaign against drug cartels, says Colombia has joined regional military coalition.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/12/hegseth-cautions-that-icc-may-investigate-us-boat-strikes-in-latin-america?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Israeli air strike kills one in northern Gaza",
+          "snippet": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "IEA 石油供給量見通しを下方修正 ホルムズ海峡再開見通せず",
+      "slug": "IEA石油供給量見通しを下方修正ホルムズ海峡再開",
+      "time": "2026-08-12T22:19:04.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "ICE plans to equip agents with gloves that can deliver electric shocks",
-          "snippet": "The US immigration agency is spending $20m on gloves that deliver a sharp electric shock intended to compel subjects to ",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c20d292gdp4o?at_medium=RSS&at_campaign=rss",
+          "title": "IEA 石油供給量見通しを下方修正 ホルムズ海峡再開見通せず",
+          "snippet": "IEA=国際エネルギー機関は、ホルムズ海峡の通航再開の合意が実現していないなどとして、2026年の石油の供給量の見通しを、1日当たり1億200万バレルと、7月に比べて下方修正しました。「これまで供給不…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260813de43546",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Can Syria deliver transitional justice?",
-          "snippet": "A court has sentenced ousted former leader Bashar al-Assad and others to death in absentia.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/8/12/can-syria-deliver-transitional-justice?traffic_source=rss",
+          "title": "米 トランプ大統領 優位な立場を改めて主張も 先行きは不透明",
+          "snippet": "ホルムズ海峡をめぐり、アメリカのトランプ大統領は「われわれの海上封鎖は“鋼鉄の壁”と呼ばれ、イランは何もできない」として、改めて優位な立場にあると主張しました。一方、イランの革命防衛隊の幹部は「次のア…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43527",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
+      "slug": "性的意味合いないと日本に釈明豪政府メロン巡る首相",
+      "time": "2026-08-12T09:26:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "高市氏贈呈のメロンをやゆ？　オーストラリア首相の放談が物議",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081100513&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200889&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -225,7 +316,7 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-12T21:47:47.000Z",
+      "time": "2026-08-12T22:38:45.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -235,26 +326,26 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮城県気象警報・注意報】西部では、土砂災害に注意してください。宮城県では、落雷や濃霧による視程障害に注意してください。",
+          "snippet": "【三重県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。三重県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812214749_0_VPWW53_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812223846_0_VPWW53_240000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮城県気象警報・注意報】西部では、土砂災害に注意してください。宮城県では、落雷や濃霧による視程障害に注意してください。",
+          "snippet": "【三重県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。三重県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812214748_0_VPWW54_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812223846_0_VPWW54_240000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-08-12T21:30:39.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-12T22:24:31.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -263,85 +354,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象解説情報",
-          "snippet": "【千葉県気象解説情報（大雨・落雷・突風）】千葉県では、１３日夜遅くにかけて、低い土地の浸水、河川の増水に注意・警戒し、北東部と南部では、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【大分県気象警報・注意報】大分県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812213040_0_VPFJ51_120000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812222432_0_VPWW54_440000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象情報",
-          "snippet": "【千葉県気象解説情報（大雨・落雷・突風）】千葉県では、１３日夜遅くにかけて、低い土地の浸水、河川の増水に注意・警戒し、北東部と南部では、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【大分県気象警報・注意報】大分県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812213040_0_VPFJ50_120000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812222432_0_VPWW53_440000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-08-12T21:22:52.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "府県気象情報",
-          "snippet": "【茨城県気象解説情報（大雨・落雷・突風）】茨城県では、１３日夜遅くにかけて、低い土地の浸水や河川の増水に十分注意してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812212253_0_VPFJ50_080000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象解説情報",
-          "snippet": "【茨城県気象解説情報（大雨・落雷・突風）】茨城県では、１３日夜遅くにかけて、低い土地の浸水や河川の増水に十分注意してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812212253_0_VPFJ51_080000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "slug": "MembersofTrumpscabinetre",
-      "time": "2026-08-12T20:58:39.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-          "snippet": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-          "snippet": "A remarkably well-preserved motorcycle and identification tags were found alongside the bodies.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
     {
       "headline": "台風17号 北寄りに進む見込み 進路予報に幅 今後の情報に注意",
       "slug": "台風17号北寄りに進む見込み進路予報に幅今後の情",
-      "time": "2026-08-12T20:10:45.000Z",
+      "time": "2026-08-12T22:26:20.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -402,48 +435,6 @@
       ]
     },
     {
-      "headline": "日本国旗損壊罪法 きょう施行",
-      "slug": "日本国旗損壊罪法きょう施行",
-      "time": "2026-08-12T21:43:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "日本国旗損壊罪法 きょう施行",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591512?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「性的侮辱」問題 豪が日本に釈明",
-      "slug": "性的侮辱問題豪が日本に釈明",
-      "time": "2026-08-12T13:43:57.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「性的侮辱」問題 豪が日本に釈明",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591502?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "公園に身元不明の遺体 名古屋市",
       "slug": "公園に身元不明の遺体名古屋市",
       "time": "2026-08-12T21:21:54.000Z",
@@ -486,9 +477,9 @@
       ]
     },
     {
-      "headline": "新幹線乗り遅れ緊急停止 動画拡散",
-      "slug": "新幹線乗り遅れ緊急停止動画拡散",
-      "time": "2026-08-12T10:53:11.000Z",
+      "headline": "阿波おどり「性的」動画 不安の声",
+      "slug": "阿波おどり性的動画不安の声",
+      "time": "2026-08-12T21:54:02.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -497,19 +488,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "新幹線乗り遅れ緊急停止 動画拡散",
+          "title": "阿波おどり「性的」動画 不安の声",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591482?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591513?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "第3次森保J 名波コーチら続投へ",
-      "slug": "第3次森保J名波コチら続投へ",
-      "time": "2026-08-12T21:28:58.000Z",
+      "headline": "父死去のメッシ 優勝見せたかった",
+      "slug": "父死去のメッシ優勝見せたかった",
+      "time": "2026-08-12T22:24:50.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -518,10 +509,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "第3次森保J 名波コーチら続投へ",
+          "title": "父死去のメッシ 優勝見せたかった",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591510?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591516?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "出産の山本舞香 ドラマ続編を辞退",
+      "slug": "出産の山本舞香ドラマ続編を辞退",
+      "time": "2026-08-12T22:03:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "出産の山本舞香 ドラマ続編を辞退",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591514?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -570,9 +582,9 @@
       ]
     },
     {
-      "headline": "高市氏贈呈のメロンをやゆ？　オーストラリア首相の放談が物議",
-      "slug": "高市氏贈呈のメロンをやゆオストラリア首相の放談が",
-      "time": "2026-08-11T09:48:00.000Z",
+      "headline": "７月の米消費者物価、３．４％上昇　２カ月連続で減速",
+      "slug": "月の米消費者物価上昇カ月連続で減速",
+      "time": "2026-08-12T13:23:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -581,10 +593,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "高市氏贈呈のメロンをやゆ？　オーストラリア首相の放談が物議",
+          "title": "７月の米消費者物価、３．４％上昇　２カ月連続で減速",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100513&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081201024&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -612,9 +624,9 @@
       ]
     },
     {
-      "headline": "首相動静（８月１２日）",
-      "slug": "首相動静月日",
-      "time": "2026-08-12T13:03:00.000Z",
+      "headline": "中国系ＡＩマナス、米メタから独立　政府が買収認めず",
+      "slug": "中国系マナス米メタから独立政府が買収認めず",
+      "time": "2026-08-12T20:48:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -623,19 +635,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "首相動静（８月１２日）",
+          "title": "中国系ＡＩマナス、米メタから独立　政府が買収認めず",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200205&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081300160&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "ホルムズ、イラン強硬姿勢変わらず　米軍は封鎖維持、貨物船攻撃",
-      "slug": "ホルムズイラン強硬姿勢変わらず米軍は封鎖維持貨物",
-      "time": "2026-08-12T12:54:00.000Z",
+      "headline": "急進左派、注目のホン氏敗北　米６州で与野党予備選",
+      "slug": "急進左派注目のホン氏敗北米州で与野党予備選",
+      "time": "2026-08-12T09:54:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -644,19 +656,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ホルムズ、イラン強硬姿勢変わらず　米軍は封鎖維持、貨物船攻撃",
+          "title": "急進左派、注目のホン氏敗北　米６州で与野党予備選",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200186&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081200234&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
-      "slug": "性的意味合いないと日本に釈明豪政府メロン巡る首相",
-      "time": "2026-08-12T09:26:00.000Z",
+      "headline": "朱鎔基・元首相が死去　「鉄腕」で中国を経済大国に",
+      "slug": "朱鎔基元首相が死去鉄腕で中国を経済大国に",
+      "time": "2026-08-12T12:06:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -665,19 +677,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
+          "title": "朱鎔基・元首相が死去　「鉄腕」で中国を経済大国に",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200889&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081200920&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "７月の米消費者物価、３．４％上昇　２カ月連続で減速",
-      "slug": "月の米消費者物価上昇カ月連続で減速",
-      "time": "2026-08-12T13:23:00.000Z",
+      "headline": "畝本氏「何もしなかった」　検事総長退任で袴田さん弁護団",
+      "slug": "畝本氏何もしなかった検事総長退任で袴田さん弁護団",
+      "time": "2026-08-12T08:03:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -686,31 +698,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "７月の米消費者物価、３．４％上昇　２カ月連続で減速",
+          "title": "畝本氏「何もしなかった」　検事総長退任で袴田さん弁護団",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081201024&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "機長、事故後検査で大麻陽性　２４人負傷の旅客機急降下―インド",
-      "slug": "機長事故後検査で大麻陽性人負傷の旅客機急降下イン",
-      "time": "2026-08-12T06:57:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "機長、事故後検査で大麻陽性　２４人負傷の旅客機急降下―インド",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200729&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081200784&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -866,7 +857,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-12T21:47:37.000Z",
+      "time": "2026-08-12T22:38:41.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -876,9 +867,9 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【宮城県大雨警報・注意報】注意報を解除します。",
+          "snippet": "【三重県大雨警報・注意報】南部では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812214738_0_VPWW55_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812223842_0_VPWW55_240000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -887,7 +878,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（土砂）",
       "slug": "気象警報注意報土砂",
-      "time": "2026-08-12T21:47:37.000Z",
+      "time": "2026-08-12T22:38:41.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -897,18 +888,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【宮城県土砂災害警報・注意報】西部では、土砂災害に注意してください。",
+          "snippet": "【三重県土砂災害警報・注意報】南部では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812214738_0_VPWW56_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812223842_0_VPWW56_240000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-08-12T21:40:21.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-12T22:24:28.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -917,31 +908,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【大分県雷注意報】大分県では、急な強い雨や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812214022_0_VPTW60_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-12T21:21:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【三重県気象警報・注意報】南部では、土砂災害に注意してください。三重県では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812212107_0_VPWW54_240000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812222429_0_VPWW61_440000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -990,6 +960,27 @@
       ]
     },
     {
+      "headline": "Why are 'human fridges' being sold in Japan?",
+      "slug": "Whyarehumanfridgesbeings",
+      "time": "2026-08-12T22:07:47.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Why are 'human fridges' being sold in Japan?",
+          "snippet": "As Japan swelters through extreme summer heat, BBC Tokyo correspondent Kurumi Mori tries out a new way to cool down.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cjej4y3gvzlo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "LA Lakers to be sold in record $12.5bn deal",
       "slug": "LALakerstobesoldinrecord",
       "time": "2026-08-12T16:11:04.000Z",
@@ -1005,6 +996,27 @@
           "snippet": "The Los Angeles Lakers is to be sold for a reported record $12.5bn - less than a year after Mark Walter took a majority ",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "slug": "MembersofTrumpscabinetre",
+      "time": "2026-08-12T20:58:39.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+          "snippet": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1095,27 +1107,6 @@
       ]
     },
     {
-      "headline": "Israeli air strike kills one in northern Gaza",
-      "slug": "Israeliairstrikekillsone",
-      "time": "2026-08-12T20:58:42.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Israeli air strike kills one in northern Gaza",
-          "snippet": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Deadly India landslide kills at least seven in Mumbai",
       "slug": "DeadlyIndialandslidekill",
       "time": "2026-08-12T20:58:24.000Z",
@@ -1131,48 +1122,6 @@
           "snippet": "Heavy rains triggered a landslide on Wednesday that killed at least seven people in India’s western Maharashtra state.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/deadly-india-landslide-kills-at-least-seven-in-mumbai?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-      "slug": "Israelvowstokeeptroopsin",
-      "time": "2026-08-12T20:26:07.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-          "snippet": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Photos: Solar eclipse plunges parts of Europe into darkness",
-      "slug": "PhotosSolareclipseplunge",
-      "time": "2026-08-12T20:16:10.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Photos: Solar eclipse plunges parts of Europe into darkness",
-          "snippet": "A total solar eclipse crossed Iceland, Britain and parts of the European continent, drawing crowds to watch the event.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/gallery/2026/8/12/photos-solar-eclipse-plunges-parts-of-europe-into-darkness?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
