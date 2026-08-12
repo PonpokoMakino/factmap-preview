@@ -1,68 +1,61 @@
 {
-  "builtAt": "2026-08-12T13:59:43.974Z",
+  "builtAt": "2026-08-12T20:06:29.388Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "米消費者物価上昇率3.4％ 伸び率縮小で早期利上げ観測が後退か",
-      "slug": "米消費者物価上昇率34伸び率縮小で早期利上げ観測",
-      "independentSources": 3,
+      "headline": "熱中症搬送者数 8月9日までの1週間で7600人余 熊本も200人近く",
+      "slug": "熱中症搬送者数8月9日までの1週間で7600人余",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "気象庁 地震・火山"
       ],
       "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260813de43544"
+        },
         {
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260812de43444"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43486"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43538"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43517"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591493?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43486"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812135559_0_VXSE53_270000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812193008_0_VXSE53_270000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812120638_0_VXSE53_270000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812191001_0_VXSE53_270000.xml"
         }
       ],
-      "issue": "熊本県での地震による断水は、断層沿いの水道管被害が要因で復旧が長期化しているか？",
-      "stasis": "因果の解釈（割れる）",
+      "issue": "熊本県における地震とその影響",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "熊本県で震度7の揺れを観測した地震が発生した。",
-          "span": "震度7の揺れを観測した自治体",
+          "t": "13日午前4時6分ごろ、熊本県で震度3の地震が発生した。",
+          "span": "震度3の揺れを観測する地震がありました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "地震発生は12日21時03分頃と22時53分頃。",
-          "span": "１２日２１時０３分ころ、地震がありました。",
-          "src": [
+            },
             {
-              "ty": "press",
+              "ty": "prim",
               "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "熊本県では3万戸以上で断水が続いている。",
-          "span": "3万戸以上で断水が続いている熊本県では",
+          "t": "この地震による津波の心配はない。",
+          "span": "津波の心配はありません",
           "src": [
             {
               "ty": "press",
@@ -71,7 +64,67 @@
           ]
         },
         {
-          "t": "断層がずれ動いた影響で、近くにあった主要な水道管に被害が出ている。",
+          "t": "先月（7月）、熊本県で最大震度7の地震が発生した。",
+          "span": "最大震度7を観測する地震が発生した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "震度7を観測した自治体のデイサービス施設では、断水などの影響で利用者の受け入れを再開できていない所が複数ある。",
+          "span": "利用者の受け入れを再開できていない所が複数ある",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "再開できた多くのデイサービス施設でも、入浴やリハビリなどの活動が制限されている。",
+          "span": "入浴やリハビリなどの活動を従",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "8月9日までの1週間に全国で7600人余りが熱中症で搬送された。",
+          "span": "熱中症で搬送された人は全国で7600人余りだった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本県でも200人近くが熱中症で搬送された。",
+          "span": "熊本県でも200人近くが搬送されていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "熊本県では3万戸以上で断水が続いている。",
+          "span": "3万戸以上で断水が続いている",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "断層のずれ動きにより、近くにあった主要な水道管に被害が出ている。",
           "span": "断層がずれ動いた影響で近くにあった主要な水道管に被害が出ていて",
           "src": [
             {
@@ -81,8 +134,8 @@
           ]
         },
         {
-          "t": "断水の影響で、デイサービス施設で利用者の受け入れを再開できていない所が複数ある。",
-          "span": "断水などの影響で利用者の受け入れを再開できていない所が複数ある",
+          "t": "上記の水道管被害が断水復旧の長期化要因となっている。",
+          "span": "復旧に時間がかかる要因になっている",
           "src": [
             {
               "ty": "press",
@@ -91,18 +144,187 @@
           ]
         },
         {
-          "t": "再開できた多くのデイサービス施設でも、入浴やリハビリなどの活動に一部制限が出ている。",
-          "span": "再開できた多くの施設でも入浴やリハビリなどの活動を従…",
+          "t": "13日04時27分ころ、地震があった。",
+          "span": "地震がありました",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "熊本県で複数の地震が発生し、その影響として断水やデイサービス施設の運営制限、熱中症搬送者数の増加などが報告されている。",
+      "audit": {
+        "changed": false,
+        "issues": [
+          "出典が入力に無い→除去「総務省消防庁」"
+        ]
+      }
+    },
+    {
+      "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "slug": "MembersofTrumpscabinetre",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/thousands-flee-drought-in-somalia-amid-sharp-aid-decline?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss"
+        }
+      ],
+      "issue": "ピート・フックストラ米国大使はカナダから追放されるべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "オンライン請願が米国大使ピート・フックストラをカナダの内政への外交干渉で非難している。",
+          "span": "accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "地震による観光業の被害は約60億円と報じられている。",
-          "span": "地震で観光業約60億円被害",
+          "t": "トランプ大統領はNATO首脳会議中にトルコで別の飛行機に搭乗した。",
+          "span": "Trump boarded a different plane",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この措置はイランに関連する安全保障上の理由によるものだった。",
+          "span": "for security reasons involving Iran",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "大統領の閣僚は囮の飛行機に残った。",
+          "span": "Members of Trump's cabinet remained on decoy plane",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ドナウ川の低水位により、第二次世界大戦の兵士の遺体とオートバイが発見された。",
+          "span": "low water levels reveal remains of WWII soldiers and motorcycle",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "遺体とともに、保存状態の良いオートバイと認識票が見つかった。",
+          "span": "A remarkably well-preserved motorcycle and identification tags were found",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ソマリアでは長年の干ばつにより、数千の飢餓に苦しむ家族が家畜と農場を失った。",
+          "span": "Thousands of hunger-stricken families have lost their livestock and farms due to a yearslong drought",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "援助が大幅に減少する中、数千人が干ばつから逃れている。",
+          "span": "Thousands flee drought in Somalia amid sharp aid decline",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "セルビアのプラホボ近郊のドナウ川で記録的な低水位により、数十隻のナチス時代の船の残骸が露出した。",
+          "span": "Record-low water levels on the Danube near Prahovo, Serbia, have exposed the wrecks of dozens of Nazi-era vessels",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米国大使の追放を求めるオンライン請願が存在する一方、ドナウ川の低水位やソマリアの干ばつに関する複数の事実が報じられている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」を追加しました。",
+          "facts[8].span: 元テキストに存在する最小核のspanを補完しました。",
+          "positions[0].premises: 根拠となる事実(facts[0])への参照を追加しました。",
+          "consensus: テキストに存在しない「評価は割れる」という記述を削除し、事実に基づいた記述に修正しました。",
+          "fact spanが原文に無い→除去「Record-low water l…」"
+        ]
+      }
+    },
+    {
+      "headline": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
+      "slug": "性的意味合いないと日本に釈明豪政府メロン巡る首相",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591502?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200889&g=int&m=rss"
+        }
+      ],
+      "issue": "オーストラリア政府は、メロン巡る首相の発言について日本政府にどのように釈明したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "オーストラリア政府は、性的侮辱と受け取られかねない首相の発言について、日本政府に釈明した。",
+          "span": "「性的侮辱」問題 豪が日本に釈明",
           "src": [
             {
               "ty": "press",
@@ -111,46 +333,24 @@
           ]
         },
         {
-          "t": "アメリカの先月の消費者物価上昇率は、前の年の同じ月と比べて3.4％だった。",
-          "span": "先月は去年の同じ月と比べて3.4％の上昇となりました。",
+          "t": "オーストラリア政府は、メロンに関する首相の発言に性的意味合いはないと日本政府に説明した。",
+          "span": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アメリカの先月の消費者物価上昇率は、前の月と比べて0.1ポイント縮小した。",
-          "span": "前の月と比べて0.1ポイント縮小しま…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "熊本県では地震の影響で断水が続き、デイサービス施設の一部で利用者の受け入れ再開ができていない、または活動に制限が出ている。観光業にも約60億円の被害が出ている。アメリカの消費者物価上昇率は3.4%で、前の月から伸び率が縮小した。",
-      "note": "プライバシー配慮のため、個別の被災者や施設の詳細な情報は含めていない。",
+      "consensus": "オーストラリア政府は、メロン巡る首相の発言について、性的意味合いはないと日本政府に釈明した。",
+      "note": "本件は事実の記述に留まり、複数の立場や評価の対立は報じられていないため、positions は空となります。stasis は「事実」と判断しました。issue は、報道されている事実関係を問う形に設定しました。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[0].span: 元テキストの「自治体の」を削除し、より正確な「自治体」に修正。",
-          "facts[1].span: 元テキストの「地震がありました。」を削除し、より正確な「地震がありました。」に修正。",
-          "facts[2].span: 元テキストの「地震がありました。」を削除し、より正確な「地震がありました。」に修正。",
-          "facts[3].span: 元テキストの「被害が出ていて」を削除し、より正確な「被害が出ていて」に修正。",
-          "facts[4].span: 元テキストの「複数ある」を削除し、より正確な「複数ある」に修正。",
-          "facts[5].span: 元テキストの「活動を従…」を削除し、より正確な「活動を従…」に修正。",
-          "facts[6].span: 元テキストの「被害」を削除し、より正確な「被害」に修正。",
-          "facts[7].span: 元テキストの「上昇となりました。」を削除し、より正確な「上昇となりました。」に修正。",
-          "facts[8].span: 元テキストの「縮小しま…」を削除し、より正確な「縮小しま…」に修正。",
-          "positions[0].claim: 「〜とわかった」を「〜となっていることがわかった」に修正し、メタ記述を強化。",
-          "positions[0].span: 元テキストの「わかりました。」を削除し、より正確な「わかりました。」に修正。",
-          "positions[1].claim: 「〜か。」を「〜可能性がある。」に修正し、メタ記述を強化。",
-          "positions[1].span: 元テキストの「か。」を削除し、より正確な「か。」に修正。",
-          "consensus: 「評価は割れる。」を削除し、事実合意のみを記載。"
+          "issueを「オーストラリア政府は、メロン巡る首相の発言について日本政府にどのように釈明したか？」に修正しました。元のissueは「性的侮辱」という評価語を含んでおり、事実関係を問う形になっていなかったためです。",
+          "consensusを「オーストラリア政府は、メロン巡る首相の発言について、性的意味合いはないと日本政府に釈明した。」に修正しました。元のconsensusは「評価は割れる。」という記述を含んでいましたが、元テキストからは評価が割れている事実は読み取れなかったためです。"
         ]
       }
     },
@@ -222,173 +422,6 @@
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "熱帯低気圧 広い範囲で大気不安定 関東では危険警報も",
-      "slug": "熱帯低気圧広い範囲で大気不安定関東では危険警報も",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43217"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43369"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812135808_0_VPWW53_370000.xml"
-        }
-      ],
-      "issue": "熱帯低気圧や台風による大気不安定や高潮への警戒は必要か？",
-      "stasis": "policy",
-      "facts": [
-        {
-          "t": "台風15号は熱帯低気圧に変わった。",
-          "span": "台風15号は、熱帯低気圧に変わりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "湿った空気の影響で関東では雨が強まっている。",
-          "span": "湿った空気の影響で関東では雨が強まり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関東の一部地域ではレベル4危険警報が出されている。",
-          "span": "レベル4危険警報が出されている地域があります",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "東北から西日本では13日にかけて激しい雨が降るおそれがある。",
-          "span": "東北から西日本では13日にかけて激しい雨が降るおそれがあり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は土砂災害に注意を呼びかけている。",
-          "span": "気象庁は土砂災",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "12日午前、小笠原近海で台風17号が発生した。",
-          "span": "12日午前、小笠原近海で台風17号が発生しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風17号は今後北寄りに進む見込みである。",
-          "span": "台風は今後北寄りに進む見込みで",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "香川県では高潮に厳重に警戒する必要がある。",
-          "span": "香川県では、高潮に厳重に警戒してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "熱帯低気圧や台風の影響で、広い範囲で大気が不安定になり、激しい雨や高潮のおそれがあるため、注意・警戒が必要です。気象庁は今後の情報に注意するよう呼びかけています。",
-      "note": "複数の気象情報源からの情報を統合しました。個別の危険警報や警戒情報は事実として記載しました。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
-      "slug": "性的意味合いないと日本に釈明豪政府メロン巡る首相",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591502?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200889&g=int&m=rss"
-        }
-      ],
-      "issue": "オーストラリア政府は、メロン巡る首相の発言について日本政府にどのように釈明したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "オーストラリア政府は、性的侮辱と受け取られかねない首相の発言について、日本政府に釈明した。",
-          "span": "「性的侮辱」問題 豪が日本に釈明",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "オーストラリア政府は、メロンに関する首相の発言に性的意味合いはないと日本政府に説明した。",
-          "span": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "オーストラリア政府は、メロン巡る首相の発言について、性的意味合いはないと日本政府に釈明した。",
-      "note": "本件は事実の記述に留まり、複数の立場や評価の対立は報じられていないため、positions は空となります。stasis は「事実」と判断しました。issue は、報道されている事実関係を問う形に設定しました。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issueを「オーストラリア政府は、メロン巡る首相の発言について日本政府にどのように釈明したか？」に修正しました。元のissueは「性的侮辱」という評価語を含んでおり、事実関係を問う形になっていなかったためです。",
-          "consensusを「オーストラリア政府は、メロン巡る首相の発言について、性的意味合いはないと日本政府に釈明した。」に修正しました。元のconsensusは「評価は割れる。」という記述を含んでいましたが、元テキストからは評価が割れている事実は読み取れなかったためです。"
-        ]
       }
     }
   ]
