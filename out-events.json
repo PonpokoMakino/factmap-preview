@@ -1,17 +1,17 @@
 {
-  "rankedAt": "2026-08-12T05:48:23.124Z",
+  "rankedAt": "2026-08-12T07:00:01.302Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風15号は熱帯低気圧に 東北から西日本は激しい雨のおそれ",
       "slug": "台風15号は熱帯低気圧に東北から西日本は激しい雨",
-      "time": "2026-08-12T05:43:34.000Z",
+      "time": "2026-08-12T06:58:41.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 10,
+      "count": 9,
       "hasPrimary": true,
       "members": [
         {
@@ -23,112 +23,66 @@
           "linkKind": "article"
         },
         {
-          "title": "台風17号が発生 “今後の情報に注意を” 気象庁",
-          "snippet": "12日午前、小笠原近海で台風17号が発生しました。\n\n台風は今後北寄りに進む見込みで、気象庁は今後の情報に注意するよう呼びかけています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43369",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【埼玉県大雨警報・注意報】南部、北部では、低い土地の浸水や河川の増水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065841_0_VPWW55_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【富山県気象警報・注意報】富山県では、土砂災害や高波、落雷に注意してください。東部では、低い土地の浸水に注意してください。",
+          "snippet": "【富山県気象警報・注意報】〈危険警報（大雨、土砂災害）〉西部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812054335_0_VPWW53_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065832_0_VPWW53_160000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【富山県気象警報・注意報】富山県では、土砂災害や高波、落雷に注意してください。東部では、低い土地の浸水に注意してください。",
+          "snippet": "【富山県気象警報・注意報】〈危険警報（大雨、土砂災害）〉西部では、土砂災害や低い土地の浸水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812054335_0_VPWW54_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065832_0_VPWW54_160000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【富山県大雨警報・注意報】東部では、低い土地の浸水や河川の増水に注意してください。",
+          "snippet": "【富山県大雨警報・注意報】西部では、低い土地の浸水や河川の増水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812054325_0_VPWW55_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065823_0_VPWW55_160000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【沖縄本島地方気象警報・注意報】本島北部では、土砂災害に注意してください。本島中南部では、低い土地の浸水に注意してください。沖縄本島地方では、竜巻などの激しい突風や落雷に注意してください。",
+          "title": "地方気象解説情報",
+          "snippet": "【東北地方気象解説情報（大雨・落雷・突風）】東北地方では、１３日夜遅くにかけて、大雨による土砂災害や低い土地の浸水、河川の増水に十分注意してください。また、東北地方では、竜巻などの激しい突風や落雷、降ひょうに注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812053323_0_VPWW54_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065805_0_VPCJ51_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "地方気象情報",
+          "snippet": "【東北地方気象解説情報（大雨・落雷・突風）】東北地方では、１３日夜遅くにかけて、大雨による土砂災害や低い土地の浸水、河川の増水に十分注意してください。また、東北地方では、竜巻などの激しい突風や落雷、降ひょうに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065805_0_VPCJ50_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【沖縄本島地方気象警報・注意報】本島北部では、土砂災害に注意してください。本島中南部では、低い土地の浸水に注意してください。沖縄本島地方では、竜巻などの激しい突風や落雷に注意してください。",
+          "snippet": "【東京都気象警報・注意報】東京地方では土砂災害や低い土地の浸水に、伊豆諸島北部、小笠原諸島では高波に、東京地方、伊豆諸島北部、伊豆諸島南部では竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812053323_0_VPWW53_471000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。群馬県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812053306_0_VPWW53_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065511_0_VPWW53_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。群馬県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "snippet": "【東京都気象警報・注意報】東京地方では土砂災害や低い土地の浸水に、伊豆諸島北部、小笠原諸島では高波に、東京地方、伊豆諸島北部、伊豆諸島南部では竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812053306_0_VPWW54_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【群馬県大雨警報・注意報】南部では、低い土地の浸水や河川の増水に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812053304_0_VPWW55_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "【地震情報】熊本 長崎で震度4 津波の心配なし",
-      "slug": "地震情報熊本長崎で震度4津波の心配なし",
-      "time": "2026-08-12T04:31:09.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 地震・火山"
-      ],
-      "count": 3,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "【地震情報】熊本 長崎で震度4 津波の心配なし",
-          "snippet": "12日午後1時5分ごろ、熊本県と長崎県で震度4の揺れを観測する地震がありました。\n\nこの地震による津波の心配はありません。\n\nこの地震で震度4の揺れを観測したのは、長崎県の諫早市、雲仙市、熊本県の八代…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43409",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１２日１３時０５分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812041255_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１２日１３時０５分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812040953_0_VXSE53_270000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065510_0_VPWW54_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -165,8 +119,68 @@
       ]
     },
     {
-      "headline": "Trump says he switched planes after Nato summit because of possible threat",
-      "slug": "Trumpsaysheswitchedplane",
+      "headline": "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
+      "slug": "奥田碩氏が死去93歳トヨタ自動車社長や経団連会長",
+      "time": "2026-08-12T04:04:39.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
+          "snippet": "トヨタ自動車の社長や経団連の初代会長などを務めた奥田碩氏が、8月8日に亡くなりました。93歳でした。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43330",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "奥田碩さん死去、９３歳　トヨタ社長や経団連会長を歴任",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200185&g=obt&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
+      "slug": "Atleast15deaddozensmissi",
+      "time": "2026-08-12T06:29:37.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Boat sinks in Zimbabwe's Lake Kariba with 95 people on board",
+          "snippet": "The vessel is said to have overturned after being hit by strong waves.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "At least 15 dead, dozens missing as ferry capsizes in Zimbabwe",
+          "snippet": "Zimbabwe’s Civil Protection Unit says the ferry was carrying more than its capacity of 90 people when it capsized.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/12/at-least-15-dead-dozens-missing-as-ferry-capsizes-in-zimbabwe?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Trump confirms he switched planes after Nato summit because of possible threat",
+      "slug": "Trumpconfirmsheswitchedp",
       "time": "2026-08-12T04:15:51.000Z",
       "independentSources": 2,
       "sources": [
@@ -177,8 +191,8 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Trump says he switched planes after Nato summit because of possible threat",
-          "snippet": "But the president says the jet he boarded instead was at \"greater risk\" than the decoy Air Force One.",
+          "title": "Trump confirms he switched planes after Nato summit because of possible threat",
+          "snippet": "Journalists and White House staff who were on board the jet were unaware the president had left.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
@@ -195,38 +209,67 @@
       ]
     },
     {
-      "headline": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-      "slug": "SixkilledinHouthiattacko",
-      "time": "2026-08-12T03:41:42.000Z",
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-12T06:43:54.000Z",
       "independentSources": 1,
       "sources": [
-        "Al Jazeera"
+        "気象庁 地震・火山"
       ],
       "count": 2,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
-          "snippet": "Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１２日１５時４１分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812064354_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
-          "title": "Six killed in Houthi attack on Bab al-Mandeb ship, Yemen’s government says",
-          "snippet": "Deaths on Egyptian-owned Tihamah mark first shipping deaths linked to Houthis since the US-Israel war on Iran began.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/12/six-killed-in-houthi-attack-on-bab-al-mandeb-ship-yemens-government-says?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１２日１３時０５分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812041255_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-12T06:58:46.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【埼玉県気象警報・注意報】〈危険警報（土砂災害）〉秩父地方では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065848_0_VPWW53_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【埼玉県気象警報・注意報】〈危険警報（土砂災害）〉秩父地方では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812065848_0_VPWW54_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
       "headline": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3652人避難",
       "slug": "熊本地震災害関連死の疑い含め39人死亡避難所に3",
-      "time": "2026-08-12T03:10:00.000Z",
+      "time": "2026-08-12T06:33:55.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -245,9 +288,9 @@
       ]
     },
     {
-      "headline": "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
-      "slug": "奥田碩氏が死去93歳トヨタ自動車社長や経団連会長",
-      "time": "2026-08-12T04:04:39.000Z",
+      "headline": "検察トップ 畝本検事総長が退任会見 相次ぐ不祥事を陳謝",
+      "slug": "検察トップ畝本検事総長が退任会見相次ぐ不祥事を陳",
+      "time": "2026-08-12T06:50:40.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -256,10 +299,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
-          "snippet": "トヨタ自動車の社長や経団連の初代会長などを務めた奥田碩氏が、8月8日に亡くなりました。93歳でした。",
+          "title": "検察トップ 畝本検事総長が退任会見 相次ぐ不祥事を陳謝",
+          "snippet": "検察トップの畝本直美検事総長が退任の記者会見を開き、「在任期間中、国民の検察に対する信頼を揺るがすようないくつかの不祥事が発覚し、誠に遺憾で申し訳ない」と述べました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43330",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43430",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "坂口力元厚労相が老衰で死去 92歳 公明党元衆議院議員",
+      "slug": "坂口力元厚労相が老衰で死去92歳公明党元衆議院議",
+      "time": "2026-08-12T06:56:38.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "坂口力元厚労相が老衰で死去 92歳 公明党元衆議院議員",
+          "snippet": "公明党の元衆議院議員で厚生労働大臣を務めた坂口力氏が、今月7日、老衰のため亡くなりました。92歳でした。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43439",
           "ty": "press",
           "linkKind": "article"
         }
@@ -268,7 +332,7 @@
     {
       "headline": "日航機墜落事故から41年 遺族や関係者が雨のなか慰霊登山",
       "slug": "日航機墜落事故から41年遺族や関係者が雨のなか慰",
-      "time": "2026-08-12T03:01:00.000Z",
+      "time": "2026-08-12T06:59:17.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -329,9 +393,9 @@
       ]
     },
     {
-      "headline": "元厚労相・坂口力氏が死去 92歳",
-      "slug": "元厚労相坂口力氏が死去92歳",
-      "time": "2026-08-12T04:57:56.000Z",
+      "headline": "江別暴行死 当時18歳の被告が控訴",
+      "slug": "江別暴行死当時18歳の被告が控訴",
+      "time": "2026-08-12T06:16:41.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -340,31 +404,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "元厚労相・坂口力氏が死去 92歳",
+          "title": "江別暴行死 当時18歳の被告が控訴",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591437?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Geminiアプリ ユーザー月10億超",
-      "slug": "Geminiアプリユザ月10億超",
-      "time": "2026-08-12T03:04:25.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Geminiアプリ ユーザー月10億超",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591407?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591443?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -455,6 +498,27 @@
       ]
     },
     {
+      "headline": "漫画家の梅津葉子さん死去",
+      "slug": "漫画家の梅津葉子さん死去",
+      "time": "2026-08-12T05:02:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "漫画家の梅津葉子さん死去",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591438?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "ゼレンスキー氏、侵攻終結へ「米に提案」　和平協議活発化か",
       "slug": "ゼレンスキ氏侵攻終結へ米に提案和平協議活発化か",
       "time": "2026-08-11T20:53:00.000Z",
@@ -470,90 +534,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081200131&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "靴下にトカゲ、密輸未遂容疑　メキシコ国籍の男逮捕―警視庁",
-      "slug": "靴下にトカゲ密輸未遂容疑メキシコ国籍の男逮捕警視",
-      "time": "2026-08-12T03:45:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "靴下にトカゲ、密輸未遂容疑　メキシコ国籍の男逮捕―警視庁",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200511&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "女性合格者４６．９％　国家公務員一般職―人事院",
-      "slug": "女性合格者国家公務員一般職人事院",
-      "time": "2026-08-12T00:02:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "女性合格者４６．９％　国家公務員一般職―人事院",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200241&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "急進左派ホン氏の勝敗焦点　激戦州で知事予備選―米",
-      "slug": "急進左派ホン氏の勝敗焦点激戦州で知事予備選米",
-      "time": "2026-08-12T02:25:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "急進左派ホン氏の勝敗焦点　激戦州で知事予備選―米",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200234&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "イオンは、イオンモール熊本の爆発事故の遺族に補償を行う意向を明らかにした",
-      "slug": "イオンはイオンモル熊本の爆発事故の遺族に補償を行",
-      "time": "2026-08-12T03:25:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "イオンは、イオンモール熊本の爆発事故の遺族に補償を行う意向を明らかにした",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200498&g=flash&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -581,9 +561,9 @@
       ]
     },
     {
-      "headline": "高市氏贈呈のメロンをやゆ？　オーストラリア首相の放談が物議",
-      "slug": "高市氏贈呈のメロンをやゆオストラリア首相の放談が",
-      "time": "2026-08-11T09:48:00.000Z",
+      "headline": "女性合格者４６．９％　国家公務員一般職―人事院",
+      "slug": "女性合格者国家公務員一般職人事院",
+      "time": "2026-08-12T00:02:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -592,10 +572,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "高市氏贈呈のメロンをやゆ？　オーストラリア首相の放談が物議",
+          "title": "女性合格者４６．９％　国家公務員一般職―人事院",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100513&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081200241&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "靴下にトカゲ、密輸未遂容疑　メキシコ国籍の男逮捕―警視庁",
+      "slug": "靴下にトカゲ密輸未遂容疑メキシコ国籍の男逮捕警視",
+      "time": "2026-08-12T03:45:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "靴下にトカゲ、密輸未遂容疑　メキシコ国籍の男逮捕―警視庁",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200511&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -623,9 +624,9 @@
       ]
     },
     {
-      "headline": "拓大紅陵、夏３４年ぶり勝利　全国高校野球第８日",
-      "slug": "拓大紅陵夏年ぶり勝利全国高校野球第日",
-      "time": "2026-08-12T01:33:00.000Z",
+      "headline": "元衆院議員が出馬へ　愛媛知事選",
+      "slug": "元衆院議員が出馬へ愛媛知事選",
+      "time": "2026-08-10T09:26:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -634,10 +635,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "拓大紅陵、夏３４年ぶり勝利　全国高校野球第８日",
+          "title": "元衆院議員が出馬へ　愛媛知事選",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200211&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081000737&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "大谷は無安打　鈴木２０号、菅野１２勝目―米大リーグ",
+      "slug": "大谷は無安打鈴木号菅野勝目米大リグ",
+      "time": "2026-08-12T06:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "大谷は無安打　鈴木２０号、菅野１２勝目―米大リーグ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200225&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "高市氏贈呈のメロンをやゆ？　オーストラリア首相の放談が物議",
+      "slug": "高市氏贈呈のメロンをやゆオストラリア首相の放談が",
+      "time": "2026-08-11T09:48:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "高市氏贈呈のメロンをやゆ？　オーストラリア首相の放談が物議",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081100513&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -812,48 +855,6 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-12T05:43:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【富山県土砂災害警報・注意報】富山県では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812054325_0_VPWW56_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-12T05:33:09.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【沖縄本島地方土砂災害警報・注意報】本島北部では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812053310_0_VPWW56_471000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
       "slug": "Rescuersscrambleforsurvi",
       "time": "2026-08-11T19:09:52.000Z",
@@ -917,8 +918,8 @@
       ]
     },
     {
-      "headline": "Baby Shark Boy set to make K-pop debut",
-      "slug": "BabySharkBoysettomakeKpo",
+      "headline": "Baby Shark boy set to make K-pop debut",
+      "slug": "BabySharkboysettomakeKpo",
       "time": "2026-08-12T03:26:32.000Z",
       "independentSources": 1,
       "sources": [
@@ -928,7 +929,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Baby Shark Boy set to make K-pop debut",
+          "title": "Baby Shark boy set to make K-pop debut",
           "snippet": "The boy from the most-watched YouTube video of all time is now 17 years old, and wants to be a K-pop star.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/videos/cvg7zrxknvno?at_medium=RSS&at_campaign=rss",
@@ -1022,21 +1023,21 @@
       ]
     },
     {
-      "headline": "France bans unsolicited telemarketing calls",
-      "slug": "Francebansunsolicitedtel",
-      "time": "2026-08-11T14:19:45.000Z",
+      "headline": "Why have several nations raised red flags over Indian farm exports?",
+      "slug": "Whyhaveseveralnationsrai",
+      "time": "2026-08-12T05:34:14.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "France bans unsolicited telemarketing calls",
-          "snippet": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
+          "title": "Why have several nations raised red flags over Indian farm exports?",
+          "snippet": "As Tokyo turns back mangoes, Beijing blocks rice, and European inspectors flag spices, Indian growers ask what&#039;s wr",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/12/why-have-several-nations-raised-red-flags-over-indian-farm-exports?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1085,8 +1086,8 @@
       ]
     },
     {
-      "headline": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
-      "slug": "Israeliraidsdemolitionsc",
+      "headline": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
+      "slug": "Israeliraidsarrestsconti",
       "time": "2026-08-12T04:59:19.000Z",
       "independentSources": 1,
       "sources": [
@@ -1096,7 +1097,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Israeli raids, demolitions continue as UN warns West Bank at breaking point",
+          "title": "Israeli raids, arrests continue as UN warns West Bank at ‘breaking point’",
           "snippet": "Israeli forces arrest 23 Palestinians and demolish home of man killed in confrontation with Israeli settlers in July.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/12/israeli-raids-demolitions-continue-as-un-warns-west-bank-at-breaking-point?traffic_source=rss",
@@ -1169,9 +1170,9 @@
       ]
     },
     {
-      "headline": "Dozens dead and missing after ferry capsizes in Zimbabwe",
-      "slug": "Dozensdeadandmissingafte",
-      "time": "2026-08-12T02:47:36.000Z",
+      "headline": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+      "slug": "Oilpricesriseasattacksde",
+      "time": "2026-08-12T03:41:42.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1180,10 +1181,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Dozens dead and missing after ferry capsizes in Zimbabwe",
-          "snippet": "An overloaded ferry capsized on Zimbabwe’s Lake Kariba, killing at least 15 people and leaving 27 missing.",
+          "title": "Oil prices rise as attacks dent hopes for Strait of Hormuz reopening",
+          "snippet": "Brent crude climbs as renewed violence dampens hopes for a return to stability in energy markets.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/aje-onl-nf_overloaded-ferry-capsizes-in-zimbabwe-110826?traffic_source=rss",
+          "link": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
