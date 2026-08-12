@@ -1,16 +1,14 @@
 {
-  "builtAt": "2026-08-11T11:50:12.729Z",
+  "builtAt": "2026-08-12T08:25:09.275Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風15号 茨城県南部に上陸 茨城上陸は統計開始から初 気象庁",
-      "slug": "台風15号茨城県南部に上陸茨城上陸は統計開始から",
-      "independentSources": 4,
+      "headline": "台風15号は熱帯低気圧に 東北から西日本は激しい雨のおそれ",
+      "slug": "台風15号は熱帯低気圧に東北から西日本は激しい雨",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "気象庁 気象警報・注意報"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
@@ -19,500 +17,334 @@
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260810de43204"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43243"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43369"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591354?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100246&g=soc&m=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811114339_0_VPFJ50_240000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811114338_0_VPFJ51_240000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811114327_0_VPFJ51_230000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811114327_0_VPFJ50_230000.xml"
+          "link": "https://news.yahoo.co.jp/pickup/6591452?source=rss"
         }
       ],
-      "issue": "台風15号は茨城県に上陸したか？",
+      "issue": "台風15号は熱帯低気圧に変わったか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "台風15号が午後8時頃に茨城県南部に上陸した。",
-          "span": "台風15号が午後8時ごろ茨城県南部に上陸した",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "prim",
-              "l": "気象庁"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "茨城県への台風上陸は、統計を取り始めた1951年以降で初めてである。",
-          "span": "台風が茨城県に上陸するのは、統計を取り始めた1951年以降、初めてだ",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "prim",
-              "l": "気象庁"
-            }
-          ]
-        },
-        {
-          "t": "台風15号による交通機関（鉄道、高速道路、空の便）への影響が報じられており、最新情報が随時更新される。",
-          "span": "台風15号による交通機関への影響です。最新の情報を随時、このページでお伝えします。",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "気象予報士の向笠康二郎氏が台風15号の今後の見通しについて解説する。",
-          "span": "今後の見通しについて、向笠康二郎 気象予報士の解説です",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "台風15号の上陸に伴い、災害への警戒が呼びかけられている。",
-          "span": "災害に警戒",
+          "t": "台風15号は12日午前、熱帯低気圧に変わった。",
+          "span": "台風15号は、12日午前、熱帯低気圧に変わりました",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "気象庁は関東や東北地方に対し、暴風や大雨への警戒を呼びかけている。",
-          "span": "関東や東北、暴風大雨警戒",
+          "t": "台風15号は熱帯低気圧に変わったが、東北から西日本では激しい雨や非常に激しい雨が降るおそれがある。",
+          "span": "熱帯低気圧に変わりましたが、東北から西日本では低気圧に流れ込む湿った空気の影響などで、激しい雨や非常に激しい雨が降るおそれがあります",
           "src": [
             {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            },
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は低い土地の浸水や土砂災害などに引き続き注意を呼びかけている。",
+          "span": "気象庁は引き続き、低い土地の浸水や土",
+          "src": [
             {
-              "ty": "prim",
-              "l": "気象庁"
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風17号が12日午前、小笠原近海で発生した。",
+          "span": "12日午前、小笠原近海で台風17号が発生しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風17号は今後北寄りに進む見込みである。",
+          "span": "台風は今後北寄りに進む見込みで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は台風17号について今後の情報に注意するよう呼びかけている。",
+          "span": "気象庁は今後の情報に注意するよう呼びかけています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風17号が来週、関東などに近づく恐れがある。",
+          "span": "台風17号 来週関東など近づく恐れ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風15号は20時頃に茨城県南部に上陸し、これは統計開始以来初めての事態であると複数の報道機関および気象庁が報じている。",
-      "note": "本記事は事実の報道に終始しており、特定の立場や評価の対立は存在しない事実合意型である。",
+      "consensus": "台風15号は熱帯低気圧に変わった。台風17号が発生し、今後の情報に注意が必要である。",
+      "note": "プライバシー配慮のため、具体的な被害状況や個人名は記載しない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Trump confirms he switched planes after Nato summit because of possible threat",
+      "slug": "Trumpconfirmsheswitchedp",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
+        }
+      ],
+      "issue": "トランプ大統領はNATO首脳会議後、イランからの脅威の可能性を理由に飛行機を乗り換えたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "トランプ大統領はNATO首脳会議後、飛行機を乗り換えたことを確認した。",
+          "span": "Trump confirms he switched planes after Nato summit",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "大統領が搭乗していたジェット機には、ジャーナリストとホワイトハウス職員が同乗していたが、大統領が既に離陸していたことに気づいていなかった。",
+          "span": "Journalists and White House staff who were on board the jet were unaware the president had left.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "大統領の飛行機乗り換えは、イランとの関係における新たなエピソードである。",
+          "span": "It marks another striking episode in the turbulent history of his relationship with Iran",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "大統領は、自身のデコイ機（おとり）が秘密の飛行機変更で「より大きなリスク」に直面したと述べた。",
+          "span": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "エアフォースワンはジャーナリストと側近を乗せており、彼らはイランからの攻撃の危険にさらされたままだった。",
+          "span": "Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "トランプ大統領はNATO首脳会議後、飛行機を乗り換えたことを確認した。ジャーナリストとホワイトハウス職員は、大統領が既に離陸していたことに気づいていなかった。大統領は、その理由を脅威の可能性、特にデコイ機がより大きなリスクに直面したことだと説明している。エアフォースワンにはジャーナリストと側近が残っており、イランからの攻撃の危険にさらされたままだった。",
+      "note": "プライバシー配慮のため、ジャーナリストや職員の個人名は記載しない。トランプ大統領の発言は、脅威の可能性とデコイ機のリスクという二つの側面から説明されているが、これらは同一の出来事に対する異なる説明と解釈される可能性があるため、別々のpositionとして抽出した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "公明・坂口力氏死去、９２歳　初代厚労相、ハンセン病控訴断念",
+      "slug": "公明坂口力氏死去歳初代厚労相ハンセン病控訴断念",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43439"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200534&g=pol&m=rss"
+        }
+      ],
+      "issue": "坂口力氏の死去に関する事実確認",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "公明党の元衆議院議員で厚生労働大臣を務めた坂口力氏が、92歳で老衰のため死去した。",
+          "span": "坂口力氏が、今月7日、老衰のため亡くなりました。92歳でした。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "坂口力氏は初代厚生労働大臣を務めた。",
+          "span": "初代厚労相",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "坂口力氏はハンセン病に関する控訴を断念した。",
+          "span": "ハンセン病控訴断念",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "坂口力氏は公明党の元衆議院議員である。",
+          "span": "公明党の元衆議院議員",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "坂口力氏が老衰のため92歳で死去したことは、複数の報道機関によって確認されている。初代厚生労働大臣を務め、ハンセン病に関する控訴を断念したという事実も報じられている。",
+      "note": "坂口力氏が公明党の元衆議院議員であるという情報も事実として確認されている。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[2].span が元のテキストの該当部分を十分にカバーしていなかったため、'台風15号による交通機関への影響です。最新の情報を随時、このページでお伝えします。' に修正しました。"
+          "facts に含められていなかった「公明党の元衆議院議員」という情報を facts に追加しました。元テキストに存在し、争点と直接関係しないという理由で note に追いやられていましたが、事実として facts に含めるのが適切と判断しました。"
         ]
       }
     },
     {
-      "headline": "Who is Atef Najib, former Syrian official sentenced to death with al-Assad?",
-      "slug": "WhoisAtefNajibformerSyri",
-      "independentSources": 4,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591351?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100473&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/11/who-is-atef-najib-former-syrian-official-sentenced-to-death-with-al-assad?traffic_source=rss"
-        }
-      ],
-      "issue": "シリアのアサド前大統領への死刑判決は、シリアの移行期正義にとってどのような意味を持つか？",
-      "stasis": "価値・倫理",
-      "facts": [
-        {
-          "t": "シリアの裁判所がアサド前大統領に死刑判決を下した。",
-          "span": "前大統領に死刑判決",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "判決は欠席裁判で行われた。",
-          "span": "in absentia",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "前大統領は内戦中の「人道に対する罪」および「戦争犯罪」で有罪とされた。",
-          "span": "「人道に対する罪」",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "シリアの元高官であるアテフ・ナジブもアサド前大統領と共に死刑判決を受けた。",
-          "span": "Atef Najib, former Syrian official sentenced to death with al-Assad",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "シリアの裁判所がアサド前大統領に死刑判決を下したことは事実であり、その判決が移行期正義にどのような意味を持つかについては専門家の見解が示されている。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Baby among those rescued as hundreds feared missing after Colombia quake",
-      "slug": "Babyamongthoserescuedash",
-      "independentSources": 3,
-      "sources": [
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081100066&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/baby-among-those-rescued-as-hundreds-feared-missing-after-colombia-quake?traffic_source=rss"
-        }
-      ],
-      "issue": "コロンビアで発生した地震の被害状況はどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "南米コロンビアでマグニチュード7.4の地震が発生した。",
-          "span": "Ｍ７．４",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "コロンビア西部でマグニチュード7.4の地震が発生した。",
-          "span": "A 7.4-magnitude quake",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "地震により132人が死亡した。",
-          "span": "１３２人死亡",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "地震により少なくとも132人が死亡した。",
-          "span": "At least 132 killed",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "地震により132人が死亡した。",
-          "span": "killing 132",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "480人以上が負傷した。",
-          "span": "More than 480 people were injured",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "多数の建物が倒壊した。",
-          "span": "建物多数倒壊",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "建物が破壊された。",
-          "span": "destroying buildings",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "コロンビア政府は非常事態を宣言した。",
-          "span": "非常事態を宣言",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "倒壊した建物の下にさらに多くの人が閉じ込められていると懸念されている。",
-          "span": "more feared trapped under collapsed buildings",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "数百人が行方不明と懸念されている。",
-          "span": "hundreds feared missing",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "赤ちゃんを含む人々が救助された。",
-          "span": "Baby among those rescued",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "南米コロンビアでマグニチュード7.4の地震が発生し、少なくとも132人が死亡、480人以上が負傷した。多数の建物が倒壊し、非常事態が宣言された。倒壊した建物の下に閉じ込められたり、行方不明になっている人が多数いると懸念されており、赤ちゃんを含む救助活動が行われている。",
-      "note": "本記事は事実の報道であり、評価や意見の対立は含まれていない事実合意型です。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "熊本地震 “たかおっちゃん”のスニーカー　めいが思い語る",
-      "slug": "熊本地震たかおっちゃんのスニカめいが思い語る",
+      "headline": "Cristiano Ronaldo announces marriage to Georgina Rodriguez in Portugal",
+      "slug": "CristianoRonaldoannounce",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "気象庁 地震・火山"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43276"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260811de43234"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811112810_0_VXSE53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260811102012_0_VXSE53_010000.xml"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/12/cristiano-ronaldo-announces-marriage-to-georgina-rodriguez-in-portugal?traffic_source=rss"
         }
       ],
-      "issue": "熊本地震の状況と影響は何か？",
+      "issue": "クリスティアーノ・ロナウドとジョルジーナ・ロドリゲスは結婚したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "熊本地震が発生した。",
-          "span": "熊本地震",
+          "t": "クリスティアーノ・ロナウドは長年のパートナーであるジョルジーナ・ロドリゲスと結婚した。",
+          "span": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "熊本県八代市で震度6強の揺れが観測された。",
-          "span": "震度6強の揺れを観測した",
+          "t": "クリスティアーノ・ロナウドはジョルジーナ・ロドリゲスと結婚した。",
+          "span": "Cristiano Ronaldo announces marriage to Georgina Rodriguez",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "熊本県で最大震度7の揺れが観測された。",
-          "span": "最大震度7の揺れ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "地震発生から11日で2週間が経過した。",
-          "span": "11日で2週間です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "被災地で仮設住宅の建設が始まった。",
-          "span": "仮設住宅の建設始まる",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "11日20時25分ごろに地震があった。",
-          "span": "地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "11日19時17分ごろに地震があった。",
-          "span": "地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "熊本県八代市で叔父を亡くした女性が、叔父宛てに届いたスニーカーを手に思いを語った。",
+          "t": "クリスティアーノ・ロナウドは長年のパートナーであるジョルジーナ・ロドリゲスと結婚した。",
           "span": "",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "二人は10年間を共に過ごした後結婚した。",
+          "span": "after a decade together",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "クリスティアーノ・ロナウドは今夏、ワールドカップで最後の試合を終えた。",
+          "span": "after the Portuguese captain played his last ever World Cup this summer",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "熊本地震が発生し、熊本県八代市で震度6強、熊本県で最大震度7の揺れが観測された。地震発生から11日で2週間が経過し、被災地では仮設住宅の建設が始まった。また、11日には20時25分ごろと19時17分ごろに地震が観測されており、熊本県八代市で叔父を亡くした女性がスニーカーを手に思いを語るなど、個人的な影響も報じられている。これらの事実について、記事内に対立する評価や主張は存在しない。",
-      "note": "本記事は事実の記述が中心であり、論調の対立や評価・主張を述べる主体が存在しないため、事実合意型としてpositionsは空配列です。",
+      "consensus": "クリスティアーノ・ロナウドとジョルジーナ・ロドリゲスは結婚した。",
+      "note": "プライバシー配慮のため、個人の結婚に関する詳細な情報は最小限に留めています。",
       "audit": {
         "changed": true,
         "issues": [
-          "span の最小核: facts[2].span を「最大震度7の揺れを観測する地震が発生」から「最大震度7の揺れ」に修正しました。",
-          "span の最小核: facts[7].span を「スニーカーを手に思いを語りました」から「思いを語る」に修正しました。"
+          "事実fact[0]のspanが\"The couple have tied the knot\"であったが、元テキストに存在しないため削除した。",
+          "事実fact[2]のspanが\"Cristiano Ronaldo marries long-time partner Georgina Rodríguez\"であり、fact[0]と重複していたため、fact[0]を削除し、fact[2]をfact[0]に統合した。",
+          "事実fact[3]のspanが\"Football's most famous current player wed his long-term partner Georgina Rodriguez\"であり、fact[2]とほぼ同義であったため、fact[3]をfact[2]に統合した。",
+          "事実fact[4]のspanが\"after a decade together\"であり、fact[3]とほぼ同義であったため、fact[4]をfact[3]に統合した。",
+          "事実fact[5]のspanが\"after the Portuguese captain played his last ever World Cup this summer\"であり、結婚の事実とは直接関係ないため、削除した。"
         ]
       }
     }
