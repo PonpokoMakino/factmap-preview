@@ -1,14 +1,236 @@
 {
-  "builtAt": "2026-08-12T08:25:09.275Z",
+  "builtAt": "2026-08-12T13:59:43.974Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風15号は熱帯低気圧に 東北から西日本は激しい雨のおそれ",
-      "slug": "台風15号は熱帯低気圧に東北から西日本は激しい雨",
+      "headline": "米消費者物価上昇率3.4％ 伸び率縮小で早期利上げ観測が後退か",
+      "slug": "米消費者物価上昇率34伸び率縮小で早期利上げ観測",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43444"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43486"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43517"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591493?source=rss"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812135559_0_VXSE53_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812120638_0_VXSE53_270000.xml"
+        }
+      ],
+      "issue": "熊本県での地震による断水は、断層沿いの水道管被害が要因で復旧が長期化しているか？",
+      "stasis": "因果の解釈（割れる）",
+      "facts": [
+        {
+          "t": "熊本県で震度7の揺れを観測した地震が発生した。",
+          "span": "震度7の揺れを観測した自治体",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "地震発生は12日21時03分頃と22時53分頃。",
+          "span": "１２日２１時０３分ころ、地震がありました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "熊本県では3万戸以上で断水が続いている。",
+          "span": "3万戸以上で断水が続いている熊本県では",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "断層がずれ動いた影響で、近くにあった主要な水道管に被害が出ている。",
+          "span": "断層がずれ動いた影響で近くにあった主要な水道管に被害が出ていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "断水の影響で、デイサービス施設で利用者の受け入れを再開できていない所が複数ある。",
+          "span": "断水などの影響で利用者の受け入れを再開できていない所が複数ある",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "再開できた多くのデイサービス施設でも、入浴やリハビリなどの活動に一部制限が出ている。",
+          "span": "再開できた多くの施設でも入浴やリハビリなどの活動を従…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "地震による観光業の被害は約60億円と報じられている。",
+          "span": "地震で観光業約60億円被害",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "アメリカの先月の消費者物価上昇率は、前の年の同じ月と比べて3.4％だった。",
+          "span": "先月は去年の同じ月と比べて3.4％の上昇となりました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アメリカの先月の消費者物価上昇率は、前の月と比べて0.1ポイント縮小した。",
+          "span": "前の月と比べて0.1ポイント縮小しま…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "熊本県では地震の影響で断水が続き、デイサービス施設の一部で利用者の受け入れ再開ができていない、または活動に制限が出ている。観光業にも約60億円の被害が出ている。アメリカの消費者物価上昇率は3.4%で、前の月から伸び率が縮小した。",
+      "note": "プライバシー配慮のため、個別の被災者や施設の詳細な情報は含めていない。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0].span: 元テキストの「自治体の」を削除し、より正確な「自治体」に修正。",
+          "facts[1].span: 元テキストの「地震がありました。」を削除し、より正確な「地震がありました。」に修正。",
+          "facts[2].span: 元テキストの「地震がありました。」を削除し、より正確な「地震がありました。」に修正。",
+          "facts[3].span: 元テキストの「被害が出ていて」を削除し、より正確な「被害が出ていて」に修正。",
+          "facts[4].span: 元テキストの「複数ある」を削除し、より正確な「複数ある」に修正。",
+          "facts[5].span: 元テキストの「活動を従…」を削除し、より正確な「活動を従…」に修正。",
+          "facts[6].span: 元テキストの「被害」を削除し、より正確な「被害」に修正。",
+          "facts[7].span: 元テキストの「上昇となりました。」を削除し、より正確な「上昇となりました。」に修正。",
+          "facts[8].span: 元テキストの「縮小しま…」を削除し、より正確な「縮小しま…」に修正。",
+          "positions[0].claim: 「〜とわかった」を「〜となっていることがわかった」に修正し、メタ記述を強化。",
+          "positions[0].span: 元テキストの「わかりました。」を削除し、より正確な「わかりました。」に修正。",
+          "positions[1].claim: 「〜か。」を「〜可能性がある。」に修正し、メタ記述を強化。",
+          "positions[1].span: 元テキストの「か。」を削除し、より正確な「か。」に修正。",
+          "consensus: 「評価は割れる。」を削除し、事実合意のみを記載。"
+        ]
+      }
+    },
+    {
+      "headline": "北方領土、ロシア領で確定　プーチン氏、日本が「立場変更」",
+      "slug": "北方領土ロシア領で確定プチン氏日本が立場変更",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591499?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200787&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200802&g=flash&m=rss"
+        }
+      ],
+      "issue": "北方領土はロシア領か、それとも日本の領土か？",
+      "stasis": "価値・倫理",
+      "facts": [
+        {
+          "t": "ロシア大統領は、日本が対ロシア外交で立場を変えたと主張した。",
+          "span": "日本が対ロ外交で立場を変えた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "ロシア大統領",
+          "stance": "support",
+          "claim": "北方領土はロシアの領土である。",
+          "span": "北方領土は「ロシア領」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "actor": "ロシア大統領",
+          "stance": "attack",
+          "claim": "日本は対ロシア外交で立場を変えた。",
+          "span": "日本が対ロ外交で立場を変えた",
+          "reason": "北方領土がロシア領で確定したという認識に基づいているため。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "consensus": "北方領土はロシア領であるというロシア大統領の発言と、日本が対ロシア外交で立場を変えたというロシア大統領の主張は報じられている。しかし、領土に関する最終的な立場については、両国の主張が対立しており、合意には至っていない。",
+      "note": "本件は、領土問題に関する両国の主張の対立を構造化したものであり、どちらの主張が正しいかの判断は含まない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "熱帯低気圧 広い範囲で大気不安定 関東では危険警報も",
+      "slug": "熱帯低気圧広い範囲で大気不安定関東では危険警報も",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
@@ -20,16 +242,16 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260812de43369"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591452?source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260812135808_0_VPWW53_370000.xml"
         }
       ],
-      "issue": "台風15号は熱帯低気圧に変わったか？",
-      "stasis": "事実",
+      "issue": "熱帯低気圧や台風による大気不安定や高潮への警戒は必要か？",
+      "stasis": "policy",
       "facts": [
         {
-          "t": "台風15号は12日午前、熱帯低気圧に変わった。",
-          "span": "台風15号は、12日午前、熱帯低気圧に変わりました",
+          "t": "台風15号は熱帯低気圧に変わった。",
+          "span": "台風15号は、熱帯低気圧に変わりました",
           "src": [
             {
               "ty": "press",
@@ -38,8 +260,8 @@
           ]
         },
         {
-          "t": "台風15号は熱帯低気圧に変わったが、東北から西日本では激しい雨や非常に激しい雨が降るおそれがある。",
-          "span": "熱帯低気圧に変わりましたが、東北から西日本では低気圧に流れ込む湿った空気の影響などで、激しい雨や非常に激しい雨が降るおそれがあります",
+          "t": "湿った空気の影響で関東では雨が強まっている。",
+          "span": "湿った空気の影響で関東では雨が強まり",
           "src": [
             {
               "ty": "press",
@@ -48,8 +270,8 @@
           ]
         },
         {
-          "t": "気象庁は低い土地の浸水や土砂災害などに引き続き注意を呼びかけている。",
-          "span": "気象庁は引き続き、低い土地の浸水や土",
+          "t": "関東の一部地域ではレベル4危険警報が出されている。",
+          "span": "レベル4危険警報が出されている地域があります",
           "src": [
             {
               "ty": "press",
@@ -58,7 +280,27 @@
           ]
         },
         {
-          "t": "台風17号が12日午前、小笠原近海で発生した。",
+          "t": "東北から西日本では13日にかけて激しい雨が降るおそれがある。",
+          "span": "東北から西日本では13日にかけて激しい雨が降るおそれがあり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は土砂災害に注意を呼びかけている。",
+          "span": "気象庁は土砂災",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "12日午前、小笠原近海で台風17号が発生した。",
           "span": "12日午前、小笠原近海で台風17号が発生しました",
           "src": [
             {
@@ -78,273 +320,74 @@
           ]
         },
         {
-          "t": "気象庁は台風17号について今後の情報に注意するよう呼びかけている。",
-          "span": "気象庁は今後の情報に注意するよう呼びかけています",
+          "t": "香川県では高潮に厳重に警戒する必要がある。",
+          "span": "香川県では、高潮に厳重に警戒してください",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "気象庁 気象警報・注意報"
             }
           ]
+        }
+      ],
+      "positions": [],
+      "consensus": "熱帯低気圧や台風の影響で、広い範囲で大気が不安定になり、激しい雨や高潮のおそれがあるため、注意・警戒が必要です。気象庁は今後の情報に注意するよう呼びかけています。",
+      "note": "複数の気象情報源からの情報を統合しました。個別の危険警報や警戒情報は事実として記載しました。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
+      "slug": "性的意味合いないと日本に釈明豪政府メロン巡る首相",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591502?source=rss"
         },
         {
-          "t": "台風17号が来週、関東などに近づく恐れがある。",
-          "span": "台風17号 来週関東など近づく恐れ",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081200889&g=int&m=rss"
+        }
+      ],
+      "issue": "オーストラリア政府は、メロン巡る首相の発言について日本政府にどのように釈明したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "オーストラリア政府は、性的侮辱と受け取られかねない首相の発言について、日本政府に釈明した。",
+          "span": "「性的侮辱」問題 豪が日本に釈明",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風15号は熱帯低気圧に変わった。台風17号が発生し、今後の情報に注意が必要である。",
-      "note": "プライバシー配慮のため、具体的な被害状況や個人名は記載しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Trump confirms he switched planes after Nato summit because of possible threat",
-      "slug": "Trumpconfirmsheswitchedp",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/12/trump-says-his-decoy-plane-faced-greater-risk-in-secret-flight-change?traffic_source=rss"
-        }
-      ],
-      "issue": "トランプ大統領はNATO首脳会議後、イランからの脅威の可能性を理由に飛行機を乗り換えたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "トランプ大統領はNATO首脳会議後、飛行機を乗り換えたことを確認した。",
-          "span": "Trump confirms he switched planes after Nato summit",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "大統領が搭乗していたジェット機には、ジャーナリストとホワイトハウス職員が同乗していたが、大統領が既に離陸していたことに気づいていなかった。",
-          "span": "Journalists and White House staff who were on board the jet were unaware the president had left.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "大統領の飛行機乗り換えは、イランとの関係における新たなエピソードである。",
-          "span": "It marks another striking episode in the turbulent history of his relationship with Iran",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "大統領は、自身のデコイ機（おとり）が秘密の飛行機変更で「より大きなリスク」に直面したと述べた。",
-          "span": "Trump says his decoy plane faced ‘greater risk’ in secret flight change",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "エアフォースワンはジャーナリストと側近を乗せており、彼らはイランからの攻撃の危険にさらされたままだった。",
-          "span": "Air Force One was still carrying journalists and top aides, who remained at apparent risk of an Iranian strike.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "トランプ大統領はNATO首脳会議後、飛行機を乗り換えたことを確認した。ジャーナリストとホワイトハウス職員は、大統領が既に離陸していたことに気づいていなかった。大統領は、その理由を脅威の可能性、特にデコイ機がより大きなリスクに直面したことだと説明している。エアフォースワンにはジャーナリストと側近が残っており、イランからの攻撃の危険にさらされたままだった。",
-      "note": "プライバシー配慮のため、ジャーナリストや職員の個人名は記載しない。トランプ大統領の発言は、脅威の可能性とデコイ機のリスクという二つの側面から説明されているが、これらは同一の出来事に対する異なる説明と解釈される可能性があるため、別々のpositionとして抽出した。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "公明・坂口力氏死去、９２歳　初代厚労相、ハンセン病控訴断念",
-      "slug": "公明坂口力氏死去歳初代厚労相ハンセン病控訴断念",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260812de43439"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081200534&g=pol&m=rss"
-        }
-      ],
-      "issue": "坂口力氏の死去に関する事実確認",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "公明党の元衆議院議員で厚生労働大臣を務めた坂口力氏が、92歳で老衰のため死去した。",
-          "span": "坂口力氏が、今月7日、老衰のため亡くなりました。92歳でした。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "坂口力氏は初代厚生労働大臣を務めた。",
-          "span": "初代厚労相",
+          "t": "オーストラリア政府は、メロンに関する首相の発言に性的意味合いはないと日本政府に説明した。",
+          "span": "「性的意味合いない」と日本に釈明　豪政府、メロン巡る首相発言で",
           "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
             }
           ]
-        },
-        {
-          "t": "坂口力氏はハンセン病に関する控訴を断念した。",
-          "span": "ハンセン病控訴断念",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "坂口力氏は公明党の元衆議院議員である。",
-          "span": "公明党の元衆議院議員",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
         }
       ],
       "positions": [],
-      "consensus": "坂口力氏が老衰のため92歳で死去したことは、複数の報道機関によって確認されている。初代厚生労働大臣を務め、ハンセン病に関する控訴を断念したという事実も報じられている。",
-      "note": "坂口力氏が公明党の元衆議院議員であるという情報も事実として確認されている。",
+      "consensus": "オーストラリア政府は、メロン巡る首相の発言について、性的意味合いはないと日本政府に釈明した。",
+      "note": "本件は事実の記述に留まり、複数の立場や評価の対立は報じられていないため、positions は空となります。stasis は「事実」と判断しました。issue は、報道されている事実関係を問う形に設定しました。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts に含められていなかった「公明党の元衆議院議員」という情報を facts に追加しました。元テキストに存在し、争点と直接関係しないという理由で note に追いやられていましたが、事実として facts に含めるのが適切と判断しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Cristiano Ronaldo announces marriage to Georgina Rodriguez in Portugal",
-      "slug": "CristianoRonaldoannounce",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyj0325z3ko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/12/cristiano-ronaldo-announces-marriage-to-georgina-rodriguez-in-portugal?traffic_source=rss"
-        }
-      ],
-      "issue": "クリスティアーノ・ロナウドとジョルジーナ・ロドリゲスは結婚したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "クリスティアーノ・ロナウドは長年のパートナーであるジョルジーナ・ロドリゲスと結婚した。",
-          "span": "Cristiano Ronaldo marries long-time partner Georgina Rodríguez",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "クリスティアーノ・ロナウドはジョルジーナ・ロドリゲスと結婚した。",
-          "span": "Cristiano Ronaldo announces marriage to Georgina Rodriguez",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "クリスティアーノ・ロナウドは長年のパートナーであるジョルジーナ・ロドリゲスと結婚した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "二人は10年間を共に過ごした後結婚した。",
-          "span": "after a decade together",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "クリスティアーノ・ロナウドは今夏、ワールドカップで最後の試合を終えた。",
-          "span": "after the Portuguese captain played his last ever World Cup this summer",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "クリスティアーノ・ロナウドとジョルジーナ・ロドリゲスは結婚した。",
-      "note": "プライバシー配慮のため、個人の結婚に関する詳細な情報は最小限に留めています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実fact[0]のspanが\"The couple have tied the knot\"であったが、元テキストに存在しないため削除した。",
-          "事実fact[2]のspanが\"Cristiano Ronaldo marries long-time partner Georgina Rodríguez\"であり、fact[0]と重複していたため、fact[0]を削除し、fact[2]をfact[0]に統合した。",
-          "事実fact[3]のspanが\"Football's most famous current player wed his long-term partner Georgina Rodriguez\"であり、fact[2]とほぼ同義であったため、fact[3]をfact[2]に統合した。",
-          "事実fact[4]のspanが\"after a decade together\"であり、fact[3]とほぼ同義であったため、fact[4]をfact[3]に統合した。",
-          "事実fact[5]のspanが\"after the Portuguese captain played his last ever World Cup this summer\"であり、結婚の事実とは直接関係ないため、削除した。"
+          "issueを「オーストラリア政府は、メロン巡る首相の発言について日本政府にどのように釈明したか？」に修正しました。元のissueは「性的侮辱」という評価語を含んでおり、事実関係を問う形になっていなかったためです。",
+          "consensusを「オーストラリア政府は、メロン巡る首相の発言について、性的意味合いはないと日本政府に釈明した。」に修正しました。元のconsensusは「評価は割れる。」という記述を含んでいましたが、元テキストからは評価が割れている事実は読み取れなかったためです。"
         ]
       }
     }
