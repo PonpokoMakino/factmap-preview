@@ -1,19 +1,20 @@
 {
-  "rankedAt": "2026-08-13T22:10:41.487Z",
+  "rankedAt": "2026-08-13T23:05:46.220Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "千葉県に大雨特別警報　１人死亡、１人心肺停止―線状降水帯発生、災害厳重警戒",
       "slug": "千葉県に大雨特別警報人死亡人心肺停止線状降水帯発",
-      "time": "2026-08-13T22:08:28.000Z",
-      "independentSources": 3,
+      "time": "2026-08-13T23:01:00.000Z",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "気象庁 気象警報・注意報"
       ],
-      "count": 11,
-      "hasPrimary": false,
+      "count": 18,
+      "hasPrimary": true,
       "members": [
         {
           "title": "【大雨被害】千葉 記録的大雨 2人死亡1人心肺停止1人意識なし",
@@ -24,18 +25,34 @@
           "linkKind": "article"
         },
         {
-          "title": "千葉県内の大雨特別警報を危険警報などに切り替え【詳しく】",
-          "snippet": "気象庁は、午前5時すぎ、千葉県の22の市町に出していたレベル5大雨特別警報をレベル4大雨危険警報やレベル3大雨警報などに、6つの市に出していたレベル5土砂災害特別警報をレベル4土砂災害危険警報に切り替…",
+          "title": "成田空港 ターミナルに約7000人滞留 大雨による電車バス運休で",
+          "snippet": "成田空港では、空港から出発する電車やバスが大雨の影響で運休しているため、空港に多くの利用客が滞留しています。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260814de43941",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "千葉県内の大雨特別警報を危険警報などに切り替え【上空映像】",
+          "snippet": "湿った空気や上空の寒気の影響で千葉県では、13日夕方以降、線状降水帯が相次いで発生して記録的な大雨となり、一時、大雨や土砂災害の特別警報が発表されました。特別警報は14日、危険警報や警報などに切り替え…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260813de43749",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "【大雨 交通影響】首都圏 JRや私鉄の運転予定は（14日）",
-          "snippet": "千葉県では13日夕方以降、線状降水帯が相次いで発生して1時間に100ミリを超える猛烈な雨が降り続き、記録的な大雨となりました。交通への影響です。",
+          "title": "【大雨】千葉県庁で約1800人が一夜明かす 帰宅困難者相次ぎ",
+          "snippet": "千葉県内では、13日からの大雨で公共交通機関がストップし、自宅に帰れない人が相次ぎ、このうち千葉市中央区にある千葉県庁ではおよそ1800人が一夜を明かしました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260814de43937",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260813de43764",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "千葉 若葉区 車2台が川に流され7人救助 5人搬送",
+          "snippet": "警察によりますと、14日午前1時ごろ、千葉市若葉区谷当町で「車が川に流されている」と警察に通報がありました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260814de43978",
           "ty": "press",
           "linkKind": "article"
         },
@@ -64,10 +81,10 @@
           "linkKind": "article"
         },
         {
-          "title": "千葉県内 約1万人の帰宅困難者",
+          "title": "危険な雨 土砂災害など終日警戒",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591653?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591649?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -88,10 +105,10 @@
           "linkKind": "article"
         },
         {
-          "title": "千葉県で大雨 現地のSNS投稿",
+          "title": "千葉県内 約1万人の帰宅困難者",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591625?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591653?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -102,96 +119,66 @@
           "link": "https://www.jiji.com/jc/article?k=2026081301059&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-13T21:38:03.000Z",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 7,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "危険な雨 土砂災害など終日警戒",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591649?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "安全確保を 大雨のときのNG行動",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6589507?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や低い土地の浸水、落雷、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813213805_0_VPWW53_040000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮城県気象警報・注意報】宮城県では、土砂災害や低い土地の浸水、落雷、濃霧による視程障害に注意してください。",
+          "snippet": "【千葉県気象警報・注意報】〈危険警報（大雨、土砂災害）〉千葉県では、土砂災害や低い土地の浸水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813213804_0_VPWW54_040000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福島県気象警報・注意報】福島県では、土砂災害や落雷、濃霧による視程障害に注意してください。中通り、浜通りでは、低い土地の浸水に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813213540_0_VPWW54_070000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813224414_0_VPWW54_120000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【福島県気象警報・注意報】福島県では、土砂災害や落雷、濃霧による視程障害に注意してください。中通り、浜通りでは、低い土地の浸水に注意してください。",
+          "snippet": "【千葉県気象警報・注意報】〈危険警報（大雨、土砂災害）〉千葉県では、土砂災害や低い土地の浸水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813213540_0_VPWW53_070000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813224414_0_VPWW53_120000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【福島県土砂災害警報・注意報】福島県では、土砂災害に注意してください。",
+          "snippet": "【千葉県土砂災害警報・注意報】千葉県では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813213533_0_VPWW56_070000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813224404_0_VPWW56_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【茨城県気象警報・注意報】茨城県では、土砂災害や高波、竜巻などの激しい突風、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813223837_0_VPWW54_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【茨城県気象警報・注意報】茨城県では、土砂災害や高波、竜巻などの激しい突風、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813223837_0_VPWW53_080000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "政府 ロシアへの対抗措置を検討 プーチン氏の北方領土訪問受け",
-      "slug": "政府ロシアへの対抗措置を検討プチン氏の北方領土訪",
-      "time": "2026-08-13T21:43:53.000Z",
+      "headline": "北方領土、ロシア領で確定　プーチン氏、日本が「立場変更」",
+      "slug": "北方領土ロシア領で確定プチン氏日本が立場変更",
+      "time": "2026-08-13T11:53:00.000Z",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "count": 4,
       "hasPrimary": false,
       "members": [
         {
-          "title": "政府 ロシアへの対抗措置を検討 プーチン氏の北方領土訪問受け",
-          "snippet": "ロシアのプーチン大統領が北方領土を訪問したことについて、日本政府はまったく受け入れられないとして対抗措置を検討する方針です。ウクライナ侵攻を受けたロシアへの制裁を強化する案などが出ていて、冷え込んでい…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260814de43919",
+          "title": "露大統領が択捉島を電撃訪問 波紋",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591614?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -218,81 +205,6 @@
           "link": "https://www.jiji.com/jc/article?k=2026081300865&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "成田空港 ターミナルに約7000人滞留 大雨による電車バス運休で",
-      "slug": "成田空港タミナルに約7000人滞留大雨による電車",
-      "time": "2026-08-13T21:03:34.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "成田空港 ターミナルに約7000人滞留 大雨による電車バス運休で",
-          "snippet": "成田空港では、空港から出発する電車やバスが大雨の影響で運休しているため、空港に多くの利用客が滞留しています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260814de43941",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "午前1時 成田空港に6600人が滞留",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591647?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-13T20:41:41.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 4,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１４日０５時３９分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813204141_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１４日０５時３１分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813203334_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１４日０５時２０分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813202624_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１４日０４時５８分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813200050_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -326,9 +238,38 @@
       ]
     },
     {
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-13T22:52:49.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１４日０７時５０分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813225249_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１４日０５時３９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813204141_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-13T21:57:37.000Z",
+      "time": "2026-08-13T22:33:21.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -338,17 +279,46 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【東京都気象警報・注意報】東京地方、伊豆諸島北部、伊豆諸島南部では、竜巻などの激しい突風や落雷に注意してください。小笠原諸島では、落雷に注意してください。",
+          "snippet": "【福岡県気象警報・注意報】福岡県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813215739_0_VPWW53_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813223322_0_VPWW53_400000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】東京地方、伊豆諸島北部、伊豆諸島南部では、竜巻などの激しい突風や落雷に注意してください。小笠原諸島では、落雷に注意してください。",
+          "snippet": "【福岡県気象警報・注意報】福岡県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813215738_0_VPWW54_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813223322_0_VPWW54_400000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-13T22:33:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【山口県気象警報・注意報】山口県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813223320_0_VPWW54_350000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【山口県気象警報・注意報】山口県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813223320_0_VPWW53_350000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -378,6 +348,48 @@
           "snippet": "Mangione faces two federal charges of stalking resulting in death, each carrying a maximum sentence of life in prison.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c5yw71q9y00o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "秋葉原駅に熊本産の牛乳 売上急増",
+      "slug": "秋葉原駅に熊本産の牛乳売上急増",
+      "time": "2026-08-13T08:47:53.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "秋葉原駅に熊本産の牛乳 売上急増",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591602?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "千葉にいまして 矢部浩之ANN休演",
+      "slug": "千葉にいまして矢部浩之ANN休演",
+      "time": "2026-08-13T22:13:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "千葉にいまして 矢部浩之ANN休演",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591654?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -470,7 +482,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-13T20:00:00.000Z",
+      "time": "2026-08-13T23:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -480,9 +492,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１４日０９時から１２時までは火口から北西方向、１４日２１時から２４時までは火口から北西方向に降灰が予想され",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１４日０９時から１２時までは火口から北方向、１４日２１時から２４時までは火口から北西方向",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813200053_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813230055_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -491,91 +503,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-13T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１４日０９時から１２時までは火口から北方向、１４日２１時から２４時までは火口から北西方向に降灰が予想されま",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813200050_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-13T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１４日０９時から１２時までは火口から北方向、１４日２１時から２４時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813200042_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-13T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１４日０９時から１２時までは火口から北西方向、１４日２１時から２４時までは火口から北西方向に降灰が予想され",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813200047_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-13T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１４日０９時から１２時までは火口から西方向、１４日２１時から２４時までは火口から東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813200038_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-13T20:00:00.000Z",
+      "time": "2026-08-13T23:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -587,16 +515,142 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１４日０９時から１２時までは火口から北東方向、１４日２１時から２４時までは火口から北東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813200031_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813230030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-13T21:57:29.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-13T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１４日０９時から１２時までは火口から北西方向、１４日２１時から２４時までは火口から北方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813230033_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-13T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１４日０９時から１２時までは火口から北西方向、１４日２１時から２４時までは火口から北方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813230037_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-13T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１４日０９時から１２時までは火口から北西方向、１４日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813230041_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-13T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１４日０９時から１２時までは火口から北西方向、１４日２１時から２４時までは火口から北西方向に降灰が予想され",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813230045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-13T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１４日０９時から１２時までは火口から北方向、１４日２１時から２４時までは火口から北西方向に降灰が予想されま",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813230048_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-13T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１４日０９時から１２時までは火口から北西方向、１４日２１時から２４時までは火口から北西方向に降灰が予想され",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813230052_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-13T22:38:26.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -605,52 +659,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【東京都土砂災害警報・注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【茨城県大雨警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813215729_0_VPWW56_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-08-13T21:41:31.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813214131_0_VPTW60_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "指定河川洪水予報",
-      "slug": "指定河川洪水予報",
-      "time": "2026-08-13T21:37:48.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "指定河川洪水予報",
-          "snippet": "【名取川レベル２氾濫注意報解除】〔解除〕名取川では、氾濫注意水位を下回る",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813213754_0_VXKO51_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260813223827_0_VPWW55_080000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
