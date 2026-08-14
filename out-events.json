@@ -1,17 +1,17 @@
 {
-  "rankedAt": "2026-08-14T13:40:30.112Z",
+  "rankedAt": "2026-08-14T14:41:22.147Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "千葉など関東 15日明け方にかけ非常に激しい雨のおそれ 警戒を",
       "slug": "千葉など関東15日明け方にかけ非常に激しい雨のお",
-      "time": "2026-08-14T13:36:22.000Z",
+      "time": "2026-08-14T14:12:44.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 7,
+      "count": 11,
       "hasPrimary": true,
       "members": [
         {
@@ -39,14 +39,6 @@
           "linkKind": "article"
         },
         {
-          "title": "【大雨】冠水した車から2人を引き出した男性 緊迫の状況語る",
-          "snippet": "千葉県柏市で、冠水した車の中から男女2人の救助にあたったという60代の男性に話を聞くことができました。\n男性は「車の後ろのガラスを割って乗っていた人を引っ張り出した」などと当時の緊迫した状況を語りまし…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260814de44061",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
           "title": "【大雨 交通影響】鉄道や道路の状況 15日以降も運休続く路線も",
           "snippet": "千葉県では13日夕方以降、線状降水帯が相次いで発生して1時間に100ミリを超える猛烈な雨が降り続き、記録的な大雨となりました。交通への影響です。\nJR東日本によりますと、千葉県内では一部の路線で運転が…",
           "source": "NHK 主要ニュース",
@@ -55,10 +47,18 @@
           "linkKind": "article"
         },
         {
+          "title": "土砂災害警戒情報",
+          "snippet": "【埼玉県レベル４土砂災害危険警報】＜レベル４土砂災害危険警報の補足情報＞\nレベル４土砂災害危険警報が発表されている地域では、崖の近くなど土砂災害の発生しやすい地区にお住まいの方は、早めの避難を心がけるとともに、市町村から発表される避難指示な",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814141246_0_VXWW50_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
           "title": "気象警報・注意報（Ｈ２７）",
           "snippet": "【埼玉県気象警報・注意報】〈危険警報（土砂災害）〉南部、北部では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814133624_0_VPWW54_110000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814141239_0_VPWW54_110000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -66,7 +66,39 @@
           "title": "気象特別警報・警報・注意報",
           "snippet": "【埼玉県気象警報・注意報】〈危険警報（土砂災害）〉南部、北部では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814133624_0_VPWW53_110000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814141240_0_VPWW53_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【埼玉県土砂災害警報・注意報】南部、北部では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814141232_0_VPWW56_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【群馬県気象警報・注意報】群馬県では、土砂災害や竜巻などの激しい突風、落雷、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140605_0_VPWW54_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【群馬県気象警報・注意報】群馬県では、土砂災害や竜巻などの激しい突風、落雷、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140605_0_VPWW53_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【群馬県土砂災害警報・注意報】群馬県では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140554_0_VPWW56_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -149,9 +181,46 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-14T13:28:35.000Z",
+      "headline": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
+      "slug": "MutualdefenceThealliance",
+      "time": "2026-08-14T14:19:30.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Mutual defence: The alliances that preceded Turkiye-Pakistan-Saudi pact",
+          "snippet": "The pact says an armed ⁠⁠attack on any one of the ⁠⁠three countries would be ⁠⁠regarded as an ⁠⁠attack against them all.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/14/mutual-defence-the-alliances-that-preceded-turkiye-pakistan-saudi-pact?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
+          "snippet": "Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
+          "snippet": "Thirteen countries have become members of the Saudi-led maritime alliance.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-14T14:33:22.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -160,49 +229,41 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【熊本県気象警報・注意報】注意報を解除します。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【岐阜県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814132836_0_VPWW54_430000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814143324_0_VPWW53_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【熊本県気象警報・注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【岐阜県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814132836_0_VPWW53_430000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814143323_0_VPWW54_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-14T13:25:41.000Z",
+      "headline": "福岡県議会 藏内議長に対する議長職の辞職勧告決議案を提出",
+      "slug": "福岡県議会藏内議長に対する議長職の辞職勧告決議案",
+      "time": "2026-08-14T13:39:18.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
+        "NHK 主要ニュース"
       ],
-      "count": 2,
-      "hasPrimary": true,
+      "count": 1,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福岡県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814132543_0_VPWW54_400000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【福岡県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814132543_0_VPWW53_400000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "福岡県議会 藏内議長に対する議長職の辞職勧告決議案を提出",
+          "snippet": "福岡県議会の議長ポストをめぐり、自民党県議団の幹部に金銭を渡したと証言した吉松源昭議員が、藏内勇夫議長に対する議長職の辞職勧告決議案を提出しました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260814de44162",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -228,9 +289,9 @@
       ]
     },
     {
-      "headline": "横浜 山中市長のパワハラ問題 市議会主要3会派が辞職申し入れ",
-      "slug": "横浜山中市長のパワハラ問題市議会主要3会派が辞職",
-      "time": "2026-08-14T09:55:53.000Z",
+      "headline": "フィリピン大統領 日本との海洋境界交渉“2国間で決める”",
+      "slug": "フィリピン大統領日本との海洋境界交渉2国間で決め",
+      "time": "2026-08-14T13:48:42.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -239,19 +300,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "横浜 山中市長のパワハラ問題 市議会主要3会派が辞職申し入れ",
-          "snippet": "職員への重大なパワハラ行為が認定された横浜市の山中市長に対し、市議会の主要3会派が14日、市長に辞職するよう申し入れました。これに対して山中市長は、支援者の意見を踏まえて進退を判断する意向を示しました…",
+          "title": "フィリピン大統領 日本との海洋境界交渉“2国間で決める”",
+          "snippet": "フィリピンのマルコス大統領は、日本との間で海洋の境界を画定するための交渉をめぐり、中国が対象に台湾の東の海域が含まれるなどとして反発していることについて、「2国間の合意であり、境界線を決めるのは日本と…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260814de44139",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260814de44176",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "関東など 15日にかけ激しい雨注意",
-      "slug": "関東など15日にかけ激しい雨注意",
-      "time": "2026-08-14T10:41:09.000Z",
+      "headline": "千葉県 明け方まで激しい雷雨恐れ",
+      "slug": "千葉県明け方まで激しい雷雨恐れ",
+      "time": "2026-08-14T14:16:26.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -260,10 +321,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "関東など 15日にかけ激しい雨注意",
+          "title": "千葉県 明け方まで激しい雷雨恐れ",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591730?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591752?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -291,9 +352,9 @@
       ]
     },
     {
-      "headline": "福岡県議長の辞職勧告決議案 提出",
-      "slug": "福岡県議長の辞職勧告決議案提出",
-      "time": "2026-08-14T09:45:23.000Z",
+      "headline": "首相が長文投稿 物価高対策を説明",
+      "slug": "首相が長文投稿物価高対策を説明",
+      "time": "2026-08-14T10:15:19.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -302,10 +363,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "福岡県議長の辞職勧告決議案 提出",
+          "title": "首相が長文投稿 物価高対策を説明",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591725?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591728?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "横浜市長に辞職要求 市議会3会派",
+      "slug": "横浜市長に辞職要求市議会3会派",
+      "time": "2026-08-14T14:26:55.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "横浜市長に辞職要求 市議会3会派",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591753?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "エルニーニョ 非常に強くなる恐れ",
+      "slug": "エルニニョ非常に強くなる恐れ",
+      "time": "2026-08-14T14:05:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "エルニーニョ 非常に強くなる恐れ",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591750?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -333,9 +436,9 @@
       ]
     },
     {
-      "headline": "高さ日本一 観覧車8カ月以上停止",
-      "slug": "高さ日本一観覧車8カ月以上停止",
-      "time": "2026-08-14T10:37:47.000Z",
+      "headline": "横浜・織田の初球 甲子園どよめく",
+      "slug": "横浜織田の初球甲子園どよめく",
+      "time": "2026-08-14T13:48:53.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -344,19 +447,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "高さ日本一 観覧車8カ月以上停止",
+          "title": "横浜・織田の初球 甲子園どよめく",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591731?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591751?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "初任給100万円の会社 応募1300人",
-      "slug": "初任給100万円の会社応募1300人",
-      "time": "2026-08-14T08:44:04.000Z",
+      "headline": "ハマ・オカモト 脱退も芸名は継続",
+      "slug": "ハマオカモト脱退も芸名は継続",
+      "time": "2026-08-14T12:26:07.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -365,52 +468,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "初任給100万円の会社 応募1300人",
+          "title": "ハマ・オカモト 脱退も芸名は継続",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591715?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "夏の甲子園 16強を前に公立勢全滅",
-      "slug": "夏の甲子園16強を前に公立勢全滅",
-      "time": "2026-08-14T10:58:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "夏の甲子園 16強を前に公立勢全滅",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591733?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ハマ・オカモト OKAMOTO'S脱退",
-      "slug": "ハマオカモトOKAMOTOS脱退",
-      "time": "2026-08-14T11:20:18.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ハマ・オカモト OKAMOTO'S脱退",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591742?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591745?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -438,8 +499,8 @@
       ]
     },
     {
-      "headline": "プーチン氏、日本配慮に見切り　中国と連携、侵攻遂行の構え―愛国心高める思惑も・専門家",
-      "slug": "プチン氏日本配慮に見切り中国と連携侵攻遂行の構え",
+      "headline": "政府、ロシアに対抗策検討　制裁強化・大使帰国も選択肢―北方領訪問",
+      "slug": "政府ロシアに対抗策検討制裁強化大使帰国も選択肢北",
       "time": "2026-08-14T11:29:00.000Z",
       "independentSources": 1,
       "sources": [
@@ -449,31 +510,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "プーチン氏、日本配慮に見切り　中国と連携、侵攻遂行の構え―愛国心高める思惑も・専門家",
+          "title": "政府、ロシアに対抗策検討　制裁強化・大使帰国も選択肢―北方領訪問",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081400563&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
-      "slug": "浸水し車から出られずと通報車両や路上で死亡相次ぐ",
-      "time": "2026-08-14T10:04:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081400453&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081400955&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -522,6 +562,27 @@
       ]
     },
     {
+      "headline": "プーチン氏、日本配慮に見切り　中国と連携、侵攻遂行の構え―愛国心高める思惑も・専門家",
+      "slug": "プチン氏日本配慮に見切り中国と連携侵攻遂行の構え",
+      "time": "2026-08-14T11:29:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "プーチン氏、日本配慮に見切り　中国と連携、侵攻遂行の構え―愛国心高める思惑も・専門家",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081400563&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "右派党首ファラージ氏勝利　「最もばかげた補選」―英",
       "slug": "右派党首ファラジ氏勝利最もばかげた補選英",
       "time": "2026-08-14T09:13:00.000Z",
@@ -543,9 +604,9 @@
       ]
     },
     {
-      "headline": "政府、ロシアに対抗策検討　制裁強化・大使帰国も選択肢―北方領訪問",
-      "slug": "政府ロシアに対抗策検討制裁強化大使帰国も選択肢北",
-      "time": "2026-08-14T11:29:00.000Z",
+      "headline": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
+      "slug": "浸水し車から出られずと通報車両や路上で死亡相次ぐ",
+      "time": "2026-08-14T10:04:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -554,31 +615,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "政府、ロシアに対抗策検討　制裁強化・大使帰国も選択肢―北方領訪問",
+          "title": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081400955&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "柏が開幕２連勝　Ｊ１",
-      "slug": "柏が開幕連勝",
-      "time": "2026-08-14T12:06:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "柏が開幕２連勝　Ｊ１",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081401006&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081400453&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -606,9 +646,9 @@
       ]
     },
     {
-      "headline": "高市首相、北方領土返還バッジ着用",
-      "slug": "高市首相北方領土返還バッジ着用",
-      "time": "2026-08-14T07:33:00.000Z",
+      "headline": "柏が開幕２連勝　Ｊ１",
+      "slug": "柏が開幕連勝",
+      "time": "2026-08-14T12:06:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -617,10 +657,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "高市首相、北方領土返還バッジ着用",
+          "title": "柏が開幕２連勝　Ｊ１",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081400770&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081401006&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "田中、勝利導く輝き　最終盤に決勝点―バスケット女子日本代表",
+      "slug": "田中勝利導く輝き最終盤に決勝点バスケット女子日本",
+      "time": "2026-08-14T13:46:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "田中、勝利導く輝き　最終盤に決勝点―バスケット女子日本代表",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081401039&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -629,7 +690,7 @@
     {
       "headline": "震源・震度に関する情報",
       "slug": "震源震度に関する情報",
-      "time": "2026-08-14T13:23:10.000Z",
+      "time": "2026-08-14T14:16:24.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -639,30 +700,9 @@
       "members": [
         {
           "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１４日２２時２０分ころ、地震がありました。",
+          "snippet": "【震源・震度情報】１４日２３時１３分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814132310_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "推定噴煙流向報",
-      "slug": "推定噴煙流向報",
-      "time": "2026-08-14T12:07:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "推定噴煙流向報",
-          "snippet": "【桜島　推定噴煙流向報】",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814120720_0_VFVO60_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814141624_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -671,7 +711,7 @@
     {
       "headline": "噴火に関する火山観測報",
       "slug": "噴火に関する火山観測報",
-      "time": "2026-08-14T12:06:46.000Z",
+      "time": "2026-08-14T14:00:36.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -681,9 +721,9 @@
       "members": [
         {
           "title": "噴火に関する火山観測報",
-          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月14日21時00分(141200UTC)\n現　　象：連続噴火継続",
+          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月14日22時20分(141320UTC)\n現　　象：連続噴火停止",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814120647_0_VFVO52_400000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140036_0_VFVO52_400000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -692,7 +732,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-14T11:00:00.000Z",
+      "time": "2026-08-14T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -702,9 +742,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１４日２１時から２４時までは火口から北西方向、１５日０９時から１２時までは火口から北西方向に降灰が予想され",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814110052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140042_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -713,7 +753,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-14T11:00:00.000Z",
+      "time": "2026-08-14T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -723,9 +763,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１４日２１時から２４時までは火口から北西方向、１５日０９時から１２時までは火口から北西方",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814110055_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140049_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -734,7 +774,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-14T11:00:00.000Z",
+      "time": "2026-08-14T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -744,9 +784,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１４日２１時から２４時までは火口から北東方向、１５日０９時から１２時までは火口から北方向に降灰が予想されます。",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814110030_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140052_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -755,7 +795,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-14T11:00:00.000Z",
+      "time": "2026-08-14T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -765,9 +805,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１４日２１時から２４時までは火口から北方向、１５日０９時から１２時までは火口から北方向に降灰が予想されます。",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814110034_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140056_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -776,7 +816,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-14T11:00:00.000Z",
+      "time": "2026-08-14T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -786,9 +826,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル３（入山規制）です。阿蘇山で噴火が発生した場合には、１４日２１時から２４時までは火口から北方向、１５日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814110037_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -797,7 +837,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-14T11:00:00.000Z",
+      "time": "2026-08-14T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -807,9 +847,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１４日２１時から２４時までは火口から北西方向、１５日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル３（入山規制）です。阿蘇山で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814110041_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140037_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -818,7 +858,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-14T11:00:00.000Z",
+      "time": "2026-08-14T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -828,18 +868,39 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１４日２１時から２４時までは火口から北西方向、１５日０９時から１２時までは火口から北西方向に降灰が予想され",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１５日０９時から１２時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814110045_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-14T13:36:21.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-14T14:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１５日０９時から１２時までは火口から北方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814140034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-14T14:33:14.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -848,73 +909,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【埼玉県大雨警報・注意報】南部、北部では、低い土地の浸水や河川の増水に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【岐阜県雷注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814133622_0_VPWW55_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-14T13:28:28.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【熊本県土砂災害警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814132829_0_VPWW56_430000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-14T13:25:36.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【福岡県土砂災害警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814132537_0_VPWW56_400000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-14T13:07:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】長野県では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814130731_0_VPWW53_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814143314_0_VPWW61_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1005,27 +1003,6 @@
       ]
     },
     {
-      "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "slug": "ConditionsonUSaircraftca",
-      "time": "2026-08-13T23:06:23.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-          "snippet": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some cons",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Stolen Matisse artworks recovered by police in Brazil",
       "slug": "StolenMatisseartworksrec",
       "time": "2026-08-14T10:55:39.000Z",
@@ -1068,6 +1045,27 @@
       ]
     },
     {
+      "headline": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "slug": "ConditionsonUSaircraftca",
+      "time": "2026-08-13T23:06:23.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+          "snippet": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some cons",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
       "slug": "EnginepartssmashedRyanai",
       "time": "2026-08-13T21:43:47.000Z",
@@ -1089,27 +1087,6 @@
       ]
     },
     {
-      "headline": "Pakistan PM’s ‘red line’ warning to India over water treaty",
-      "slug": "PakistanPMsredlinewarnin",
-      "time": "2026-08-14T13:07:19.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Pakistan PM’s ‘red line’ warning to India over water treaty",
-          "snippet": "Pakistan Prime Minister Shehbaz Sharif accused India of illegally suspending the Indus Waters Treaty.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-clip-pakistan-warns-india-over-indus-pk?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Russia stance will be defended in court, pledges World Athletics chief Coe",
       "slug": "Russiastancewillbedefend",
       "time": "2026-08-14T13:04:23.000Z",
@@ -1125,27 +1102,6 @@
           "snippet": "Russian Athletics has lodged new claim at Court of Arbitration for Sport to challenge sanctions, but WA will fight it.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/sports/2026/8/14/russia-stance-will-be-defended-in-court-pledges-world-athletics-chief-coe?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
-      "slug": "SaudiArabiaannouncesstar",
-      "time": "2026-08-14T12:45:11.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Saudi Arabia announces start of Red Sea defence alliance: Will it work?",
-          "snippet": "Thirteen countries have become members of the Saudi-led maritime alliance.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/14/saudi-arabia-announces-start-of-red-sea-defence-alliance-will-it-work?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1188,27 +1144,6 @@
           "snippet": "The Israeli PM&#039;s remark comes amid signs of growing tension between Israel and the UK&#039;s Labour government.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/14/israeli-pm-netanyahu-calls-uk-the-islamic-republic-of?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-      "slug": "ManCitytightlippedonRodr",
-      "time": "2026-08-14T11:18:22.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
-          "snippet": "Manchester City&#039;s Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsena",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
