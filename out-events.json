@@ -1,20 +1,38 @@
 {
-  "rankedAt": "2026-08-14T23:24:55.079Z",
+  "rankedAt": "2026-08-14T23:47:03.507Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "中国軍との台湾沖訓練が波紋　「戦闘でない」と釈明―インドネシア",
-      "slug": "中国軍との台湾沖訓練が波紋戦闘でないと釈明インド",
+      "headline": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
+      "slug": "浸水し車から出られずと通報車両や路上で死亡相次ぐ",
       "time": "2026-08-14T23:16:02.000Z",
-      "independentSources": 3,
+      "independentSources": 5,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "気象庁 地震・火山"
+        "気象庁 地震・火山",
+        "気象庁 気象警報・注意報"
       ],
-      "count": 5,
+      "count": 18,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "【千葉 記録的豪雨】8人死亡 建物被害さらに増える可能性",
+          "snippet": "13日の夕方以降、線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、車が水没するなどしてこれまでに8人の死亡が確認されたほか、建物への浸水被害も相次いでいます。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44198",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
+          "snippet": "関東甲信は15日も大気の不安定な状態が続き、局地的に激しい雨が降るおそれがあります。豪雨による被害が相次いだ千葉県では、大雨のピークは過ぎましたが、ふだんより少ない雨量でも土砂災害の危険度が高まるおそ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44212",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "インドネシアでM7.7の地震 日本への津波の影響なし",
           "snippet": "アメリカの地質調査所から気象庁に入った連絡によりますと、日本時間の15日午前6時58分ごろ、インドネシアのフローレス付近を震源とするマグニチュード7.7の大きな地震がありました。\n\n気象庁によりますと…",
@@ -32,10 +50,34 @@
           "linkKind": "article"
         },
         {
+          "title": "コロンビア地震 1万超の住宅破壊　家失った人の支援も課題に",
+          "snippet": "南米コロンビアで発生したマグニチュード7.4の地震では1万3000を超える住宅が破壊され、現地では、倒壊した建物などに取り残された人たちの救助活動に加え、家を失った人たちへの支援も課題となっています。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44213",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "インドネシア付近でM7.7の地震",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591768?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
           "title": "中国軍との台湾沖訓練が波紋　「戦闘でない」と釈明―インドネシア",
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081400643&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081400453&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -54,36 +96,6 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260814223138_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
-      "slug": "関東甲信大気不安定千葉で大雨ピク過ぎるも地盤緩み",
-      "time": "2026-08-14T23:13:08.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 10,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "【千葉 記録的豪雨】8人死亡 建物被害さらに増える可能性",
-          "snippet": "13日の夕方以降、線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、車が水没するなどしてこれまでに8人の死亡が確認されたほか、建物への浸水被害も相次いでいます。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44198",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
-          "snippet": "関東甲信は15日も大気の不安定な状態が続き、局地的に激しい雨が降るおそれがあります。豪雨による被害が相次いだ千葉県では、大雨のピークは過ぎましたが、ふだんより少ない雨量でも土砂災害の危険度が高まるおそ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44212",
-          "ty": "press",
-          "linkKind": "article"
         },
         {
           "title": "地方気象情報",
@@ -148,6 +160,36 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260814225334_0_VPWW53_140000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+      "slug": "Buildersunearth9mgoldsta",
+      "time": "2026-08-14T22:09:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "壁の中から金貨４０００枚　金塊４０本超も、価値１６億円か―ベルギー",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500172&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
+          "snippet": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -342,21 +384,21 @@
       ]
     },
     {
-      "headline": "ウクライナ高官「北朝鮮とロシアの軍事協力拡大」日本に警鐘",
-      "slug": "ウクライナ高官北朝鮮とロシアの軍事協力拡大日本に",
-      "time": "2026-08-14T21:29:09.000Z",
+      "headline": "駅長かなわず戦死 父の無念思う娘",
+      "slug": "駅長かなわず戦死父の無念思う娘",
+      "time": "2026-08-14T23:31:53.000Z",
       "independentSources": 1,
       "sources": [
-        "NHK 主要ニュース"
+        "Yahoo!ニュース 主要"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "ウクライナ高官「北朝鮮とロシアの軍事協力拡大」日本に警鐘",
-          "snippet": "ウクライナ国防省で情報分析を行う部門の高官は「北朝鮮とロシアの軍事協力が、この数か月でさらに拡大している」とした上で「日本にとっても問題だ」と警鐘を鳴らしています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44201",
+          "title": "駅長かなわず戦死 父の無念思う娘",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591771?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -468,27 +510,6 @@
       ]
     },
     {
-      "headline": "インドネシア付近でM7.7の地震",
-      "slug": "インドネシア付近でM77の地震",
-      "time": "2026-08-14T22:59:18.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "インドネシア付近でM7.7の地震",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591768?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "ニコニコ動画 有料会員90万人割れ",
       "slug": "ニコニコ動画有料会員90万人割れ",
       "time": "2026-08-14T23:12:06.000Z",
@@ -504,27 +525,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591769?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "村上宗隆 熊本に1千万円を寄付へ",
-      "slug": "村上宗隆熊本に1千万円を寄付へ",
-      "time": "2026-08-14T22:20:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "村上宗隆 熊本に1千万円を寄付へ",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591759?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -588,27 +588,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081400615&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "壁の中から金貨４０００枚　金塊４０本超も、価値１６億円か―ベルギー",
-      "slug": "壁の中から金貨枚金塊本超も価値億円かベルギ",
-      "time": "2026-08-14T22:09:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "壁の中から金貨４０００枚　金塊４０本超も、価値１６億円か―ベルギー",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500172&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -693,27 +672,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081400642&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
-      "slug": "浸水し車から出られずと通報車両や路上で死亡相次ぐ",
-      "time": "2026-08-14T10:04:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081400453&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1008,27 +966,6 @@
           "snippet": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-      "slug": "Buildersunearth9mgoldsta",
-      "time": "2026-08-14T13:18:08.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-          "snippet": "Construction workers found the stash in the walls of a cellar while drilling to lay sewage pipes.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
