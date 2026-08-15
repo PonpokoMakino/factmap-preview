@@ -1,19 +1,18 @@
 {
-  "rankedAt": "2026-08-15T19:31:14.023Z",
+  "rankedAt": "2026-08-15T19:51:59.742Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "slug": "Powerfulmagnitude77earth",
+      "headline": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3205人が避難",
+      "slug": "熊本地震災害関連死の疑い含め39人死亡避難所に3",
       "time": "2026-08-15T14:41:32.000Z",
-      "independentSources": 4,
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World"
+        "時事ドットコム"
       ],
-      "count": 6,
+      "count": 5,
       "hasPrimary": false,
       "members": [
         {
@@ -53,14 +52,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081400643&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-          "snippet": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -183,14 +174,22 @@
     {
       "headline": "震源・震度に関する情報",
       "slug": "震源震度に関する情報",
-      "time": "2026-08-15T19:28:05.000Z",
+      "time": "2026-08-15T19:39:21.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
       ],
-      "count": 2,
+      "count": 3,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１６日０４時３３分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193922_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
         {
           "title": "震源・震度に関する情報",
           "snippet": "【震源・震度情報】１６日０４時２５分ころ、地震がありました。",
@@ -210,9 +209,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-15T19:27:31.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-15T19:38:50.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -221,27 +220,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【千葉県気象警報・注意報】北西部では、土砂災害に注意してください。千葉県では、濃霧による視程障害に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【富山県気象警報・注意報】富山県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815192732_0_VPWW54_120000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193851_0_VPWW53_160000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【千葉県気象警報・注意報】北西部では、土砂災害に注意してください。千葉県では、濃霧による視程障害に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【富山県気象警報・注意報】富山県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815192732_0_VPWW53_120000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193851_0_VPWW54_160000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-15T19:12:49.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-15T19:38:20.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -250,27 +249,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【秋田県気象警報・注意報】秋田県では、濃霧による視程障害と、空気の乾燥した状態が続くため火の取り扱いに注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【新潟県気象警報・注意報】上越では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815191250_0_VPWW54_050000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193821_0_VPWW53_150000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【秋田県気象警報・注意報】秋田県では、濃霧による視程障害と、空気の乾燥した状態が続くため火の取り扱いに注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【新潟県気象警報・注意報】上越では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815191250_0_VPWW53_050000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193820_0_VPWW54_150000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-15T19:11:37.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-15T19:33:54.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -279,18 +278,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】注意報を解除します。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【兵庫県気象警報・注意報】南部では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815191138_0_VPWW54_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193356_0_VPWW53_280000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【東京都気象警報・注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【兵庫県気象警報・注意報】南部では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815191138_0_VPWW53_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193356_0_VPWW54_280000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -809,51 +808,9 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-15T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１６日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815170045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-15T19:27:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【千葉県土砂災害警報・注意報】北西部では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815192730_0_VPWW56_120000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-15T19:12:47.000Z",
+      "time": "2026-08-15T19:38:46.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -863,18 +820,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【秋田県濃霧・乾燥注意報】秋田県では、濃霧による視程障害と、空気の乾燥した状態が続くため火の取り扱いに注意してください。",
+          "snippet": "【富山県雷注意報】富山県では、急な強い雨や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815191247_0_VPWW61_050000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193846_0_VPWW61_160000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-15T19:11:34.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-15T19:38:13.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -883,10 +840,31 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【東京都土砂災害警報・注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【新潟県雷注意報】上越では、急な強い雨や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815191135_0_VPWW56_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193813_0_VPWW61_150000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-15T19:33:54.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【兵庫県大雨警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193354_0_VPWW55_280000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -895,7 +873,7 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-15T19:11:06.000Z",
+      "time": "2026-08-15T19:31:31.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -905,18 +883,18 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【埼玉県気象警報・注意報】南部、北部では、土砂災害に注意してください。秩父地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【石川県気象警報・注意報】石川県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815191108_0_VPWW53_110000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815193132_0_VPWW53_170000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "slug": "ElevenkilledinIsraelistr",
-      "time": "2026-08-15T16:02:49.000Z",
+      "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "slug": "Powerfulmagnitude77earth",
+      "time": "2026-08-15T13:35:57.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -925,10 +903,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "snippet": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier actio",
+          "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+          "snippet": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -956,9 +934,9 @@
       ]
     },
     {
-      "headline": "South Korea proposes talks to officially end war with North",
-      "slug": "SouthKoreaproposestalkst",
-      "time": "2026-08-15T14:40:15.000Z",
+      "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+      "slug": "ElevenkilledinIsraelistr",
+      "time": "2026-08-15T16:02:49.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -967,10 +945,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "South Korea proposes talks to officially end war with North",
-          "snippet": "Lee Jae Myung offers chance to end the conflict, which has been frozen since an armistice in 1953.",
+          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+          "snippet": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier actio",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Liechtenstein changes succession rule to allow women to ascend the throne",
+      "slug": "Liechtensteinchangessucc",
+      "time": "2026-08-15T19:41:57.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
+          "snippet": "The declaration was made on the national day of the central European country, which has a population of just 44,000.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -979,7 +978,7 @@
     {
       "headline": "Multiple suspects at large after five shot at Virginia State University, police say",
       "slug": "Multiplesuspectsatlargea",
-      "time": "2026-08-15T17:42:36.000Z",
+      "time": "2026-08-15T19:34:22.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
