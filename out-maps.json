@@ -1,19 +1,22 @@
 {
-  "builtAt": "2026-08-15T07:29:20.945Z",
+  "builtAt": "2026-08-15T13:15:24.730Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-      "slug": "Atleast14deadafter77magn",
-      "independentSources": 5,
+      "headline": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+      "slug": "Powerfulmagnitude77earth",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44255"
+        },
         {
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260815de44248"
@@ -23,16 +26,8 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260815de44208"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591827?source=rss"
-        },
-        {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081500208&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081400643&g=int&m=rss"
         },
         {
           "source": "BBC World",
@@ -40,15 +35,15 @@
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/aftermath-of-deadly-indonesia-earthquake?traffic_source=rss"
         }
       ],
-      "issue": "熊本地震における死者数と避難者数は、災害関連死を含めて39人、3223人か？",
+      "issue": "熊本地震における被害状況と、インドネシアでの地震被害は関連があるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "熊本地震で、15日午前8時の時点で、災害関連死の疑いがある人を含めて39人が死亡した。",
-          "span": "災害関連死の疑いがある人などを含めて39人が死亡し",
+          "t": "熊本県八代市で、地表に断層が現れたとみられる瞬間の映像が防犯カメラに記録された。",
+          "span": "地表断層出現の瞬間か 熊本 八代の防犯カメラに地表のずれ写る",
           "src": [
             {
               "ty": "press",
@@ -57,8 +52,8 @@
           ]
         },
         {
-          "t": "熊本県内の避難所には3223人が避難している。",
-          "span": "避難所には3223人が避難しています",
+          "t": "専門家は、断層がずれ動く様子が記録された貴重な映像だと指摘している。",
+          "span": "専門家は断層がずれ動く様子が記録された貴重な映像だとした上で",
           "src": [
             {
               "ty": "press",
@@ -67,8 +62,8 @@
           ]
         },
         {
-          "t": "熊本県では15日も厳しい暑さとなっている。",
-          "span": "15日も厳しい暑さとなっていて",
+          "t": "熊本地震で、15日午後2時の時点で災害関連死の疑いを含め39人が死亡した。",
+          "span": "災害関連死の疑い含め39人死亡",
           "src": [
             {
               "ty": "press",
@@ -77,8 +72,8 @@
           ]
         },
         {
-          "t": "活発な地震活動が続いており、気象庁は1か月ほどは最大震度5弱程度以上の地震に注意を呼びかけている。",
-          "span": "活発な地震活動が続き、気象庁は1か月ほどは最大震度5弱程度以上の地震に注意するよ",
+          "t": "熊本県内の避難所には3205人が避難している。",
+          "span": "避難所に3205人が避難",
           "src": [
             {
               "ty": "press",
@@ -87,18 +82,28 @@
           ]
         },
         {
-          "t": "インドネシア東部で地震が発生し、20人が死亡した。",
-          "span": "インドネシア東部で地震 20人死亡",
+          "t": "熊本県では活発な地震活動が続いており、気象庁は1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけている。",
+          "span": "活発な地震活動 厳しい暑さ続く見込み 熱中症対策を",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "インドネシアでマグニチュード7.7の地震が発生し、5人が死亡した。",
-          "span": "インドネシアでＭ７．７の地震、５人死亡",
+          "t": "熊本県では今後も厳しい暑さが続く見込みである。",
+          "span": "この先も厳しい暑さが続く見込みで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアでマグニチュード7.7の地震が発生し、38人が死亡した。",
+          "span": "インドネシアでＭ７．７の地震、３８人死亡",
           "src": [
             {
               "ty": "press",
@@ -107,8 +112,8 @@
           ]
         },
         {
-          "t": "インドネシアで1メートル弱の津波が観測された。",
-          "span": "１メートル弱の津波観測",
+          "t": "インドネシアでの地震では、94センチの津波が観測された。",
+          "span": "９４センチの津波観測",
           "src": [
             {
               "ty": "press",
@@ -117,8 +122,8 @@
           ]
         },
         {
-          "t": "インドネシア東部でマグニチュード7.7の地震が発生し、少なくとも14人が死亡した。",
-          "span": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+          "t": "インドネシアのフローレス島沖でマグニチュード7.7の地震が発生し、少なくとも38人が死亡した。",
+          "span": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
           "src": [
             {
               "ty": "press",
@@ -127,331 +132,119 @@
           ]
         },
         {
-          "t": "インドネシア東部でマグニチュード7.7の地震が発生し、少なくとも5人が死亡した。",
-          "span": "killing at least five people",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "地震は土曜日の早朝に発生した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "地震は同国の東部、フローレス島沖で発生した。",
-          "span": "off Flores island in the country's east",
+          "t": "インドネシアのフローレス島では、生存者を探すための捜索救助活動が行われている。",
+          "span": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアのフローレス島沖で発生したマグニチュード7.7の地震により、数十人が死亡した。",
+          "span": "Dozens of people have been killed after a 7.7-magnitude earthquake off Indonesia’s Flores Island.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "熊本地震では、15日午前8時の時点で災害関連死の疑いを含め39人が死亡し、3223人が避難所に避難している。インドネシア東部ではマグニチュード7.7の地震が発生し、死者数については20人、5人、14人など複数の報道がある。また、1メートル弱の津波が観測された。中国軍は台湾沖訓練について「戦闘ではない」と釈明した。",
-      "note": "インドネシアの地震による死者数について、複数の報道機関で異なる数字が報じられている。",
+      "consensus": "熊本地震で地表断層出現の瞬間とされる映像が確認され、災害関連死を含め39人が死亡、3205人が避難している。また、インドネシアでマグニチュード7.7の地震が発生し、38人が死亡、94センチの津波が観測された。両地震の関連性については言及されていない。",
+      "note": "インドネシアの地震に関する報道は、BBC WorldとAl Jazeeraで内容が重複しているため、事実として統合した。",
       "audit": {
         "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「early Saturday mor…」"
-        ]
+        "issues": []
       }
     },
     {
-      "headline": "「３１０万人の死、思い出して」　最高齢９８歳、兄が戦死―平和希求し参列・終戦記念日",
-      "slug": "万人の死思い出して最高齢歳兄が戦死平和希求し参列",
-      "independentSources": 3,
+      "headline": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "slug": "AfghanwomentelltheBBCthe",
+      "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260814de44171"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44238"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44247"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591823?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500280&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500281&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500181&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500098&g=soc&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss"
         }
       ],
-      "issue": "終戦の日に際し、政府関係者の靖国神社参拝や追悼式のあり方は適切か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "タリバン政権下のアフガニスタンの現状と課題は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "終戦から81年となる15日に、政府主催の全国戦没者追悼式が東京都内で行われ、およそ310万人の戦没者を慰霊した。",
-          "span": "都内ではおよそ310万人の戦没者を慰霊する政府主催の全国戦没者追悼式が行われました",
+          "t": "タリバン政権下で、女性たちは公での鞭打ちや失業、生命を脅かす医療への障壁を経験しているとBBCに語っている。",
+          "span": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "終戦の日の15日、小泉防衛大臣ら高市内閣の閣僚4人が靖国神社に参拝した。",
-          "span": "小泉防衛大臣ら高市内閣の4人の閣僚が靖国神社に参拝しました",
+          "t": "タリバン政権下で、武装した反対勢力が活動を続けていると国連は述べている。",
+          "span": "The United Nations says armed groups opposed to the government remain active.",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "高市総理大臣は15日の靖国神社参拝を見送り、自民党の鈴木幹事長を通じて党総裁として私費で玉串料を納めた。",
-          "span": "高市総理大臣は、15日の参拝を見送ることにしていて、自民党の鈴木幹事長を通じて党総裁として私費で玉串料を納めました",
+          "t": "旧アフガニスタン政府の崩壊後、数千人のアフガニスタン人が国外、多くはヨーロッパへ逃れることを余儀なくされた。",
+          "span": "With the fall of the former government in Kabul, thousands of Afghans were forced to flee the country, many to Europe.",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "終戦の日の15日、超党派の議員連盟メンバー89人が靖国神社に参拝した。",
-          "span": "超党派の議員連盟のメンバー89人がそろって靖国神社に参拝しました",
+          "t": "タリバン政権は治安と安定をもたらしたが、国民の疎外が進んでいる。",
+          "span": "The Taliban government brought security and stability but is facing increasing alienation of the general population.",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市内閣からは、小野田経済安全保障担当大臣も靖国神社に参拝した。",
-          "span": "高市内閣からは、小野田経済安全保障担当大臣も参拝しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "戦死した兄を追悼するため、98歳が終戦記念日に追悼式に参列した。",
-          "span": "戦死の兄のため 追悼式参列の98歳",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "高市首相は終戦記念日の式辞で「反省」という言葉を避け、戦争の主体を曖昧にした。",
-          "span": "高市首相「反省」再封印　初の式辞、戦争主体曖昧に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "超党派の議員約90人が靖国神社に参拝した。",
-          "span": "超党派約９０人が靖国参拝",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "高市首相は靖国神社参拝を見送り、小泉氏らは参拝した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "最高齢98歳は、戦死した兄を思い出し、平和を希求して終戦記念日に参列した。",
-          "span": "「３１０万人の死、思い出して」　最高齢９８歳、兄が戦死―平和希求し参列・終戦記念日",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
-      "positions": [
-        {
-          "actor": "小泉防衛大臣ら閣僚4人",
-          "stance": "support",
-          "claim": "靖国神社に参拝した",
-          "span": "靖国神社に参拝しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "高市総理大臣",
-          "stance": "neutral",
-          "claim": "靖国神社への参拝を見送った",
-          "span": "参拝を見送ることにしていて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "高市総理大臣",
-          "stance": "support",
-          "claim": "党総裁として私費で玉串料を納めた",
-          "span": "党総裁として私費で玉串料を納めました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "超党派の議員連盟メンバー",
-          "stance": "support",
-          "claim": "靖国神社に参拝した",
-          "span": "そろって靖国神社に参拝しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "小野田経済安全保障担当大臣",
-          "stance": "support",
-          "claim": "靖国神社に参拝した",
-          "span": "参拝しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "高市首相",
-          "stance": "attack",
-          "claim": "式辞で「反省」という言葉を避け、戦争の主体を曖昧にした",
-          "span": "「反省」再封印　初の式辞、戦争主体曖昧に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "超党派議員約90人",
-          "stance": "support",
-          "claim": "靖国神社に参拝した",
-          "span": "超党派約９０人が靖国参拝",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "高市首相",
-          "stance": "neutral",
-          "claim": "靖国参拝を見送った",
-          "span": "高市首相、靖国参拝見送り",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "小泉氏ら",
-          "stance": "support",
-          "claim": "靖国神社に参拝した",
-          "span": "小泉氏ら参拝",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "最高齢98歳",
-          "stance": "support",
-          "claim": "平和を希求し、終戦記念日に参列した",
-          "span": "平和希求し参列・終戦記念日",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "consensus": "終戦の日である15日に、政府主催の全国戦没者追悼式が行われ、およそ310万人の戦没者が慰霊された。同日、小泉防衛相ら閣僚4名、超党派の議員89名が靖国神社に参拝した。高市首相は参拝を見送ったが、私費で玉串料を納めた。評価は割れる。",
-      "note": "プライバシー配慮のため、追悼式参列者の詳細な個人情報は含めない。98歳の発言は、平和希求の意図を強調する形で記述。",
+      "positions": [],
+      "consensus": "タリバン政権下のアフガニスタンでは、女性の権利や医療へのアクセスに課題があり、武装勢力が活動を続け、国民の疎外が進んでいるという事実は合意されている。しかし、これらの状況に対する評価や将来の見通しについては、報道内容からは明確な合意は示されていない。",
+      "note": "プライバシーに配慮し、個別の被害者や容疑者の特定につながる情報は含んでいない。",
       "audit": {
         "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「高市首相、靖国参拝見送り　小泉氏ら参…」"
-        ]
+        "issues": []
       }
     },
     {
-      "headline": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
-      "slug": "関東甲信大気不安定千葉で大雨ピク過ぎるも地盤緩み",
+      "headline": "【千葉豪雨】この雨で死亡した人9人に 住宅被害も相次ぐ",
+      "slug": "千葉豪雨この雨で死亡した人9人に住宅被害も相次ぐ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
@@ -460,39 +253,19 @@
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44212"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44290"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815072646_0_VPWW54_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815072646_0_VPWW53_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815072635_0_VPWW56_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815072518_0_VPWW54_200000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815072518_0_VPWW53_200000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815072508_0_VPWW56_200000.xml"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591863?source=rss"
         }
       ],
-      "issue": "千葉県における豪雨被害の状況と今後の注意点は何か？",
+      "issue": "千葉県での豪雨による死者数は9人となったか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "千葉県で記録的な豪雨が発生し、8人の死亡が確認された。",
-          "span": "8人死亡確認",
+          "t": "13日の夕方以降、線状降水帯が相次いで発生し、記録的な豪雨となった千葉県で、新たに1人の死亡が確認され、この雨による死者は9人となった。",
+          "span": "この雨で死亡した人9人に",
           "src": [
             {
               "ty": "press",
@@ -501,8 +274,8 @@
           ]
         },
         {
-          "t": "豪雨により、車が水没するなどして建物への浸水被害も相次いだ。",
-          "span": "車が水没するなどしてこれまでに8人の死亡が確認されたほか、建物への浸水被害も相次いでいます",
+          "t": "この豪雨により、1人が行方不明となっている。",
+          "span": "1人が行方不明となっています",
           "src": [
             {
               "ty": "press",
@@ -511,8 +284,8 @@
           ]
         },
         {
-          "t": "13日の夕方以降、線状降水帯が相次いで発生した。",
-          "span": "13日の夕方以降、線状降水帯が相次いで発生し",
+          "t": "住宅被害も相次いでいる。",
+          "span": "住宅被害も相次ぐ",
           "src": [
             {
               "ty": "press",
@@ -521,164 +294,96 @@
           ]
         },
         {
-          "t": "関東甲信では15日も大気の不安定な状態が続き、局地的に激しい雨が降るおそれがある。",
-          "span": "関東甲信は15日も大気の不安定な状態が続き、局地的に激しい雨が降るおそれがあります",
+          "t": "千葉県は、豪雨による死者が9人になったと発表した。",
+          "span": "千葉豪雨の死者は9人に 県が発表",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "千葉県では大雨のピークは過ぎたが、地盤が緩んでおり、土砂災害の危険度が高まっている。",
-          "span": "大雨のピークは過ぎましたが、ふだんより少ない雨量でも土砂災害の危険度が高まるおそ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "千葉県では土砂災害や濃霧による視程障害に注意が必要である。",
-          "span": "千葉県では、土砂災害や濃霧による視程障害に注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "長野県中部、南部では土砂災害に注意が必要である。",
-          "span": "中部、南部では、土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "長野県南部では低い土地の浸水に注意が必要である。",
-          "span": "南部では、低い土地の浸水に注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "長野県では落雷に注意が必要である。",
-          "span": "長野県では、落雷に注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "長野県中部では濃霧による視程障害に注意が必要である。",
-          "span": "中部では、濃霧による視程障害に注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "千葉県では記録的な豪雨により8人の死亡が確認され、建物への浸水被害も相次いでいる。大雨のピークは過ぎたものの、地盤の緩みなどから土砂災害の危険度が高まっており、土砂災害や濃霧による視程障害に注意が必要である。長野県でも土砂災害、低い土地の浸水、落雷、濃霧による視程障害に注意が必要である。",
-      "note": "プライバシー配慮のため、被害者の個人情報は含んでいない。",
+      "consensus": "千葉県では記録的な豪雨により、死者が9人となり、1人が行方不明となっている。住宅被害も相次いでいる。",
+      "note": "熊谷知事は激甚災害指定を求めているが、これは政策提言であり、事実の有無に関する争点ではないため、issue は事実確認とした。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Builders unearth €9m gold stash sealed in walls of Belgian property",
-      "slug": "Buildersunearth9mgoldsta",
+      "headline": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送り",
+      "slug": "小泉防衛相ら4閣僚が靖国神社参拝高市首相は見送り",
       "independentSources": 2,
       "sources": [
-        "時事ドットコム",
-        "BBC World"
+        "NHK 主要ニュース",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500172&g=int&m=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44238"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5ydzg0dnz7o?at_medium=RSS&at_campaign=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500334&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500335&g=pol&m=rss"
         }
       ],
-      "issue": "ベルギーで発見された大量の金の概要は何か？",
-      "stasis": "事実",
+      "issue": "閣僚による靖国神社参拝は妥当か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "ベルギーの建物壁内から金貨約4000枚と金塊40本以上が発見された。",
-          "span": "金貨４０００枚　金塊４０本超も",
+          "t": "「終戦の日」である8月15日に、小泉防衛大臣を含む4人の閣僚が靖国神社に参拝した。",
+          "span": "「終戦の日」の15日、小泉防衛大臣ら高市内閣の4人の閣僚が靖国神社に参拝しました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は靖国神社への参拝を見送った。",
+          "span": "高市総理大臣は参拝を見送り",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、自民党の鈴木幹事長を通じて、党総裁として私費で玉串料を納めた。",
+          "span": "自民党の鈴木幹事長を通じて党総裁として私費で玉串料を納めました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市首相は靖国神社に向かって遙拝した。",
+          "span": "高市首相は靖国神社に向かって遙拝した",
           "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ベルギーの建物の壁の中から金が発見された。",
-          "span": "sealed in walls",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "建設作業員が下水管敷設のための掘削中に金を発見した。",
-          "span": "drilling to lay sewage pipes",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "発見された金の価値は16億円と推定されている。",
-          "span": "価値１６億円か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "発見された金の価値は900万ユーロと推定されている。",
-          "span": "€9m",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ベルギーの建物壁内から金貨約4000枚と金塊40本以上が発見され、その価値は16億円または900万ユーロと推定されている。この発見は建設作業員が下水管敷設中に偶然見つけたものであり、評価は割れない。",
-      "note": "",
+      "consensus": "「終戦の日」に小泉防衛相ら4閣僚が靖国神社に参拝し、高市首相は参拝を見送って玉串料を納めた。高市首相は遙拝も行った。評価は割れる。",
+      "note": "本件は、閣僚の靖国神社参拝という政治的・外交的にデリケートな問題に関する報道であり、参拝の是非やその影響に関する評価は記事中に明示されていないため、争点を「妥当か？」とし、各閣僚の行動を事実として抽出した。高市首相の行動は「参拝を見送り、玉串料を納めた」と「遙拝した」という二つの側面から記述されているが、これらは同一人物の行動であり、一連の行動として捉え、中立的な記述とした。stanceは、参拝した閣僚をsupport、参拝を見送った高市首相をneutralとした。高市首相の遙拝は、参拝とは異なる行動として事実として抽出したが、stanceとしては参拝を見送ったという行動に準ずるものとしてneutralとした。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[3].t: 複数の情報源からの推定価値を一つのtにまとめていたため、spanとsrcが示す情報のみを反映するように修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
