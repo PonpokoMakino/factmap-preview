@@ -1,67 +1,74 @@
 {
-  "rankedAt": "2026-08-15T00:23:25.814Z",
+  "rankedAt": "2026-08-15T01:56:11.194Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "中国軍との台湾沖訓練が波紋　「戦闘でない」と釈明―インドネシア",
-      "slug": "中国軍との台湾沖訓練が波紋戦闘でないと釈明インド",
-      "time": "2026-08-14T23:16:02.000Z",
-      "independentSources": 4,
+      "headline": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
+      "slug": "浸水し車から出られずと通報車両や路上で死亡相次ぐ",
+      "time": "2026-08-15T01:40:31.000Z",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "気象庁 地震・火山"
+        "気象庁 気象警報・注意報"
       ],
-      "count": 5,
+      "count": 6,
       "hasPrimary": true,
       "members": [
         {
-          "title": "インドネシアでM7.7の地震 日本への津波の影響なし",
-          "snippet": "アメリカの地質調査所から気象庁に入った連絡によりますと、日本時間の15日午前6時58分ごろ、インドネシアのフローレス付近を震源とするマグニチュード7.7の大きな地震がありました。\n\n気象庁によりますと…",
+          "title": "千葉 記録的豪雨 8人死亡 建物被害増える可能性【上空映像】",
+          "snippet": "13日の夕方以降、線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、車が水没するなどしてこれまでに8人の死亡が確認されたほか、建物への浸水被害も相次いでいます。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44197",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44198",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "熊本地震 地震活動は依然活発 15日も厳しい暑さ",
-          "snippet": "先月、最大震度7の地震で大きな被害があった熊本県では、依然として活発な地震活動が続いています。気象庁は、1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。",
+          "title": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
+          "snippet": "関東甲信は15日も大気の不安定な状態が続き、局地的に激しい雨が降るおそれがあります。豪雨による被害が相次いだ千葉県では、大雨のピークは過ぎましたが、ふだんより少ない雨量でも土砂災害の危険度が高まるおそ…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44208",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44212",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "インドネシア付近でM7.7の地震",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591768?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "中国軍との台湾沖訓練が波紋　「戦闘でない」と釈明―インドネシア",
+          "title": "「浸水し車から出られず」と通報　車両や路上で死亡相次ぐ―千葉大雨",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081400643&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081400453&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１５日０８時１３分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814231602_0_VXSE53_010000.xml",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【東京都気象警報・注意報】東京地方では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815014033_0_VPWW53_130000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【東京都気象警報・注意報】東京地方では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815014033_0_VPWW54_130000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象情報",
+          "snippet": "【富山県気象解説情報（大雨・落雷・突風）】富山県では、１５日昼過ぎから夜遅くにかけて低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815013547_0_VPFJ50_160000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "自民 鈴木幹事長 有村総務会長 西村選対委員長 靖国神社に参拝",
-      "slug": "自民鈴木幹事長有村総務会長西村選対委員長靖国神社",
-      "time": "2026-08-15T00:14:35.000Z",
+      "headline": "自民 鈴木幹事長ら幹部が靖国神社に参拝 小泉防衛相ら閣僚も",
+      "slug": "自民鈴木幹事長ら幹部が靖国神社に参拝小泉防衛相ら",
+      "time": "2026-08-15T01:50:47.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -72,10 +79,18 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "自民 鈴木幹事長 有村総務会長 西村選対委員長 靖国神社に参拝",
-          "snippet": "「終戦の日」の15日、自民党の鈴木幹事長、有村総務会長、西村選挙対策委員長の3人は、東京 九段の靖国神社にそろって参拝しました。",
+          "title": "自民 鈴木幹事長ら幹部が靖国神社に参拝 小泉防衛相ら閣僚も",
+          "snippet": "「終戦の日」の15日、自民党の鈴木幹事長、有村総務会長、西村選挙対策委員長の3人は、東京・九段の靖国神社にそろって参拝しました。また、小泉防衛大臣や小野田経済安全保障担当大臣ら閣僚も靖国神社に参拝しま…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260815de44211",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "高市首相 「終戦の日」の靖国神社参拝見送りへ",
+          "snippet": "高市総理大臣は、「終戦の日」の15日の靖国神社への参拝を見送ることにしていて、自民党の鈴木幹事長を通じて党総裁として私費で玉串料を納めました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44218",
           "ty": "press",
           "linkKind": "article"
         },
@@ -96,128 +111,74 @@
           "linkKind": "article"
         },
         {
-          "title": "小泉防衛相が靖国参拝　高市首相、見送る方針",
+          "title": "高市首相、靖国参拝見送り　玉串料奉納、小泉氏ら参拝",
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081500181&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
-        },
-        {
-          "title": "黄川田（きかわだ）沖縄・北方担当相が靖国神社を参拝した",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500190&g=flash&m=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
-      "slug": "関東甲信大気不安定千葉で大雨ピク過ぎるも地盤緩み",
-      "time": "2026-08-15T00:19:15.000Z",
+      "headline": "【地震情報】福島県で震度3 津波の心配なし",
+      "slug": "地震情報福島県で震度3津波の心配なし",
+      "time": "2026-08-15T01:28:00.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "気象庁 地震・火山"
       ],
-      "count": 7,
+      "count": 6,
       "hasPrimary": true,
       "members": [
         {
-          "title": "【千葉 記録的豪雨】8人死亡 建物被害さらに増える可能性",
-          "snippet": "13日の夕方以降、線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、車が水没するなどしてこれまでに8人の死亡が確認されたほか、建物への浸水被害も相次いでいます。",
+          "title": "【地震情報】福島県で震度3 津波の心配なし",
+          "snippet": "15日午前10時10分ごろ、福島県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44198",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44226",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
-          "snippet": "関東甲信は15日も大気の不安定な状態が続き、局地的に激しい雨が降るおそれがあります。豪雨による被害が相次いだ千葉県では、大雨のピークは過ぎましたが、ふだんより少ない雨量でも土砂災害の危険度が高まるおそ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44212",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、土砂災害や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001916_0_VPWW53_460040.xml",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１５日１０時１０分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815011443_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、土砂災害や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001916_0_VPWW54_460040.xml",
+          "title": "震度速報",
+          "snippet": "【震度速報】１５日１０時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815011244_0_VXSE51_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【奄美地方（鹿児島県）土砂災害警報・注意報】奄美地方では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001909_0_VPWW56_460040.xml",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１５日１０時０５分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815010810_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "地方気象情報",
-          "snippet": "【関東甲信地方気象解説情報（大雨・落雷・降ひょう）】関東甲信地方では、警報級の大雨となる可能性は低くなりましたが、１５日朝は低い土地の浸水や河川の増水に、夜遅くまで土砂災害に注意してください。また、落雷や突風、降ひょうにも注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814231309_0_VPCJ50_130000.xml",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１５日０９時２２分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815002520_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "地方気象解説情報",
-          "snippet": "【関東甲信地方気象解説情報（大雨・落雷・降ひょう）】関東甲信地方では、警報級の大雨となる可能性は低くなりましたが、１５日朝は低い土地の浸水や河川の増水に、夜遅くまで土砂災害に注意してください。また、落雷や突風、降ひょうにも注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814231309_0_VPCJ51_130000.xml",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１５日０８時１３分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814231602_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-      "slug": "TrumpsayshewilldeclareSt",
-      "time": "2026-08-15T00:00:00.000Z",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "Al Jazeera"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "トランプ氏、ホルムズ「米国の領土に」　対イラン、経済圧力強化も",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500184&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
-          "snippet": "US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is de",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
-          "snippet": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
@@ -282,39 +243,39 @@
       ]
     },
     {
-      "headline": "Wildfires rage across Europe as heatwaves drive record temperatures",
-      "slug": "WildfiresrageacrossEurop",
-      "time": "2026-08-14T21:50:35.000Z",
+      "headline": "At least two killed as magnitude 7.7 quake hits Indonesia",
+      "slug": "Atleasttwokilledasmagnit",
+      "time": "2026-08-15T01:36:04.000Z",
       "independentSources": 2,
       "sources": [
-        "BBC World",
+        "Yahoo!ニュース 主要",
         "Al Jazeera"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Dozens injured and thousands evacuated in Croatia wildfire",
-          "snippet": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
+          "title": "インドネシアM7.7現地は津波警戒",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591784?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Wildfires rage across Europe as heatwaves drive record temperatures",
-          "snippet": "Wildfires fuelled by record heat are ravaging Europe, burning around 500,000 hectares and forcing thousands to flee.",
+          "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
+          "snippet": "Authorities urge coastal residents to move inland or to higher ground following the quake near Flores Island.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/wildfires-rage-across-europe-as-heatwaves-drive-record-temperatures?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/15/at-least-two-killed-as-magnitude-7-7-quake-hits-indonesia?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-      "slug": "Activiststrytodeliveraid",
-      "time": "2026-08-14T21:45:20.000Z",
+      "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "slug": "Mangioneadmitskillinghea",
+      "time": "2026-08-15T01:20:06.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -324,27 +285,27 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-          "snippet": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+          "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+          "snippet": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulti",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-          "snippet": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
+          "title": "Mangione pleads guilty as polarising CEO killing reaches new phase",
+          "snippet": "Luigi Mangione pleaded guilty to federal charges over the fatal shooting of UnitedHealthcare CEO Brian Thompson in 2024.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/mangione-pleads-guilty-as-polarising-ceo-killing-reaches-new-phase?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-      "slug": "USaircraftcarrieronwayto",
-      "time": "2026-08-14T21:17:15.000Z",
+      "headline": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
+      "slug": "LulaholdsslimleadoverFla",
+      "time": "2026-08-15T00:32:56.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -354,27 +315,174 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-          "snippet": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jump",
+          "title": "Stolen Matisse artworks recovered by police in Brazil",
+          "snippet": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
-          "snippet": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
+          "title": "Lula holds slim lead over Flavio Bolsonaro ahead of Brazil election",
+          "snippet": "A new poll shows Lula leading Bolsonaro, but the gap has closed ahead of Brazil&#039;s high-stakes presidential election",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/15/lula-holds-slim-lead-over-flavio-bolsonaro-ahead-of-brazil-election?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+      "slug": "AfghanwomentelltheBBCthe",
+      "time": "2026-08-15T00:23:26.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+          "snippet": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "UN urges support for Afghan women’s aid five years into Taliban rule",
+          "snippet": "More than half of women’s organisations operating in Afghanistan could cease operations within next year: UN Women.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/15/un-urges-support-for-afghan-womens-aid-five-years-into-taliban-rule?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+      "slug": "IranwarliveTrumpvowstoma",
+      "time": "2026-08-15T00:00:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "トランプ氏、ホルムズ「米国の領土に」　対イラン、経済圧力強化も",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500184&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+          "snippet": "US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is de",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "推定噴煙流向報",
+      "slug": "推定噴煙流向報",
+      "time": "2026-08-15T01:31:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "推定噴煙流向報",
+          "snippet": "【桜島　推定噴煙流向報】",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815013104_0_VFVO60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "推定噴煙流向報",
+          "snippet": "【桜島　推定噴煙流向報】",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001729_0_VFVO60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "噴火に関する火山観測報",
+      "slug": "噴火に関する火山観測報",
+      "time": "2026-08-15T01:30:30.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "噴火に関する火山観測報",
+          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月15日10時19分(150119UTC)\n現　　象：噴火",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815013031_0_VFVO52_400000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "噴火に関する火山観測報",
+          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月15日09時05分(150005UTC)\n現　　象：噴火",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001655_0_VFVO52_400000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-15T01:41:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【佐賀県気象警報・注意報】南部では、落雷に注意してください。佐賀県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815014110_0_VPWW53_410000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【佐賀県気象警報・注意報】南部では、落雷に注意してください。佐賀県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815014110_0_VPWW54_410000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-08-15T00:20:10.000Z",
+      "time": "2026-08-15T01:39:19.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -384,19 +492,48 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【十勝地方気象警報・注意報】十勝地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【長崎県気象警報・注意報】南部、五島では、強風に注意してください。五島では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815002011_0_VPWW54_014030.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815013921_0_VPWW54_420000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【十勝地方気象警報・注意報】十勝地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【長崎県気象警報・注意報】南部、五島では、強風に注意してください。五島では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815002011_0_VPWW53_014030.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815013921_0_VPWW53_420000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Buenaventura residents criticise state neglect after Colombia’s earthquake",
+      "slug": "Buenaventuraresidentscri",
+      "time": "2026-08-15T01:12:02.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Buenaventura residents criticise state neglect after Colombia’s earthquake",
+          "snippet": "Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/longform/2026/8/15/buenaventura-residents-criticise-state-neglect-after-colombias-earthquake?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Families angered by slow search for loved ones after Colombia quake",
+          "snippet": "Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -451,9 +588,9 @@
       ]
     },
     {
-      "headline": "ウクライナ高官「北朝鮮とロシアの軍事協力拡大」日本に警鐘",
-      "slug": "ウクライナ高官北朝鮮とロシアの軍事協力拡大日本に",
-      "time": "2026-08-15T00:13:59.000Z",
+      "headline": "熊本地震 地震活動は依然活発 15日も厳しい暑さ",
+      "slug": "熊本地震地震活動は依然活発15日も厳しい暑さ",
+      "time": "2026-08-14T21:35:55.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -462,31 +599,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ウクライナ高官「北朝鮮とロシアの軍事協力拡大」日本に警鐘",
-          "snippet": "ウクライナ国防省で情報分析を行う部門の高官は「北朝鮮とロシアの軍事協力が、この数か月でさらに拡大している」とした上で「日本にとっても問題だ」と警鐘を鳴らしています。",
+          "title": "熊本地震 地震活動は依然活発 15日も厳しい暑さ",
+          "snippet": "先月、最大震度7の地震で大きな被害があった熊本県では、依然として活発な地震活動が続いています。気象庁は、1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44201",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "日本軍の秘密作戦 石油部隊とは",
-      "slug": "日本軍の秘密作戦石油部隊とは",
-      "time": "2026-08-14T23:43:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "日本軍の秘密作戦 石油部隊とは",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591772?source=rss",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44208",
           "ty": "press",
           "linkKind": "article"
         }
@@ -535,27 +651,6 @@
       ]
     },
     {
-      "headline": "7道府県が副首都申請を検討 共同",
-      "slug": "7道府県が副首都申請を検討共同",
-      "time": "2026-08-14T22:40:04.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "7道府県が副首都申請を検討 共同",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591762?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "病院敷地に遺体遺棄疑い 3人逮捕",
       "slug": "病院敷地に遺体遺棄疑い3人逮捕",
       "time": "2026-08-15T00:06:44.000Z",
@@ -577,9 +672,9 @@
       ]
     },
     {
-      "headline": "村上宗隆が27号 日本勢トップタイ",
-      "slug": "村上宗隆が27号日本勢トップタイ",
-      "time": "2026-08-15T00:07:32.000Z",
+      "headline": "一緒にいたくて 冷凍庫に子を遺棄",
+      "slug": "一緒にいたくて冷凍庫に子を遺棄",
+      "time": "2026-08-15T00:58:11.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -588,10 +683,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "村上宗隆が27号 日本勢トップタイ",
+          "title": "一緒にいたくて 冷凍庫に子を遺棄",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591775?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591788?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "村上27号 大谷と並び日本勢トップ",
+      "slug": "村上27号大谷と並び日本勢トップ",
+      "time": "2026-08-15T00:28:59.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "村上27号 大谷と並び日本勢トップ",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591783?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "大橋未歩アナ 不妊治療と流産告白",
+      "slug": "大橋未歩アナ不妊治療と流産告白",
+      "time": "2026-08-15T01:39:21.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "大橋未歩アナ 不妊治療と流産告白",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591790?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -613,6 +750,27 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081400930&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "政権交代へ３党合流を　自治労の石上委員長に聞く",
+      "slug": "政権交代へ党合流を自治労の石上委員長に聞く",
+      "time": "2026-08-14T22:05:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "政権交代へ３党合流を　自治労の石上委員長に聞く",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081400625&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -661,9 +819,9 @@
       ]
     },
     {
-      "headline": "推定噴煙流向報",
-      "slug": "推定噴煙流向報",
-      "time": "2026-08-15T00:17:00.000Z",
+      "headline": "震源に関する情報",
+      "slug": "震源に関する情報",
+      "time": "2026-08-15T01:13:35.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -672,178 +830,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "推定噴煙流向報",
-          "snippet": "【桜島　推定噴煙流向報】",
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう１５日１０時１０分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001729_0_VFVO60_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "噴火に関する火山観測報",
-      "slug": "噴火に関する火山観測報",
-      "time": "2026-08-15T00:16:55.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "噴火に関する火山観測報",
-          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年08月15日09時05分(150005UTC)\n現　　象：噴火",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001655_0_VFVO52_400000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-14T23:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向、１５日２１時から２４時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814230040_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-14T23:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向、１５日２１時から２４時までは火口から北西方向に降灰が予想され",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814230044_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-14T23:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向、１５日２１時から２４時までは火口から北西方向に降灰が予想され",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814230047_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-14T23:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向、１５日２１時から２４時までは火口から北西方向に降灰が予想され",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814230051_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-14T23:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１５日０９時から１２時までは火口から北西方向、１５日２１時から２４時までは火口から北西方",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814230054_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-14T23:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１５日０９時から１２時までは火口から北方向、１５日２１時から２４時までは火口から北方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814230030_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-14T23:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１５日０９時から１２時までは火口から北方向、１５日２１時から２４時までは火口から北方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260814230033_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815011335_0_VXSE52_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -852,7 +842,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-15T00:19:55.000Z",
+      "time": "2026-08-15T01:40:40.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -862,18 +852,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【十勝地方濃霧注意報】十勝地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【佐賀県雷・乾燥注意報】南部では、急な強い雨や落雷に注意してください。佐賀県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001956_0_VPWW61_014030.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815014041_0_VPWW61_410000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "土砂災害警戒情報",
-      "slug": "土砂災害警戒情報",
-      "time": "2026-08-15T00:19:13.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-15T01:40:22.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -882,19 +872,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "土砂災害警戒情報",
-          "snippet": "【鹿児島県レベル４土砂災害危険警報】＜全警戒解除＞\nレベル４土砂災害危険警報を発表している地域はありません。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【東京都雷注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001915_0_VXWW50_460100.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815014022_0_VPWW61_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-15T00:19:08.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-15T01:39:06.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -903,19 +893,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【奄美地方（鹿児島県）大雨警報・注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【長崎県雷注意報】五島では、急な強い雨や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815001909_0_VPWW55_460040.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815013906_0_VPWW61_420000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "slug": "Mangioneadmitskillinghea",
-      "time": "2026-08-14T19:20:43.000Z",
+      "headline": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "slug": "USaircraftcarrieronwayto",
+      "time": "2026-08-14T17:36:27.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -924,31 +914,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-          "snippet": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulti",
+          "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+          "snippet": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jump",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-      "slug": "AfghanwomentelltheBBCthe",
-      "time": "2026-08-14T18:25:38.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-          "snippet": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -976,6 +945,27 @@
       ]
     },
     {
+      "headline": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "slug": "Activiststrytodeliveraid",
+      "time": "2026-08-14T17:03:17.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+          "snippet": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "'Unprecedented' rain in Japan kills eight people",
       "slug": "UnprecedentedraininJapan",
       "time": "2026-08-14T10:36:14.000Z",
@@ -997,9 +987,9 @@
       ]
     },
     {
-      "headline": "Stolen Matisse artworks recovered by police in Brazil",
-      "slug": "StolenMatisseartworksrec",
-      "time": "2026-08-14T10:55:39.000Z",
+      "headline": "Dozens injured and thousands evacuated in Croatia wildfire",
+      "slug": "Dozensinjuredandthousand",
+      "time": "2026-08-14T20:22:56.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1008,31 +998,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Stolen Matisse artworks recovered by police in Brazil",
-          "snippet": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+          "title": "Dozens injured and thousands evacuated in Croatia wildfire",
+          "snippet": "Officials say the blaze, near the port town of Omis, is one of the worst in Croatia's history.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Families angered by slow search for loved ones after Colombia quake",
-      "slug": "Familiesangeredbyslowsea",
-      "time": "2026-08-15T00:14:47.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Families angered by slow search for loved ones after Colombia quake",
-          "snippet": "Families are demanding answers over loved ones buried under rubble in Cali, Colombia after Monday’s 7.4 magnitude quake.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-2026-colombia-quake-reported-mp4?traffic_source=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c9342wn2x27o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1054,27 +1023,6 @@
           "snippet": "Hezbollah criticises Beirut’s approach, accusing officials of exposing the Lebanese army to risks and Israeli pressure.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/14/lebanons-pm-urges-timetable-for-israeli-withdrawal-as-hezbollah-slams-deal?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
-      "slug": "MountEtnaeruptionandvolc",
-      "time": "2026-08-14T21:03:07.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Mount Etna eruption and volcanic ash shut Sicily’s busiest airport",
-          "snippet": "Flights will be suspended until at least Saturday afternoon, leaving hundreds of travellers stranded.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/14/mount-etna-eruption-and-volcanic-ash-shut-sicilys-busiest-airport?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
