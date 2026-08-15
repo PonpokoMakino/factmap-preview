@@ -1,18 +1,19 @@
 {
-  "rankedAt": "2026-08-15T15:45:00.045Z",
+  "rankedAt": "2026-08-15T15:59:49.676Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3205人が避難",
-      "slug": "熊本地震災害関連死の疑い含め39人死亡避難所に3",
+      "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+      "slug": "Powerfulmagnitude77earth",
       "time": "2026-08-15T14:41:32.000Z",
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "BBC World"
       ],
-      "count": 4,
+      "count": 5,
       "hasPrimary": false,
       "members": [
         {
@@ -44,6 +45,14 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081400643&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
+          "snippet": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -128,6 +137,51 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
+      "time": "2026-08-15T15:56:29.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 4,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【兵庫県気象警報・注意報】南部では、低い土地の浸水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815155630_0_VPWW53_280000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【兵庫県気象警報・注意報】南部では、低い土地の浸水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815155630_0_VPWW54_280000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【兵庫県気象警報・注意報】南部では、低い土地の浸水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815155252_0_VPWW54_280000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【兵庫県気象警報・注意報】南部では、低い土地の浸水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815155252_0_VPWW53_280000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
       "time": "2026-08-15T15:39:30.000Z",
       "independentSources": 1,
       "sources": [
@@ -200,6 +254,35 @@
       ]
     },
     {
+      "headline": "千葉、ホーム初戦で完敗　Ｊリーグ",
+      "slug": "千葉ホム初戦で完敗リグ",
+      "time": "2026-08-15T14:08:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "岡山、ホームで初白星　Ｊリーグ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500518&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "千葉、ホーム初戦で完敗　Ｊリーグ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500519&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "震源・震度に関する情報",
       "slug": "震源震度に関する情報",
       "time": "2026-08-15T12:40:27.000Z",
@@ -223,64 +306,6 @@
           "snippet": "【震源・震度情報】１５日２１時０３分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260815120610_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-15T15:19:13.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【埼玉県気象警報・注意報】埼玉県では、土砂災害に注意してください。秩父地方では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815151914_0_VPWW54_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【埼玉県気象警報・注意報】埼玉県では、土砂災害に注意してください。秩父地方では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815151914_0_VPWW53_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-15T14:59:17.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【秋田県気象警報・注意報】秋田県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815145918_0_VPWW54_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【秋田県気象警報・注意報】秋田県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815145918_0_VPWW53_050000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -610,27 +635,6 @@
       ]
     },
     {
-      "headline": "岡山、ホームで初白星　Ｊリーグ",
-      "slug": "岡山ホムで初白星リグ",
-      "time": "2026-08-15T14:06:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "岡山、ホームで初白星　Ｊリーグ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500518&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "鈴木、２試合連続ゴール　飛躍のシーズンへ好発進―Ｊリーグ・広島",
       "slug": "鈴木試合連続ゴル飛躍のシズンへ好発進リグ広島",
       "time": "2026-08-15T14:05:00.000Z",
@@ -667,27 +671,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081500508&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "千葉、ホーム初戦で完敗　Ｊリーグ",
-      "slug": "千葉ホム初戦で完敗リグ",
-      "time": "2026-08-15T14:08:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "千葉、ホーム初戦で完敗　Ｊリーグ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500519&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -883,6 +866,27 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-15T15:52:37.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【兵庫県大雨警報・注意報】南部では、低い土地の浸水や河川の増水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815155238_0_VPWW55_280000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象警報・注意報（Ｒ０６）（土砂）",
       "slug": "気象警報注意報土砂",
       "time": "2026-08-15T15:37:01.000Z",
@@ -900,48 +904,6 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260815153702_0_VPWW56_240000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-15T15:19:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【埼玉県土砂災害警報・注意報】埼玉県では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815151901_0_VPWW56_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-      "slug": "Powerfulmagnitude77earth",
-      "time": "2026-08-15T13:35:57.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-          "snippet": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
