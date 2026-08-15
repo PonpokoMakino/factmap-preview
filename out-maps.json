@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-15T13:46:09.894Z",
+  "builtAt": "2026-08-15T14:34:54.345Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -161,6 +161,100 @@
       }
     },
     {
+      "headline": "高市首相「反省」再封印　初の式辞、戦争主体曖昧に―終戦記念日",
+      "slug": "高市首相反省再封印初の式辞戦争主体曖昧に終戦記念",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44238"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500334&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500335&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500280&g=pol&m=rss"
+        }
+      ],
+      "issue": "終戦の日に閣僚が靖国神社参拝することは妥当か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "終戦の日である8月15日に、小泉防衛大臣ら4人の閣僚が靖国神社に参拝した。",
+          "span": "「終戦の日」の15日、小泉防衛大臣ら高市内閣の4人の閣僚が靖国神社に参拝しました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は靖国神社への参拝を見送った。",
+          "span": "高市総理大臣は参拝を見送り",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、自民党の鈴木幹事長を通じて、党総裁として私費で玉串料を納めた。",
+          "span": "自民党の鈴木幹事長を通じて党総裁として私費で玉串料を納めました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市首相は靖国神社に向かって遙拝した。",
+          "span": "高市首相は靖国神社に向かって遙拝した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "高市首相は終戦記念日の式辞で、戦争の主体を曖昧にした。",
+          "span": "「反省」再封印　初の式辞、戦争主体曖昧に―終戦記念日",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "終戦の日である8月15日に、小泉防衛大臣ら4閣僚が靖国神社に参拝した。高市総理大臣は参拝を見送り、党総裁として私費で玉串料を納め、靖国神社を遥拝した。",
+      "note": "高市首相の「反省」に関する言及は、式辞の内容に関する報道であり、直接的な発言ではないため、factsには含めず、争点設定の参考とした。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: 元テキストには「閣僚の参拝と首相の対応については、評価が分かれる可能性がある。」という記述はないため削除しました。",
+          "positions: 高市総理大臣のclaim「靖国神社への参拝を見送った。」は、事実の記述であり、評価や主張ではないためstanceをneutralに変更しました。",
+          "positions: 高市総理大臣のclaim「自民党総裁として私費で玉串料を納めた。」は、事実の記述であり、評価や主張ではないためstanceをneutralに変更しました。",
+          "positions: 高市総理大臣のclaim「靖国神社を遥拝した。」は、事実の記述であり、評価や主張ではないためstanceをneutralに変更しました。",
+          "facts: 5番目のfact「高市首相は終戦記念日の式辞で、戦争の主体を曖昧にした。」は、元テキストのspan「「反省」再封印 初の式辞、戦争主体曖昧に―終戦記念日」から直接導かれる事実として適切であるため、noteからfactsへ移動しました。"
+        ]
+      }
+    },
+    {
       "headline": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
       "slug": "AfghanwomentelltheBBCthe",
       "independentSources": 2,
@@ -239,145 +333,56 @@
       }
     },
     {
-      "headline": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送り",
-      "slug": "小泉防衛相ら4閣僚が靖国神社参拝高市首相は見送り",
+      "headline": "Japanese minister visits shrine to war dead, angering China, South Korea",
+      "slug": "Japaneseministervisitssh",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44238"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500334&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500335&g=pol&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/15/japanese-minister-visits-shrine-to-war-dead-angering-china-south-korea?traffic_source=rss"
         }
       ],
-      "issue": "閣僚による靖国神社参拝は妥当か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "韓国が北朝鮮との戦争終結に向けた対話を提案したことについて、どのような状況と見解があるか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "「終戦の日」である8月15日に、小泉防衛大臣を含む4人の閣僚が靖国神社に参拝した。",
-          "span": "「終戦の日」の15日、小泉防衛大臣ら高市内閣の4人の閣僚が靖国神社に参拝しました。",
+          "t": "韓国と北朝鮮の紛争は1953年の休戦以来凍結状態にある。",
+          "span": "has been frozen since an armistice in 1953",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "高市総理大臣は靖国神社への参拝を見送った。",
-          "span": "高市総理大臣は参拝を見送り",
+          "t": "韓国が北朝鮮との戦争を公式に終結させるための対話を提案した。",
+          "span": "proposes talks to officially end war with North",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は、自民党の鈴木幹事長を通じて、党総裁として私費で玉串料を納めた。",
-          "span": "自民党の鈴木幹事長を通じて党総裁として私費で玉串料を納めました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市首相は靖国神社に向かって遙拝した。",
-          "span": "高市首相は靖国神社に向かって遙拝した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "「終戦の日」に小泉防衛相ら4閣僚が靖国神社に参拝し、高市首相は参拝を見送って玉串料を納めた。高市首相は遙拝も行った。評価は割れる。",
-      "note": "本件は、閣僚の靖国神社参拝という政治的・外交的にデリケートな問題に関する報道であり、参拝の是非やその影響に関する評価は記事中に明示されていないため、争点を「妥当か？」とし、各閣僚の行動を事実として抽出した。高市首相の行動は「参拝を見送り、玉串料を納めた」と「遙拝した」という二つの側面から記述されているが、これらは同一人物の行動であり、一連の行動として捉え、中立的な記述とした。stanceは、参拝した閣僚をsupport、参拝を見送った高市首相をneutralとした。高市首相の遙拝は、参拝とは異なる行動として事実として抽出したが、stanceとしては参拝を見送ったという行動に準ずるものとしてneutralとした。",
+      "consensus": "韓国と北朝鮮の紛争は1953年の休戦以来凍結状態にあり、韓国が戦争終結に向けた対話を提案した。この提案に対する評価は記事からは不明。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "豪、世界最大の金塊鋳造　重さ５２１キロ、ギネス認定",
-      "slug": "豪世界最大の金塊鋳造重さキロギネス認定",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591875?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500313&g=int&m=rss"
-        }
-      ],
-      "issue": "オーストラリアにおける世界最大の金塊鋳造",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "オーストラリアで521kgの金塊が鋳造された。",
-          "span": "521kgの金塊鋳造",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "鋳造された金塊はギネス世界記録に認定された。",
-          "span": "ギネス認定",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "この金塊は世界最大の重さである。",
-          "span": "世界最大の金塊鋳造",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "オーストラリアで521kgの世界最大の金塊が鋳造され、ギネス世界記録に認定された。",
-      "note": "記事に評価・意見を述べる主体が存在しないため、positionsは空配列です。",
-      "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "争点の立て方: issueが「〜すべきか？」という問いになっており、テキストに明示的な賛否の対立がないため、より中立的な記述に修正しました。",
+          "メタ記述の徹底と著作権: positions[0].claimが地の文の断定になっていたため、「〜と述べている」の形式に修正し、元の文の言い回しをなぞらないように再記述しました。"
+        ]
       }
     }
   ]
