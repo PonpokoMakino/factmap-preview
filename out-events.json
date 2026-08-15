@@ -1,20 +1,22 @@
 {
-  "rankedAt": "2026-08-15T13:15:24.730Z",
+  "rankedAt": "2026-08-15T13:46:09.894Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+      "headline": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
       "slug": "Powerfulmagnitude77earth",
-      "time": "2026-08-15T12:31:55.000Z",
-      "independentSources": 4,
+      "time": "2026-08-15T13:35:57.000Z",
+      "independentSources": 6,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム",
+        "気象庁 地震・火山",
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 6,
-      "hasPrimary": false,
+      "count": 11,
+      "hasPrimary": true,
       "members": [
         {
           "title": "地表断層出現の瞬間か 熊本 八代の防犯カメラに地表のずれ写る",
@@ -33,10 +35,18 @@
           "linkKind": "article"
         },
         {
-          "title": "熊本地震 活発な地震活動 厳しい暑さ続く見込み 熱中症対策を",
-          "snippet": "先月、最大震度7の地震で大きな被害があった熊本県では活発な地震活動が続いていて、気象庁は1か月ほどは最大震度5弱程度以上の地震に注意するよう呼びかけています。熊本県ではこの先も厳しい暑さが続く見込みで…",
+          "title": "インドネシアでM7.7の地震 94cmの津波観測 これまでに38人死亡",
+          "snippet": "日本時間の15日午前に起きたインドネシア東部のフローレス島付近を震源とするマグニチュード7.7の地震について、インドネシア政府はこれまでに38人が死亡したと発表しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44208",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44197",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "熊本地震の住家被害 3万棟超え",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591876?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -49,7 +59,39 @@
           "linkKind": "article"
         },
         {
-          "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１５日２１時３８分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815124027_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１５日２１時０３分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815120610_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１５日２０時３０分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815113348_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１５日２０時２９分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815113211_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
           "snippet": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
@@ -69,7 +111,7 @@
     {
       "headline": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
       "slug": "AfghanwomentelltheBBCthe",
-      "time": "2026-08-15T12:44:30.000Z",
+      "time": "2026-08-15T13:12:51.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -87,6 +129,14 @@
           "linkKind": "article"
         },
         {
+          "title": "Afghans mark five years of Taliban rule",
+          "snippet": "Afghans have gathered in Kabul to mark five years since the Taliban returned to power.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
           "title": "Five years on, how will Taliban deal with armed opposition?",
           "snippet": "The United Nations says armed groups opposed to the government remain active.",
           "source": "Al Jazeera",
@@ -99,52 +149,6 @@
           "snippet": "With the fall of the former government in Kabul, thousands of Afghans were forced to flee the country, many to Europe.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "What the Taliban achieved and failed to achieve in five years",
-          "snippet": "The Taliban government brought security and stability but is facing increasing alienation of the general population.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/opinions/2026/8/15/what-the-taliban-achieved-and-failed-to-achieve-in-five-years?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "【千葉豪雨】この雨で死亡した人9人に 住宅被害も相次ぐ",
-      "slug": "千葉豪雨この雨で死亡した人9人に住宅被害も相次ぐ",
-      "time": "2026-08-15T11:42:04.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "【千葉豪雨】この雨で死亡した人9人に 住宅被害も相次ぐ",
-          "snippet": "13日の夕方以降、線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、15日、県が新たに1人の死亡を明らかにし、この雨で死亡した人は9人となりました。また、1人が行方不明となっています。住宅の…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44198",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "千葉県 熊谷知事が佐倉市を視察「激甚災害指定を」",
-          "snippet": "千葉県の熊谷知事は、豪雨で大きな被害を受けた佐倉市を訪れ浸水した住宅や氾濫した河川などを視察し、国に激甚災害の指定を求める考えを示しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44290",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "千葉豪雨の死者は9人に 県が発表",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591863?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -183,6 +187,36 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081500335&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "豪、世界最大の金塊鋳造　重さ５２１キロ、ギネス認定",
+      "slug": "豪世界最大の金塊鋳造重さキロギネス認定",
+      "time": "2026-08-15T13:26:43.000Z",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "豪で521kgの金塊鋳造 ギネス認定",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591875?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "豪、世界最大の金塊鋳造　重さ５２１キロ、ギネス認定",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500313&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -249,45 +283,29 @@
       ]
     },
     {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-15T12:40:27.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-15T13:32:50.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 地震・火山"
+        "気象庁 気象警報・注意報"
       ],
-      "count": 4,
+      "count": 2,
       "hasPrimary": true,
       "members": [
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１５日２１時３８分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815124027_0_VXSE53_270000.xml",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【三重県気象警報・注意報】南部では、土砂災害や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815133251_0_VPWW54_240000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１５日２１時０３分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815120610_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１５日２０時３０分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815113348_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１５日２０時２９分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815113211_0_VXSE53_270000.xml",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【三重県気象警報・注意報】南部では、土砂災害や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815133251_0_VPWW53_240000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -296,7 +314,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-08-15T13:10:20.000Z",
+      "time": "2026-08-15T13:24:10.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -306,17 +324,17 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【岐阜県気象警報・注意報】注意報を解除します。",
+          "snippet": "【福井県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815131021_0_VPWW54_210000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815132411_0_VPWW54_180000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【岐阜県気象警報・注意報】注意報を解除します。",
+          "snippet": "【福井県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815131021_0_VPWW53_210000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815132411_0_VPWW53_180000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -325,7 +343,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-08-15T12:55:17.000Z",
+      "time": "2026-08-15T13:17:34.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -335,75 +353,17 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、土砂災害や濃霧による視程障害に注意してください。",
+          "snippet": "【青森県気象警報・注意報】青森県では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815125518_0_VPWW54_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815131735_0_VPWW54_020000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、土砂災害や濃霧による視程障害に注意してください。",
+          "snippet": "【青森県気象警報・注意報】青森県では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815125518_0_VPWW53_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-15T12:48:17.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【大阪府気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815124818_0_VPWW53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【大阪府気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815124818_0_VPWW54_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-15T12:48:16.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【兵庫県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815124817_0_VPWW54_280000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【兵庫県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815124817_0_VPWW53_280000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815131735_0_VPWW53_020000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -412,7 +372,7 @@
     {
       "headline": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
       "slug": "Familystrandedatseafor16",
-      "time": "2026-08-15T10:56:22.000Z",
+      "time": "2026-08-15T13:41:09.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -454,6 +414,48 @@
           "snippet": "15日で終戦から81年です。都内ではおよそ310万人の戦没者を慰霊する政府主催の全国戦没者追悼式が行われました。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260814de44171",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "【千葉豪雨】この雨で死亡した人9人に 住宅被害も相次ぐ",
+      "slug": "千葉豪雨この雨で死亡した人9人に住宅被害も相次ぐ",
+      "time": "2026-08-15T11:04:55.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "【千葉豪雨】この雨で死亡した人9人に 住宅被害も相次ぐ",
+          "snippet": "13日の夕方以降、線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、15日、県が新たに1人の死亡を明らかにし、この雨で死亡した人は9人となりました。また、1人が行方不明となっています。住宅の…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44198",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ドジャース 大谷翔平 投手復帰へブルペン練習を再開",
+      "slug": "ドジャス大谷翔平投手復帰へブルペン練習を再開",
+      "time": "2026-08-15T11:48:43.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ドジャース 大谷翔平 投手復帰へブルペン練習を再開",
+          "snippet": "大リーグ、ドジャースの大谷翔平選手は、左ひざの痛みなどからピッチャーとしての出場を見合わせていますが、14日、復帰に向けておよそ3週間ぶりにブルペンでの投球練習を行いました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44253",
           "ty": "press",
           "linkKind": "article"
         }
@@ -502,27 +504,6 @@
       ]
     },
     {
-      "headline": "車で撮り鉄殺そうとした疑い 逮捕",
-      "slug": "車で撮り鉄殺そうとした疑い逮捕",
-      "time": "2026-08-15T09:38:18.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "車で撮り鉄殺そうとした疑い 逮捕",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591852?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "3児の母 突然「余命2カ月」の宣告",
       "slug": "3児の母突然余命2カ月の宣告",
       "time": "2026-08-15T10:56:53.000Z",
@@ -544,9 +525,9 @@
       ]
     },
     {
-      "headline": "死球受けた中日・村松 肩甲骨骨折",
-      "slug": "死球受けた中日村松肩甲骨骨折",
-      "time": "2026-08-15T12:21:37.000Z",
+      "headline": "天山広吉が引退 蝶野が惜別ビンタ",
+      "slug": "天山広吉が引退蝶野が惜別ビンタ",
+      "time": "2026-08-15T13:34:52.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -555,10 +536,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "死球受けた中日・村松 肩甲骨骨折",
+          "title": "天山広吉が引退 蝶野が惜別ビンタ",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591870?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591877?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -580,27 +561,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591873?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "豪、世界最大の金塊鋳造　重さ５２１キロ、ギネス認定",
-      "slug": "豪世界最大の金塊鋳造重さキロギネス認定",
-      "time": "2026-08-15T11:32:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "豪、世界最大の金塊鋳造　重さ５２１キロ、ギネス認定",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500313&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -838,30 +798,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-15T13:10:08.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【岐阜県雷注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815131008_0_VPWW61_210000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象警報・注意報（Ｒ０６）（土砂）",
       "slug": "気象警報注意報土砂",
-      "time": "2026-08-15T12:55:08.000Z",
+      "time": "2026-08-15T13:32:46.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -871,9 +810,72 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【群馬県土砂災害警報・注意報】群馬県では、土砂災害に注意してください。",
+          "snippet": "【三重県土砂災害警報・注意報】南部では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815125509_0_VPWW56_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815133247_0_VPWW56_240000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-15T13:23:59.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【福井県雷注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815132400_0_VPWW61_180000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-15T13:17:22.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【青森県濃霧注意報】青森県では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815131723_0_VPWW61_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-15T13:10:20.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【岐阜県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260815131021_0_VPWW53_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -903,7 +905,7 @@
     {
       "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
       "slug": "ElevenkilledinIsraelistr",
-      "time": "2026-08-15T12:25:11.000Z",
+      "time": "2026-08-15T13:38:53.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -985,6 +987,27 @@
       ]
     },
     {
+      "headline": "Black professor at centre of Cambridge plagiarism row found dead",
+      "slug": "Blackprofessoratcentreof",
+      "time": "2026-08-15T13:11:31.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Black professor at centre of Cambridge plagiarism row found dead",
+          "snippet": "Dr Jason Arday has been found dead days after resigning from Cambridge University due to plagiarism allegations.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Vienna woman sues city for discrimination over toilet fees",
       "slug": "Viennawomansuescityfordi",
       "time": "2026-08-15T13:01:31.000Z",
@@ -1006,7 +1029,7 @@
       ]
     },
     {
-      "headline": "Five wounded in shooting at Virginia State University",
+      "headline": "Five wounded in shooting at Virginia State University, multiple suspects",
       "slug": "FivewoundedinshootingatV",
       "time": "2026-08-15T12:57:08.000Z",
       "independentSources": 1,
@@ -1017,7 +1040,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Five wounded in shooting at Virginia State University",
+          "title": "Five wounded in shooting at Virginia State University, multiple suspects",
           "snippet": "Police found the gunshot victims near the university&#039;s residence halls.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
@@ -1063,27 +1086,6 @@
           "snippet": "The Indian PM said Maoist-influenced Naxalite rebellion is largely gone, but its ideological backers still pose threat.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-      "slug": "WorldCupwinnerFerranTorr",
-      "time": "2026-08-15T10:48:41.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-          "snippet": "The 26-year-old striker cost the Ligue 1 champions a reported 50 million euros ($58m) and has signed a five-year deal.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
