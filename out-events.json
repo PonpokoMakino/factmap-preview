@@ -1,18 +1,19 @@
 {
-  "rankedAt": "2026-08-16T19:44:11.265Z",
+  "rankedAt": "2026-08-16T19:58:35.140Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "森保監督訪問に有明高８強入り　スポーツが被災地盛り上げる―熊本地震",
-      "slug": "森保監督訪問に有明高強入りスポツが被災地盛り上げ",
+      "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "slug": "TwelvekilledasPolishbusv",
       "time": "2026-08-16T17:39:36.000Z",
-      "independentSources": 3,
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "BBC World"
       ],
-      "count": 6,
+      "count": 7,
       "hasPrimary": false,
       "members": [
         {
@@ -60,6 +61,14 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081600266&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+          "snippet": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -126,46 +135,24 @@
       ]
     },
     {
-      "headline": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-      "slug": "HurricaneLalaweakenstoat",
-      "time": "2026-08-16T18:46:12.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
-          "snippet": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
-          "snippet": "The devastating hurricane grazes the Big Island in Hawaii in the US, but avoids making landfall.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "黄川田（きかわだ）沖縄・北方担当相が靖国神社を参拝した",
-      "slug": "黄川田きかわだ沖縄北方担当相が靖国神社を参拝した",
-      "time": "2026-08-15T01:50:00.000Z",
+      "headline": "高市首相、保守層離反を警戒　異例の遥拝、式辞も安倍カラー―終戦の日",
+      "slug": "高市首相保守層離反を警戒異例の遥拝式辞も安倍カラ",
+      "time": "2026-08-15T22:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
       ],
-      "count": 3,
+      "count": 4,
       "hasPrimary": false,
       "members": [
+        {
+          "title": "高市首相、保守層離反を警戒　異例の遥拝、式辞も安倍カラー―終戦の日",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500424&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "黄川田（きかわだ）沖縄・北方担当相が靖国神社を参拝した",
           "snippet": "",
@@ -253,6 +240,35 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
+      "time": "2026-08-16T19:44:46.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【千葉県気象警報・注意報】千葉県では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816194447_0_VPWW54_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【千葉県気象警報・注意報】千葉県では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816194447_0_VPWW53_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
       "time": "2026-08-16T19:41:23.000Z",
       "independentSources": 1,
       "sources": [
@@ -274,64 +290,6 @@
           "snippet": "【東京都気象警報・注意報】小笠原諸島では、落雷に注意してください。東京地方では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260816194124_0_VPWW53_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-16T19:40:31.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【神奈川県気象警報・注意報】東部では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816194032_0_VPWW54_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【神奈川県気象警報・注意報】東部では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816194032_0_VPWW53_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-16T19:15:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【愛媛県気象警報・注意報】愛媛県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816191524_0_VPWW54_380000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【愛媛県気象警報・注意報】愛媛県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816191524_0_VPWW53_380000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -550,27 +508,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081600196&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "高市首相、保守層離反を警戒　異例の遥拝、式辞も安倍カラー―終戦の日",
-      "slug": "高市首相保守層離反を警戒異例の遥拝式辞も安倍カラ",
-      "time": "2026-08-15T22:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "高市首相、保守層離反を警戒　異例の遥拝、式辞も安倍カラー―終戦の日",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500424&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -829,6 +766,90 @@
       ]
     },
     {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-16T19:55:01.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【八重山地方熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816195501_0_VPFT50_474000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-16T19:55:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【和歌山県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816195500_0_VPFT50_300000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-16T19:55:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【熊本県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816195501_0_VPFT50_430000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-16T19:44:34.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【千葉県濃霧注意報】千葉県では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816194435_0_VPWW61_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
       "time": "2026-08-16T19:41:17.000Z",
@@ -850,9 +871,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-16T19:40:19.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-16T19:40:31.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -861,61 +882,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【神奈川県濃霧注意報】東部では、濃霧による視程障害に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【神奈川県気象警報・注意報】東部では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816194019_0_VPWW61_140000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816194032_0_VPWW54_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-16T19:15:19.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【愛媛県雷注意報】愛媛県では、急な強い雨や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816191519_0_VPWW61_380000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-16T19:07:43.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【鳥取県気象警報・注意報】鳥取県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816190744_0_VPWW53_310000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "Two dead and hundreds evacuated as twin fires break out on Greek island",
+      "headline": "Two dead and hundreds evacuated after twin fires break out on Greek island",
       "slug": "Twodeadandhundredsevacua",
-      "time": "2026-08-16T17:44:23.000Z",
+      "time": "2026-08-16T19:50:36.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -924,10 +903,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-          "snippet": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
+          "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+          "snippet": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+      "slug": "Onedeadhomessweptawayaft",
+      "time": "2026-08-16T18:46:12.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
+          "snippet": "A search-and-rescue operation is under way after properties were uprooted from their foundations.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -949,27 +949,6 @@
           "snippet": "The attack left five injured outside a halls of residence, and the suspect was not a student there, say police.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "slug": "TwelvekilledasPolishbusv",
-      "time": "2026-08-16T10:53:50.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-          "snippet": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1060,6 +1039,48 @@
       ]
     },
     {
+      "headline": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+      "slug": "KushnermeetsHamasleaders",
+      "time": "2026-08-16T19:23:28.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+          "snippet": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+      "slug": "ErdogancallsforStraitofH",
+      "time": "2026-08-16T19:18:24.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+          "snippet": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Why are sandwiches more regulated than AI?",
       "slug": "Whyaresandwichesmoreregu",
       "time": "2026-08-16T17:36:02.000Z",
@@ -1138,27 +1159,6 @@
           "snippet": "Premier League champions hand new ​City boss Enzo Maresca a humbling defeat ⁠in his first football game in ​charge.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "‘The Mediterranean is a bridge, not a border’",
-      "slug": "TheMediterraneanisabridg",
-      "time": "2026-08-16T14:40:38.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "‘The Mediterranean is a bridge, not a border’",
-          "snippet": "Chris Fearne says Europe must look beyond its borders to solve its migration problem.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/16/the-mediterranean-is-a-bridge-not-a?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
