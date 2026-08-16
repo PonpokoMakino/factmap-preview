@@ -1,11 +1,11 @@
 {
-  "rankedAt": "2026-08-16T04:18:30.275Z",
+  "rankedAt": "2026-08-16T04:54:34.846Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "【千葉豪雨】死者9人 夜にかけ雨のおそれ 土砂災害に注意を",
       "slug": "千葉豪雨死者9人夜にかけ雨のおそれ土砂災害に注意",
-      "time": "2026-08-16T03:41:48.000Z",
+      "time": "2026-08-16T04:28:21.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -75,13 +75,13 @@
     {
       "headline": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
       "slug": "IranwarliveTalksonHormuz",
-      "time": "2026-08-16T00:00:45.000Z",
+      "time": "2026-08-16T04:09:01.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 3,
+      "count": 4,
       "hasPrimary": false,
       "members": [
         {
@@ -89,6 +89,14 @@
           "snippet": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier actio",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Yemeni government forces hit back after new Houthi offensive",
+          "snippet": "Yemeni government forces, backed by Saudi Arabia, have struck back after a new Houthi offensive in areas it controls.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -209,32 +217,39 @@
       ]
     },
     {
-      "headline": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-      "slug": "ColombiaasksTrumptosuspe",
-      "time": "2026-08-16T04:13:32.000Z",
-      "independentSources": 2,
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-16T04:40:48.000Z",
+      "independentSources": 1,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "気象庁 地震・火山"
       ],
-      "count": 2,
-      "hasPrimary": false,
+      "count": 3,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-          "snippet": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１６日１３時３７分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816044049_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
-          "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-          "snippet": "Post-earthquake reconstruction is expected to cost about $6.4bn, but Colombia has been hit by renewed US tariffs.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１６日１３時３２分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816043546_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１６日１２時０４分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816030738_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -355,6 +370,27 @@
       ]
     },
     {
+      "headline": "上野動物園のパンダ舎 あすから解体 多くの人が最後の別れ",
+      "slug": "上野動物園のパンダ舎あすから解体多くの人が最後の",
+      "time": "2026-08-16T04:26:04.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "上野動物園のパンダ舎 あすから解体 多くの人が最後の別れ",
+          "snippet": "東京 上野動物園で2023年に中国に返還された「シャンシャン」が誕生したパンダ舎が、17日から解体されることになり、それを前に16日は朝から多くの人が訪れ、思い出の場所に最後の別れを告げました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44365",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "ドジャース 大谷翔平 タイムリースリーベースもチームは敗れる",
       "slug": "ドジャス大谷翔平タイムリスリベスもチムは敗れる",
       "time": "2026-08-16T03:56:52.000Z",
@@ -370,27 +406,6 @@
           "snippet": "大リーグ、ドジャースの大谷翔平選手がブルワーズ戦に先発出場し、剛速球が持ち味のミザロウスキー投手からタイムリースリーベースヒットを打ちました。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260816de44369",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ウクライナがロシアのロケット製造拠点など攻撃",
-      "slug": "ウクライナがロシアのロケット製造拠点など攻撃",
-      "time": "2026-08-16T01:39:54.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ウクライナがロシアのロケット製造拠点など攻撃",
-          "snippet": "ウクライナ軍は15日、ロシアが衛星通信システムの打ち上げなどに用いているロケットの製造拠点を攻撃したと発表しました。また、ロシアが占領しているウクライナの地域でも、ロシア軍の無人機の倉庫などを攻撃した…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44336",
           "ty": "press",
           "linkKind": "article"
         }
@@ -523,9 +538,9 @@
       ]
     },
     {
-      "headline": "有明が一挙4点の逆転劇 快進撃8強",
-      "slug": "有明が一挙4点の逆転劇快進撃8強",
-      "time": "2026-08-16T03:19:17.000Z",
+      "headline": "緊急先発の有明・斉藤 109球完投",
+      "slug": "緊急先発の有明斉藤109球完投",
+      "time": "2026-08-16T04:36:27.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -534,10 +549,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "有明が一挙4点の逆転劇 快進撃8強",
+          "title": "緊急先発の有明・斉藤 109球完投",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591933?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591936?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -645,27 +660,6 @@
           "link": "https://www.jiji.com/jc/article?k=2026081500432&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-16T03:07:37.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１６日１２時０４分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816030738_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -817,48 +811,6 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-16T02:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１６日２１時から２４時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816020041_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-16T02:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１６日２１時から２４時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816020045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象警報・注意報（Ｒ０６）（土砂）",
       "slug": "気象警報注意報土砂",
       "time": "2026-08-16T03:36:28.000Z",
@@ -897,6 +849,27 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260816021817_0_VPWW55_240000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Rescuers search for survivors of powerful Indonesia earthquake",
+      "slug": "Rescuerssearchforsurvivo",
+      "time": "2026-08-16T04:13:32.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+          "snippet": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
