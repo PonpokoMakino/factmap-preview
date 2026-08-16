@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-16T16:50:10.015Z",
+  "rankedAt": "2026-08-16T17:18:04.393Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -11,7 +11,7 @@
         "NHK 主要ニュース",
         "時事ドットコム"
       ],
-      "count": 6,
+      "count": 7,
       "hasPrimary": false,
       "members": [
         {
@@ -51,6 +51,14 @@
           "snippet": "インドネシアで15日発生したマグニチュード7.7の地震では、これまでに53人の死亡が確認されたほか、200棟を超える住宅に被害が出ているということで、現地では食料や水などの確保が喫緊の課題となっていま…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260816de44411",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Ｍ７．７の地震、４７人死亡　１．６メートルの津波観測―インドネシア",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500208&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -235,6 +243,14 @@
       "hasPrimary": false,
       "members": [
         {
+          "title": "広島、遠い３連勝　プロ野球",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081600349&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
           "title": "ヤクルト４連勝　プロ野球・ヤクルト２―１ＤｅＮＡ",
           "snippet": "",
           "source": "時事ドットコム",
@@ -247,14 +263,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081600368&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "広島、遠い３連勝　プロ野球",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081600349&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -290,6 +298,35 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-16T16:50:22.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【高知県気象警報・注意報】高知県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816165023_0_VPWW54_390000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【高知県気象警報・注意報】高知県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816165023_0_VPWW53_390000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象警報・注意報（Ｒ０６）（土砂）",
       "slug": "気象警報注意報土砂",
       "time": "2026-08-16T16:43:18.000Z",
@@ -313,64 +350,6 @@
           "snippet": "【三重県土砂災害警報・注意報】南部では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260816141458_0_VPWW56_240000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-16T13:57:48.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816135748_0_VPWW54_473000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816135748_0_VPWW53_473000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-16T13:57:47.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【八重山地方気象警報・注意報】八重山地方では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816135748_0_VPWW53_474000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【八重山地方気象警報・注意報】八重山地方では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816135748_0_VPWW54_474000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -587,69 +566,6 @@
       ]
     },
     {
-      "headline": "豪、「ワーホリ」受け入れ抑制　極右台頭で移民政策見直し",
-      "slug": "豪ワホリ受け入れ抑制極右台頭で移民政策見直し",
-      "time": "2026-08-16T07:42:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "豪、「ワーホリ」受け入れ抑制　極右台頭で移民政策見直し",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081600237&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "風船爆弾、空腹耐え作製　「完成なら勝つ」、教師信じ―９５歳女性、名古屋の学校で・戦後８１年",
-      "slug": "風船爆弾空腹耐え作製完成なら勝つ教師信じ歳女性名",
-      "time": "2026-08-16T10:03:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "風船爆弾、空腹耐え作製　「完成なら勝つ」、教師信じ―９５歳女性、名古屋の学校で・戦後８１年",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081600180&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "日本、韓国に連勝　河村が２４得点―バスケット男子",
-      "slug": "日本韓国に連勝河村が得点バスケット男子",
-      "time": "2026-08-16T12:11:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "日本、韓国に連勝　河村が２４得点―バスケット男子",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081600300&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "左派現職と右派の前職長男が激突へ　大統領選立候補締め切り―ブラジル",
       "slug": "左派現職と右派の前職長男が激突へ大統領選立候補締",
       "time": "2026-08-16T10:05:00.000Z",
@@ -692,9 +608,9 @@
       ]
     },
     {
-      "headline": "高市首相は靖国神社に玉串料（たまぐしりょう）を納めた",
-      "slug": "高市首相は靖国神社に玉串料たまぐしりょうを納めた",
-      "time": "2026-08-14T23:15:00.000Z",
+      "headline": "豪、「ワーホリ」受け入れ抑制　極右台頭で移民政策見直し",
+      "slug": "豪ワホリ受け入れ抑制極右台頭で移民政策見直し",
+      "time": "2026-08-16T07:42:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -703,10 +619,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "高市首相は靖国神社に玉串料（たまぐしりょう）を納めた",
+          "title": "豪、「ワーホリ」受け入れ抑制　極右台頭で移民政策見直し",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081500200&g=flash&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081600237&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "超党派約９０人が靖国参拝",
+      "slug": "超党派約人が靖国参拝",
+      "time": "2026-08-15T03:06:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "超党派約９０人が靖国参拝",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081500281&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "風船爆弾、空腹耐え作製　「完成なら勝つ」、教師信じ―９５歳女性、名古屋の学校で・戦後８１年",
+      "slug": "風船爆弾空腹耐え作製完成なら勝つ教師信じ歳女性名",
+      "time": "2026-08-16T10:03:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "風船爆弾、空腹耐え作製　「完成なら勝つ」、教師信じ―９５歳女性、名古屋の学校で・戦後８１年",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081600180&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -715,70 +673,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-16T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816140031_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-16T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816140034_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-16T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル３（入山規制）です。阿蘇山で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816140037_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-16T14:00:00.000Z",
+      "time": "2026-08-16T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -790,7 +685,7 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816140041_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170042_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -799,7 +694,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-16T14:00:00.000Z",
+      "time": "2026-08-16T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -811,7 +706,7 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１７日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816140045_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -820,7 +715,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-16T14:00:00.000Z",
+      "time": "2026-08-16T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -830,9 +725,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１７日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816140049_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170049_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -841,7 +736,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-16T14:00:00.000Z",
+      "time": "2026-08-16T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -853,7 +748,7 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１７日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816140052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170052_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -862,7 +757,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-16T14:00:00.000Z",
+      "time": "2026-08-16T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -874,7 +769,112 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816140056_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170056_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-16T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170031_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-16T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-16T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル３（入山規制）です。阿蘇山で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170037_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-16T16:50:08.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【高知県大雨警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816165008_0_VPWW55_390000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-16T13:57:48.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816135748_0_VPWW53_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
