@@ -1,195 +1,214 @@
 {
-  "builtAt": "2026-08-16T08:49:32.210Z",
+  "builtAt": "2026-08-16T17:55:17.429Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "初出場の有明が８強　横浜、花巻東、健大高崎も―全国高校野球",
-      "slug": "初出場の有明が強横浜花巻東健大高崎も全国高校野球",
-      "independentSources": 3,
+      "headline": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "slug": "TwelvekilledasPolishbusv",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "BBC World"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44389"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44428"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44323"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44411"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44416"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591963?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6591993?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081600102&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026081500208&g=int&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081600219&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026081600266&g=soc&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081600192&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081600190&g=spo&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "横浜高校は霞ヶ浦高校に勝利したか？",
+      "issue": "各地で発生した災害の状況と影響はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "夏の全国高校野球大会12日目の第4試合で、神奈川の横浜高校が茨城の霞ヶ浦高校に5対2で勝利し、準々決勝に進出した。",
-          "span": "横浜高校が茨城の霞ヶ浦高校に5対2で勝って、準々決勝進出を決めました",
+          "t": "千葉県で記録的な豪雨が発生し、死者が10人になった。",
+          "span": "亡くなった人は10人になりました",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "横浜高校は霞ヶ浦高校に逆転勝利した。",
-          "span": "横浜が8強進出 霞ケ浦に逆転勝利",
+          "t": "千葉市では、水につかって動かなくなった車が市が管理する道路に約2500台残っている。",
+          "span": "水につかって動かなくなった車は市が管理する道路で2500台",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "全国高校野球で、横浜高校は8強に進出した。",
-          "span": "横浜、花巻東、健大高崎も",
+          "t": "熊本県では16日も各地で最高気温が35度以上の猛暑となり、17日も熱中症への警戒が必要な暑さが予想されている。",
+          "span": "",
           "src": [
             {
               "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "熊本県では先月、最大震度7の地震で大きな被害があった。",
+          "span": "最大震度7の地震で大きな被害があった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアで15日にマグニチュード7.7の地震が発生した。",
+          "span": "マグニチュード7.7の地震",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
-        }
-      ],
-      "positions": [],
-      "consensus": "横浜高校は霞ヶ浦高校に勝利し、準々決勝に進出した。",
-      "note": "提供された情報には、横浜高校と霞ヶ浦高校の試合に関する評価や意見は含まれていません。他の試合に関する情報も含まれていますが、本件の争点とは直接関係がないため、事実として抽出していません。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "【千葉豪雨】死者10人に 夜にかけ雨のおそれ 土砂災害に注意を",
-      "slug": "千葉豪雨死者10人に夜にかけ雨のおそれ土砂災害に",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260815de44322"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44388"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591964?source=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816075806_0_VPWW54_360000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816075806_0_VPWW53_360000.xml"
-        }
-      ],
-      "issue": "千葉県における豪雨被害の状況と避難指示の妥当性は？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "千葉県内で豪雨による死者が10人になった。",
-          "span": "千葉県内で死亡した人は10人になりました",
+          "t": "インドネシアの地震では、これまでに53人の死亡が確認された。",
+          "span": "これまでに53人の死亡が確認された",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "新たに死亡が確認されたのは30代男性で、停電した千葉市内の住宅で発電機を使用し一酸化炭素中毒で死亡した。",
-          "span": "新たに死亡が確認されたのは30代の男性で、停電した千葉市内の住宅で発電機を使用し、一酸化炭素中毒",
+          "t": "インドネシアの地震では、これまでに47人の死亡が確認された。",
+          "span": "４７人死亡",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "千葉県四街道市は、市内全域の土砂災害警戒区域などに午後3時に避難指示を発表した。",
-          "span": "市内全域の土砂災害警戒区域などに避難指示",
+          "t": "インドネシアの地震により、200棟を超える住宅に被害が出ている。",
+          "span": "200棟を超える住宅に被害が出ている",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "避難指示の理由は、これまでに降った雨などで地盤が緩み土砂災害のおそれがあるためである。",
-          "span": "これまでに降った雨などで地盤が緩み土砂災害のおそれがあるとして",
+          "t": "インドネシアの地震の被災地では、食料や水などの確保が課題となっている。",
+          "span": "食料や水などの確保が喫緊の課題となっていま",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "千葉豪雨で1人の行方不明者がいる。",
-          "span": "1人行方不明",
+          "t": "インドネシアの地震では、1.6メートルの津波が観測された。",
+          "span": "１．６メートルの津波観測",
           "src": [
             {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "徳島県南部では土砂災害に注意が必要である。",
-          "span": "南部では、土砂災害に注意してください",
+          "t": "東ヨーロッパのハンガリーで16日、ポーランド人観光客を乗せたバスが高速道路で横転した。",
+          "span": "バスが高速道路で横転し",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "徳島県では落雷に注意が必要である。",
-          "span": "徳島県では、落雷に注意してください",
+          "t": "ハンガリーでのバス横転事故で、これまでに12人が死亡した。",
+          "span": "これまでに12人が死亡し",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ハンガリーでのバス横転事故で、10人以上がけがをした。",
+          "span": "10人以上がけがをしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "千葉県内で豪雨による死者が10人になり、1人が行方不明となっている。千葉市では発電機使用による一酸化炭素中毒死も確認された。四街道市は土砂災害のおそれがあるとして市内全域に避難指示を出した。徳島県南部では土砂災害と落雷への注意が呼びかけられている。",
-      "note": "プライバシーに配慮し、被害者の詳細な個人情報は記載しない。",
+      "consensus": "複数の地域で災害が発生し、それぞれ被害状況が報じられている。スポーツが被災地を盛り上げているという見方も報じられている。",
+      "note": "複数の災害に関する速報的な事実報告と、スポーツの被災地への影響に関する見方が報じられている。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[0].spanを最小核に修正しました。",
+          "facts[2].tから評価語「厳重な」を削除し、中立的に修正しました。",
+          "facts[2].spanが空だったため、元テキストから該当箇所を抽出しました。",
+          "facts[3].spanを最小核に修正しました。",
+          "facts[4]の評価混入を修正するため、positionsに移動しました。",
+          "facts[5].spanを最小核に修正しました。",
+          "facts[9].tから評価語「喫緊の」を削除し、中立的に修正しました。",
+          "facts[11].spanを最小核に修正しました。",
+          "positionsが追加されたため、consensusとnoteを更新しました。",
+          "fact spanが原文に無い→除去「熊本県では16日も各地で最高気温が3…」"
+        ]
       }
     },
     {
@@ -332,8 +351,8 @@
       }
     },
     {
-      "headline": "Bangladesh make history with first-ever Test cricket win in Australia",
-      "slug": "Bangladeshmakehistorywit",
+      "headline": "Largest Ukrainian drone attack on Russia, Moscow says 822 drones shot down",
+      "slug": "LargestUkrainiandroneatt",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -345,24 +364,16 @@
           "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-ukraine-largest-drone-attack-russia-ua?traffic_source=rss"
         }
       ],
-      "issue": "ロシアによるウクライナへの空襲で死傷者は出たか？",
+      "issue": "ウクライナとロシアの間で発生した大規模な攻撃について、どのような事実や主張が報じられているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ロシアがウクライナ全土に新たな空襲を実施し、3人が死亡したと報じられた。",
-          "span": "Three killed as Russia launches fresh aerial attacks across Ukraine",
+          "t": "ロシアは、2026年で最大規模のウクライナによる攻撃により、少なくとも7人が死亡したと発表した。",
+          "span": "at least seven killed in largest Ukrainian attack of 2026",
           "src": [
             {
               "ty": "press",
@@ -371,8 +382,8 @@
           ]
         },
         {
-          "t": "キエフの市場で火災が発生し、消防隊が消火活動にあたっていると報じられた。",
-          "span": "Firefighters are tackling a fire at a market in Kyiv",
+          "t": "ロシアは夜間にウクライナに対して致命的な攻撃を開始した。",
+          "span": "launched deadly strikes against Ukraine overnight",
           "src": [
             {
               "ty": "press",
@@ -381,19 +392,164 @@
           ]
         },
         {
-          "t": "モスクワは、倉庫が攻撃されたと報告したと報じられた。",
-          "span": "while Moscow reports that a warehouse was hit",
+          "t": "その攻撃により、首都キーウ全域で火災が発生した。",
+          "span": "sparking fires across the capital Kyiv",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナはロシア全土に数百機のドローンを発射した。",
+          "span": "Ukraine launched hundreds of drones across Russia",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "その攻撃により、少なくとも6人が死亡した。",
+          "span": "killing at least six people",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナのドローン攻撃により、ワイルドベリーズの物流拠点に命中した。",
+          "span": "striking a Wildberries logistics hub",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ロシアは、ウクライナによるロシアへの過去最大規模のドローン攻撃で、822機のドローンが撃墜されたと発表した。",
+          "span": "822 drones shot down",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ロシアによるウクライナへの空襲で3人が死亡し、キエフの市場で火災が発生した。モスクワは倉庫への攻撃を報告した。",
-      "note": null,
+      "consensus": "ウクライナとロシアの間で大規模な攻撃が発生し、双方に死者が出たこと、ロシア国内の物流拠点への攻撃、ウクライナ首都キーウでの火災発生、および攻撃の規模に関する双方の主張が報じられている。これらの事実や主張に対する評価は記事中にないため、アプリは裁定しない。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "issue: 問いが単純な事実確認であったため、テキストの内容（事実と主張）をより反映する形に修正しました。",
+          "spanの最小核: facts[1]のspanが複数の事象をまとめていたため、2つの独立した事実項目に分割し、それぞれのspanを最小核に修正しました。",
+          "spanの最小核: facts[2]のtがspanに含まれない情報（ドローン発射）を含んでいたため、ドローン発射に関する新しい事実項目を追加し、元のfacts[2]のtをspanに合うように修正しました。",
+          "consensus: issueとfactsの変更に合わせて、consensusの内容を更新しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "slug": "HurricaneLalasparksflash",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss"
+        }
+      ],
+      "issue": "ハリケーン・ララがハワイに与えている影響と現状は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ハリケーン・ララがハワイで鉄砲水を引き起こしている。",
+          "span": "sparks flash floods",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "強風と雨が続いている。",
+          "span": "strong winds and rain persist",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "当局は、最悪の被害地域で鉄砲水により家屋が流され、中に人がいた可能性があると述べている。",
+          "span": "flash flooding may have swept away homes with people in them",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ハリケーン・ララは熱帯低気圧に勢力を弱めた。",
+          "span": "weakens to a tropical storm",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ハワイでは洪水が続いている。",
+          "span": "flooding persists",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "このハリケーンは、ハワイ州ビッグアイランドをかすめた。",
+          "span": "grazes the Big Island",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "上陸は避けた。",
+          "span": "avoids making landfall",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ハリケーン・ララはハワイで鉄砲水を引き起こし、強風と雨が続いている。勢力は熱帯低気圧に弱まったものの、洪水は継続しており、ビッグアイランドをかすめたが上陸は避けた。当局は、最悪の被害地域で家屋が流された可能性を指摘している。",
+      "note": "",
       "audit": {
         "changed": false,
         "issues": []
