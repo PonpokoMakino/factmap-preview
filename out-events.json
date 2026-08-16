@@ -1,19 +1,27 @@
 {
-  "rankedAt": "2026-08-16T07:17:23.337Z",
+  "rankedAt": "2026-08-16T07:48:58.544Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "【千葉豪雨】死者9人 夜にかけ雨のおそれ 土砂災害に注意を",
       "slug": "千葉豪雨死者9人夜にかけ雨のおそれ土砂災害に注意",
-      "time": "2026-08-16T07:15:01.000Z",
+      "time": "2026-08-16T07:36:06.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 6,
+      "count": 8,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "千葉県四街道市 市内全域の土砂災害警戒区域などに避難指示",
+          "snippet": "千葉県四街道市はこれまでに降った雨などで地盤が緩み土砂災害のおそれがあるとして、午後3時に市内全域の土砂災害警戒区域や土砂災害特別警戒区域に指定されている地域などに「避難指示」を発表しました。\n\n5段…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44388",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "【千葉豪雨】死者9人 夜にかけ雨のおそれ 土砂災害に注意を",
           "snippet": "線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、これまでに9人の死亡が確認されました。住宅も大きな被害が出ていて、浸水の被害は床上と床下を含めると1200棟を超えます。\n千葉県では湿った空…",
@@ -21,6 +29,22 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260815de44322",
           "ty": "press",
           "linkKind": "article"
+        },
+        {
+          "title": "府県気象解説情報",
+          "snippet": "【長崎県気象解説情報（大雨）】壱岐・対馬、五島では、１６日夜のはじめ頃から１７日昼前にかけて、土砂災害や低い土地の浸水、河川の増水や氾濫に注意・警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816073031_0_VPFJ51_420000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象情報",
+          "snippet": "【長崎県気象解説情報（大雨）】壱岐・対馬、五島では、１６日夜のはじめ頃から１７日昼前にかけて、土砂災害や低い土地の浸水、河川の増水や氾濫に注意・警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816073031_0_VPFJ50_420000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
@@ -51,14 +75,6 @@
           "snippet": "【群馬県気象警報・注意報】南部では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260816070350_0_VPWW53_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【群馬県土砂災害警報・注意報】南部では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816070344_0_VPWW56_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -111,52 +127,6 @@
       ]
     },
     {
-      "headline": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-      "slug": "RussianstrikeskillUkrain",
-      "time": "2026-08-16T04:54:33.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 4,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-          "snippet": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier actio",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
-          "snippet": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
-          "snippet": "Romania&#039;s Defence Ministry didn&#039;t specify origin of the drone but has previously blamed Russia for similar inc",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Israel strikes south Lebanon again as families flee north",
-          "snippet": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
       "slug": "Australiagunbuybackspurr",
       "time": "2026-08-16T06:40:50.000Z",
@@ -165,7 +135,7 @@
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 3,
+      "count": 4,
       "hasPrimary": false,
       "members": [
         {
@@ -185,6 +155,14 @@
           "linkKind": "article"
         },
         {
+          "title": "Ukraine targets Moscow in mass drone attack as Russia bombards Kyiv",
+          "snippet": "Russian authorities report 201 Ukrainian drones downed overnight in the Moscow region during the escalating conflict.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
           "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
           "snippet": "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year.",
           "source": "Al Jazeera",
@@ -195,9 +173,9 @@
       ]
     },
     {
-      "headline": "Observers say Zambia’s election marred by reports of intimidation, violence",
-      "slug": "ObserverssayZambiaselect",
-      "time": "2026-08-16T06:06:31.000Z",
+      "headline": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+      "slug": "Familystrandedatseafor16",
+      "time": "2026-08-16T04:43:21.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -207,26 +185,26 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-          "snippet": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+          "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+          "snippet": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier actio",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "A nation divided: What do Israelis want in October’s elections?",
-          "snippet": "Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
+          "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
+          "snippet": "A father and his two young sons spent a night adrift before being rescued off the coast of the island of Koh Samui.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
-          "snippet": "Vote counting in Thursday&#039;s presidential polls were briefly suspended amid security threats to the electoral proces",
+          "title": "Israel strikes south Lebanon again as families flee north",
+          "snippet": "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -408,27 +386,6 @@
       ]
     },
     {
-      "headline": "“交渉期限”迫る イラン「停戦存在せず」 米も対決姿勢",
-      "slug": "交渉期限迫るイラン停戦存在せず米も対決姿勢",
-      "time": "2026-08-16T06:40:14.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "“交渉期限”迫る イラン「停戦存在せず」 米も対決姿勢",
-          "snippet": "アメリカとイランが交わした覚書の当初定められた交渉期限が迫る中、イランのアラグチ外相は、期限を延長すべき停戦は存在していないとの認識を示しました。アメリカ側も対決姿勢を崩しておらず、こう着状態が続いて…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44371",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "お盆のUターンラッシュ 新幹線と空の便がピークに",
       "slug": "お盆のUタンラッシュ新幹線と空の便がピクに",
       "time": "2026-08-16T04:08:14.000Z",
@@ -471,9 +428,9 @@
       ]
     },
     {
-      "headline": "軍人に殴られた痛み 少年の記憶",
-      "slug": "軍人に殴られた痛み少年の記憶",
-      "time": "2026-08-16T03:06:07.000Z",
+      "headline": "防空壕で生まれた自民森山氏 思い",
+      "slug": "防空壕で生まれた自民森山氏思い",
+      "time": "2026-08-16T07:24:48.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -482,19 +439,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "軍人に殴られた痛み 少年の記憶",
+          "title": "防空壕で生まれた自民森山氏 思い",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591928?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591954?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "露がウクライナの子連れ去り 実態",
-      "slug": "露がウクライナの子連れ去り実態",
-      "time": "2026-08-16T01:13:15.000Z",
+      "headline": "ベルギーで過去最大規模の山火事",
+      "slug": "ベルギで過去最大規模の山火事",
+      "time": "2026-08-16T05:38:01.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -503,10 +460,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "露がウクライナの子連れ去り 実態",
+          "title": "ベルギーで過去最大規模の山火事",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591913?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591943?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -534,27 +491,6 @@
       ]
     },
     {
-      "headline": "脱「絶叫遊園地」富士急G転換点",
-      "slug": "脱絶叫遊園地富士急G転換点",
-      "time": "2026-08-16T07:03:59.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "脱「絶叫遊園地」富士急G転換点",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591952?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "高専「ネーミングライツ」広がる",
       "slug": "高専ネミングライツ広がる",
       "time": "2026-08-16T06:46:17.000Z",
@@ -570,27 +506,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591951?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "生後4カ月でがん 眼球摘出を決断",
-      "slug": "生後4カ月でがん眼球摘出を決断",
-      "time": "2026-08-16T03:44:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "生後4カ月でがん 眼球摘出を決断",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591932?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -618,9 +533,9 @@
       ]
     },
     {
-      "headline": "速報甲子園 霞ケ浦vs.横浜",
-      "slug": "速報甲子園霞ケ浦vs横浜",
-      "time": "2026-08-16T06:11:00.000Z",
+      "headline": "生後4カ月でがん 眼球摘出を決断",
+      "slug": "生後4カ月でがん眼球摘出を決断",
+      "time": "2026-08-16T03:44:24.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -629,10 +544,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "速報甲子園 霞ケ浦vs.横浜",
+          "title": "生後4カ月でがん 眼球摘出を決断",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591948?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6591932?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "子ども用ハーネス賛否 識者の見解",
+      "slug": "子ども用ハネス賛否識者の見解",
+      "time": "2026-08-16T07:23:29.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "子ども用ハーネス賛否 識者の見解",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591953?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "速報甲子園 横浜が霞ケ浦を逆転",
+      "slug": "速報甲子園横浜が霞ケ浦を逆転",
+      "time": "2026-08-16T07:41:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "速報甲子園 横浜が霞ケ浦を逆転",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6591959?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -912,27 +869,6 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-16T07:03:05.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】小笠原諸島では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816070306_0_VPWW54_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "Hawaii battles strong winds and rain as Hurricane Lala threat looms",
       "slug": "Hawaiibattlesstrongwinds",
       "time": "2026-08-16T06:53:22.000Z",
@@ -969,6 +905,27 @@
           "snippet": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+      "slug": "Moroccodetainsdozensofmi",
+      "time": "2026-08-15T20:58:31.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
+          "snippet": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1038,6 +995,27 @@
       ]
     },
     {
+      "headline": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+      "slug": "UFC330Makhachevsecuresre",
+      "time": "2026-08-16T07:04:29.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
+          "snippet": "Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "How a simple lighter has become the backbone of life in Gaza",
       "slug": "Howasimplelighterhasbeco",
       "time": "2026-08-16T06:10:58.000Z",
@@ -1053,6 +1031,27 @@
           "snippet": "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "A nation divided: What do Israelis want in October’s elections?",
+      "slug": "AnationdividedWhatdoIsra",
+      "time": "2026-08-16T06:06:31.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "A nation divided: What do Israelis want in October’s elections?",
+          "snippet": "Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
