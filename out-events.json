@@ -1,20 +1,29 @@
 {
-  "rankedAt": "2026-08-16T21:38:43.785Z",
+  "rankedAt": "2026-08-16T21:55:14.519Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "Ｍ７．７の地震、４７人死亡　１．６メートルの津波観測―インドネシア",
       "slug": "の地震人死亡メトルの津波観測インドネシア",
-      "time": "2026-08-16T17:39:00.000Z",
-      "independentSources": 3,
+      "time": "2026-08-16T21:45:31.000Z",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "気象庁 地震・火山"
       ],
-      "count": 5,
-      "hasPrimary": false,
+      "count": 10,
+      "hasPrimary": true,
       "members": [
+        {
+          "title": "【地震速報】福岡 糸島で震度4 津波の心配なし",
+          "snippet": "17日午前6時37分ごろ地震がありました。\nこの地震による津波の心配はありません。\n震源地は福岡県福岡地方で震源の深さは10キロ、地震の規模を示すマグニチュードは4.4と推定されます。\n各市町村の震度…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260817de44445",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "千葉豪雨 死者10人 千葉市で車約2500台が路上に残る",
           "snippet": "記録的な豪雨となった千葉県では、16日、新たに1人の死亡が確認されたと県が発表し、亡くなった人は10人になりました。また、千葉市によりますと、水につかって動かなくなった車は市が管理する道路で2500台…",
@@ -24,10 +33,10 @@
           "linkKind": "article"
         },
         {
-          "title": "ハンガリーでポーランド人観光客乗せたバス 横転事故 12人死亡",
-          "snippet": "東ヨーロッパのハンガリーで16日、ポーランド人観光客を乗せたバスが高速道路で横転し、これまでに12人が死亡し、10人以上がけがをしました。",
+          "title": "熊本地震 地震活動と暑さに注意 できるかぎりの熱中症対策を",
+          "snippet": "熊本地震の発生からまもなく3週間ですが、16日も震度3の地震が起きるなど、地震活動は依然として活発な状態が続いています。引き続き、強い揺れを伴う地震に注意してください。\nまた、17日も熊本県では厳しい…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44416",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44421",
           "ty": "press",
           "linkKind": "article"
         },
@@ -36,6 +45,14 @@
           "snippet": "インドネシアで15日発生したマグニチュード7.7の地震では、これまでに53人の死亡が確認されたほか、200棟を超える住宅に被害が出ているということで、現地では食料や水などの確保が喫緊の課題となっていま…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260816de44411",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "福岡県で震度4 津波の心配なし",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592009?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -54,6 +71,30 @@
           "link": "https://www.jiji.com/jc/article?k=2026081500208&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１７日０６時３７分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816214112_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう１７日０６時３７分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816214021_0_VXSE52_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震度速報",
+          "snippet": "【震度速報】１７日０６時３７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816213853_0_VXSE51_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -108,64 +149,6 @@
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向、１７日２１時から２４時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816200040_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170042_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１７日０９時から１２時までは火口から北西方向、１７日２１時から２４時までは火口から北西方向に降灰が予想され",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816200044_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１７日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816170045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -301,27 +284,6 @@
           "snippet": "アメリカ軍と韓国軍は、17日から朝鮮半島有事を想定した定例の合同軍事演習を行います。イ・ジェミョン（李在明）政権が北朝鮮との対話を模索する中、野外での機動訓練は縮小される予定ですが、北朝鮮は反発してい…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260816de44424",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "熊本地震 地震活動と暑さに注意 できるかぎりの熱中症対策を",
-      "slug": "熊本地震地震活動と暑さに注意できるかぎりの熱中症",
-      "time": "2026-08-16T20:48:39.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "熊本地震 地震活動と暑さに注意 できるかぎりの熱中症対策を",
-          "snippet": "熊本地震の発生からまもなく3週間ですが、16日も震度3の地震が起きるなど、地震活動は依然として活発な状態が続いています。引き続き、強い揺れを伴う地震に注意してください。\nまた、17日も熊本県では厳しい…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260816de44421",
           "ty": "press",
           "linkKind": "article"
         }
@@ -490,27 +452,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6592007?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "広島・小園が懲罰交代 ミス連発",
-      "slug": "広島小園が懲罰交代ミス連発",
-      "time": "2026-08-16T13:27:26.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "広島・小園が懲罰交代 ミス連発",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6591997?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -718,6 +659,48 @@
       "members": [
         {
           "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向、１７日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816200040_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-16T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１７日０９時から１２時までは火口から北西方向、１７日２１時から２４時までは火口から北西方向に降灰が予想され",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816200044_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-16T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
           "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１７日０９時から１２時までは火口から北西方向、１７日２１時から２４時までは火口から北西方向に降灰が予想され",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260816200048_0_VFVO53_010000.xml",
@@ -805,27 +788,6 @@
           "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向、１７日２１時から２４時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260816200033_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル３（入山規制）です。阿蘇山で噴火が発生した場合には、１７日０９時から１２時までは火口から北方向、１７日２１時から２４時までは火口から北方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260816200036_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
