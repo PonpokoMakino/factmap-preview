@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-16T18:27:12.444Z",
+  "builtAt": "2026-08-16T19:22:32.384Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -456,8 +456,8 @@
       }
     },
     {
-      "headline": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-      "slug": "HurricaneLalasparksflash",
+      "headline": "Hurricane Lala weakens to a tropical storm, but flooding persists in Hawaii",
+      "slug": "HurricaneLalaweakenstoat",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -473,12 +473,12 @@
           "link": "https://www.aljazeera.com/news/2026/8/16/hurricane-lala-weakens-to-a-tropical-storm-but-flooding-persists-in-hawaii?traffic_source=rss"
         }
       ],
-      "issue": "ハリケーン・ララがハワイに与えている影響と現状は何か？",
+      "issue": "ハリケーン・ララはハワイにどのような影響を与えたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ハリケーン・ララがハワイで鉄砲水を引き起こしている。",
-          "span": "sparks flash floods",
+          "t": "ハリケーン・ララがハワイを襲った後、1人が死亡した。",
+          "span": "One dead",
           "src": [
             {
               "ty": "press",
@@ -487,8 +487,8 @@
           ]
         },
         {
-          "t": "強風と雨が続いている。",
-          "span": "strong winds and rain persist",
+          "t": "複数の家屋が基礎から流された。",
+          "span": "homes swept away",
           "src": [
             {
               "ty": "press",
@@ -497,8 +497,8 @@
           ]
         },
         {
-          "t": "当局は、最悪の被害地域で鉄砲水により家屋が流され、中に人がいた可能性があると述べている。",
-          "span": "flash flooding may have swept away homes with people in them",
+          "t": "捜索救助活動が進行中である。",
+          "span": "operation is under way",
           "src": [
             {
               "ty": "press",
@@ -507,7 +507,7 @@
           ]
         },
         {
-          "t": "ハリケーン・ララは熱帯低気圧に勢力を弱めた。",
+          "t": "ハリケーン・ララは熱帯低気圧に弱まった。",
           "span": "weakens to a tropical storm",
           "src": [
             {
@@ -518,7 +518,7 @@
         },
         {
           "t": "ハワイでは洪水が続いている。",
-          "span": "flooding persists",
+          "span": "flooding persists in Hawaii",
           "src": [
             {
               "ty": "press",
@@ -527,8 +527,8 @@
           ]
         },
         {
-          "t": "このハリケーンは、ハワイ州ビッグアイランドをかすめた。",
-          "span": "grazes the Big Island",
+          "t": "ハリケーンはハワイのビッグアイランドをかすめた。",
+          "span": "grazes the Big Island in Hawaii",
           "src": [
             {
               "ty": "press",
@@ -537,7 +537,7 @@
           ]
         },
         {
-          "t": "上陸は避けた。",
+          "t": "ハリケーンは上陸を避けた。",
           "span": "avoids making landfall",
           "src": [
             {
@@ -548,11 +548,14 @@
         }
       ],
       "positions": [],
-      "consensus": "ハリケーン・ララはハワイで鉄砲水を引き起こし、強風と雨が続いている。勢力は熱帯低気圧に弱まったものの、洪水は継続しており、ビッグアイランドをかすめたが上陸は避けた。当局は、最悪の被害地域で家屋が流された可能性を指摘している。",
+      "consensus": "ハリケーン・ララによりハワイで死者が出て家屋が流され、洪水が続いている。ハリケーンは熱帯低気圧に弱まり、ビッグアイランドをかすめたが上陸は避けた。これらの事実に対する評価の対立は記事中に見られない。",
       "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "spanの最小核: facts[2].spanが文全体だったため、「operation is under way」に修正しました。",
+          "spanの最小核: facts[3].spanが文全体だったため、「weakens to a tropical storm」に修正しました。"
+        ]
       }
     }
   ]
