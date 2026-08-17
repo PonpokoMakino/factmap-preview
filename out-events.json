@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-17T19:17:13.292Z",
+  "rankedAt": "2026-08-17T19:46:22.396Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -269,9 +269,9 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-17T17:00:00.000Z",
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-17T19:34:54.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -280,18 +280,47 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１８日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１８日０４時３２分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817170041_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817193454_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１８日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１７日２３時０９分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817140041_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817141159_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-17T19:32:21.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【山口県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817193222_0_VPWW54_350000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【山口県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817193222_0_VPWW53_350000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -356,8 +385,8 @@
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
       "time": "2026-08-17T19:04:25.000Z",
       "independentSources": 1,
       "sources": [
@@ -367,18 +396,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【佐賀県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817190426_0_VPWW53_410000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "気象警報・注意報（Ｈ２７）",
           "snippet": "【佐賀県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260817190426_0_VPWW54_410000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【佐賀県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817190426_0_VPWW53_410000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -825,6 +854,27 @@
       "members": [
         {
           "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１８日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817170041_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-17T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
           "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１８日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260817170045_0_VFVO53_010000.xml",
@@ -855,21 +905,21 @@
       ]
     },
     {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-17T14:11:59.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
+      "slug": "気象警報注意報暴風",
+      "time": "2026-08-17T19:32:09.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 地震・火山"
+        "気象庁 気象警報・注意報"
       ],
       "count": 1,
       "hasPrimary": true,
       "members": [
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１７日２３時０９分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817141159_0_VXSE53_270000.xml",
+          "title": "気象警報・注意報（Ｒ０６）（暴風）",
+          "snippet": "【山口県暴風（雪）警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817193210_0_VPWW58_350000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -897,72 +947,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-17T19:04:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【佐賀県雷注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817190425_0_VPWW61_410000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-17T19:04:21.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【長崎県雷注意報】壱岐・対馬、五島では、急な強い雨や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817190422_0_VPWW61_420000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-17T17:47:08.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福岡県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260817174709_0_VPWW54_400000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
       "slug": "TrumpthreatenstobombUSal",
-      "time": "2026-08-17T16:26:34.000Z",
+      "time": "2026-08-17T19:25:05.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1044,6 +1031,27 @@
       ]
     },
     {
+      "headline": "Death toll from capsized ferry in Zimbabwe rises to 92",
+      "slug": "Deathtollfromcapsizedfer",
+      "time": "2026-08-17T19:12:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Death toll from capsized ferry in Zimbabwe rises to 92",
+          "snippet": "Search efforts to recover the remaining victims are still underway.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
       "slug": "CAIRslamsTexasgovernorsa",
       "time": "2026-08-17T18:02:15.000Z",
@@ -1101,27 +1109,6 @@
           "snippet": "The cause of the blast and the number of casualties have not been confirmed, with the Taliban government yet to comment.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "British PM Burnham duped by White House impostor",
-      "slug": "BritishPMBurnhamdupedbyW",
-      "time": "2026-08-17T16:48:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "British PM Burnham duped by White House impostor",
-          "snippet": "The FBI has warned of &#039;malicious actors&#039; misusing AI to impersonate senior government officials.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
