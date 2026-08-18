@@ -1,10 +1,104 @@
 {
-  "builtAt": "2026-08-18T07:09:03.586Z",
+  "builtAt": "2026-08-18T13:11:50.653Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Trump says N Korea’s Kim has responded to his request for a conversation",
-      "slug": "TrumpsaysNKoreasKimhasre",
+      "headline": "Russia protests Japan PM’s comments after Putin’s Kuril visit",
+      "slug": "RussiaprotestsJapanPMsco",
+      "independentSources": 4,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260818de44873"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592218?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081800702&g=int&m=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/18/russia-protests-japan-pms-comments-after-putins-kuril-visit?traffic_source=rss"
+        }
+      ],
+      "issue": "ロシア外務省は、日本の武藤大使に対し、北方領土訪問への抗議についてどのように対応したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ロシア外務省は、駐在する日本の武藤大使を呼び出して抗議したことを明らかにした。",
+          "span": "駐在する日本の武藤大使を呼んで抗議したと明らかにしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ロシア外務省は、日本政府がプーチン大統領の北方領土訪問に抗議したことへの対応として抗議した。",
+          "span": "プーチン大統領の北方領土訪問に日本政府が抗議したことを受け、ロシア外務省は、",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "日本大使館によると、武藤大使は日本側の立場を適切に説明した。",
+          "span": "日本大使館によりますと武藤大使は、日本側の立場を適切に説明したとい",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ロシア外務省は日本に「断固たる抗議」を行った。",
+          "span": "日本に「断固たる抗議」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ロシアは、首相の発言を受けて日本の駐モスクワ大使を召喚し抗議した。",
+          "span": "Russia summons Japan&#039;s ambassador to Moscow over Prime Minister Sanae ⁠Takaichi&#039;s &#039;anti-Russian&#039; rem",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシア外務省は、日本政府の北方領土訪問への抗議に対し、駐日大使を呼び出して抗議したと発表した。日本大使館側は、大使が日本側の立場を適切に説明したと述べている。",
+      "note": "Al Jazeera の記事では、抗議の理由が「首相の反ロシア的な発言」とされているが、NHKの記事では「プーチン大統領の北方領土訪問」が理由とされている。両方の情報源を提示する。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0]のtをより正確な表現に修正しました。",
+          "facts[1]のtをより正確な表現に修正しました。",
+          "consensusの内容を、事実と異なる評価や推測を排除するように修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "India’s ‘Cockroach’ movement makes schools next battleground against Modi",
+      "slug": "IndiasCockroachmovementm",
       "independentSources": 3,
       "sources": [
         "時事ドットコム",
@@ -14,154 +108,27 @@
       "links": [
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081800154&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026081800913&g=int&m=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c1e154qjw96o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cly8m31nvmgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss"
+          "link": "https://www.aljazeera.com/features/2026/8/18/indias-cockroach-movement-makes-schools-next-battleground-against-modi?traffic_source=rss"
         }
       ],
-      "issue": "トランプ氏による米韓合同軍事演習の「大幅な縮小」の意図と、北朝鮮との対話の進展は、地域安全保障にどのように影響するか？",
-      "stasis": "因果の解釈（割れる）",
-      "facts": [
-        {
-          "t": "トランプ氏は、韓国との合同軍事演習を「大幅に縮小する」と述べた。",
-          "span": "the US will \"substantially reduce\" joint military exercises with South Korea",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏は、北朝鮮の金正恩氏との対話が「非常に良い関係」に基づいていると述べた。",
-          "span": "citing his \"very good relations",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏は、金正恩氏が会話の要請に「非常に肯定的に」応じたことを明らかにした。",
-          "span": "North Korea’s leader Kim Jong Un has responded ‘very positively’",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏は、金正恩氏との会話は「肯定的な」段階にあると述べた。",
-          "span": "conversations with Kim Jong Un at a &#039;positive&#039; stage",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "ドナルド・トランプ氏",
-          "stance": "support",
-          "claim": "金正恩氏との対話は、韓国をより安全にする。",
-          "span": "talking to North Korea’s Kim makes the south safer",
-          "reason": "金正恩氏が会話の要請に「非常に肯定的に」応じたため。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "ドナルド・トランプ氏",
-          "stance": "attack",
-          "claim": "韓国は（演習への不参加等で）不満を抱かせている。",
-          "span": "slams Seoul for refusing to join wa",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "ドナルド・トランプ氏",
-          "stance": "neutral",
-          "claim": "金正恩氏との「対話」について言及した。",
-          "span": "正恩氏との「対話」言及",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "consensus": "トランプ氏は金正恩氏との対話が肯定的な段階にあると述べ、韓国との合同軍事演習を縮小する意向を示した。評価は割れる。",
-      "note": "プライバシー配慮のため、個人名は特定可能な範囲で記載。韓国の具体的な不満の内容は、提示された情報からは特定できないため、トランプ氏の「不満」という言及のみを構造化。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "「四千頭身」都築メンバーを書類送検　イベント会場で女性の下半身触ったか―警視庁",
-      "slug": "四千頭身都築メンバを書類送検イベント会場で女性の",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260818de44696"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592171?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081800449&g=soc&m=rss"
-        }
-      ],
-      "issue": "お笑いグループ「四千頭身」のメンバーである都築拓紀氏の迷惑防止条例違反容疑に関する事実関係は明らかになっているか？",
+      "issue": "フィリピン南部のカトリック学校で発生した銃撃事件で生徒1人が死亡したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "人気お笑いグループ「四千頭身」の都築拓紀メンバーが、都内のイベント会場で面識のない女性の下半身を触ったとして、迷惑防止条例違反の疑いで書類送検されたことが捜査関係者への取材でわかった。",
-          "span": "人気お笑いグループ、「四千頭身」の都築拓紀メンバーが都内のイベント会場で面識のない女性の下半身を触ったとして書類送検されたことが捜査関係者への取材でわかりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "都築拓紀メンバーは、イベント会場で女性の下半身を触った疑いがもたれている。",
-          "span": "イベント会場で女性の下半身触ったか",
+          "t": "フィリピン南部のカトリック学校で銃撃事件が発生し、生徒1人が死亡した。",
+          "span": "学校で銃撃、生徒１人死亡",
           "src": [
             {
               "ty": "press",
@@ -170,51 +137,114 @@
           ]
         },
         {
-          "t": "都築拓紀メンバーが所属する事務所は、事実関係を確認中である。",
-          "span": "事実関係を確認中",
+          "t": "犯行とされる行為はSNSでライブ配信された。",
+          "span": "犯行をＳＮＳでライブ配信",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "容疑者とされる人物も生徒であり、その後自殺した。",
+          "span": "The alleged shooter, also a student, later took his own life.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インドの学生リーダー、デベンドラ・ナス・マートー氏が16日間のハンガーストライキを終えた。",
+          "span": "Indian student leader ends hunger strike after 16 days",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この抗議活動は数週間前に始まり、ジャールカンド州での試験改革を要求していた。",
+          "span": "Devendra Nath Mahto was part of a larger protest which began weeks ago, demanding exam reforms in Jharkhand state.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インドの「ゴキブリ」運動は、モディ首相に対する新たな闘いの場として学校を標的にしている。",
+          "span": "India’s ‘Cockroach’ movement makes schools next battleground against Modi",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "「ゴキブリ」運動のリーダーは支持者に対し、最寄りの政府運営学校を監査するよう求めた。",
+          "span": "Cockroach leaders asked supporters to audit their nearest government-run schools.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "お笑いグループ「四千頭身」の都築拓紀メンバーが、イベント会場で女性の下半身を触ったとして迷惑防止条例違反の疑いで書類送検されたことが報じられている。所属事務所は事実関係を確認中である。",
-      "note": "プライバシーに配慮し、被害者の特定につながる情報は含んでいない。",
+      "consensus": "フィリピン南部のカトリック学校で銃撃事件が発生し、生徒1人が死亡し、犯行とされる行為はSNSでライブ配信された。容疑者とされる人物も生徒であり、その後自殺した。インドでは学生リーダーがハンガーストライキを終え、試験改革を求める抗議活動が行われている。また、インドの「ゴキブリ」運動は学校を新たな闘いの場としている。",
+      "note": "複数の異なる事件に関する情報が含まれているため、それらを区別して構造化しました。インドの学生リーダーのハンガーストライキと「ゴキブリ」運動は、フィリピンの銃撃事件とは直接関連がない可能性がありますが、提供されたテキストに含まれていました。",
       "audit": {
         "changed": true,
         "issues": [
-          "consensusの「評価は割れる。」は元テキストに根拠がないため削除しました。",
-          "positionsのactorを「四千頭身」から「所属事務所」に変更しました。元テキストでは「所属する事務所は、事実関係を確認中…」とあり、発言主体は事務所であるためです。"
+          "consensus: 元のconsensusは「評価は割れる。」という評価語を含んでいましたが、これは事実の要約ではなく、検品係の判断が入っているため削除しました。",
+          "positions: positionsのclaimが「〜と述べている／と報じられている」というメタ記述になっていなかったため修正しました。",
+          "positions: positionsのclaimに「それは殺害事件から始まった」という、元のテキストには直接書かれていない推測が含まれていたため削除しました。"
         ]
       }
     },
     {
-      "headline": "【ライブ】自衛隊の戦闘機 那覇空港滑走路上で停止 トラブルか",
-      "slug": "ライブ自衛隊の戦闘機那覇空港滑走路上で停止トラブ",
+      "headline": "熊本 八代市 7月28日の地震直後から出していた避難指示を解除",
+      "slug": "熊本八代市7月28日の地震直後から出していた避難",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260818de44743"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260818de44879"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592172?source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260818de44700"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260818de44728"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260818093832_0_VXSE53_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260818085945_0_VXSE53_270000.xml"
         }
       ],
-      "issue": "那覇空港で自衛隊の戦闘機が滑走路上で停止した原因は何か？",
-      "stasis": "事実",
+      "issue": "熊本地震における避難指示の解除は妥当か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "沖縄県の那覇空港の第2滑走路上で、自衛隊のF15戦闘機とみられる機体が停止しているのが確認された。",
-          "span": "沖縄県の那覇空港の第2滑走路上で、自衛隊のF15戦闘機とみられる機体が停止しているのが確認されました",
+          "t": "熊本県八代市は、7月28日の地震直後から市内全域に出していた避難指示を18日午後6時に解除した。",
+          "span": "市内全域に出していた避難指示について、18日午後6時に解除しました",
           "src": [
             {
               "ty": "press",
@@ -223,8 +253,8 @@
           ]
         },
         {
-          "t": "機体の停止は18日午後1時すぎに確認された。",
-          "span": "18日午後1時すぎ",
+          "t": "避難指示解除の理由として、八代市は地震回数の減少傾向や、電気・ガス・水の復旧を挙げている。",
+          "span": "地震の回数が減少傾向にあり、電気やガス、水",
           "src": [
             {
               "ty": "press",
@@ -233,104 +263,95 @@
           ]
         },
         {
-          "t": "停止の原因はトラブルの可能性がある。",
-          "span": "トラブルか",
+          "t": "7月28日の熊本地震で、熊本県宇城市で観測された震度7の揺れは、現在の耐震基準を満たす建物でも倒壊するほどの強さだった可能性があることが専門家の分析でわかった。",
+          "span": "現在の耐震基準を満たす建物でも倒壊するほどの強さだった可能性のあることがわかりました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "18日18時36分頃に地震があった。",
+          "span": "１８日１８時３６分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "18日17時56分頃に地震があった。",
+          "span": "１８日１７時５６分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "那覇空港の第2滑走路上で、自衛隊のF15戦闘機とみられる機体が18日午後1時すぎに停止しているのが確認された。原因はトラブルの可能性がある。",
-      "note": "本件は事実の確認に留まり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "熊本県八代市は7月28日の地震直後から出していた避難指示を18日午後6時に解除した。解除の理由として地震回数の減少やライフラインの復旧を挙げている。専門家は、震度7の揺れが現在の耐震基準の建物でも倒壊する可能性があったと分析している。18日には18時36分頃と17時56分頃に地震があった。高市総理大臣は、熊本県の知事らからの要望に対し、支援パッケージを速やかにまとめる考えを示した。",
+      "note": "プライバシー配慮のため、被害を受けた個人の特定につながる情報は含んでいません。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "横浜 交際相手の2歳長男に傷害容疑で会社員逮捕 長男は死亡",
-      "slug": "横浜交際相手の2歳長男に傷害容疑で会社員逮捕長男",
+      "headline": "Premier League what to know: Schedule, prediction, transfers and more",
+      "slug": "PremierLeaguewhattoknowS",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260818de44707"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592162?source=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/18/premier-league-football-what-to-know-schedule-prediction-transfers-2026-27-season?traffic_source=rss"
         }
       ],
-      "issue": "交際相手の長男への傷害致死事件について、事件の経緯と容疑者の逮捕は妥当か？",
-      "stasis": "事実",
+      "issue": "中国当局による元首相の追悼に対する検閲は、現指導部への批判につながる懸念によるものか？",
+      "stasis": "動機の解釈",
       "facts": [
         {
-          "t": "横浜市のアパートで、交際相手の女性の2歳の長男が顔を殴られるなどしてけがを負った。",
-          "span": "横浜市のアパートで交際している女性の2歳の長男の顔を殴るなどしてけがをさせた",
+          "t": "中国は元首相の葬儀を執り行っている。",
+          "span": "holds former premier's funeral",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "長男は搬送先の病院で死亡した。",
-          "span": "長男は搬送先の病院で死亡し",
+          "t": "中国は公衆の追悼を検閲している。",
+          "span": "censors public mourning",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "事件を受け、36歳の会社員の男が傷害の疑いで逮捕された。",
-          "span": "36歳の会社員が逮捕されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "警察は詳しいいきさつを調べている。",
-          "span": "警察が詳しい、いきさつを調べています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "2歳の男児が殴られた疑いで逮捕され、男児は死亡した。",
-          "span": "2歳男児殴った疑い逮捕 男児死亡",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "交際相手の2歳の長男が顔を殴られるなどしてけがを負い、搬送先の病院で死亡した。この件で36歳の会社員の男が傷害の疑いで逮捕された。警察が詳しいいきさつを調べている。",
-      "note": "本件は傷害致死事件の可能性があり、プライバシーに配慮し、被害者の実名や詳細な個人情報は記載しない。",
+      "consensus": "元首相の葬儀が執り行われ、公衆の追悼が検閲されている。検閲の動機については、当局が習近平国家主席の統治への批判を懸念していると報じられている。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "fact.t: \"2歳の男児が殴られた疑いで逮捕された男児は死亡したという報道がある\" を \"2歳の男児が殴られた疑いで逮捕され、男児は死亡した。\" に修正。評価語「〜という報道がある」を削除し、事実のみを抽出。",
-          "consensus: \"評価は割れる。\" を削除。元テキストおよび抽出された facts/positions に評価が割れる根拠がないため。"
+          "positionsのclaimにメタ記述（と報じられている）を追加しました。",
+          "stasisを「因果の解釈（割れる）」から「動機の解釈」に変更しました（テキスト内に複数の解釈の対立が明示されていないため）。",
+          "positions[0]に、関連する事実（facts[1]）をpremisesとして追加しました。"
         ]
       }
     }
