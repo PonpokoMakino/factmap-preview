@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-19T17:25:06.064Z",
+  "rankedAt": "2026-08-19T17:50:16.446Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -131,9 +131,9 @@
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-19T15:49:06.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-19T17:44:12.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -141,6 +141,22 @@
       "count": 6,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【長野県気象警報・注意報】中部では、低い土地の浸水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819174414_0_VPWW54_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【長野県気象警報・注意報】中部では、低い土地の浸水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819174414_0_VPWW53_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
         {
           "title": "気象特別警報・警報・注意報",
           "snippet": "【長野県気象警報・注意報】中部では、低い土地の浸水に注意してください。",
@@ -158,14 +174,6 @@
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】中部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819145330_0_VPWW53_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "気象警報・注意報（Ｈ２７）",
           "snippet": "【長野県気象警報・注意報】中部では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
@@ -174,18 +182,10 @@
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】中部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819141733_0_VPWW54_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "気象特別警報・警報・注意報",
           "snippet": "【長野県気象警報・注意報】中部では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819141733_0_VPWW53_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819145330_0_VPWW53_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -326,7 +326,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-19T15:48:57.000Z",
+      "time": "2026-08-19T17:44:07.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -338,15 +338,15 @@
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
           "snippet": "【長野県大雨警報・注意報】中部では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819154858_0_VPWW55_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819174408_0_VPWW55_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【長野県大雨警報・注意報】中部では、低い土地の浸水や河川の増水に警戒してください。",
+          "snippet": "【長野県大雨警報・注意報】中部では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819141728_0_VPWW55_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819154858_0_VPWW55_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -376,6 +376,27 @@
           "snippet": "Palestinian news outlets reported a man with the number ‘44’ written on his forehead following a raid in Qabatiya.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "米財務省が国債買い戻し倍増 長期金利上昇を押さえるねらい",
+      "slug": "米財務省が国債買い戻し倍増長期金利上昇を押さえる",
+      "time": "2026-08-19T17:04:47.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米財務省が国債買い戻し倍増 長期金利上昇を押さえるねらい",
+          "snippet": "アメリカで長期金利が上昇傾向となるなか、アメリカ財務省は償還までの期間が長い国債を買い戻す規模について、来月から少なくとも現在の倍に増やすと発表しました。\n\n政府が買い戻す国債を増やして流動性を高める…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45184",
           "ty": "press",
           "linkKind": "article"
         }
@@ -439,27 +460,6 @@
           "snippet": "市販薬と似た成分や効能を持つ「OTC類似薬」を処方された患者に、追加負担を求める新たな仕組みをめぐり、患者や医師などの団体が19日に会見を開き、対象の患者を見直すよう訴えました。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260819de45168",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "台風18号発生 非常に強い勢力に発達見込み 影響出るおそれも",
-      "slug": "台風18号発生非常に強い勢力に発達見込み影響出る",
-      "time": "2026-08-19T10:34:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "台風18号発生 非常に強い勢力に発達見込み 影響出るおそれも",
-          "snippet": "19日正午、日本のはるか南東の海上で発生した台風18号は、23日には非常に強い勢力に発達する見込みです。来週、日本に影響が出るおそれもあり、気象庁は今後の情報に注意するよう呼びかけています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45027",
           "ty": "press",
           "linkKind": "article"
         }
@@ -951,7 +951,7 @@
     {
       "headline": "South Korea shortens war games with US, citing Washington request",
       "slug": "SouthKoreashortenswargam",
-      "time": "2026-08-19T14:16:27.000Z",
+      "time": "2026-08-19T17:39:49.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
