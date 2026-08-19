@@ -1,10 +1,86 @@
 {
-  "builtAt": "2026-08-19T11:11:36.042Z",
+  "builtAt": "2026-08-19T16:50:13.553Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "20日も西日本中心に猛烈な暑さ予想 熱中症対策の徹底を",
-      "slug": "20日も西日本中心に猛烈な暑さ予想熱中症対策の徹",
+      "headline": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
+      "slug": "IndiaroutPakistanatHocke",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss"
+        }
+      ],
+      "issue": "ウクライナ人男性は2022年のノルド・ストリームパイプライン爆破事件に関与したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "2022年にノルド・ストリームパイプラインに爆発物を仕掛けたダイバーの一人が、クロアチアで逮捕されたとされている。",
+          "span": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ノルド・ストリームパイプライン爆破事件に関連して、2人目のウクライナ国籍の人物がクロアチアで逮捕された。",
+          "span": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "別のウクライナ人（元陸軍将校）が1年前に逮捕されドイツに移送された後、今回の容疑者が逮捕された。",
+          "span": "The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "2022年のノルド・ストリームパイプライン爆破事件に関連して、ウクライナ人男性がクロアチアで逮捕されたという事実は一致している。関与の有無については、 alleged（〜とされている）という表現に留まっている。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "千葉豪雨 浸水面積31平方キロ 山手線内側の半分ほどに達したか",
+      "slug": "千葉豪雨浸水面積31平方キロ山手線内側の半分ほど",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -13,19 +89,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260818de44906"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45129"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260819de44985"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592323?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6592341?source=rss"
         }
       ],
-      "issue": "西日本を中心に猛烈な暑さが続くか？",
+      "issue": "千葉県での豪雨による浸水被害の規模はどの程度か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "19日は西日本を中心に気温が上がり、熊本市では38.7度を記録した。",
-          "span": "19日は西日本を中心に気温が上がり、熊本市では38.7度",
+          "t": "千葉県では、今回の豪雨で浸水した面積が少なくとも山手線の内側の半分に当たる31平方キロに達したとみられることが測量会社の解析で分かった。",
+          "span": "浸水した面積が少なくとも山手線の内側の半分に当たる31平方キロに達したとみられることが測量会社の解析で分かりました",
           "src": [
             {
               "ty": "press",
@@ -34,8 +114,8 @@
           ]
         },
         {
-          "t": "20日も西日本を中心に猛烈な暑さが続く見込みである。",
-          "span": "20日も西日本を中心に猛烈な暑さが続く見込み",
+          "t": "千葉市では多くの車が水につかって動けなくなり、その数は県内で2700台あまりにのぼった。",
+          "span": "多くの車が水につかって動けなくなり、千葉県内で2700台あまりにのぼりました",
           "src": [
             {
               "ty": "press",
@@ -44,8 +124,18 @@
           ]
         },
         {
-          "t": "20日は日本海側で激しい雨に注意が必要である。",
-          "span": "20日 日本海側で激しい雨に注意",
+          "t": "千葉市では、冠水した道路の様子や車が水没して動けなくなるまでの記録がドライブレコーダーに残されていた。",
+          "span": "車のドライブレコーダーには冠水した道路の様子や水没して動けなくなるまでの記録が残されていました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "千葉市内の幹線道路での車の撤去は完了した。",
+          "span": "千葉市幹線道路の車撤去完了",
           "src": [
             {
               "ty": "press",
@@ -55,197 +145,147 @@
         }
       ],
       "positions": [],
-      "consensus": "20日も西日本を中心に猛烈な暑さが続く見込みであり、熱中症対策の徹底が呼びかけられている。また、20日は日本海側で激しい雨に注意が必要である。",
-      "note": "記事は主に気象情報とその対策について報じている。",
+      "consensus": "千葉県では今回の豪雨で少なくとも31平方キロが浸水し、県内で2700台以上の車が水没した。千葉市内の幹線道路での車の撤去は完了した。",
+      "note": "プライバシーに配慮し、個別の被害状況や個人名は記載しない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "俳優の岸恵子さん死去、９３歳　映画「君の名は」、作家でも活躍",
-      "slug": "俳優の岸恵子さん死去歳映画君の名は作家でも活躍",
-      "independentSources": 3,
+      "headline": "59歳 カズ 三浦知良 サッカー天皇杯で2得点 福島ユナイテッド",
+      "slug": "59歳カズ三浦知良サッカ天皇杯で2得点福島ユナイ",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45160"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592330?source=rss"
+        }
+      ],
+      "issue": "三浦知良選手は天皇杯1回戦で2得点を挙げたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "三浦知良選手が天皇杯1回戦に先発出場し、ペナルティーキックで2ゴールを決めた。",
+          "span": "ペナルティーキックで2ゴールを決めました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "三浦知良選手は59歳である。",
+          "span": "59歳",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "三浦知良選手は福島ユナイテッドFCに所属している。",
+          "span": "福島ユナイテッド",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "試合は天皇杯1回戦で行われた。",
+          "span": "天皇杯1回戦",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "試合は5月19日に行われた。",
+          "span": "19日に行われた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "三浦知良選手は59歳で、天皇杯1回戦で2ゴールを決めた。",
+          "span": "カズ59歳 天皇杯1回戦で2ゴール",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "三浦知良選手は59歳で、福島ユナイテッドFC所属の選手として、5月19日に行われた天皇杯1回戦に先発出場し、ペナルティーキックで2ゴールを決めたという事実は両ソースで合意されている。",
+      "note": "両ソースとも事実の記述に留まり、評価や意見の対立は見られないため、positionsは空となる。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "護憲リベラル「ゴリラ」結成へ　立民系、現職含め１６人参加意向",
+      "slug": "護憲リベラルゴリラ結成へ立民系現職含め人参加意向",
+      "independentSources": 2,
+      "sources": [
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de44980"
-        },
-        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592272?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6592328?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900532&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026081901023&g=pol&m=rss"
         }
       ],
-      "issue": "俳優の岸惠子さんの死去に関して、どのような事実が報じられているか？",
+      "issue": "政治団体「ゴリラ」は設立されるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "俳優の岸惠子さんが死去した。",
-          "span": "死去",
+          "t": "中道落選者らが政治団体「ゴリラ」を設立する意向であることが報じられた。",
+          "span": "中道落選者ら 政治団体ゴリラ設立",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "護憲リベラル系の政治団体「ゴリラ」が結成される見通しであることが報じられた。",
+          "span": "護憲リベラル「ゴリラ」結成へ",
+          "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース"
-            },
-            {
-              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "93歳だった。",
-          "span": "93歳でした",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "今月7日に亡くなった。",
-          "span": "今月7日",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "横浜市の自宅で亡くなった。",
-          "span": "横浜市の自宅で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "死因は老衰だった。",
-          "span": "老衰のため",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "映画「君の名は」などに出演した。",
-          "span": "映画「君の名は」など出演",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "1953年公開の映画「君の名は」で人気を集めた。",
-          "span": "人気を集め",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "作家としても活躍した。",
-          "span": "活躍した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "俳優の岸惠子さんが93歳で死去したという事実には合意がある。評価は割れない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "福岡県議会 藏内議長「しかるべき時 議長辞職」議員辞職は否定",
-      "slug": "福岡県議会藏内議長しかるべき時議長辞職議員辞職は",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45123"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900967&g=pol&m=rss"
-        }
-      ],
-      "issue": "福岡県議会の藏内勇夫議長は、議長職の辞職勧告決議案を受け、いつ辞職を表明するか。",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "福岡県議会で、藏内勇夫議長に対する議長職の辞職勧告決議案が提出された。",
-          "span": "職責にふさわしくないとして議長職の辞職勧告決議案が提出された",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "藏内議長は、しかるべき時に議長を辞職すると表明した。",
-          "span": "しかるべき時 議長辞職",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "藏内議長は、議員辞職は否定した。",
-          "span": "議員辞職は否定",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "蔵内氏は、県議辞職は考えていないと表明した。",
-          "span": "県議辞職「考えていない」",
+          "t": "立憲民主党系の現職議員を含む16人が、政治団体「ゴリラ」への参加意向を示していることが報じられた。",
+          "span": "立民系、現職含め１６人参加意向",
           "src": [
             {
               "ty": "press",
@@ -255,70 +295,8 @@
         }
       ],
       "positions": [],
-      "consensus": "福岡県議会の藏内勇夫議長は、議長職の辞職勧告決議案が提出されたことを受け、しかるべき時に議長を辞職する意向を表明しました。一方、議員辞職については否定しています。",
-      "note": "プライバシー配慮のため、議長職の辞職勧告決議案の具体的な理由については、事実として記載せず、議長の発言のみを抽出しました。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].t: \"藏内議長は、しかるべき時に議長を辞職する意向を表明した\" -> \"藏内議長は、しかるべき時に議長を辞職すると表明した\" (より直接的な表現に修正)",
-          "facts[1].span: \"しかるべき時に議長を辞職する\" -> \"しかるべき時 議長辞職\" (より短い核となる表現に修正)",
-          "facts[2].t: \"藏内議長は、議員辞職は考えていないと表明した\" -> \"藏内議長は、議員辞職は否定した\" (より原文に近い表現に修正)",
-          "facts[3].t: \"藏内議長は、議員辞職は考えていないと表明した\" -> \"蔵内氏は、県議辞職は考えていないと表明した\" (actor名を修正)",
-          "positions[0].claim: \"しかるべき時に議長を辞職する\" -> \"しかるべき時に議長を辞職する\" (原文に合わせ修正)",
-          "positions[0].span: \"しかるべき時に議長を辞職する\" -> \"しかるべき時 議長辞職\" (より短い核となる表現に修正)",
-          "positions[1].claim: \"議員辞職は考えていない\" -> \"議員辞職は否定\" (より原文に近い表現に修正)",
-          "positions[3].claim: \"県議辞職は考えていない\" -> \"県議辞職は考えていない\" (原文に合わせ修正)",
-          "consensus: \"評価は割れます。\" を削除 (テキストに根拠がないため)",
-          "note: \"プライバシー配慮のため、議長職の辞職勧告決議案の具体的な理由については、事実として記載せず、議長の発言のみを抽出しました。\" は、検品係の判断ではなく、抽出エンジンの意図であるため削除。ただし、事実の記載がない点は事実として残す。",
-          "fact spanが原文に無い→除去「議員辞職は考えていない…」"
-        ]
-      }
-    },
-    {
-      "headline": "Apparent human remains found in US reservoir as water levels hit record low",
-      "slug": "Apparenthumanremainsfoun",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/19/kelsey-mitchell-ties-wnba-scoring-record-in-fever-win-over-tempo?traffic_source=rss"
-        }
-      ],
-      "issue": "レークミードの水位低下により、人間の遺骨が発見されたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "レークミードで、水位が記録的な低さになった際に、人間のものと思われる遺骨が発見された。",
-          "span": "Apparent human remains found in US reservoir as water levels hit record low",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "発見された遺骨には、歯が付いた人間の顎と思われるものが含まれている。",
-          "span": "The skeletal remains in Lake Mead include what appears to be a human jaw with teeth attached",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "レークミードの水位低下により、人間のものと思われる遺骨が発見されたことは一致している。",
-      "note": "プライバシーに配慮し、発見された遺骨の詳細は最小限に留める。",
+      "consensus": "中道落選者らと護憲リベラル系（立民系現職含む16人）が政治団体「ゴリラ」の設立・結成を目指している点で一致している。",
+      "note": "本件は事実の報道に留まり、評価や対立する意見は含まれていないため、positions は空となります。",
       "audit": {
         "changed": false,
         "issues": []
