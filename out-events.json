@@ -1,7 +1,37 @@
 {
-  "rankedAt": "2026-08-19T11:43:43.525Z",
+  "rankedAt": "2026-08-19T12:13:23.268Z",
   "lens": "独立報道社数(volume)順",
   "events": [
+    {
+      "headline": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+      "slug": "UScondemnsunnecessaryesc",
+      "time": "2026-08-19T11:45:21.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
+          "snippet": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
+          "snippet": "Israeli government issues tender for more than 1,200 housing units as part of illegal E1 settlement project.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/19/palestinians-condemn-israeli-step-to-advance-illegal-e1-settlement-plan?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
     {
       "headline": "日本政府は米国が国際刑事裁判所長を制裁対象に指定したことを受け、「大変残念だ」とする外務報道官談話を発表した",
       "slug": "日本政府は米国が国際刑事裁判所長を制裁対象に指定",
@@ -10,22 +40,22 @@
       "sources": [
         "時事ドットコム"
       ],
-      "count": 4,
+      "count": 5,
       "hasPrimary": false,
       "members": [
-        {
-          "title": "米ＩＣＣ制裁に衝撃　日本政府、対応に苦慮",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900736&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
         {
           "title": "高市首相は米国が国際刑事裁判所の赤根所長を制裁対象に指定したことを受け、「大変残念に思っている」と述べた",
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026081900926&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "米ＩＣＣ制裁に衝撃　日本政府、対応に苦慮",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081900736&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -44,6 +74,59 @@
           "link": "https://www.jiji.com/jc/article?k=2026081900071&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
+        },
+        {
+          "title": "米政府は、国際刑事裁判所の赤根智子（あかね・ともこ）所長を制裁対象に指定した",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081900067&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-19T12:05:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 4,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【山形県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819120517_0_VPWW54_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【山形県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819120517_0_VPWW53_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【山形県気象警報・注意報】山形県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819120208_0_VPWW53_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【山形県気象警報・注意報】山形県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819120208_0_VPWW54_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -77,67 +160,9 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-19T11:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１９日２１時から２４時までは火口から北西方向、２０日０９時から１２時までは火口から北西方向に降灰が予想され",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819110048_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１９日２１時から２４時までは火口から北西方向、２０日０９時から１２時までは火口から北西方向に降灰が予想され",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819080050_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-19T11:37:57.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【兵庫県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113758_0_VPWW54_280000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【兵庫県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113758_0_VPWW53_280000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-19T11:37:13.000Z",
+      "time": "2026-08-19T11:50:32.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -147,55 +172,26 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【京都府気象警報・注意報】注意報を解除します。",
+          "snippet": "【鳥取県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113713_0_VPWW53_260000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819115033_0_VPWW53_310000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【京都府気象警報・注意報】注意報を解除します。",
+          "snippet": "【鳥取県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113713_0_VPWW54_260000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819115033_0_VPWW54_310000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-19T11:35:58.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福島県気象警報・注意報】浜通りでは、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113600_0_VPWW54_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【福島県気象警報・注意報】浜通りでは、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113600_0_VPWW53_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "【データ分析】熱帯夜の日数どれだけ増えた？各地の結果を詳報",
-      "slug": "デタ分析熱帯夜の日数どれだけ増えた各地の結果を詳",
-      "time": "2026-08-19T11:15:41.000Z",
+      "headline": "サッカー 59歳の三浦知良選手 天皇杯で2ゴール",
+      "slug": "サッカ59歳の三浦知良選手天皇杯で2ゴル",
+      "time": "2026-08-19T12:04:00.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -204,10 +200,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "【データ分析】熱帯夜の日数どれだけ増えた？各地の結果を詳報",
-          "snippet": "夜も気温が25度を下回らない「熱帯夜」の日数はどのくらい増えているのか？\n\nNHKが全国47都道府県の県庁所在地などについて過去50年分のデータで分析したところ、すべての地点で熱帯夜が増加し、年間30…",
+          "title": "サッカー 59歳の三浦知良選手 天皇杯で2ゴール",
+          "snippet": "サッカーJ3、福島ユナイテッドの59歳、カズ、三浦知良選手が19日行われた天皇杯1回戦で、2ゴールを決めました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45042",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45160",
           "ty": "press",
           "linkKind": "article"
         }
@@ -229,6 +225,48 @@
           "snippet": "今回の豪雨では多くの車が水につかって動けなくなり、千葉県内で2700台あまりにのぼりました。\n\n車のドライブレコーダーには冠水した道路の様子や水没して動けなくなるまでの記録が残されていました。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260819de44985",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "高市首相 トルコ大統領と電話会談 ホルムズ海峡の安全航行を",
+      "slug": "高市首相トルコ大統領と電話会談ホルムズ海峡の安全",
+      "time": "2026-08-19T11:59:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "高市首相 トルコ大統領と電話会談 ホルムズ海峡の安全航行を",
+          "snippet": "イラン情勢をめぐり、高市総理大臣は、トルコのエルドアン大統領と電話で会談し、ホルムズ海峡について追加的な費用がない形で自由で安全な航行が確保されることが重要だという認識で一致しました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45142",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "【データ分析】熱帯夜の日数どれだけ増えた？各地の結果を詳報",
+      "slug": "デタ分析熱帯夜の日数どれだけ増えた各地の結果を詳",
+      "time": "2026-08-19T11:15:41.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "【データ分析】熱帯夜の日数どれだけ増えた？各地の結果を詳報",
+          "snippet": "夜も気温が25度を下回らない「熱帯夜」の日数はどのくらい増えているのか？\n\nNHKが全国47都道府県の県庁所在地などについて過去50年分のデータで分析したところ、すべての地点で熱帯夜が増加し、年間30…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45042",
           "ty": "press",
           "linkKind": "article"
         }
@@ -298,48 +336,6 @@
       ]
     },
     {
-      "headline": "福岡県議会 藏内議長「しかるべき時 議長辞職」議員辞職は否定",
-      "slug": "福岡県議会藏内議長しかるべき時議長辞職議員辞職は",
-      "time": "2026-08-19T10:50:58.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "福岡県議会 藏内議長「しかるべき時 議長辞職」議員辞職は否定",
-          "snippet": "福岡県議会の一連の問題の対応などが職責にふさわしくないとして議長職の辞職勧告決議案が提出された福岡県議会の藏内勇夫議長は、19日、記者団に対し、「しかるべき時に議長を辞職する」と表明しました。一方、議…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45123",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "プーチン大統領の択捉島訪問受け元島民団体などが外務省に要請",
-      "slug": "プチン大統領の択捉島訪問受け元島民団体などが外務",
-      "time": "2026-08-19T10:44:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "プーチン大統領の択捉島訪問受け元島民団体などが外務省に要請",
-          "snippet": "ロシアのプーチン大統領が北方領土の択捉島を訪問したことを受けて、北方領土の元島民などが国光外務副大臣と面会し、北方四島の早期返還に向けて外交交渉に取り組むよう要請しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45120",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "20日 日本海側で激しい雨に注意",
       "slug": "20日日本海側で激しい雨に注意",
       "time": "2026-08-19T10:25:25.000Z",
@@ -376,27 +372,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6592317?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "米警察 少女行方不明で霊能者頼る",
-      "slug": "米警察少女行方不明で霊能者頼る",
-      "time": "2026-08-19T09:01:52.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "米警察 少女行方不明で霊能者頼る",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592308?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -487,6 +462,27 @@
       ]
     },
     {
+      "headline": "VIVANT物議の「空爆シーン」考察",
+      "slug": "VIVANT物議の空爆シン考察",
+      "time": "2026-08-19T11:36:23.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "VIVANT物議の「空爆シーン」考察",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592325?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "サマソニでも浮上「熱唱客問題」",
       "slug": "サマソニでも浮上熱唱客問題",
       "time": "2026-08-19T11:18:33.000Z",
@@ -508,9 +504,9 @@
       ]
     },
     {
-      "headline": "前伊東市長弁護人に告発状　「卒業証書保管は証拠隠滅」―市民団体",
-      "slug": "前伊東市長弁護人に告発状卒業証書保管は証拠隠滅市",
-      "time": "2026-08-19T06:49:00.000Z",
+      "headline": "護憲リベラル「ゴリラ」結成へ　立民系、現職含め１６人参加意向",
+      "slug": "護憲リベラルゴリラ結成へ立民系現職含め人参加意向",
+      "time": "2026-08-19T10:51:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -519,31 +515,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "前伊東市長弁護人に告発状　「卒業証書保管は証拠隠滅」―市民団体",
+          "title": "護憲リベラル「ゴリラ」結成へ　立民系、現職含め１６人参加意向",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900746&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "踏切内で後続車の進路ふさぎ、列車と衝突させる　殺人未遂容疑で男逮捕―埼玉県警",
-      "slug": "踏切内で後続車の進路ふさぎ列車と衝突させる殺人未",
-      "time": "2026-08-19T06:18:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "踏切内で後続車の進路ふさぎ、列車と衝突させる　殺人未遂容疑で男逮捕―埼玉県警",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900678&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081901023&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -571,9 +546,9 @@
       ]
     },
     {
-      "headline": "元市立小教諭に懲役９年　勤務先で女児３４人にわいせつ―広島地裁",
-      "slug": "元市立小教諭に懲役年勤務先で女児人にわいせつ広島",
-      "time": "2026-08-19T08:05:00.000Z",
+      "headline": "前伊東市長弁護人に告発状　「卒業証書保管は証拠隠滅」―市民団体",
+      "slug": "前伊東市長弁護人に告発状卒業証書保管は証拠隠滅市",
+      "time": "2026-08-19T06:49:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -582,10 +557,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "元市立小教諭に懲役９年　勤務先で女児３４人にわいせつ―広島地裁",
+          "title": "前伊東市長弁護人に告発状　「卒業証書保管は証拠隠滅」―市民団体",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900824&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081900746&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -613,9 +588,9 @@
       ]
     },
     {
-      "headline": "日米合意の事業許可取り消し　原油積み出し港―米控訴裁",
-      "slug": "日米合意の事業許可取り消し原油積み出し港米控訴裁",
-      "time": "2026-08-18T21:49:00.000Z",
+      "headline": "踏切内で後続車の進路ふさぎ、列車と衝突させる　殺人未遂容疑で男逮捕―埼玉県警",
+      "slug": "踏切内で後続車の進路ふさぎ列車と衝突させる殺人未",
+      "time": "2026-08-19T06:18:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -624,12 +599,33 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "日米合意の事業許可取り消し　原油積み出し港―米控訴裁",
+          "title": "踏切内で後続車の進路ふさぎ、列車と衝突させる　殺人未遂容疑で男逮捕―埼玉県警",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900170&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081900678&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-19T11:47:27.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】１９日２０時４３分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819114727_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -760,21 +756,21 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-19T11:37:56.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-19T11:00:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
+        "気象庁 地震・火山"
       ],
       "count": 1,
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【兵庫県雷注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113756_0_VPWW61_280000.xml",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１９日２１時から２４時までは火口から北西方向、２０日０９時から１２時までは火口から北西方向に降灰が予想され",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819110048_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -783,7 +779,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-19T11:37:03.000Z",
+      "time": "2026-08-19T12:05:14.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -793,18 +789,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【京都府雷注意報】注意報を解除します。",
+          "snippet": "【山形県雷注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113704_0_VPWW61_260000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819120515_0_VPWW61_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-19T11:35:47.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-19T12:01:55.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -813,10 +809,31 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【福島県雷・濃霧注意報】浜通りでは、濃霧による視程障害に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【山形県大雨警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113547_0_VPWW61_070000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819120155_0_VPWW55_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
+      "slug": "気象警報注意報土砂",
+      "time": "2026-08-19T12:01:55.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【山形県土砂災害警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819120155_0_VPWW56_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -825,7 +842,7 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-19T11:35:43.000Z",
+      "time": "2026-08-19T11:50:31.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -835,9 +852,9 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】注意報を解除します。",
+          "snippet": "【島根県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819113544_0_VPWW53_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819115032_0_VPWW53_320000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -907,6 +924,27 @@
       ]
     },
     {
+      "headline": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+      "slug": "ChristianmetalbandDemonH",
+      "time": "2026-08-19T11:30:40.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Christian metal band Demon Hunter sue Netflix over KPop Demon Hunters",
+          "snippet": "The band say they face \"an existential crisis\" after the success of the K-pop-inspired Netflix film.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c2dk64d10rko?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "South Korea shortens war games with US, citing Washington request",
       "slug": "SouthKoreashortenswargam",
       "time": "2026-08-19T05:53:53.000Z",
@@ -949,27 +987,6 @@
       ]
     },
     {
-      "headline": "Meta hooked children on Facebook and Instagram, US court hears",
-      "slug": "MetahookedchildrenonFace",
-      "time": "2026-08-18T22:11:07.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Meta hooked children on Facebook and Instagram, US court hears",
-          "snippet": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Liberia agrees to accept 1,200 foreign deportees from the US",
       "slug": "Liberiaagreestoaccept120",
       "time": "2026-08-19T10:47:22.000Z",
@@ -991,9 +1008,9 @@
       ]
     },
     {
-      "headline": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-      "slug": "UScondemnsunnecessaryesc",
-      "time": "2026-08-19T00:48:16.000Z",
+      "headline": "Meta hooked children on Facebook and Instagram, US court hears",
+      "slug": "MetahookedchildrenonFace",
+      "time": "2026-08-18T22:11:07.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1002,10 +1019,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase",
-          "snippet": "Damascus called the attacks \"an unjustified act of aggression\" that imperilled regional security.",
+          "title": "Meta hooked children on Facebook and Instagram, US court hears",
+          "snippet": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c62vy3wl31lo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1033,21 +1050,84 @@
       ]
     },
     {
-      "headline": "US charges 17 Iranians over 'massive' cyber theft campaign",
-      "slug": "UScharges17Iraniansoverm",
-      "time": "2026-08-19T09:48:16.000Z",
+      "headline": "In Ukraine, forcible military recruitment efforts escalate into violence",
+      "slug": "InUkraineforciblemilitar",
+      "time": "2026-08-19T11:47:44.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "US charges 17 Iranians over 'massive' cyber theft campaign",
-          "snippet": "Many of the alleged cyber attacks were carried out for the Iranian government, the Department of Justice says.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c1m14n4llvvo?at_medium=RSS&at_campaign=rss",
+          "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
+          "snippet": "&#039;Busification&#039;, the term describing being captured on the street, is engulfed by abuse and corruption.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Pakistan challenges top court order to move Imran Khan to private hospital",
+      "slug": "Pakistanchallengestopcou",
+      "time": "2026-08-19T11:47:35.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
+          "snippet": "Government files a review of Supreme Court order, arguing that the jailed ex-PM should be examined at a public hospital.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+      "slug": "ChinasUnitreesoarsinmark",
+      "time": "2026-08-19T11:40:52.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "China’s Unitree soars in market debut as investors bet on humanoid robots",
+          "snippet": "Unitree shares surge as much as 620 percent amid enthusiasm for burgeoning field of human-like robots.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/8/19/chinas-unitree-soars-in-market-debut-as-investors-bet-on-humanoid-robots?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Angelique Kidjo makes history with Hollywood walk of fame star",
+      "slug": "AngeliqueKidjomakeshisto",
+      "time": "2026-08-19T11:36:54.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Angelique Kidjo makes history with Hollywood walk of fame star",
+          "snippet": "Angelique Kidjo makes history with Hollywood walk of fame star",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/angelique-kidjo-makes-history-with-hollywood-walk-of-fame-star?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1153,111 +1233,6 @@
           "snippet": "India take a 1-0 lead with a 165-run win against the hosts in Galle to begin the two-Test series.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/sports/2026/8/19/manav-suthar-takes-10-wicket-haul-as-sri-lanka-beaten-in-indias-600th-test?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "At least five killed in Russian air attacks on Ukraine",
-      "slug": "AtleastfivekilledinRussi",
-      "time": "2026-08-19T09:34:38.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "At least five killed in Russian air attacks on Ukraine",
-          "snippet": "Russia&#039;s Defence Ministry says 453 Ukrainian drones were downed overnight in various regions.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Nick Kyrgios provisionally suspended after positive test for cocaine",
-      "slug": "NickKyrgiosprovisionally",
-      "time": "2026-08-19T09:29:41.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
-          "snippet": "The Australian said he made no excuses but admitted to struggling with the twilight of his career.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
-      "slug": "AntiMuslimprotesterscall",
-      "time": "2026-08-19T09:26:16.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
-          "snippet": "Far-right protesters clashed with police at an anti-Muslim rally in the US city of Dearborn.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
-      "slug": "DiegoMaradonasdoctorsmis",
-      "time": "2026-08-19T09:23:17.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
-          "snippet": "Second trial claims Diego Maradona&#039;s doctors missed crucial warning signs before Argentina football icon&#039;s 202",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Cars swept downhill as flash floods hit northern Chile",
-      "slug": "Carssweptdownhillasflash",
-      "time": "2026-08-19T09:22:30.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Cars swept downhill as flash floods hit northern Chile",
-          "snippet": "Cars were swept downhill as floodwaters and mudslides tore through northern Chile.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/cars-swept-downhill-as-flash-floods-hit-northern-chile?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
