@@ -1,17 +1,18 @@
 {
-  "rankedAt": "2026-08-20T09:52:42.344Z",
+  "rankedAt": "2026-08-20T10:28:21.540Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "栃木 東武日光線の駅で作業員4人が特急と接触し死亡【会見中】",
       "slug": "栃木東武日光線の駅で作業員4人が特急と接触し死亡",
-      "time": "2026-08-20T09:22:43.000Z",
-      "independentSources": 2,
+      "time": "2026-08-20T10:01:29.000Z",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
-      "count": 2,
+      "count": 3,
       "hasPrimary": false,
       "members": [
         {
@@ -19,6 +20,14 @@
           "snippet": "20日午前、栃木県鹿沼市の東武日光線の駅で線路の除草をしていた作業員4人がホームに入ってきた特急列車と接触し、病院に運ばれましたがいずれも死亡しました。国の運輸安全委員会が調査官を派遣するとともに、警…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260820de45242",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "作業員4人死亡 東武鉄道が謝罪",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592440?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -33,53 +42,25 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-20T09:48:50.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 3,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【京都府気象警報・注意報】南部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820094851_0_VPWW54_260000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【京都府気象警報・注意報】南部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820094851_0_VPWW53_260000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【京都府気象警報・注意報】南部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820093821_0_VPWW53_260000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
       "slug": "AustraliaoutragedafterIs",
-      "time": "2026-08-20T08:14:20.000Z",
-      "independentSources": 1,
+      "time": "2026-08-20T07:46:00.000Z",
+      "independentSources": 2,
       "sources": [
+        "時事ドットコム",
         "BBC World"
       ],
       "count": 3,
       "hasPrimary": false,
       "members": [
+        {
+          "title": "豪、イスラエルに猛抗議　誤爆不問で「憤慨」、大使呼び出し",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082000844&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
           "snippet": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
@@ -95,12 +76,34 @@
           "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か",
+      "slug": "北朝鮮の弾道ミサイルの可能性あるもの日本のEEZ",
+      "time": "2026-08-20T10:13:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か",
+          "snippet": "防衛省によりますと、20日午後、北朝鮮から弾道ミサイルの可能性のあるものが発射されたということです。防衛省関係者によりますと、日本のEEZ＝排他的経済水域の外側に落下したとみられるということです。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45335",
+          "ty": "press",
+          "linkKind": "article"
         },
         {
-          "title": "Four workers dead after being hit by train in Japan",
-          "snippet": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+          "title": "北朝鮮、日本海に弾道ミサイル　米韓演習縮小もトランプ氏に冷水",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082000883&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -109,7 +112,7 @@
     {
       "headline": "熊本地震 あすも被災地は猛烈な暑さに 午後は局地的な雨に注意",
       "slug": "熊本地震あすも被災地は猛烈な暑さに午後は局地的な",
-      "time": "2026-08-20T09:38:09.000Z",
+      "time": "2026-08-20T10:08:21.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -118,18 +121,18 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "福島 北塩原村付近で記録的大雨 災害の危険迫る",
-          "snippet": "気象庁によりますと、福島県の北塩原村付近では、レーダーによる解析で午後5時50分までの1時間におよそ100ミリの猛烈な雨が降ったとみられます。\n\n災害が発生する危険が迫っていることから、気象庁は「記録…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45356",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
           "title": "熊本地震 あすも被災地は猛烈な暑さに 午後は局地的な雨に注意",
           "snippet": "熊本地震の被災地は20日も危険な暑さとなりました。21日も猛烈な暑さになる見込みで、引き続き、できるかぎりの熱中症対策をしてください。\n一方、地震活動について気象庁は、依然として活発な状態が続いている…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260820de45198",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "熊本地震 環境省 災害廃棄物対策の支援プログラム発表",
+          "snippet": "20日、熊本地震の被災地の視察を行った石原環境大臣は、災害廃棄物についての対策プログラムを発表しました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45358",
           "ty": "press",
           "linkKind": "article"
         }
@@ -167,7 +170,7 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-20T09:49:48.000Z",
+      "time": "2026-08-20T10:20:17.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -177,26 +180,26 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】長野県では、落雷に注意してください。中部では、濃霧による視程障害に注意してください。",
+          "snippet": "【福島県気象警報・注意報】〈危険警報（土砂災害）〉会津では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820094949_0_VPWW53_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820102018_0_VPWW53_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】長野県では、落雷に注意してください。中部では、濃霧による視程障害に注意してください。",
+          "snippet": "【福島県気象警報・注意報】〈危険警報（土砂災害）〉会津では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820094949_0_VPWW54_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820102018_0_VPWW54_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-08-20T09:43:43.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-20T10:17:38.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -205,18 +208,47 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象解説情報",
-          "snippet": "【富山県気象解説情報（大雨・落雷・突風）】富山県では、２１日夕方にかけて低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、２１日夜のはじめ頃にかけて落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【島根県気象警報・注意報】東部、西部では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820094344_0_VPFJ51_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820101738_0_VPWW54_320000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象情報",
-          "snippet": "【富山県気象解説情報（大雨・落雷・突風）】富山県では、２１日夕方にかけて低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、２１日夜のはじめ頃にかけて落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【島根県気象警報・注意報】東部、西部では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820094344_0_VPFJ50_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820101738_0_VPWW53_320000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-20T10:16:53.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【栃木県気象警報・注意報】北部では、土砂災害に注意してください。栃木県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820101653_0_VPWW54_090000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【栃木県気象警報・注意報】北部では、土砂災害に注意してください。栃木県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820101654_0_VPWW53_090000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -244,9 +276,9 @@
       ]
     },
     {
-      "headline": "日本製紙八代工場 地震で先端損傷の煙突 来月中旬めど撤去へ",
-      "slug": "日本製紙八代工場地震で先端損傷の煙突来月中旬めど",
-      "time": "2026-08-20T09:03:54.000Z",
+      "headline": "熊本 住宅狙う空き巣対策でパトロール強化【被災地の動き】",
+      "slug": "熊本住宅狙う空き巣対策でパトロル強化被災地の動き",
+      "time": "2026-08-20T10:02:04.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -255,10 +287,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "日本製紙八代工場 地震で先端損傷の煙突 来月中旬めど撤去へ",
-          "snippet": "先月の地震で被災した日本製紙の熊本県八代市の工場について、会社は、先端部分が骨組みに引っかかった状態になっている煙突を、来月中旬をめどに撤去する方針を決めました。",
+          "title": "熊本 住宅狙う空き巣対策でパトロール強化【被災地の動き】",
+          "snippet": "最大震度7の地震で大きな被害があった熊本県。8月20日の被災地の動きをまとめました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45326",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45231",
           "ty": "press",
           "linkKind": "article"
         }
@@ -286,27 +318,6 @@
       ]
     },
     {
-      "headline": "北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か",
-      "slug": "北朝鮮の弾道ミサイルの可能性あるもの日本のEEZ",
-      "time": "2026-08-20T09:51:04.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か",
-          "snippet": "防衛省によりますと、20日午後、北朝鮮から弾道ミサイルの可能性のあるものが発射されたということです。防衛省関係者によりますと、日本のEEZ＝排他的経済水域の外側に落下したとみられるということです。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45335",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "北発射のミサイルは約10発 韓国軍",
       "slug": "北発射のミサイルは約10発韓国軍",
       "time": "2026-08-20T09:32:05.000Z",
@@ -328,9 +339,9 @@
       ]
     },
     {
-      "headline": "クールジャパン機構廃止へ 経産省",
-      "slug": "クルジャパン機構廃止へ経産省",
-      "time": "2026-08-20T08:40:34.000Z",
+      "headline": "子2人の姿が土砂に消え 母の思い",
+      "slug": "子2人の姿が土砂に消え母の思い",
+      "time": "2026-08-20T10:22:08.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -339,10 +350,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "クールジャパン機構廃止へ 経産省",
+          "title": "子2人の姿が土砂に消え 母の思い",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592424?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592443?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -364,6 +375,27 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6592417?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "クールジャパン機構廃止へ 経産省",
+      "slug": "クルジャパン機構廃止へ経産省",
+      "time": "2026-08-20T08:40:34.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "クールジャパン機構廃止へ 経産省",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592424?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -412,9 +444,9 @@
       ]
     },
     {
-      "headline": "布施博が代表の芸能プロ 破産",
-      "slug": "布施博が代表の芸能プロ破産",
-      "time": "2026-08-20T07:21:40.000Z",
+      "headline": "DF板倉滉 ボルシアMGに電撃復帰",
+      "slug": "DF板倉滉ボルシアMGに電撃復帰",
+      "time": "2026-08-20T09:55:41.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -423,52 +455,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "布施博が代表の芸能プロ 破産",
+          "title": "DF板倉滉 ボルシアMGに電撃復帰",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592413?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "阪神・伊原を抹消 暴行疑惑報道",
-      "slug": "阪神伊原を抹消暴行疑惑報道",
-      "time": "2026-08-20T07:25:05.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "阪神・伊原を抹消 暴行疑惑報道",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592415?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「みい山」アニメ化に懸念 意見書",
-      "slug": "みい山アニメ化に懸念意見書",
-      "time": "2026-08-20T09:25:41.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「みい山」アニメ化に懸念 意見書",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592433?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592442?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -517,48 +507,6 @@
       ]
     },
     {
-      "headline": "豪、イスラエルに猛抗議　誤爆不問で「憤慨」、大使呼び出し",
-      "slug": "豪イスラエルに猛抗議誤爆不問で憤慨大使呼び出し",
-      "time": "2026-08-20T07:46:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "豪、イスラエルに猛抗議　誤爆不問で「憤慨」、大使呼び出し",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082000844&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "恒大創業者に無期懲役　不動産危機の象徴を断罪―中国",
-      "slug": "恒大創業者に無期懲役不動産危機の象徴を断罪中国",
-      "time": "2026-08-20T06:35:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "恒大創業者に無期懲役　不動産危機の象徴を断罪―中国",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082000740&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "カフェや別宅改修にも充当か　竹中工務店元所長、水増し分で―万博背任・大阪府警",
       "slug": "カフェや別宅改修にも充当か竹中工務店元所長水増し",
       "time": "2026-08-20T05:06:00.000Z",
@@ -574,6 +522,27 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082000099&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "愛子さま、「真珠の耳飾りの少女」鑑賞　絵画展開会式に出席―大阪",
+      "slug": "愛子さま真珠の耳飾りの少女鑑賞絵画展開会式に出席",
+      "time": "2026-08-20T08:55:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "愛子さま、「真珠の耳飾りの少女」鑑賞　絵画展開会式に出席―大阪",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082000927&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -601,9 +570,9 @@
       ]
     },
     {
-      "headline": "北朝鮮の核兵器「８０～１２０発」　韓国国防相、トランプ氏発言より多く",
-      "slug": "北朝鮮の核兵器発韓国国防相トランプ氏発言より多く",
-      "time": "2026-08-20T07:09:00.000Z",
+      "headline": "イスラエル極右閣僚、ガザでの大量虐殺呼び掛け「毎晩３０～４０人殺害すべき」",
+      "slug": "イスラエル極右閣僚ガザでの大量虐殺呼び掛け毎晩人",
+      "time": "2026-08-20T08:32:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -612,19 +581,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "北朝鮮の核兵器「８０～１２０発」　韓国国防相、トランプ氏発言より多く",
+          "title": "イスラエル極右閣僚、ガザでの大量虐殺呼び掛け「毎晩３０～４０人殺害すべき」",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082000790&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=20260820049250a&g=afp&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "護憲リベラル「ゴリラ」結成へ　立民系、現職含め１６人参加意向",
-      "slug": "護憲リベラルゴリラ結成へ立民系現職含め人参加意向",
-      "time": "2026-08-19T10:51:00.000Z",
+      "headline": "阪神の嶌村本部長「おおむね事実と一致」　伊原陵人投手の暴行報道受け―プロ野球",
+      "slug": "阪神の嶌村本部長おおむね事実と一致伊原陵人投手の",
+      "time": "2026-08-20T09:28:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -633,31 +602,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "護憲リベラル「ゴリラ」結成へ　立民系、現職含め１６人参加意向",
+          "title": "阪神の嶌村本部長「おおむね事実と一致」　伊原陵人投手の暴行報道受け―プロ野球",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081901023&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "時間外労働の一律指導見直し　「月４５時間以内」運用で―厚労省",
-      "slug": "時間外労働の一律指導見直し月時間以内運用で厚労省",
-      "time": "2026-08-19T11:49:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "時間外労働の一律指導見直し　「月４５時間以内」運用で―厚労省",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081901065&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082000969&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -834,7 +782,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-20T09:49:35.000Z",
+      "time": "2026-08-20T10:20:14.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -844,9 +792,30 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【長野県大雨警報・注意報】注意報を解除します。",
+          "snippet": "【福島県大雨警報・注意報】会津では、低い土地の浸水や河川の増水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820094936_0_VPWW55_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820102014_0_VPWW55_070000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
+      "slug": "気象警報注意報土砂",
+      "time": "2026-08-20T10:20:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【福島県土砂災害警報・注意報】会津では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820102014_0_VPWW56_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -855,7 +824,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-20T09:48:48.000Z",
+      "time": "2026-08-20T10:17:27.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -865,18 +834,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【京都府大雨警報・注意報】南部では、低い土地の浸水や河川の増水に警戒してください。",
+          "snippet": "【島根県大雨警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820094849_0_VPWW55_260000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820101727_0_VPWW55_320000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-08-20T09:41:48.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-20T10:16:51.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -885,10 +854,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【新潟県気象警報・注意報】新潟県では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820094148_0_VPTW60_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820101653_0_VPWW53_150000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1021,9 +990,9 @@
       ]
     },
     {
-      "headline": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "slug": "Ecuadorintelligencechief",
-      "time": "2026-08-19T21:32:15.000Z",
+      "headline": "Ex-Zambian minister killed in security raid on opposition",
+      "slug": "ExZambianministerkilledi",
+      "time": "2026-08-20T10:07:48.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1032,10 +1001,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-          "snippet": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+          "title": "Ex-Zambian minister killed in security raid on opposition",
+          "snippet": "Police confirm Mutotwe Kafwaya's death after growing demands for information about his whereabouts.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cg5ljlzedd5o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Former Liberian vice-president charged in drug-trafficking probe",
+      "slug": "FormerLiberianvicepresid",
+      "time": "2026-08-20T10:11:26.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Former Liberian vice-president charged in drug-trafficking probe",
+          "snippet": "Jewel Howard-Taylor was arrested at Liberia's international airport and has not commented on the allegations.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
