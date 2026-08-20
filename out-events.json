@@ -1,11 +1,11 @@
 {
-  "rankedAt": "2026-08-20T01:48:13.701Z",
+  "rankedAt": "2026-08-20T02:44:55.596Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "【速報中】高校野球 智弁和歌山5年ぶり決勝へ 横浜に逆転勝ち",
-      "slug": "速報中高校野球智弁和歌山5年ぶり決勝へ横浜に逆転",
-      "time": "2026-08-20T01:38:26.000Z",
+      "headline": "【速報中】高校野球 準決勝 健大高崎が先制 天理をリード",
+      "slug": "速報中高校野球準決勝健大高崎が先制天理をリド",
+      "time": "2026-08-20T02:33:00.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -15,18 +15,18 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "【速報中】高校野球 智弁和歌山5年ぶり決勝へ 横浜に逆転勝ち",
-          "snippet": "夏の全国高校野球は準決勝2試合です。第1試合は、ともに優勝経験がある智弁和歌山高校と神奈川の横浜高校が対戦し、智弁和歌山が7対1で勝って、優勝した2021年以来、5年ぶりの決勝進出を決めました。\n\n最…",
+          "title": "【速報中】高校野球 準決勝 健大高崎が先制 天理をリード",
+          "snippet": "夏の全国高校野球の準決勝第2試合は、奈良の天理高校と群馬の高崎健康福祉大高崎高校の対戦です。\n先攻は天理、後攻が健大高崎です。\n\n最新情報をお伝えしています。\n\nNHKは試合をテレビとラジオで中継する…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45038",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45039",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "智弁和歌山が横浜に逆転 決勝進出",
+          "title": "速報甲子園 健大高崎vs.天理",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592372?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592369?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -95,14 +95,22 @@
     {
       "headline": "震源・震度に関する情報",
       "slug": "震源震度に関する情報",
-      "time": "2026-08-20T00:49:20.000Z",
+      "time": "2026-08-20T02:43:02.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
       ],
-      "count": 4,
+      "count": 2,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】２０日１１時４０分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820024303_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
         {
           "title": "震源・震度に関する情報",
           "snippet": "【震源・震度情報】２０日０９時４５分ころ、地震がありました。",
@@ -110,175 +118,114 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260820004921_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
-        },
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-20T02:30:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】２０日０９時０６分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820000914_0_VXSE53_010000.xml",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【広島県気象警報・注意報】広島県では、落雷に注意してください。南部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820023021_0_VPWW53_340000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】２０日０８時４８分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819235139_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】２０日０８時３８分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819234124_0_VXSE53_010000.xml",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【広島県気象警報・注意報】広島県では、落雷に注意してください。南部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820023020_0_VPWW54_340000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "カフェや別宅改修にも充当か　竹中工務店元所長、水増し分で―万博背任・大阪府警",
-      "slug": "カフェや別宅改修にも充当か竹中工務店元所長水増し",
-      "time": "2026-08-19T19:38:00.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-20T02:23:35.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "気象庁 気象警報・注意報"
       ],
       "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【上川・留萌地方気象警報・注意報】上川地方では、低い土地の浸水に注意してください。上川・留萌地方では、竜巻などの激しい突風や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820022336_0_VPWW53_012000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【上川・留萌地方気象警報・注意報】上川地方では、低い土地の浸水に注意してください。上川・留萌地方では、竜巻などの激しい突風や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820022336_0_VPWW54_012000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-20T02:06:57.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宗谷地方気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020658_0_VPWW53_011000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宗谷地方気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020658_0_VPWW54_011000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "西日本中心に猛烈な暑さに 熱中症対策の徹底を",
+      "slug": "西日本中心に猛烈な暑さに熱中症対策の徹底を",
+      "time": "2026-08-20T02:03:50.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "カフェや別宅改修にも充当か　竹中工務店元所長、水増し分で―万博背任・大阪府警",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082000099&g=soc&m=rss",
+          "title": "西日本中心に猛烈な暑さに 熱中症対策の徹底を",
+          "snippet": "20日も被災地の熊本県など西日本を中心に気温が上がり、猛烈な暑さになる見込みで、熱中症対策を徹底してください。\n一方、湿った空気などの影響で午後を中心に広い範囲で激しい雨や非常に激しい雨が降るおそれが…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45196",
           "ty": "press",
           "linkKind": "article"
-        },
-        {
-          "title": "竹中工務店元所長を逮捕　万博工事で水増し請求―１３００万円背任容疑・大阪府警",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900275&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-08-20T01:35:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "府県気象解説情報",
-          "snippet": "【富山県気象解説情報（大雨・落雷・突風）】富山県では、２０日昼過ぎから２１日夕方まで低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820013524_0_VPFJ51_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象情報",
-          "snippet": "【富山県気象解説情報（大雨・落雷・突風）】富山県では、２０日昼過ぎから２１日夕方まで低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820013524_0_VPFJ50_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-20T01:34:33.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮崎県気象警報・注意報】宮崎県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820013434_0_VPWW54_450000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮崎県気象警報・注意報】宮崎県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820013434_0_VPWW53_450000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-20T01:13:21.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【鳥取県気象警報・注意報】鳥取県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820011322_0_VPWW53_310000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【鳥取県気象警報・注意報】鳥取県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820011322_0_VPWW54_310000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-20T01:13:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【島根県気象警報・注意報】東部、西部では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820011322_0_VPWW53_320000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【島根県気象警報・注意報】東部、西部では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820011322_0_VPWW54_320000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -304,9 +251,9 @@
       ]
     },
     {
-      "headline": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
-      "slug": "鎌倉時代の元寇の矢見つかる元が南宋から接収し転用",
-      "time": "2026-08-19T20:05:00.000Z",
+      "headline": "成田空港で航空機エンジンから煙か A滑走路を点検のため閉鎖",
+      "slug": "成田空港で航空機エンジンから煙かA滑走路を点検の",
+      "time": "2026-08-20T02:31:24.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -315,19 +262,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
-          "snippet": "鎌倉時代、元が日本に攻め入った「元寇」で沈んだ船がある長崎県の海底遺跡で、矢の一部が見つかりました。元に滅ぼされた南宋のものとみられ、調査した奈良文化財研究所などの研究グループでは、「元がどのように武…",
+          "title": "成田空港で航空機エンジンから煙か A滑走路を点検のため閉鎖",
+          "snippet": "消防によりますと、20日午前10時40分ごろ、成田空港の関係者から「航空機のエンジンから黒煙らしいものが見える」と通報がありました。\n\n警察によりますと、離陸する前のマレーシア航空の旅客機で、その後、…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45169",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45224",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "西日本中心に猛烈な暑さ予想 熱中症対策の徹底を",
-      "slug": "西日本中心に猛烈な暑さ予想熱中症対策の徹底を",
-      "time": "2026-08-19T22:46:00.000Z",
+      "headline": "イスラエル軍ガザ地区攻撃で10人死亡の報道 和平実現 見通せず",
+      "slug": "イスラエル軍ガザ地区攻撃で10人死亡の報道和平実",
+      "time": "2026-08-19T23:40:00.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -336,10 +283,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "西日本中心に猛烈な暑さ予想 熱中症対策の徹底を",
-          "snippet": "20日も被災地の熊本県など西日本を中心に気温が上がり、猛烈な暑さになる見込みで、熱中症対策を徹底してください。\n\n一方、湿った空気などの影響で午後を中心に広い範囲で激しい雨や非常に激しい雨が降るおそれ…",
+          "title": "イスラエル軍ガザ地区攻撃で10人死亡の報道 和平実現 見通せず",
+          "snippet": "パレスチナのガザ地区をめぐり、アメリカのトランプ政権が和平計画の進展を図るなか、イスラエル軍は19日、各地で攻撃を行い、現地メディアは10人が死亡したと伝えました。\nイスラム組織ハマスは戦争犯罪にあた…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45196",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45200",
           "ty": "press",
           "linkKind": "article"
         }
@@ -367,9 +314,9 @@
       ]
     },
     {
-      "headline": "フェルメール代表作「真珠の耳飾りの少女」14年ぶり来日公開へ",
-      "slug": "フェルメル代表作真珠の耳飾りの少女14年ぶり来日",
-      "time": "2026-08-19T21:30:00.000Z",
+      "headline": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
+      "slug": "鎌倉時代の元寇の矢見つかる元が南宋から接収し転用",
+      "time": "2026-08-19T20:05:00.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -378,40 +325,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "フェルメール代表作「真珠の耳飾りの少女」14年ぶり来日公開へ",
-          "snippet": "17世紀のオランダの画家、フェルメールの代表作の1つ「真珠の耳飾りの少女」が、21日から14年ぶりに日本で公開されます。",
+          "title": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
+          "snippet": "鎌倉時代、元が日本に攻め入った「元寇」で沈んだ船がある長崎県の海底遺跡で、矢の一部が見つかりました。元に滅ぼされた南宋のものとみられ、調査した奈良文化財研究所などの研究グループでは、「元がどのように武…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45080",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45169",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "イスラエル軍ガザ地区攻撃で10人死亡の報道 和平実現 見通せず",
-      "slug": "イスラエル軍ガザ地区攻撃で10人死亡の報道和平実",
-      "time": "2026-08-19T23:40:59.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "イスラエル軍ガザ地区攻撃で10人死亡の報道 和平実現 見通せず",
-          "snippet": "パレスチナのガザ地区をめぐり、アメリカのトランプ政権が和平計画の進展を図るなか、イスラエル軍は19日、各地で攻撃を行い、現地メディアは10人が死亡したと伝えました。\nイスラム組織ハマスは戦争犯罪にあた…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45200",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ウ軍無人機攻撃 露機を研究・改良",
-      "slug": "ウ軍無人機攻撃露機を研究改良",
-      "time": "2026-08-19T23:25:32.000Z",
+      "headline": "米大統領 対イラン制裁発動を表明",
+      "slug": "米大統領対イラン制裁発動を表明",
+      "time": "2026-08-20T01:55:25.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -420,19 +346,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ウ軍無人機攻撃 露機を研究・改良",
+          "title": "米大統領 対イラン制裁発動を表明",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592358?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592374?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "イオン 避難後「客も戻れた」証言",
-      "slug": "イオン避難後客も戻れた証言",
-      "time": "2026-08-19T23:50:23.000Z",
+      "headline": "広島土砂災害 最愛の妻を失い後悔",
+      "slug": "広島土砂災害最愛の妻を失い後悔",
+      "time": "2026-08-20T00:16:55.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -441,19 +367,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "イオン 避難後「客も戻れた」証言",
+          "title": "広島土砂災害 最愛の妻を失い後悔",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592361?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592365?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "英ヘンリー王子夫妻 帰国を計画",
-      "slug": "英ヘンリ王子夫妻帰国を計画",
-      "time": "2026-08-19T23:57:26.000Z",
+      "headline": "福岡市の川に女性遺体 殺人と断定",
+      "slug": "福岡市の川に女性遺体殺人と断定",
+      "time": "2026-08-20T02:33:14.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -462,19 +388,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "英ヘンリー王子夫妻 帰国を計画",
+          "title": "福岡市の川に女性遺体 殺人と断定",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592362?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592379?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "赤穂市 非正規130人雇い止めへ",
-      "slug": "赤穂市非正規130人雇い止めへ",
-      "time": "2026-08-19T23:23:55.000Z",
+      "headline": "うどん業界競争 丸亀に急ブレーキ",
+      "slug": "うどん業界競争丸亀に急ブレキ",
+      "time": "2026-08-20T02:36:44.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -483,19 +409,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "赤穂市 非正規130人雇い止めへ",
+          "title": "うどん業界競争 丸亀に急ブレーキ",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592359?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592377?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "速報甲子園 健大高崎vs.天理",
-      "slug": "速報甲子園健大高崎vs天理",
-      "time": "2026-08-20T01:37:26.000Z",
+      "headline": "横浜敗退 乱調の織田は大粒の涙",
+      "slug": "横浜敗退乱調の織田は大粒の涙",
+      "time": "2026-08-20T02:23:50.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -504,10 +430,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "速報甲子園 健大高崎vs.天理",
+          "title": "横浜敗退 乱調の織田は大粒の涙",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592369?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592375?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -535,9 +461,9 @@
       ]
     },
     {
-      "headline": "米ＩＣＣ制裁に衝撃　日本政府、対応に苦慮",
-      "slug": "米制裁に衝撃日本政府対応に苦慮",
-      "time": "2026-08-19T09:33:00.000Z",
+      "headline": "カフェや別宅改修にも充当か　竹中工務店元所長、水増し分で―万博背任・大阪府警",
+      "slug": "カフェや別宅改修にも充当か竹中工務店元所長水増し",
+      "time": "2026-08-19T19:38:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -546,31 +472,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "米ＩＣＣ制裁に衝撃　日本政府、対応に苦慮",
+          "title": "カフェや別宅改修にも充当か　竹中工務店元所長、水増し分で―万博背任・大阪府警",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900736&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "米国務省、ＩＣＣ支援打ち切り期待　制裁措置「日本対象ではない」",
-      "slug": "米国務省支援打ち切り期待制裁措置日本対象ではない",
-      "time": "2026-08-19T23:47:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "米国務省、ＩＣＣ支援打ち切り期待　制裁措置「日本対象ではない」",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082000240&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082000099&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -598,9 +503,9 @@
       ]
     },
     {
-      "headline": "皮膚がんワクチン、後期治験で効果　米モデルナとメルク開発―ｍＲＮＡ活用",
-      "slug": "皮膚がんワクチン後期治験で効果米モデルナとメルク",
-      "time": "2026-08-19T23:39:00.000Z",
+      "headline": "米国務省、ＩＣＣ支援打ち切り期待　制裁措置「日本対象ではない」",
+      "slug": "米国務省支援打ち切り期待制裁措置日本対象ではない",
+      "time": "2026-08-19T23:47:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -609,19 +514,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "皮膚がんワクチン、後期治験で効果　米モデルナとメルク開発―ｍＲＮＡ活用",
+          "title": "米国務省、ＩＣＣ支援打ち切り期待　制裁措置「日本対象ではない」",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082000233&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082000240&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "蔵内氏、議長職の辞任表明　県議辞職「考えていない」―福岡",
-      "slug": "蔵内氏議長職の辞任表明県議辞職考えていない福岡",
-      "time": "2026-08-19T09:46:00.000Z",
+      "headline": "最低賃金、１７県で目安超え　上乗せ縮小、競争は緩和傾向―１９日時点",
+      "slug": "最低賃金県で目安超え上乗せ縮小競争は緩和傾向日時",
+      "time": "2026-08-19T22:04:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -630,10 +535,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "蔵内氏、議長職の辞任表明　県議辞職「考えていない」―福岡",
+          "title": "最低賃金、１７県で目安超え　上乗せ縮小、競争は緩和傾向―１９日時点",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900967&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081900946&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "米ＩＣＣ制裁に衝撃　日本政府、対応に苦慮",
+      "slug": "米制裁に衝撃日本政府対応に苦慮",
+      "time": "2026-08-19T09:33:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米ＩＣＣ制裁に衝撃　日本政府、対応に苦慮",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026081900736&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -661,9 +587,9 @@
       ]
     },
     {
-      "headline": "俳優の岸恵子さん死去、９３歳　映画「君の名は」、作家でも活躍",
-      "slug": "俳優の岸恵子さん死去歳映画君の名は作家でも活躍",
-      "time": "2026-08-19T06:29:00.000Z",
+      "headline": "ＥＵ、ＩＣＣ所長を「断固支持」　米制裁に「外圧なく活動を」",
+      "slug": "所長を断固支持米制裁に外圧なく活動を",
+      "time": "2026-08-19T13:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -672,10 +598,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "俳優の岸恵子さん死去、９３歳　映画「君の名は」、作家でも活躍",
+          "title": "ＥＵ、ＩＣＣ所長を「断固支持」　米制裁に「外圧なく活動を」",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081900532&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026081901110&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "韓国大統領「朝鮮半島の平和構築期待」　米朝対話再開に向け",
+      "slug": "韓国大統領朝鮮半島の平和構築期待米朝対話再開に向",
+      "time": "2026-08-20T00:36:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "韓国大統領「朝鮮半島の平和構築期待」　米朝対話再開に向け",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082000274&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "皮膚がんワクチン、後期治験で効果　米モデルナとメルク開発―ｍＲＮＡ活用",
+      "slug": "皮膚がんワクチン後期治験で効果米モデルナとメルク",
+      "time": "2026-08-19T23:39:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "皮膚がんワクチン、後期治験で効果　米モデルナとメルク開発―ｍＲＮＡ活用",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082000233&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -684,7 +652,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-19T23:00:00.000Z",
+      "time": "2026-08-20T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -694,9 +662,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２０日０９時から１２時までは火口から北西方向、２０日２１時から２４時までは火口から北西方向に降灰が予想され",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２０日２１時から２４時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819230045_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020052_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -705,7 +673,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-19T23:00:00.000Z",
+      "time": "2026-08-20T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -715,9 +683,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２０日０９時から１２時までは火口から北西方向、２０日２１時から２４時までは火口から北西方向に降灰が予想され",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２０日２１時から２４時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819230049_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020055_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -726,7 +694,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-19T23:00:00.000Z",
+      "time": "2026-08-20T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -736,9 +704,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２０日０９時から１２時までは火口から北西方向、２０日２１時から２４時までは火口から北西方向に降灰が予想され",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、２０日２１時から２４時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819230052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -747,7 +715,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-19T23:00:00.000Z",
+      "time": "2026-08-20T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -757,9 +725,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２０日０９時から１２時までは火口から北西方向、２０日２１時から２４時までは火口から北西方",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、２０日２１時から２４時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819230056_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020033_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -768,7 +736,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-19T23:00:00.000Z",
+      "time": "2026-08-20T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -778,9 +746,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、２０日０９時から１２時までは火口から北東方向、２０日２１時から２４時までは火口から南東方向に降灰が予想されます。",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル３（入山規制）です。阿蘇山で噴火が発生した場合には、２０日２１時から２４時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819230030_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020037_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -789,7 +757,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-19T23:00:00.000Z",
+      "time": "2026-08-20T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -799,9 +767,51 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、２０日０９時から１２時までは火口から東方向、２０日２１時から２４時までは火口から東方向に降灰が予想されます。",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、２０日２１時から２４時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260819230033_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020041_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-20T02:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２０日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-20T02:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２０日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020049_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -810,7 +820,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-20T01:34:31.000Z",
+      "time": "2026-08-20T02:30:15.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -820,18 +830,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【宮崎県雷注意報】宮崎県では、急な強い雨や落雷に注意してください。",
+          "snippet": "【広島県雷・乾燥注意報】広島県では、急な強い雨や落雷に注意してください。南部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820013432_0_VPWW61_450000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820023016_0_VPWW61_340000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-20T01:13:09.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-20T02:23:30.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -840,10 +850,52 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【鳥取県雷注意報】鳥取県では、急な強い雨や落雷に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【上川・留萌地方大雨警報・注意報】上川地方では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820011309_0_VPWW61_310000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820022330_0_VPWW55_012000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
+      "slug": "気象警報注意報暴風",
+      "time": "2026-08-20T02:06:48.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（暴風）",
+          "snippet": "【宗谷地方暴風（雪）警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820020648_0_VPWW58_011000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-20T01:58:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【大東島地方気象警報・注意報】大東島地方では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260820015820_0_VPWW53_472000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -894,7 +946,7 @@
     {
       "headline": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
       "slug": "Trumpthreatenstremendous",
-      "time": "2026-08-20T01:02:51.000Z",
+      "time": "2026-08-20T02:16:49.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -907,6 +959,27 @@
           "snippet": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Giant whales move into Greenland waters as ice disappears",
+      "slug": "GiantwhalesmoveintoGreen",
+      "time": "2026-08-20T02:05:20.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Giant whales move into Greenland waters as ice disappears",
+          "snippet": "Melting sea ice from climate change has opened up the region for giant whales to undertake 'feeding frenzies'.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1018,21 +1091,63 @@
       ]
     },
     {
-      "headline": "Head-on collision between bus and lorry in Brazil kills more than 20",
-      "slug": "Headoncollisionbetweenbu",
-      "time": "2026-08-19T12:25:30.000Z",
+      "headline": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+      "slug": "FearsgrowinAmazonvillage",
+      "time": "2026-08-20T02:16:17.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Head-on collision between bus and lorry in Brazil kills more than 20",
-          "snippet": "It is not yet clear what caused the two vehicles to crash into each other in the early hours of Wednesday morning.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cpvwgk1n2k8o?at_medium=RSS&at_campaign=rss",
+          "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+          "snippet": "Fears are growing in a remote Bolivian village as Brazilian drug gangs fight for control of trafficking routes.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+      "slug": "AlarminSouthKoreaasIrand",
+      "time": "2026-08-20T01:56:41.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+          "snippet": "Trump&#039;s order to scale back military drills rattles Seoul, reviving doubts over US security guarantees.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Bodycam captures police team falling when deck collapses in Missouri",
+      "slug": "Bodycamcapturespolicetea",
+      "time": "2026-08-20T01:37:08.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Bodycam captures police team falling when deck collapses in Missouri",
+          "snippet": "Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1159,69 +1274,6 @@
           "snippet": "The grandmother of Hind Rajab, a five-year-old Palestinian girl killed in her family’s car by Israeli forces in Gaza.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/we-do-not-trust-israeli-judiciary-says-hind-rajabs-grandmother?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Kosovo finds remains of at least 23 people in suspected mass graves",
-      "slug": "Kosovofindsremainsofatle",
-      "time": "2026-08-19T23:55:33.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Kosovo finds remains of at least 23 people in suspected mass graves",
-          "snippet": "The discovery is part of Kosovo’s long-running effort to find people who disappeared during a brutal war in the 1990s.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/19/kosovo-finds-remains-of-at-least-23-people-in-suspected-mass-graves?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
-      "slug": "SouthKoreasrookieinvesto",
-      "time": "2026-08-19T23:51:12.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "South Korea’s rookie investors lose small fortunes amid AI stocks frenzy",
-          "snippet": "South Korea&#039;s stock market has attracted a wave of novice investors amid booming demand for chips used in AI.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/8/19/south-koreas-rookie-investors-lose-small-fortunes-amid-ai-stocks-frenzy?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "International body votes to convene emergency meeting over Nicaragua",
-      "slug": "Internationalbodyvotesto",
-      "time": "2026-08-19T23:48:52.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "International body votes to convene emergency meeting over Nicaragua",
-          "snippet": "Nicaragua&#039;s move to extend Ortega&#039;s rule and bar rivals from elections triggers a near-unanimous OAS rebuke.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/19/international-body-votes-to-convene-emergency-meeting-over-nicaragua?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
