@@ -1,86 +1,97 @@
 {
-  "builtAt": "2026-08-19T16:50:13.553Z",
+  "builtAt": "2026-08-20T03:32:50.590Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
-      "slug": "IndiaroutPakistanatHocke",
-      "independentSources": 2,
+      "headline": "【速報中】高校野球 準決勝 健大高崎と天理 接戦で終盤へ",
+      "slug": "速報中高校野球準決勝健大高崎と天理接戦で終盤へ",
+      "independentSources": 3,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45039"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/19/india-rout-pakistan-at-hockey-world-cup-2026-to-qualify-for-second-round?traffic_source=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592383?source=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/19/second-ukrainian-national-arrested-over-2022-nord-stream-pipeline-blast?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082000368&g=spo&m=rss"
         }
       ],
-      "issue": "ウクライナ人男性は2022年のノルド・ストリームパイプライン爆破事件に関与したか？",
+      "issue": "高校野球の準決勝の試合状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "2022年にノルド・ストリームパイプラインに爆発物を仕掛けたダイバーの一人が、クロアチアで逮捕されたとされている。",
-          "span": "The man is alleged to have been one of the scuba divers who planted explosives on the pipelines in 2022.",
+          "t": "夏の全国高校野球準決勝第2試合は、奈良の天理高校と群馬の高崎健康福祉大高崎高校の対戦である。",
+          "span": "奈良の天理高校と群馬の高崎健康福祉大高崎高校の対戦です",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "ノルド・ストリームパイプライン爆破事件に関連して、2人目のウクライナ国籍の人物がクロアチアで逮捕された。",
-          "span": "Second Ukrainian national arrested over 2022 Nord Stream pipeline blast",
+          "t": "天理高校が先攻、健大高崎高校が後攻である。",
+          "span": "先攻は天理、後攻が健大高崎です",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "別のウクライナ人（元陸軍将校）が1年前に逮捕されドイツに移送された後、今回の容疑者が逮捕された。",
-          "span": "The suspect was arrested in Croatia a year after another, an ex-army officer, was held and transferred to Germany.",
+          "t": "健大高崎と天理の試合は接戦で終盤に差し掛かっている。",
+          "span": "接戦で終盤へ",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "健大高崎が天理をリードしている。",
+          "span": "健大高崎が天理をリード",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        },
+        {
+          "t": "NHKは試合をテレビとラジオで中継している。",
+          "span": "試合をテレビとラジオで中継する",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "2022年のノルド・ストリームパイプライン爆破事件に関連して、ウクライナ人男性がクロアチアで逮捕されたという事実は一致している。関与の有無については、 alleged（〜とされている）という表現に留まっている。",
-      "note": null,
+      "consensus": "複数の情報源が高校野球準決勝の試合状況を報じている。評価や意見の対立はない。",
+      "note": "本記事は事実報道であり、特定の立場や評価は含まれていません。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[5]とfacts[6]は、元テキストで「準決勝」と明記されていない別の試合に関する情報であり、issue「高校野球の準決勝の試合状況はどうか？」のスコープ外であるため削除しました。"
+        ]
       }
     },
     {
-      "headline": "千葉豪雨 浸水面積31平方キロ 山手線内側の半分ほどに達したか",
-      "slug": "千葉豪雨浸水面積31平方キロ山手線内側の半分ほど",
+      "headline": "千葉豪雨から1週間 ボランティアの活動が本格化",
+      "slug": "千葉豪雨から1週間ボランティアの活動が本格化",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -89,23 +100,33 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45129"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de44985"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45235"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592341?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6592385?source=rss"
         }
       ],
-      "issue": "千葉県での豪雨による浸水被害の規模はどの程度か？",
+      "issue": "千葉豪雨の被災地における現状と復旧活動の状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "千葉県では、今回の豪雨で浸水した面積が少なくとも山手線の内側の半分に当たる31平方キロに達したとみられることが測量会社の解析で分かった。",
-          "span": "浸水した面積が少なくとも山手線の内側の半分に当たる31平方キロに達したとみられることが測量会社の解析で分かりました",
+          "t": "千葉豪雨から1週間が経過した。",
+          "span": "千葉豪雨から1週間",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "千葉県内でボランティアによる活動が本格化している。",
+          "span": "ボランティアの活動が本格化",
           "src": [
             {
               "ty": "press",
@@ -114,8 +135,8 @@
           ]
         },
         {
-          "t": "千葉市では多くの車が水につかって動けなくなり、その数は県内で2700台あまりにのぼった。",
-          "span": "多くの車が水につかって動けなくなり、千葉県内で2700台あまりにのぼりました",
+          "t": "千葉市では住宅への浸水被害が多数に上った。",
+          "span": "住宅への浸水被害が多数に上った",
           "src": [
             {
               "ty": "press",
@@ -124,8 +145,8 @@
           ]
         },
         {
-          "t": "千葉市では、冠水した道路の様子や車が水没して動けなくなるまでの記録がドライブレコーダーに残されていた。",
-          "span": "車のドライブレコーダーには冠水した道路の様子や水没して動けなくなるまでの記録が残されていました",
+          "t": "千葉市では、厳しい暑さの中、被災した住宅の片付けを手伝うボランティアの姿が見られた。",
+          "span": "厳しい暑さの中、被災した住宅の片付けを手伝う人の姿が見られまし",
           "src": [
             {
               "ty": "press",
@@ -134,8 +155,8 @@
           ]
         },
         {
-          "t": "千葉市内の幹線道路での車の撤去は完了した。",
-          "span": "千葉市幹線道路の車撤去完了",
+          "t": "被災者は元の生活に戻れていない。",
+          "span": "元の生活に戻れず",
           "src": [
             {
               "ty": "press",
@@ -145,16 +166,19 @@
         }
       ],
       "positions": [],
-      "consensus": "千葉県では今回の豪雨で少なくとも31平方キロが浸水し、県内で2700台以上の車が水没した。千葉市内の幹線道路での車の撤去は完了した。",
-      "note": "プライバシーに配慮し、個別の被害状況や個人名は記載しない。",
+      "consensus": "千葉豪雨から1週間が経過し、ボランティア活動が本格化しているものの、被災者は元の生活に戻れていない。",
+      "note": "本記事は事実の記述のみであり、評価や主張の対立がない事実合意型です。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[0].span: 元テキストに存在する最小核のフレーズ '千葉豪雨から1週間' に修正しました。",
+          "fact spanが原文に無い→除去「千葉豪雨から1週間がたつ…」"
+        ]
       }
     },
     {
-      "headline": "59歳 カズ 三浦知良 サッカー天皇杯で2得点 福島ユナイテッド",
-      "slug": "59歳カズ三浦知良サッカ天皇杯で2得点福島ユナイ",
+      "headline": "成田空港で旅客機エンジンから煙 けが人なし 滑走路閉鎖",
+      "slug": "成田空港で旅客機エンジンから煙けが人なし滑走路閉",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -163,88 +187,72 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260819de45160"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45224"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592330?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6592380?source=rss"
         }
       ],
-      "issue": "三浦知良選手は天皇杯1回戦で2得点を挙げたか？",
+      "issue": "成田空港で発生した航空機トラブルの状況は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "三浦知良選手が天皇杯1回戦に先発出場し、ペナルティーキックで2ゴールを決めた。",
-          "span": "ペナルティーキックで2ゴールを決めました",
+          "t": "20日午前、成田空港でマレーシア航空の旅客機が離陸直前にエンジントラブルを起こし、離陸を取りやめた。",
+          "span": "エンジンに何らかのトラブルが起きて離陸を取りやめました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "三浦知良選手は59歳である。",
-          "span": "59歳",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "三浦知良選手は福島ユナイテッドFCに所属している。",
-          "span": "福島ユナイテッド",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "試合は天皇杯1回戦で行われた。",
-          "span": "天皇杯1回戦",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "試合は5月19日に行われた。",
-          "span": "19日に行われた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "三浦知良選手は59歳で、天皇杯1回戦で2ゴールを決めた。",
-          "span": "カズ59歳 天皇杯1回戦で2ゴール",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
+        },
+        {
+          "t": "旅客機のエンジンから煙が出た。",
+          "span": "旅客機エンジンから煙",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "乗客や乗員にけが人はいない。",
+          "span": "けが人なし",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "このトラブルにより、成田空港の滑走路が閉鎖された。",
+          "span": "滑走路閉鎖",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "三浦知良選手は59歳で、福島ユナイテッドFC所属の選手として、5月19日に行われた天皇杯1回戦に先発出場し、ペナルティーキックで2ゴールを決めたという事実は両ソースで合意されている。",
-      "note": "両ソースとも事実の記述に留まり、評価や意見の対立は見られないため、positionsは空となる。",
+      "consensus": "成田空港でマレーシア航空機がエンジントラブルを起こし、滑走路が一時閉鎖されたが、けが人はなかった。この件に関する評価や意見の対立は報じられていない。",
+      "note": "",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "護憲リベラル「ゴリラ」結成へ　立民系、現職含め１６人参加意向",
-      "slug": "護憲リベラルゴリラ結成へ立民系現職含め人参加意向",
+      "headline": "時間外労働の一律指導見直し　「月４５時間以内」運用で―厚労省",
+      "slug": "時間外労働の一律指導見直し月時間以内運用で厚労省",
       "independentSources": 2,
       "sources": [
         "Yahoo!ニュース 主要",
@@ -253,53 +261,55 @@
       "links": [
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592328?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6592366?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026081901023&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026081901065&g=soc&m=rss"
         }
       ],
-      "issue": "政治団体「ゴリラ」は設立されるか？",
-      "stasis": "事実",
+      "issue": "厚生労働省は時間外労働の一律指導の運用をどのように見直す方針か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "中道落選者らが政治団体「ゴリラ」を設立する意向であることが報じられた。",
-          "span": "中道落選者ら 政治団体ゴリラ設立",
+          "t": "厚生労働省が時間外労働の一律指導の運用を見直す方針である。",
+          "span": "一律指導見直し",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "護憲リベラル系の政治団体「ゴリラ」が結成される見通しであることが報じられた。",
-          "span": "護憲リベラル「ゴリラ」結成へ",
-          "src": [
+            },
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "立憲民主党系の現職議員を含む16人が、政治団体「ゴリラ」への参加意向を示していることが報じられた。",
-          "span": "立民系、現職含め１６人参加意向",
+          "t": "現在、時間外労働の一律指導は「月45時間以内」という基準で運用されている。",
+          "span": "",
           "src": [
             {
               "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "中道落選者らと護憲リベラル系（立民系現職含む16人）が政治団体「ゴリラ」の設立・結成を目指している点で一致している。",
-      "note": "本件は事実の報道に留まり、評価や対立する意見は含まれていないため、positions は空となります。",
+      "consensus": "厚生労働省が時間外労働の一律指導の運用を見直す方針である。具体的な見直し内容やその影響については、今後の発表を待つ必要がある。",
+      "note": "記事には具体的な評価や対立する立場が記述されていないため、positionsは空配列です。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[0].spanを、両方の出典に共通する最小核である「一律指導見直し」に修正しました。",
+          "facts[1].spanの表記を、対応するtの表記に合わせ「月45h以内」から「月45時間以内」に修正しました。",
+          "元テキストに賛否の対立がないため、issueを「〜すべきか？」という問いから、テキストが報じる事実に関する問いに修正しました。"
+        ]
       }
     }
   ]
