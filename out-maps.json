@@ -1,211 +1,190 @@
 {
-  "builtAt": "2026-08-21T11:24:21.253Z",
+  "builtAt": "2026-08-21T17:15:09.585Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "東武特急と接触、作業員４人死亡　栃木・新鹿沼駅、線路の除草中―見張り員が合図、警笛も",
-      "slug": "東武特急と接触作業員人死亡栃木新鹿沼駅線路の除草",
-      "independentSources": 3,
+      "headline": "大阪パチンコ店放火５人殺害、死刑執行　高市政権で初―法務省",
+      "slug": "大阪パチンコ店放火人殺害死刑執行高市政権で初法務",
+      "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45242"
-        },
-        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592465?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6592590?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082000629&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026082100314&g=soc&m=rss"
         }
       ],
-      "issue": "栃木県鹿沼市の東武日光線駅で発生した作業員死亡事故の状況と原因",
+      "issue": "5人殺害事件の遺族は、死刑執行に対してどのような心境を抱いているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "20日午前、栃木県鹿沼市の東武日光線の駅で、線路で除草作業をしていた作業員4人が特急列車と接触し死亡した。",
-          "span": "作業員4人が特急と接触し死亡",
+          "t": "大阪府で発生したパチンコ店放火殺人事件で5人が死亡した事件の死刑囚に対し、法務省が死刑を執行した。",
+          "span": "大阪パチンコ店放火５人殺害、死刑執行",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "国の運輸安全委員会が事故調査官を派遣し、事故原因の調査を開始した。",
-          "span": "国の運輸安全委員会が調査官を派遣する",
+          "t": "この死刑執行は、高市政権下で初めて行われた。",
+          "span": "高市政権で初",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "警察は、事故現場での安全管理の状況について調査を進めている。",
-          "span": "警察が安全管理の状況",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "見張り員が作業員の退避完了を合図していたと報じられている。",
-          "span": "退避完了と見張りが合図",
+          "t": "5人殺害事件の遺族が、死刑執行に対する心境を表明した。",
+          "span": "5人殺害事件遺族 死刑執行に心境",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "特急列車は警笛を鳴らしていた。",
-          "span": "警笛も",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "栃木県鹿沼市の東武日光線の駅で作業員4人が特急列車と接触し死亡した事故が発生し、運輸安全委員会と警察が調査を進めているという事実については合意されている。現時点では、事故原因や安全管理に関する評価は調査中であり、意見の対立は報じられていない。",
-      "note": "",
+      "consensus": "大阪府で発生したパチンコ店放火殺人事件の死刑囚に対し、高市政権下で初めて死刑が執行され、事件の遺族が心境を表明した。",
+      "note": "本件は、死刑執行という事実と、それに対する遺族の心境の表明に関する報道であり、複数の立場からの意見対立や評価の応酬は見られないため、positions は空となる。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "埼玉で「記録的短時間大雨」北日本～西日本 あすも大気不安定",
-      "slug": "埼玉で記録的短時間大雨北日本西日本あすも大気不安",
+      "headline": "中村剛が決勝満塁本塁打　プロ野球・楽天４―６西武",
+      "slug": "中村剛が決勝満塁本塁打プロ野球楽天西武",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260821de45437"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592598?source=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821111909_0_VPWW54_100000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821111909_0_VPWW53_100000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821111907_0_VPWW55_100000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082101086&g=spo&m=rss"
         }
       ],
-      "issue": "埼玉県で「記録的短時間大雨」が発表されたか？",
+      "issue": "中村剛也は延長11回に代打満塁ホームランを打ったか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "前線や湿った空気の影響で、北日本から西日本の広い範囲で大気の状態が非常に不安定になっている。",
-          "span": "前線や湿った空気の影響で、北日本から西日本の広い範囲で大気の状態が非常に不安定になっています。",
+          "t": "中村剛也が延長11回に代打満塁ホームランを打った。",
+          "span": "中村剛也 延長11回に代打満塁HR",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "埼玉県では、猛烈な雨が降った。",
-          "span": "埼玉県では、猛烈な雨が降って",
+          "t": "中村剛が決勝満塁本塁打を打った。",
+          "span": "中村剛が決勝満塁本塁打",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "埼玉県に「記録的短時間大雨」の気象防災速報が発表された。",
-          "span": "「記録的短時間大雨」の気象防災速報が発表されました。",
+          "t": "試合結果は楽天4対6西武だった。",
+          "span": "楽天４―６西武",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は低い土地の浸水や川への注意を呼びかけている。",
-          "span": "気象庁は低い土地の浸水や川…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "群馬県南部では、土砂災害や低い土地の浸水に注意が必要である。",
-          "span": "南部では、土砂災害や低い土地の浸水に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "群馬県では、落雷に注意が必要である。",
-          "span": "群馬県では、落雷に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "群馬県南部では、低い土地の浸水や河川の増水に注意が必要である。",
-          "span": "南部では、低い土地の浸水や河川の増水に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "埼玉県で「記録的短時間大雨」の気象防災速報が発表された。北日本から西日本の広い範囲で大気の状態が非常に不安定になっている。群馬県では土砂災害、低い土地の浸水、落雷、河川の増水に注意が必要である。",
-      "note": "複数の出典で同じ内容が繰り返されているため、事実の重複はまとめて記載した。プライバシーに関わる情報は含まれていない。",
+      "consensus": "中村剛也が延長11回に代打満塁ホームランを打ち、試合結果は楽天4対6西武であった。",
+      "note": "プライバシー配慮のため、個人名はそのまま記載するが、一般人や被害者・容疑者の特定情報は含めない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Eight killed in plane crash at remote Alaskan military site, air force says",
-      "slug": "Eightkilledinplanecrasha",
+      "headline": "法務省「ラヴ上等」と提携中止　「火を付けた」発言で炎上",
+      "slug": "法務省ラヴ上等と提携中止火を付けた発言で炎上",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592559?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082100781&g=soc&m=rss"
+        }
+      ],
+      "issue": "法務省は「ラヴ上等」とのタイアップを中止すべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "法務省は「ラヴ上等」とのタイアップを中止した。",
+          "span": "タイアップ中止",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "法務省は「ラヴ上等」との提携を中止した。",
+          "span": "提携中止",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "「ラヴ上等」側による「火を付けた」という発言が炎上した。",
+          "span": "「火を付けた」発言で炎上",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "法務省は「ラヴ上等」とのタイアップ・提携を中止した。中止の理由は「火を付けた」という発言による炎上であると報じられている。評価は割れる。",
+      "note": "本件は、法務省が「ラヴ上等」とのタイアップを中止したという事実と、その背景として「火を付けた」発言による炎上があったという報道に基づいています。個別の評価や意見表明は記事中に見られなかったため、法務省の行動を「neutral」としています。issue は、中止という事実に対する「べきか」という問いとして設定しました。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Two Mexicans arrested as police uncover big meth lab on South African farm",
+      "slug": "TwoMexicansarrestedaspol",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -214,23 +193,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c80n8d4xz1eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss"
         }
       ],
-      "issue": "アラスカの軍事施設付近での飛行機墜落事故の原因は何か？",
+      "issue": "南アフリカの農場で大規模なメスラボが発見されたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "アラスカの遠隔地の軍事施設付近で飛行機が墜落し、8人が死亡した。",
-          "span": "Eight killed in plane crash at remote Alaskan military site",
+          "t": "南アフリカの農場で大規模なメスラボが発見され、2人のメキシコ人が逮捕された。",
+          "span": "Two Mexicans arrested as police uncover big meth lab on South African farm",
           "src": [
             {
               "ty": "press",
@@ -239,8 +214,8 @@
           ]
         },
         {
-          "t": "民間契約の飛行機がアラスカ南西海岸のレーダーサイトにいた理由は不明である。",
-          "span": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
+          "t": "この麻薬取引は数百万ドル規模の規模で行われていた。",
+          "span": "multi-million dollar drug operation",
           "src": [
             {
               "ty": "press",
@@ -249,38 +224,18 @@
           ]
         },
         {
-          "t": "アラスカの軍事施設付近でチャーター機が墜落し、8人が死亡した。",
-          "span": "Charter plane crash near Alaskan military site kills 8",
+          "t": "捜索はジンバブエとの国境近くで行われた。",
+          "span": "near the border with Zimbabwe",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "墜落現場付近に着陸した救助隊員が、生存者がいないことを確認した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "オーストラリアで、ウクライナ軍の情報をロシアに渡した疑いで男が訴追された。",
-          "span": "Australia charges man for passing Ukrainian military intel to Russia",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "訴追された男はオーストラリアとロシアの二重国籍を持ち、ウクライナ軍に入隊してロシア情報機関に情報を提供しようとしたとされている。",
-          "span": "Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.",
+          "t": "フランス国境警官が金曜日にフランス北部で、密航しようとしていた移民を阻止した。",
+          "span": "French border police clashed with migrants in northern France on Friday, as they intercepted a small boat",
           "src": [
             {
               "ty": "press",
@@ -290,62 +245,8 @@
         }
       ],
       "positions": [],
-      "consensus": "アラスカの遠隔地の軍事施設付近で飛行機が墜落し、8人が死亡した。生存者はいないことが確認された。アラスカの軍事施設付近でチャーター機が墜落し、8人が死亡した。オーストラリアで、ウクライナ軍の情報をロシアに渡した疑いで男が訴追された。訴追された男はオーストラリアとロシアの二重国籍を持ち、ウクライナ軍に入隊してロシア情報機関に情報を提供しようとしたとされている。民間契約の飛行機がアラスカ南西海岸のレーダーサイトにいた理由は不明である。",
-      "note": "アラスカの飛行機墜落事故と、オーストラリアでの訴追事件は別々の出来事として扱われています。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "馬渕隆一さん死去　マブチモーター創業者",
-      "slug": "馬渕隆一さん死去マブチモタ創業者",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592569?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082100806&g=obt&m=rss"
-        }
-      ],
-      "issue": "馬渕隆一氏が死去したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "マブチモーター創業者の馬渕隆一さんが死去した。",
-          "span": "馬渕隆一さん死去",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "馬渕隆一さんはマブチモーターの創業者である。",
-          "span": "マブチモーター創業者",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "馬渕隆一氏が死去したという事実は、複数の報道機関によって報じられている。",
-      "note": "提供された情報は、馬渕隆一氏の死去という事実に関する報道のみであり、それ以上の詳細や評価は含まれていないため、positions は空となる。",
+      "consensus": "南アフリカの農場で大規模なメスラボが発見され、2人のメキシコ人が逮捕された。この麻薬取引は数百万ドル規模の規模で行われており、捜索はジンバブエとの国境近くで行われた。フランス国境警官が金曜日にフランス北部で、密航しようとしていた移民を阻止した。",
+      "note": "複数の独立したニュースソースからの情報を統合しました。",
       "audit": {
         "changed": false,
         "issues": []
