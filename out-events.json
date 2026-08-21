@@ -1,11 +1,11 @@
 {
-  "rankedAt": "2026-08-21T15:36:03.498Z",
+  "rankedAt": "2026-08-21T16:02:39.237Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "Several people injured in sword attack at school in Sweden",
       "slug": "Severalpeopleinjuredinsw",
-      "time": "2026-08-21T15:26:24.000Z",
+      "time": "2026-08-21T15:42:47.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -122,6 +122,35 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
+      "time": "2026-08-21T15:46:28.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【茨城県気象警報・注意報】茨城県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821154630_0_VPWW54_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【茨城県気象警報・注意報】茨城県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821154630_0_VPWW53_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
       "time": "2026-08-21T15:33:58.000Z",
       "independentSources": 1,
       "sources": [
@@ -172,35 +201,6 @@
           "snippet": "【岩手県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260821152539_0_VPWW53_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-21T14:41:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【静岡県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821144135_0_VPWW54_220000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【静岡県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821144135_0_VPWW53_220000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -845,6 +845,48 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-21T15:46:15.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【茨城県雷・濃霧注意報】茨城県では、竜巻などの激しい突風や急な強い雨、落雷、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821154616_0_VPWW61_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-21T15:40:56.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821154057_0_VPTW60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象警報・注意報（Ｒ０６）（土砂）",
       "slug": "気象警報注意報土砂",
       "time": "2026-08-21T15:33:54.000Z",
@@ -881,48 +923,6 @@
           "snippet": "【岩手県土砂災害警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260821152536_0_VPWW56_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-21T14:41:20.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【静岡県雷注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821144121_0_VPWW61_220000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-21T14:39:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【愛知県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821143907_0_VPWW53_230000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1070,6 +1070,27 @@
           "snippet": "It comes as the court had earlier this week ordered that he had to be taken for a hospital examination.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ckgdr9vr50po?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Argentina’s Parades gets 10-game ban for World Cup final scuffle with Spain",
+      "slug": "ArgentinasParadesgets10g",
+      "time": "2026-08-21T15:31:33.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Argentina’s Parades gets 10-game ban for World Cup final scuffle with Spain",
+          "snippet": "Leandro Paredes banned for 10 games as FIFA suspends three Argentina players for World Cup final scuffle with Spain.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/21/argentinas-parades-gets-10-game-ban-for-world-cup-final-scuffle-with-spain?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1238,27 +1259,6 @@
           "snippet": "Epidemic remains out of control amid DR Congo conflict, funding shortages and attacks on health workers and facilities",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/21/ebola-outbreak-growing-faster-%e2%81%a0%e2%81%a0wider-as-drc-death-toll-passes-2500-un?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Liverpool preview: Five key questions heading into 2026-27 season",
-      "slug": "LiverpoolpreviewFivekeyq",
-      "time": "2026-08-21T13:29:28.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Liverpool preview: Five key questions heading into 2026-27 season",
-          "snippet": "Liverpool&#039;s new Spanish boss is tasked with making the club title challengers again, but he faces a number of issue",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/21/liverpool-preview-five-key-questions-heading-into-2026-27-season?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
