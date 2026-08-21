@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-21T20:24:10.146Z",
+  "rankedAt": "2026-08-21T20:49:43.164Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -50,9 +50,17 @@
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 8,
+      "count": 7,
       "hasPrimary": false,
       "members": [
+        {
+          "title": "One killed in sword attack at Swedish school",
+          "snippet": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
           "snippet": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -66,14 +74,6 @@
           "snippet": "One suspect is in custody, but police have not disclosed a possible motive.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ce8l7w0n0jeo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "One killed in sword attack at Swedish school",
-          "snippet": "One person remains in a critical condition, while another suffered minor injuries in the attack.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -106,14 +106,6 @@
           "snippet": "Palestinians with missing relatives are marking International Day of Remembrance and Tribute to Victims of Terrorism.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/features/2026/8/21/palestinian-victims-of-israeli-settlers-face-painful-battle-for-justice?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-          "snippet": "A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -190,7 +182,7 @@
     {
       "headline": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
       "slug": "Russiandoubletapdronestr",
-      "time": "2026-08-21T19:49:56.000Z",
+      "time": "2026-08-21T20:03:35.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -208,10 +200,10 @@
           "linkKind": "article"
         },
         {
-          "title": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
-          "snippet": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100",
+          "title": "Western allies slam Israel for ending World Central Kitchen strike probe",
+          "snippet": "UK, Australia and Canada call Israel’s decision not to investigate deadly 2024 strike on a Gaza aid convoy &#039;shamefu",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/21/western-allies-slam-israel-for-ending-world-central-kitchen-strike-probe?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -276,9 +268,9 @@
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-08-21T20:22:21.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-21T20:48:33.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -286,77 +278,19 @@
       "count": 2,
       "hasPrimary": true,
       "members": [
-        {
-          "title": "府県気象情報",
-          "snippet": "【東京都気象解説情報（高波）】小笠原諸島では、２３日夜のはじめ頃から２４日にかけて、うねりを伴った高波に注意・警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821202222_0_VPFJ50_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象解説情報",
-          "snippet": "【東京都気象解説情報（高波）】小笠原諸島では、２３日夜のはじめ頃から２４日にかけて、うねりを伴った高波に注意・警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821202222_0_VPFJ51_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-21T20:09:15.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【新潟県気象警報・注意報】新潟県では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821200916_0_VPWW54_150000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【新潟県気象警報・注意報】新潟県では、竜巻などの激しい突風や落雷に注意してください。",
+          "snippet": "【宮古島地方気象警報・注意報】〈危険警報（土砂災害）〉宮古島地方では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821200916_0_VPWW53_150000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "地方気象解説情報",
-      "slug": "地方気象解説情報",
-      "time": "2026-08-21T20:08:09.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "地方気象解説情報",
-          "snippet": "【北陸地方気象解説情報（大雨・落雷・突風）】北陸地方では、２２日夜のはじめ頃にかけて低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821200810_0_VPCJ51_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204833_0_VPWW53_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "地方気象情報",
-          "snippet": "【北陸地方気象解説情報（大雨・落雷・突風）】北陸地方では、２２日夜のはじめ頃にかけて低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮古島地方気象警報・注意報】〈危険警報（土砂災害）〉宮古島地方では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821200810_0_VPCJ50_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204833_0_VPWW54_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -365,7 +299,36 @@
     {
       "headline": "府県気象解説情報",
       "slug": "府県気象解説情報",
-      "time": "2026-08-21T20:06:14.000Z",
+      "time": "2026-08-21T20:43:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "府県気象解説情報",
+          "snippet": "【埼玉県気象解説情報（大雨・落雷・突風）】埼玉県では、２２日昼過ぎから夜遅くにかけて、低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204314_0_VPFJ51_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象情報",
+          "snippet": "【埼玉県気象解説情報（大雨・落雷・突風）】埼玉県では、２２日昼過ぎから夜遅くにかけて、低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204314_0_VPFJ50_110000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "府県気象解説情報",
+      "slug": "府県気象解説情報",
+      "time": "2026-08-21T20:42:37.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -375,17 +338,46 @@
       "members": [
         {
           "title": "府県気象情報",
-          "snippet": "【静岡県気象解説情報（落雷・突風）】静岡県では、２２日昼過ぎから夜遅くにかけて、竜巻などの激しい突風、落雷、急な強い雨に注意してください。",
+          "snippet": "【茨城県気象解説情報（大雨・落雷・突風）】茨城県では、２２日昼前から夜のはじめ頃にかけて、低い土地の浸水や河川の増水に十分注意し、土砂災害に注意してください。また、２２日夜遅くにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821200614_0_VPFJ50_220000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204237_0_VPFJ50_080000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "府県気象解説情報",
-          "snippet": "【静岡県気象解説情報（落雷・突風）】静岡県では、２２日昼過ぎから夜遅くにかけて、竜巻などの激しい突風、落雷、急な強い雨に注意してください。",
+          "snippet": "【茨城県気象解説情報（大雨・落雷・突風）】茨城県では、２２日昼前から夜のはじめ頃にかけて、低い土地の浸水や河川の増水に十分注意し、土砂災害に注意してください。また、２２日夜遅くにかけて、落雷や竜巻などの激しい突風、降ひょうに注意してください",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821200614_0_VPFJ51_220000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204237_0_VPFJ51_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "府県気象解説情報",
+      "slug": "府県気象解説情報",
+      "time": "2026-08-21T20:40:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "府県気象情報",
+          "snippet": "【神奈川県気象解説情報（大雨・落雷・突風）】東部では、２２日昼過ぎから夜のはじめ頃にかけて、低い土地や地下施設への浸水、河川の増水や氾濫に警戒してください。神奈川県では、２２日昼過ぎから夜遅くにかけて、低い土地の浸水や河川の増水、土砂災害に",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204020_0_VPFJ50_140000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象解説情報",
+          "snippet": "【神奈川県気象解説情報（大雨・落雷・突風）】東部では、２２日昼過ぎから夜のはじめ頃にかけて、低い土地や地下施設への浸水、河川の増水や氾濫に警戒してください。神奈川県では、２２日昼過ぎから夜遅くにかけて、低い土地の浸水や河川の増水、土砂災害に",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204019_0_VPFJ51_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -875,9 +867,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-21T20:09:11.000Z",
+      "headline": "土砂災害警戒情報",
+      "slug": "土砂災害警戒情報",
+      "time": "2026-08-21T20:48:30.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -886,19 +878,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【新潟県雷注意報】新潟県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+          "title": "土砂災害警戒情報",
+          "snippet": "【宮古島地方レベル４土砂災害危険警報】＜レベル４土砂災害危険警報の補足情報＞\nレベル４土砂災害危険警報が発表されている地域では、崖の近くなど土砂災害の発生しやすい地区にお住まいの方は、早めの避難を心がけるとともに、市から発令される避難指示な",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821200912_0_VPWW61_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204832_0_VXWW50_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-21T19:58:31.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
+      "slug": "気象警報注意報土砂",
+      "time": "2026-08-21T20:48:25.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -907,10 +899,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、強風や高波、落雷に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【宮古島地方土砂災害警報・注意報】宮古島地方では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821195832_0_VPWW54_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821204826_0_VPWW56_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1043,6 +1035,69 @@
       ]
     },
     {
+      "headline": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+      "slug": "PopeLeourgestheworldtohe",
+      "time": "2026-08-21T20:16:59.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
+          "snippet": "Pope Leo XIV is appealing to authorities around the world to support the people of Gaza who are ‘still suffering&#039;.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+      "slug": "BoliviasPresidentRodrigo",
+      "time": "2026-08-21T20:07:40.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Bolivia’s President Rodrigo Paz fires economy minister amid unrest",
+          "snippet": "Jose Gabriel Espinoza removed from post days after he was censured by the legislature amid tumult over economic reform.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/21/bolivias-president-rodrigo-paz-nixes-economy-minister-amid-unrest?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "US Supreme Court allows Trump’s ballroom project to continue for now",
+      "slug": "USSupremeCourtallowsTrum",
+      "time": "2026-08-21T19:52:34.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US Supreme Court allows Trump’s ballroom project to continue for now",
+          "snippet": "The Trump administration has argued the $400m White House ballroom is needed for national security purposes.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/21/us-supreme-court-allows-trumps-ballroom-project-to-continue-for-now?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Libya rivals test a new path towards unity, 15 years after Gadaffi downfall",
       "slug": "Libyarivalstestanewpatht",
       "time": "2026-08-21T19:21:08.000Z",
@@ -1079,48 +1134,6 @@
           "snippet": "Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel&#039;s attacks on Global Sumud Flotilla activists",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
-      "slug": "EspanyolvsRealMadridLaLi",
-      "time": "2026-08-21T18:40:21.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
-          "snippet": "Real Madrid kickoff their campaign at Espanyol in Barcelona as Jose Mourinho&#039;s targets winning La Liga return.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
-      "slug": "FormerPakistanPMImranKha",
-      "time": "2026-08-21T18:25:40.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
-          "snippet": "Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
