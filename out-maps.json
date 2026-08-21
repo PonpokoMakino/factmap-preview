@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-20T19:40:39.791Z",
+  "builtAt": "2026-08-21T11:24:21.253Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -96,8 +96,116 @@
       }
     },
     {
-      "headline": "German neo-Nazi suspected of deadly 1970 fire at Jewish retirement home",
-      "slug": "GermanneoNazisuspectedof",
+      "headline": "埼玉で「記録的短時間大雨」北日本～西日本 あすも大気不安定",
+      "slug": "埼玉で記録的短時間大雨北日本西日本あすも大気不安",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260821de45437"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821111909_0_VPWW54_100000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821111909_0_VPWW53_100000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260821111907_0_VPWW55_100000.xml"
+        }
+      ],
+      "issue": "埼玉県で「記録的短時間大雨」が発表されたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "前線や湿った空気の影響で、北日本から西日本の広い範囲で大気の状態が非常に不安定になっている。",
+          "span": "前線や湿った空気の影響で、北日本から西日本の広い範囲で大気の状態が非常に不安定になっています。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "埼玉県では、猛烈な雨が降った。",
+          "span": "埼玉県では、猛烈な雨が降って",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "埼玉県に「記録的短時間大雨」の気象防災速報が発表された。",
+          "span": "「記録的短時間大雨」の気象防災速報が発表されました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は低い土地の浸水や川への注意を呼びかけている。",
+          "span": "気象庁は低い土地の浸水や川…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "群馬県南部では、土砂災害や低い土地の浸水に注意が必要である。",
+          "span": "南部では、土砂災害や低い土地の浸水に注意してください。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "群馬県では、落雷に注意が必要である。",
+          "span": "群馬県では、落雷に注意してください。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "群馬県南部では、低い土地の浸水や河川の増水に注意が必要である。",
+          "span": "南部では、低い土地の浸水や河川の増水に注意してください。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "埼玉県で「記録的短時間大雨」の気象防災速報が発表された。北日本から西日本の広い範囲で大気の状態が非常に不安定になっている。群馬県では土砂災害、低い土地の浸水、落雷、河川の増水に注意が必要である。",
+      "note": "複数の出典で同じ内容が繰り返されているため、事実の重複はまとめて記載した。プライバシーに関わる情報は含まれていない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Eight killed in plane crash at remote Alaskan military site, air force says",
+      "slug": "Eightkilledinplanecrasha",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -106,23 +214,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3r055g23qdo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cj9dmw8183wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-208-20-2026-jewish-american-banned-sv-mp4?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/21/charter-plane-crash-near-alaskan-military-site-kills-8?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/thai-schools-hold-shooter-drills-after-deadly-attack?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/21/australia-charges-man-for-passing-ukrainian-military-intel-to-russia?traffic_source=rss"
         }
       ],
-      "issue": "1970年のミュンヘンでのユダヤ人コミュニティセンター放火事件の犯人は特定されたか？",
+      "issue": "アラスカの軍事施設付近での飛行機墜落事故の原因は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "捜査当局は、1970年にミュンヘンのユダヤ人コミュニティセンターで発生し死者を出した放火事件の犯人を特定したと考えている。",
-          "span": "identified an arsonist",
+          "t": "アラスカの遠隔地の軍事施設付近で飛行機が墜落し、8人が死亡した。",
+          "span": "Eight killed in plane crash at remote Alaskan military site",
           "src": [
             {
               "ty": "press",
@@ -131,8 +239,8 @@
           ]
         },
         {
-          "t": "この放火事件は1970年にミュンヘンのユダヤ人コミュニティセンターで発生した。",
-          "span": "attacked a Jewish community centre in Munich in 1970",
+          "t": "民間契約の飛行機がアラスカ南西海岸のレーダーサイトにいた理由は不明である。",
+          "span": "It is unclear why the civilian-contracted plane was at the radar site on Alaska's south-west coast.",
           "src": [
             {
               "ty": "press",
@@ -141,147 +249,106 @@
           ]
         },
         {
-          "t": "この攻撃により死者が出た。",
-          "span": "killing",
+          "t": "アラスカの軍事施設付近でチャーター機が墜落し、8人が死亡した。",
+          "span": "Charter plane crash near Alaskan military site kills 8",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "墜落現場付近に着陸した救助隊員が、生存者がいないことを確認した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "オーストラリアで、ウクライナ軍の情報をロシアに渡した疑いで男が訴追された。",
+          "span": "Australia charges man for passing Ukrainian military intel to Russia",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "訴追された男はオーストラリアとロシアの二重国籍を持ち、ウクライナ軍に入隊してロシア情報機関に情報を提供しようとしたとされている。",
+          "span": "Police allege Australian-Russian citizen joined Ukrainian military seeking to send information to Russian intelligence.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "捜査当局は1970年のミュンヘンでの放火事件の犯人を特定したと考えていると報じられているが、アプリは真偽を裁定しない。",
-      "note": "",
+      "consensus": "アラスカの遠隔地の軍事施設付近で飛行機が墜落し、8人が死亡した。生存者はいないことが確認された。アラスカの軍事施設付近でチャーター機が墜落し、8人が死亡した。オーストラリアで、ウクライナ軍の情報をロシアに渡した疑いで男が訴追された。訴追された男はオーストラリアとロシアの二重国籍を持ち、ウクライナ軍に入隊してロシア情報機関に情報を提供しようとしたとされている。民間契約の飛行機がアラスカ南西海岸のレーダーサイトにいた理由は不明である。",
+      "note": "アラスカの飛行機墜落事故と、オーストラリアでの訴追事件は別々の出来事として扱われています。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "千葉豪雨 幹線道路の車両移動は完了も水没車両の対応続く",
-      "slug": "千葉豪雨幹線道路の車両移動は完了も水没車両の対応",
+      "headline": "馬渕隆一さん死去　マブチモーター創業者",
+      "slug": "馬渕隆一さん死去マブチモタ創業者",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45364"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592569?source=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592460?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082100806&g=obt&m=rss"
         }
       ],
-      "issue": "千葉県内の豪雨による水没車両の対応状況と被害額はどうか？",
+      "issue": "馬渕隆一氏が死去したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "千葉県内では豪雨により、路上に残された水没車両が一時およそ2700台にのぼった。",
-          "span": "路上に残された車は一時、およそ2700台にのぼりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "千葉市では、路上の水没車両の移動はほぼ完了した。",
-          "span": "千葉市では路上の車をほぼすべて移動させましたが",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "千葉市では、駐車場などに残る水没車両への対応が続いている。",
-          "span": "駐車場などに残る車への対応が続いています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "千葉豪雨による農業被害などの総額は約19億円と報じられている。",
-          "span": "農業被害など約19億円",
+          "t": "マブチモーター創業者の馬渕隆一さんが死去した。",
+          "span": "馬渕隆一さん死去",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "馬渕隆一さんはマブチモーターの創業者である。",
+          "span": "マブチモーター創業者",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "千葉県内では豪雨により一時約2700台の車両が路上に残されたが、千葉市では路上の移動はほぼ完了し、駐車場等の対応が続いている。農業被害は約19億円と報じられている。",
-      "note": "本件は事実の記述に留まり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "馬渕隆一氏が死去したという事実は、複数の報道機関によって報じられている。",
+      "note": "提供された情報は、馬渕隆一氏の死去という事実に関する報道のみであり、それ以上の詳細や評価は含まれていないため、positions は空となる。",
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "JA全中会長 ことし産のコメ「概算金」下落に懸念示す",
-      "slug": "JA全中会長ことし産のコメ概算金下落に懸念示す",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45359"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592471?source=rss"
-        }
-      ],
-      "issue": "",
-      "stasis": "",
-      "facts": [
-        {
-          "t": "今年産のコメの「概算金」が、各地で前年を大幅に下回っている。",
-          "span": "ことし産のコメの「概算金」が各地で去年を大幅に下回っている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "26年産新米の大幅な値下がりが見込まれている。",
-          "span": "26年産新米 大幅値下がりの見通し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "今年産のコメの概算金が各地で前年を大幅に下回っており、26年産新米の大幅な値下がりが見込まれている。JA全中の神農会長は、生産者が持続的にコメ作りをできる価格でなければ、コメ作りは全国的に衰退してしまうと懸念を示している。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[0].src: 元テキストの出典に基づき、Yahoo!ニュースのソースを削除しました。",
-          "issue: テキストに対立する立場（賛否）が明示されていないため、争点を空にしました。",
-          "stasis: テキストに対立する解釈が明示されていないため、スタシスを空にしました。",
-          "consensus: 争点が空になったため、事実と唯一の立場（懸念）をまとめる形に修正しました。"
-        ]
       }
     }
   ]
