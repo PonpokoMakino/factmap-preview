@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-22T15:32:24.867Z",
+  "rankedAt": "2026-08-22T15:53:58.505Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -12,7 +12,7 @@
         "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
-      "count": 9,
+      "count": 8,
       "hasPrimary": true,
       "members": [
         {
@@ -44,14 +44,6 @@
           "snippet": "線状降水帯が相次いで発生し、記録的な豪雨となった千葉県では、これまでに13人が亡くなり、浸水の被害は床上と床下を含めるとおよそ3900棟に上ります。一方、一部の区間で運転見合わせが続いている外房線につ…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260822de45677",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "滋賀 野洲 化学工場で男性作業員2人が意識不明",
-          "snippet": "22日夕方、滋賀県野洲市にある化学工場で、深さ2メートルほどの釜の中で作業をしていた男性作業員2人が意識不明の状態で見つかり、病院に搬送されました。消防によりますと、釜の中の酸素濃度が低かったというこ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260822de45718",
           "ty": "press",
           "linkKind": "article"
         },
@@ -98,17 +90,9 @@
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 5,
+      "count": 4,
       "hasPrimary": false,
       "members": [
-        {
-          "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-          "snippet": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
         {
           "title": "Fourteen killed in strike on Myanmar monastery",
           "snippet": "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat.",
@@ -174,51 +158,6 @@
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-22T14:42:10.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 4,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822144211_0_VPWW53_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822144211_0_VPWW54_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822142615_0_VPWW54_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822142615_0_VPWW53_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
       "time": "2026-08-22T14:00:00.000Z",
@@ -242,6 +181,35 @@
           "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２２日２１時から２４時までは火口から北西方向、２３日０９時から１２時までは火口から北西方向に降灰が予想され",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260822110046_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-22T15:50:24.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822155025_0_VPTW61_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822154128_0_VPTW60_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -277,6 +245,64 @@
       ]
     },
     {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-22T14:42:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822144211_0_VPWW53_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822144211_0_VPWW54_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "slug": "CarneycallsTrumpsfreshta",
+      "time": "2026-08-22T15:44:57.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+          "snippet": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protec",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Carney faces crucial test after walking away from Trump's deal",
+          "snippet": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be wort",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "slug": "Israelreestablishesclose",
       "time": "2026-08-21T22:36:12.000Z",
@@ -306,29 +332,21 @@
       ]
     },
     {
-      "headline": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-      "slug": "Asfamiliesretrievebodies",
-      "time": "2026-08-22T13:10:45.000Z",
+      "headline": "沖縄 石垣市と竹富町に避難指示",
+      "slug": "沖縄石垣市と竹富町に避難指示",
+      "time": "2026-08-22T15:33:50.000Z",
       "independentSources": 1,
       "sources": [
-        "Al Jazeera"
+        "NHK 主要ニュース"
       ],
-      "count": 2,
+      "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-          "snippet": "Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "The Berlin Wall separated his family. Its legacy still endures",
-          "snippet": "When Germany was divided, the Guetingers were among the 70 million people split between two opposing nations.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
+          "title": "沖縄 石垣市と竹富町に避難指示",
+          "snippet": "沖縄県石垣市は、レベル4大雨危険警報とレベル4土砂災害危険警報の発表を受けて、22日午後10時半すぎ、市内の洪水浸水区域と土砂災害警戒区域に避難指示を出しました。\n\n危険な場所から全員避難するよう呼び…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45732",
           "ty": "press",
           "linkKind": "article"
         }
@@ -881,27 +899,6 @@
       ]
     },
     {
-      "headline": "Carney faces crucial test after walking away from Trump's deal",
-      "slug": "Carneyfacescrucialtestaf",
-      "time": "2026-08-22T15:00:27.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Carney faces crucial test after walking away from Trump's deal",
-          "snippet": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be wort",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
       "slug": "Fatherleaves7yearoldsona",
       "time": "2026-08-22T14:35:11.000Z",
@@ -959,6 +956,27 @@
           "snippet": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpar",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+      "slug": "Over100exdiplomatsurgeFr",
+      "time": "2026-08-22T15:30:49.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+          "snippet": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1064,6 +1082,27 @@
           "snippet": "A right-wing wave is sweeping through the region and that is not good news.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "As families retrieve bodies, Gaza is running out of places to bury the dead",
+      "slug": "Asfamiliesretrievebodies",
+      "time": "2026-08-22T13:10:45.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
+          "snippet": "Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
