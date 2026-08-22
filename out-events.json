@@ -1,11 +1,11 @@
 {
-  "rankedAt": "2026-08-22T22:01:00.336Z",
+  "rankedAt": "2026-08-22T22:34:47.330Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”",
       "slug": "茨城東京埼玉千葉で震度5弱気象庁今後1週間程度は",
-      "time": "2026-08-22T21:59:13.000Z",
+      "time": "2026-08-22T22:31:01.000Z",
       "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
@@ -13,7 +13,7 @@
         "時事ドットコム",
         "気象庁 地震・火山"
       ],
-      "count": 10,
+      "count": 11,
       "hasPrimary": true,
       "members": [
         {
@@ -65,10 +65,10 @@
           "linkKind": "article"
         },
         {
-          "title": "関東南部で雨 東京駅近くで道に穴",
+          "title": "震度5弱 関東の鉄道運行情報",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592714?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592722?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -90,9 +90,72 @@
         },
         {
           "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】２３日０７時０７分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822221220_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
           "snippet": "【震源・震度情報】２３日０６時４５分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260822215135_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "宮古島付近で台風２０号発生　１８号は２６～２７日沖縄接近か―気象庁",
+      "slug": "宮古島付近で台風号発生号は日沖縄接近か気象庁",
+      "time": "2026-08-22T22:06:34.000Z",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 5,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ",
+          "snippet": "22日、熱帯低気圧から変わった台風20号の影響で沖縄県の先島諸島は大雨になっていて、八重山地方ではレベル4危険警報が発表されているところがあります。八重山地方では夕方にかけて線状降水帯が発生して、災害…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45798",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "宮古島付近で台風２０号発生　１８号は２６～２７日沖縄接近か―気象庁",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082200329&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "土砂災害警戒情報",
+          "snippet": "【八重山地方レベル４土砂災害危険警報】＜レベル４土砂災害危険警報の補足情報＞\nレベル４土砂災害危険警報が発表されている地域では、崖の近くなど土砂災害の発生しやすい地区にお住まいの方は、早めの避難を心がけるとともに、市町から発令される避難指示",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822220636_0_VXWW50_474000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【八重山地方気象警報・注意報】〈危険警報（土砂災害）〉石垣島地方では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822220630_0_VPWW54_474000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【八重山地方気象警報・注意報】〈危険警報（土砂災害）〉石垣島地方では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822220630_0_VPWW53_474000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -215,15 +278,72 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-22T22:30:26.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【石狩・空知・後志地方気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822223027_0_VPWW54_016000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【石狩・空知・後志地方気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822223027_0_VPWW53_016000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-22T22:27:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【胆振・日高地方気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822222720_0_VPWW53_015000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【胆振・日高地方気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822222720_0_VPWW54_015000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "slug": "CarneycallsTrumpsfreshta",
       "time": "2026-08-22T20:10:00.000Z",
-      "independentSources": 2,
+      "independentSources": 1,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "BBC World"
       ],
-      "count": 3,
+      "count": 2,
       "hasPrimary": false,
       "members": [
         {
@@ -239,159 +359,6 @@
           "snippet": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Canada to match US tariffs “dollar for dollar,” PM Carney says",
-          "snippet": "Canadian Prime Minister Mark Carney says Canada will match new US tariffs “dollar for dollar.&quot;",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-carney-tariffs-canada-ca?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-08-22T21:56:41.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 3,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822215642_0_VPTW62_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822214618_0_VPTW61_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822214045_0_VPTW60_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-08-22T21:13:23.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "府県気象情報",
-          "snippet": "【長野県気象解説情報（落雷・突風・降ひょう）】長野県では、２３日昼過ぎから夜遅くにかけて、大気の状態が非常に不安定となるでしょう。落雷や竜巻などの激しい突風、降ひょう、局地的な非常に激しい雨に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822211323_0_VPFJ50_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象解説情報",
-          "snippet": "【長野県気象解説情報（落雷・突風・降ひょう）】長野県では、２３日昼過ぎから夜遅くにかけて、大気の状態が非常に不安定となるでしょう。落雷や竜巻などの激しい突風、降ひょう、局地的な非常に激しい雨に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822211323_0_VPFJ51_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-22T21:09:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山形県気象警報・注意報】山形県では、落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822210930_0_VPWW54_060000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【山形県気象警報・注意報】山形県では、落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822210930_0_VPWW53_060000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-22T21:09:28.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【秋田県気象警報・注意報】秋田県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822210929_0_VPWW54_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【秋田県気象警報・注意報】秋田県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822210929_0_VPWW53_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ",
-      "slug": "台風20号の影響沖縄八重山地方で線状降水帯発生の",
-      "time": "2026-08-22T21:06:15.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ",
-          "snippet": "22日、熱帯低気圧から変わった台風20号の影響で沖縄県の先島諸島は大雨になっていて、八重山地方ではレベル4危険警報が発表されているところがあります。八重山地方では夕方にかけて線状降水帯が発生して、災害…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45798",
           "ty": "press",
           "linkKind": "article"
         }
@@ -413,48 +380,6 @@
           "snippet": "23日も西日本や東海などの各地で気温が上がり、大分県では最高気温が40度と酷暑日が予想されています。熊本県の被災地でも危険な暑さになる見込みで、熱中症対策を徹底してください。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260823de45805",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "東武事故 200m手前で警笛の記録",
-      "slug": "東武事故200m手前で警笛の記録",
-      "time": "2026-08-22T13:14:31.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "東武事故 200m手前で警笛の記録",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592709?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "衆院比例に「サンラグ式」案浮上",
-      "slug": "衆院比例にサンラグ式案浮上",
-      "time": "2026-08-22T12:52:44.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "衆院比例に「サンラグ式」案浮上",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592706?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -524,9 +449,9 @@
       ]
     },
     {
-      "headline": "乃木坂公演 雷避難の客戻る前開始",
-      "slug": "乃木坂公演雷避難の客戻る前開始",
-      "time": "2026-08-22T14:00:40.000Z",
+      "headline": "薬師寺国宝に液体かけた疑い 逮捕",
+      "slug": "薬師寺国宝に液体かけた疑い逮捕",
+      "time": "2026-08-22T22:26:20.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -535,31 +460,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "乃木坂公演 雷避難の客戻る前開始",
+          "title": "薬師寺国宝に液体かけた疑い 逮捕",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592715?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592721?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "国債買い戻し、効果続かず　財政・インフレ懸念根強く―米市場",
-      "slug": "国債買い戻し効果続かず財政インフレ懸念根強く米市",
-      "time": "2026-08-22T11:32:00.000Z",
+      "headline": "大谷の左膝懸念 監督「もう過去」",
+      "slug": "大谷の左膝懸念監督もう過去",
+      "time": "2026-08-22T22:19:44.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "国債買い戻し、効果続かず　財政・インフレ懸念根強く―米市場",
+          "title": "大谷の左膝懸念 監督「もう過去」",
           "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200306&g=int&m=rss",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592720?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "りくりゅう木原さん&三浦さん婚約",
+      "slug": "りくりゅう木原さん三浦さん婚約",
+      "time": "2026-08-22T22:14:50.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "りくりゅう木原さん&三浦さん婚約",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592724?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -587,9 +533,9 @@
       ]
     },
     {
-      "headline": "智弁和歌山、５年ぶり夏制覇　健大高崎に競り勝つ―全国高校野球",
-      "slug": "智弁和歌山年ぶり夏制覇健大高崎に競り勝つ全国高校",
-      "time": "2026-08-22T05:45:00.000Z",
+      "headline": "国債買い戻し、効果続かず　財政・インフレ懸念根強く―米市場",
+      "slug": "国債買い戻し効果続かず財政インフレ懸念根強く米市",
+      "time": "2026-08-22T11:32:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -598,10 +544,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "智弁和歌山、５年ぶり夏制覇　健大高崎に競り勝つ―全国高校野球",
+          "title": "国債買い戻し、効果続かず　財政・インフレ懸念根強く―米市場",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200217&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082200306&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -629,9 +575,9 @@
       ]
     },
     {
-      "headline": "米、５０％追加関税を発動　カナダは報復、交渉決裂",
-      "slug": "米追加関税を発動カナダは報復交渉決裂",
-      "time": "2026-08-22T07:33:00.000Z",
+      "headline": "智弁和歌山、５年ぶり夏制覇　健大高崎に競り勝つ―全国高校野球",
+      "slug": "智弁和歌山年ぶり夏制覇健大高崎に競り勝つ全国高校",
+      "time": "2026-08-22T05:45:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -640,10 +586,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "米、５０％追加関税を発動　カナダは報復、交渉決裂",
+          "title": "智弁和歌山、５年ぶり夏制覇　健大高崎に競り勝つ―全国高校野球",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200265&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082200217&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "トランプ氏に「大切なのはあなただけ」と手紙　「近さ」が物議の側近女性―米報道",
+      "slug": "トランプ氏に大切なのはあなただけと手紙近さが物議",
+      "time": "2026-08-22T06:51:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "トランプ氏に「大切なのはあなただけ」と手紙　「近さ」が物議の側近女性―米報道",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082200190&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -686,27 +653,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082200109&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "高市外交に「弱腰」批判　ＩＣＣ、ロシア対応巡り",
-      "slug": "高市外交に弱腰批判ロシア対応巡り",
-      "time": "2026-08-21T22:02:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "高市外交に「弱腰」批判　ＩＣＣ、ロシア対応巡り",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082100864&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -881,30 +827,9 @@
       ]
     },
     {
-      "headline": "顕著な地震の震源要素更新のお知らせ",
-      "slug": "顕著な地震の震源要素更新のお知らせ",
-      "time": "2026-08-22T19:00:12.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "顕著な地震の震源要素更新のお知らせ",
-          "snippet": "【顕著な地震の震源要素更新のお知らせ】令和　８年　８月２３日０４時００分をもって、地震の発生場所と規模を更新します。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822190012_0_VXSE61_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-22T21:09:28.000Z",
+      "time": "2026-08-22T22:30:18.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -914,9 +839,51 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【山形県雷・濃霧注意報】山形県では、急な強い雨や落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
+          "snippet": "【石狩・空知・後志地方濃霧注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822210928_0_VPWW61_060000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822223018_0_VPWW61_016000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-22T22:27:17.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【胆振・日高地方濃霧注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822222717_0_VPWW61_015000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-22T22:10:12.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822221013_0_VPTW63_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -959,6 +926,27 @@
           "snippet": "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpar",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+      "slug": "RealMadridbeatEspanyol21",
+      "time": "2026-08-22T21:55:06.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+          "snippet": "Carlos Espi scores late to snatch a win for Real Madrid after Alex Calatrava had levelled Jude Bellingham&#039;s opener.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
