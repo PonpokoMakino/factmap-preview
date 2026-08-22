@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-22T15:53:58.505Z",
+  "rankedAt": "2026-08-22T16:22:02.992Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -12,7 +12,7 @@
         "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
-      "count": 8,
+      "count": 7,
       "hasPrimary": true,
       "members": [
         {
@@ -70,14 +70,6 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260822152108_0_VPFJ50_110000.xml",
           "ty": "prim",
           "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【群馬県大雨警報・注意報】南部では、低い土地の浸水や河川の増水に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822144205_0_VPWW55_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -128,32 +120,47 @@
       ]
     },
     {
-      "headline": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
-      "slug": "高校野球智弁和歌山が優勝5年ぶり4回目健大高崎に",
-      "time": "2026-08-22T10:34:00.000Z",
-      "independentSources": 2,
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-22T16:18:15.000Z",
+      "independentSources": 1,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
+        "気象庁 気象警報・注意報"
       ],
-      "count": 2,
-      "hasPrimary": false,
+      "count": 4,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
-          "snippet": "夏の全国高校野球は22日、決勝が行われ、終盤に逆転した智弁和歌山高校が群馬の高崎健康福祉大高崎高校に4対3で競り勝ち、5年ぶり4回目の優勝を果たしました。\n\n記事後半では試合の詳しい経過もお伝えしてい…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45392",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822161815_0_VPTW63_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
-          "title": "智弁和歌山、５年ぶり夏制覇　健大高崎に競り勝つ―全国高校野球",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200217&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822161315_0_VPTW62_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822155025_0_VPTW61_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822154128_0_VPTW60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -181,35 +188,6 @@
           "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２２日２１時から２４時までは火口から北西方向、２３日０９時から１２時までは火口から北西方向に降灰が予想され",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260822110046_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-08-22T15:50:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822155025_0_VPTW61_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822154128_0_VPTW60_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -245,38 +223,9 @@
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-22T14:42:10.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822144211_0_VPWW53_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822144211_0_VPWW54_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
       "slug": "CarneycallsTrumpsfreshta",
-      "time": "2026-08-22T15:44:57.000Z",
+      "time": "2026-08-22T16:20:51.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -332,6 +281,35 @@
       ]
     },
     {
+      "headline": "What did war with the US reveal about Iran’s weapons capabilities?",
+      "slug": "WhatdidwarwiththeUSrevea",
+      "time": "2026-08-22T15:48:27.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+          "snippet": "Designed to stop heatstroke in its tracks, the &quot;Do Hiemon Box&quot; delivers rapid, targeted cooling during extreme",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
+          "snippet": "Iran says production is ongoing, but details will not be revealed during war conditions.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "沖縄 石垣市と竹富町に避難指示",
       "slug": "沖縄石垣市と竹富町に避難指示",
       "time": "2026-08-22T15:33:50.000Z",
@@ -368,6 +346,27 @@
           "snippet": "栃木県鹿沼市の東武日光線で特急列車に作業員4人がはねられて死亡した事故で、運転士は現場のおよそ200メートル手前の地点でホームへの進入を許可する合図を受けたと認識していたことが会社への取材で分かりまし…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260822de45675",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
+      "slug": "高校野球智弁和歌山が優勝5年ぶり4回目健大高崎に",
+      "time": "2026-08-22T10:34:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
+          "snippet": "夏の全国高校野球は22日、決勝が行われ、終盤に逆転した智弁和歌山高校が群馬の高崎健康福祉大高崎高校に4対3で競り勝ち、5年ぶり4回目の優勝を果たしました。\n\n記事後半では試合の詳しい経過もお伝えしてい…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260820de45392",
           "ty": "press",
           "linkKind": "article"
         }
@@ -521,132 +520,6 @@
       ]
     },
     {
-      "headline": "隅田、１カ月ぶり白星　プロ野球・西武",
-      "slug": "隅田カ月ぶり白星プロ野球西武",
-      "time": "2026-08-22T13:19:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "隅田、１カ月ぶり白星　プロ野球・西武",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200425&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "１６歳の三井寺、豪快ボレー　Ｊリーグ・横浜Ｍ",
-      "slug": "歳の三井寺豪快ボレリグ横浜",
-      "time": "2026-08-22T13:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "１６歳の三井寺、豪快ボレー　Ｊリーグ・横浜Ｍ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200417&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "水戸、攻めて初勝利　Ｊ１",
-      "slug": "水戸攻めて初勝利",
-      "time": "2026-08-22T13:59:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "水戸、攻めて初勝利　Ｊ１",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200437&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "北朝鮮、「日本が間違った選択すれば、生存不可にせん滅」と威嚇　金与正氏「軍事的目標と見なす認識強まる」と言及も",
-      "slug": "北朝鮮日本が間違った選択すれば生存不可にせん滅と",
-      "time": "2026-08-20T05:25:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "北朝鮮、「日本が間違った選択すれば、生存不可にせん滅」と威嚇　金与正氏「軍事的目標と見なす認識強まる」と言及も",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082000651&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "２３日の予告先発投手　プロ野球セ・リーグ",
-      "slug": "日の予告先発投手プロ野球セリグ",
-      "time": "2026-08-22T08:28:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "２３日の予告先発投手　プロ野球セ・リーグ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200322&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "大阪パチンコ店放火５人殺害、死刑執行　高市政権で初―法務省",
-      "slug": "大阪パチンコ店放火人殺害死刑執行高市政権で初法務",
-      "time": "2026-08-21T07:58:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "大阪パチンコ店放火５人殺害、死刑執行　高市政権で初―法務省",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082100314&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "岡山、連勝逃す　Ｊ１",
       "slug": "岡山連勝逃す",
       "time": "2026-08-22T13:59:00.000Z",
@@ -689,9 +562,9 @@
       ]
     },
     {
-      "headline": "１万６０００回分超のワクチン到着　エボラ熱拡大で―コンゴ",
-      "slug": "万回分超のワクチン到着エボラ熱拡大でコンゴ",
-      "time": "2026-08-22T10:11:00.000Z",
+      "headline": "１６歳の三井寺、豪快ボレー　Ｊリーグ・横浜Ｍ",
+      "slug": "歳の三井寺豪快ボレリグ横浜",
+      "time": "2026-08-22T13:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -700,10 +573,157 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "１万６０００回分超のワクチン到着　エボラ熱拡大で―コンゴ",
+          "title": "１６歳の三井寺、豪快ボレー　Ｊリーグ・横浜Ｍ",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200359&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082200417&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "国債買い戻し、効果続かず　財政・インフレ懸念根強く―米市場",
+      "slug": "国債買い戻し効果続かず財政インフレ懸念根強く米市",
+      "time": "2026-08-22T11:32:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "国債買い戻し、効果続かず　財政・インフレ懸念根強く―米市場",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082200306&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "米、中国ハイテク分野に圧力　首脳会談控え応酬激化",
+      "slug": "米中国ハイテク分野に圧力首脳会談控え応酬激化",
+      "time": "2026-08-22T11:32:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米、中国ハイテク分野に圧力　首脳会談控え応酬激化",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082200293&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "トランプ氏に「大切なのはあなただけ」と手紙　「近さ」が物議の側近女性―米報道",
+      "slug": "トランプ氏に大切なのはあなただけと手紙近さが物議",
+      "time": "2026-08-22T06:51:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "トランプ氏に「大切なのはあなただけ」と手紙　「近さ」が物議の側近女性―米報道",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082200190&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "水戸、攻めて初勝利　Ｊ１",
+      "slug": "水戸攻めて初勝利",
+      "time": "2026-08-22T13:59:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "水戸、攻めて初勝利　Ｊ１",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082200437&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ロシア軍攻撃で１６人死亡　商業施設標的、最悪規模の被害か―ウクライナ東部",
+      "slug": "ロシア軍攻撃で人死亡商業施設標的最悪規模の被害か",
+      "time": "2026-08-22T11:56:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ロシア軍攻撃で１６人死亡　商業施設標的、最悪規模の被害か―ウクライナ東部",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082200162&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "北朝鮮、「日本が間違った選択すれば、生存不可にせん滅」と威嚇　金与正氏「軍事的目標と見なす認識強まる」と言及も",
+      "slug": "北朝鮮日本が間違った選択すれば生存不可にせん滅と",
+      "time": "2026-08-20T05:25:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "北朝鮮、「日本が間違った選択すれば、生存不可にせん滅」と威嚇　金与正氏「軍事的目標と見なす認識強まる」と言及も",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082000651&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "高市外交に「弱腰」批判　ＩＣＣ、ロシア対応巡り",
+      "slug": "高市外交に弱腰批判ロシア対応巡り",
+      "time": "2026-08-21T22:02:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "高市外交に「弱腰」批判　ＩＣＣ、ロシア対応巡り",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082100864&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -899,6 +919,27 @@
       ]
     },
     {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-22T14:42:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822144211_0_VPWW53_100000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
       "slug": "Fatherleaves7yearoldsona",
       "time": "2026-08-22T14:35:11.000Z",
@@ -962,6 +1003,48 @@
       ]
     },
     {
+      "headline": "Did DOGE cuts make America’s food safety problem worse?",
+      "slug": "DidDOGEcutsmakeAmericasf",
+      "time": "2026-08-22T15:46:48.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Did DOGE cuts make America’s food safety problem worse?",
+          "snippet": "The US has recorded more than 160 food recalls this year, as a Cyclospora outbreak has sickened nearly 11,000 people.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-us-food-recalls-clip?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+      "slug": "SettlerstargetPalestinia",
+      "time": "2026-08-22T15:45:40.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+          "snippet": "Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
       "slug": "Over100exdiplomatsurgeFr",
       "time": "2026-08-22T15:30:49.000Z",
@@ -977,27 +1060,6 @@
           "snippet": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "What did war with the US reveal about Iran’s weapons capabilities?",
-      "slug": "WhatdidwarwiththeUSrevea",
-      "time": "2026-08-22T14:19:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "What did war with the US reveal about Iran’s weapons capabilities?",
-          "snippet": "Iran says production is ongoing, but details will not be revealed during war conditions.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1082,69 +1144,6 @@
           "snippet": "A right-wing wave is sweeping through the region and that is not good news.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-      "slug": "Asfamiliesretrievebodies",
-      "time": "2026-08-22T13:10:45.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-          "snippet": "Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Jewish activists push back against Israeli settlers",
-      "slug": "Jewishactivistspushbacka",
-      "time": "2026-08-22T12:51:55.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Jewish activists push back against Israeli settlers",
-          "snippet": "Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
-      "slug": "CONCACAFasksInfantinotos",
-      "time": "2026-08-22T12:37:26.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "CONCACAF asks Infantino to skip youth event amid FIFA governance crisis",
-          "snippet": "The pressure on Gianni Infantino has led CONCACAF to reportedly ask the FIFA president to skip upcoming tournament.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/22/concacaf-ask-infantino-to-skip-youth-tournament-amid-fifa-governance-crisis?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
