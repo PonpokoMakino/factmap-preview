@@ -1,18 +1,18 @@
 {
-  "rankedAt": "2026-08-22T11:45:15.790Z",
+  "rankedAt": "2026-08-22T12:00:34.754Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
       "slug": "台風18号来週南西諸島に接近か19号と20号も相",
-      "time": "2026-08-22T11:42:35.000Z",
+      "time": "2026-08-22T11:57:38.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
-      "count": 11,
+      "count": 8,
       "hasPrimary": true,
       "members": [
         {
@@ -57,49 +57,25 @@
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。東京地方では、竜巻などの激しい突風や落雷に注意してください。伊豆諸島北部、伊豆諸島南部では、落雷に注意してください。",
+          "snippet": "【神奈川県気象警報・注意報】東部では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822114236_0_VPWW54_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115739_0_VPWW54_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。東京地方では、竜巻などの激しい突風や落雷に注意してください。伊豆諸島北部、伊豆諸島南部では、落雷に注意してください。",
+          "snippet": "【神奈川県気象警報・注意報】東部では、低い土地の浸水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822114236_0_VPWW53_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115740_0_VPWW53_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】〈危険警報（大雨）〉東京地方では、低い土地の浸水に厳重に警戒してください。",
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【神奈川県大雨警報・注意報】東部では、低い土地の浸水や河川の増水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822114021_0_VPWW54_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【東京都気象警報・注意報】〈危険警報（大雨）〉東京地方では、低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822114021_0_VPWW53_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【静岡県気象警報・注意報】東部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822113644_0_VPWW54_220000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【静岡県気象警報・注意報】東部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822113644_0_VPWW53_220000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115737_0_VPWW55_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -305,6 +281,64 @@
           "snippet": "【震源・震度情報】２２日１８時３７分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260822094044_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-22T11:58:08.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【山形県気象警報・注意報】村山、置賜では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115809_0_VPWW54_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【山形県気象警報・注意報】村山、置賜では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115809_0_VPWW53_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-22T11:57:22.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【福島県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115723_0_VPWW53_070000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【福島県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115723_0_VPWW54_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -823,9 +857,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-22T11:42:34.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-22T11:58:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -834,10 +868,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【東京都大雨警報・注意報】危険警報を解除します。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【山形県雷注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822114235_0_VPWW55_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115800_0_VPWW61_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -846,7 +880,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（土砂）",
       "slug": "気象警報注意報土砂",
-      "time": "2026-08-22T11:42:34.000Z",
+      "time": "2026-08-22T11:57:36.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -856,30 +890,9 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【東京都土砂災害警報・注意報】注意報を解除します。",
+          "snippet": "【神奈川県土砂災害警報・注意報】東部では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822114235_0_VPWW56_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "指定河川洪水予報",
-      "slug": "指定河川洪水予報",
-      "time": "2026-08-22T11:40:09.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "指定河川洪水予報",
-          "snippet": "【神田川レベル２氾濫注意報解除】〔解除〕神田川　氾濫のおそれなくなる",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822114014_0_VXKO70_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115737_0_VPWW56_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -888,7 +901,7 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-22T11:34:33.000Z",
+      "time": "2026-08-22T11:57:20.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -898,9 +911,9 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【八重山地方気象警報・注意報】〈危険警報（土砂災害）〉石垣島地方では、土砂災害に厳重に警戒してください。",
+          "snippet": "【宮城県気象警報・注意報】宮城県では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822113433_0_VPWW53_474000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822115721_0_VPWW53_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -943,6 +956,27 @@
           "snippet": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
+      "slug": "UsainBolts100mrecordbrok",
+      "time": "2026-08-22T11:30:51.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
+          "snippet": "Chinese robot reaches peak ​speed of 14.5 metres per second to beat Bolt&#039;s 100m record in Beijing, says state media",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1048,27 +1082,6 @@
           "snippet": "Frances Tiafoe and Brandon Nakashima set up one all-American men&#039;s semifinal, Coco Gauff and Jessica Pegula also wi",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
-      "slug": "PanamaCanaltoreduceshipp",
-      "time": "2026-08-22T08:00:30.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
-          "snippet": "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
