@@ -1,18 +1,18 @@
 {
-  "rankedAt": "2026-08-22T09:45:36.548Z",
+  "rankedAt": "2026-08-22T10:02:00.533Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "東京23区 レベル4大雨危険警報 中央区・荒川区・台東区にも",
       "slug": "東京23区レベル4大雨危険警報中央区荒川区台東区",
-      "time": "2026-08-22T09:43:18.000Z",
+      "time": "2026-08-22T10:00:27.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
-      "count": 15,
+      "count": 10,
       "hasPrimary": true,
       "members": [
         {
@@ -20,22 +20,6 @@
           "snippet": "前線や湿った空気の影響で、関東南部では猛烈な雨が降り、東京や埼玉県では「記録的短時間大雨」の気象防災速報が相次いで発表されました。\n\n低い土地の浸水や川の氾濫に厳重に警戒してください。\n\n道路冠水の危…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260822de45682",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "東京 神田川にレベル4氾濫危険警報",
-          "snippet": "気象庁と東京都は22日午後5時50分、都内を流れる神田川にレベル4氾濫危険警報を発表しました。\n\n神田川では水位が上昇していて、今後、氾濫するおそれがあります。\n\n気象庁と東京都は、自治体からの避難の…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260822de45694",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "東京 善福寺川にレベル4氾濫危険警報",
-          "snippet": "気象庁と東京都は22日午後5時20分、都内を流れる善福寺川にレベル4氾濫危険警報を発表しました。\n\n善福寺川では、水位が上昇していて、今後、氾濫するおそれがあります。\n\n気象庁と東京都は、自治体からの…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260822de45690",
           "ty": "press",
           "linkKind": "article"
         },
@@ -64,18 +48,26 @@
           "linkKind": "article"
         },
         {
-          "title": "東京都の大雨 現地からのSNS投稿",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592680?source=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【兵庫県気象警報・注意報】南部では、低い土地の浸水に注意してください。兵庫県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095404_0_VPWW53_280000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【兵庫県気象警報・注意報】南部では、低い土地の浸水に注意してください。兵庫県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095404_0_VPWW54_280000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
           "snippet": "【神奈川県気象警報・注意報】〈危険警報（大雨）〉東部では、低い土地の浸水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822094319_0_VPWW54_140000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095402_0_VPWW54_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -83,7 +75,7 @@
           "title": "気象特別警報・警報・注意報",
           "snippet": "【神奈川県気象警報・注意報】〈危険警報（大雨）〉東部では、低い土地の浸水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822094319_0_VPWW53_140000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095402_0_VPWW53_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -91,47 +83,15 @@
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
           "snippet": "【神奈川県大雨警報・注意報】東部では、低い土地の浸水や河川の増水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822094305_0_VPWW55_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象情報",
-          "snippet": "【神奈川県気象解説情報（大雨・落雷・突風）】神奈川県では、局地的に雨雲が発達し、浸水害の危険度が急激に高まっており、重大な災害がいつ発生してもおかしくない危険な状況となっています。自治体からの避難情報の発令に留意するとともに、今いる場所の災",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822093420_0_VPFJ50_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "府県気象解説情報",
-          "snippet": "【神奈川県気象解説情報（大雨・落雷・突風）】神奈川県では、局地的に雨雲が発達し、浸水害の危険度が急激に高まっており、重大な災害がいつ発生してもおかしくない危険な状況となっています。自治体からの避難情報の発令に留意するとともに、今いる場所の災",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822093420_0_VPFJ51_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【岩手県気象警報・注意報】内陸では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822093235_0_VPWW54_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【岩手県気象警報・注意報】内陸では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822093235_0_VPWW53_030000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095357_0_VPWW55_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【岩手県大雨警報・注意報】内陸では、低い土地の浸水や河川の増水に警戒してください。",
+          "snippet": "【兵庫県大雨警報・注意報】南部では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822093220_0_VPWW55_030000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095352_0_VPWW55_280000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -141,23 +101,14 @@
       "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "slug": "UKCanadaandAustraliacond",
       "time": "2026-08-22T08:53:17.000Z",
-      "independentSources": 3,
+      "independentSources": 2,
       "sources": [
-        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 8,
+      "count": 7,
       "hasPrimary": false,
       "members": [
-        {
-          "title": "米、５０％追加関税を発動　カナダは報復、交渉決裂",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200265&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
         {
           "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
           "snippet": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
@@ -247,32 +198,32 @@
       ]
     },
     {
-      "headline": "台風20号が発生 先島諸島では土砂災害に警戒を",
-      "slug": "台風20号が発生先島諸島では土砂災害に警戒を",
-      "time": "2026-08-22T09:32:20.000Z",
+      "headline": "米、５０％追加関税を発動　カナダは報復、交渉決裂",
+      "slug": "米追加関税を発動カナダは報復交渉決裂",
+      "time": "2026-08-22T09:34:24.000Z",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "count": 2,
-      "hasPrimary": true,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "台風20号が発生 先島諸島では土砂災害に警戒を",
-          "snippet": "22日正午、宮古島の近海で台風20号が発生しました。\n\n先島諸島では、引き続き土砂災害に警戒してください。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260822de45655",
+          "title": "米 対カナダ50%追加関税を発動",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592685?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【岩手県土砂災害警報・注意報】内陸では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822093220_0_VPWW56_030000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "米、５０％追加関税を発動　カナダは報復、交渉決裂",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082200265&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -314,6 +265,35 @@
       ]
     },
     {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-22T09:57:09.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【茨城県気象警報・注意報】茨城県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095711_0_VPWW53_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【茨城県気象警報・注意報】茨城県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095711_0_VPWW54_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "slug": "Israelreestablishesclose",
       "time": "2026-08-21T22:36:12.000Z",
@@ -343,21 +323,63 @@
       ]
     },
     {
-      "headline": "国連委員 皇室典範などを批判",
-      "slug": "国連委員皇室典範などを批判",
-      "time": "2026-08-22T08:08:04.000Z",
+      "headline": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
+      "slug": "台風18号来週南西諸島に接近か19号と20号も相",
+      "time": "2026-08-22T09:53:28.000Z",
       "independentSources": 1,
       "sources": [
-        "Yahoo!ニュース 主要"
+        "NHK 主要ニュース"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "国連委員 皇室典範などを批判",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592674?source=rss",
+          "title": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
+          "snippet": "強い台風18号は、日本のはるか南の海上を進んでいて、来週、南西諸島に近づくおそれがあります。また22日は、台風19号と20号が相次いで発生しました。\n\n今後の情報に注意してください。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260822de45693",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "栃木4人死亡列車事故 運転士200メートル手前で進入許可認識か",
+      "slug": "栃木4人死亡列車事故運転士200メトル手前で進入",
+      "time": "2026-08-22T09:51:18.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "栃木4人死亡列車事故 運転士200メートル手前で進入許可認識か",
+          "snippet": "栃木県鹿沼市の東武日光線で特急列車に作業員4人がはねられて死亡した事故で、運転士は現場のおよそ200メートル手前の地点でホームへの進入を許可する合図を受けたと認識していたことが会社への取材で分かりまし…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260822de45675",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "青森 十和田 外国人観光客がクマに襲われけが 命に別状なし",
+      "slug": "青森十和田外国人観光客がクマに襲われけが命に別状",
+      "time": "2026-08-22T09:38:17.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "青森 十和田 外国人観光客がクマに襲われけが 命に別状なし",
+          "snippet": "22日午前、青森県十和田市の展望台の近くで、観光に訪れていた30代の外国人の男性がクマに腕をかまれるなどしてけがをしました。クマは見つかっておらず、自治体などが住民や観光客に注意を呼びかけています。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260822de45670",
           "ty": "press",
           "linkKind": "article"
         }
@@ -385,6 +407,48 @@
       ]
     },
     {
+      "headline": "東京都の大雨 現地からのSNS投稿",
+      "slug": "東京都の大雨現地からのSNS投稿",
+      "time": "2026-08-22T09:00:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "東京都の大雨 現地からのSNS投稿",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592680?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "国連委員 皇室典範などを批判",
+      "slug": "国連委員皇室典範などを批判",
+      "time": "2026-08-22T08:08:04.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "国連委員 皇室典範などを批判",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592674?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "ミカン畑で火事 全身やけどで死亡",
       "slug": "ミカン畑で火事全身やけどで死亡",
       "time": "2026-08-22T09:17:09.000Z",
@@ -406,48 +470,6 @@
       ]
     },
     {
-      "headline": "踊り子の体一部狙い撮影 法的には",
-      "slug": "踊り子の体一部狙い撮影法的には",
-      "time": "2026-08-22T07:27:11.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "踊り子の体一部狙い撮影 法的には",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592666?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "処方箋不要 訪日客に眼鏡が人気",
-      "slug": "処方箋不要訪日客に眼鏡が人気",
-      "time": "2026-08-22T09:07:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "処方箋不要 訪日客に眼鏡が人気",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592679?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "侍U18の18人選出 横浜が最多5人",
       "slug": "侍U18の18人選出横浜が最多5人",
       "time": "2026-08-22T09:41:23.000Z",
@@ -463,6 +485,27 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6592687?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "VIVANT 太田梨歩役はPC初心者",
+      "slug": "VIVANT太田梨歩役はPC初心者",
+      "time": "2026-08-22T09:54:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "VIVANT 太田梨歩役はPC初心者",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592686?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -786,7 +829,7 @@
     {
       "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
       "slug": "台風解析予報情報日予報",
-      "time": "2026-08-22T09:40:34.000Z",
+      "time": "2026-08-22T09:57:08.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -798,16 +841,37 @@
           "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
           "snippet": "【台風解析・予報情報】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822094034_0_VPTW60_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095709_0_VPTW61_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-      "slug": "Searchforsurvivorsafter1",
-      "time": "2026-08-22T09:13:26.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-22T09:57:07.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【茨城県大雨警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260822095708_0_VPWW55_080000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Rescuers dig through wreckage after 16 killed in Russian strike on Ukraine mall",
+      "slug": "Rescuersdigthroughwrecka",
+      "time": "2026-08-22T10:01:22.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -816,7 +880,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+          "title": "Rescuers dig through wreckage after 16 killed in Russian strike on Ukraine mall",
           "snippet": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
@@ -889,6 +953,48 @@
       ]
     },
     {
+      "headline": "Former world champion boxer Zolani Tete shot and killed in South Africa",
+      "slug": "Formerworldchampionboxer",
+      "time": "2026-08-22T09:51:50.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Former world champion boxer Zolani Tete shot and killed in South Africa",
+          "snippet": "Zolani Tete, who held WBF flyweight and WBO bantamweight world titles, killed at his home in Eastern Cape, South Africa.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/22/former-world-champion-boxer-zolani-tete-shot-and-killed-in-south-africa?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Iran says new US sanctions violate sovereignty of other states",
+      "slug": "IransaysnewUSsanctionsvi",
+      "time": "2026-08-22T09:14:09.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Iran says new US sanctions violate sovereignty of other states",
+          "snippet": "Foreign Ministry spokesman Esmaeil Baghaei slams Trump&#039;s latest threat as a return to &#039;full-scale classic colo",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
       "slug": "NakashimapoundsFritzBejl",
       "time": "2026-08-22T08:30:31.000Z",
@@ -952,8 +1058,8 @@
       ]
     },
     {
-      "headline": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
-      "slug": "YoungwanttoleaveLibyasbr",
+      "headline": "Libya’s brain drain, 15 years after Tripoli fell",
+      "slug": "Libyasbraindrain15yearsa",
       "time": "2026-08-22T07:41:10.000Z",
       "independentSources": 1,
       "sources": [
@@ -963,7 +1069,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
+          "title": "Libya’s brain drain, 15 years after Tripoli fell",
           "snippet": "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
@@ -988,48 +1094,6 @@
           "snippet": "The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
-      "slug": "Chinasnewmoonmissioncoul",
-      "time": "2026-08-22T05:36:39.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
-          "snippet": "The Chang&#039;e-7 seeks to find out more about the water trapped within the moon&#039;s shadowed craters.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
-      "slug": "ItwasatsunamiFloodsleave",
-      "time": "2026-08-22T05:35:50.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
-          "snippet": "From father searching for his daughter&#039;s body to man who drowned trying to save a friend, floods take devastating t",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
