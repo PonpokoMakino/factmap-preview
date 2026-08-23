@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-23T17:40:09.910Z",
+  "rankedAt": "2026-08-23T17:59:53.354Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -37,6 +37,44 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260823163911_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "slug": "TrumpsaysCanadawantsbene",
+      "time": "2026-08-23T17:35:01.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+          "snippet": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Landfill collapse in Guinea kills at least 30 people",
+          "snippet": "Heavy rains wash over the site, triggering a landslide that buries several shacks.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
+          "snippet": "Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -169,38 +207,8 @@
       ]
     },
     {
-      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "slug": "TrumpsaysCanadawantsbene",
-      "time": "2026-08-23T15:54:36.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-          "snippet": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Canada, US and tit-for-tat tariffs: How will they impact their economies?",
-          "snippet": "Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
       "time": "2026-08-23T17:28:01.000Z",
       "independentSources": 1,
       "sources": [
@@ -210,18 +218,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823172803_0_VPWW53_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "気象警報・注意報（Ｈ２７）",
           "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260823172802_0_VPWW54_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823172803_0_VPWW53_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -302,9 +310,9 @@
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-23T16:13:29.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-23T17:50:24.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -313,18 +321,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、濃霧による視程障害に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宗谷地方気象警報・注意報】宗谷地方では、強風や高波、竜巻などの激しい突風、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161330_0_VPWW53_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823175025_0_VPWW54_011000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、濃霧による視程障害に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宗谷地方気象警報・注意報】宗谷地方では、強風や高波、竜巻などの激しい突風、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161330_0_VPWW54_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823175025_0_VPWW53_011000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -793,6 +801,27 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｒ０６）（波浪）",
+      "slug": "気象警報注意報波浪",
+      "time": "2026-08-23T17:50:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（波浪）",
+          "snippet": "【宗谷地方波浪警報・注意報】宗谷地方では、高波に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823175020_0_VPWW59_011000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
       "time": "2026-08-23T17:27:58.000Z",
@@ -856,27 +885,6 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-23T16:13:27.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【群馬県土砂災害警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161327_0_VPWW56_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "DR Congo and M23 rebels agree roadmap for peace talks",
       "slug": "DRCongoandM23rebelsagree",
       "time": "2026-08-23T12:52:08.000Z",
@@ -898,9 +906,9 @@
       ]
     },
     {
-      "headline": "Trump arrives at high-speed IndyCar race through Washington's streets",
-      "slug": "TrumparrivesathighspeedI",
-      "time": "2026-08-23T17:31:29.000Z",
+      "headline": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "slug": "Trumpwavesgreenflagkicki",
+      "time": "2026-08-23T17:54:34.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -909,7 +917,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+          "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
           "snippet": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
@@ -1165,27 +1173,6 @@
           "snippet": "India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
-      "slug": "Nordicnationshavelostcon",
-      "time": "2026-08-23T13:50:02.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
-          "snippet": "Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino&#039;s resignation amid FIFA cr",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
