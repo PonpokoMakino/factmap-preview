@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-23T09:26:04.586Z",
+  "rankedAt": "2026-08-23T09:52:42.715Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -107,12 +107,13 @@
     {
       "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
       "slug": "Zelenskyhasquestionstoan",
-      "time": "2026-08-23T08:47:47.000Z",
-      "independentSources": 1,
+      "time": "2026-08-23T09:37:05.000Z",
+      "independentSources": 2,
       "sources": [
-        "BBC World"
+        "BBC World",
+        "Al Jazeera"
       ],
-      "count": 3,
+      "count": 4,
       "hasPrimary": false,
       "members": [
         {
@@ -138,41 +139,12 @@
           "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Kazakhstan holds parliamentary election expected to cement president’s grip",
-      "slug": "Kazakhstanholdsparliamen",
-      "time": "2026-08-23T07:38:42.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
-          "snippet": "Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
         },
         {
-          "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
-          "snippet": "FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.",
+          "title": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
+          "snippet": "37 injured as magnitude 5.9 earthquake strikes eastern Japan",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Kazakhstan parliamentary elections begin: What’s at stake?",
-          "snippet": "The Central Asian country heads to the polls on August 23.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -237,9 +209,67 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-23T09:44:04.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【愛知県気象警報・注意報】西部では、低い土地の浸水に注意してください。愛知県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823094405_0_VPWW54_230000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【愛知県気象警報・注意報】西部では、低い土地の浸水に注意してください。愛知県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823094405_0_VPWW53_230000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "竜巻注意情報（目撃情報付き）",
+      "slug": "竜巻注意情報目撃情報付き",
+      "time": "2026-08-23T09:33:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "竜巻注意情報",
+          "snippet": "【愛知県気象防災速報（竜巻注意）】愛知県西部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823093312_0_VPHW50_230000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "竜巻注意情報（目撃情報付き）",
+          "snippet": "【愛知県気象防災速報（竜巻注意）】愛知県西部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823093313_0_VPHW51_230000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-23T09:12:52.000Z",
+      "time": "2026-08-23T09:28:58.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -249,77 +279,48 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【兵庫県気象警報・注意報】兵庫県では、落雷に注意してください。",
+          "snippet": "【長野県気象警報・注意報】中部、南部では、土砂災害に注意してください。中部では、低い土地の浸水や濃霧による視程障害に注意してください。長野県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091253_0_VPWW53_280000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823092900_0_VPWW53_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【兵庫県気象警報・注意報】兵庫県では、落雷に注意してください。",
+          "snippet": "【長野県気象警報・注意報】中部、南部では、土砂災害に注意してください。中部では、低い土地の浸水や濃霧による視程障害に注意してください。長野県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091253_0_VPWW54_280000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823092900_0_VPWW54_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-23T09:11:53.000Z",
+      "headline": "Kazakhstan holds parliamentary election expected to cement president’s grip",
+      "slug": "Kazakhstanholdsparliamen",
+      "time": "2026-08-23T07:38:42.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
+        "Al Jazeera"
       ],
       "count": 2,
-      "hasPrimary": true,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山梨県気象警報・注意報】中・西部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091154_0_VPWW54_190000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
+          "snippet": "Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【山梨県気象警報・注意報】中・西部では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091154_0_VPWW53_190000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-23T09:11:07.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【青森県気象警報・注意報】津軽、三八上北では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091109_0_VPWW54_020000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【青森県気象警報・注意報】津軽、三八上北では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091109_0_VPWW53_020000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
+          "snippet": "FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -408,9 +409,9 @@
       ]
     },
     {
-      "headline": "特急事故 安全管理の書類など押収",
-      "slug": "特急事故安全管理の書類など押収",
-      "time": "2026-08-23T07:53:05.000Z",
+      "headline": "地震ボラの暑さ対策を支援 広がる",
+      "slug": "地震ボラの暑さ対策を支援広がる",
+      "time": "2026-08-23T08:34:39.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -419,19 +420,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "特急事故 安全管理の書類など押収",
+          "title": "地震ボラの暑さ対策を支援 広がる",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592782?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592789?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "米地裁 移民ビザ発給停止を無効化",
-      "slug": "米地裁移民ビザ発給停止を無効化",
-      "time": "2026-08-23T07:38:17.000Z",
+      "headline": "横浜市長巡り市議 発達障害と投稿",
+      "slug": "横浜市長巡り市議発達障害と投稿",
+      "time": "2026-08-23T09:34:54.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -440,19 +441,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "米地裁 移民ビザ発給停止を無効化",
+          "title": "横浜市長巡り市議 発達障害と投稿",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592780?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592792?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "年金だけ苦しい 炎天下働くシニア",
-      "slug": "年金だけ苦しい炎天下働くシニア",
-      "time": "2026-08-23T06:05:12.000Z",
+      "headline": "「自分は臭い」思い込み 心理解説",
+      "slug": "自分は臭い思い込み心理解説",
+      "time": "2026-08-23T06:55:56.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -461,10 +462,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "年金だけ苦しい 炎天下働くシニア",
+          "title": "「自分は臭い」思い込み 心理解説",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592772?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592775?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -618,8 +619,8 @@
       ]
     },
     {
-      "headline": "薬師寺国宝に液体掛けた疑い　台湾出身の女逮捕―奈良県警",
-      "slug": "薬師寺国宝に液体掛けた疑い台湾出身の女逮捕奈良県",
+      "headline": "薬師寺国宝に液体掛けた疑い　台湾出身の女逮捕　「感動したものに祈祷する」",
+      "slug": "薬師寺国宝に液体掛けた疑い台湾出身の女逮捕感動し",
       "time": "2026-08-23T05:58:00.000Z",
       "independentSources": 1,
       "sources": [
@@ -629,7 +630,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "薬師寺国宝に液体掛けた疑い　台湾出身の女逮捕―奈良県警",
+          "title": "薬師寺国宝に液体掛けた疑い　台湾出身の女逮捕　「感動したものに祈祷する」",
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082300192&g=soc&m=rss",
@@ -788,7 +789,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-23T09:12:37.000Z",
+      "time": "2026-08-23T09:44:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -798,18 +799,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【兵庫県大雨警報・注意報】注意報を解除します。",
+          "snippet": "【愛知県大雨警報・注意報】西部では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091238_0_VPWW55_280000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823094401_0_VPWW55_230000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-23T09:12:37.000Z",
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-23T09:40:54.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -818,31 +819,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【兵庫県土砂災害警報・注意報】注意報を解除します。",
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091238_0_VPWW56_280000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-23T09:11:39.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【山梨県大雨警報・注意報】中・西部では、低い土地の浸水や河川の増水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091140_0_VPWW55_190000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823094055_0_VPTW60_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -851,7 +831,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-23T09:10:52.000Z",
+      "time": "2026-08-23T09:28:51.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -861,9 +841,30 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【青森県大雨警報・注意報】注意報を解除します。",
+          "snippet": "【長野県大雨警報・注意報】中部では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823091053_0_VPWW55_020000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823092851_0_VPWW55_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-23T09:26:06.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【京都府気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。京都府では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823092607_0_VPWW54_260000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -885,27 +886,6 @@
           "snippet": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Carney faces crucial test after walking away from Trump's deal",
-      "slug": "Carneyfacescrucialtestaf",
-      "time": "2026-08-22T20:02:46.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Carney faces crucial test after walking away from Trump's deal",
-          "snippet": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -975,9 +955,9 @@
       ]
     },
     {
-      "headline": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-      "slug": "WerenotgoingtorunfromitS",
-      "time": "2026-08-23T03:44:19.000Z",
+      "headline": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+      "slug": "Robotscompeteinboxingfoo",
+      "time": "2026-08-23T09:42:05.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -986,10 +966,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-          "snippet": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+          "title": "Robots compete in boxing, football and sprinting at World Humanoid Games",
+          "snippet": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+      "slug": "TrumpMobilepromotedaMade",
+      "time": "2026-08-22T23:45:01.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Trump Mobile promoted a 'Made in the USA' phone - but the details kept changing",
+          "snippet": "BBC Verify tracks the changes in design, spec, manufacture and release date of the T1 phone from Trump Mobile.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/c20eq9ywplqo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1011,6 +1012,27 @@
           "snippet": "The pilot had reported a \"cabin fire in the back\" of American Airlines Flight 2398, which landed safely.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/ce979zpjj85o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Where water conflicts pose the biggest threat in 2026",
+      "slug": "Wherewaterconflictsposet",
+      "time": "2026-08-23T09:13:23.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Where water conflicts pose the biggest threat in 2026",
+          "snippet": "Water-related conflicts have nearly quadrupled since 2020. As World Water Week 2026 begins, Al Jazeera unpacks the data.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/23/where-water-conflicts-pose-the-biggest-threat-in-2026?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1137,27 +1159,6 @@
           "snippet": "Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
-      "slug": "PeguladethronesSwiatekto",
-      "time": "2026-08-23T06:15:50.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
-          "snippet": "The women’s all-American final will be followed by a men&#039;s title clash between Frances Tiafoe and Arthur Fils of Fr",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
