@@ -1,11 +1,11 @@
 {
-  "rankedAt": "2026-08-23T14:10:08.511Z",
+  "rankedAt": "2026-08-23T14:38:43.065Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
       "slug": "専門家関東の地下にある地震の巣で発生備え確認を",
-      "time": "2026-08-23T14:07:36.000Z",
+      "time": "2026-08-23T14:36:10.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -60,13 +60,13 @@
     {
       "headline": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ",
       "slug": "台風20号先島諸島で大雨台風18号25日から沖縄",
-      "time": "2026-08-23T13:57:47.000Z",
+      "time": "2026-08-23T14:18:31.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 5,
+      "count": 7,
       "hasPrimary": true,
       "members": [
         {
@@ -79,9 +79,17 @@
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、土砂災害や高波、落雷に注意してください。",
+          "snippet": "【岐阜県気象警報・注意報】岐阜県では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135748_0_VPWW54_473000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823141832_0_VPWW54_210000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【岐阜県気象警報・注意報】岐阜県では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823141832_0_VPWW53_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -90,6 +98,14 @@
           "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、土砂災害や高波、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135748_0_VPWW53_473000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、土砂災害や高波、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135748_0_VPWW54_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -298,64 +314,6 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-23T13:57:36.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。東京地方では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135737_0_VPWW54_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。東京地方では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135738_0_VPWW53_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-23T13:57:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山梨県気象警報・注意報】山梨県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135734_0_VPWW54_190000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【山梨県気象警報・注意報】山梨県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135735_0_VPWW53_190000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "'We're not going to run from it': Sydney Marathon laughs off medal error",
       "slug": "WerenotgoingtorunfromitS",
       "time": "2026-08-23T13:35:06.000Z",
@@ -385,6 +343,27 @@
       ]
     },
     {
+      "headline": "裁判官3人で審理の事件 1人で審理のミス さいたま地裁熊谷支部",
+      "slug": "裁判官3人で審理の事件1人で審理のミスさいたま地",
+      "time": "2026-08-23T14:31:35.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "裁判官3人で審理の事件 1人で審理のミス さいたま地裁熊谷支部",
+          "snippet": "2026年2月にさいたま地方裁判所熊谷支部が判決を言い渡した裁判で、本来は裁判官3人で審理しなくてはならない事件を誤って1人で審理するミスがあったことが、関係者への取材で分かりました。最高裁判所は、原…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45915",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "24日は大分で40度予想 西・東日本で猛烈な暑さか 熱中症対策を",
       "slug": "24日は大分で40度予想西東日本で猛烈な暑さか熱",
       "time": "2026-08-23T12:03:22.000Z",
@@ -400,27 +379,6 @@
           "snippet": "23日は、東海から九州にかけての広い範囲で気温が上がり、西日本を中心に38度を超える危険な暑さとなったところもありました。24日も大分県で40度の酷暑日が予想されるなど、西日本と東日本の各地で猛烈な暑…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260823de45805",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "千葉豪雨 水につかった車多数 JAFにレッカー対応依頼相次ぐ",
-      "slug": "千葉豪雨水につかった車多数JAFにレッカ対応依頼",
-      "time": "2026-08-23T12:02:11.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "千葉豪雨 水につかった車多数 JAFにレッカー対応依頼相次ぐ",
-          "snippet": "記録的な豪雨となった千葉県では車が水につかり、別の場所に運んでほしいという依頼が、JAF＝日本自動車連盟に相次いでいて、スタッフが連日、対応に追われています。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45892",
           "ty": "press",
           "linkKind": "article"
         }
@@ -469,9 +427,9 @@
       ]
     },
     {
-      "headline": "夏多い「外耳炎」仕組みと対策は",
-      "slug": "夏多い外耳炎仕組みと対策は",
-      "time": "2026-08-23T10:34:37.000Z",
+      "headline": "死んだペットを弔う方法 法的見解",
+      "slug": "死んだペットを弔う方法法的見解",
+      "time": "2026-08-23T13:20:05.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -480,19 +438,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "夏多い「外耳炎」仕組みと対策は",
+          "title": "死んだペットを弔う方法 法的見解",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592796?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592811?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "りくりゅう婚約発表設計 識者見解",
-      "slug": "りくりゅう婚約発表設計識者見解",
-      "time": "2026-08-23T12:44:12.000Z",
+      "headline": "高橋遥人ど根性 接触で負傷も続投",
+      "slug": "高橋遥人ど根性接触で負傷も続投",
+      "time": "2026-08-23T14:12:51.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -501,19 +459,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "りくりゅう婚約発表設計 識者見解",
+          "title": "高橋遥人ど根性 接触で負傷も続投",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592809?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592815?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "灘高コンビ 高校生漫才日本一に",
-      "slug": "灘高コンビ高校生漫才日本一に",
-      "time": "2026-08-23T14:01:20.000Z",
+      "headline": "三浦璃来氏 婚約の世間の反応驚き",
+      "slug": "三浦璃来氏婚約の世間の反応驚き",
+      "time": "2026-08-23T08:15:04.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -522,10 +480,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "灘高コンビ 高校生漫才日本一に",
+          "title": "三浦璃来氏 婚約の世間の反応驚き",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592813?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592786?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -547,6 +505,27 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6592810?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "山口茜、連覇ならず　奈良岡功大も準優勝―世界バドミントン",
+      "slug": "山口茜連覇ならず奈良岡功大も準優勝世界バドミント",
+      "time": "2026-08-23T13:59:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "山口茜、連覇ならず　奈良岡功大も準優勝―世界バドミントン",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082300280&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -595,9 +574,9 @@
       ]
     },
     {
-      "headline": "ロシア駐英大使の後任不在　ウクライナ支援に反発か―報道",
-      "slug": "ロシア駐英大使の後任不在ウクライナ支援に反発か報",
-      "time": "2026-08-23T11:56:00.000Z",
+      "headline": "北朝鮮、「日本が間違った選択すれば、生存不可にせん滅」と威嚇　金与正氏「軍事的目標と見なす認識強まる」と言及も",
+      "slug": "北朝鮮日本が間違った選択すれば生存不可にせん滅と",
+      "time": "2026-08-20T05:25:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -606,19 +585,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ロシア駐英大使の後任不在　ウクライナ支援に反発か―報道",
+          "title": "北朝鮮、「日本が間違った選択すれば、生存不可にせん滅」と威嚇　金与正氏「軍事的目標と見なす認識強まる」と言及も",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082300302&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082000651&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "山口茜、連覇ならず　奈良岡功大も準優勝―世界バドミントン",
-      "slug": "山口茜連覇ならず奈良岡功大も準優勝世界バドミント",
-      "time": "2026-08-23T13:19:00.000Z",
+      "headline": "中国、人型ロボ実用化へ号砲　対米競争にらみ官民総動員",
+      "slug": "中国人型ロボ実用化へ号砲対米競争にらみ官民総動員",
+      "time": "2026-08-23T10:05:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -627,10 +606,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "山口茜、連覇ならず　奈良岡功大も準優勝―世界バドミントン",
+          "title": "中国、人型ロボ実用化へ号砲　対米競争にらみ官民総動員",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082300280&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082300262&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「二つの海峡」安定に注力　日本政府、原油輸送確保狙う―首脳外交求める声",
+      "slug": "二つの海峡安定に注力日本政府原油輸送確保狙う首脳",
+      "time": "2026-08-23T10:01:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「二つの海峡」安定に注力　日本政府、原油輸送確保狙う―首脳外交求める声",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082300168&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -652,48 +652,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082300227&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "マンションのオートロックすり抜ける「共連れ」、防ぐには　専門家「過信は危険」―神戸女性刺殺１年",
-      "slug": "マンションのオトロックすり抜ける共連れ防ぐには専",
-      "time": "2026-08-22T22:29:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "マンションのオートロックすり抜ける「共連れ」、防ぐには　専門家「過信は危険」―神戸女性刺殺１年",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082200289&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "薬師寺国宝に液体掛けた疑い　台湾出身の女逮捕　「感動したものに祈祷する」",
-      "slug": "薬師寺国宝に液体掛けた疑い台湾出身の女逮捕感動し",
-      "time": "2026-08-23T05:58:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "薬師寺国宝に液体掛けた疑い　台湾出身の女逮捕　「感動したものに祈祷する」",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082300192&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -868,6 +826,48 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-23T14:18:20.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【岐阜県雷注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823141820_0_VPWW61_210000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-23T13:57:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。東京地方では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135738_0_VPWW53_130000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "slug": "TrumpsaysCanadawantsbene",
       "time": "2026-08-23T05:46:43.000Z",
@@ -967,6 +967,27 @@
           "snippet": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached ",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
+      "slug": "PMTariqueRahmanstripstal",
+      "time": "2026-08-23T14:17:18.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "PM Tarique Rahman’s trip stalled: What it means for Bangladesh-India ties",
+          "snippet": "India and Bangladesh have not been able to move past the contentious question of Sheikh Hasina, living in New Delhi.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/8/23/pm-tarique-rahmans-trip-stalled-what-it-means-for-bangladesh-india-ties?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1114,27 +1135,6 @@
           "snippet": "Real Madrid coach Jose Mourinho has criticised the bullying of Vinicius Junior by opponents and fans.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance",
-      "slug": "USSenatenomineeAbdulElSa",
-      "time": "2026-08-23T12:02:08.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance",
-          "snippet": "El-Sayed has hit back at JD Vance, saying his identity and religion aren’t causing the Trump administration’s problems.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
