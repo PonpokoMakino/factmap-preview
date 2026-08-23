@@ -1,385 +1,7 @@
 {
-  "builtAt": "2026-08-23T07:06:19.683Z",
+  "builtAt": "2026-08-23T12:37:16.853Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
-    {
-      "headline": "茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”",
-      "slug": "茨城東京埼玉千葉で震度5弱気象庁今後1週間程度は",
-      "independentSources": 4,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "気象庁 地震・火山"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45738"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45744"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592773?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082300142&g=soc&m=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823063418_0_VXSE53_270000.xml"
-        }
-      ],
-      "issue": "今後1週間程度、最大震度5弱程度の揺れに注意が必要か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "23日午前2時ごろ、茨城県南部を震源とするマグニチュード5.9の地震が発生した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "茨城県、埼玉県、千葉県、東京都の各地で震度5弱の揺れを観測した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "地震により、埼玉県や神奈川県などで複数のけが人が出ている。",
-          "span": "地震による被害の情報をお伝えします",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関東地方で震度5弱の揺れを観測し、けが人は40人を超えている。",
-          "span": "関東で震度5弱 けが人40人超に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "茨城、埼玉、千葉、東京で震度5弱の揺れを観測し、5都県で37人が負傷した。",
-          "span": "茨城、埼玉、千葉、東京で震度５弱　５都県３７人負傷",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "23日15時31分ごろ、地震があった。",
-          "span": "２３日１５時３１分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "23日午前2時ごろ、茨城県南部を震源とするマグニチュード5.9の地震が発生し、茨城県、埼玉県、千葉県、東京都の各地で震度5弱の揺れを観測した。複数の報道機関によると、地震による負傷者は複数名確認されている。気象庁は今後1週間程度、最大震度5弱程度の揺れに注意を呼びかけている。",
-      "note": "気象庁の「震源・震度に関する情報」は、午前2時ごろの地震とは別の時刻の地震情報である可能性も考慮し、事実として取り込むが、他の情報との直接的な関連性は断定しない。",
-      "audit": {
-        "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「２３日午前２時ごろ、茨城県南部を震源…」",
-          "fact spanが原文に無い→除去「茨城県、埼玉県、千葉県、東京都の各地…」",
-          "position spanが原文に無い→除去「今後１週間程度は最大震度５弱程度の揺…」"
-        ]
-      }
-    },
-    {
-      "headline": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
-      "slug": "TrumpsaysCanadawantsbene",
-      "independentSources": 3,
-      "sources": [
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082300108&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss"
-        }
-      ],
-      "issue": "カナダの米国への報復関税は正当か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "カナダは米国に対し、来月報復関税を発動する予定である。",
-          "span": "米に報復関税、来月発動",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "カナダ首相は、ホワイトハウスとの交渉から離脱したことについて、国民に説明する立場にあると報じられている。",
-          "span": "sell his gamble",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "カナダの州首相らは、米国大統領が関税を課した後に、カナダ首相に同調して反撃した。",
-          "span": "firing back",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "カナダは9月8日から、米国からの鉄鋼、電子機器、その他の製品の輸入に対し関税を課す予定である。",
-          "span": "Canada will impose tariffs starting September 8",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米加間で貿易戦争が拡大していると報じられている。",
-          "span": "trade war escalates",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "マーク・カーニー カナダ首相",
-          "stance": "support",
-          "claim": "米国の譲歩は不十分であると批判した。",
-          "span": "譲歩不十分",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            0,
-            3
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "トランプ米大統領",
-          "stance": "attack",
-          "claim": "カナダは米国の州であることの「恩恵」を望んでいると述べた。",
-          "span": "Canada wants 'benefits' of being US state",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "マーク・カーニー カナダ首相",
-          "stance": "support",
-          "claim": "報復関税を「不本意ながら」発表すると述べた。",
-          "span": "reluctantly\" announcing retaliatory tariffs",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "マーク・カーニー カナダ首相",
-          "stance": "support",
-          "claim": "米国が貿易戦争を始めたと非難した。",
-          "span": "accused the US of starting a trad",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            0,
-            3
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "カナダの州首相ら",
-          "stance": "support",
-          "claim": "トランプ米大統領を信用できないと述べた。",
-          "span": "You just can’t trust Trump",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            2
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "consensus": "カナダは米国に対し報復関税を発動する予定であり、これに対し関係者の間で評価が分かれている。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].t: 「正当性」は評価語であるため、中立的に「説明する立場にあると報じられている」に修正しました。",
-          "facts[2].span: 元テキストの文全体に近いspanであったため、最小核「firing back」に修正しました。",
-          "facts[3].span: 元テキストの文全体に近いspanであったため、最小核「Canada will impose tariffs starting September 8」に修正しました。",
-          "facts[4].t: 「激化」は評価語であるため、中立的に「拡大していると報じられている」に修正しました。",
-          "positions[0].premises: 関連する事実（facts[0], facts[3]）をpremisesに追加しました。",
-          "positions[3].premises: 関連する事実（facts[0], facts[3]）をpremisesに追加しました。",
-          "positions[4].premises: 関連する事実（facts[2]）をpremisesに追加しました。"
-        ]
-      }
-    },
-    {
-      "headline": "広島や大分で39度超え 熊本も危険な暑さに 熱中症対策の徹底を",
-      "slug": "広島や大分で39度超え熊本も危険な暑さに熱中症対",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45805"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592763?source=rss"
-        }
-      ],
-      "issue": "西日本や東海などで、23日以降も厳しい暑さが続くか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "23日、西日本や東海などの各地で気温が上がった。",
-          "span": "23日も西日本や東海などの各地で気温が上がり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "広島と大分では最高気温が39度を超えた。",
-          "span": "広島や大分では最高気温が39度を超える",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊本県の被災地でも危険な暑さが観測された。",
-          "span": "熊本県の被災地でも危険な暑さを観測していて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熱中症対策の徹底が呼びかけられている。",
-          "span": "熱中症対策の徹底を",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "あす以降も厳しい暑さが続く見込みである。",
-          "span": "あす以降も厳しい暑さ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "23日は西日本や東海などで気温が上がり、広島や大分では39度を超える危険な暑さとなった。熊本県の被災地でも同様の暑さが観測され、熱中症対策の徹底が呼びかけられている。あす以降も厳しい暑さが続く見込みである。",
-      "note": "",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
     {
       "headline": "東武グループ会社を家宅捜索　特急４人死亡事故、業務上過失致死疑い―栃木県警",
       "slug": "東武グルプ会社を家宅捜索特急人死亡事故業務上過失",
@@ -449,6 +71,268 @@
       "positions": [],
       "consensus": "作業員4人が死亡した列車事故で、警察は東武鉄道の子会社を業務上過失致死の疑いで捜索した。",
       "note": "本件は事実の記述のみであり、評価や対立する意見は含まれていないため、positions は空となります。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
+      "slug": "専門家関東の地下にある地震の巣で発生備え確認を",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45881"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592801?source=rss"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823103039_0_VXSE53_270000.xml"
+        }
+      ],
+      "issue": "23日未明に発生した地震は、関東の地下にある「地震の巣」で起きたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "23日未明に茨城県南部を震源とする最大震度5弱の地震が発生した。",
+          "span": "23日未明に起きた茨城県南部を震源とする最大震度5弱の地震",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "23日19時28分頃に地震があった。",
+          "span": "２３日１９時２８分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "23日未明に茨城県南部を震源とする最大震度5弱の地震が発生した。専門家は、この地震が関東の地下にある「地震の巣」と呼ばれる地震活動が活発な領域の一つで起きたと指摘している。また、23日19時28分頃にも地震があった。",
+      "note": "気象庁の地震発生時刻（23日19時28分頃）とNHKの報道する地震（23日未明）は時刻が異なるが、同一の事象を指しているか断定できないため、別個の事実として記載する。専門家の指摘は、NHKの報道する「23日未明」の地震に対するものと解釈する。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+      "slug": "Zelenskyhasquestionstoan",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss"
+        }
+      ],
+      "issue": "ウクライナ政府における汚職の有無、および選挙実施の是非",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "ウクライナの元国防大臣が解任された。",
+          "span": "sacked former defence minister",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "金曜日の攻撃により16人が死亡し、130人が負傷した。",
+          "span": "killed 16 and left 130 injured",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "4人が依然として行方不明である。",
+          "span": "Four people are still missing",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルがトルコ国境近くの軍用飛行場を攻撃したとの報道があった。",
+          "span": "Israel had struck a military airbase close to the Turkish border",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "ウクライナ元国防大臣",
+          "stance": "attack",
+          "claim": "ゼレンスキー大統領の政府には汚職に関する説明責任がある。",
+          "span": "Zelensky has 'questions to answer' about corruption in his government",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "ウクライナ元国防大臣",
+          "stance": "support",
+          "claim": "ウクライナで選挙を実施すべきだ。",
+          "span": "called for elections to be held in Ukraine",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "ゼレンスキー大統領",
+          "stance": "attack",
+          "claim": "ロシアによる攻撃は卑劣である。",
+          "span": "condemns 'despicable' Russian strike",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "consensus": "金曜日の攻撃により16人が死亡し、130人が負傷した。4人が依然として行方不明である。ウクライナの元国防大臣が解任された。評価は割れる。",
+      "note": "プライバシー配慮のため、負傷者や子供に関する詳細な情報は省略。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "人型ロボがウサイン・ボルト超え　１００メートル走で「世界記録」　北京で運動会",
+      "slug": "人型ロボがウサインボルト超えメトル走で世界記録北",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45846"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082300212&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082300262&g=int&m=rss"
+        }
+      ],
+      "issue": "北京で開催された人型ロボット運動会におけるロボットの性能は、人類の記録を上回るレベルに達したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "北京で2回目となる人型ロボットの運動会が開催された。",
+          "span": "北京で人型ロボットの運動会が開かれています。2回目となることしは",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "運動会では、陸上100メートル走でロボットが人類の記録を上回った。",
+          "span": "陸上の100メートルでウサイン・ボルトさんが持つ男子100メートルの世界記録9秒58を上回",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "人型ロボットが100メートル走で「世界記録」を達成した。",
+          "span": "人型ロボがウサイン・ボルト超え　１００メートル走で「世界記録」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "中国政府は人型ロボットの開発に力を入れている。",
+          "span": "中国政府が人型ロボットの開発に力を入れる中",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "中国は人型ロボットの実用化に向けて官民を挙げて取り組んでいる。",
+          "span": "中国、人型ロボ実用化へ号砲　対米競争にらみ官民総動員",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "北京で開催された人型ロボット運動会において、ロボットが100メートル走で人類の記録を上回ったことが報じられている。中国政府は人型ロボット開発に注力し、実用化を目指している。",
+      "note": "プライバシー配慮のため、個別のロボット名や開発者名は記載しない。",
       "audit": {
         "changed": false,
         "issues": []
