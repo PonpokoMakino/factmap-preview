@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-23T12:37:16.853Z",
+  "builtAt": "2026-08-23T18:41:20.822Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -71,184 +71,6 @@
       "positions": [],
       "consensus": "作業員4人が死亡した列車事故で、警察は東武鉄道の子会社を業務上過失致死の疑いで捜索した。",
       "note": "本件は事実の記述のみであり、評価や対立する意見は含まれていないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
-      "slug": "専門家関東の地下にある地震の巣で発生備え確認を",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 地震・火山"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45881"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592801?source=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823103039_0_VXSE53_270000.xml"
-        }
-      ],
-      "issue": "23日未明に発生した地震は、関東の地下にある「地震の巣」で起きたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "23日未明に茨城県南部を震源とする最大震度5弱の地震が発生した。",
-          "span": "23日未明に起きた茨城県南部を震源とする最大震度5弱の地震",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "23日19時28分頃に地震があった。",
-          "span": "２３日１９時２８分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "23日未明に茨城県南部を震源とする最大震度5弱の地震が発生した。専門家は、この地震が関東の地下にある「地震の巣」と呼ばれる地震活動が活発な領域の一つで起きたと指摘している。また、23日19時28分頃にも地震があった。",
-      "note": "気象庁の地震発生時刻（23日19時28分頃）とNHKの報道する地震（23日未明）は時刻が異なるが、同一の事象を指しているか断定できないため、別個の事実として記載する。専門家の指摘は、NHKの報道する「23日未明」の地震に対するものと解釈する。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-      "slug": "Zelenskyhasquestionstoan",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/mourinho-decries-alleged-bullying-of-vinicius-in-reals-win-at-espanyol?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/23/syria-foreign-minister-says-door-open-for-diplomacy-with-israel?traffic_source=rss"
-        }
-      ],
-      "issue": "ウクライナ政府における汚職の有無、および選挙実施の是非",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "ウクライナの元国防大臣が解任された。",
-          "span": "sacked former defence minister",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "金曜日の攻撃により16人が死亡し、130人が負傷した。",
-          "span": "killed 16 and left 130 injured",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "4人が依然として行方不明である。",
-          "span": "Four people are still missing",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イスラエルがトルコ国境近くの軍用飛行場を攻撃したとの報道があった。",
-          "span": "Israel had struck a military airbase close to the Turkish border",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "ウクライナ元国防大臣",
-          "stance": "attack",
-          "claim": "ゼレンスキー大統領の政府には汚職に関する説明責任がある。",
-          "span": "Zelensky has 'questions to answer' about corruption in his government",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "ウクライナ元国防大臣",
-          "stance": "support",
-          "claim": "ウクライナで選挙を実施すべきだ。",
-          "span": "called for elections to be held in Ukraine",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "ゼレンスキー大統領",
-          "stance": "attack",
-          "claim": "ロシアによる攻撃は卑劣である。",
-          "span": "condemns 'despicable' Russian strike",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "consensus": "金曜日の攻撃により16人が死亡し、130人が負傷した。4人が依然として行方不明である。ウクライナの元国防大臣が解任された。評価は割れる。",
-      "note": "プライバシー配慮のため、負傷者や子供に関する詳細な情報は省略。",
       "audit": {
         "changed": false,
         "issues": []
@@ -336,6 +158,160 @@
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
+      "slug": "専門家関東の地下にある地震の巣で発生備え確認を",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45881"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592801?source=rss"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823103039_0_VXSE53_270000.xml"
+        }
+      ],
+      "issue": "23日未明に発生した地震は、関東の地下にある「地震の巣」で起きたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "23日未明に茨城県南部を震源とする最大震度5弱の地震が発生した。",
+          "span": "23日未明に起きた茨城県南部を震源とする最大震度5弱の地震",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "23日19時28分頃に地震があった。",
+          "span": "２３日１９時２８分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "23日未明に茨城県南部を震源とする最大震度5弱の地震が発生した。専門家は、この地震が関東の地下にある「地震の巣」と呼ばれる地震活動が活発な領域の一つで起きたと指摘している。また、23日19時28分頃にも地震があった。",
+      "note": "気象庁の地震発生時刻（23日19時28分頃）とNHKの報道する地震（23日未明）は時刻が異なるが、同一の事象を指しているか断定できないため、別個の事実として記載する。専門家の指摘は、NHKの報道する「23日未明」の地震に対するものと解釈する。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
+      "slug": "VideoThousandsoffamilies",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss"
+        }
+      ],
+      "issue": "世界各地で発生している災害や紛争による人道的な影響は深刻か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ゲーリーの町では、住民の3分の1が貧困状態にある。",
+          "span": "a third of residents live in poverty",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "スーダンの北コルドファン州で戦闘が発生している。",
+          "span": "fighting in Sudan’s North Kordofan State",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "スーダンの北コルドファン州では、戦闘から数千家族が避難している。",
+          "span": "Thousands of families flee fighting in Sudan’s North Kordofan State",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国ネバダ州では、山火事が家屋を脅かしている。",
+          "span": "wildfire threatens homes in US state of Nevada",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ネバダ州では非常事態が宣言されている。",
+          "span": "A state of emergency is declared",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "山火事によりネバダ州で避難が促されている。",
+          "span": "wildfire spurs evacuations",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "インディアナ州での大規模停電、スーダンでの紛争による避難、ネバダ州での山火事による避難など、世界各地で複数の危機的状況が発生しており、人道的な影響が深刻であると報じられている。評価は割れる／アプリは裁定しない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "事実欄への評価混入: facts[0].tの評価語「深刻な」は記者の解釈であるため、当該項目をBBC Worldの評価としてpositionsへ移動しました。",
+          "事実欄への評価混入: facts[1].tの評価語「深刻な」および「苦しんでいる」は記者の解釈であるため、当該項目をBBC Worldの評価としてpositionsへ移動しました。",
+          "事実欄への評価混入: facts[5].tの評価語「猛烈な」を削除しました。",
+          "メタ記述の徹底: positions[1].claimを「Al Jazeeraは、〜と報じている」の形式に修正し、actorを「Al Jazeera (報じる)」から「Al Jazeera」に修正しました。"
+        ]
       }
     }
   ]
