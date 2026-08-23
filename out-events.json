@@ -1,17 +1,72 @@
 {
-  "rankedAt": "2026-08-23T13:49:25.523Z",
+  "rankedAt": "2026-08-23T14:10:08.511Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
+      "headline": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
+      "slug": "専門家関東の地下にある地震の巣で発生備え確認を",
+      "time": "2026-08-23T14:07:36.000Z",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 地震・火山"
+      ],
+      "count": 5,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "【地震情報】北海道函館市などで震度4 津波の心配なし",
+          "snippet": "8月23日午後10時45分ごろ、北海道で震度4の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45914",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
+          "snippet": "23日未明に起きた茨城県南部を震源とする最大震度5弱の地震について、専門家は関東の地下にある「地震の巣」とも呼ばれる地震活動が活発な領域の一つで起きたと指摘しています。海側のプレートとともに沈み込む「…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45881",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "北海道で震度4 津波の心配なし",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592814?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "長周期地震動に関する観測情報",
+          "snippet": "【長周期地震動に関する観測情報】２３日２２時４５分ころの地震により、長周期地震動階級１を観測した地域があります。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135414_0_VXSE62_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】２３日２２時４５分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823134904_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ",
       "slug": "台風20号先島諸島で大雨台風18号25日から沖縄",
-      "time": "2026-08-23T13:39:21.000Z",
+      "time": "2026-08-23T13:57:47.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 3,
+      "count": 5,
       "hasPrimary": true,
       "members": [
         {
@@ -24,17 +79,33 @@
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】中部では、土砂災害や濃霧による視程障害に注意してください。長野県では、竜巻などの激しい突風や落雷に注意してください。",
+          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、土砂災害や高波、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133923_0_VPWW54_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135748_0_VPWW54_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】中部では、土砂災害や濃霧による視程障害に注意してください。長野県では、竜巻などの激しい突風や落雷に注意してください。",
+          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、土砂災害や高波、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133923_0_VPWW53_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135748_0_VPWW53_473000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【八重山地方気象警報・注意報】石垣島地方では、土砂災害に注意してください。八重山地方では、高波や竜巻などの激しい突風、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135747_0_VPWW53_474000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【八重山地方気象警報・注意報】石垣島地方では、土砂災害に注意してください。八重山地方では、高波や竜巻などの激しい突風、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135747_0_VPWW54_474000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -79,44 +150,6 @@
       ]
     },
     {
-      "headline": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
-      "slug": "SydneyMarathonorganisers",
-      "time": "2026-08-23T13:35:06.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
-          "snippet": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Ath",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
-          "snippet": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
-          "snippet": "The medal features the Allianz Arena in Munich, instead of Sydney&#039;s Allianz Stadium, as one of the city&#039;s land",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "東武鉄道4人死亡事故 事故当日3本の列車は問題なく通過か",
       "slug": "東武鉄道4人死亡事故事故当日3本の列車は問題なく",
       "time": "2026-08-23T10:58:33.000Z",
@@ -141,36 +174,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6592798?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "報道写真家の石川文洋さん死去 ベトナム戦争など最前線で取材",
-      "slug": "報道写真家の石川文洋さん死去ベトナム戦争など最前",
-      "time": "2026-08-23T11:31:26.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "報道写真家の石川文洋さん死去 ベトナム戦争など最前線で取材",
-          "snippet": "ベトナム戦争や世界の紛争を最前線で撮影した報道写真家、石川文洋さんが23日、長野県内の病院で亡くなりました。88歳でした。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45876",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "報道写真家の石川文洋さん死去",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592804?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -207,32 +210,32 @@
       ]
     },
     {
-      "headline": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
-      "slug": "専門家関東の地下にある地震の巣で発生備え確認を",
-      "time": "2026-08-23T13:48:04.000Z",
+      "headline": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
+      "slug": "ChelseapreviewFivekeytal",
+      "time": "2026-08-23T13:33:39.000Z",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "気象庁 地震・火山"
+        "BBC World",
+        "Al Jazeera"
       ],
       "count": 2,
-      "hasPrimary": true,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
-          "snippet": "23日未明に起きた茨城県南部を震源とする最大震度5弱の地震について、専門家は関東の地下にある「地震の巣」とも呼ばれる地震活動が活発な領域の一つで起きたと指摘しています。海側のプレートとともに沈み込む「…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45881",
+          "title": "'New season, new trim' - Haaland reveals buzzcut",
+          "snippet": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "震源に関する情報",
-          "snippet": "【震源に関する情報】きょう２３日２２時４５分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823134804_0_VXSE52_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "Chelsea preview: Five key talking points for 2026-27 Premier League season",
+          "snippet": "Chelsea have had their worst Premier League run in 30 years. Can new manager Xabi Alonso succeed and is Cole Palmer key?",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/23/chelsea-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -266,38 +269,9 @@
       ]
     },
     {
-      "headline": "震度速報",
-      "slug": "震度速報",
-      "time": "2026-08-23T13:47:32.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震度速報",
-          "snippet": "【震度速報】２３日２２時４５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823134733_0_VXSE51_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震度速報",
-          "snippet": "【震度速報】２３日２２時４５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823134633_0_VXSE51_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-23T13:36:57.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-23T13:57:37.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -306,18 +280,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【静岡県気象警報・注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【神奈川県気象警報・注意報】神奈川県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133658_0_VPWW53_220000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135739_0_VPWW54_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【静岡県気象警報・注意報】注意報を解除します。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【神奈川県気象警報・注意報】神奈川県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133658_0_VPWW54_220000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135739_0_VPWW53_140000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -326,7 +300,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-08-23T13:36:27.000Z",
+      "time": "2026-08-23T13:57:36.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -336,19 +310,77 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【愛知県気象警報・注意報】注意報を解除します。",
+          "snippet": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。東京地方では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133628_0_VPWW54_230000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135737_0_VPWW54_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【愛知県気象警報・注意報】注意報を解除します。",
+          "snippet": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。東京地方では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133628_0_VPWW53_230000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135738_0_VPWW53_130000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-23T13:57:34.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【山梨県気象警報・注意報】山梨県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135734_0_VPWW54_190000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【山梨県気象警報・注意報】山梨県では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823135735_0_VPWW53_190000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+      "slug": "WerenotgoingtorunfromitS",
+      "time": "2026-08-23T13:35:06.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Kejelcha breaks men's half marathon world record by 29 seconds",
+          "snippet": "Ethiopia's Yomif Kejelcha breaks the men's half marathon world record in a time of  56 minutes 51 seconds in a World Ath",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+          "snippet": "Runners will receive a medal at the 2026 Sydney Marathon with an engraving of a German stadium.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -389,27 +421,6 @@
           "snippet": "記録的な豪雨となった千葉県では車が水につかり、別の場所に運んでほしいという依頼が、JAF＝日本自動車連盟に相次いでいて、スタッフが連日、対応に追われています。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260823de45892",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "関東で震度5弱 未明の揺れに驚き",
-      "slug": "関東で震度5弱未明の揺れに驚き",
-      "time": "2026-08-23T11:02:25.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "関東で震度5弱 未明の揺れに驚き",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592801?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -458,9 +469,9 @@
       ]
     },
     {
-      "headline": "虎・森下大暴れ 勝ち越し打&31号",
-      "slug": "虎森下大暴れ勝ち越し打31号",
-      "time": "2026-08-23T13:29:07.000Z",
+      "headline": "夏多い「外耳炎」仕組みと対策は",
+      "slug": "夏多い外耳炎仕組みと対策は",
+      "time": "2026-08-23T10:34:37.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -469,10 +480,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "虎・森下大暴れ 勝ち越し打&31号",
+          "title": "夏多い「外耳炎」仕組みと対策は",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592812?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6592796?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -494,6 +505,27 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6592809?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "灘高コンビ 高校生漫才日本一に",
+      "slug": "灘高コンビ高校生漫才日本一に",
+      "time": "2026-08-23T14:01:20.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "灘高コンビ 高校生漫才日本一に",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592813?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -670,7 +702,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-23T11:00:00.000Z",
+      "time": "2026-08-23T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -680,9 +712,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、２３日２１時から２４時までは火口から西方向、２４日０９時から１２時までは火口から西方向に降灰が予想されます。",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル３（入山規制）です。阿蘇山で噴火が発生した場合には、２４日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823110041_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823140037_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -691,7 +723,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-23T11:00:00.000Z",
+      "time": "2026-08-23T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -701,9 +733,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２３日２１時から２４時までは火口から西方向、２４日０９時から１２時までは火口から西方向に降灰が予想されます",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、２４日０９時から１２時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823110045_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823140041_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -712,7 +744,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-23T11:00:00.000Z",
+      "time": "2026-08-23T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -722,9 +754,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２３日２１時から２４時までは火口から西方向、２４日０９時から１２時までは火口から西方向に降灰が予想されます",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２４日０９時から１２時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823110049_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823140045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -733,7 +765,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-23T11:00:00.000Z",
+      "time": "2026-08-23T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -743,9 +775,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２３日２１時から２４時までは火口から西方向、２４日０９時から１２時までは火口から西方向に降灰が予想されます",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２４日０９時から１２時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823110053_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823140049_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -754,7 +786,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-23T11:00:00.000Z",
+      "time": "2026-08-23T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -764,9 +796,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２３日２１時から２４時までは火口から西方向、２４日０９時から１２時までは火口から西方向に",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２４日０９時から１２時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823110056_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823140052_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -775,7 +807,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-23T11:00:00.000Z",
+      "time": "2026-08-23T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -785,9 +817,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、２３日２１時から２４時までは火口から北方向、２４日０９時から１２時までは火口から北東方向に降灰が予想されます。",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２４日０９時から１２時までは火口から西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823110030_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823140056_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -796,7 +828,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-23T11:00:00.000Z",
+      "time": "2026-08-23T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -806,93 +838,30 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、２３日２１時から２４時までは火口から北方向、２４日０９時から１２時までは火口から東方向に降灰が予想されます。",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、２４日０９時から１２時までは火口から北東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823110033_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823140030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-23T13:39:10.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-23T14:00:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
+        "気象庁 地震・火山"
       ],
       "count": 1,
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【長野県大雨警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133911_0_VPWW55_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-23T13:36:55.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【静岡県雷注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133655_0_VPWW61_220000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-23T13:36:13.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【愛知県雷注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133613_0_VPWW61_230000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-23T13:34:03.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【三重県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823133404_0_VPWW54_240000.xml",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　岩手山　降灰予報（定時）】　現在、岩手山は噴火警戒レベル２（火口周辺規制）です。岩手山で噴火が発生した場合には、２４日０９時から１２時までは火口から東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823140034_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -983,27 +952,6 @@
       ]
     },
     {
-      "headline": "'New season, new trim' - Haaland reveals buzzcut",
-      "slug": "NewseasonnewtrimHaalandr",
-      "time": "2026-08-23T12:36:54.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "'New season, new trim' - Haaland reveals buzzcut",
-          "snippet": "Manchester City striker Erling Haaland reveals his new buzz cut on social media.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Golf brand apologises for advert that shows woman being pushed over",
       "slug": "Golfbrandapologisesforad",
       "time": "2026-08-23T12:25:40.000Z",
@@ -1019,6 +967,48 @@
           "snippet": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached ",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+      "slug": "Nordicnationshavelostcon",
+      "time": "2026-08-23T13:50:02.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Nordic nations ‘have lost confidence in Infantino’, demand FIFA reforms",
+          "snippet": "Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino&#039;s resignation amid FIFA cr",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+      "slug": "TheSuezCrisisstoppedtheB",
+      "time": "2026-08-23T13:37:50.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
+          "snippet": "In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1145,48 +1135,6 @@
           "snippet": "El-Sayed has hit back at JD Vance, saying his identity and religion aren’t causing the Trump administration’s problems.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Can Iran retaliate against countries that join US ‘economic war’?",
-      "slug": "CanIranretaliateagainstc",
-      "time": "2026-08-23T11:50:22.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-          "snippet": "Iran warns that countries backing US economic sanctions will be considered an enemy of Tehran.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Explosion injures 13 in Taiwan",
-      "slug": "Explosioninjures13inTaiw",
-      "time": "2026-08-23T11:06:38.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Explosion injures 13 in Taiwan",
-          "snippet": "Explosion injures 13 in Taiwan",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
