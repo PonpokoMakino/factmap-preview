@@ -1,61 +1,7 @@
 {
-  "rankedAt": "2026-08-23T17:19:08.303Z",
+  "rankedAt": "2026-08-23T17:40:09.910Z",
   "lens": "独立報道社数(volume)順",
   "events": [
-    {
-      "headline": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ",
-      "slug": "台風20号先島諸島で大雨台風18号25日から沖縄",
-      "time": "2026-08-23T16:13:29.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 5,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ",
-          "snippet": "台風20号の影響で沖縄県の先島諸島では断続的に非常に激しい雨が降り、大雨となりました。これまでの雨で地盤が緩んでいるところがあり、引き続き土砂災害などに十分注意してください。\n一方、非常に強い台風18…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45798",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161330_0_VPWW53_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161330_0_VPWW54_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害に注意してください。群馬県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161004_0_VPWW53_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】南部では、土砂災害に注意してください。群馬県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161004_0_VPWW54_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
     {
       "headline": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
       "slug": "専門家関東の地下にある地震の巣で発生備え確認を",
@@ -253,6 +199,51 @@
       ]
     },
     {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-23T17:28:01.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 4,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823172803_0_VPWW53_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823172802_0_VPWW54_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161555_0_VPWW54_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161555_0_VPWW53_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "公私ともパートナーに　支え合うりくりゅう―フィギュアスケート",
       "slug": "公私ともパトナに支え合うりくりゅうフィギュアスケ",
       "time": "2026-08-23T07:22:00.000Z",
@@ -311,9 +302,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-23T16:15:53.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-23T16:13:29.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -322,20 +313,41 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【群馬県気象警報・注意報】群馬県では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161555_0_VPWW54_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161330_0_VPWW53_100000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】中部では、濃霧による視程障害に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【群馬県気象警報・注意報】群馬県では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161555_0_VPWW53_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823161330_0_VPWW54_100000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ",
+      "slug": "台風20号先島諸島で大雨台風18号25日から沖縄",
+      "time": "2026-08-23T12:13:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ",
+          "snippet": "台風20号の影響で沖縄県の先島諸島では断続的に非常に激しい雨が降り、大雨となりました。これまでの雨で地盤が緩んでいるところがあり、引き続き土砂災害などに十分注意してください。\n一方、非常に強い台風18…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45798",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -781,6 +793,27 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-23T17:27:58.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【長野県濃霧注意報】中部では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823172758_0_VPWW61_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
       "slug": "台風解析予報情報日予報",
       "time": "2026-08-23T16:23:32.000Z",
@@ -844,27 +877,6 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-23T16:09:55.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【群馬県雷・濃霧注意報】群馬県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823160955_0_VPWW61_100000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "DR Congo and M23 rebels agree roadmap for peace talks",
       "slug": "DRCongoandM23rebelsagree",
       "time": "2026-08-23T12:52:08.000Z",
@@ -888,7 +900,7 @@
     {
       "headline": "Trump arrives at high-speed IndyCar race through Washington's streets",
       "slug": "TrumparrivesathighspeedI",
-      "time": "2026-08-23T16:57:05.000Z",
+      "time": "2026-08-23T17:31:29.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -928,9 +940,9 @@
       ]
     },
     {
-      "headline": "France links rise in drownings to heatwaves",
-      "slug": "Francelinksriseindrownin",
-      "time": "2026-08-23T15:00:17.000Z",
+      "headline": "France links sharp rise in drownings to heatwaves",
+      "slug": "Francelinkssharpriseindr",
+      "time": "2026-08-23T17:39:33.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -939,7 +951,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "France links rise in drownings to heatwaves",
+          "title": "France links sharp rise in drownings to heatwaves",
           "snippet": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
@@ -1027,6 +1039,27 @@
           "snippet": "Content creator Good Good apologises and removes an advert that shows a woman being pushed to the ground as she reached ",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/sport/golf/articles/cx2j2g42xq9o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Photos: Ukraine celebrates National Flag Day",
+      "slug": "PhotosUkrainecelebratesN",
+      "time": "2026-08-23T17:18:25.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Photos: Ukraine celebrates National Flag Day",
+          "snippet": "People observe a minute of silence for those killed in war to mark the holiday established in 2004.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/gallery/2026/8/23/photos-ukraine-observes-national-flag-day?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1153,27 +1186,6 @@
           "snippet": "Denmark, Finland, Iceland, Norway, Sweden and the Faroe Islands back calls for Infantino&#039;s resignation amid FIFA cr",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/sports/2026/8/23/nordic-nations-have-lost-confidence-in-infantino-demand-fifa-reforms?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-      "slug": "TheSuezCrisisstoppedtheB",
-      "time": "2026-08-23T13:37:50.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?",
-          "snippet": "In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
