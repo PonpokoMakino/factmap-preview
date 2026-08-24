@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-08-24T01:13:01.579Z",
+  "builtAt": "2026-08-24T02:38:27.702Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -124,133 +124,108 @@
       }
     },
     {
-      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "slug": "TrumpsaysCanadawantsbene",
-      "independentSources": 2,
+      "headline": "東武グループ会社を家宅捜索　特急４人死亡事故、業務上過失致死疑い―栃木県警",
+      "slug": "東武グルプ会社を家宅捜索特急人死亡事故業務上過失",
+      "independentSources": 3,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss"
-        }
-      ],
-      "issue": "米国とカナダ間の貿易交渉決裂と報復関税措置は正当化されるか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "米国とカナダの貿易交渉は決裂した。",
-          "span": "trade talks collapse",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "カナダは報復関税を発表した。",
-          "span": "announcing retaliatory tariffs",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米国とカナダの貿易交渉は決裂し、カナダは報復関税を発表したが、その原因と正当性については意見が割れている。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimについて、メタ記述の徹底（「〜と述べた」「〜と非難した」の追加）と著作権に配慮した再記述を実施しました。"
-        ]
-      }
-    },
-    {
-      "headline": "銃後に広がる戦禍、市民犠牲に　米仲介も対ロ和平見通せず―ウクライナ侵攻４年半",
-      "slug": "銃後に広がる戦禍市民犠牲に米仲介も対ロ和平見通せ",
-      "independentSources": 2,
-      "sources": [
+        "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260824de45952"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45906"
+        },
+        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592836?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6592857?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082300169&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026082300127&g=soc&m=rss"
         }
       ],
-      "issue": "ロシアによるウクライナ侵攻の現状はどのようなものか？",
+      "issue": "複数の主要な事件・事故の発生と捜査状況",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ロシアによるウクライナ侵攻が開始から4年半を迎えた。",
-          "span": "露のウ侵攻から4年半",
+          "t": "22日未明、相模原市中央区の路上で女性から「友人の男性が殴られたようだ」と119番通報があった。",
+          "span": "友人の男性が殴られたようだ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "消防が現場に駆けつけたところ、市内に住む17歳の高校2年の男子生徒が倒れていた。",
+          "span": "17歳の高校2年の男子生徒が倒れているのが",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "男子生徒は死亡し、繰り返し殴られたような跡があった。",
+          "span": "死亡 繰り返し殴られたような跡",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警察は、この死亡事案を事件として捜査している。",
+          "span": "事件か",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "戦争による被害が拡大している。",
-          "span": "広がる戦禍",
+          "t": "栃木県鹿沼市の東武日光線で作業員4人が死亡する列車事故が発生した。",
+          "span": "作業員4人が死亡した列車事故",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "市民が犠牲となっている。",
-          "span": "市民犠牲に",
+          "t": "列車接近の伝達やホームへの進入の際に複数のミスが重なった疑いがある。",
+          "span": "複数のミスが重なった疑い",
           "src": [
             {
-              "ty": "wire",
-              "l": "時事ドットコム"
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "米国がロシアとの和平に向けた仲介を行っている。",
-          "span": "米仲介も",
+          "t": "警察は作業の責任者や見張り役などから詳しい状況を聞いている。",
+          "span": "詳しい状況を聞くなどして",
           "src": [
             {
-              "ty": "wire",
-              "l": "時事ドットコム"
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ロシアとの和平交渉の見通しは立っていない。",
-          "span": "対ロ和平見通せず",
+          "t": "栃木県警は、業務上過失致死の疑いで東武グループ会社を家宅捜索した。",
+          "span": "東武グループ会社を家宅捜索",
           "src": [
             {
               "ty": "wire",
@@ -260,72 +235,202 @@
         }
       ],
       "positions": [],
-      "consensus": "ロシアによるウクライナ侵攻は4年半が経過し、戦禍が広がり市民が犠牲になっているが、和平の見通しは立っていない。",
-      "note": "記事は主に事実の記述であり、特定の主体による評価や対立する意見は明示されていないため、positionsは空配列です。",
+      "consensus": "相模原市で高校生が死亡した事案と、東武鉄道の列車事故について、警察がそれぞれの経緯や原因を捜査している。",
+      "note": "本記事は複数の異なる事件・事故の速報をまとめたものであり、論点や対立する意見は含まれていないため、positionsは空配列とする。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "France links sharp rise in drownings to heatwaves",
-      "slug": "Francelinkssharpriseindr",
+      "headline": "台風18号 あす以降 沖縄・奄美に接近へ 早めに備えを",
+      "slug": "台風18号あす以降沖縄奄美に接近へ早めに備えを",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "BBC World"
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592842?source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45899"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824020810_0_VPCJ51_471000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824020810_0_VPCJ50_471000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824020337_0_VPFJ50_471000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824020337_0_VPFJ51_471000.xml"
         }
       ],
-      "issue": "フランスでの溺死者増加の主な原因は何か？",
-      "stasis": "原因の解釈と説明",
+      "issue": null,
+      "stasis": "事実",
       "facts": [
         {
-          "t": "フランスで猛暑の中、溺死者が300人を超えた。",
-          "span": "溺死者が300人超える",
+          "t": "非常に強い台風18号が25日以降、沖縄・奄美に接近するおそれがある。",
+          "span": "25日以降、沖縄・奄美に近づくおそれがあります",
           "src": [
             {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "フランスでは6月19日以降、301人の溺死者が確認された。",
-          "span": "301 deaths since 19 June",
+          "t": "24日からは風が次第に強まり、25日には猛烈な風が吹く見込みである。",
+          "span": "24日からは次第に風が強まり、25日には猛烈な風が吹く見込み",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "溺死者の急増は熱波と関連付けられている。",
-          "span": "links sharp rise in drownings to heatwaves",
+          "t": "台風18号は25日から27日頃にかけて沖縄地方に接近する見込みである。",
+          "span": "２５日から２７日頃にかけて沖縄地方に接近する見込みです",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "台風18号は25日から27日頃にかけて強い勢力で沖縄本島地方へ接近する見込みである。",
+          "span": "２５日から２７日頃にかけて強い勢力で沖縄本島地方へ接近する見込みです",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "台風の進路によっては、沖縄本島地方や先島諸島で警報級の大雨や高潮となる可能性がある。",
+          "span": "警報級の大雨や高潮とな",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "フランスで猛暑の中、6月19日以降に300人を超える溺死者が確認されており、熱波と関連付けられている。フランス政府閣僚は、人々が水に入ることで危険を冒していると指摘している。",
+      "consensus": "非常に強い台風18号が沖縄・奄美に接近し、暴風や高波、警報級の大雨や高潮への厳重な警戒が必要であるという点で合意されている。",
       "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "女子ゴルフ 米ツアー最終ラウンド 山下美夢有が優勝 今季2勝目",
+      "slug": "女子ゴルフ米ツア最終ラウンド山下美夢有が優勝今季",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260824de45946"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082400256&g=spo&m=rss"
+        }
+      ],
+      "issue": "女子ゴルフ米ツアーの最終ラウンドで山下美夢有選手はどのような結果を収めたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "山下美夢有選手が女子ゴルフのアメリカツアーの大会で優勝した。",
+          "span": "山下美夢有選手が優勝",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "山下選手にとって今シーズン2勝目である。",
+          "span": "今シーズン2勝目を挙げました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "大会の最終ラウンドは23日に行われた。",
+          "span": "23日",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "最終ラウンドはカナダのエドモントンで行われた。",
+          "span": "カナダのエドモントン",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "山下選手は初日から単独首位に立っていた。",
+          "span": "初日から単独首位に立っていた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "山下選手は完全優勝を達成した。",
+          "span": "完全Ｖ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "山下美夢有選手が女子ゴルフ米ツアーで今季2勝目を挙げたことで一致している。",
+      "note": "記事は事実の報道のみで、評価や意見の対立は含まれていません。",
       "audit": {
         "changed": true,
         "issues": [
-          "stasis: テキストに対立する解釈がないため、「割れる」を削除し「原因の解釈と説明」に修正。"
+          "facts[3].span を最小核に修正しました。"
         ]
       }
     }
