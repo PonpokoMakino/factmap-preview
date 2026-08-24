@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-24T19:29:49.965Z",
+  "rankedAt": "2026-08-24T19:57:08.352Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -45,6 +45,36 @@
           "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+      "slug": "台風18号25日以降沖縄奄美に接近猛烈な風のおそ",
+      "time": "2026-08-24T19:55:18.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+          "snippet": "非常に強い台風18号は25日の朝には沖縄県の大東島地方にかなり接近し、その後、沖縄本島地方や奄美地方にも近づく見込みです。\n沖縄・奄美では26日にかけて、一部の住宅が倒壊するような猛烈な風が吹くおそれ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45899",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【鹿児島県（奄美地方を除く）熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195519_0_VPFT50_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -139,64 +169,6 @@
           "snippet": "【震源・震度情報】２５日０２時１３分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260824171630_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-24T19:21:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【富山県気象警報・注意報】富山県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824192107_0_VPWW54_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【富山県気象警報・注意報】富山県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824192107_0_VPWW53_160000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-24T19:21:05.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【新潟県気象警報・注意報】佐渡では、強風に注意してください。新潟県では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824192106_0_VPWW53_150000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【新潟県気象警報・注意報】佐渡では、強風に注意してください。新潟県では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824192106_0_VPWW54_150000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -352,27 +324,6 @@
           "snippet": "24日も広い範囲で気温が上がり、近畿では39度を超える危険な暑さとなったところがありました。25日は熊本地震の被災地で最高気温が40度と「酷暑日」が見込まれるなど、西日本と東日本の各地で危険な暑さが予…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260823de45898",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
-      "slug": "台風18号25日以降沖縄奄美に接近猛烈な風のおそ",
-      "time": "2026-08-24T15:12:54.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
-          "snippet": "非常に強い台風18号は25日の朝には沖縄県の大東島地方にかなり接近し、その後、沖縄本島地方や奄美地方にも近づく見込みです。\n沖縄・奄美では26日にかけて、一部の住宅が倒壊するような猛烈な風が吹くおそれ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45899",
           "ty": "press",
           "linkKind": "article"
         }
@@ -925,9 +876,9 @@
       ]
     },
     {
-      "headline": "台風の暴風域に入る確率",
-      "slug": "台風の暴風域に入る確率",
-      "time": "2026-08-24T19:23:05.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-24T19:55:18.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -936,19 +887,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "台風の暴風域に入る確率",
-          "snippet": "【台風の暴風域に入る確率】",
+          "title": "熱中症警戒アラート",
+          "snippet": "【宮崎県熱中症警戒アラート】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824192430_0_VPTA53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195518_0_VPFT50_450000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-08-24T19:22:17.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-24T19:55:17.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -957,19 +908,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
+          "title": "熱中症警戒アラート",
+          "snippet": "【熊本県熱中症警戒アラート】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824192218_0_VPTW63_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195517_0_VPFT50_430000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-24T19:21:01.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-24T19:55:17.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -978,19 +929,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【富山県雷注意報】富山県では、急な強い雨や落雷に注意してください。",
+          "title": "熱中症警戒アラート",
+          "snippet": "【佐賀県熱中症警戒アラート】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824192101_0_VPWW61_160000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195517_0_VPFT50_410000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-24T19:20:19.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-24T19:55:16.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -999,19 +950,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【新潟県雷注意報】新潟県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+          "title": "熱中症警戒アラート",
+          "snippet": "【長崎県熱中症警戒アラート】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824192019_0_VPWW61_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195517_0_VPFT50_420000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
-      "slug": "気象警報注意報暴風",
-      "time": "2026-08-24T19:20:19.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-24T19:55:16.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -1020,19 +971,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（暴風）",
-          "snippet": "【新潟県暴風（雪）警報・注意報】佐渡では、強風に注意してください。",
+          "title": "熱中症警戒アラート",
+          "snippet": "【福岡県熱中症警戒アラート】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824192020_0_VPWW58_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195516_0_VPFT50_400000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-24T19:19:34.000Z",
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-24T19:55:16.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -1041,10 +992,73 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【福井県気象警報・注意報】福井県では、落雷に注意してください。",
+          "title": "熱中症警戒アラート",
+          "snippet": "【大分県熱中症警戒アラート】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824191935_0_VPWW53_180000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195516_0_VPFT50_440000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-24T19:55:15.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【山口県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195515_0_VPFT50_350000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-24T19:55:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【愛媛県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195514_0_VPFT50_380000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "熱中症警戒アラート",
+      "slug": "熱中症警戒アラト",
+      "time": "2026-08-24T19:55:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "熱中症警戒アラート",
+          "snippet": "【高知県熱中症警戒アラート】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824195514_0_VPFT50_390000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
