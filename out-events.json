@@ -1,53 +1,7 @@
 {
-  "rankedAt": "2026-08-24T17:37:41.934Z",
+  "rankedAt": "2026-08-24T18:02:38.441Z",
   "lens": "独立報道社数(volume)順",
   "events": [
-    {
-      "headline": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
-      "slug": "台風18号25日以降沖縄奄美に接近猛烈な風のおそ",
-      "time": "2026-08-24T16:27:50.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 4,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
-          "snippet": "非常に強い台風18号は25日の朝には沖縄県の大東島地方にかなり接近し、その後、沖縄本島地方や奄美地方にも近づく見込みです。\n沖縄・奄美では26日にかけて、一部の住宅が倒壊するような猛烈な風が吹くおそれ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45899",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824162751_0_VPWW54_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824162751_0_VPWW53_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（波浪）",
-          "snippet": "【奄美地方（鹿児島県）波浪警報・注意報】奄美地方では、高波に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824162749_0_VPWW59_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
     {
       "headline": "EUがウクライナ支援1兆円承認 英は巡航ミサイル部品の機密開示",
       "slug": "EUがウクライナ支援1兆円承認英は巡航ミサイル部",
@@ -147,6 +101,88 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-24T17:51:24.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 4,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【釧路・根室地方気象警報・注意報】釧路・根室地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824175125_0_VPWW54_014100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【釧路・根室地方気象警報・注意報】釧路・根室地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824175125_0_VPWW53_014100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【釧路・根室地方気象警報・注意報】根室地方では、低い土地の浸水に注意してください。釧路・根室地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824174910_0_VPWW54_014100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【釧路・根室地方気象警報・注意報】根室地方では、低い土地の浸水に注意してください。釧路・根室地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824174910_0_VPWW53_014100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-24T17:50:22.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 3,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【十勝地方気象警報・注意報】十勝地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824175023_0_VPWW53_014030.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【十勝地方気象警報・注意報】十勝地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824175023_0_VPWW54_014030.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【十勝地方気象警報・注意報】十勝地方では、低い土地の浸水や濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824174713_0_VPWW54_014030.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "震源・震度に関する情報",
       "slug": "震源震度に関する情報",
       "time": "2026-08-24T17:16:30.000Z",
@@ -170,93 +206,6 @@
           "snippet": "【震源・震度情報】２４日２３時４７分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260824145009_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-24T16:26:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】長野県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824162607_0_VPWW53_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】長野県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824162607_0_VPWW54_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-08-24T16:35:46.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824163546_0_VPTW60_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824161847_0_VPTW63_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-24T16:18:24.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824161825_0_VPWW53_473000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824161825_0_VPWW54_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -370,6 +319,27 @@
           "snippet": "24日も広い範囲で気温が上がり、近畿では39度を超える危険な暑さとなったところがありました。25日は熊本地震の被災地で最高気温が40度と「酷暑日」が見込まれるなど、西日本と東日本の各地で危険な暑さが予…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260823de45898",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+      "slug": "台風18号25日以降沖縄奄美に接近猛烈な風のおそ",
+      "time": "2026-08-24T15:12:54.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+          "snippet": "非常に強い台風18号は25日の朝には沖縄県の大東島地方にかなり接近し、その後、沖縄本島地方や奄美地方にも近づく見込みです。\n沖縄・奄美では26日にかけて、一部の住宅が倒壊するような猛烈な風が吹くおそれ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45899",
           "ty": "press",
           "linkKind": "article"
         }
@@ -901,9 +871,51 @@
       ]
     },
     {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-24T17:51:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【釧路・根室地方大雨警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824175114_0_VPWW55_014100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-24T17:50:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【十勝地方大雨警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824175014_0_VPWW55_014030.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-24T16:25:59.000Z",
+      "time": "2026-08-24T17:49:04.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -913,9 +925,9 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【長野県濃霧注意報】長野県では、濃霧による視程障害に注意してください。",
+          "snippet": "【釧路・根室地方雷・濃霧注意報】根室、釧路地方では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824162600_0_VPWW61_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824174904_0_VPWW61_014100.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -924,7 +936,7 @@
     {
       "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
       "slug": "Iranfacesgreatestfinanci",
-      "time": "2026-08-24T13:35:07.000Z",
+      "time": "2026-08-24T17:59:14.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
