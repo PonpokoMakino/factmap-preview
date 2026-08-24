@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-08-24T09:01:23.477Z",
+  "builtAt": "2026-08-24T22:40:13.655Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風18号 あす以降 沖縄・奄美に接近 猛烈な風のおそれ 備えを",
-      "slug": "台風18号あす以降沖縄奄美に接近猛烈な風のおそれ",
+      "headline": "台風18号 沖縄の大東島地方が暴風域に 暴風や高波に厳重警戒",
+      "slug": "台風18号沖縄の大東島地方が暴風域に暴風や高波に",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,27 +14,27 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45899"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260824de46074"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592895?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6592951?source=rss"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824085943_0_VPFJ51_471000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824222929_0_VPWW54_460040.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824085943_0_VPFJ50_471000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824222929_0_VPWW53_460040.xml"
         }
       ],
-      "issue": "台風18号は沖縄・奄美地方にどのような影響を与えるか？",
+      "issue": "台風18号の状況と警戒情報は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "非常に強い台風18号は、25日以降、沖縄・奄美に近づく見込みである。",
-          "span": "非常に強い台風18号は、25日以降、沖縄・奄美に近づく見込みです",
+          "t": "非常に強い台風18号が沖縄の大東島地方を暴風域に巻き込みながら西寄りに進んでいる。",
+          "span": "沖縄の大東島地方を暴風域に巻き込みながら西寄りに進んでいます",
           "src": [
             {
               "ty": "press",
@@ -43,8 +43,8 @@
           ]
         },
         {
-          "t": "沖縄・奄美では次第に風が強まり、25日から26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがある。",
-          "span": "沖縄・奄美では次第に風が強まり、25日から26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあり",
+          "t": "沖縄・奄美では、26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがある。",
+          "span": "一部の住宅が倒壊するような猛烈な風が吹くおそれがあり",
           "src": [
             {
               "ty": "press",
@@ -53,8 +53,8 @@
           ]
         },
         {
-          "t": "気象庁は早めに備えを進めるよう呼びかけている。",
-          "span": "気象庁は早めに備えを進め",
+          "t": "気象庁は暴風や高波に厳重に警戒するよう呼びかけている。",
+          "span": "暴風や高波に厳重に警戒す",
           "src": [
             {
               "ty": "press",
@@ -63,8 +63,8 @@
           ]
         },
         {
-          "t": "台風18号は沖縄へ接近し、影響が長引く恐れがある。",
-          "span": "台風18号が沖縄へ 影響長引く恐れ",
+          "t": "台風18号は26日にかけて沖縄などに接近する。",
+          "span": "26日にかけ沖縄など接近",
           "src": [
             {
               "ty": "press",
@@ -73,169 +73,80 @@
           ]
         },
         {
-          "t": "沖縄本島地方では、25日は急激に風が強まり、波が高まる見込みである。",
-          "span": "沖縄本島地方では、２５日は急激に風が強まり、波が高まる見込みです",
+          "t": "奄美地方（鹿児島県）では、暴風や高波に警戒するよう呼びかけられている。",
+          "span": "暴風や高波に警戒してください",
           "src": [
             {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "暴風やうねりを伴う高波に厳重な警戒が必要である。",
-          "span": "暴風やうねりを伴う高波に厳重に警戒してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "台風の進路によっては警報級の大雨や高潮となるおそれがある。",
-          "span": "台風の進路等によっては警報級の大雨や高潮となるおそれがあります",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "風が強まる前に早めの対応が必要である。",
-          "span": "風が強まる前に早め",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
+              "ty": "prim",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風18号は25日以降、沖縄・奄美に接近し、猛烈な風や高波、大雨、高潮のおそれがあるため、早めの備えが必要である。",
-      "note": "プライバシー配慮のため、個別の被害状況や個人名は記載しない。",
+      "consensus": "台風18号は沖縄の大東島地方を暴風域に巻き込みながら西寄りに進んでおり、沖縄・奄美では26日にかけて猛烈な風や高波に厳重な警戒が必要である。本件に関する評価の対立はない。",
+      "note": "本記事は事実の報道であり、評価や意見の対立は存在しない事実合意型である。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "群馬 沼田市・川場村にレベル４大雨土砂災害危険警報",
-      "slug": "群馬沼田市川場村にレベル大雨土砂災害危険警報",
-      "independentSources": 2,
+      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "slug": "Iranfacesgreatestfinanci",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "時事ドットコム",
+        "BBC World"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260824de46027"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46098"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824085950_0_VPCJ50_130000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082500075&g=int&m=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824085950_0_VPCJ51_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824084421_0_VPWW53_210000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824084421_0_VPWW54_210000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824084126_0_VPWW53_210000.xml"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "群馬県沼田市・川場村および関東甲信地方、岐阜県美濃地方における大雨・土砂災害・浸水・河川増水・氾濫・落雷の危険性はどの程度か？",
-      "stasis": "事実",
+      "issue": "アメリカはイランとの取引がある企業や個人などに対し、どのような経済制裁を科す方針を表明したか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "前橋地方気象台は24日午後5時5分、群馬県沼田市と川場村にレベル4の大雨危険警報とレベル4の土砂災害危険警報を発表した。",
-          "span": "前橋地方気象台は24日午後5時5分、沼田市と川場村に「レベル4大雨危険警報」と「レベル4土砂災害危険警報」を発表しました",
+          "t": "アメリカのベッセント財務長官が、イランと取り引きのある企業や個人などに対し、大規模な経済制裁を科す措置を開始したと発表した。",
+          "span": "大規模な経済制裁を科す措置を開始したと発表しました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関東甲信地方では、24日夜のはじめ頃にかけて、土砂災害、低い土地の浸水、河川の増水や氾濫に厳重に警戒する必要がある。",
-          "span": "関東甲信地方では、２４日夜のはじめ頃にかけて、土砂災害、低い土地の浸水、河川の増水や氾濫に厳重に警戒し",
-          "src": [
+            },
             {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "関東甲信地方では、24日夜遅くにかけて、土砂災害、低い土地の浸水、河川の増水に注意・警戒する必要がある。",
-          "span": "２４日夜遅くにかけて、土砂災害、低い土地の浸水、河川の増水に注意・警戒してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "岐阜県美濃地方では、低い土地の浸水に注意が必要である。",
-          "span": "美濃地方では、低い土地の浸水に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "岐阜県では、落雷に注意が必要である。",
-          "span": "岐阜県では、落雷に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "群馬県沼田市・川場村にレベル4の大雨・土砂災害危険警報が発表された。関東甲信地方および岐阜県美濃地方では、大雨、土砂災害、低い土地の浸水、河川の増水・氾濫、落雷に対する注意・警戒が必要である。",
-      "note": "複数の気象庁発表が同一内容のため、代表的なものをfactとして抽出しました。プライバシーに関わる情報は含まれていません。",
+      "consensus": "アメリカのベッセント財務長官が、イランと取り引きのある企業や個人などに対し、大規模な経済制裁を科す措置を開始したと発表した。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "争点の立て方: テキスト内に賛否の対立がないため、issueを「〜すべきか？」から「〜の方針を表明したか？」という事実確認の問いに修正しました。",
+          "メタ記述の徹底: positionsの各claimに「〜と述べている／と発表した」というメタ記述を追加しました。",
+          "consensus: issueの変更に伴い、評価が割れる旨の記述を削除し、事実合意型に修正しました。"
+        ]
       }
     },
     {
-      "headline": "Nearly three million Teslas recalled in China over hidden door handles",
-      "slug": "NearlythreemillionTeslas",
+      "headline": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "slug": "Russiassecondbiggestonli",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -244,107 +155,160 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4g6ggdg030o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/24/eu-russian-aircraft-help-serbia-battle-wildfires?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss"
         }
       ],
-      "issue": "ネバダ州リノ近郊で発生した山火事により、約9万人が避難を指示されたか？",
+      "issue": "",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ネバダ州リノ近郊で山火事が発生し、約9万人に避難指示が出された。",
-          "span": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
+          "t": "ロシアで2番目に大きいオンライン小売業者Ozonの倉庫が、ウクライナによる夜間攻撃の標的となった。",
+          "span": "its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "BBC World"
             }
           ]
         },
         {
-          "t": "山火事は約10,500エーカーを焼失し、完全に封じ込められていないと当局は述べている。",
-          "span": "The fire has burned around 10,500 acres and is completely uncontained, officials say",
+          "t": "パレスチナ人芸術家スリマン・マンスール氏が79歳で死去した。",
+          "span": "has died at age 79",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "wire",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ガザのディール・アル・バラフにある避難民の仮設テントがイスラエル軍の攻撃を受け、男性1人が死亡した。",
+          "span": "struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ガザの避難民が、テントの代替として伝統的な泥レンガの家を建設した。",
+          "span": "built a traditional mud-brick house as an alternative to tents",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "約9万人に避難指示が出され、山火事は約10,500エーカーを焼失し、完全に封じ込められていないという事実は合意されている。",
-      "note": null,
+      "consensus": "複数の国際的な出来事が報じられているが、本記事ではそれらに対する評価や立場は示されていない。",
+      "note": "本記事は複数の国際的な出来事を事実として報じており、特定の争点に対する評価や立場は含まれていない。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "事実欄への評価混入: fact 2 の '象徴的な' を削除し、純粋な事実記述に修正しました。",
+          "争点の立て方: テキストに特定の争点や評価が含まれていないため、issue を空に修正しました。"
+        ]
       }
     },
     {
-      "headline": "ながら・居眠り運転、検知義務化へ　３１年新型車に適用、国交省方針",
-      "slug": "ながら居眠り運転検知義務化へ年新型車に適用国交省",
+      "headline": "岐阜 大野町 住宅で成人とみられる3人の遺体見つかる",
+      "slug": "岐阜大野町住宅で成人とみられる3人の遺体見つかる",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592884?source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46099"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082400526&g=soc&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592954?source=rss"
         }
       ],
-      "issue": "新型車への居眠り運転等検知システムの搭載は義務化されるか？",
-      "stasis": "政策",
+      "issue": "岐阜県大野町の住宅で発見された3人の遺体について、どのような状況か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "国土交通省は、居眠り運転や「ながら運転」を検知するシステムの搭載を義務化する方針である。",
-          "span": "居眠り運転など検知 搭載義務化へ",
+          "t": "岐阜県大野町の住宅で、成人とみられる3人の遺体が発見された。",
+          "span": "成人とみられる3人の遺体見つかる",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
             }
           ]
         },
         {
-          "t": "この義務化は、2029年（令和11年）に発売される新型車に適用される見込みである。",
-          "span": "３１年新型車に適用",
+          "t": "遺体は24日午後に発見された。",
+          "span": "24日午後",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "対象となるのは、居眠り運転や「ながら運転」である。",
-          "span": "ながら・居眠り運転、検知義務化へ",
+          "t": "遺体は死後、ある程度の時間が経過しているとみられる。",
+          "span": "死後しばらく時間が経過していて",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "遺体の性別や身元は現時点では判明していない。",
+          "span": "性別などは分かっていない",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "警察は身元の確認と死亡に至った詳しい経緯の調査を進めている。",
+          "span": "身元の確認を進めるとともに、死亡した詳しい経緯を調べ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "国土交通省は、2029年発売の新型車から、居眠り運転や「ながら運転」を検知するシステムの搭載を義務化する方針である。この方針は両記事で一致している。",
-      "note": "両記事とも同じ内容を報じており、評価や対立する意見は含まれていないため、positionsは空となる。",
+      "consensus": "岐阜県大野町の住宅で成人とみられる3人の遺体が発見され、警察が身元確認と死亡経緯の調査を進めているという事実が報じられている。この件に関する評価や意見の対立は記事中には見られない。",
+      "note": "本記事は事実の報道であり、特定の立場や評価は含まれていないため、positionsは空配列です。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[3].src: 「性別などは分かっていない」という情報はNHKのテキストにのみ明記されており、Yahoo!ニュースのテキストからは直接読み取れないため、srcからYahoo!ニュースを削除しました。"
+        ]
       }
     }
   ]
