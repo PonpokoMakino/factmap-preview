@@ -1,35 +1,56 @@
 {
-  "builtAt": "2026-08-23T18:41:20.822Z",
+  "builtAt": "2026-08-24T01:13:01.579Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "東武グループ会社を家宅捜索　特急４人死亡事故、業務上過失致死疑い―栃木県警",
-      "slug": "東武グルプ会社を家宅捜索特急人死亡事故業務上過失",
-      "independentSources": 2,
+      "headline": "福岡県議会の蔵内勇夫（くらうち・いさお）議長は、議員辞職するとのコメントを出した",
+      "slug": "福岡県議会の蔵内勇夫くらうちいさお議長は議員辞職",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45737"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260824de45934"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592847?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592843?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082300127&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026082400177&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082400173&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082400131&g=pol&m=rss"
         }
       ],
-      "issue": "東武鉄道子会社は業務上過失致死容疑で捜索されたか？",
+      "issue": "福岡県議会議長と福岡市長の最近の動向に関する報道内容は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "栃木県鹿沼市の東武日光線で線路の除草作業中に作業員4人が死亡した列車事故が発生した。",
-          "span": "線路の除草作業をしていた作業員4人が死亡した列車事故",
+          "t": "福岡県議会の藏内勇夫議長が議員辞職する意向を表明した。",
+          "span": "議員辞職する意向を表明しました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             },
             {
               "ty": "press",
@@ -38,8 +59,8 @@
           ]
         },
         {
-          "t": "警察は23日、作業を受注した東武鉄道の子会社を業務上過失致死の疑いで捜索した。",
-          "span": "警察は23日、業務上過失致死の疑いで、作業を受注した東武鉄道の子会社を捜索しました",
+          "t": "藏内議長は24日午前にコメントを発表した。",
+          "span": "24日午前、コメントを発表し",
           "src": [
             {
               "ty": "press",
@@ -48,9 +69,33 @@
           ]
         },
         {
-          "t": "警察は、東武グループ会社を業務上過失致死の疑いで家宅捜索した。",
-          "span": "東武グループ会社を家宅捜索　特急４人死亡事故、業務上過失致死疑い",
+          "t": "議会の正副議長ポストをめぐる金銭授受問題などへの対応について批判が強まっていた。",
+          "span": "議会の正副議長ポストをめぐる金銭授受問題などへの対応に批判が強まる中",
           "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "藏内議長は今月19日に報道陣に対し発言した。",
+          "span": "今月19日、報道陣に議長…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "福岡市長が11月の選挙に立候補しない意向を表明した。",
+          "span": "11月の選挙不出馬を表明",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -58,92 +103,8 @@
           ]
         },
         {
-          "t": "警察は捜索で押収した資料を分析する方針である。",
-          "span": "警察は捜索で押収した資料を分析して",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "作業員4人が死亡した列車事故で、警察は東武鉄道の子会社を業務上過失致死の疑いで捜索した。",
-      "note": "本件は事実の記述のみであり、評価や対立する意見は含まれていないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "人型ロボがウサイン・ボルト超え　１００メートル走で「世界記録」　北京で運動会",
-      "slug": "人型ロボがウサインボルト超えメトル走で世界記録北",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45846"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082300212&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082300262&g=int&m=rss"
-        }
-      ],
-      "issue": "北京で開催された人型ロボット運動会におけるロボットの性能は、人類の記録を上回るレベルに達したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "北京で2回目となる人型ロボットの運動会が開催された。",
-          "span": "北京で人型ロボットの運動会が開かれています。2回目となることしは",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "運動会では、陸上100メートル走でロボットが人類の記録を上回った。",
-          "span": "陸上の100メートルでウサイン・ボルトさんが持つ男子100メートルの世界記録9秒58を上回",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "人型ロボットが100メートル走で「世界記録」を達成した。",
-          "span": "人型ロボがウサイン・ボルト超え　１００メートル走で「世界記録」",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "中国政府は人型ロボットの開発に力を入れている。",
-          "span": "中国政府が人型ロボットの開発に力を入れる中",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "中国は人型ロボットの実用化に向けて官民を挙げて取り組んでいる。",
-          "span": "中国、人型ロボ実用化へ号砲　対米競争にらみ官民総動員",
+          "t": "福岡市長はSNSで「次世代にたすきを」と発言した。",
+          "span": "ＳＮＳで「次世代にたすきを」",
           "src": [
             {
               "ty": "press",
@@ -153,71 +114,18 @@
         }
       ],
       "positions": [],
-      "consensus": "北京で開催された人型ロボット運動会において、ロボットが100メートル走で人類の記録を上回ったことが報じられている。中国政府は人型ロボット開発に注力し、実用化を目指している。",
-      "note": "プライバシー配慮のため、個別のロボット名や開発者名は記載しない。",
+      "consensus": "福岡県議会の藏内勇夫議長が議員辞職の意向を表明したこと、および福岡市長が11月の選挙に不出馬を表明したことは、複数のメディアによって報じられている事実である。記事中には、これらの出来事に対する評価や解釈、あるいは対立する立場は示されていない。",
+      "note": "記事は複数のメディアが報じる事実をまとめたものであり、特定の論点に対する評価や対立する立場は含まれていないため、positionsは空配列とした。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issueが、含まれる全ての事実を網羅するように修正された。元のissueは福岡県議会議長に限定されていたが、福岡市長に関する事実も含まれていたため、両者をカバーするよう変更した。"
+        ]
       }
     },
     {
-      "headline": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
-      "slug": "専門家関東の地下にある地震の巣で発生備え確認を",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 地震・火山"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260823de45881"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592801?source=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260823103039_0_VXSE53_270000.xml"
-        }
-      ],
-      "issue": "23日未明に発生した地震は、関東の地下にある「地震の巣」で起きたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "23日未明に茨城県南部を震源とする最大震度5弱の地震が発生した。",
-          "span": "23日未明に起きた茨城県南部を震源とする最大震度5弱の地震",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "23日19時28分頃に地震があった。",
-          "span": "２３日１９時２８分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "23日未明に茨城県南部を震源とする最大震度5弱の地震が発生した。専門家は、この地震が関東の地下にある「地震の巣」と呼ばれる地震活動が活発な領域の一つで起きたと指摘している。また、23日19時28分頃にも地震があった。",
-      "note": "気象庁の地震発生時刻（23日19時28分頃）とNHKの報道する地震（23日未明）は時刻が異なるが、同一の事象を指しているか断定できないため、別個の事実として記載する。専門家の指摘は、NHKの報道する「23日未明」の地震に対するものと解釈する。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Video: Thousands of families flee fighting in Sudan’s North Kordofan State",
-      "slug": "VideoThousandsoffamilies",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "slug": "TrumpsaysCanadawantsbene",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -226,23 +134,173 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/video-thousands-of-families-flee-fighting-in-sudans-north-kordofan-state?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/landfill-collapse-kills-30-in-guineas-capital-after-heavy-rains?traffic_source=rss"
         }
       ],
-      "issue": "世界各地で発生している災害や紛争による人道的な影響は深刻か？",
+      "issue": "米国とカナダ間の貿易交渉決裂と報復関税措置は正当化されるか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "米国とカナダの貿易交渉は決裂した。",
+          "span": "trade talks collapse",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "カナダは報復関税を発表した。",
+          "span": "announcing retaliatory tariffs",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米国とカナダの貿易交渉は決裂し、カナダは報復関税を発表したが、その原因と正当性については意見が割れている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positionsのclaimについて、メタ記述の徹底（「〜と述べた」「〜と非難した」の追加）と著作権に配慮した再記述を実施しました。"
+        ]
+      }
+    },
+    {
+      "headline": "銃後に広がる戦禍、市民犠牲に　米仲介も対ロ和平見通せず―ウクライナ侵攻４年半",
+      "slug": "銃後に広がる戦禍市民犠牲に米仲介も対ロ和平見通せ",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592836?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082300169&g=int&m=rss"
+        }
+      ],
+      "issue": "ロシアによるウクライナ侵攻の現状はどのようなものか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ゲーリーの町では、住民の3分の1が貧困状態にある。",
-          "span": "a third of residents live in poverty",
+          "t": "ロシアによるウクライナ侵攻が開始から4年半を迎えた。",
+          "span": "露のウ侵攻から4年半",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "戦争による被害が拡大している。",
+          "span": "広がる戦禍",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "市民が犠牲となっている。",
+          "span": "市民犠牲に",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "米国がロシアとの和平に向けた仲介を行っている。",
+          "span": "米仲介も",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ロシアとの和平交渉の見通しは立っていない。",
+          "span": "対ロ和平見通せず",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシアによるウクライナ侵攻は4年半が経過し、戦禍が広がり市民が犠牲になっているが、和平の見通しは立っていない。",
+      "note": "記事は主に事実の記述であり、特定の主体による評価や対立する意見は明示されていないため、positionsは空配列です。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "France links sharp rise in drownings to heatwaves",
+      "slug": "Francelinkssharpriseindr",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592842?source=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "フランスでの溺死者増加の主な原因は何か？",
+      "stasis": "原因の解釈と説明",
+      "facts": [
+        {
+          "t": "フランスで猛暑の中、溺死者が300人を超えた。",
+          "span": "溺死者が300人超える",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "フランスでは6月19日以降、301人の溺死者が確認された。",
+          "span": "301 deaths since 19 June",
           "src": [
             {
               "ty": "press",
@@ -251,66 +309,23 @@
           ]
         },
         {
-          "t": "スーダンの北コルドファン州で戦闘が発生している。",
-          "span": "fighting in Sudan’s North Kordofan State",
+          "t": "溺死者の急増は熱波と関連付けられている。",
+          "span": "links sharp rise in drownings to heatwaves",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "スーダンの北コルドファン州では、戦闘から数千家族が避難している。",
-          "span": "Thousands of families flee fighting in Sudan’s North Kordofan State",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国ネバダ州では、山火事が家屋を脅かしている。",
-          "span": "wildfire threatens homes in US state of Nevada",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ネバダ州では非常事態が宣言されている。",
-          "span": "A state of emergency is declared",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "山火事によりネバダ州で避難が促されている。",
-          "span": "wildfire spurs evacuations",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "インディアナ州での大規模停電、スーダンでの紛争による避難、ネバダ州での山火事による避難など、世界各地で複数の危機的状況が発生しており、人道的な影響が深刻であると報じられている。評価は割れる／アプリは裁定しない。",
+      "consensus": "フランスで猛暑の中、6月19日以降に300人を超える溺死者が確認されており、熱波と関連付けられている。フランス政府閣僚は、人々が水に入ることで危険を冒していると指摘している。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "事実欄への評価混入: facts[0].tの評価語「深刻な」は記者の解釈であるため、当該項目をBBC Worldの評価としてpositionsへ移動しました。",
-          "事実欄への評価混入: facts[1].tの評価語「深刻な」および「苦しんでいる」は記者の解釈であるため、当該項目をBBC Worldの評価としてpositionsへ移動しました。",
-          "事実欄への評価混入: facts[5].tの評価語「猛烈な」を削除しました。",
-          "メタ記述の徹底: positions[1].claimを「Al Jazeeraは、〜と報じている」の形式に修正し、actorを「Al Jazeera (報じる)」から「Al Jazeera」に修正しました。"
+          "stasis: テキストに対立する解釈がないため、「割れる」を削除し「原因の解釈と説明」に修正。"
         ]
       }
     }
