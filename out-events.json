@@ -1,5 +1,5 @@
 {
-  "rankedAt": "2026-08-25T05:34:58.411Z",
+  "rankedAt": "2026-08-25T06:01:43.103Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
@@ -109,36 +109,6 @@
       ]
     },
     {
-      "headline": "在留手数料、１０月から引き上げ　最大７．５万円、永住２０万円―政令決定",
-      "slug": "在留手数料月から引き上げ最大万円永住万円政令決定",
-      "time": "2026-08-25T03:06:35.000Z",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "在留手数料 大幅値上げは10月から",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592993?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "在留手数料、１０月から引き上げ　最大７．５万円、永住２０万円―政令決定",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082500332&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "「総額表示」免除特例を検討　消費税「実質ゼロ」へ議論着手―自民",
       "slug": "総額表示免除特例を検討消費税実質ゼロへ議論着手自",
       "time": "2026-08-25T03:24:00.000Z",
@@ -169,9 +139,39 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-25T05:00:00.000Z",
+      "headline": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+      "slug": "UKdronefactoriesmayfacea",
+      "time": "2026-08-25T04:06:34.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+          "snippet": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
+          "snippet": "At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti&#039;s cap",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-25T05:53:14.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -180,18 +180,76 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２５日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】２５日１４時５０分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825050049_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825055314_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２５日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】２５日１４時２９分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825020049_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825053237_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-25T05:54:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【青森県気象警報・注意報】津軽では土砂災害や低い土地の浸水に、津軽、三八上北では強風に、青森県では竜巻などの激しい突風や落雷に、津軽、下北では濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825055418_0_VPWW54_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【青森県気象警報・注意報】津軽では土砂災害や低い土地の浸水に、津軽、三八上北では強風に、青森県では竜巻などの激しい突風や落雷に、津軽、下北では濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825055418_0_VPWW53_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-25T05:35:08.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【渡島・檜山地方気象警報・注意報】渡島・檜山地方では、土砂災害や低い土地の浸水、竜巻などの激しい突風、落雷、濃霧による視程障害に注意してください。檜山地方では、強風に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825053510_0_VPWW54_017000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【渡島・檜山地方気象警報・注意報】渡島・檜山地方では、土砂災害や低い土地の浸水、竜巻などの激しい突風、落雷、濃霧による視程障害に注意してください。檜山地方では、強風に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825053510_0_VPWW53_017000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -227,96 +285,9 @@
       ]
     },
     {
-      "headline": "竜巻注意情報（目撃情報付き）",
-      "slug": "竜巻注意情報目撃情報付き",
-      "time": "2026-08-25T05:12:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "竜巻注意情報（目撃情報付き）",
-          "snippet": "【栃木県気象防災速報（竜巻注意）】栃木県北部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825051300_0_VPHW51_090000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "竜巻注意情報",
-          "snippet": "【栃木県気象防災速報（竜巻注意）】栃木県北部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825051259_0_VPHW50_090000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "竜巻注意情報（目撃情報付き）",
-      "slug": "竜巻注意情報目撃情報付き",
-      "time": "2026-08-25T05:12:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "竜巻注意情報",
-          "snippet": "【福島県気象防災速報（竜巻注意）】中通りは、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825051258_0_VPHW50_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "竜巻注意情報（目撃情報付き）",
-          "snippet": "【福島県気象防災速報（竜巻注意）】中通りは、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825051258_0_VPHW51_070000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-25T04:54:59.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【青森県気象警報・注意報】津軽では土砂災害や低い土地の浸水に、津軽、三八上北では強風に、青森県では竜巻などの激しい突風や落雷に、津軽、下北では濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825045500_0_VPWW53_020000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【青森県気象警報・注意報】津軽では土砂災害や低い土地の浸水に、津軽、三八上北では強風に、青森県では竜巻などの激しい突風や落雷に、津軽、下北では濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825045500_0_VPWW54_020000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "台風18号 沖縄の大東島地方が暴風域に 厳重警戒を",
       "slug": "台風18号沖縄の大東島地方が暴風域に厳重警戒を",
-      "time": "2026-08-25T04:29:12.000Z",
+      "time": "2026-08-25T05:58:13.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -398,6 +369,27 @@
       ]
     },
     {
+      "headline": "ウクライナ 徴兵巡る暴力なぜ増加",
+      "slug": "ウクライナ徴兵巡る暴力なぜ増加",
+      "time": "2026-08-25T04:53:39.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ウクライナ 徴兵巡る暴力なぜ増加",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592987?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "高2死亡 車に追われ暴行されたか",
       "slug": "高2死亡車に追われ暴行されたか",
       "time": "2026-08-25T04:59:23.000Z",
@@ -419,9 +411,9 @@
       ]
     },
     {
-      "headline": "東武死亡事故受け 自社CMを自粛",
-      "slug": "東武死亡事故受け自社CMを自粛",
-      "time": "2026-08-25T02:53:24.000Z",
+      "headline": "東武事故受け AC広告に差し替え",
+      "slug": "東武事故受けAC広告に差し替え",
+      "time": "2026-08-25T05:36:08.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -430,31 +422,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "東武死亡事故受け 自社CMを自粛",
+          "title": "東武事故受け AC広告に差し替え",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592988?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "田久保氏PCに偽造卒業証書データ",
-      "slug": "田久保氏PCに偽造卒業証書デタ",
-      "time": "2026-08-25T02:32:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "田久保氏PCに偽造卒業証書データ",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592982?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593008?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -476,6 +447,27 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6593003?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "調整さん 20年で日程調整4119万件",
+      "slug": "調整さん20年で日程調整4119万件",
+      "time": "2026-08-25T05:05:45.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "調整さん 20年で日程調整4119万件",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593005?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -539,6 +531,27 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082400817&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "在留手数料、１０月から引き上げ　最大７．５万円、永住２０万円―政令決定",
+      "slug": "在留手数料月から引き上げ最大万円永住万円政令決定",
+      "time": "2026-08-25T01:22:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "在留手数料、１０月から引き上げ　最大７．５万円、永住２０万円―政令決定",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082500332&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -667,27 +680,6 @@
           "link": "https://www.jiji.com/jc/article?k=2026082400865&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-25T05:32:37.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】２５日１４時２９分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825053237_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -839,21 +831,21 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-25T05:23:37.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-25T05:00:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
+        "気象庁 地震・火山"
       ],
       "count": 1,
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【胆振・日高地方大雨警報・注意報】胆振地方、日高地方では、低い土地の浸水や河川の増水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825052338_0_VPWW55_015000.xml",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２５日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825050049_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -862,7 +854,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（大雨）",
       "slug": "気象警報注意報大雨",
-      "time": "2026-08-25T04:54:45.000Z",
+      "time": "2026-08-25T05:54:08.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -874,7 +866,70 @@
           "title": "気象警報・注意報（Ｒ０６）（大雨）",
           "snippet": "【青森県大雨警報・注意報】津軽では、低い土地の浸水や河川の増水に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825045445_0_VPWW55_020000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825055408_0_VPWW55_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
+      "slug": "気象警報注意報土砂",
+      "time": "2026-08-25T05:54:08.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【青森県土砂災害警報・注意報】津軽では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825055408_0_VPWW56_020000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-25T05:42:13.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825054214_0_VPTW60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-25T05:35:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【渡島・檜山地方大雨警報・注意報】渡島地方、檜山地方では、低い土地の浸水や河川の増水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825053500_0_VPWW55_017000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -902,9 +957,9 @@
       ]
     },
     {
-      "headline": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-      "slug": "UKPMBurnhamvowssupportfo",
-      "time": "2026-08-25T01:48:24.000Z",
+      "headline": "Lockerbie bombing trial postponed days before it was due to start",
+      "slug": "Lockerbiebombingtrialpos",
+      "time": "2026-08-24T22:13:36.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -913,10 +968,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-          "snippet": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+          "title": "Lockerbie bombing trial postponed days before it was due to start",
+          "snippet": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three da",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -944,27 +999,6 @@
       ]
     },
     {
-      "headline": "NZ religious sect leader jailed over death of Chinese follower",
-      "slug": "NZreligioussectleaderjai",
-      "time": "2026-08-25T03:07:34.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "NZ religious sect leader jailed over death of Chinese follower",
-          "snippet": "The body of 70-year-old Shulai Wang was found near a marina in Auckland in 2024.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "French tourist dies in Death Valley after car gets stuck in mud",
       "slug": "FrenchtouristdiesinDeath",
       "time": "2026-08-25T02:08:57.000Z",
@@ -986,9 +1020,9 @@
       ]
     },
     {
-      "headline": "Songs created by AI banned from Australia's music charts",
-      "slug": "SongscreatedbyAIbannedfr",
-      "time": "2026-08-25T04:54:01.000Z",
+      "headline": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+      "slug": "KitHaringtonjoinsHBOsHar",
+      "time": "2026-08-24T21:58:49.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -997,10 +1031,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Songs created by AI banned from Australia's music charts",
-          "snippet": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
+          "title": "Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart",
+          "snippet": "The role marks Harington's third collaboration with HBO, after starring in the tentpole Game of Thrones and financial dr",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+      "slug": "USCanadatradewarescalate",
+      "time": "2026-08-25T02:51:53.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+          "snippet": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if t",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1043,27 +1098,6 @@
           "snippet": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "slug": "Russiassecondbiggestonli",
-      "time": "2026-08-24T10:40:22.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-          "snippet": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1190,27 +1224,6 @@
           "snippet": "The world’s largest open road bullfighting event turned deadly when a 29-year-old man was killed.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/man-killed-in-worlds-largest-annual-bullfighting-event-in-mexico?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-      "slug": "Brutalgangattackonstrate",
-      "time": "2026-08-25T01:46:26.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Brutal gang attack on strategic Haiti hillside leaves at least 30 dead",
-          "snippet": "At least 30 people have been killed in a gang attack on a hillside community that overlooks routes into Haiti&#039;s cap",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/brutal-gang-attack-on-strategic-haiti-hillside-leaves-at-least-30-dead?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
