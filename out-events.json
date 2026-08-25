@@ -1,22 +1,76 @@
 {
-  "rankedAt": "2026-08-25T09:20:26.338Z",
+  "rankedAt": "2026-08-25T10:00:20.805Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "【震度速報】 北海道で震度3",
-      "slug": "震度速報北海道で震度3",
-      "time": "2026-08-25T09:12:00.000Z",
+      "headline": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近 厳重警戒を",
+      "slug": "台風18号鹿児島奄美地方や沖縄本島地方に接近厳重",
+      "time": "2026-08-25T09:48:27.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 5,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近 厳重警戒を",
+          "snippet": "強い台風18号は鹿児島県の奄美地方や沖縄本島に近づいていて、26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあります。\n\n気象庁は暴風や高波に厳重に警戒し、大雨による土砂災害などにも警戒…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260824de46074",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "西日本では39度超 危険な暑さに 北海道では大雨",
+          "snippet": "25日は東北から九州で危険な暑さとなり、西日本では39度を超えています。熱中症対策を徹底してください。また、前線などの影響で北海道では大雨になっていて、気象庁は低い土地の浸水などに警戒するよう呼びかけ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260824de46075",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【鹿児島県（奄美地方を除く）気象警報・注意報】種子島・屋久島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825092502_0_VPWW54_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【鹿児島県（奄美地方を除く）気象警報・注意報】種子島・屋久島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825092502_0_VPWW53_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【鹿児島県（奄美地方を除く）雷注意報】薩摩、大隅、種子島・屋久島地方では、急な強い雨や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825092453_0_VPWW61_460100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "【地震情報】 北海道で震度3 津波の心配なし",
+      "slug": "地震情報北海道で震度3津波の心配なし",
+      "time": "2026-08-25T09:49:54.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 地震・火山"
       ],
-      "count": 4,
+      "count": 3,
       "hasPrimary": true,
       "members": [
         {
-          "title": "【震度速報】 北海道で震度3",
-          "snippet": "25日午後6時7分ごろ地震がありました。\n現在、震度3以上が観測されている地域は以下のとおりです。\n▼震度3が、釧路地方中南部、根室地方北部、根室地方中部、根室地方南部。\n今後の情報に注意してください…",
+          "title": "【地震情報】 北海道で震度3 津波の心配なし",
+          "snippet": "25日、午後6時7分ごろ、北海道で震度3の揺れを観測する地震がありました。\n\nこの地震による津波の心配はありません。",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260825de46272",
           "ty": "press",
@@ -31,58 +85,12 @@
           "linkKind": "data"
         },
         {
-          "title": "震源に関する情報",
-          "snippet": "【震源に関する情報】きょう２５日１８時０７分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825091021_0_VXSE52_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "震度速報",
           "snippet": "【震度速報】２５日１８時０７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260825090905_0_VXSE51_010000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "「刀剣乱舞」ファン、酒蔵救う　ＳＮＳで困窮投稿、注文殺到―熊本地震",
-      "slug": "刀剣乱舞ファン酒蔵救うで困窮投稿注文殺到熊本地震",
-      "time": "2026-08-25T07:39:53.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "熊本地震 激甚災害対象追加見込み 災害公営住宅建設など支援へ",
-          "snippet": "熊本地震について、政府は、復旧にかかる費用を支援する「激甚災害」の対象事業に、災害公営住宅の建設や感染症予防も加える見通しになったことを明らかにしました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46206",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "千葉豪雨 千葉市長が激甚災害早期指定含め財政負担軽減を要請",
-          "snippet": "記録的な豪雨で被害を受けた千葉市の神谷市長は赤間防災担当大臣に対し、激甚災害の早期指定を含め、市の財政負担の軽減などを求めました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46204",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "「刀剣乱舞」ファン、酒蔵救う　ＳＮＳで困窮投稿、注文殺到―熊本地震",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082500109&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
@@ -147,36 +155,6 @@
       ]
     },
     {
-      "headline": "西日本では39度超 危険な暑さに 北海道では大雨",
-      "slug": "西日本では39度超危険な暑さに北海道では大雨",
-      "time": "2026-08-25T09:01:43.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "西日本では39度超 危険な暑さに 北海道では大雨",
-          "snippet": "25日は東北から九州で危険な暑さとなり、西日本では39度を超えています。熱中症対策を徹底してください。また、前線などの影響で北海道では大雨になっていて、気象庁は低い土地の浸水などに警戒するよう呼びかけ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260824de46075",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【青森県気象警報・注意報】津軽では、低い土地の浸水に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825090145_0_VPWW53_020000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "French tourist dies in Death Valley after car gets stuck in mud",
       "slug": "FrenchtouristdiesinDeath",
       "time": "2026-08-25T07:50:26.000Z",
@@ -209,52 +187,7 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-25T09:11:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 4,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【神奈川県気象警報・注意報】神奈川県では、強風や高波、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825091130_0_VPWW53_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【神奈川県気象警報・注意報】神奈川県では、強風や高波、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825091130_0_VPWW54_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【神奈川県気象警報・注意報】神奈川県では、強風や高波、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825090650_0_VPWW54_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【神奈川県気象警報・注意報】神奈川県では、強風や高波、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825090650_0_VPWW53_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-25T09:02:13.000Z",
+      "time": "2026-08-25T09:41:09.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -264,17 +197,46 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【石狩・空知・後志地方気象警報・注意報】注意報を解除します。",
+          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825090214_0_VPWW53_016000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825094109_0_VPWW53_472000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【石狩・空知・後志地方気象警報・注意報】注意報を解除します。",
+          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825090214_0_VPWW54_016000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825094109_0_VPWW54_472000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-25T09:21:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮崎県気象警報・注意報】宮崎県では、高波や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825092112_0_VPWW53_450000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮崎県気象警報・注意報】宮崎県では、高波や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825092112_0_VPWW54_450000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -310,59 +272,9 @@
       ]
     },
     {
-      "headline": "Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks",
-      "slug": "AngelReesebreaksWNBAreco",
-      "time": "2026-08-25T08:10:10.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Global ocean temperatures hit record high as El Nino intensifies",
-          "snippet": "Copernicus warns of &#039;unprecedented strain&#039; on world&#039;s oceans as El Nino and climate change drive up sea t",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Angel Reese breaks WNBA record with 26 rebounds in Dream’s win over Sparks",
-          "snippet": "Reese broke Chamique Holdsclaw&#039;s record of 24 rebounds and added 11 points for her 27th double-double of the season",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/25/angel-reese-breaks-wnba-record-with-26-rebounds-in-dreams-win-over-sparks?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近へ 厳重警戒を",
-      "slug": "台風18号鹿児島奄美地方や沖縄本島地方に接近へ厳",
-      "time": "2026-08-25T08:30:51.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近へ 厳重警戒を",
-          "snippet": "強い台風18号はこのあと鹿児島県の奄美地方や沖縄本島地方に近づく見込みで、26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあります。\n\n気象庁は暴風や高波に厳重に警戒するよう呼びかけてい…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260824de46074",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差",
       "slug": "比較動画クマ撃退スプレ市販製品の性能に大きな差",
-      "time": "2026-08-25T08:16:56.000Z",
+      "time": "2026-08-25T09:47:55.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -381,9 +293,9 @@
       ]
     },
     {
-      "headline": "福岡県議会 藏内議長の議員辞職願を許可 きょう付けの辞職決定",
-      "slug": "福岡県議会藏内議長の議員辞職願を許可きょう付けの",
-      "time": "2026-08-25T07:58:33.000Z",
+      "headline": "熊本 宇城 ラグビー五郎丸さんが子どもと交流【被災地の動き】",
+      "slug": "熊本宇城ラグビ五郎丸さんが子どもと交流被災地の動",
+      "time": "2026-08-25T09:54:31.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -392,10 +304,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "福岡県議会 藏内議長の議員辞職願を許可 きょう付けの辞職決定",
-          "snippet": "福岡県議会の一連の対応に批判が強まる中で藏内勇夫議長が提出した議員辞職願が許可され、25日をもって議員辞職することが正式に決まりました。",
+          "title": "熊本 宇城 ラグビー五郎丸さんが子どもと交流【被災地の動き】",
+          "snippet": "先月の地震で大きな被害を受けた熊本県宇城市では、ラグビーの五郎丸歩さんら日本を代表するアスリートたちが地元の子どもたちと交流しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46168",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46129",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "文科省 来年度予算案の概算要求で過去最大の8兆8000億円",
+      "slug": "文科省来年度予算案の概算要求で過去最大の8兆80",
+      "time": "2026-08-25T09:36:18.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "文科省 来年度予算案の概算要求で過去最大の8兆8000億円",
+          "snippet": "文部科学省は、過去最大となるおよそ8兆8000億円を計上した来年度予算案の概算要求をまとめ、自民党の部会で了承されました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46241",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "神奈川 船舶衝突事故 「花火見に行く途中」 海保が詳しく捜査",
+      "slug": "神奈川船舶衝突事故花火見に行く途中海保が詳しく捜",
+      "time": "2026-08-25T09:26:41.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "神奈川 船舶衝突事故 「花火見に行く途中」 海保が詳しく捜査",
+          "snippet": "24日夜、羽田空港近くの沖合で横浜の花火大会を見に行く途中のプレジャーボートが護岸に衝突して9人がけがをした事故で、海上保安署は業務上過失傷害などの疑いで捜査を進めています。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46260",
           "ty": "press",
           "linkKind": "article"
         }
@@ -423,9 +377,9 @@
       ]
     },
     {
-      "headline": "政府のアニメ支援 現場に届かぬ訳",
-      "slug": "政府のアニメ支援現場に届かぬ訳",
-      "time": "2026-08-25T05:21:29.000Z",
+      "headline": "コメ価格暴落 備蓄米放出が要因か",
+      "slug": "コメ価格暴落備蓄米放出が要因か",
+      "time": "2026-08-25T09:26:49.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -434,10 +388,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "政府のアニメ支援 現場に届かぬ訳",
+          "title": "コメ価格暴落 備蓄米放出が要因か",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592997?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593046?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "小泉防衛相 保守層の評価なぜ反転",
+      "slug": "小泉防衛相保守層の評価なぜ反転",
+      "time": "2026-08-25T09:41:02.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "小泉防衛相 保守層の評価なぜ反転",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593044?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "高校生死亡した祭り 2年前も事故",
+      "slug": "高校生死亡した祭り2年前も事故",
+      "time": "2026-08-25T09:48:27.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "高校生死亡した祭り 2年前も事故",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593049?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -459,48 +455,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6593039?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "モス スーパーなどで冷食販売へ",
-      "slug": "モススパなどで冷食販売へ",
-      "time": "2026-08-25T08:33:42.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "モス スーパーなどで冷食販売へ",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593030?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "スイカジュース 日本で人気の背景",
-      "slug": "スイカジュス日本で人気の背景",
-      "time": "2026-08-25T09:06:44.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "スイカジュース 日本で人気の背景",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593043?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -543,6 +497,27 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082500407&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「刀剣乱舞」ファン、酒蔵救う　ＳＮＳで困窮投稿、注文殺到―熊本地震",
+      "slug": "刀剣乱舞ファン酒蔵救うで困窮投稿注文殺到熊本地震",
+      "time": "2026-08-25T05:31:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「刀剣乱舞」ファン、酒蔵救う　ＳＮＳで困窮投稿、注文殺到―熊本地震",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082500109&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -671,6 +646,27 @@
           "link": "https://www.jiji.com/jc/article?k=2026082500588&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "震源に関する情報",
+      "slug": "震源に関する情報",
+      "time": "2026-08-25T09:10:21.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう２５日１８時０７分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825091021_0_VXSE52_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -822,9 +818,51 @@
       ]
     },
     {
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-25T09:43:51.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825094352_0_VPTW60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
+      "slug": "気象警報注意報暴風",
+      "time": "2026-08-25T09:40:33.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（暴風）",
+          "snippet": "【大東島地方暴風（雪）警報・注意報】大東島地方では、強風に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825094034_0_VPWW58_472000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象警報・注意報（Ｒ０６）（波浪）",
       "slug": "気象警報注意報波浪",
-      "time": "2026-08-25T09:06:38.000Z",
+      "time": "2026-08-25T09:40:33.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -834,51 +872,9 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（波浪）",
-          "snippet": "【神奈川県波浪警報・注意報】神奈川県では、高波に注意してください。",
+          "snippet": "【大東島地方波浪警報・注意報】大東島地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825090638_0_VPWW59_140000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-25T09:02:03.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【石狩・空知・後志地方大雨警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825090203_0_VPWW55_016000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-08-25T09:02:03.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【石狩・空知・後志地方土砂災害警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825090203_0_VPWW56_016000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825094034_0_VPWW59_472000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1074,6 +1070,48 @@
       ]
     },
     {
+      "headline": "Who are Iran’s top trading partners US would need to target to isolate it?",
+      "slug": "WhoareIranstoptradingpar",
+      "time": "2026-08-25T09:23:05.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
+          "snippet": "The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+      "slug": "EnoughisenoughKenyanurse",
+      "time": "2026-08-25T09:05:54.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+          "snippet": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Nvidia, Supermicro employees charged over export of AI servers to China",
       "slug": "NvidiaSupermicroemployee",
       "time": "2026-08-25T08:51:48.000Z",
@@ -1116,6 +1154,27 @@
       ]
     },
     {
+      "headline": "Global ocean temperatures hit record high as El Nino intensifies",
+      "slug": "Globaloceantemperaturesh",
+      "time": "2026-08-25T08:10:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Global ocean temperatures hit record high as El Nino intensifies",
+          "snippet": "Copernicus warns of &#039;unprecedented strain&#039; on world&#039;s oceans as El Nino and climate change drive up sea t",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/25/global-ocean-temperatures-hit-record-high-as-el-nino-intensifies?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Federer to play tennis at US Open but rules out Williams-like return",
       "slug": "FederertoplaytennisatUSO",
       "time": "2026-08-25T07:45:34.000Z",
@@ -1152,27 +1211,6 @@
           "snippet": "Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win",
-      "slug": "FulhamvsChelseaAlonsosta",
-      "time": "2026-08-25T06:32:43.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Fulham vs Chelsea: Alonso starts new era with thrilling 3–2 win",
-          "snippet": "Joao Pedro, Morgan Rogers and Cole Palmer on target as Chelsea open scoring within 31 seconds of the match in London.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/25/fulham-vs-chelsea-alonso-starts-new-era-with-thrilling-3-2?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
