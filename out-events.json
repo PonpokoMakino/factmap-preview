@@ -1,20 +1,36 @@
 {
-  "rankedAt": "2026-08-25T12:17:27.400Z",
+  "rankedAt": "2026-08-25T13:16:18.296Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "南太平洋 バヌアツ諸島で大規模噴火 日本への津波の有無調査",
-      "slug": "南太平洋バヌアツ諸島で大規模噴火日本への津波の有",
-      "time": "2026-08-25T12:03:00.000Z",
+      "headline": "台風18号 鹿児島 奄美地方や沖縄本島地方に最接近 厳重警戒を",
+      "slug": "台風18号鹿児島奄美地方や沖縄本島地方に最接近厳",
+      "time": "2026-08-25T13:09:30.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "気象庁 地震・火山"
       ],
-      "count": 10,
+      "count": 12,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "台風18号 鹿児島 奄美地方や沖縄本島地方に最接近 厳重警戒を",
+          "snippet": "強い台風18号は鹿児島県の奄美地方や沖縄本島に最も近づき、奄美地方では屋外での行動が極めて危険になるほどの風が吹いています。\n\n26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあり、気象…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260824de46074",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "鹿児島 奄美地方に線状降水帯発生のおそれ 直前予測を発表",
+          "snippet": "気象庁は鹿児島県の奄美地方では、今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午後9時18分、「線状降水帯直前予測」の気象防災速報を発表しました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46317",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "南太平洋 バヌアツ諸島で大規模噴火 日本への津波の有無調査",
           "snippet": "25日午後6時40分ごろ南太平洋のバヌアツ諸島の火山で大規模な噴火が発生しました。\n\n気象庁は噴火による津波の有無や日本への影響を調べています。",
@@ -24,10 +40,10 @@
           "linkKind": "article"
         },
         {
-          "title": "南太平洋で地震 日本への津波調査",
+          "title": "バヌアツで噴火 気象庁が津波調査",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593062?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593068?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -92,52 +108,6 @@
           "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、２５日２１時から２４時までは火口から西方向、２６日０９時から１２時までは火口から北西方向に降灰が予想されま",
           "source": "気象庁 地震・火山",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260825110049_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近 厳重警戒を",
-      "slug": "台風18号鹿児島奄美地方や沖縄本島地方に接近厳重",
-      "time": "2026-08-25T12:13:22.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 4,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近 厳重警戒を",
-          "snippet": "強い台風18号は鹿児島県の奄美地方や沖縄本島に近づき風が急激に強まっています。\n\n26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあり、気象庁は暴風や高波に厳重に警戒し、大雨による土砂災…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260824de46074",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、暴風や高波に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825121323_0_VPWW54_471000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、暴風や高波に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825121323_0_VPWW53_471000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（暴風）",
-          "snippet": "【沖縄本島地方暴風（雪）警報・注意報】沖縄本島地方では、暴風に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825121312_0_VPWW58_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -242,8 +212,8 @@
       ]
     },
     {
-      "headline": "China warns it will safeguard its interests after US widens sanctions against Iran",
-      "slug": "Chinawarnsitwillsafeguar",
+      "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "slug": "Chinahitsoutatillegalnew",
       "time": "2026-08-25T11:53:36.000Z",
       "independentSources": 2,
       "sources": [
@@ -254,7 +224,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+          "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
           "snippet": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijin",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
@@ -283,27 +253,56 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "超党派議連、政府対応「段違いに弱い」　ＩＣＣ制裁で非難声明",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082400865&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
           "title": "ＩＣＣ制裁「日本の立場と相いれず」　高市首相「弱腰」批判に反論",
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082500775&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
+        },
+        {
+          "title": "超党派議連、政府対応「段違いに弱い」　ＩＣＣ制裁で非難声明",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082400865&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-08-25T13:13:37.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【釧路・根室地方気象警報・注意報】釧路・根室地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131338_0_VPWW54_014100.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【釧路・根室地方気象警報・注意報】釧路・根室地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131338_0_VPWW53_014100.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-25T12:14:20.000Z",
+      "time": "2026-08-25T13:12:10.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -313,17 +312,17 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【福島県気象警報・注意報】会津では、落雷に注意してください。",
+          "snippet": "【十勝地方気象警報・注意報】十勝地方では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825121421_0_VPWW53_070000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131211_0_VPWW53_014030.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福島県気象警報・注意報】会津では、落雷に注意してください。",
+          "snippet": "【十勝地方気象警報・注意報】十勝地方では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825121421_0_VPWW54_070000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131211_0_VPWW54_014030.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -332,7 +331,7 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-08-25T12:14:18.000Z",
+      "time": "2026-08-25T13:11:11.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -342,17 +341,17 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮城県気象警報・注意報】注意報を解除します。",
+          "snippet": "【胆振・日高地方気象警報・注意報】胆振・日高地方では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825121420_0_VPWW53_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131112_0_VPWW53_015000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮城県気象警報・注意報】注意報を解除します。",
+          "snippet": "【胆振・日高地方気象警報・注意報】胆振・日高地方では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825121420_0_VPWW54_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131112_0_VPWW54_015000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -361,7 +360,7 @@
     {
       "headline": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
       "slug": "WhyRohingyarefugeesarepr",
-      "time": "2026-08-25T11:46:13.000Z",
+      "time": "2026-08-25T12:15:19.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -370,18 +369,18 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
-          "snippet": "Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.",
+          "title": "Rohingya refugees demand justice, dignity at Cox’s Bazar protest",
+          "snippet": "The United Council of Rohingya refugee group says it organised the protest to highlight &#039;ongoing humanitarian crisi",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/25/rohingya-refugees-demand-justice-dignity-at-coxs-bazar-protest?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "What would justice look like if there were no Rohingya left in Myanmar?",
-          "snippet": "Nine years after the 2017 atrocities, Rohingya are still being forced to flee because the genocide has never stopped.",
+          "title": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
+          "snippet": "Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -430,27 +429,6 @@
       ]
     },
     {
-      "headline": "熊本 宇城 ラグビー五郎丸さんが子どもと交流【被災地の動き】",
-      "slug": "熊本宇城ラグビ五郎丸さんが子どもと交流被災地の動",
-      "time": "2026-08-25T09:54:31.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "熊本 宇城 ラグビー五郎丸さんが子どもと交流【被災地の動き】",
-          "snippet": "先月の地震で大きな被害を受けた熊本県宇城市では、ラグビーの五郎丸歩さんら日本を代表するアスリートたちが地元の子どもたちと交流しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46129",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差",
       "slug": "比較動画クマ撃退スプレ市販製品の性能に大きな差",
       "time": "2026-08-25T10:31:55.000Z",
@@ -493,9 +471,9 @@
       ]
     },
     {
-      "headline": "蔵内氏 金銭授受疑惑は重ねて否定",
-      "slug": "蔵内氏金銭授受疑惑は重ねて否定",
-      "time": "2026-08-25T09:46:56.000Z",
+      "headline": "AI事業者へ知財保護指針 政府決定",
+      "slug": "AI事業者へ知財保護指針政府決定",
+      "time": "2026-08-25T11:13:01.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -504,52 +482,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "蔵内氏 金銭授受疑惑は重ねて否定",
+          "title": "AI事業者へ知財保護指針 政府決定",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593048?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "宅配業者に暴言 カスハラ被害深刻",
-      "slug": "宅配業者に暴言カスハラ被害深刻",
-      "time": "2026-08-25T08:18:12.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "宅配業者に暴言 カスハラ被害深刻",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593033?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「がんこ」創業 小嶋淳司さん死去",
-      "slug": "がんこ創業小嶋淳司さん死去",
-      "time": "2026-08-25T11:30:25.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「がんこ」創業 小嶋淳司さん死去",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593057?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593055?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -577,9 +513,9 @@
       ]
     },
     {
-      "headline": "正岡子規 新出句が2句見つかる",
-      "slug": "正岡子規新出句が2句見つかる",
-      "time": "2026-08-25T11:34:18.000Z",
+      "headline": "パン39kg点々と投棄 環境相が非難",
+      "slug": "パン39kg点と投棄環境相が非難",
+      "time": "2026-08-25T12:45:36.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -588,10 +524,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "正岡子規 新出句が2句見つかる",
+          "title": "パン39kg点々と投棄 環境相が非難",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593058?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593064?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "10万匹に1匹?青いアマガエル展示",
+      "slug": "10万匹に1匹青いアマガエル展示",
+      "time": "2026-08-25T12:08:02.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "10万匹に1匹?青いアマガエル展示",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593061?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -619,42 +576,21 @@
       ]
     },
     {
-      "headline": "３党合流、中・立に先送り論　公明から「議員引き揚げ」の声",
-      "slug": "党合流中立に先送り論公明から議員引き揚げの声",
-      "time": "2026-08-25T10:01:00.000Z",
+      "headline": "キンタローが特殊メイク 会場爆笑",
+      "slug": "キンタロが特殊メイク会場爆笑",
+      "time": "2026-08-25T03:53:24.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "３党合流、中・立に先送り論　公明から「議員引き揚げ」の声",
+          "title": "キンタローが特殊メイク 会場爆笑",
           "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082500918&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "４２７万台超を一斉リコール　米テスラなど９社、過去最大級―中国",
-      "slug": "万台超を一斉リコル米テスラなど社過去最大級中国",
-      "time": "2026-08-24T08:38:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "４２７万台超を一斉リコール　米テスラなど９社、過去最大級―中国",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082400730&g=int&m=rss",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6592998?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -682,9 +618,9 @@
       ]
     },
     {
-      "headline": "「偽造卒業証書」データ押収　田久保被告宅のパソコンから―静岡県警",
-      "slug": "偽造卒業証書デタ押収田久保被告宅のパソコンから静",
-      "time": "2026-08-25T02:14:00.000Z",
+      "headline": "３党合流、中・立に先送り論　公明から「議員引き揚げ」の声",
+      "slug": "党合流中立に先送り論公明から議員引き揚げの声",
+      "time": "2026-08-25T10:01:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -693,19 +629,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "「偽造卒業証書」データ押収　田久保被告宅のパソコンから―静岡県警",
+          "title": "３党合流、中・立に先送り論　公明から「議員引き揚げ」の声",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082500407&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082500918&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "金銭疑惑、「身に覚えない」主張も外堀埋まる　追い込まれた県議会の「ドン」―福岡",
-      "slug": "金銭疑惑身に覚えない主張も外堀埋まる追い込まれた",
-      "time": "2026-08-24T22:40:00.000Z",
+      "headline": "対中圧力、踏み込み欠く　米制裁、具体策不明",
+      "slug": "対中圧力踏み込み欠く米制裁具体策不明",
+      "time": "2026-08-25T11:31:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -714,10 +650,52 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "金銭疑惑、「身に覚えない」主張も外堀埋まる　追い込まれた県議会の「ドン」―福岡",
+          "title": "対中圧力、踏み込み欠く　米制裁、具体策不明",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082400817&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082500603&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "防衛装備庁、テラドローンと量産契約",
+      "slug": "防衛装備庁テラドロンと量産契約",
+      "time": "2026-08-25T11:28:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "防衛装備庁、テラドローンと量産契約",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082500977&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「ポケットに手」で話題の中国前アジア局長、豪大使に着任「豪との間には歴史的な恨みなし」",
+      "slug": "ポケットに手で話題の中国前アジア局長豪大使に着任",
+      "time": "2026-08-25T08:26:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「ポケットに手」で話題の中国前アジア局長、豪大使に着任「豪との間には歴史的な恨みなし」",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=20260825049267a&g=afp&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -789,7 +767,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-25T12:14:14.000Z",
+      "time": "2026-08-25T13:13:29.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -799,9 +777,9 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【福島県雷注意報】会津では、急な強い雨や落雷に注意してください。",
+          "snippet": "【釧路・根室地方雷・濃霧注意報】根室、釧路地方では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825121415_0_VPWW61_070000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131330_0_VPWW61_014100.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -810,7 +788,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-25T12:14:11.000Z",
+      "time": "2026-08-25T13:12:09.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -820,18 +798,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【宮城県雷注意報】注意報を解除します。",
+          "snippet": "【十勝地方雷・濃霧注意報】十勝地方では、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825121412_0_VPWW61_040000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131210_0_VPWW61_014030.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-25T12:07:01.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
+      "slug": "気象警報注意報暴風",
+      "time": "2026-08-25T13:10:32.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -840,10 +818,31 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山梨県気象警報・注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｒ０６）（暴風）",
+          "snippet": "【胆振・日高地方暴風（雪）警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825120702_0_VPWW54_190000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131032_0_VPWW58_015000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-25T13:10:32.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【胆振・日高地方雷・濃霧注意報】胆振、日高地方では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825131032_0_VPWW61_015000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -976,6 +975,69 @@
       ]
     },
     {
+      "headline": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
+      "slug": "UKtobackUkrainewithmissi",
+      "time": "2026-08-25T12:30:45.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
+          "snippet": "UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "How water becomes a weapon of war",
+      "slug": "Howwaterbecomesaweaponof",
+      "time": "2026-08-25T12:20:37.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "How water becomes a weapon of war",
+          "snippet": "A Palestinian spring now fills a swimming pool that belongs to Israeli settlers. AJLabs on how water became a weapon.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Rwanda accuses DR Congo of supporting an armed group on its soil",
+      "slug": "RwandaaccusesDRCongoofsu",
+      "time": "2026-08-25T12:17:56.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Rwanda accuses DR Congo of supporting an armed group on its soil",
+          "snippet": "Rwanda says FDLR threat justifies its continued involvement in eastern DRC, as efforts to verify a ceasefire advance.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/25/rwanda-accuses-dr-congo-of-supporting-an-armed-group-on-its-soil?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Russia mobilisation fears grow amid reports of intimidating tactics",
       "slug": "Russiamobilisationfearsg",
       "time": "2026-08-25T11:53:03.000Z",
@@ -1033,69 +1095,6 @@
           "snippet": "CERD says India must tackle hate crimes against Bengali-speaking Muslims and increase protections for other groups.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/25/india-faces-criticism-from-un-discrimination-watchdog?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Is AIPAC’s political standing declining in the US?",
-      "slug": "IsAIPACspoliticalstandin",
-      "time": "2026-08-25T10:55:43.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Is AIPAC’s political standing declining in the US?",
-          "snippet": "The powerful pro-Israeli lobby group is increasingly becoming liability for both the progressive and the right wing.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/25/is-aipacs-political-standing-declining-in-the-us?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-      "slug": "CanPakistansAsimMunircon",
-      "time": "2026-08-25T10:22:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
-          "snippet": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
-      "slug": "PalestinianartistSlimanM",
-      "time": "2026-08-25T10:11:46.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Palestinian artist Sliman Mansour, giant of resistance art, dies aged 79",
-          "snippet": "Sliman Mansour&#039;s art captured the essence of Palestine, blending ancient traditions with modern themes of resistanc",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/gallery/2026/8/25/palestinian-artist-sliman-mansour-giant-of-resistance-art-dies-aged-79?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
