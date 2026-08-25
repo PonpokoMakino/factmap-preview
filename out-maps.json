@@ -1,14 +1,140 @@
 {
-  "builtAt": "2026-08-24T22:40:13.655Z",
+  "builtAt": "2026-08-25T08:40:09.314Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風18号 沖縄の大東島地方が暴風域に 暴風や高波に厳重警戒",
-      "slug": "台風18号沖縄の大東島地方が暴風域に暴風や高波に",
+      "headline": "French tourist dies in Death Valley after car gets stuck in mud",
+      "slug": "FrenchtouristdiesinDeath",
       "independentSources": 3,
       "sources": [
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082500582&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/thai-vendor-confronts-israeli-tourists-raises-palestinian-flag?traffic_source=rss"
+        }
+      ],
+      "issue": "デスバレーで仏人観光客が死亡した原因は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "デスバレーで仏人観光客が死亡した。",
+          "span": "デスバレーで仏人観光客死亡",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "死亡した観光客は68歳の男性である。",
+          "span": "The 68-year-old man",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "死亡現場はカリフォルニアのソルトフラッツ（塩湖）である。",
+          "span": "California's salt flats",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "死亡時の気温は約47度（摂氏）であった。",
+          "span": "気温４７度",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "死亡時の気温は約116度（華氏）であった。",
+          "span": "116°F (46.6C) heat",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "観光客の車が泥にはまって立ち往生した。",
+          "span": "車で立ち往生",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "観光客の車が泥にはまって立ち往生した。",
+          "span": "car gets stuck in mud",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "タイの店主がイスラエル人観光客に近づき、パレスチナ国旗を振った。",
+          "span": "Thai vendor confronts Israeli tourists, raises Palestinian flag",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "この出来事はプーケット島の店主の店の外で起こった。",
+          "span": "outside his shop on the island of Phuket",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "デスバレーで仏人観光客が死亡し、車が泥にはまって立ち往生した。気温は約47度（摂氏）であった。タイの店主がイスラエル人観光客に近づき、パレスチナ国旗を振った。",
+      "note": "複数の独立した出来事が含まれているため、単一のissueとpositionsにはまとめられない。各出来事を個別のfactとして抽出した。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: \"評価は割れる\" という記述は元テキストに存在しないため削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近へ 厳重警戒を",
+      "slug": "台風18号鹿児島奄美地方や沖縄本島地方に接近へ厳",
+      "independentSources": 2,
+      "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
       "links": [
@@ -17,24 +143,40 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260824de46074"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592951?source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825083920_0_VPWW54_460040.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824222929_0_VPWW54_460040.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825083920_0_VPWW53_460040.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260824222929_0_VPWW53_460040.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825083916_0_VPWW56_460040.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825081920_0_VPFJ51_460040.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825081920_0_VPFJ50_460040.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825081835_0_VPZJ51_010000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825081836_0_VPZJ50_010000.xml"
         }
       ],
-      "issue": "台風18号の状況と警戒情報は何か？",
+      "issue": "台風18号は奄美地方や沖縄本島地方に接近・上陸するか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "非常に強い台風18号が沖縄の大東島地方を暴風域に巻き込みながら西寄りに進んでいる。",
-          "span": "沖縄の大東島地方を暴風域に巻き込みながら西寄りに進んでいます",
+          "t": "強い台風18号が鹿児島県の奄美地方や沖縄本島地方に接近する見込みである。",
+          "span": "強い台風18号はこのあと鹿児島県の奄美地方や沖縄本島地方に近づく見込みで",
           "src": [
             {
               "ty": "press",
@@ -43,8 +185,8 @@
           ]
         },
         {
-          "t": "沖縄・奄美では、26日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがある。",
-          "span": "一部の住宅が倒壊するような猛烈な風が吹くおそれがあり",
+          "t": "奄美地方では、一部の住宅が倒壊するような猛烈な風が吹くおそれがある。",
+          "span": "一部の住宅が倒壊するような猛烈な風が吹くおそれがあります",
           "src": [
             {
               "ty": "press",
@@ -53,8 +195,8 @@
           ]
         },
         {
-          "t": "気象庁は暴風や高波に厳重に警戒するよう呼びかけている。",
-          "span": "暴風や高波に厳重に警戒す",
+          "t": "気象庁は暴風や高波に厳重な警戒を呼びかけている。",
+          "span": "気象庁は暴風や高波に厳重に警戒するよう呼びかけてい",
           "src": [
             {
               "ty": "press",
@@ -63,8 +205,111 @@
           ]
         },
         {
-          "t": "台風18号は26日にかけて沖縄などに接近する。",
-          "span": "26日にかけ沖縄など接近",
+          "t": "奄美地方では暴風や高波に警戒が必要である。",
+          "span": "奄美地方では、暴風や高波に警戒してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "奄美地方では土砂災害に注意が必要である。",
+          "span": "奄美地方では、土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "奄美地方では、26日明け方にかけてうねりを伴った高波や暴風に厳重に警戒する必要がある。",
+          "span": "奄美地方では、２６日明け方にかけてうねりを伴った高波や暴風に",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "奄美地方では、26日朝から26日昼前にかけて土砂災害に厳重に警戒する必要がある。",
+          "span": "２６日朝から２６日昼前にかけて土砂災害に厳重に警戒してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "台風の進路によっては警報級の高潮となる可能性がある。",
+          "span": "台風の進路等によっては警報級の高潮となる可能性があります",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "台風第18号は、25日夜遅くから26日未明にかけて、強い勢力で奄美地方と沖縄本島地方にかなり接近する見込みである。",
+          "span": "台風第１８号は、２５日夜遅くから２６日未明にかけて、強い勢力で奄美地方と沖縄本島地方にかなり接近する見込みです",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "奄美地方と沖縄地方では、26日にかけて、暴風やうねりを伴う高波に厳重に警戒する必要がある。",
+          "span": "奄美地方と沖縄地方では、２６日にかけて、暴風やうねりを伴う高波に厳重に警戒してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風18号は奄美地方や沖縄本島地方に接近する見込みで、暴風や高波、土砂災害に厳重な警戒が必要です。",
+      "note": "プライバシー配慮のため、個別の被害状況や個人名は記載していません。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: \"評価は割れます。\" は元テキストに根拠がなく、事実の要約として不適切だったため削除しました。",
+          "note: \"プライバシー配慮のため、個別の被害状況や個人名は記載していません。\" は元テキストに根拠がなく、抽出エンジンの推測による付加情報だったため削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "新「マイナアプリ」提供開始　本人認証機能を追加―デジタル庁",
+      "slug": "新マイナアプリ提供開始本人認証機能を追加デジタル",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593017?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082500736&g=pol&m=rss"
+        }
+      ],
+      "issue": "新しいマイナアプリの提供は、本人認証機能の追加によって利便性が向上するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "新しいマイナアプリの提供が開始された。",
+          "span": "新「マイナアプリ」提供スタート",
           "src": [
             {
               "ty": "press",
@@ -73,242 +318,104 @@
           ]
         },
         {
-          "t": "奄美地方（鹿児島県）では、暴風や高波に警戒するよう呼びかけられている。",
-          "span": "暴風や高波に警戒してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風18号は沖縄の大東島地方を暴風域に巻き込みながら西寄りに進んでおり、沖縄・奄美では26日にかけて猛烈な風や高波に厳重な警戒が必要である。本件に関する評価の対立はない。",
-      "note": "本記事は事実の報道であり、評価や意見の対立は存在しない事実合意型である。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-      "slug": "Iranfacesgreatestfinanci",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46098"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082500075&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "アメリカはイランとの取引がある企業や個人などに対し、どのような経済制裁を科す方針を表明したか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "アメリカのベッセント財務長官が、イランと取り引きのある企業や個人などに対し、大規模な経済制裁を科す措置を開始したと発表した。",
-          "span": "大規模な経済制裁を科す措置を開始したと発表しました",
+          "t": "新しいマイナアプリの提供が開始された。",
+          "span": "新「マイナアプリ」提供開始",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "新しいマイナアプリには本人認証機能が追加されている。",
+          "span": "本人認証機能を追加",
+          "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "アメリカのベッセント財務長官が、イランと取り引きのある企業や個人などに対し、大規模な経済制裁を科す措置を開始したと発表した。",
-      "note": null,
+      "consensus": "新しいマイナアプリの提供が開始され、本人認証機能が追加された。",
+      "note": "本件は事実の提供に関するものであり、評価や意見の対立は記事からは読み取れないため、positionsはデジタル庁による事実の発表として記載した。",
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: テキスト内に賛否の対立がないため、issueを「〜すべきか？」から「〜の方針を表明したか？」という事実確認の問いに修正しました。",
-          "メタ記述の徹底: positionsの各claimに「〜と述べている／と発表した」というメタ記述を追加しました。",
-          "consensus: issueの変更に伴い、評価が割れる旨の記述を削除し、事実合意型に修正しました。"
+          "positionsのclaimを「〜と述べている」の構造に修正しました。"
         ]
       }
     },
     {
-      "headline": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "slug": "Russiassecondbiggestonli",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss"
-        }
-      ],
-      "issue": "",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ロシアで2番目に大きいオンライン小売業者Ozonの倉庫が、ウクライナによる夜間攻撃の標的となった。",
-          "span": "its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "パレスチナ人芸術家スリマン・マンスール氏が79歳で死去した。",
-          "span": "has died at age 79",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ガザのディール・アル・バラフにある避難民の仮設テントがイスラエル軍の攻撃を受け、男性1人が死亡した。",
-          "span": "struck a makeshift tent sheltering displaced Palestinians in Deir al-Balah, killing one man",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ガザの避難民が、テントの代替として伝統的な泥レンガの家を建設した。",
-          "span": "built a traditional mud-brick house as an alternative to tents",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "複数の国際的な出来事が報じられているが、本記事ではそれらに対する評価や立場は示されていない。",
-      "note": "本記事は複数の国際的な出来事を事実として報じており、特定の争点に対する評価や立場は含まれていない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄への評価混入: fact 2 の '象徴的な' を削除し、純粋な事実記述に修正しました。",
-          "争点の立て方: テキストに特定の争点や評価が含まれていないため、issue を空に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "岐阜 大野町 住宅で成人とみられる3人の遺体見つかる",
-      "slug": "岐阜大野町住宅で成人とみられる3人の遺体見つかる",
+      "headline": "金銭疑惑、「身に覚えない」主張も外堀埋まる　追い込まれた県議会の「ドン」―福岡",
+      "slug": "金銭疑惑身に覚えない主張も外堀埋まる追い込まれた",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46099"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260825de46168"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6592954?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082400817&g=pol&m=rss"
         }
       ],
-      "issue": "岐阜県大野町の住宅で発見された3人の遺体について、どのような状況か？",
-      "stasis": "事実",
+      "issue": "福岡県議会の藏内議長は金銭疑惑を受けて辞職すべきか？",
+      "stasis": "policy",
       "facts": [
         {
-          "t": "岐阜県大野町の住宅で、成人とみられる3人の遺体が発見された。",
-          "span": "成人とみられる3人の遺体見つかる",
+          "t": "福岡県議会の藏内勇夫議長が議員辞職願を提出した。",
+          "span": "藏内勇夫議長が提出した議員辞職願",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "遺体は24日午後に発見された。",
-          "span": "24日午後",
+          "t": "藏内議長の議員辞職願が許可され、25日をもって議員辞職することが正式に決定した。",
+          "span": "議員辞職願が許可され、25日をもって議員辞職することが正式に決まりました",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "遺体は死後、ある程度の時間が経過しているとみられる。",
-          "span": "死後しばらく時間が経過していて",
+          "t": "福岡県議会の一連の対応に批判が強まっていた。",
+          "span": "福岡県議会の一連の対応に批判が強まる中で",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "遺体の性別や身元は現時点では判明していない。",
-          "span": "性別などは分かっていない",
+          "t": "藏内議長は金銭疑惑について「身に覚えがない」と主張していた。",
+          "span": "",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "警察は身元の確認と死亡に至った詳しい経緯の調査を進めている。",
-          "span": "身元の確認を進めるとともに、死亡した詳しい経緯を調べ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "岐阜県大野町の住宅で成人とみられる3人の遺体が発見され、警察が身元確認と死亡経緯の調査を進めているという事実が報じられている。この件に関する評価や意見の対立は記事中には見られない。",
-      "note": "本記事は事実の報道であり、特定の立場や評価は含まれていないため、positionsは空配列です。",
+      "consensus": "福岡県議会の藏内議長が議員辞職願を提出し、25日をもって辞職することが決定した。藏内議長は金銭疑惑について「身に覚えがない」と主張していた。",
+      "note": "本件は、藏内議長の辞職という事実と、金銭疑惑に関する本人の主張を構造化した。辞職の背景にある「批判の強まり」は事実として記載したが、辞職の是非や疑惑の真偽については判断せず、構造化の対象外とした。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[3].src: 「性別などは分かっていない」という情報はNHKのテキストにのみ明記されており、Yahoo!ニュースのテキストからは直接読み取れないため、srcからYahoo!ニュースを削除しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
