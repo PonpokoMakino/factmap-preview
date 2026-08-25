@@ -1,18 +1,18 @@
 {
-  "rankedAt": "2026-08-25T17:14:17.031Z",
+  "rankedAt": "2026-08-25T17:47:53.744Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風18号 鹿児島 奄美地方や沖縄本島に最接近 線状降水帯発生",
       "slug": "台風18号鹿児島奄美地方や沖縄本島に最接近線状降",
-      "time": "2026-08-25T17:00:00.000Z",
+      "time": "2026-08-25T17:41:14.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 地震・火山",
         "気象庁 気象警報・注意報"
       ],
-      "count": 14,
+      "count": 17,
       "hasPrimary": true,
       "members": [
         {
@@ -105,6 +105,30 @@
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】〈危険警報（大雨、土砂災害）〉奄美地方では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825174115_0_VPWW54_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】〈危険警報（大雨、土砂災害）〉奄美地方では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825174115_0_VPWW53_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【奄美地方（鹿児島県）大雨警報・注意報】奄美地方では、低い土地の浸水や河川の増水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825174104_0_VPWW55_460040.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
           "snippet": "【鹿児島県（奄美地方を除く）気象警報・注意報】種子島・屋久島地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260825163951_0_VPWW54_460100.xml",
@@ -176,7 +200,7 @@
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 3,
+      "count": 2,
       "hasPrimary": false,
       "members": [
         {
@@ -192,14 +216,6 @@
           "snippet": "As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Qatar says US sanctions on Iran are unilateral",
-          "snippet": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -238,14 +254,22 @@
     {
       "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
       "slug": "台風解析予報情報日予報",
-      "time": "2026-08-25T16:43:02.000Z",
+      "time": "2026-08-25T17:40:49.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
       ],
-      "count": 3,
+      "count": 4,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825174050_0_VPTW60_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
         {
           "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
           "snippet": "【台風解析・予報情報】",
@@ -302,29 +326,29 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-25T15:25:05.000Z",
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-25T17:30:08.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
+        "気象庁 地震・火山"
       ],
       "count": 2,
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825152506_0_VPWW54_130000.xml",
+          "title": "震源・震度に関する情報",
+          "snippet": "【遠地地震に関する情報】２５日１８時４０分ころ、海外で規模の大きな地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825173008_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825152507_0_VPWW53_130000.xml",
+          "title": "震源・震度に関する情報",
+          "snippet": "【遠地地震に関する情報】２５日１８時４０分ころ、海外で規模の大きな地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825150004_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -767,90 +791,6 @@
       ]
     },
     {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-25T15:00:04.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【遠地地震に関する情報】２５日１８時４０分ころ、海外で規模の大きな地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825150004_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-25T14:47:02.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】２５日２３時４４分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825144702_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-25T15:24:52.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【東京都雷注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825152452_0_VPWW61_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-25T15:23:37.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【埼玉県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825152338_0_VPWW54_110000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "Brain disease in dead NFL players 'higher than previously shown'",
       "slug": "BraindiseaseindeadNFLpla",
       "time": "2026-08-25T11:54:40.000Z",
@@ -956,6 +896,48 @@
       ]
     },
     {
+      "headline": "Canada hits US with counter-tariffs targeting hundreds of products",
+      "slug": "CanadahitsUSwithcountert",
+      "time": "2026-08-25T17:08:54.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Canada hits US with counter-tariffs targeting hundreds of products",
+          "snippet": "Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington colla",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
+      "slug": "USjudgedeniesGhislaineMa",
+      "time": "2026-08-25T17:02:29.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
+          "snippet": "US judge rejects Maxwell’s claims that newly released Epstein files could help overturn her sex-trafficking convictions.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Carlos Baleba joins Manchester United in transfer from Brighton",
       "slug": "CarlosBalebajoinsManches",
       "time": "2026-08-25T16:55:29.000Z",
@@ -1034,27 +1016,6 @@
           "snippet": "Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
-      "slug": "GazamarksoneyearsinceMar",
-      "time": "2026-08-25T15:23:17.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
-          "snippet": "A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
