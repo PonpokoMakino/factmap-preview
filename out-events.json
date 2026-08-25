@@ -1,18 +1,18 @@
 {
-  "rankedAt": "2026-08-25T23:10:20.719Z",
+  "rankedAt": "2026-08-25T23:41:47.100Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風18号 鹿児島 奄美や沖縄本島を暴風域に巻き込んで西へ",
       "slug": "台風18号鹿児島奄美や沖縄本島を暴風域に巻き込ん",
-      "time": "2026-08-25T23:08:28.000Z",
+      "time": "2026-08-25T23:40:17.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
-      "count": 5,
+      "count": 7,
       "hasPrimary": true,
       "members": [
         {
@@ -32,10 +32,18 @@
           "linkKind": "article"
         },
         {
+          "title": "全般気象情報",
+          "snippet": "【全般気象解説情報（線状降水帯半日前予測）】九州南部・奄美地方では、線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性があります。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825234018_0_VPZJ50_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
           "title": "気象警報・注意報（Ｈ２７）",
           "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、暴風や高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825223132_0_VPWW54_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825232931_0_VPWW54_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -43,7 +51,15 @@
           "title": "気象特別警報・警報・注意報",
           "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、暴風や高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825223132_0_VPWW53_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825232931_0_VPWW53_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、暴風や高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825231253_0_VPWW54_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -51,9 +67,69 @@
           "title": "気象特別警報・警報・注意報",
           "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、暴風や高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825222236_0_VPWW53_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825231253_0_VPWW53_471000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "「ホルムアルデヒド白菜」出荷　当局緊急調査、日本も注視―中国",
+      "slug": "ホルムアルデヒド白菜出荷当局緊急調査日本も注視中",
+      "time": "2026-08-25T22:44:21.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か 中国河北省",
+          "snippet": "中国河北省の地元当局は、発がん性が指摘されている化学物質「ホルムアルデヒド」を含む溶液に浸した白菜が出荷されていたとして調査を進めていることを明らかにしました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260826de46332",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "「ホルムアルデヒド白菜」出荷　当局緊急調査、日本も注視―中国",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082500632&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "slug": "CIAchieftravelstoMoscowf",
+      "time": "2026-08-25T22:20:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ＣＩＡ長官、ロシア訪問　ウクライナ情勢焦点か―米報道",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600006&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "snippet": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -148,6 +224,64 @@
       ]
     },
     {
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-08-25T23:36:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】２６日０８時３３分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825233600_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】２６日０５時２３分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825202715_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-25T23:29:23.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【沖縄本島地方大雨警報・注意報】本島中南部、本島北部では、低い土地の浸水や河川の増水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825232924_0_VPWW55_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【沖縄本島地方大雨警報・注意報】本島北部では、低い土地の浸水や河川の増水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825231246_0_VPWW55_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
       "time": "2026-08-25T22:45:51.000Z",
@@ -171,35 +305,6 @@
           "snippet": "【秋田県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260825224552_0_VPWW53_050000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-25T22:25:53.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【山形県気象警報・注意報】山形県では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825222554_0_VPWW54_060000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【山形県気象警報・注意報】山形県では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825222554_0_VPWW53_060000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -263,27 +368,6 @@
           "snippet": "アメリカのトランプ大統領は25日、五大湖の1つで、カナダ側の地名と同じ名称のオンタリオ湖について、「アメリカ湖」に変更することを検討していると主張しました。\n\n一方、カナダ政府は、アメリカが発動した追…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260826de46334",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か 中国河北省",
-      "slug": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か中",
-      "time": "2026-08-25T22:44:21.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か 中国河北省",
-          "snippet": "中国河北省の地元当局は、発がん性が指摘されている化学物質「ホルムアルデヒド」を含む溶液に浸した白菜が出荷されていたとして調査を進めていることを明らかにしました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260826de46332",
           "ty": "press",
           "linkKind": "article"
         }
@@ -395,9 +479,9 @@
       ]
     },
     {
-      "headline": "崖下200メートルに車転落か 死亡",
-      "slug": "崖下200メトルに車転落か死亡",
-      "time": "2026-08-25T15:16:01.000Z",
+      "headline": "免職と誤報 北陸放送に賠償命じる",
+      "slug": "免職と誤報北陸放送に賠償命じる",
+      "time": "2026-08-25T23:13:51.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -406,10 +490,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "崖下200メートルに車転落か 死亡",
+          "title": "免職と誤報 北陸放送に賠償命じる",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593079?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593090?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -437,9 +521,9 @@
       ]
     },
     {
-      "headline": "大谷31日に投手復帰の可能性 監督",
-      "slug": "大谷31日に投手復帰の可能性監督",
-      "time": "2026-08-25T22:14:20.000Z",
+      "headline": "TBS南波雅俊アナ 結婚を発表",
+      "slug": "TBS南波雅俊アナ結婚を発表",
+      "time": "2026-08-25T23:10:20.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -448,10 +532,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "大谷31日に投手復帰の可能性 監督",
+          "title": "TBS南波雅俊アナ 結婚を発表",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593086?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593091?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -479,9 +563,9 @@
       ]
     },
     {
-      "headline": "「国家安保に関わる事態」宣言　移民殺到のスペイン領セウタ",
-      "slug": "国家安保に関わる事態宣言移民殺到のスペイン領セウ",
-      "time": "2026-08-25T20:54:00.000Z",
+      "headline": "下地氏、沖縄知事選に不出馬　自民と協定",
+      "slug": "下地氏沖縄知事選に不出馬自民と協定",
+      "time": "2026-08-25T11:40:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -490,31 +574,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "「国家安保に関わる事態」宣言　移民殺到のスペイン領セウタ",
+          "title": "下地氏、沖縄知事選に不出馬　自民と協定",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600155&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ＣＩＡ長官、ロシア訪問　ウクライナ情勢焦点か―米報道",
-      "slug": "長官ロシア訪問ウクライナ情勢焦点か米報道",
-      "time": "2026-08-25T22:20:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ＣＩＡ長官、ロシア訪問　ウクライナ情勢焦点か―米報道",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600006&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082500901&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -563,9 +626,9 @@
       ]
     },
     {
-      "headline": "「ホルムアルデヒド白菜」出荷　当局緊急調査、日本も注視―中国",
-      "slug": "ホルムアルデヒド白菜出荷当局緊急調査日本も注視中",
-      "time": "2026-08-25T06:01:00.000Z",
+      "headline": "避難生活、障害者ら苦悩　実態把握困難、民間支援も―「特に配慮を」と専門家・熊本地震",
+      "slug": "避難生活障害者ら苦悩実態把握困難民間支援も特に配",
+      "time": "2026-08-25T22:03:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -574,94 +637,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "「ホルムアルデヒド白菜」出荷　当局緊急調査、日本も注視―中国",
+          "title": "避難生活、障害者ら苦悩　実態把握困難、民間支援も―「特に配慮を」と専門家・熊本地震",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082500632&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "３党合流、中・立に先送り論　公明から「議員引き揚げ」の声",
-      "slug": "党合流中立に先送り論公明から議員引き揚げの声",
-      "time": "2026-08-25T10:01:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "３党合流、中・立に先送り論　公明から「議員引き揚げ」の声",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082500918&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ＮＹ株３日続伸、１６０ドル高　原油安や金利低下を好感",
-      "slug": "株日続伸ドル高原油安や金利低下を好感",
-      "time": "2026-08-25T21:27:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ＮＹ株３日続伸、１６０ドル高　原油安や金利低下を好感",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600157&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ウクライナのゼレンスキー大統領、日本と「価値観近い」　天皇陛下と高市首相に謝意も",
-      "slug": "ウクライナのゼレンスキ大統領日本と価値観近い天皇",
-      "time": "2026-08-25T20:22:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ウクライナのゼレンスキー大統領、日本と「価値観近い」　天皇陛下と高市首相に謝意も",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600142&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "下地氏、沖縄知事選に不出馬　自民と協定",
-      "slug": "下地氏沖縄知事選に不出馬自民と協定",
-      "time": "2026-08-25T11:40:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "下地氏、沖縄知事選に不出馬　自民と協定",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082500901&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082500594&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -683,6 +662,69 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082600164&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "韓国、対北朝鮮「蚊帳の外」を懸念　苦渋のトランプ氏頼み",
+      "slug": "韓国対北朝鮮蚊帳の外を懸念苦渋のトランプ氏頼み",
+      "time": "2026-08-25T22:04:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "韓国、対北朝鮮「蚊帳の外」を懸念　苦渋のトランプ氏頼み",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082500776&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ビットコイン８万ドル回復　米国債混乱でドル離れ",
+      "slug": "ビットコイン万ドル回復米国債混乱でドル離れ",
+      "time": "2026-08-25T21:35:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ビットコイン８万ドル回復　米国債混乱でドル離れ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600178&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「国家安保に関わる事態」宣言　移民殺到のスペイン領セウタ",
+      "slug": "国家安保に関わる事態宣言移民殺到のスペイン領セウ",
+      "time": "2026-08-25T20:54:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「国家安保に関わる事態」宣言　移民殺到のスペイン領セウタ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600155&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -857,48 +899,6 @@
       ]
     },
     {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-25T20:27:15.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】２６日０５時２３分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825202715_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-08-25T20:00:08.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【遠地地震に関する情報】２５日１８時４０分ころ、海外で規模の大きな地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825200008_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
       "time": "2026-08-25T22:45:40.000Z",
@@ -920,48 +920,6 @@
       ]
     },
     {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-08-25T22:40:49.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825224050_0_VPTW60_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-25T22:25:47.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【山形県雷注意報】山形県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260825222548_0_VPWW61_060000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "slug": "Chinahitsoutatillegalnew",
       "time": "2026-08-25T11:53:36.000Z",
@@ -977,27 +935,6 @@
           "snippet": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijin",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "slug": "CIAchieftravelstoMoscowf",
-      "time": "2026-08-25T19:48:14.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-          "snippet": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
