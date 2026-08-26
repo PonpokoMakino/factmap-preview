@@ -1,18 +1,17 @@
 {
-  "rankedAt": "2026-08-26T05:19:44.714Z",
+  "rankedAt": "2026-08-26T05:54:32.298Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
       "slug": "台風18号奄美や沖縄本島から遠ざかるも土砂災害に",
-      "time": "2026-08-26T05:11:56.000Z",
-      "independentSources": 3,
+      "time": "2026-08-26T05:48:10.000Z",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
-      "count": 5,
+      "count": 6,
       "hasPrimary": true,
       "members": [
         {
@@ -24,50 +23,56 @@
           "linkKind": "article"
         },
         {
-          "title": "沖縄・奄美 台風の影響長引く",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593125?source=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826054812_0_VPWW53_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826054812_0_VPWW54_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826054253_0_VPWW54_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
           "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826051158_0_VPWW53_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826054253_0_VPWW53_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【沖縄本島地方土砂災害警報・注意報】本島中南部、本島北部では、土砂災害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826051157_0_VPWW54_471000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826050314_0_VPWW54_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826054250_0_VPWW56_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "slug": "CIAchieftravelstoMoscowf",
+      "headline": "イラン国営メディア トランプ大統領息子の命脅かす映像 米報道",
+      "slug": "イラン国営メディアトランプ大統領息子の命脅かす映",
       "time": "2026-08-26T04:22:46.000Z",
-      "independentSources": 3,
+      "independentSources": 1,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム",
-        "BBC World"
+        "NHK 主要ニュース"
       ],
-      "count": 4,
+      "count": 2,
       "hasPrimary": false,
       "members": [
         {
@@ -83,51 +88,6 @@
           "snippet": "アメリカの複数のメディアはCIA＝中央情報局の長官がモスクワを訪問したと報じました。訪問の目的は明らかになっていませんが、ロシアによるNATO＝北大西洋条約機構の加盟国への限定的な攻撃の可能性について…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260826de46411",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "トランプ氏三男の暗殺示唆　イラン国営テレビ、映像で　１５億円懸賞金も",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600232&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-          "snippet": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "太陽光パネル購入補助廃止へ　次世代型導入に重点―環境省",
-      "slug": "太陽光パネル購入補助廃止へ次世代型導入に重点環境",
-      "time": "2026-08-26T00:11:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "太陽光パネル購入補助廃止へ　次世代型導入に重点―環境省",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600265&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "環境省は太陽光パネルの購入補助を廃止する方針を固めた",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600260&g=flash&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -165,7 +125,7 @@
     {
       "headline": "竜巻注意情報（目撃情報付き）",
       "slug": "竜巻注意情報目撃情報付き",
-      "time": "2026-08-26T05:12:00.000Z",
+      "time": "2026-08-26T05:42:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -175,26 +135,26 @@
       "members": [
         {
           "title": "竜巻注意情報",
-          "snippet": "【三重県気象防災速報（竜巻注意）】三重県北中部、南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めて",
+          "snippet": "【奈良県気象防災速報（竜巻注意）】奈良県北部、南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてく",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826051303_0_VPHW50_240000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826054257_0_VPHW50_290000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "竜巻注意情報（目撃情報付き）",
-          "snippet": "【三重県気象防災速報（竜巻注意）】三重県北中部、南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めて",
+          "snippet": "【奈良県気象防災速報（竜巻注意）】奈良県北部、南部は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてく",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826051304_0_VPHW51_240000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826054258_0_VPHW51_290000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "竜巻注意情報（目撃情報付き）",
-      "slug": "竜巻注意情報目撃情報付き",
-      "time": "2026-08-26T05:12:00.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-08-26T05:36:55.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -203,47 +163,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "竜巻注意情報",
-          "snippet": "【福井県気象防災速報（竜巻注意）】嶺北は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【静岡県気象警報・注意報】静岡県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826051259_0_VPHW50_180000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826053656_0_VPWW53_220000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "竜巻注意情報（目撃情報付き）",
-          "snippet": "【福井県気象防災速報（竜巻注意）】嶺北は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【静岡県気象警報・注意報】静岡県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826051259_0_VPHW51_180000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "竜巻注意情報（目撃情報付き）",
-      "slug": "竜巻注意情報目撃情報付き",
-      "time": "2026-08-26T05:12:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "竜巻注意情報",
-          "snippet": "【岐阜県気象防災速報（竜巻注意）】美濃地方は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826051301_0_VPHW50_210000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "竜巻注意情報（目撃情報付き）",
-          "snippet": "【岐阜県気象防災速報（竜巻注意）】美濃地方は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826051301_0_VPHW51_210000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826053655_0_VPWW54_220000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -363,6 +294,27 @@
       ]
     },
     {
+      "headline": "博多区で40.4℃ 福岡市初の酷暑日",
+      "slug": "博多区で404福岡市初の酷暑日",
+      "time": "2026-08-26T05:14:42.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "博多区で40.4℃ 福岡市初の酷暑日",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593134?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "田久保氏巡る刑事裁判 焦点を解説",
       "slug": "田久保氏巡る刑事裁判焦点を解説",
       "time": "2026-08-26T01:02:03.000Z",
@@ -405,9 +357,9 @@
       ]
     },
     {
-      "headline": "子助けようとしたか 父流され死亡",
-      "slug": "子助けようとしたか父流され死亡",
-      "time": "2026-08-26T02:56:44.000Z",
+      "headline": "自転車の中学生 はねられ意識不明",
+      "slug": "自転車の中学生はねられ意識不明",
+      "time": "2026-08-26T05:10:47.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -416,10 +368,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "子助けようとしたか 父流され死亡",
+          "title": "自転車の中学生 はねられ意識不明",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593114?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593133?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -468,6 +420,27 @@
       ]
     },
     {
+      "headline": "VIVANT なぜ視聴率ダントツ維持",
+      "slug": "VIVANTなぜ視聴率ダントツ維持",
+      "time": "2026-08-26T04:54:15.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "VIVANT なぜ視聴率ダントツ維持",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593130?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "サンド伊達 体調不良で公演を欠席",
       "slug": "サンド伊達体調不良で公演を欠席",
       "time": "2026-08-26T05:05:09.000Z",
@@ -489,21 +462,63 @@
       ]
     },
     {
-      "headline": "各局人気アナ 結婚発表ラッシュ",
-      "slug": "各局人気アナ結婚発表ラッシュ",
-      "time": "2026-08-26T02:50:44.000Z",
+      "headline": "太陽光パネル購入補助廃止へ　次世代型導入に重点―環境省",
+      "slug": "太陽光パネル購入補助廃止へ次世代型導入に重点環境",
+      "time": "2026-08-26T00:11:00.000Z",
       "independentSources": 1,
       "sources": [
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "各局人気アナ 結婚発表ラッシュ",
+          "title": "太陽光パネル購入補助廃止へ　次世代型導入に重点―環境省",
           "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593116?source=rss",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600265&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "トランプ氏三男の暗殺示唆　イラン国営テレビ、映像で　１５億円懸賞金も",
+      "slug": "トランプ氏三男の暗殺示唆イラン国営テレビ映像で億",
+      "time": "2026-08-25T23:06:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "トランプ氏三男の暗殺示唆　イラン国営テレビ、映像で　１５億円懸賞金も",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600232&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "環境省は太陽光パネルの購入補助を廃止する方針を固めた",
+      "slug": "環境省は太陽光パネルの購入補助を廃止する方針を固",
+      "time": "2026-08-26T00:08:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "環境省は太陽光パネルの購入補助を廃止する方針を固めた",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600260&g=flash&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -825,9 +840,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
-      "slug": "気象警報注意報大雨",
-      "time": "2026-08-26T05:11:51.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-08-26T05:36:46.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -836,10 +851,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【沖縄本島地方大雨警報・注意報】本島中南部、本島北部では、低い土地の浸水や河川の増水に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【静岡県雷注意報】静岡県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826051152_0_VPWW55_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826053646_0_VPWW61_220000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -882,6 +897,27 @@
           "snippet": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijin",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "slug": "CIAchieftravelstoMoscowf",
+      "time": "2026-08-25T19:48:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "snippet": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1035,6 +1071,69 @@
       ]
     },
     {
+      "headline": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
+      "slug": "Iranbetseconomicpainwill",
+      "time": "2026-08-26T05:20:17.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Iran bets economic pain will pressure Trump in game of ‘chicken’",
+          "snippet": "Iran is betting global economic fallout and Republicans worried about the midterms will force Trump&#039;s retreat.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Fireworks factory goes up in smoke in Mexico",
+      "slug": "Fireworksfactorygoesupin",
+      "time": "2026-08-26T05:17:40.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Fireworks factory goes up in smoke in Mexico",
+          "snippet": "Two explosions have hit a fireworks facility in Tultepec, Mexico, sending a spectacular mix of flames and explosions",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/fireworks-factory-goes-up-in-smoke-in-mexico?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Massive natural gas leak in Wisconsin puts community on alert",
+      "slug": "MassivenaturalgasleakinW",
+      "time": "2026-08-26T05:15:51.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Massive natural gas leak in Wisconsin puts community on alert",
+          "snippet": "A truck hit a natural gas pipeline near Saxon, Wisconsin prompted nearby residents to evacuate.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/massive-natural-gas-leak-in-wisconsin-puts-community-on-alert?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "At least 15 newborns killed in Pakistan hospital fire",
       "slug": "Atleast15newbornskilledi",
       "time": "2026-08-26T04:27:15.000Z",
@@ -1134,69 +1233,6 @@
           "snippet": "Zohran Mamdani says he opposes a right-wing Hindu nationalist event scheduled for next week at Madison Square Garden.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/mamdani-opposes-hindu-nationalist-event-in-new-york?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-      "slug": "WatercrisismakeslifeinSu",
-      "time": "2026-08-26T01:54:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-          "snippet": "Families displaced by war in Sudan’s El Obeid refugee camps face crippling water shortages.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-      "slug": "MalaysiasAnwarputsnonali",
-      "time": "2026-08-26T01:43:50.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-          "snippet": "Malaysian leader&#039;s comments on the island have prompted discussion about whether the country is leaning towards Chi",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Is Sudan’s battlefield shaping the terms of its next political phase?",
-      "slug": "IsSudansbattlefieldshapi",
-      "time": "2026-08-26T01:00:17.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Is Sudan’s battlefield shaping the terms of its next political phase?",
-          "snippet": "Army gains, RSF defections and al-Burhan’s political push point to a possible shift in Sudan’s war.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
