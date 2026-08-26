@@ -1,24 +1,33 @@
 {
-  "rankedAt": "2026-08-26T03:03:56.116Z",
+  "rankedAt": "2026-08-26T03:59:47.043Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "台風18号 鹿児島 奄美や沖縄からしだいに遠ざかるも影響続く",
-      "slug": "台風18号鹿児島奄美や沖縄からしだいに遠ざかるも",
-      "time": "2026-08-26T02:58:08.000Z",
-      "independentSources": 2,
+      "headline": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
+      "slug": "台風18号奄美や沖縄本島から遠ざかるも土砂災害に",
+      "time": "2026-08-26T03:35:45.000Z",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
-      "count": 7,
+      "count": 8,
       "hasPrimary": true,
       "members": [
         {
-          "title": "台風18号 鹿児島 奄美や沖縄からしだいに遠ざかるも影響続く",
-          "snippet": "強い台風18号は沖縄・奄美から遠ざかりつつありますが、速度が遅いため、影響は長引く見込みです。\n\n奄美地方にはこれまでの雨でレベル4危険警報が出されている地域があります。\n気象庁は大雨による土砂災害や…",
+          "title": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
+          "snippet": "強い台風18号の影響で鹿児島県の奄美地方や沖縄本島地方では大荒れの天気となりました。\n\n暴風域は抜けたとみられますが、影響は長引く見込みで気象庁は、土砂災害に厳重に警戒し、高波などに警戒するよう呼びか…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260826de46333",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "沖縄・奄美 台風の影響長引く",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593125?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -39,6 +48,22 @@
           "linkKind": "data"
         },
         {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826025223_0_VPWW54_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826025223_0_VPWW53_471000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
           "title": "気象特別警報・警報・注意報",
           "snippet": "【新潟県気象警報・注意報】下越では、土砂災害や低い土地の浸水に注意してください。新潟県では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
@@ -53,52 +78,6 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260826024807_0_VPWW54_150000.xml",
           "ty": "prim",
           "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【新潟県土砂災害警報・注意報】下越では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826024753_0_VPWW56_150000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】〈危険警報（土砂災害）〉奄美地方では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826024517_0_VPWW53_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "環境省は太陽光パネルの購入補助を廃止する方針を固めた",
-      "slug": "環境省は太陽光パネルの購入補助を廃止する方針を固",
-      "time": "2026-08-26T02:00:09.000Z",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "可搬式浄水装置の購入補助 拡大へ",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593107?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "環境省は太陽光パネルの購入補助を廃止する方針を固めた",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600260&g=flash&m=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
@@ -127,6 +106,94 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082600203&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "slug": "CIAchieftravelstoMoscowf",
+      "time": "2026-08-25T22:20:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ＣＩＡ長官、ロシア訪問　ウクライナ情勢焦点か―米報道",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600006&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+          "snippet": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "熊本地震 農林水産業の被害 約1102億円に（8月25日時点）",
+      "slug": "熊本地震農林水産業の被害約1102億円に8月25",
+      "time": "2026-08-26T03:30:26.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "西日本中心に35度以上の猛烈な暑さに 急な激しい雨にも注意を",
+          "snippet": "26日も地震で大きな被害のあった熊本県など、西日本を中心に午前中から35度以上と、猛烈な暑さになっているところがあります。午後も気温が上がる見込みで、熱中症対策を徹底してください。\n\n一方、前線や湿っ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260826de46337",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "熊本地震 農林水産業の被害 約1102億円に（8月25日時点）",
+          "snippet": "令和8年熊本地震による、熊本県内の農林水産業の被害額は、8月25日時点の速報値で、1000億円を超えたことが県のまとめでわかりました。県によりますと、被害額は、さらに増える見込みだということです。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260826de46378",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "太陽光パネル購入補助廃止へ　次世代型導入に重点―環境省",
+      "slug": "太陽光パネル購入補助廃止へ次世代型導入に重点環境",
+      "time": "2026-08-26T00:11:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "太陽光パネル購入補助廃止へ　次世代型導入に重点―環境省",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600265&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "環境省は太陽光パネルの購入補助を廃止する方針を固めた",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600260&g=flash&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -162,9 +229,9 @@
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-26T02:52:21.000Z",
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-08-26T03:55:37.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -173,48 +240,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826025223_0_VPWW54_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826035537_0_VPTW61_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に警戒してください。",
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826025223_0_VPWW53_471000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260826034113_0_VPTW60_010000.xml",
           "ty": "prim",
           "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "西日本中心に35度以上の猛烈な暑さに 急な激しい雨にも注意を",
-      "slug": "西日本中心に35度以上の猛烈な暑さに急な激しい雨",
-      "time": "2026-08-26T02:57:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "西日本中心に35度以上の猛烈な暑さに 急な激しい雨にも注意を",
-          "snippet": "26日も地震で大きな被害のあった熊本県など、西日本を中心に午前中から35度以上と、猛烈な暑さになっているところがあります。午後も気温が上がる見込みで、熱中症対策を徹底してください。\n\n一方、前線や湿っ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260826de46337",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
     {
       "headline": "高級時計窃盗事件 2人組の男 現場にハンマー残し逃走か",
       "slug": "高級時計窃盗事件2人組の男現場にハンマ残し逃走か",
-      "time": "2026-08-26T02:49:55.000Z",
+      "time": "2026-08-26T02:49:00.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -256,7 +302,7 @@
     {
       "headline": "米ルビオ長官“当面新たな攻撃なし”同盟国などに伝達 米報道",
       "slug": "米ルビオ長官当面新たな攻撃なし同盟国などに伝達米",
-      "time": "2026-08-26T02:33:12.000Z",
+      "time": "2026-08-26T02:33:00.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -275,30 +321,9 @@
       ]
     },
     {
-      "headline": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か 中国河北省",
-      "slug": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か中",
-      "time": "2026-08-25T22:44:21.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か 中国河北省",
-          "snippet": "中国河北省の地元当局は、発がん性が指摘されている化学物質「ホルムアルデヒド」を含む溶液に浸した白菜が出荷されていたとして調査を進めていることを明らかにしました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260826de46332",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ICC制裁巡り自民議員「米が怖い」",
-      "slug": "ICC制裁巡り自民議員米が怖い",
-      "time": "2026-08-26T00:37:00.000Z",
+      "headline": "4人死亡 事故直前まで線路上に7人",
+      "slug": "4人死亡事故直前まで線路上に7人",
+      "time": "2026-08-26T03:00:19.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -307,31 +332,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ICC制裁巡り自民議員「米が怖い」",
+          "title": "4人死亡 事故直前まで線路上に7人",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593098?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ふるさと納税「赤字」19都府県",
-      "slug": "ふるさと納税赤字19都府県",
-      "time": "2026-08-26T02:20:41.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ふるさと納税「赤字」19都府県",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593111?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593119?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -359,9 +363,9 @@
       ]
     },
     {
-      "headline": "路上に手りゅう弾か 近くに小学校",
-      "slug": "路上に手りゅう弾か近くに小学校",
-      "time": "2026-08-26T02:34:08.000Z",
+      "headline": "自分の体に精巣 性分化疾患の女性",
+      "slug": "自分の体に精巣性分化疾患の女性",
+      "time": "2026-08-26T02:44:03.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -370,31 +374,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "路上に手りゅう弾か 近くに小学校",
+          "title": "自分の体に精巣 性分化疾患の女性",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593113?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「ゴーストレストラン」増加の訳",
-      "slug": "ゴストレストラン増加の訳",
-      "time": "2026-08-26T01:26:13.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「ゴーストレストラン」増加の訳",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593104?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593118?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -422,6 +405,27 @@
       ]
     },
     {
+      "headline": "「ゴーストレストラン」増加の訳",
+      "slug": "ゴストレストラン増加の訳",
+      "time": "2026-08-26T01:26:13.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「ゴーストレストラン」増加の訳",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593104?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "長州小力 解雇されたことには感謝",
       "slug": "長州小力解雇されたことには感謝",
       "time": "2026-08-26T02:38:28.000Z",
@@ -443,21 +447,21 @@
       ]
     },
     {
-      "headline": "太陽光パネル購入補助廃止へ　次世代型導入に重点―環境省",
-      "slug": "太陽光パネル購入補助廃止へ次世代型導入に重点環境",
-      "time": "2026-08-26T00:11:00.000Z",
+      "headline": "各局人気アナ 結婚発表ラッシュ",
+      "slug": "各局人気アナ結婚発表ラッシュ",
+      "time": "2026-08-26T02:50:44.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "太陽光パネル購入補助廃止へ　次世代型導入に重点―環境省",
+          "title": "各局人気アナ 結婚発表ラッシュ",
           "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600265&g=soc&m=rss",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593116?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -485,6 +489,27 @@
       ]
     },
     {
+      "headline": "ロシアで入隊契約の強制横行か　泥酔時に署名も―人権団体",
+      "slug": "ロシアで入隊契約の強制横行か泥酔時に署名も人権団",
+      "time": "2026-08-25T20:17:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ロシアで入隊契約の強制横行か　泥酔時に署名も―人権団体",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082600140&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "「ホルムアルデヒド白菜」出荷　当局緊急調査、日本も注視―中国",
       "slug": "ホルムアルデヒド白菜出荷当局緊急調査日本も注視中",
       "time": "2026-08-25T06:01:00.000Z",
@@ -506,9 +531,9 @@
       ]
     },
     {
-      "headline": "ＣＩＡ長官、ロシア訪問　ウクライナ情勢焦点か―米報道",
-      "slug": "長官ロシア訪問ウクライナ情勢焦点か米報道",
-      "time": "2026-08-25T22:20:00.000Z",
+      "headline": "超党派議連、政府対応「段違いに弱い」　ＩＣＣ制裁で非難声明",
+      "slug": "超党派議連政府対応段違いに弱い制裁で非難声明",
+      "time": "2026-08-24T11:36:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -517,10 +542,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ＣＩＡ長官、ロシア訪問　ウクライナ情勢焦点か―米報道",
+          "title": "超党派議連、政府対応「段違いに弱い」　ＩＣＣ制裁で非難声明",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600006&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082400865&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -542,48 +567,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082500901&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ホンダ、米国でＨＶ新工場検討　大型車生産、３０年ごろ稼働目指す",
-      "slug": "ホンダ米国で新工場検討大型車生産年ごろ稼働目指す",
-      "time": "2026-08-26T00:14:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ホンダ、米国でＨＶ新工場検討　大型車生産、３０年ごろ稼働目指す",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600268&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「国家安保に関わる事態」宣言　移民殺到のスペイン領セウタ",
-      "slug": "国家安保に関わる事態宣言移民殺到のスペイン領セウ",
-      "time": "2026-08-25T20:54:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「国家安保に関わる事態」宣言　移民殺到のスペイン領セウタ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600155&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -863,27 +846,6 @@
       ]
     },
     {
-      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "slug": "CIAchieftravelstoMoscowf",
-      "time": "2026-08-25T19:48:14.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-          "snippet": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "Mass arrests in global crackdown on West African cyber-crime networks",
       "slug": "Massarrestsinglobalcrack",
       "time": "2026-08-25T19:30:37.000Z",
@@ -1025,6 +987,48 @@
           "snippet": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Who were the Syrian Democratic Forces and why dissolve?",
+      "slug": "WhoweretheSyrianDemocrat",
+      "time": "2026-08-26T03:28:43.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Who were the Syrian Democratic Forces and why dissolve?",
+          "snippet": "Syria’s Democratic Forces, which led the fight against ISIL, have declared they are disbanding.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Israeli soldiers block Knesset member from besieged Palestinian home",
+      "slug": "IsraelisoldiersblockKnes",
+      "time": "2026-08-26T02:54:12.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
+          "snippet": "Israeli soldiers blocked Knesset member Ofer Cassif from reaching a Palestinian family home in the occupied West Bank.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1193,48 +1197,6 @@
           "snippet": "Why can’t America agree on what time it is?",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
-      "slug": "USjudgeblocksOhiolawrequ",
-      "time": "2026-08-25T21:32:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
-          "snippet": "The amended law was an attempt by state Republicans to crack down on unproven claims of voting by noncitizens.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Who was the ‘Queen of Country’ Dolly Parton?",
-      "slug": "WhowastheQueenofCountryD",
-      "time": "2026-08-25T21:29:11.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Who was the ‘Queen of Country’ Dolly Parton?",
-          "snippet": "‘Queen of Country’ has died at 80 in Nashville, her family and representatives announced.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
