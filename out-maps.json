@@ -1,45 +1,58 @@
 {
-  "builtAt": "2026-08-26T12:20:07.185Z",
+  "builtAt": "2026-08-27T12:52:18.633Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "At least eight killed, hundreds missing after Nepal flash flood",
-      "slug": "Atleasteightkilledhundre",
-      "independentSources": 4,
+      "headline": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+      "slug": "Collapsedglacierlikelyca",
+      "independentSources": 5,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム",
+        "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260826de46535"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260827de46576"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593180?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6593323?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082700099&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=20260827049278a&g=afp&m=rss"
         },
         {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026082600935&g=int&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600931&g=flash&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/27/satellite-images-show-destruction-from-nepal-tibet-floods?traffic_source=rss"
         }
       ],
-      "issue": "ネパール東部での洪水により、多数の観光客が行方不明になっているか？",
+      "issue": "ネパール・中国国境地帯の土石流による被害状況と原因は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ネパール東部で洪水が発生した。",
-          "span": "ネパール東部で洪水が発生し",
+          "t": "ネパールと中国の国境地帯で大規模な土石流が発生した。",
+          "span": "ネパールと中国の国境地帯で発生した大規模な土石流",
           "src": [
             {
               "ty": "press",
@@ -48,8 +61,8 @@
           ]
         },
         {
-          "t": "洪水により、380人以上の観光客が行方不明になっている。",
-          "span": "380人以上の観光客が行方不明になっている",
+          "t": "これまでに両国であわせて273人が死亡した。",
+          "span": "両国であわせて273人が死亡し",
           "src": [
             {
               "ty": "press",
@@ -58,8 +71,8 @@
           ]
         },
         {
-          "t": "行方不明者には291人の外国人が含まれる。",
-          "span": "291人の外国人を含む",
+          "t": "1300人以上が行方不明となっている。",
+          "span": "1300人以上が行方不明となっていて",
           "src": [
             {
               "ty": "press",
@@ -68,8 +81,28 @@
           ]
         },
         {
-          "t": "ネパール観光当局によると、ラスワ郡での大規模洪水で外国人291人を含む観光客384人が行方不明となっている。",
-          "span": "ラスワ郡での大規模洪水で外国人２９１人を含む観光客３８４人が行方不明となっている",
+          "t": "日本人5人と連絡が取れていない。",
+          "span": "日本人5人とも依然、連絡がとれていません",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "不明の邦人は5人家族の可能性がある。",
+          "span": "不明の邦人は5人家族か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "不明者は1400人を超えている。",
+          "span": "不明者１４００人超",
           "src": [
             {
               "ty": "press",
@@ -78,12 +111,42 @@
           ]
         },
         {
-          "t": "少なくとも8人が死亡した。",
-          "span": "At least eight killed",
+          "t": "土石流による死者は280人以上である。",
+          "span": "土石流死者２８０人以上",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ネパール・チベット洪水の原因は氷河崩壊の可能性がある。",
+          "span": "氷河崩壊か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ネパール・チベット洪水で死者は273人、行方不明者は1300人超となっている。",
+          "span": "死者２７３人に 行方不明１３００人超",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ネパールで洪水が発生し、観光客380人以上が不明、22人が死亡した。",
+          "span": "観光客３８０人超不明　２２人死亡",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
@@ -98,8 +161,364 @@
           ]
         },
         {
-          "t": "チベット（中国）側では、隣接するギロン郡で人が行方不明になっていると報告された。",
-          "span": "Across the border, Tibet reported &#039;major casualties&#039; with people missing in the neighbouring county of Gyirong",
+          "t": "科学者による予備調査では、崩壊した氷河が原因である可能性が示唆されている。",
+          "span": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ヒマラヤ高地で氷河の崩壊が発生し、ネパール・チベット国境沿いで壊滅的な洪水を引き起こした。",
+          "span": "A glacier collapse high in the Himalayas on Wednesday triggered catastrophic flooding along the Nepal-Tibet border.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "数百人がネパールとチベットの国境での洪水と地滑りで死亡した。",
+          "span": "Hundreds have died in flooding and landslides on the border of Nepal and Tibet.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ネパール・中国の国境地帯で大規模な土石流が発生し、両国で多数の死者・行方不明者が出ており、日本人5人も連絡が取れていない。原因は氷河崩壊である可能性が科学者によって指摘されている。",
+      "note": "複数の情報源で死者数や行方不明者数に若干の差異が見られるが、全体的な被害状況と原因の可能性については一致している。プライバシーに配慮し、不明の邦人が家族である可能性については言及するが、個別の家族構成や氏名は記載しない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "富山、石川に一時大雨特別警報　線状降水帯発生、河川氾濫や土砂崩れも―前線の影響、浸水など警戒",
+      "slug": "富山石川に一時大雨特別警報線状降水帯発生河川氾濫",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260827de46769"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260827de46809"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260827de46591"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260827de46613"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082700157&g=soc&m=rss"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260827124839_0_VPWW54_016000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260827124839_0_VPWW53_016000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260827124313_0_VPWW56_015000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260827124305_0_VPWW53_012000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260827124305_0_VPWW54_012000.xml"
+        }
+      ],
+      "issue": "線状降水帯の発生予測や大雨特別警報は、土砂災害や河川氾濫のリスクを高めるか？",
+      "stasis": "因果の解釈（割れる）",
+      "facts": [
+        {
+          "t": "気象庁は秋田県の沿岸と内陸で今後3時間以内に線状降水帯が発生する可能性が高まっているとして、線状降水帯直前予測の気象防災速報を発表した。",
+          "span": "線状降水帯直前予測",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "北秋田市は、大雨により土砂災害のおそれがあるとして、一部地域のおよそ700人に避難指示を発表した。",
+          "span": "避難指示",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "石川県と富山県では、記録的な大雨により川の氾濫や土砂災害などが相次ぎ、一時レベル5大雨特別警報が発表されていた。",
+          "span": "川の氾濫や土砂災害などが相次いでいて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "石川県と富山県では、28日にかけて再び大雨になるおそれがある。",
+          "span": "28日にかけては再び、大雨になるおそれがあります",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "石川県と富山県に一時レベル5大雨特別警報が発表されていた。",
+          "span": "レベル5大雨特別警報",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "石川県と富山県では、線状降水帯発生により河川氾濫や土砂崩れが発生した。",
+          "span": "線状降水帯発生、河川氾濫や土砂崩れも",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "石狩・空知・後志地方では、土砂災害や低い土地の浸水に注意が必要である。",
+          "span": "土砂災害や低い土地の浸水に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "石狩・空知・後志地方では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意が必要である。",
+          "span": "竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "胆振地方では、土砂災害に注意が必要である。",
+          "span": "土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "上川地方では、土砂災害や低い土地の浸水に注意が必要である。",
+          "span": "土砂災害や低い土地の浸水に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "上川・留萌地方では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意が必要である。",
+          "span": "竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "線状降水帯の発生予測や大雨特別警報が発表され、秋田県北秋田市の一部地域では避難指示が出された。石川県と富山県では記録的な大雨により川の氾濫や土砂災害が相次ぎ、一時レベル5大雨特別警報が発表されていた。これらの地域では、今後も大雨や土砂災害、低い土地の浸水、激しい突風、落雷、濃霧による視程障害などへの警戒が必要である。評価は割れる。",
+      "note": "プライバシー配慮のため、避難指示の対象となった地区名は省略し、世帯数と人数のみを記載した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+      "slug": "DoorwaslockedatPakistanh",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/al-jazeera-reports-from-hospital-in-flood-hit-nepal?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/27/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit?traffic_source=rss"
+        }
+      ],
+      "issue": "パキスタン病院の火災で乳児14人が死亡した際、病棟のドアは施錠されていたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "パキスタンで、火災により乳児14人が死亡した病院があった。",
+          "span": "fire killed 14 babies",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "目撃者",
+          "stance": "attack",
+          "claim": "病院のドアは施錠されていた。",
+          "span": "Door was locked",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "病院",
+          "stance": "support",
+          "claim": "病棟のドアは施錠されておらず、乳児を守るために警備員が配置されていた。",
+          "span": "the ward door was not locked but manned with security guards, to protect the babies",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "consensus": "パキスタンで火災により乳児14人が死亡した病院があった。目撃者はドアが施錠されていたと述べ、病院側は施錠されておらず警備員がいたと述べている。",
+      "note": "プライバシー配慮のため、病院名や具体的な場所は省略。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Norway's royal family gathers at King Harald's bedside as his condition worsens",
+      "slug": "Norwaysroyalfamilygather",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqxvrnvrr5do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/27/norways-king-harald-in-extremely-serious-condition-palace-says?traffic_source=rss"
+        }
+      ],
+      "issue": "ノルウェー国王ハラルドの容態は深刻か？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "ノルウェー国王ハラルド5世は89歳である。",
+          "span": "The 89-year-old",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "国王ハラルド5世は1週間以上にわたり入院している。",
+          "span": "has been in hospital for over a week",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "国王ハラルド5世は稀な血液疾患の治療を受けている。",
+          "span": "receiving treatment for a rare blood condition",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "国王ハラルド5世は8月17日からオスロの病院に入院している。",
+          "span": "since August 17",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "国王ハラルド5世は稀な血液疾患の治療を受けている。",
+          "span": "suffering from a blood disease",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "国王ハラルド5世はヨーロッパで最も高齢の在位君主である。",
+          "span": "Europe&#039;s oldest reigning monarch",
           "src": [
             {
               "ty": "press",
@@ -109,172 +528,13 @@
         }
       ],
       "positions": [],
-      "consensus": "ネパール東部で洪水が発生し、380人以上の観光客が行方不明になっているという事実は複数の報道機関で確認されている。行方不明者には291人の外国人が含まれる。少なくとも8人の死亡と発電所の損壊も報じられている。チベット側でも人が行方不明になっているとの報告がある。",
-      "note": "プライバシー配慮のため、被害者の個人情報は含んでいない。",
+      "consensus": "ノルウェー国王ハラルド5世は89歳で、1週間以上にわたり稀な血液疾患の治療のため入院しており、容態は深刻であると報じられている。評価は割れる。",
+      "note": "プライバシーに配慮し、国王の氏名は特定情報として扱わない。",
       "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "中部電力 浜岡原発めぐり新たな不適切事案判明",
-      "slug": "中部電力浜岡原発めぐり新たな不適切事案判明",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260826de46523"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593183?source=rss"
-        }
-      ],
-      "issue": "中部電力浜岡原発における新たな不適切事案の有無",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "中部電力浜岡原発で新たな不適切な事案が判明した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "浜岡原発1号機、2号機の廃炉作業に関する資金管理で不適切な手続きの疑いがある。",
-          "span": "浜岡原子力発電所の1号機、2号機での廃炉作業をめぐり、資金を管理する「使用済燃料再処理・廃炉推進機構」に費用…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "中部電力浜岡原発で新たな不適切な事案が判明した。浜岡原発1号機、2号機の廃炉作業に関する資金管理で不適切な手続きの疑いがある。",
-      "note": "本件は事実の提示に留まり、評価や意見の対立は見られないため、positions は空となります。",
-      "audit": {
-        "changed": false,
+        "changed": true,
         "issues": [
-          "fact spanが原文に無い→除去「新たな不適切事案が判明しました…」"
-        ]
-      }
-    },
-    {
-      "headline": "制裁受ける理由全くない　ＩＣＣ赤根所長、日本に「最大限の努力」要請",
-      "slug": "制裁受ける理由全くない赤根所長日本に最大限の努力",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260826de46462"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600796&g=int&m=rss"
-        }
-      ],
-      "issue": "ICCの赤根所長は、アメリカの制裁に対し、日本政府にどのような役割を期待しているか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "国際刑事裁判所（ICC）のトップである赤根智子所長は、アメリカのトランプ政権から制裁を受けている。",
-          "span": "アメリカのトランプ政権により制裁が科された赤根智子所長",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "赤根所長は、制裁を受ける理由が全くないと考えている。",
-          "span": "制裁受ける理由全くない",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ICCの赤根所長はアメリカから制裁を受けており、その理由はないと考えている。また、日本政府の役割に期待し、最大限の努力を要請している。",
-      "note": "プライバシー配慮のため、赤根所長の個人情報は最小限に留める。本件は公的な立場に関するものであるため、実名報道は許容される。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "農林水産省は９月にも、放出した政府備蓄米の買い戻し手続きに入る",
-      "slug": "農林水産省は月にも放出した政府備蓄米の買い戻し手",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593175?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082600975&g=flash&m=rss"
-        }
-      ],
-      "issue": "農林水産省は政府備蓄米の買い戻し手続きに入るか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "農林水産省は、放出された政府備蓄米の買い戻し手続きに入る予定である。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "買い戻し手続きは9月にも開始される見込みである。",
-          "span": "９月にも、放出した政府備蓄米の買い戻し手続きに入る",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "農林水産省は、放出された政府備蓄米の買い戻し手続きを9月にも開始する見込みである。",
-      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「放出された政府備蓄米の買い戻し手続き…」"
+          "factsの項目「国王ハラルド5世は稀な血液疾患の治療を受けている。」について、Al Jazeeraのspan「suffering from a blood disease」はBBC Worldのspan「receiving treatment for a rare blood condition」と重複するため、Al Jazeeraのspanを削除し、事実の重複を避けた。",
+          "factsの項目「国王ハラルド5世は8月17日からオスロの病院に入院している。」について、spanを「since August 17」に修正し、テキストにない「オスロの病院」という情報を削除した。"
         ]
       }
     }
