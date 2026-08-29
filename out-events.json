@@ -1,56 +1,17 @@
 {
-  "rankedAt": "2026-08-29T14:14:10.484Z",
+  "rankedAt": "2026-08-29T17:44:27.895Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "熊本地震 400人余を病院間搬送 緊急事態で生かされたことは…",
-      "slug": "熊本地震400人余を病院間搬送緊急事態で生かされ",
-      "time": "2026-08-29T13:46:34.000Z",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 地震・火山"
-      ],
-      "count": 3,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "熊本地震 400人余を病院間搬送 緊急事態で生かされたことは…",
-          "snippet": "「熊本南病院です。病院間搬送を要請します」\n\n熊本地震で、震度7の揺れを観測した宇城市を管轄する消防本部の119番の通報記録です。先月の地震では宇城市などの病院が被災して必要な治療が継続できないため、…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47139",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "熊本地震 被災者それぞれの1カ月",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593558?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】２９日２２時４３分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829134634_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "前線で大気の状態不安定 石川県と福井県にレベル4危険警報",
       "slug": "前線で大気の状態不安定石川県と福井県にレベル4危",
-      "time": "2026-08-29T14:11:23.000Z",
+      "time": "2026-08-29T17:41:08.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 5,
+      "count": 10,
       "hasPrimary": true,
       "members": [
         {
@@ -62,18 +23,18 @@
           "linkKind": "article"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福井県気象警報・注意報】〈危険警報（大雨、土砂災害）〉嶺北では、土砂災害や低い土地の浸水に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829141124_0_VPWW54_180000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "福井県嶺北と石川県加賀に「線状降水帯直前予測」",
+          "snippet": "気象庁は、福井県の嶺北と石川県の加賀では今後3時間以内に線状降水帯が発生する可能性が高まっているとして、午前1時58分、「線状降水帯直前予測」の気象防災速報を発表しました。\n\n「線状降水帯」は発達した…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47175",
+          "ty": "press",
+          "linkKind": "article"
         },
         {
           "title": "気象特別警報・警報・注意報",
           "snippet": "【福井県気象警報・注意報】〈危険警報（大雨、土砂災害）〉嶺北では、土砂災害や低い土地の浸水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829141124_0_VPWW53_180000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829174109_0_VPWW53_180000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -81,75 +42,153 @@
           "title": "気象警報・注意報（Ｈ２７）",
           "snippet": "【福井県気象警報・注意報】〈危険警報（大雨、土砂災害）〉嶺北では、土砂災害や低い土地の浸水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829140950_0_VPWW54_180000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829174109_0_VPWW54_180000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象解説情報",
+          "snippet": "【岐阜県気象解説情報（大雨）】岐阜県では、局地的に雨雲が発達し、レベル４土砂災害危険警報を発表しました。土砂災害の危険度が当初の予想を上回って急激に高まっており、重大な災害がいつ発生してもおかしくない危険な状況となっています。３０日昼前にか",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829172516_0_VPFJ51_210000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象情報",
+          "snippet": "【岐阜県気象解説情報（大雨）】岐阜県では、局地的に雨雲が発達し、レベル４土砂災害危険警報を発表しました。土砂災害の危険度が当初の予想を上回って急激に高まっており、重大な災害がいつ発生してもおかしくない危険な状況となっています。３０日昼前にか",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829172516_0_VPFJ50_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【福井県気象警報・注意報】〈危険警報（大雨、土砂災害）〉嶺北では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "snippet": "【岐阜県気象警報・注意報】〈危険警報（土砂災害）〉岐阜県では、土砂災害に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829140950_0_VPWW53_180000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829171406_0_VPWW53_210000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【岐阜県気象警報・注意報】〈危険警報（土砂災害）〉岐阜県では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829171406_0_VPWW54_210000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【岐阜県気象警報・注意報】〈危険警報（土砂災害）〉岐阜県では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829171010_0_VPWW54_210000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【岐阜県気象警報・注意報】〈危険警報（土砂災害）〉岐阜県では、土砂災害に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829171010_0_VPWW53_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "鹿児島 いちき串木野市の水難事故 沖合で発見の中高生3人死亡",
-      "slug": "鹿児島いちき串木野市の水難事故沖合で発見の中高生",
-      "time": "2026-08-29T12:11:53.000Z",
+      "headline": "【地震情報】茨城県で震度4 津波の心配なし",
+      "slug": "地震情報茨城県で震度4津波の心配なし",
+      "time": "2026-08-29T15:49:00.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "気象庁 地震・火山"
+      ],
+      "count": 3,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "【地震情報】茨城県で震度4 津波の心配なし",
+          "snippet": "30日午前0時17分ごろ、茨城県で震度4の揺れを観測する地震がありました。\nこの地震による津波の心配はありません。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260828de46854",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】３０日００時１７分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829152055_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震度速報",
+          "snippet": "【震度速報】３０日００時１７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829151856_0_VXSE51_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "slug": "Trumphailshistoricdealfo",
+      "time": "2026-08-29T17:03:10.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "鹿児島 いちき串木野市の水難事故 沖合で発見の中高生3人死亡",
-          "snippet": "28日、鹿児島県いちき串木野市で、中学生と高校生のあわせて3人が沖に流された事故で、29日、3人が現場周辺の海で見つかり、いずれも死亡が確認されました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47141",
+          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "snippet": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "海で3人死亡 14歳は救助図ったか",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593554?source=rss",
+          "title": "Niger military says it is regaining control after attempted mutiny",
+          "snippet": "Niger’s military says it is regaining control after a mutiny in Niamey after gun fire was heard in the capital.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/08-29-26-niger-mutiny-sv?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "鹿島、柏が開幕４連勝　浦和が今季初白星―Ｊ１",
-      "slug": "鹿島柏が開幕連勝浦和が今季初白星",
-      "time": "2026-08-29T14:08:44.000Z",
+      "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "slug": "Atleast37deadandhundreds",
+      "time": "2026-08-29T16:53:55.000Z",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "サッカーJ1 第4節 柏と鹿島が開幕4連勝",
-          "snippet": "サッカーJ1は第4節の10試合が行われ、柏レイソルと鹿島アントラーズがともに勝って開幕から4連勝としました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47190",
+          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+          "snippet": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "鹿島、柏が開幕４連勝　浦和が今季初白星―Ｊ１",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082900392&g=spo&m=rss",
+          "title": "Russian strike on a munitions depot triggers deadly blasts near Kyiv",
+          "snippet": "Russian strike on an arms depot near Kyiv sparked fires and explosions, killing at least 38 people and wounding dozens.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-russia-strikes-arms-depot-kyiv-fm?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -158,11 +197,10 @@
     {
       "headline": "バレーボール日本女子 アジア選手権 ロス五輪出場権獲得ならず",
       "slug": "バレボル日本女子アジア選手権ロス五輪出場権獲得な",
-      "time": "2026-08-29T13:53:37.000Z",
-      "independentSources": 2,
+      "time": "2026-08-29T14:45:36.000Z",
+      "independentSources": 1,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
+        "NHK 主要ニュース"
       ],
       "count": 2,
       "hasPrimary": false,
@@ -176,158 +214,12 @@
           "linkKind": "article"
         },
         {
-          "title": "日本、タイに敗れる　今大会で五輪切符ならず―アジア女子バレー",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082900318&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "土石流直撃、泥に埋まった町　「すべて消えた」住民憔悴―ネパール中部",
-      "slug": "土石流直撃泥に埋まった町すべて消えた住民憔悴ネパ",
-      "time": "2026-08-29T10:57:08.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ネパール土石流 633人が死亡 二次災害のリスクを警戒",
-          "snippet": "ネパールと中国の国境地帯で発生した大規模な土石流では、これまでに両国であわせて633人が死亡し、ネパール側では2400人以上が行方不明となっています。\n\n現地では30日にかけても雨が降り続く見通しで、…",
+          "title": "野球 18歳以下の日本代表 大学日本代表に敗れる",
+          "snippet": "9月に台湾で行われる野球の18歳以下のアジア選手権に出場する日本代表が、大学日本代表との壮行試合で1対7で敗れました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47121",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47187",
           "ty": "press",
           "linkKind": "article"
-        },
-        {
-          "title": "土石流直撃、泥に埋まった町　「すべて消えた」住民憔悴―ネパール中部",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082900327&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-29T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、３０日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829140048_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２９日２１時から２４時までは火口から北西方向、３０日０９時から１２時までは火口から北西方向に降灰が予想され",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829110049_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-29T14:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、３０日０９時から１２時までは火口から北東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829140052_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２９日２１時から２４時までは火口から北東方向、３０日０９時から１２時までは火口から北東方",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829110052_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-08-29T14:11:09.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【大阪府気象警報・注意報】大阪府では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829141110_0_VPWW53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【大阪府気象警報・注意報】大阪府では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829141110_0_VPWW54_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-08-29T14:11:07.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【兵庫県気象警報・注意報】南部では、土砂災害に注意してください。北部では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829141108_0_VPWW54_280000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【兵庫県気象警報・注意報】南部では、土砂災害に注意してください。北部では、竜巻などの激しい突風や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829141109_0_VPWW53_280000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -361,9 +253,9 @@
       ]
     },
     {
-      "headline": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-      "slug": "IsraelisettlerssurroundP",
-      "time": "2026-08-29T13:11:41.000Z",
+      "headline": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+      "slug": "IsraeliattacksacrossGaza",
+      "time": "2026-08-29T15:25:43.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -372,18 +264,18 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-          "snippet": "At least four Palestinians are trapped inside the home, while settlers have set fire to nearby Palestinian land.",
+          "title": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+          "snippet": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
-          "snippet": "An UNRWA vocational centre in the occupied West Bank has been raided by Israeli forces and ordered to close.",
+          "title": "People stranded for days on dilapidated Nigerian highway",
+          "snippet": "Al Jazeera asked people on the Benin-Agbor-Asaba road how they view this infrastructure crisis.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/people-stranded-for-days-on-dilapidated-nigerian-highway?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -411,30 +303,30 @@
       ]
     },
     {
-      "headline": "娘が不登校に 仕事と両立は可能か",
-      "slug": "娘が不登校に仕事と両立は可能か",
-      "time": "2026-08-29T13:59:01.000Z",
+      "headline": "ホンダと日産「SDV」で基本ソフト共同開発など協業 近く合意へ",
+      "slug": "ホンダと日産SDVで基本ソフト共同開発など協業近",
+      "time": "2026-08-29T17:33:50.000Z",
       "independentSources": 1,
       "sources": [
-        "Yahoo!ニュース 主要"
+        "NHK 主要ニュース"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "娘が不登校に 仕事と両立は可能か",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593565?source=rss",
+          "title": "ホンダと日産「SDV」で基本ソフト共同開発など協業 近く合意へ",
+          "snippet": "ホンダと日産自動車は、ソフトウエアの更新で性能をアップデートできる次世代の車「SDV」をめぐり、基本ソフトの共同開発などで、近く合意することになりました。巨額の開発費の負担を軽減するねらいで、2029…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47171",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "独右派AfD ナチス想起させる公約",
-      "slug": "独右派AfDナチス想起させる公約",
-      "time": "2026-08-29T12:41:52.000Z",
+      "headline": "茨城県で最大震度4 津波心配なし",
+      "slug": "茨城県で最大震度4津波心配なし",
+      "time": "2026-08-29T15:23:44.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -443,10 +335,73 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "独右派AfD ナチス想起させる公約",
+          "title": "茨城県で最大震度4 津波心配なし",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593557?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593574?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "熊本地震 被災者それぞれの1カ月",
+      "slug": "熊本地震被災者それぞれの1カ月",
+      "time": "2026-08-29T12:44:42.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "熊本地震 被災者それぞれの1カ月",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593558?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "娘が不登校になった精神科医 訴え",
+      "slug": "娘が不登校になった精神科医訴え",
+      "time": "2026-08-29T14:14:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "娘が不登校になった精神科医 訴え",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593568?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "海で3人死亡 14歳は救助図ったか",
+      "slug": "海で3人死亡14歳は救助図ったか",
+      "time": "2026-08-29T12:11:53.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "海で3人死亡 14歳は救助図ったか",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593554?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -474,9 +429,9 @@
       ]
     },
     {
-      "headline": "森下に死球 虎監督ベンチ飛び出す",
-      "slug": "森下に死球虎監督ベンチ飛び出す",
-      "time": "2026-08-29T13:57:12.000Z",
+      "headline": "バレー女子敗北 木村沙織さん涙声",
+      "slug": "バレ女子敗北木村沙織さん涙声",
+      "time": "2026-08-29T14:35:24.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -485,19 +440,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "森下に死球 虎監督ベンチ飛び出す",
+          "title": "バレー女子敗北 木村沙織さん涙声",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593564?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593571?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "バレー女子が完敗 選手は5秒絶句",
-      "slug": "バレ女子が完敗選手は5秒絶句",
-      "time": "2026-08-29T12:12:22.000Z",
+      "headline": "甲子園 両軍ファン乱闘騒ぎ複数件",
+      "slug": "甲子園両軍ファン乱闘騒ぎ複数件",
+      "time": "2026-08-29T14:50:34.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -506,19 +461,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "バレー女子が完敗 選手は5秒絶句",
+          "title": "甲子園 両軍ファン乱闘騒ぎ複数件",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593551?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593572?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "金子恵美氏 子が10年前の騒動知る",
-      "slug": "金子恵美氏子が10年前の騒動知る",
-      "time": "2026-08-29T13:29:16.000Z",
+      "headline": "24時間TVにブラックビスケッツ",
+      "slug": "24時間TVにブラックビスケッツ",
+      "time": "2026-08-29T14:22:03.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -527,19 +482,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "金子恵美氏 子が10年前の騒動知る",
+          "title": "24時間TVにブラックビスケッツ",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593561?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6593570?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "せき止め湖、水量増も　被災地で雨予報―ネパール洪水・中国",
-      "slug": "せき止め湖水量増も被災地で雨予報ネパル洪水中国",
-      "time": "2026-08-29T11:30:00.000Z",
+      "headline": "森下は左前腕部の打撲　プロ野球・阪神",
+      "slug": "森下は左前腕部の打撲プロ野球阪神",
+      "time": "2026-08-29T13:55:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -548,19 +503,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "せき止め湖、水量増も　被災地で雨予報―ネパール洪水・中国",
+          "title": "森下は左前腕部の打撲　プロ野球・阪神",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082900287&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082900419&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "福岡県議選、定数・報酬減を公約　維新代表",
-      "slug": "福岡県議選定数報酬減を公約維新代表",
-      "time": "2026-08-29T08:57:00.000Z",
+      "headline": "神戸の小松、貴重な初ゴール　Ｊリーグ",
+      "slug": "神戸の小松貴重な初ゴルリグ",
+      "time": "2026-08-29T14:01:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -569,10 +524,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "福岡県議選、定数・報酬減を公約　維新代表",
+          "title": "神戸の小松、貴重な初ゴール　Ｊリーグ",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082900306&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082900433&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "町田の小川、３年ぶりのＪ復帰　「ここから上げる」―Ｊリーグ",
+      "slug": "町田の小川年ぶりの復帰ここから上げるリグ",
+      "time": "2026-08-29T13:58:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "町田の小川、３年ぶりのＪ復帰　「ここから上げる」―Ｊリーグ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082900415&g=spo&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -600,9 +576,9 @@
       ]
     },
     {
-      "headline": "米同時テロ主犯格の供述、証拠採用せず　拷問の影響考慮―軍事法廷",
-      "slug": "米同時テロ主犯格の供述証拠採用せず拷問の影響考慮",
-      "time": "2026-08-29T06:26:00.000Z",
+      "headline": "土石流死者６８２人、行方不明３０００人　復興に８０００億円試算―発生から７２時間・ネパールと中国",
+      "slug": "土石流死者人行方不明人復興に億円試算発生から時間",
+      "time": "2026-08-29T13:42:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -611,52 +587,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "米同時テロ主犯格の供述、証拠採用せず　拷問の影響考慮―軍事法廷",
+          "title": "土石流死者６８２人、行方不明３０００人　復興に８０００億円試算―発生から７２時間・ネパールと中国",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082900264&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "中継見張り員「移動中だった」　配置就く前に作業開始か―東武特急４人死亡",
-      "slug": "中継見張り員移動中だった配置就く前に作業開始か東",
-      "time": "2026-08-29T08:24:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "中継見張り員「移動中だった」　配置就く前に作業開始か―東武特急４人死亡",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082900296&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "京都がリード守る　Ｊリーグ・京都２―１福岡",
-      "slug": "京都がリド守るリグ京都福岡",
-      "time": "2026-08-29T12:13:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "京都がリード守る　Ｊリーグ・京都２―１福岡",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082900372&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026082900102&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -684,9 +618,114 @@
       ]
     },
     {
+      "headline": "日本、タイに敗れる　今大会で五輪切符ならず―アジア女子バレー",
+      "slug": "日本タイに敗れる今大会で五輪切符ならずアジア女子",
+      "time": "2026-08-29T11:57:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "日本、タイに敗れる　今大会で五輪切符ならず―アジア女子バレー",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082900318&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "せき止め湖、水量増も　被災地で雨予報―ネパール洪水・中国",
+      "slug": "せき止め湖水量増も被災地で雨予報ネパル洪水中国",
+      "time": "2026-08-29T11:30:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "せき止め湖、水量増も　被災地で雨予報―ネパール洪水・中国",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082900287&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "米同時テロ主犯格の供述、証拠採用せず　拷問の影響考慮―軍事法廷",
+      "slug": "米同時テロ主犯格の供述証拠採用せず拷問の影響考慮",
+      "time": "2026-08-29T06:26:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米同時テロ主犯格の供述、証拠採用せず　拷問の影響考慮―軍事法廷",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082900264&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ロシア軍攻撃で３７人死亡　倉庫で大規模火災、弾薬保管か―ウクライナ",
+      "slug": "ロシア軍攻撃で人死亡倉庫で大規模火災弾薬保管かウ",
+      "time": "2026-08-29T12:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ロシア軍攻撃で３７人死亡　倉庫で大規模火災、弾薬保管か―ウクライナ",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026082900345&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-29T14:00:00.000Z",
+      "time": "2026-08-29T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、３０日０９時から１２時までは火口から南西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829170042_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-29T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -698,7 +737,7 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、３０日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829140045_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829170045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -707,7 +746,49 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-29T14:00:00.000Z",
+      "time": "2026-08-29T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、３０日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829170049_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-29T17:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、３０日０９時から１２時までは火口から北東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829170052_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-08-29T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -719,7 +800,7 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、３０日０９時から１２時までは火口から南方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829140030_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829170031_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -728,7 +809,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-29T14:00:00.000Z",
+      "time": "2026-08-29T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -740,7 +821,7 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル３（入山規制）です。阿蘇山で噴火が発生した場合には、３０日０９時から１２時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829140033_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829170034_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -749,7 +830,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-08-29T14:00:00.000Z",
+      "time": "2026-08-29T17:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -761,16 +842,16 @@
           "title": "降灰予報（定時）",
           "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、３０日０９時から１２時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829140038_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829170038_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-08-29T14:00:00.000Z",
+      "headline": "震源に関する情報",
+      "slug": "震源に関する情報",
+      "time": "2026-08-29T15:19:59.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -779,19 +860,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、３０日０９時から１２時までは火口から西方向に降灰が予想されます。",
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう３０日００時１７分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829140041_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829151959_0_VXSE52_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-29T14:10:47.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-29T17:40:29.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -800,19 +881,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【大阪府雷注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【福井県大雨警報・注意報】嶺北では、低い土地の浸水や河川の増水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829141048_0_VPWW61_270000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829174030_0_VPWW55_180000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-08-29T14:10:42.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-08-29T17:10:06.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -821,10 +902,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【兵庫県雷注意報】北部では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【岐阜県大雨警報・注意報】美濃地方では、低い土地の浸水や河川の増水に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829141043_0_VPWW61_280000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260829171006_0_VPWW55_210000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -852,9 +933,9 @@
       ]
     },
     {
-      "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-      "slug": "Atleast37deadandhundreds",
-      "time": "2026-08-29T12:55:39.000Z",
+      "headline": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+      "slug": "RightwingcommentatorMilo",
+      "time": "2026-08-29T17:38:31.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -863,31 +944,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
-          "snippet": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+          "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+          "snippet": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-      "slug": "Trumphailshistoricdealfo",
-      "time": "2026-08-29T13:16:43.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-          "snippet": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -909,27 +969,6 @@
           "snippet": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-      "slug": "RightwingcommentatorMilo",
-      "time": "2026-08-29T00:46:02.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
-          "snippet": "The British citizen, who lives and works in the US, has supported Trump and ICE agents in the past.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -999,6 +1038,111 @@
       ]
     },
     {
+      "headline": "Israeli army arrests six Palestinians after settler violence in West Bank",
+      "slug": "IsraeliarmyarrestssixPal",
+      "time": "2026-08-29T17:09:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Israeli army arrests six Palestinians after settler violence in West Bank",
+          "snippet": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
+      "slug": "RSSchiefsvisittoUSdenoun",
+      "time": "2026-08-29T16:03:32.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "RSS chief’s visit to US denounced as ‘goodwill tour’ for Hindu nationalism",
+          "snippet": "Activists say Hindu nationalists have sought to mask far-right politics through broad appeals to the Indian diaspora.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/8/29/rss-chiefs-visit-to-us-denounced-as-goodwill-tour-for-hindu-nationalism?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+      "slug": "ManUnitedvsIpswichTownPr",
+      "time": "2026-08-29T14:33:45.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Man United vs Ipswich Town: Premier League – preview, team news, prediction",
+          "snippet": "United put in a sorry display as they lost 2-0 to Hull last weekend, while newly promoted Ipswich beat Sunderland 2-1.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/29/man-united-vs-ipswich-town-premier-league-preview-team-news-prediction?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
+      "slug": "LiverpoolnetlateinForest",
+      "time": "2026-08-29T14:19:23.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Liverpool net late in Forest draw to avoid Anfield debut defeat for Iraola",
+          "snippet": "Victor Munoz scores late goal to secure 2-2 draw for Liverpool after Nottingham Forest scare in Premier League.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/8/29/liverpool-draw-with-nottingham-forest-after-twice-coming-from-behind-in-epl?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
+      "slug": "KoreadividedAsisterslong",
+      "time": "2026-08-29T13:51:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Korea divided: A sister’s long wait and a defector’s bid to save his mother",
+          "snippet": "An elderly South Korean waits to see a brother in the North one last time, while a North Korean defector risks it all.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/longform/2026/8/29/korea-divided-a-sisters-long-wait-and-a-defectors-bid-to-save-his-mother?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Mladic died a happy man. He won",
       "slug": "MladicdiedahappymanHewon",
       "time": "2026-08-29T13:30:56.000Z",
@@ -1014,153 +1158,6 @@
           "snippet": "He fought for fascism to triumph. And it did.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/opinions/2026/8/29/mladic-died-a-happy-man-he-won?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Chinese rescuers race to reach mudslide survivors in Nepal-China border",
-      "slug": "Chineserescuersracetorea",
-      "time": "2026-08-29T13:10:47.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Chinese rescuers race to reach mudslide survivors in Nepal-China border",
-          "snippet": "Rescuers raced to clear roads leading to the mudslide-hit border port of Gyirong, China&#039;s Tibet Autonomous Region.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/chinese-rescuers-race-to-reach-mudslide-survivors-in-nepal-china-border?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
-      "slug": "UNRWAsfirstandlastvocati",
-      "time": "2026-08-29T12:58:25.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
-          "snippet": "Israel threatens the Qalandiya Training Centre, one of Jerusalem&#039;s oldest still-operational educational institution",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
-      "slug": "Gazafarmerreturnstothegr",
-      "time": "2026-08-29T12:56:27.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
-          "snippet": "After nearly three years of war, a farmer returns to Sheikh Ijlin’s renowned grape fields.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
-      "slug": "Indonesiasetsupsheltersf",
-      "time": "2026-08-29T12:45:48.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
-          "snippet": "Indonesia sets up shelters for babies, children affected by wildfire smoke",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/indonesia-sets-up-shelters-for-babies-children-affected-by-wildfire-smoke?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Formula One champion Lando Norris extends McLaren contract until 2030",
-      "slug": "FormulaOnechampionLandoN",
-      "time": "2026-08-29T12:34:03.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Formula One champion Lando Norris extends McLaren contract until 2030",
-          "snippet": "Last season, 26-year-old Norris delivered McLaren&#039;s first drivers&#039; title since Lewis Hamilton won it in 2008.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/8/29/formula-one-champion-lando-norris-extends-mclaren-contract-until-2030?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Zimbabwe minibus carrying church members crashes, killing at least 27",
-      "slug": "Zimbabweminibuscarryingc",
-      "time": "2026-08-29T12:02:57.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Zimbabwe minibus carrying church members crashes, killing at least 27",
-          "snippet": "The crash occurred when a truck overtook another vehicle and struck the minibus, police say.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Can “super coral” and cooling the sea, save reefs from climate change?",
-      "slug": "Cansupercoralandcoolingt",
-      "time": "2026-08-29T11:30:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
-          "snippet": "101 East investigates whether Palau may hold the key to saving the world’s coral reefs from climate-driven destruction.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
