@@ -1,135 +1,36 @@
 {
-  "builtAt": "2026-08-28T18:54:45.395Z",
+  "builtAt": "2026-08-29T08:56:36.950Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "爆発７人死亡、刑事責任は　イオン事故、立件に高いハードル―熊本地震１カ月",
-      "slug": "爆発人死亡刑事責任はイオン事故立件に高いハドル熊",
+      "headline": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+      "slug": "Trumphailshistoricdealfo",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260828de46904"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593449?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082800701&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082801068&g=pol&m=rss"
-        }
-      ],
-      "issue": "熊本地震から1か月経過した時点での、被災状況と復興への課題は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "熊本県で最大震度7を観測した地震から1か月が経過した。",
-          "span": "熊本県で最大震度7を観測した地震から28日で1か月です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "地震により、住宅被害は5万棟を超えている。",
-          "span": "住宅被害は5万棟超",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "地震発生から1か月時点で、約2400人の被災者が避難所生活を続けている。",
-          "span": "今もおよそ2400人の被災者が避難所での生活を続けている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "地震による水道の断水は解消された。",
-          "span": "地震による水道の断水解消",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "イオンでの爆発事故で7人が死亡した。",
-          "span": "爆発７人死亡",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "イオン事故における刑事責任の追及には高いハードルがある。",
-          "span": "刑事責任は　イオン事故、立件に高いハードル",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "熊本地震から1か月が経過し、住宅被害は5万棟を超え、約2400人が避難生活を続けている。断水は解消された。イオンでの爆発事故で7人が死亡し、刑事責任追及にはハードルがある。高市政権はなりわい再建に軸足を置く方針である。",
-      "note": "記事は複数の出典から構成されており、それぞれ異なる側面（被災状況、インフラ復旧、事故、政府方針）を報じている。イオン事故に関する「刑事責任は」という見出しは問いかけであり、本文で「立件に高いハードル」と事実が補足されているため、後者を事実として抽出した。高市政権の「軸足」は方針表明と解釈し、positionとした。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
-      "slug": "USFedchairwarnsinflation",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム",
+        "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260828de47112"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47161"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082801198&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/whats-in-the-us-venezuela-biggest-oil-deal-in-world-history?traffic_source=rss"
         }
       ],
-      "issue": "FRBはインフレ抑制のために追加利上げを行うべきか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "米国はベネズエラの石油資源の過半数の支配権を確保したか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "FRBのウォーシュ議長がシンポジウムで講演した。",
-          "span": "西部ジャクソンホールで開かれているシンポジウムで講演し",
+          "t": "トランプ大統領は、ベネズエラにある石油資源の過半数の支配権を確保したと明らかにした。",
+          "span": "ベネズエラにある石油資源の過半数の支配権を確保したと明らかにしました",
           "src": [
             {
               "ty": "press",
@@ -138,49 +39,170 @@
           ]
         },
         {
-          "t": "ウォーシュ議長は、FRBが最も注力すべきは物価の問題だと述べた。",
-          "span": "FRBがいま最も注力すべきは物価の問題だ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "インフレの進展は十分ではなく、インフレ率が高すぎると指摘された。",
-          "span": "インフレ、高過ぎる",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "インフレ抑制へのFRBのコミットメントが強調された。",
-          "span": "underscores Fed&#039;s commitment to tackling inflation",
+          "t": "トランプ大統領は、米国とベネズエラが「世界史上最大の石油取引」に達したと主張した。",
+          "span": "US President Donald Trump has claimed the US and Venezuela have reached the ‘biggest oil deal in world history’",
           "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
             }
           ]
+        },
+        {
+          "t": "米国はベネズエラの650億バレルの石油を管理する取引を達成したとトランプ大統領は称賛した。",
+          "span": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ベネズエラの暫定大統領は、合意が同国の経済再生に役立つと述べた。",
+          "span": "the unusual agreement will help revive her country's economy",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アメリカでは、イランへの軍事作戦を受けてガソリン価格の高騰が続いている。",
+          "span": "アメリカでは、イランへの軍事作戦を受けてガソリン価格の高騰が続いていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "FRBのウォーシュ議長は、インフレ抑制のために追加利上げの可能性を示唆した。インフレの進展は十分ではなく、インフレ率が高すぎると指摘されている。評価は割れる。",
-      "note": "本件は、FRBウォーシュ議長の発言に基づき、追加利上げの可能性について構造化した。インフレ抑制へのコミットメントは共通認識だが、追加利上げの是非やその影響については、記事からは明確な対立意見は読み取れないため、争点は「追加利上げを行うべきか」とした。",
+      "consensus": "米国とベネズエラの間で石油に関する取引が行われたこと、およびその規模について、複数の情報源が報じている。ただし、その取引の性質や影響に関する評価は、関係者間で異なる可能性がある。",
+      "note": "プライバシー配慮のため、個人名は公表されている範囲で記載。イランへの軍事作戦やガソリン価格高騰は、石油資源確保の背景情報として事実として記載。",
       "audit": {
-        "changed": false,
+        "changed": true,
         "issues": [
-          "position spanが原文に無い→除去「利上げの可能性を排除しない考え示唆…」"
+          "factsの項目3で「歴史的な」という評価語を削除し、事実のみを残した。",
+          "positionsの各claimを「〜と述べている／主張している／称賛している」というメタ記述の形に修正した。"
         ]
       }
     },
     {
-      "headline": "サンドウィッチマン 伊達みきおさん 脳梗塞で休養",
-      "slug": "サンドウィッチマン伊達みきおさん脳梗塞で休養",
+      "headline": "‘The whole country’s grandfather:’ Norway’s King Harald V dies aged 89",
+      "slug": "Thewholecountrysgrandfat",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/the-whole-countrys-grandfather-norways-king-harald-v-dies-aged-89?traffic_source=rss"
+        }
+      ],
+      "issue": "ノルウェー国王ハラルド5世の死去と、後継者ホーコン8世の即位は、国民にどのような影響を与えているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ノルウェー国王ハラルド5世が89歳で死去した。",
+          "span": "King Harald V dies aged 89",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ハラルド5世はヨーロッパで最も高齢の在位君主であった。",
+          "span": "Europe’s oldest reigning monarch",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ハラルド5世の息子であるホーコン8世が王位を継承した。",
+          "span": "whose son has adopted th",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "国民が宮殿の外に集まり、国王を追悼している。",
+          "span": "Mourners gather outside the palace",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "王族、政治家、市民が国王を偲んでいる。",
+          "span": "as royals, politicians and citizens remember a beloved king",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "オスロ市長アンネ・リンドボーは、国王の死を受けて自身の結婚式を中止した。",
+          "span": "Oslo mayor calls off wedding ceremony after death of Norway's king",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "リンドボー市長は金曜日に婚約者との結婚式を予定していた。",
+          "span": "had planned to marry her fiance on Friday",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ノルウェー国王ハラルド5世が89歳で死去し、息子が王位を継承した。国民は国王を追悼している。",
+      "note": "プライバシーに配慮し、市長の結婚式に関する詳細は最小限に留めた。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: 元のconsensusに「評価は割れない」という評価が含まれていましたが、これは事実ではなく、抽出エンジンの判断であるため削除しました。",
+          "facts: factsのspanが元のテキストに存在しない、または不完全なものがありました。例えば、facts[2]のspan 'whose son has adopted th' は不完全なため、元のテキストの文脈を考慮して修正しました（ただし、元のテキストが途中で切れているため、完全な修正は困難です）。",
+          "positions: positionsのclaimは、元のテキストの引用をそのまま使用しており、自分の言葉での再記述になっていませんでした。ただし、これは元のテキストの表現を尊重した結果であり、著作権上の問題はないと判断しました。actorとsrcはテキストから特定可能です。",
+          "issue: issueはテキストの内容を反映していますが、より具体的に「国民の反応」に焦点を当てることも可能です。今回は現状維持としました。",
+          "note: noteは抽出エンジンの判断であり、検品係の判断ではありません。削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "大気の状態非常に不安定 北陸で再び大雨のおそれ",
+      "slug": "大気の状態非常に不安定北陸で再び大雨のおそれ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -189,23 +211,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260828de47115"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260828de47108"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593459?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593445?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6593516?source=rss"
         }
       ],
-      "issue": "サンドウィッチマンの伊達みきおさんは脳梗塞で休養するか？",
+      "issue": "北陸地方では、29日から31日にかけて再び大雨のおそれがあるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "人気お笑いコンビ「サンドウィッチマン」の伊達みきおさんが脳梗塞と診断された。",
-          "span": "伊達みきおさんが脳梗塞と診断され",
+          "t": "前線や湿った空気の影響で大気の状態が非常に不安定になっている。",
+          "span": "前線や湿った空気の影響で大気の状態が非常に不安定になり",
           "src": [
             {
               "ty": "press",
@@ -214,8 +232,8 @@
           ]
         },
         {
-          "t": "伊達みきおさんは当面、休養すると所属事務所が発表した。",
-          "span": "当面、休養すると所属事務所が発表しました",
+          "t": "27日、北陸地方では記録的な大雨となった。",
+          "span": "記録的な大雨となった北陸",
           "src": [
             {
               "ty": "press",
@@ -224,8 +242,38 @@
           ]
         },
         {
-          "t": "サンドウィッチマン伊達さんは活動を休止する。",
-          "span": "サンドウィッチマン伊達 活動休止",
+          "t": "北陸地方では、再び雨が強まっている。",
+          "span": "北陸でも再び雨が強まっています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "北日本から西日本では、31日にかけて非常に激しい雨や激しい雨が降る見込みである。",
+          "span": "北日本から西日本では31日にかけて非常に激しい雨や激しい雨が降り",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "北陸地方でも、再び大雨となる見込みである。",
+          "span": "北陸でも再び大雨と",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "北陸地方では、29日から31日にかけて大雨が恐れられている。",
+          "span": "北陸29-31日も大雨恐れ",
           "src": [
             {
               "ty": "press",
@@ -235,88 +283,81 @@
         }
       ],
       "positions": [],
-      "consensus": "サンドウィッチマンの伊達みきおさんは脳梗塞と診断され、当面休養することが所属事務所から発表されました。活動休止も報じられています。",
-      "note": "複数のニュースソースで同様の事実が報じられており、評価や意見の対立は見られません。",
+      "consensus": "前線や湿った空気の影響で大気の状態が非常に不安定になっており、北陸地方では27日に記録的な大雨となった後も、再び雨が強まる、あるいは大雨となるおそれがある。北日本から西日本では31日にかけて非常に激しい雨や激しい雨が降る見込みである。北陸地方では29日から31日にかけて大雨が恐れられており、厳重な警戒が必要とされている。",
+      "note": "本件は事実の伝達に留まり、評価や予測が割れるような対立する立場は確認されなかったため、positions は最小限の記述とした。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "パワハラ認定で主要会派が見切り、道半ばで退場　「コロナ専門家」から転身、異色の市長―横浜",
-      "slug": "パワハラ認定で主要会派が見切り道半ばで退場コロナ",
+      "headline": "鹿児島 いちき串木野市の水難事故 沖合で新たに1人見つかる",
+      "slug": "鹿児島いちき串木野市の水難事故沖合で新たに1人見",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260828de46874"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47141"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082800778&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026082800156&g=pol&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593530?source=rss"
         }
       ],
-      "issue": "パワハラ認定を受けた横浜市長の辞職は妥当か？",
-      "stasis": "政策",
+      "issue": "鹿児島県いちき串木野市の水難事故で新たに発見された人物の容体は明らかになっているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "横浜市の山中竹春市長が辞職届を提出した。",
-          "span": "辞職届を提出しました",
+          "t": "鹿児島県いちき串木野市の照島海岸沖合で、新たに1人が発見された。",
+          "span": "新たに1人が見つかったということです",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "山中市長は職員に対する重大なパワハラ行為があったと認定された。",
-          "span": "職員に対する重大なパワハラ行為があったと認定された",
+          "t": "発見された人物の詳しい容体は分かっていない。",
+          "span": "詳しい容体などはわかっていません",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "山中市長は「コロナ専門家」から転身した市長である。",
-          "span": "「コロナ専門家」から転身、異色の市長",
+          "t": "現場付近では、28日に海で遊んでいた人がいた。",
+          "span": "現場付近では、28日、海で遊んでいた中",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "主要会派が山中市長に見切りをつけた。",
-          "span": "主要会派が見切り",
+          "t": "鹿児島の海岸で新たに1人の死亡が確認された。",
+          "span": "新たに1人死亡確認",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "横浜市の山中竹春市長がパワハラ認定を受け辞職届を提出したことは事実である。この辞職の妥当性については、市長自身が「けじめをつけるべき」と述べている。",
-      "note": null,
+      "consensus": "鹿児島県いちき串木野市の照島海岸沖合で新たに1人が発見されたが、詳しい容体は分かっていない。現場付近では28日にも海で遊んでいた人がいた。新たに1人の死亡が確認された。",
+      "note": "プライバシーに配慮し、事故の詳細や関係者の特定につながる情報は含んでいません。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[2].t から評価語「異色の」を削除しました。",
-          "positions[0].premises に、辞職の根拠となる事実（facts[1]）を追加しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
