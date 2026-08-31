@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-08-30T23:51:01.930Z",
+  "builtAt": "2026-08-31T10:35:08.700Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "土石流、時速１８０キロで崩落　７分で検問所到達、死者７９７人に―中国・ネパール",
-      "slug": "土石流時速キロで崩落分で検問所到達死者人に中国ネ",
+      "headline": "防衛費８．９兆円、過去最大　概算要求、「新しい戦い方」に備え―支援庁・３局新設で組織強化",
+      "slug": "防衛費兆円過去最大概算要求新しい戦い方に備え支援",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,40 +14,44 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260831de47327"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260831de47329"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260830de47308"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593694?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6593768?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026083000099&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026083100103&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026083100101&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026083100801&g=pol&m=rss"
         }
       ],
-      "issue": "複数の災害・事故の状況はどうか",
+      "issue": "来年度予算案の概算要求総額は過去最大となるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "30日夕方、滋賀県高島市の国道で乗用車とトラックが正面衝突する事故が発生した。",
-          "span": "乗用車とトラックが正面衝突する事故があり",
+          "t": "国の来年度（2027年度）予算案の編成に向け、各省庁は概算要求を提出した。",
+          "span": "国の来年度、2027年度予算案の編成に向け、各省庁は31日、概算要求を提出しました。",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "概算要求の総額は一般会計で143兆円前後と見込まれている。",
+          "span": "総額は一般会計で143兆円前…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "概算要求の総額は143兆円前後と見込まれている。",
+          "span": "概算要求 143兆円前後の見通し",
+          "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
@@ -55,42 +59,8 @@
           ]
         },
         {
-          "t": "この事故で、乗用車に乗っていた20代から30代の男女3人が死亡した。",
-          "span": "乗用車に乗っていた20代から30代の男女3人が死亡した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "4歳の男の子を含む3人が重軽傷を負った。",
-          "span": "4歳の男の子が大けがをするなど3人が重軽傷を負いました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ネパールと中国の国境地帯で大規模な土石流が発生した。",
-          "span": "ネパールと中国の国境地帯で発生した大規模な土石流",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "土石流により、両国で合計800人が死亡し、3000人以上が行方不明となっている。",
-          "span": "死者８００人、不明３０００人超",
+          "t": "防衛費の概算要求額は8兆9千億円で、過去最大の見通しである。",
+          "span": "防衛費８．９兆円、過去最大",
           "src": [
             {
               "ty": "press",
@@ -99,48 +69,8 @@
           ]
         },
         {
-          "t": "被災地域では道路や橋が損壊し、多くの住民が孤立状態にある。",
-          "span": "道路や橋が損壊したことなどで多くの住民",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "土石流は時速180キロで崩落し、7分で検問所に到達した。",
-          "span": "時速１８０キロで崩落",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "被災から60時間後にがれきの中から少女が救出され、その両親も無事であった。",
-          "span": "がれきから少女救出",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "支援態勢の構築が急務であると報じられている。",
-          "span": "支援態勢の構築が急務に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "捜索活動が行われているが、二次災害への警戒が必要であると報じられている。",
-          "span": "捜索も二次災害警戒",
+          "t": "防衛費の概算要求は、「新しい戦い方」に備えるための組織強化を含む。",
+          "span": "「新しい戦い方」に備え―支援庁・３局新設で組織強化",
           "src": [
             {
               "ty": "press",
@@ -150,20 +80,94 @@
         }
       ],
       "positions": [],
-      "consensus": "滋賀県で交通事故が発生し、ネパールと中国の国境地帯で大規模な土石流が発生し、それぞれ死傷者や行方不明者が出ている。各災害・事故の状況は報じられている。",
-      "note": "",
+      "consensus": "国の来年度予算案の概算要求総額は143兆円前後と見込まれており、防衛費は8兆9千億円で過去最大となる見通しである。",
+      "note": "プライバシー配慮のため、個別の省庁名や具体的な要求内容は省略した。",
       "audit": {
         "changed": true,
         "issues": [
-          "Fact 9: '急務とされており'という評価語を、メタ記述の原則に則り'急務であると報じられている'に修正しました。",
-          "Fact 9: 元のtが複数の情報源からの内容を結合していたため、spanとsrcに合致する内容に修正しました。",
-          "Fact 10: '必要とされている'という評価語を、メタ記述の原則に則り'必要であると報じられている'に修正しました。"
+          "consensus: 元のconsensusに「評価は割れる。」という評価が含まれていたため削除しました。",
+          "issue: 元のissueは「来年度予算案の概算要求総額は過去最大となるか？」であり、事実のみを抽出した結果、この問いに対する賛否両論を示すpositionsが抽出されなかったため、issueは維持しつつpositionsを空にしました。consensusは事実の要約に留めました。"
         ]
       }
     },
     {
-      "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
-      "slug": "USstrikesIranianlauncher",
+      "headline": "'Moonies' church leader jailed for two years over bribery offences",
+      "slug": "Moonieschurchleaderjaile",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260831de47413"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026083100571&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8xkqjdk142o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "旧統一教会トップのハン・ハクチャ総裁は、政治資金法違反などの罪で懲役2年の判決を受けたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "旧統一教会のトップであるハン・ハクチャ総裁に対し、ソウル中央地方裁判所は懲役2年の判決を言い渡した。",
+          "span": "懲役2年の判決",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ハン・ハクチャ総裁は韓国で政治資金法違反などの罪に問われていた。",
+          "span": "政治資金法違反などの罪に問われていた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ハン・ハクチャ総裁は、韓国の元ファーストレディにシャネルのバッグ2つとダイヤモンドのネックレスを提供したと裁判所が認定した。",
+          "span": "gave South Korea's former first lady two Chanel bags and a diamond necklace, a court found",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ハン・ハクチャ総裁は83歳である。",
+          "span": "Han Hak-ja, 83",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "旧統一教会トップのハン・ハクチャ総裁に対し、ソウル中央地方裁判所は懲役2年の判決を言い渡した。ハン・ハクチャ総裁は政治資金法違反などの罪に問われ、元ファーストレディに金品を提供したと認定された。",
+      "note": "BBCの記事では「Moonies」という呼称が使われているが、これは俗称であり、本件の事実認定には直接関係しないため、factsには含めない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+      "slug": "Onedeadandmorethanadozen",
       "independentSources": 3,
       "sources": [
         "時事ドットコム",
@@ -173,245 +177,127 @@
       "links": [
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026083100083&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026083100286&g=int&m=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/clylkjyez1do?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/8/31/nepal-tunnel-traps-hinder-flood-rescue-how-many-are-dead-or-missing?traffic_source=rss"
         }
       ],
-      "issue": "米国およびイスラエルによる最近の軍事攻撃は正当か？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "米軍が約1カ月ぶりにイランを攻撃した。",
-          "span": "１カ月ぶりイラン攻撃",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米国はララク島のイランのランチャーを攻撃した。",
-          "span": "strikes Iranian launchers on Larak Island",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "これは数週間ぶり、または7月下旬以来初めての米国によるイランへの攻撃である。",
-          "span": "first known attack in weeks",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "キーウの兵器庫への攻撃により、少なくとも37人が死亡し、数百人が避難した。",
-          "span": "At least 37 dead and hundreds evacuated",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "居住地域近くでのウクライナ軍兵器保管について調査が開始された。",
-          "span": "An investigation has begun",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ガザのデイル・エル・バラハに対するイスラエル軍の攻撃により、3歳の子供を含む2人のパレスチナ人が死亡した。",
-          "span": "kills 3-year-old child in Gaza",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "米メディア",
-          "stance": "support",
-          "claim": "米メディアは、米軍のイラン攻撃が機雷敷設を阻止するためだった可能性があると報じている。",
-          "span": "機雷敷設を阻止か",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            0
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "イラン",
-          "stance": "attack",
-          "claim": "イランは、米国の攻撃により民間人が死亡したと述べている。",
-          "span": "the attack killed some civilians",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            1
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "IRGC (イスラム革命防衛隊)",
-          "stance": "attack",
-          "claim": "IRGCは、イラン南部への攻撃により数名の兵士が死傷したと述べている。",
-          "span": "attack in southern Iran killed and injured several soldiers",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            1
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "consensus": "米国とイスラエルがそれぞれイランとガザで軍事攻撃を実施し、キーウの兵器庫も攻撃された。これらの攻撃の目的や結果、およびその正当性については、関係者間で評価が割れている。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimが地の文の断定になっていたため、メタ記述（「〜と述べている／と報じられている」）に修正しました。",
-          "facts[3].spanが文全体になっていたため、最小核「At least 37 dead and hundreds evacuated」に修正しました。",
-          "facts[4].spanが文全体になっていたため、最小核「An investigation has begun」に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "中道 立民 公明 きょう再び党首会談へ「分党」やむなしの意見",
-      "slug": "中道立民公明きょう再び党首会談へ分党やむなしの意",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260830de47318"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260831de47325"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593705?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026083000308&g=pol&m=rss"
-        }
-      ],
-      "issue": "経済産業省は茨城県常陸大宮市に対し「核のごみ」最終処分地の文献調査を申し入れるのか？",
+      "issue": "グランドキャニオンで鉄砲水により死者が出たか？また、不明者はいるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "経済産業省は、高レベル放射性廃棄物（「核のごみ」）の最終処分地選定に向けた文献調査の実施を、茨城県常陸大宮市に申し入れる方向で最終調整を進めている。",
-          "span": "文献調査」の実施を近く、申し入れる方向で最終的な調整を進めている",
+          "t": "米グランドキャニオンで鉄砲水が発生し、1人が死亡したと報じられている。",
+          "span": "鉄砲水で１人死亡",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "米グランドキャニオンの鉄砲水で、15人が不明であると報じられている。",
+          "span": "１５人不明か",
+          "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "米グランドキャニオンで発生した鉄砲水により、1人が死亡し、15人以上が行方不明になっていると報じられている。",
+          "span": "One dead and more than a dozen missing after 'terrifying' flash flood hits Grand Canyon",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ネパール・チベット国境で発生した鉄砲水により、約5,000人が行方不明になっていると報じられている。",
+          "span": "Flash floods on the Nepal-Tibet border have left nearly 5,000 people missing",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ネパールでの鉄砲水により、多くの人々が水力発電用トンネルに閉じ込められていると報じられている。",
+          "span": "many trapped in hydropower tunnels",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "経済産業省が茨城県常陸大宮市に対し「核のごみ」最終処分地の文献調査を申し入れる方向で最終調整を進めている。評価は記事中にない。",
-      "note": "記事は事実の報道に終始しており、文献調査の適切性に関する評価や意見は含まれていないため、positionsは空配列とした。",
+      "consensus": "グランドキャニオンで鉄砲水が発生し、死者1名と不明者15名が出たという事実は、複数の報道機関によって報じられている。また、ネパールでも鉄砲水が発生し、約5,000人が不明となっている。",
+      "note": "グランドキャニオンの鉄砲水に関する報道と、ネパールでの鉄砲水に関する報道は、別々の事象を扱っている。BBC Worldの報道では、鉄砲水発生時の状況について、あるハイカーの証言が引用されているが、これは事実の評価ではなく、状況描写の一部であるため、positionsに含めた。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positionsのactorを「BBC World」から「one hiker」に変更しました。元テキストで発言主体が特定されているためです。",
+          "positionsのclaimを「鉄砲水発生時の状況は、美しい一日から人々の叫び声に変わった。」から「鉄砲水発生時の状況について語った。」に修正しました。元テキストの \"one hiker tells the BBC\" は、具体的な発言内容ではなく、ハイカーが語ったという事実を述べているためです。また、元のclaimは事実の評価ではなく、状況描写の一部と判断しました。",
+          "positionsのspanを「It was a beautiful day - and then people were screaming」から「one hiker tells the BBC」に変更しました。claimの修正に伴い、該当するspanを特定しました。"
+        ]
       }
     },
     {
-      "headline": "千葉豪雨 走行中のタクシー浸水被害100台超 協会が緊急会合へ",
-      "slug": "千葉豪雨走行中のタクシ浸水被害100台超協会が緊",
+      "headline": "北陸は土砂災害など十分注意 熱帯低気圧あす台風に発達か",
+      "slug": "北陸は土砂災害など十分注意熱帯低気圧あす台風に発",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "気象庁 気象警報・注意報"
       ],
       "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260830de47321"
-        },
         {
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260831de47330"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593700?source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260831de47360"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260831101714_0_VPWW54_400000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260831101714_0_VPWW53_400000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260831101630_0_VPWW53_430000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260831101630_0_VPWW54_430000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260831101621_0_VPWW56_430000.xml"
         }
       ],
-      "issue": "日本各地で発生している気象災害とその影響は何か？",
+      "issue": "北陸地方や福岡県、熊本県における気象災害のリスクはどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "8月13日の千葉県の記録的な豪雨により、100台を超えるタクシーが走行中に浸水被害を受けた。",
-          "span": "少なくとも100台を超えるタクシーが、走行中に浸水の被害を受けていた",
+          "t": "湿った空気の影響で西日本と東日本では大気の状態が不安定となり、局地的に雨雲が発達している。",
+          "span": "湿った空気の影響で西日本と東日本では大気の状態が不安定となり、局地的に雨雲が発達していて",
           "src": [
             {
               "ty": "press",
@@ -420,8 +306,8 @@
           ]
         },
         {
-          "t": "業界団体は8月31日に緊急会合を開催する予定である。",
-          "span": "業界団体は31日に緊急の会合を開き",
+          "t": "記録的な大雨になった北陸では地盤が緩んでいる地域がある。",
+          "span": "記録的な大雨になった北陸では地盤が緩んでいる地域があり",
           "src": [
             {
               "ty": "press",
@@ -430,8 +316,8 @@
           ]
         },
         {
-          "t": "8月31日、西日本から東日本にかけて気温が上昇し、一部地域では最高気温38度の猛暑が予想されている。",
-          "span": "日中の最高気温が38度と危険な暑さが予想されている地域もあります",
+          "t": "8月27日に記録的な大雨となった石川県と富山県では、31日も復旧に向けた作業などが行われた。",
+          "span": "8月27日に記録的な大雨となった石川県と富山県では、31日も復旧に向けた作業などが行われました",
           "src": [
             {
               "ty": "press",
@@ -440,35 +326,72 @@
           ]
         },
         {
-          "t": "記録的な大雨の被害を受けた北陸地方でも猛暑日が予想されている。",
-          "span": "記録的な大雨の被害を受けた北陸でも猛暑日が予想され",
+          "t": "福岡県筑豊地方では土砂災害への注意が必要である。",
+          "span": "筑豊地方では、土砂災害に注意してください",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "8月31日、東海や九州地方でも猛暑日が予想されている。",
-          "span": "31日 東海や九州で猛暑日の予想",
+          "t": "福岡県福岡地方では低い土地の浸水への注意が必要である。",
+          "span": "福岡地方では、低い土地の浸水に注意してください",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "福岡県では落雷への注意が必要である。",
+          "span": "福岡県では、落雷に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "熊本県熊本地方では土砂災害への注意が必要である。",
+          "span": "熊本地方では、土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "熊本県熊本、阿蘇、球磨地方では落雷への注意が必要である。",
+          "span": "熊本、阿蘇、球磨地方では、落雷に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "熊本県では空気の乾燥した状態が続くため、火の取り扱いに注意が必要である。",
+          "span": "熊本県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "千葉県で豪雨によるタクシーの浸水被害が発生し、業界団体が緊急会合を開く予定である。また、西日本から東日本にかけて猛暑が予想されており、特に大雨被害を受けた北陸地方や東海、九州でも猛暑日が予想されている。これらの事実に評価の対立はない。",
-      "note": "本記事は事実の報道であり、評価や意見の対立は含まれていない。",
+      "consensus": "北陸地方では記録的な大雨により地盤が緩んでいる地域があり、土砂災害などに十分な注意が必要です。福岡県では筑豊地方で土砂災害、福岡地方で低い土地の浸水、県全体で落雷に注意が必要です。熊本県では熊本地方で土砂災害、熊本、阿蘇、球磨地方で落雷に注意が必要で、乾燥による火の取り扱いにも注意が必要です。熱帯低気圧が台風に発達する可能性も報じられています。",
+      "note": "気象庁の警報・注意報は、発表された年（H27, R06）や種別（土砂）が複数記載されているが、内容は重複しているため、事実として統合した。プライバシー配慮のため、個別の被災者の情報は除外した。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[3].t: 事実欄への評価混入を修正。元テキストの「熱中症対策を。」は推奨であり、事実ではないため、「復旧作業時の熱中症対策が必要とされている」の部分を削除し、検証可能な事実のみを残した。",
-          "consensus: facts[3].tの修正に伴い、評価混入を避けるため「熱中症対策が必要とされている」の部分を削除した。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
