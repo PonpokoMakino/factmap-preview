@@ -1,66 +1,101 @@
 {
-  "builtAt": "2026-09-01T01:15:43.419Z",
+  "builtAt": "2026-09-01T06:16:40.852Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Messi retires from international football with 'nothing left to give'",
-      "slug": "Messiretiresfrominternat",
-      "independentSources": 5,
+      "headline": "US army secretary resigns after months of tension",
+      "slug": "USarmysecretaryresignsaf",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
+        "BBC World"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47526"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47572"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593812?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6593848?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100255&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026090100228&g=int&m=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/ceq89y38elro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/argentinian-footballer-lionel-messi-announces-his-retirement?traffic_source=rss"
+          "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "メッシ選手はアルゼンチン代表を引退するか？",
+      "issue": "ドリスコル米陸軍長官は辞任したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "サッカーのアルゼンチン代表、メッシ選手が自身のSNSで代表引退を表明した。",
-          "span": "自身のSNSで代表を引退することを明らかにしました",
+          "t": "ドリスコル米陸軍長官がトランプ大統領に辞表を提出した。",
+          "span": "辞表を提出した",
           "src": [
             {
+              "ty": "wire",
+              "l": "NHK"
+            },
+            {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "メッシ選手はサッカーのワールドカップに史上最多6回出場した。",
-          "span": "サッカーのワールドカップで史上最多6回の出場を果たした",
+          "t": "複数のアメリカメディアがこの辞任を報じた。",
+          "span": "",
           "src": [
             {
+              "ty": "wire",
+              "l": "NHK"
+            },
+            {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "メッシ選手は、代表引退は「傷ついた」決断だったと述べた。",
-          "span": "saying it was a decision that \"hurt\"",
+          "t": "ドリスコル長官はヘグセス国防長官と確執があったとされている。",
+          "span": "ヘグセス国防長官と確執があったとされる",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "4月には海軍長官も退任している。",
+          "span": "4月には海軍長官も退任していて",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "ドリスコル氏は史上最年少の陸軍長官だった。",
+          "span": "the youngest-ever army secretary",
           "src": [
             {
               "ty": "press",
@@ -69,41 +104,29 @@
           ]
         },
         {
-          "t": "アストンビラの鈴木彩艶選手がプレミアリーグにデビューした。",
-          "span": "アストンビラの鈴木彩艶がプレミアデビュー",
+          "t": "ドリスコル氏は就任から約18ヶ月だった。",
+          "span": "about 18 months into his post",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "鈴木彩艶選手は日本人ゴールキーパーとして初のプレミアリーグデビューとなった。",
-          "span": "日本人ＧＫ初―イングランド・サッカー",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "メッシ選手は自身のSNSでアルゼンチン代表からの引退を表明した。ワールドカップに史上最多6回出場した。アストンビラの鈴木彩艶選手がプレミアリーグにデビューし、日本人GKとして初となった。",
-      "note": "メッシ選手の引退表明に関する複数の報道を統合した。鈴木彩艶選手のデビューは別のニュースとして扱った。",
+      "consensus": "ドリスコル米陸軍長官が辞表を提出したと複数のメディアが報じている。",
       "audit": {
         "changed": true,
         "issues": [
-          "factsの3番目の項目「メッシ選手は、代表引退は「何も与えるものが残っていない」と感じたためだと述べた。」は、BBC Worldの \"saying it was a decision that \\\"hurt\\\"\" から直接抽出されたものではなく、\"with 'nothing left to give'\" の部分と \"saying it was a decision that \\\"hurt\\\"\" の部分が混同されている可能性があります。また、spanが \"saying it was a decision that \\\"hurt\\\"\" となっているにも関わらず、tの内容が \"nothing left to give\" に言及しているため、事実のtの内容を \"メッシ選手は、代表引退は「傷ついた」決断だったと述べた。\" に修正し、spanを \"saying it was a decision that \\\"hurt\\\"\" に対応させました。これにより、事実の3番目と4番目が重複していたため、4番目を削除しました。",
-          "factsの3番目の項目「メッシ選手は、代表引退は「傷ついた」決断だったと述べた。」のspanが \"saying it was a decision that \\\"hurt\\\"\" であり、tの内容と一致しているため、この項目を事実の3番目として残しました。元のJSONでは、この情報が事実の4番目として存在していましたが、事実の3番目と重複していたため、事実の4番目を削除しました。",
-          "consensusの「評価は割れない。」という記述は、抽出エンジンの判断であり、中立検品係の役割ではないため削除しました。"
+          "facts[1].span が空文字だったため、元テキストから「アメリカの複数のメディアは...と伝えました」に修正しました。",
+          "fact spanが原文に無い→除去「アメリカの複数のメディアは、…と伝え…」"
         ]
       }
     },
     {
-      "headline": "米ベッセント財務長官と日銀総裁や片山財務相が相次ぎ会談",
-      "slug": "米ベッセント財務長官と日銀総裁や片山財務相が相次",
+      "headline": "「生活道路」の最高速度３０キロに　９月１日から運用開始―一般道の７割対象、歩行者対策強化・警察庁",
+      "slug": "生活道路の最高速度キロに月日から運用開始一般道の",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -112,28 +135,24 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47542"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260831de47504"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100134&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026090100362&g=soc&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100179&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026083000229&g=soc&m=rss"
         }
       ],
-      "issue": "日本は円高へ向けた措置を講じ、利上げすべきか？",
+      "issue": "生活道路の法定速度引き下げはどのように実施され、どのような影響があるか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "米国のベッセント財務長官と日本の片山財務相、日銀の植田総裁が相次いで会談した。",
-          "span": "米ベッセント財務長官と日銀総裁や片山財務相が相次ぎ会談",
+          "t": "いわゆる「生活道路」での車の法定速度が時速30キロに引き下げられた。",
+          "span": "最高速度３０キロに",
           "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
             {
               "ty": "wire",
               "l": "時事ドットコム"
@@ -141,28 +160,48 @@
           ]
         },
         {
-          "t": "会談は、G20財務相・中央銀行総裁会議が開催されている米国ノースカロライナ州アッシュビルで行われた。",
-          "span": "G20＝主要20か国の財務相・中央銀行総裁会議が開かれているアメリカのノースカロライナ州・アッシュビルで",
+          "t": "この法定速度の引き下げは9月1日から運用が開始された。",
+          "span": "９月１日から運用開始",
           "src": [
             {
               "ty": "wire",
-              "l": "NHK"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "米国財務省高官が10月31日にNHKの単独インタビューに応じた。",
-          "span": "アメリカ財務省の高官が、31日、NHKの単独インタビューに応じ",
+          "t": "警視庁は都内の道路で違反の取り締まりを行い、ドライバーに注意を呼びかけた。",
+          "span": "違反の取り締まりを行う警視庁がドライバーに注意を呼びかけました",
           "src": [
             {
-              "ty": "wire",
-              "l": "NHK"
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "日米財務相会談は、協調介入後初めての開催となった。",
-          "span": "協調介入後初",
+          "t": "以前の法定速度は時速60キロだった。",
+          "span": "時速６０キロから３０キロに",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "この速度規制は一般道の約7割が対象となる。",
+          "span": "一般道の７割対象",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "警察庁は歩行者対策の強化を目的としている。",
+          "span": "歩行者対策強化",
           "src": [
             {
               "ty": "wire",
@@ -172,57 +211,51 @@
         }
       ],
       "positions": [],
-      "consensus": "評価は割れる／アプリは裁定しない",
-      "note": null,
+      "consensus": "いわゆる「生活道路」の法定速度が9月1日から時速30キロに引き下げられ、警視庁が取り締まりを開始した。この変更は一般道の約7割に適用され、歩行者対策強化が目的とされている。記事中には、この政策に対する評価や賛否の意見は示されていない。",
+      "note": "記事は政策の実施と事実を報じており、特定の立場や評価の対立は記述されていないため、positionsは空配列です。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimが地の文の断定になっていたため、「〜と報じられている」のメタ記述に修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
-      "slug": "USArmySecretaryDanielDri",
+      "headline": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+      "slug": "Whatitwaslikeinsidecourt",
       "independentSources": 2,
       "sources": [
-        "時事ドットコム",
+        "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100228&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100227&g=flash&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss"
         }
       ],
-      "issue": "米陸軍長官は辞表を提出したか？",
+      "issue": "Duane 'Keffe D' DavisはTupac Shakurの殺害で有罪判決を受けたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "米陸軍長官が辞表を提出したと報じられた。",
-          "span": "米陸軍長官が辞表を提出した",
+          "t": "Duane \"Keffe D\" DavisはTupac Shakurの殺害で有罪判決を受けた。",
+          "span": "found guilty of murde",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "米陸軍長官の辞任は、国防長官との数ヶ月にわたる緊張関係に続くものだと報じられた。",
-          "span": "",
+          "t": "ラスベガスの陪審員は、元ギャングリーダーのDuane ‘Keffe D’ Davisに対し、1996年のTupac Shakur殺害で有罪判決を下した。",
+          "span": "guilty of Tupac Shakur’s 1996 murder",
           "src": [
             {
               "ty": "press",
@@ -232,21 +265,16 @@
         }
       ],
       "positions": [],
-      "consensus": "米陸軍長官が辞表を提出したと報じられている。報道によると、この辞任は国防長官との緊張関係に続くとされている。",
-      "note": "プライバシー配慮のため、米陸軍長官の氏名は報道されている場合のみ記載。国防長官の氏名も同様。",
+      "consensus": "Duane 'Keffe D' DavisがTupac Shakurの殺害で有罪判決を受けたことについては、報道機関間で合意がある。",
+      "note": "D4vdに関する記事は、Tupac Shakurの殺害事件とは異なるため、本構造化の対象外とした。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimを「〜と述べている／と報じられている」の構造に修正しました。",
-          "factsのspanを元テキストに存在する最小核に修正しました。",
-          "positionsのspanを元テキストに存在する最小核に修正しました。",
-          "position spanが原文に無い→除去「US Army Secretary …」"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "長期金利 2.970％に上昇 約29年11か月ぶりの水準",
-      "slug": "長期金利2970に上昇約29年11か月ぶりの水準",
+      "headline": "ネパール土石流死者1000人超 国連「6万5000人が支援必要」",
+      "slug": "ネパル土石流死者1000人超国連6万5000人が",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -255,54 +283,71 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47546"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47575"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593818?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6593852?source=rss"
         }
       ],
-      "issue": "長期金利はどのような水準に達したか？",
+      "issue": "ネパールと中国の国境付近で発生した土石流による被害状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "10年ものの国債の利回りが一時2.970%まで上昇した。",
-          "span": "2.970％まで上昇しました",
+          "t": "ネパールと中国の国境付近で大規模な土石流が発生した。",
+          "span": "大規模な土石流で",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "10年ものの国債の利回りは、1996年10月以来およそ29年11か月ぶりの高い水準となった。",
-          "span": "1996年10月以来、およそ29年11か月ぶりの高い水",
+          "t": "ネパールの災害当局は1日、ネパール側で987人の死亡が確認されたと発表した。",
+          "span": "987人の死亡が確認された",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "長期金利が一時2.955%に達し、約30年ぶりの水準となった。",
-          "span": "長期金利一時2.955% 30年ぶり水準",
+          "t": "亡くなった人は中国側とあわせて1000人を超えた。",
+          "span": "1000人を超えました",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "国連は6万5000人が支援を必要としていると述べた。",
+          "span": "6万5000人が支援必要",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "長期金利が約29年11か月ぶり（または約30年ぶり）の高水準に達したという事実が報じられている。",
+      "consensus": "ネパールと中国の国境付近で発生した大規模な土石流により、死者が1000人を超え、国連は6万5000人が支援を必要としていると報じられている。",
+      "note": "本記事は事実の報告のみであり、評価や意見の対立は含まれていません。",
       "audit": {
         "changed": false,
-        "issues": [
-          "出典が入力に無い→除去「日本相互証券」"
-        ]
+        "issues": []
       }
     }
   ]
