@@ -1,226 +1,10 @@
 {
-  "builtAt": "2026-09-01T06:16:40.852Z",
+  "builtAt": "2026-09-01T11:46:54.939Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "US army secretary resigns after months of tension",
-      "slug": "USarmysecretaryresignsaf",
-      "independentSources": 4,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47572"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593848?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100228&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "ドリスコル米陸軍長官は辞任したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ドリスコル米陸軍長官がトランプ大統領に辞表を提出した。",
-          "span": "辞表を提出した",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "複数のアメリカメディアがこの辞任を報じた。",
-          "span": "",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ドリスコル長官はヘグセス国防長官と確執があったとされている。",
-          "span": "ヘグセス国防長官と確執があったとされる",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "4月には海軍長官も退任している。",
-          "span": "4月には海軍長官も退任していて",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "ドリスコル氏は史上最年少の陸軍長官だった。",
-          "span": "the youngest-ever army secretary",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ドリスコル氏は就任から約18ヶ月だった。",
-          "span": "about 18 months into his post",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ドリスコル米陸軍長官が辞表を提出したと複数のメディアが報じている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].span が空文字だったため、元テキストから「アメリカの複数のメディアは...と伝えました」に修正しました。",
-          "fact spanが原文に無い→除去「アメリカの複数のメディアは、…と伝え…」"
-        ]
-      }
-    },
-    {
-      "headline": "「生活道路」の最高速度３０キロに　９月１日から運用開始―一般道の７割対象、歩行者対策強化・警察庁",
-      "slug": "生活道路の最高速度キロに月日から運用開始一般道の",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260831de47504"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100362&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026083000229&g=soc&m=rss"
-        }
-      ],
-      "issue": "生活道路の法定速度引き下げはどのように実施され、どのような影響があるか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "いわゆる「生活道路」での車の法定速度が時速30キロに引き下げられた。",
-          "span": "最高速度３０キロに",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "この法定速度の引き下げは9月1日から運用が開始された。",
-          "span": "９月１日から運用開始",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "警視庁は都内の道路で違反の取り締まりを行い、ドライバーに注意を呼びかけた。",
-          "span": "違反の取り締まりを行う警視庁がドライバーに注意を呼びかけました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "以前の法定速度は時速60キロだった。",
-          "span": "時速６０キロから３０キロに",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "この速度規制は一般道の約7割が対象となる。",
-          "span": "一般道の７割対象",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "警察庁は歩行者対策の強化を目的としている。",
-          "span": "歩行者対策強化",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "いわゆる「生活道路」の法定速度が9月1日から時速30キロに引き下げられ、警視庁が取り締まりを開始した。この変更は一般道の約7割に適用され、歩行者対策強化が目的とされている。記事中には、この政策に対する評価や賛否の意見は示されていない。",
-      "note": "記事は政策の実施と事実を報じており、特定の立場や評価の対立は記述されていないため、positionsは空配列です。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "What it was like inside court for Tupac Shakur’s murder trial verdict",
-      "slug": "Whatitwaslikeinsidecourt",
+      "headline": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
+      "slug": "Nepaldeathtollcrosses100",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -229,23 +13,35 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
         }
       ],
-      "issue": "Duane 'Keffe D' DavisはTupac Shakurの殺害で有罪判決を受けたか？",
-      "stasis": "事実",
+      "issue": "ネパールで発生した災害による死者数は1,000人を超えたか？",
+      "stasis": "facts",
       "facts": [
         {
-          "t": "Duane \"Keffe D\" DavisはTupac Shakurの殺害で有罪判決を受けた。",
-          "span": "found guilty of murde",
+          "t": "ネパールで発生した災害による死者数が1,000人を超えた。",
+          "span": "Nepal death toll crosses 1,000",
           "src": [
             {
               "ty": "press",
@@ -254,48 +50,52 @@
           ]
         },
         {
-          "t": "ラスベガスの陪審員は、元ギャングリーダーのDuane ‘Keffe D’ Davisに対し、1996年のTupac Shakur殺害で有罪判決を下した。",
-          "span": "guilty of Tupac Shakur’s 1996 murder",
+          "t": "チベットでの公式な死者数は16人であると中国国営メディアが報じている。",
+          "span": "the official number of fatalities in Tibet at 16",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "Duane 'Keffe D' DavisがTupac Shakurの殺害で有罪判決を受けたことについては、報道機関間で合意がある。",
-      "note": "D4vdに関する記事は、Tupac Shakurの殺害事件とは異なるため、本構造化の対象外とした。",
+      "consensus": "ネパールでの死者数は1,000人を超えた。チベットでの公式な死者数は16人であると中国国営メディアが報じている。",
+      "note": "複数の災害に関する情報が混在しているため、個別の争点として分割する。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "ネパール土石流死者1000人超 国連「6万5000人が支援必要」",
-      "slug": "ネパル土石流死者1000人超国連6万5000人が",
+      "headline": "死者１０００人、不明４４００人超　捜索難航続く、被害全容に時間―ネパール・中国の土石流災害１週間",
+      "slug": "死者人不明人超捜索難航続く被害全容に時間ネパル中",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47671"
+        },
         {
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260901de47575"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593852?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090100704&g=int&m=rss"
         }
       ],
-      "issue": "ネパールと中国の国境付近で発生した土石流による被害状況はどうか？",
+      "issue": "ネパール・中国国境付近の土石流災害における救援・支援活動の状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
           "t": "ネパールと中国の国境付近で大規模な土石流が発生した。",
-          "span": "大規模な土石流で",
+          "span": "ネパールと中国の国境付近で起きた大規模な土石流",
           "src": [
             {
               "ty": "press",
@@ -303,13 +103,13 @@
             },
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "ネパールの災害当局は1日、ネパール側で987人の死亡が確認されたと発表した。",
-          "span": "987人の死亡が確認された",
+          "t": "依然として連絡が取れていない日本人5人がいる。",
+          "span": "依然として連絡が取れていない日本人5人",
           "src": [
             {
               "ty": "press",
@@ -318,8 +118,18 @@
           ]
         },
         {
-          "t": "亡くなった人は中国側とあわせて1000人を超えた。",
-          "span": "1000人を超えました",
+          "t": "高市総理大臣はネパールのバレンドラ・シャー首相と電話会談を行った。",
+          "span": "高市総理大臣はネパールのバレンドラ・シャー首相と電話で会談し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "死亡が確認された人は1000人を超えている。",
+          "span": "死亡が確認された人は1019人となり",
           "src": [
             {
               "ty": "press",
@@ -327,24 +137,243 @@
             },
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "国連は6万5000人が支援を必要としていると述べた。",
-          "span": "6万5000人が支援必要",
+          "t": "4400人以上の行方不明者がいる。",
+          "span": "4400人以上の行方不明者",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "現地では行方不明者の捜索や救助活動が続いている。",
+          "span": "行方不明者の捜索や救助活動が続いています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "国連は、およそ6万5000人が水や衛生などの支援を必要としていると報じられている。",
+          "span": "およそ6万5000人が水や衛…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "被災者の心のケアも言及されている。",
+          "span": "被災者心のケアも",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "捜索活動が難航しており、被害の全容把握には時間がかかると報じられている。",
+          "span": "捜索難航続く、被害全容に時間",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ネパールと中国の国境付近で発生した大規模な土石流により、死者が1000人を超え、国連は6万5000人が支援を必要としていると報じられている。",
-      "note": "本記事は事実の報告のみであり、評価や意見の対立は含まれていません。",
+      "consensus": "ネパール・中国国境付近で大規模な土石流が発生し、多数の死者・行方不明者が出ており、日本人の安否不明者もいる中で、救援・支援活動が継続されている。高市総理大臣は日本人救援への協力を要請している。",
+      "note": "本記事は事実の報告が主であり、特定の政策や行動に対する賛否の表明は少ない。高市総理大臣による日本人救援への協力要請が報じられている。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "事実欄(facts[3])に発言主体の評価（「一刻も早い」「最大限の」）が混入していたため、positionsへ移動し、メタ記述（「〜と報じられている」）を追加して修正しました。",
+          "事実欄(facts[8])に評価語（「必要とされている」）が混入していたため、「言及されている」と中立的に修正しました。",
+          "事実欄(facts[9])に解釈（「見られている」）が混入していたため、「報じられている」と中立的に修正しました。",
+          "positions配列の変更に伴い、consensusとnoteの内容を更新しました。"
+        ]
+      }
+    },
+    {
+      "headline": "女性検事退職、「天職だと思っていた。悔しい」　元検事正の性暴力事件",
+      "slug": "女性検事退職天職だと思っていた悔しい元検事正の性",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6593891?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090100924&g=soc&m=rss"
+        }
+      ],
+      "issue": "女性検事が元検事正から性被害を受けたと訴え、退職した件について、その事実関係と影響は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "性被害を訴える女性検事が退職した。",
+          "span": "性被害訴える女性検事退職",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "女性検事は「天職だと思っていた。悔しい」と述べた。",
+          "span": "「天職だと思っていた。悔しい」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "元検事正による性暴力事件が報じられている。",
+          "span": "元検事正の性暴力事件",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "性被害を訴える女性検事が退職し、「天職だと思っていた。悔しい」と述べた。元検事正による性暴力事件が報じられている。",
+      "note": "プライバシーに配慮し、被害者の実名は伏せている。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "日本人初の宇宙飛行 秋山豊寛さん死去 元TBS記者 84歳",
+      "slug": "日本人初の宇宙飛行秋山豊寛さん死去元TBS記者8",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47618"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090100778&g=soc&m=rss"
+        }
+      ],
+      "issue": "日本人初の宇宙飛行士、秋山豊寛さんの死去",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "日本人として初めて宇宙飛行を行った元TBS記者の秋山豊寛さんが、先月亡くなったことが報じられた。",
+          "span": "先月、亡くなった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "日本人として初めて宇宙飛行を行った元TBS記者の秋山豊寛さんが死去したことが報じられた。",
+          "span": "死去",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "秋山豊寛さんは84歳だった。",
+          "span": "84歳でした",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "秋山豊寛さんは84歳だった。",
+          "span": "８４歳",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "秋山豊寛さんは日本人として初めて宇宙飛行を行った。",
+          "span": "日本人として初めて宇宙飛行を行った",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "秋山豊寛さんは日本人として初めて宇宙飛行を行った。",
+          "span": "日本人初宇宙飛行",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "秋山豊寛さんは元TBS記者だった。",
+          "span": "元TBS記者",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "秋山豊寛さんは元TBS記者だった。",
+          "span": "元ＴＢＳ記者",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日本人として初めて宇宙飛行を行った元TBS記者の秋山豊寛さんが、先月84歳で亡くなったことが報じられた。この件に関して評価や意見の対立は見られない。",
+      "note": "",
       "audit": {
         "changed": false,
         "issues": []
