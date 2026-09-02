@@ -1,17 +1,17 @@
 {
-  "rankedAt": "2026-09-02T18:08:09.310Z",
+  "rankedAt": "2026-09-02T21:00:37.060Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風と前線影響 西・東日本は3日から大雨に 長引くおそれも",
       "slug": "台風と前線影響西東日本は3日から大雨に長引くおそ",
-      "time": "2026-09-02T18:05:08.000Z",
+      "time": "2026-09-02T20:58:11.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "気象庁 気象警報・注意報"
       ],
-      "count": 6,
+      "count": 7,
       "hasPrimary": true,
       "members": [
         {
@@ -23,42 +23,50 @@
           "linkKind": "article"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【八重山地方気象警報・注意報】石垣島地方では、低い土地の浸水に注意してください。八重山地方では、高波や落雷に注意してください。",
+          "title": "府県気象解説情報",
+          "snippet": "【愛知県気象解説情報（大雨・落雷・突風）】愛知県では、３日朝から５日にかけて雷を伴った激しい雨が降り、大雨となる所があるでしょう。低い土地の浸水や河川の増水に注意・警戒し、土砂災害、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180509_0_VPWW53_474000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205812_0_VPFJ51_230000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象情報",
+          "snippet": "【愛知県気象解説情報（大雨・落雷・突風）】愛知県では、３日朝から５日にかけて雷を伴った激しい雨が降り、大雨となる所があるでしょう。低い土地の浸水や河川の増水に注意・警戒し、土砂災害、竜巻などの激しい突風や落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205812_0_VPFJ50_230000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象情報",
+          "snippet": "【岡山県気象解説情報（大雨）】岡山県では、３日夕方から４日夜遅くにかけて、低い土地の浸水や河川の増水に十分注意してください。また、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205704_0_VPFJ50_330000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "府県気象解説情報",
+          "snippet": "【岡山県気象解説情報（大雨）】岡山県では、３日夕方から４日夜遅くにかけて、低い土地の浸水や河川の増水に十分注意してください。また、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205704_0_VPFJ51_330000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【秋田県気象警報・注意報】〈危険警報（大雨、土砂災害）〉沿岸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205653_0_VPWW53_050000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【八重山地方気象警報・注意報】石垣島地方では、低い土地の浸水に注意してください。八重山地方では、高波や落雷に注意してください。",
+          "snippet": "【秋田県気象警報・注意報】〈危険警報（大雨、土砂災害）〉沿岸では、土砂災害や低い土地の浸水に厳重に警戒してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180509_0_VPWW54_474000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【八重山地方気象警報・注意報】石垣島地方では、低い土地の浸水に注意してください。八重山地方では、高波や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180356_0_VPWW54_474000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【八重山地方気象警報・注意報】石垣島地方では、低い土地の浸水に注意してください。八重山地方では、高波や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180356_0_VPWW53_474000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（大雨）",
-          "snippet": "【八重山地方大雨警報・注意報】石垣島地方では、低い土地の浸水や河川の増水に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180347_0_VPWW55_474000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205653_0_VPWW54_050000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -67,7 +75,7 @@
     {
       "headline": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
       "slug": "IranianattackonSauditank",
-      "time": "2026-09-02T17:43:01.000Z",
+      "time": "2026-09-02T20:12:14.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -93,124 +101,56 @@
           "linkKind": "article"
         },
         {
-          "title": "Nepal intensifies relief and recovery efforts after deadly floods, UN says",
-          "snippet": "More than 1,200 people have died and thousands are missing, as rescue efforts continue and aid is airlifted to villages.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8xk45k9r1go?at_medium=RSS&at_campaign=rss",
+          "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+          "snippet": "Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is &#039;under USA contr",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Gunman in deadly Swiss rave attack ‘lone perpetrator’, police say",
-          "snippet": "Police say no indication anyone ​else involved in attack that killed 22-year-old Italian woman.",
+          "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+          "snippet": "US President Donald Trump has threatened further attacks on Iran and says the military destroyed a mine-laying rocket.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/2/gunman-in-deadly-swiss-rave-attack-lone-perpetrator-police-say?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Deadly bus crash in Egypt’s Sinai kills 22, injures 28",
-          "snippet": "A deadly bus crash in Egypt’s South Sinai killed 22 people and injured 28",
+          "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
+          "snippet": "Regional neighbours condemn attack this week that killed two crew members from the Philippines.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/deadly-bus-crash-in-egypts-sinai-kills-22-injures-28?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-      "slug": "IransaysUSstrikekilledfo",
-      "time": "2026-09-02T17:35:32.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-          "snippet": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and dro",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-          "snippet": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "A year into Trump’s boat strike campaign, families search for answers",
-          "snippet": "While the Trump administration claims it has killed &#039;narcoterrorists&#039;, families fear fishermen are among the v",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/2/a-year-into-trumps-boat-strike-campaign-families-search-for-answers?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-      "slug": "Zelenskysaysairlinesshou",
-      "time": "2026-09-02T16:58:59.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Zelensky says airlines should avoid Russian airspace as Ukraine escalates drone operations",
-          "snippet": "Chinese and Gulf state airlines are among those still using Russian airspace. Meanwhile, Russia says it will intensify i",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c9v9yydy2wvo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "South African airline behind daring  stadium stunt cancels next flyby, regulator says",
-          "snippet": "The civil aviation authority says it is also investigating last Saturday's aerial display.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c2e0r4nwg30o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US oil giant Chevron to expand Venezuela operations",
-          "snippet": "Chevron, the only US oil firm with major presence in Venezuela, said it has got extra acreage and will double output.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "青森 鰺ヶ沢町付近で記録的大雨 災害の危険迫る",
-      "slug": "青森鰺ヶ沢町付近で記録的大雨災害の危険迫る",
-      "time": "2026-09-02T14:30:49.000Z",
+      "headline": "青森市 一部地域に緊急安全確保 瀬戸子川で氾濫発生",
+      "slug": "青森市一部地域に緊急安全確保瀬戸子川で氾濫発生",
+      "time": "2026-09-02T20:34:06.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要"
       ],
-      "count": 2,
+      "count": 3,
       "hasPrimary": false,
       "members": [
         {
-          "title": "青森 鰺ヶ沢町付近で記録的大雨 災害の危険迫る",
-          "snippet": "気象庁によりますと、レーダーによる解析で午後10時50分までの1時間に青森県鰺ヶ沢町付近ではおよそ90ミリの猛烈な雨が降ったとみられます。\n\n災害の危険が迫っていることから、気象庁は「記録的短時間大雨…",
+          "title": "青森市 一部地域に緊急安全確保 瀬戸子川で氾濫発生",
+          "snippet": "青森市は大雨により瀬戸子川で氾濫が発生したとして、3日午前1時50分、飛鳥塩越地区、飛鳥福浦地区、飛鳥岸田地区、瀬戸子磯田地区、瀬戸子神田地区の456世帯、892人に緊急安全確保を出しました。\n\n5段…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260902de47873",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47882",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "青森市 一部地域に避難指示 内真部川が氾濫のおそれ",
+          "snippet": "青森市は、市内を流れる内真部川が氾濫するおそれが高いとして3日午前4時すぎ\n▽清水浜元地区\n▽清水川瀬地区\n▽内真部平岡地区\n▽内真部岸田地区のあわせて306世帯556人に避難指示を出しました。\n\n5…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47886",
           "ty": "press",
           "linkKind": "article"
         },
@@ -230,17 +170,17 @@
       "time": "2026-09-02T12:58:00.000Z",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "上皇さまの意向受け 将来の葬儀の規模大幅縮小へ",
-          "snippet": "上皇さまが生前退位の意向がにじむビデオメッセージを表されてからことしで10年となり、上皇ご夫妻は公の場にはほぼ出ることなく、穏やかな日々を過ごされています。\n\nことし93歳となる上皇さまは将来のご自身…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260902de47735",
+          "title": "上皇さまの葬儀規模 大幅縮小検討",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594027?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -255,38 +195,69 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-02T17:00:00.000Z",
-      "independentSources": 1,
+      "headline": "円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中",
+      "slug": "円相場一時1ドル158円台前半に上昇日銀利上げ観",
+      "time": "2026-09-02T18:15:44.000Z",
+      "independentSources": 2,
       "sources": [
-        "気象庁 地震・火山"
+        "NHK 主要ニュース",
+        "時事ドットコム"
       ],
       "count": 2,
-      "hasPrimary": true,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、３日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902170046_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中",
+          "snippet": "2日のニューヨーク外国為替市場ではドルを売って円を買う動きが急激に進む場面があり、円相場は一時、1ドル＝158円台前半まで値上がりしました。\n\n日銀による利上げのペースが速まるのではないかとの観測が出…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47883",
+          "ty": "press",
+          "linkKind": "article"
         },
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、３日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902140045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "ＮＹ円、一時２円近く急伸",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090201290&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "死者１１００人超、４４００人不明　土石流１週間、捜索難航―ネパール・中国",
+      "slug": "死者人超人不明土石流週間捜索難航ネパル中国",
+      "time": "2026-09-02T20:29:46.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ネパール土石流 1200人以上死亡 首相は気候変動対策を訴え",
+          "snippet": "ネパールと中国の国境付近で起きた大規模な土石流で、これまでに1200人以上が死亡し、4700人以上の行方が分からなくなっています。ネパールのシャー首相は2日、議会で、気候変動による災害のリスクが高まっ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47884",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "死者１１００人超、４４００人不明　土石流１週間、捜索難航―ネパール・中国",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090200227&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-09-02T17:00:00.000Z",
+      "time": "2026-09-02T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -296,33 +267,12 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、３日０９時から１２時までは火口から西方向に降灰が予想されます。",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、３日０９時から１２時までは火口から北西方向、３日２１時から２４時までは火口から西方向に降",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902170049_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902200052_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、３日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902140048_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-02T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
         {
           "title": "降灰予報（定時）",
           "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、３日０９時から１２時までは火口から西方向に降灰が予想されます。",
@@ -330,21 +280,42 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20260902170052_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-02T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、３日０９時から１２時までは火口から北西方向、３日２１時から２４時までは火口から南東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902200030_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、３日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、３日０９時から１２時までは火口から北西方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902140052_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902170030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-09-02T18:03:52.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-09-02T20:57:23.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -353,27 +324,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【福島県気象警報・注意報】福島県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180353_0_VPWW54_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205725_0_VPWW53_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【群馬県気象警報・注意報】群馬県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【福島県気象警報・注意報】福島県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180353_0_VPWW53_100000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205725_0_VPWW54_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-09-02T18:03:50.000Z",
+      "headline": "竜巻注意情報（目撃情報付き）",
+      "slug": "竜巻注意情報目撃情報付き",
+      "time": "2026-09-02T20:57:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -382,48 +353,56 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】長野県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "title": "竜巻注意情報（目撃情報付き）",
+          "snippet": "【新潟県気象防災速報（竜巻注意）】上越は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180352_0_VPWW54_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205703_0_VPHW51_150000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】長野県では、竜巻などの激しい突風や落雷、濃霧による視程障害に注意してください。",
+          "title": "竜巻注意情報",
+          "snippet": "【新潟県気象防災速報（竜巻注意）】上越は、竜巻などの激しい突風が発生しやすい気象状況になっています。空の様子に注意してください。雷や急な風の変化など積乱雲が近づく兆しがある場合には、頑丈な建物内に移動するなど、安全確保に努めてください。落雷",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180352_0_VPWW53_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205702_0_VPHW50_150000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "青森市 一部地域に緊急安全確保 瀬戸子川で氾濫発生",
-      "slug": "青森市一部地域に緊急安全確保瀬戸子川で氾濫発生",
-      "time": "2026-09-02T17:36:06.000Z",
+      "headline": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+      "slug": "WatchJurystillunabletore",
+      "time": "2026-09-02T20:12:32.000Z",
       "independentSources": 1,
       "sources": [
-        "NHK 主要ニュース"
+        "BBC World"
       ],
-      "count": 1,
+      "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "青森市 一部地域に緊急安全確保 瀬戸子川で氾濫発生",
-          "snippet": "青森市は大雨により瀬戸子川で氾濫が発生したとして、3日午前1時50分、飛鳥塩越地区、飛鳥福浦地区、飛鳥岸田地区、瀬戸子磯田地区、瀬戸子神田地区の456世帯、892人に緊急安全確保を出しました。\n\n5段…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47882",
+          "title": "Watch: Jury still unable to reach unanimous decision in Lindsay Clancy case",
+          "snippet": "For a second time in two days, jurors told the judge they could not agree on a verdict in the murder trial.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cy8z32v7130o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
+          "snippet": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に",
-      "slug": "ネパル土石流発生から1週間避難所の衛生状態維持も",
-      "time": "2026-09-02T13:23:55.000Z",
+      "headline": "高市首相 党役員人事と内閣改造 再来週にも踏み切るとの見方も",
+      "slug": "高市首相党役員人事と内閣改造再来週にも踏み切ると",
+      "time": "2026-09-02T19:53:27.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -432,19 +411,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に",
-          "snippet": "ネパールと中国の国境付近で起きた大規模な土石流の発生から2日で1週間となり、両国ではこれまでに1000人以上が死亡、日本人5人を含む4400人以上の行方がわからなくなっています。\n現地ではいまも救助活…",
+          "title": "高市首相 党役員人事と内閣改造 再来週にも踏み切るとの見方も",
+          "snippet": "自民党の役員人事と内閣改造をめぐり、政府・与党内では食料品の消費税減税に関する税制改正大綱を決定したあと、再来週にも高市総理大臣が人事に踏み切るのではないかという見方が出ています。党役員人事では麻生副…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47705",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47879",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "陸自が侵攻相手対処の攻撃用小型無人機を初めて公開",
-      "slug": "陸自が侵攻相手対処の攻撃用小型無人機を初めて公開",
-      "time": "2026-09-02T11:18:00.000Z",
+      "headline": "アメリカ中間選挙まで2か月 共和・民主の選挙戦さらに激しく",
+      "slug": "アメリカ中間選挙まで2か月共和民主の選挙戦さらに",
+      "time": "2026-09-02T20:40:03.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -453,31 +432,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "陸自が侵攻相手対処の攻撃用小型無人機を初めて公開",
-          "snippet": "防衛省が無人機の大量導入を進めるなか、陸上自衛隊は侵攻してくる相手への対処に使うことが想定される攻撃用の小型無人機を使った訓練を宮城県で実施し、このなかで機体を初めて公開しました。",
+          "title": "アメリカ中間選挙まで2か月 共和・民主の選挙戦さらに激しく",
+          "snippet": "トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙まであと2か月となります。イラン情勢や物価高などを背景に支持率が低迷する中、トランプ大統領は野党・民主党への批判を強めていて、選挙戦は…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260902de47796",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "パジェロ新型モデル公開 自動車各社 人気車種で国際競争に備え",
-      "slug": "パジェロ新型モデル公開自動車各社人気車種で国際競",
-      "time": "2026-09-02T10:35:18.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "パジェロ新型モデル公開 自動車各社 人気車種で国際競争に備え",
-          "snippet": "三菱自動車工業は、ことし12月に国内で7年ぶりに復活させるかつての人気車種「パジェロ」の新型モデルを、2日、公開しました。自動車メーカー各社では、人気車種に力を入れることで会社のブランド価値を高め、激…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260902de47794",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47876",
           "ty": "press",
           "linkKind": "article"
         }
@@ -499,27 +457,6 @@
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6594000?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "上皇さまの葬儀規模 大幅縮小検討",
-      "slug": "上皇さまの葬儀規模大幅縮小検討",
-      "time": "2026-09-02T12:43:30.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "上皇さまの葬儀規模 大幅縮小検討",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594027?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -694,6 +631,27 @@
       ]
     },
     {
+      "headline": "秋篠宮ご夫妻、ノルウェーへ　前国王の葬儀に参列",
+      "slug": "秋篠宮ご夫妻ノルウェへ前国王の葬儀に参列",
+      "time": "2026-09-01T10:53:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "秋篠宮ご夫妻、ノルウェーへ　前国王の葬儀に参列",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090101071&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "ベネズエラ事業拡大で合意　５年間で１．１兆円超投資―米シェブロン",
       "slug": "ベネズエラ事業拡大で合意年間で兆円超投資米シェブ",
       "time": "2026-09-02T14:03:00.000Z",
@@ -709,48 +667,6 @@
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026090201275&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "辺野古移設「県民の反対変わらぬ」　稲嶺元沖縄知事に聞く―知事選",
-      "slug": "辺野古移設県民の反対変わらぬ稲嶺元沖縄知事に聞く",
-      "time": "2026-09-01T21:56:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "辺野古移設「県民の反対変わらぬ」　稲嶺元沖縄知事に聞く―知事選",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100882&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ＮＹ円、一時２円近く急伸",
-      "slug": "円一時円近く急伸",
-      "time": "2026-09-02T14:30:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ＮＹ円、一時２円近く急伸",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090201290&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -778,9 +694,9 @@
       ]
     },
     {
-      "headline": "有事の官民連携、小泉防衛相に提言　笹川財団",
-      "slug": "有事の官民連携小泉防衛相に提言笹川財団",
-      "time": "2026-09-02T09:34:00.000Z",
+      "headline": "「もう帰れない」「どう生きたら」　自宅や職失い、不安募る被災者―ネパール洪水",
+      "slug": "もう帰れないどう生きたら自宅や職失い不安募る被災",
+      "time": "2026-09-02T11:35:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -789,138 +705,159 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "有事の官民連携、小泉防衛相に提言　笹川財団",
+          "title": "「もう帰れない」「どう生きたら」　自宅や職失い、不安募る被災者―ネパール洪水",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090201028&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026090200982&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "長崎、勝ち点３逃す　Ｊリーグ",
-      "slug": "長崎勝ち点逃すリグ",
-      "time": "2026-09-02T14:12:00.000Z",
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-09-02T20:56:55.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　３日０５時５４分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902205655_0_VXSE53_270000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-02T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、３日０９時から１２時までは火口から西方向、３日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902200042_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-02T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、３日０９時から１２時までは火口から西方向、３日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902200045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-02T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、３日０９時から１２時までは火口から西方向、３日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902200048_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-02T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、３日０９時から１２時までは火口から北西方向、３日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902200034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-02T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、３日０９時から１２時までは火口から北西方向、３日２１時から２４時までは火口から北西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902200038_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+      "slug": "IransaysUSstrikekilledfo",
+      "time": "2026-09-02T15:33:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "長崎、勝ち点３逃す　Ｊリーグ",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090201283&g=spo&m=rss",
+          "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
+          "snippet": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and dro",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-02T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、３日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902170030_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-02T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、３日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902170034_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-02T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、３日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902170038_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-02T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、３日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902170042_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-09-02T18:03:47.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【長野県雷・濃霧注意報】長野県では、竜巻などの激しい突風や急な強い雨、落雷、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260902180347_0_VPWW61_200000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
@@ -946,9 +883,9 @@
       ]
     },
     {
-      "headline": "Woman charged with juror intimidation in Lindsay Clancy trial",
-      "slug": "Womanchargedwithjurorint",
-      "time": "2026-09-02T17:05:09.000Z",
+      "headline": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "slug": "RosenbergPutinsveiledthr",
+      "time": "2026-09-02T11:47:11.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -957,19 +894,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Woman charged with juror intimidation in Lindsay Clancy trial",
-          "snippet": "Dawn Light is accused of taking photos of jurors outside the Plymouth courthouse, a practice prohibited by the court.",
+          "title": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+          "snippet": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwyze4593zwo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-      "slug": "Morethan900killedinGazat",
-      "time": "2026-09-02T11:51:46.000Z",
+      "headline": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+      "slug": "Maltesetycoonacquittedof",
+      "time": "2026-09-02T19:05:31.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -978,19 +915,61 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-          "snippet": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 ",
+          "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+          "snippet": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Over 500 students hospitalised after eating state-supplied meals in Indones",
-      "slug": "Over500studentshospitali",
-      "time": "2026-09-02T17:37:29.000Z",
+      "headline": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "slug": "Netherlandsmovesbillions",
+      "time": "2026-09-02T17:21:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+          "snippet": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geo",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "slug": "UbershutsoperationsinNig",
+      "time": "2026-09-02T20:21:04.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+          "snippet": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Nepal families hold symbolic funerals, thousands still missing",
+      "slug": "Nepalfamiliesholdsymboli",
+      "time": "2026-09-02T20:30:24.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -999,19 +978,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Over 500 students hospitalised after eating state-supplied meals in Indones",
-          "snippet": "More than 500 students in Indonesia were hospitalised with food poisoning on Tuesday.",
+          "title": "Nepal families hold symbolic funerals, thousands still missing",
+          "snippet": "Families in Nepal hold symbolic funerals as rescuers search for survivors and bodies.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/over-500-students-hospitalised-after-eating-state-supplied-meals-in-indones?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/02-09-sv-nepal-a-week-after-symbolic-funerals-wrap-fm?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
-      "slug": "Brazilianactivistdemands",
-      "time": "2026-09-02T17:10:17.000Z",
+      "headline": "What you need to know: US launches coin featuring Trump’s face",
+      "slug": "WhatyouneedtoknowUSlaunc",
+      "time": "2026-09-02T20:11:14.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1020,19 +999,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
-          "snippet": "Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.",
+          "title": "What you need to know: US launches coin featuring Trump’s face",
+          "snippet": "The coin marks the first time in nearly 200 years that a living person has been featured on the country&#039;s currency.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Uber lays off 3,300 employees in largest cuts since the pandemic",
-      "slug": "Uberlaysoff3300employees",
-      "time": "2026-09-02T16:55:52.000Z",
+      "headline": "Israeli protesters call for an end to settler violence",
+      "slug": "Israeliprotesterscallfor",
+      "time": "2026-09-02T20:07:41.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1041,19 +1020,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Uber lays off 3,300 employees in largest cuts since the pandemic",
-          "snippet": "The layoffs aim to streamline management layers and simplify team structures, says Uber’s CEO Dara Khosrowshahi.",
+          "title": "Israeli protesters call for an end to settler violence",
+          "snippet": "Israeli protesters gathered in Jerusalem on Wednesday to condemn violence by Jewish settlers in the occupied West Bank.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Zambia’s Hichilema begins second term amid disputed vote and arrests",
-      "slug": "ZambiasHichilemabeginsse",
-      "time": "2026-09-02T16:47:47.000Z",
+      "headline": "US judge rejects bid to break up Google’s ad business",
+      "slug": "USjudgerejectsbidtobreak",
+      "time": "2026-09-02T20:06:25.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1062,19 +1041,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Zambia’s Hichilema begins second term amid disputed vote and arrests",
-          "snippet": "Economic gains face growing scrutiny as political tensions deepen after the vote.",
+          "title": "US judge rejects bid to break up Google’s ad business",
+          "snippet": "Justice Department had argued Google could not be trusted to run the online advertising exchange.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/2/zambias-hichilema-begins-second-term-amid-disputed-vote-and-arrests?traffic_source=rss",
+          "link": "https://www.aljazeera.com/economy/2026/9/2/us-judge-rejects-bid-to-break-up-googles-ad-business?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "George Clooney: US government run by ‘least qualified people’",
-      "slug": "GeorgeClooneyUSgovernmen",
-      "time": "2026-09-02T16:25:28.000Z",
+      "headline": "Tiger Woods avoids jail time, takes plea deal over Florida crash",
+      "slug": "TigerWoodsavoidsjailtime",
+      "time": "2026-09-02T20:00:34.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1083,19 +1062,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "George Clooney: US government run by ‘least qualified people’",
-          "snippet": "US actor George Clooney has described US President Donald Trump’s administration as a ‘kakistocracy’.",
+          "title": "Tiger Woods avoids jail time, takes plea deal over Florida crash",
+          "snippet": "Golfing champion Tiger Woods has pleaded no contest at a Florida court for reckless driving after a rollover crash.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/george-clooney-us-government-run-by-least-qualified-people?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/tiger-woods-avoids-jail-time-takes-plea-deal-over-florida-crash?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "WHO chief warns Ebola response must ramp up to stem DRC outbreak",
-      "slug": "WHOchiefwarnsEbolarespon",
-      "time": "2026-09-02T16:18:45.000Z",
+      "headline": "Dreams shattered: Gaza amputees struggle under blockade and rubble",
+      "slug": "DreamsshatteredGazaamput",
+      "time": "2026-09-02T19:35:36.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1104,10 +1083,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "WHO chief warns Ebola response must ramp up to stem DRC outbreak",
-          "snippet": "Number of people killed in the Democratic Republic of Congo from disease exceeds 3,000 amid response funding gap.",
+          "title": "Dreams shattered: Gaza amputees struggle under blockade and rubble",
+          "snippet": "Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/2/who-chief-warns-ebola-response-must-ramp-up-to-stem-drc-outbreak?traffic_source=rss",
+          "link": "https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "US says it will use regional body to isolate Nicaragua",
+      "slug": "USsaysitwilluseregionalb",
+      "time": "2026-09-02T19:12:47.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US says it will use regional body to isolate Nicaragua",
+          "snippet": "Move comes after Nicaragua&#039;s lawmakers change constitution to ban most political opposition.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/2/us-says-it-will-use-regional-body-to-isolate-nicaragua?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
