@@ -1,238 +1,50 @@
 {
-  "builtAt": "2026-09-01T11:46:54.939Z",
+  "builtAt": "2026-09-02T14:44:15.849Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-      "slug": "Nepaldeathtollcrosses100",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c24j5192j7jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss"
-        }
-      ],
-      "issue": "ネパールで発生した災害による死者数は1,000人を超えたか？",
-      "stasis": "facts",
-      "facts": [
-        {
-          "t": "ネパールで発生した災害による死者数が1,000人を超えた。",
-          "span": "Nepal death toll crosses 1,000",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "チベットでの公式な死者数は16人であると中国国営メディアが報じている。",
-          "span": "the official number of fatalities in Tibet at 16",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ネパールでの死者数は1,000人を超えた。チベットでの公式な死者数は16人であると中国国営メディアが報じている。",
-      "note": "複数の災害に関する情報が混在しているため、個別の争点として分割する。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "死者１０００人、不明４４００人超　捜索難航続く、被害全容に時間―ネパール・中国の土石流災害１週間",
-      "slug": "死者人不明人超捜索難航続く被害全容に時間ネパル中",
-      "independentSources": 2,
+      "headline": "宮内庁が上皇さまの意向を受け、葬儀を皇居・宮殿で行う方向で検討を進めていることが分かった",
+      "slug": "宮内庁が上皇さまの意向を受け葬儀を皇居宮殿で行う",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47671"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47575"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100704&g=int&m=rss"
-        }
-      ],
-      "issue": "ネパール・中国国境付近の土石流災害における救援・支援活動の状況はどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ネパールと中国の国境付近で大規模な土石流が発生した。",
-          "span": "ネパールと中国の国境付近で起きた大規模な土石流",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "依然として連絡が取れていない日本人5人がいる。",
-          "span": "依然として連絡が取れていない日本人5人",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣はネパールのバレンドラ・シャー首相と電話会談を行った。",
-          "span": "高市総理大臣はネパールのバレンドラ・シャー首相と電話で会談し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "死亡が確認された人は1000人を超えている。",
-          "span": "死亡が確認された人は1019人となり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "4400人以上の行方不明者がいる。",
-          "span": "4400人以上の行方不明者",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "現地では行方不明者の捜索や救助活動が続いている。",
-          "span": "行方不明者の捜索や救助活動が続いています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "国連は、およそ6万5000人が水や衛生などの支援を必要としていると報じられている。",
-          "span": "およそ6万5000人が水や衛…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "被災者の心のケアも言及されている。",
-          "span": "被災者心のケアも",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "捜索活動が難航しており、被害の全容把握には時間がかかると報じられている。",
-          "span": "捜索難航続く、被害全容に時間",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ネパール・中国国境付近で大規模な土石流が発生し、多数の死者・行方不明者が出ており、日本人の安否不明者もいる中で、救援・支援活動が継続されている。高市総理大臣は日本人救援への協力を要請している。",
-      "note": "本記事は事実の報告が主であり、特定の政策や行動に対する賛否の表明は少ない。高市総理大臣による日本人救援への協力要請が報じられている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄(facts[3])に発言主体の評価（「一刻も早い」「最大限の」）が混入していたため、positionsへ移動し、メタ記述（「〜と報じられている」）を追加して修正しました。",
-          "事実欄(facts[8])に評価語（「必要とされている」）が混入していたため、「言及されている」と中立的に修正しました。",
-          "事実欄(facts[9])に解釈（「見られている」）が混入していたため、「報じられている」と中立的に修正しました。",
-          "positions配列の変更に伴い、consensusとnoteの内容を更新しました。"
-        ]
-      }
-    },
-    {
-      "headline": "女性検事退職、「天職だと思っていた。悔しい」　元検事正の性暴力事件",
-      "slug": "女性検事退職天職だと思っていた悔しい元検事正の性",
-      "independentSources": 2,
-      "sources": [
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260902de47735"
+        },
+        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6593891?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6594027?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100924&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026090201142&g=soc&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090201137&g=flash&m=rss"
         }
       ],
-      "issue": "女性検事が元検事正から性被害を受けたと訴え、退職した件について、その事実関係と影響は何か？",
+      "issue": "上皇さまの将来の葬儀の規模は縮小されるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "性被害を訴える女性検事が退職した。",
-          "span": "性被害訴える女性検事退職",
+          "t": "上皇さまは、将来の葬儀の規模を大幅に縮小する意向である。",
+          "span": "上皇さまの意向受け 将来の葬儀の規模大幅縮小へ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "上皇さまの葬儀の規模は大幅縮小が検討されている。",
+          "span": "上皇さまの葬儀規模 大幅縮小検討",
           "src": [
             {
               "ty": "press",
@@ -241,8 +53,8 @@
           ]
         },
         {
-          "t": "女性検事は「天職だと思っていた。悔しい」と述べた。",
-          "span": "「天職だと思っていた。悔しい」",
+          "t": "上皇さまの葬儀は規模縮小の方向で検討されている。",
+          "span": "上皇さまの葬儀、規模縮小へ",
           "src": [
             {
               "ty": "press",
@@ -251,129 +63,275 @@
           ]
         },
         {
-          "t": "元検事正による性暴力事件が報じられている。",
-          "span": "元検事正の性暴力事件",
+          "t": "宮内庁は上皇さまの意向を受け、葬儀を皇居・宮殿で行う方向で検討を進めている。",
+          "span": "宮内庁が上皇さまの意向を受け、葬儀を皇居・宮殿で行う方向で検討を進めている",
           "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
             }
           ]
+        },
+        {
+          "t": "上皇さまは93歳である。",
+          "span": "ことし93歳となる上皇さま",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "性被害を訴える女性検事が退職し、「天職だと思っていた。悔しい」と述べた。元検事正による性暴力事件が報じられている。",
-      "note": "プライバシーに配慮し、被害者の実名は伏せている。",
+      "consensus": "上皇さまの将来の葬儀の規模は大幅に縮小される方向で、皇居・宮殿で行う方向で宮内庁が検討を進めていることで一致している。",
+      "note": "上皇ご夫妻は公の場にはほぼ出ることなく、穏やかな日々を過ごされているという記述は、葬儀の規模縮小という争点とは直接関係しないため、factsには含めない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "日本人初の宇宙飛行 秋山豊寛さん死去 元TBS記者 84歳",
-      "slug": "日本人初の宇宙飛行秋山豊寛さん死去元TBS記者8",
+      "headline": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
+      "slug": "RosenbergPutinsveiledthr",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260901de47618"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090100778&g=soc&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss"
         }
       ],
-      "issue": "日本人初の宇宙飛行士、秋山豊寛さんの死去",
-      "stasis": "事実",
+      "issue": "ロシアのプーチン大統領は、西側諸国に対するキャンペーンの一環として、英国に対してどのような意図をほのめかしているか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "日本人として初めて宇宙飛行を行った元TBS記者の秋山豊寛さんが、先月亡くなったことが報じられた。",
-          "span": "先月、亡くなった",
+          "t": "ロシアのプーチン大統領は、英国をモスクワの真の意図について推測させ、ストレスを与え続けたいと考えている。",
+          "span": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "日本人として初めて宇宙飛行を行った元TBS記者の秋山豊寛さんが死去したことが報じられた。",
-          "span": "死去",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "秋山豊寛さんは84歳だった。",
-          "span": "84歳でした",
+          "t": "プーチン大統領はゼレンスキー大統領を「テロリズム」で非難している。",
+          "span": "Putin accuses Zelenskyy of &#039;terrorism&#039;",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "秋山豊寛さんは84歳だった。",
-          "span": "８４歳",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "秋山豊寛さんは日本人として初めて宇宙飛行を行った。",
-          "span": "日本人として初めて宇宙飛行を行った",
+          "t": "ウクライナは、外国航空会社に対しロシアの空域の使用をしないよう警告している。",
+          "span": "while Ukraine warns foreign airlines against using Russian airspace.",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "秋山豊寛さんは日本人として初めて宇宙飛行を行った。",
-          "span": "日本人初宇宙飛行",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "秋山豊寛さんは元TBS記者だった。",
-          "span": "元TBS記者",
+          "t": "イランの中距離ミサイル「ヘイバル・シェカン」は、米国とイスラエルの緊張を高める上で重要な役割を果たすと言われている。",
+          "span": "Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "秋山豊寛さんは元TBS記者だった。",
-          "span": "元ＴＢＳ記者",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日本人として初めて宇宙飛行を行った元TBS記者の秋山豊寛さんが、先月84歳で亡くなったことが報じられた。この件に関して評価や意見の対立は見られない。",
-      "note": "",
+      "consensus": "プーチン大統領はゼレンスキー大統領を「テロリズム」で非難し、ウクライナは外国航空会社にロシア空域の使用を警告している。リゾは訴訟棄却に感謝している。イランのミサイルに関する情報がある。評価は割れる。",
+      "note": "プライバシー配慮のため、リゾの訴訟に関する詳細は省略。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positionsの'リゾ'のclaimを「感謝している」から「安堵している」に修正。元テキストの'grateful'は感謝だけでなく安堵の意味合いも含むため、reasonで補足されている内容とより整合性が取れるように修正した。"
+        ]
+      }
+    },
+    {
+      "headline": "青森 鰺ヶ沢町付近で記録的大雨 災害の危険迫る",
+      "slug": "青森鰺ヶ沢町付近で記録的大雨災害の危険迫る",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260902de47873"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594034?source=rss"
+        }
+      ],
+      "issue": "青森県鰺ヶ沢町付近における記録的な大雨の状況と気象庁の評価",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "青森県鰺ヶ沢町付近で猛烈な雨が降ったとみられる。",
+          "span": "およそ90ミリの猛烈な雨が降ったとみられます",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        },
+        {
+          "t": "午後10時50分までの1時間に約90ミリの雨が観測された。",
+          "span": "午後10時50分までの1時間に青森県鰺ヶ沢町付近ではおよそ90ミリの猛烈な雨が降ったとみられます",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "この雨量は気象庁のレーダー解析によるもの。",
+          "span": "レーダーによる解析で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は「記録的短時間大雨情報」を発表した。",
+          "span": "「記録的短時間大雨…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "青森県鰺ヶ沢町付近で記録的な大雨が降り、気象庁は災害の危険が迫っていると評価している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].premisesが空だったため、気象庁の評価の根拠となる事実（facts[0]とfacts[1]）を追加しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Summer transfers 2026: All to know as Premier League signings break records",
+      "slug": "Summertransfers2026Allto",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss"
+        }
+      ],
+      "issue": "最近の国際的な出来事とスポーツ界の記録更新に関する報道内容は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "米海軍の兵士がタイのパタヤに到着した。",
+          "span": "US sailors arrive in Thailand's Pattaya",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "彼らは250日間という記録的な期間を海上ですごした。",
+          "span": "record 250 days at sea",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "USSエイブラハム・リンカーンがパタヤ近くに停泊している。",
+          "span": "The USS Abraham Lincoln is docking close to Pattaya",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "パタヤはネオン街のナイトライフとセックスツーリズムで知られている。",
+          "span": "known for its neon-lit nightlife, and for sex tourism",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "プレミアリーグが移籍市場で自身の記録を更新した。",
+          "span": "Premier League breaks its own record",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "最も高額な移籍金での契約11件のうち4件が、今回の移籍期間中に成立した。",
+          "span": "four of its 11 most expensive signings have arrived this transfer window",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米海軍兵士のタイ・パタヤ到着とプレミアリーグの移籍金記録更新が報じられている。これらの報道内容について、記事内には評価や対立する意見は存在しない。",
+      "note": "本記事は複数の異なるニュースソースからの事実をまとめたものであり、特定の争点に対する評価や意見の対立は含まれていない。",
       "audit": {
         "changed": false,
         "issues": []
