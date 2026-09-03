@@ -1,51 +1,64 @@
 {
-  "builtAt": "2026-09-03T05:53:34.827Z",
+  "builtAt": "2026-09-03T20:58:43.528Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風と前線 広範囲で大雨に 九州南部で線状降水帯のおそれも",
-      "slug": "台風と前線広範囲で大雨に九州南部で線状降水帯のお",
-      "independentSources": 2,
+      "headline": "緊急援助隊、４日に派遣　政府、ネパール土石流で",
+      "slug": "緊急援助隊日に派遣政府ネパル土石流で",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
+        "時事ドットコム",
         "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47887"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48064"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090301065&g=pol&m=rss"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903054134_0_VXWW50_310000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205604_0_VPFJ51_380000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903054127_0_VPWW54_310000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205604_0_VPFJ50_380000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903054127_0_VPWW53_310000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205540_0_VPFJ51_370000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903054119_0_VPWW56_310000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205540_0_VPFJ50_370000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903053822_0_VPWW54_050000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205323_0_VPFJ50_260000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903053822_0_VPWW53_050000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205323_0_VPFJ51_260000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205147_0_VPFJ50_360000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205147_0_VPFJ51_360000.xml"
         }
       ],
-      "issue": "台風と前線の影響による大雨への警戒は妥当か？",
-      "stasis": "事実合意",
+      "issue": "ネパール土石流災害への日本の対応は適切か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "秋雨前線や台風24号の影響で、日本列島の広い範囲で大気の状態が非常に不安定になっている。",
-          "span": "秋雨前線や台風24号の影響で日本列島の広い範囲で大気の状態が非常に不安定になり",
+          "t": "ネパールと中国の国境付近で大規模な土砂災害が発生した。",
+          "span": "ネパールと中国の国境付近で起きた大規模な土砂災害",
           "src": [
             {
               "ty": "press",
@@ -54,8 +67,8 @@
           ]
         },
         {
-          "t": "日本海側など各地で雨雲が発達している。",
-          "span": "日本海側など各地で雨雲が発達していて",
+          "t": "日本の警察官5人が、死者の身元特定などのためにネパールへ派遣されることになった。",
+          "span": "死者の身元の特定などにあたる警察官5人が派遣されることになりました",
           "src": [
             {
               "ty": "press",
@@ -64,8 +77,8 @@
           ]
         },
         {
-          "t": "今後数日は広い範囲で大雨が続く見込みである。",
-          "span": "今後、数日は広い範囲で大雨が続く見込みで",
+          "t": "この派遣はネパール政府からの要請に基づくものである。",
+          "span": "ネパール政府からの要請に基づくものだということです",
           "src": [
             {
               "ty": "press",
@@ -74,74 +87,207 @@
           ]
         },
         {
-          "t": "九州南部では線状降水帯が発生するおそれがある。",
-          "span": "九州南部で線状降水帯のおそれも",
+          "t": "政府は緊急援助隊を4日に派遣した。",
+          "span": "緊急援助隊、４日に派遣",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "鳥取県にレベル４土砂災害危険警報が発表されている。",
-          "span": "鳥取県レベル４土砂災害危険警報",
+          "t": "愛媛県では、4日夜遅くにかけて低い土地の浸水や河川の増水に注意が必要である。",
+          "span": "４日夜遅くにかけて低い土地の浸水や河川の増水に",
           "src": [
             {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "鳥取県中・西部では土砂災害に厳重に警戒する必要がある。",
-          "span": "中・西部では、土砂災害に厳重に警戒してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
+              "ty": "op",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "秋田県沿岸では土砂災害に厳重に警戒する必要がある。",
-          "span": "沿岸では、土砂災害に厳重に警戒してください",
+          "t": "愛媛県では、4日朝から5日明け方にかけて土砂災害に十分注意が必要である。",
+          "span": "４日朝から５日明け方にかけて土砂災害に十分注意してください",
           "src": [
             {
-              "ty": "press",
+              "ty": "op",
               "l": "気象庁 気象警報・注意報"
-            },
+            }
+          ]
+        },
+        {
+          "t": "愛媛県では、落雷、竜巻などの激しい突風に注意が必要である。",
+          "span": "落雷、竜巻などの激しい突風に注意してください",
+          "src": [
             {
-              "ty": "press",
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "香川県では、4日夜遅くにかけて低い土地の浸水や河川の増水に注意が必要である。",
+          "span": "４日夜遅くにかけて低い土地の浸水や河川の増水に",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "香川県では、4日昼過ぎから5日明け方にかけて土砂災害に十分注意が必要である。",
+          "span": "４日昼過ぎから５日明け方にかけて土砂災害に十分注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "香川県では、落雷、竜巻などの激しい突風に注意が必要である。",
+          "span": "落雷、竜巻などの激しい突風に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "京都府では、4日夕方にかけて低い土地の浸水、河川の増水、土砂災害に十分注意が必要である。",
+          "span": "４日夕方にかけて低い土地の浸水、河川の増水、土砂災害に十分注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "京都府では、落雷や竜巻などの激しい突風に注意が必要である。",
+          "span": "落雷や竜巻などの激しい突風に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "徳島県北部では4日夜遅くにかけて、南部では5日明け方にかけて低い土地の浸水、河川の増水に十分注意が必要である。",
+          "span": "北部では４日夜遅くにかけて、南部では５日明け方にかけて低い土地の浸水、河川の増水に十分注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "徳島県北部では4日朝から5日明け方にかけて、南部では4日朝から5日昼前にかけて土砂災害に十分注意が必要である。",
+          "span": "北部では４日朝から５日明け方にかけて、南部では４日朝から５日昼前にかけて、土砂災害にも十",
+          "src": [
+            {
+              "ty": "op",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風と前線の影響で広範囲で大雨が降っており、土砂災害への警戒が必要である。",
-      "note": "一部の気象警報・注意報の発令主体が特定できないため「不明」とした。また、一部のpositionのclaimは元の文の表現をそのまま使用しているため、より中立的な表現に修正した。",
+      "consensus": "ネパール土石流災害に対し、日本政府は警察官5人の検視部隊派遣と緊急援助隊の派遣を決定した。国内では複数の地域で大雨や土砂災害、突風への注意が呼びかけられている。",
+      "note": "気象庁の発表は、複数の府県で同じ内容が繰り返されているため、代表的なもののみ記載した。徳島県の土砂災害に関する注意喚起は、原文が途中で切れているため、判読可能な範囲で記載した。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "issueを「政策」から「事実合意」に変更しました。これは、提示された情報が主に気象状況とそれに基づく注意喚起であり、特定の政策に対する賛否を論じるものではないためです。",
-          "positionsのactorを「不明」から「気象庁」に修正しました。元テキストの「気象庁 気象警報・注意報」という出典から、これらの発言の主体は気象庁であると特定できるためです。",
-          "positionsのclaimを、元の文の断定的な表現から「〜してください」という勧告の形に修正しました。これは、検品係の役割として、評価や主張ではなく、元テキストに忠実な形で、かつ中立性を保つためです。",
-          "positionsのclaimを、元の文の表現をそのまま使用している部分について、より中立的な表現に修正しました。例えば、「早めの避難を心掛けるべきである」を「早めの避難を心掛けるとともに、市町村から発表される避難指示に従ってください」と、より具体的な行動を促す形にしました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Rosenberg: Putin's veiled threat to UK part of Russia's campaign against West",
-      "slug": "RosenbergPutinsveiledthr",
+      "headline": "日本製紙八代工場 解体中の煙突火事 きょう現場検証",
+      "slug": "日本製紙八代工場解体中の煙突火事きょう現場検証",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48063"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594145?source=rss"
+        }
+      ],
+      "issue": "日本製紙八代工場で解体中の煙突で発生した火災の原因は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "日本製紙八代工場で、解体作業中の煙突で火災が発生した。",
+          "span": "解体中の煙突火事",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この火災は、ことし7月の熊本地震で9人が死亡した日本製紙八代工場で発生した。",
+          "span": "ことし7月の熊本地震で9人が死亡した日本製紙八代工場",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "火は約6時間半後の4日午前0時半ごろに消し止められた。",
+          "span": "およそ6時間半後の4日午前0時半ごろに消し止められました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警察と消防は4日、現場検証を行った。",
+          "span": "警察と消防は、4日現場検証を行う",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "日本製紙は火災について謝罪した。",
+          "span": "日本製紙謝罪",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日本製紙八代工場で解体中の煙突で火災が発生し、消し止められた。警察と消防が現場検証を行っており、日本製紙は謝罪した。火災の原因については、記事からは特定できない。",
+      "note": "プライバシー配慮のため、被害者の実名は伏せられています。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences",
+      "slug": "FourimprisonedPalestineA",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -150,27 +296,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/2/putin-and-zelenskyy-issue-threats-as-strikes-rock-ukraine-russia?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/2/what-is-irans-castle-breaker-missile-used-against-us-bases?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss"
         }
       ],
-      "issue": "ロシアのプーチン大統領は、西側諸国に対するキャンペーンの一環として、英国に対してどのような意図をほのめかしているか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "フェミニスト活動家グロリア・スタイネム氏の死去は事実か？／パレスチナ・アクション活動家の「テロ」関連有罪判決は覆されるか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "ロシアのプーチン大統領は、英国をモスクワの真の意図について推測させ、ストレスを与え続けたいと考えている。",
-          "span": "The Russian president wants to keep Britain guessing - and stressing - over Moscow's real intentions.",
+          "t": "フェミニスト活動家でジャーナリストのグロリア・スタイネム氏が92歳で死去した。",
+          "span": "Feminist activist and journalist Gloria Steinem dies, aged 92",
           "src": [
             {
               "ty": "press",
@@ -179,28 +317,18 @@
           ]
         },
         {
-          "t": "プーチン大統領はゼレンスキー大統領を「テロリズム」で非難している。",
-          "span": "Putin accuses Zelenskyy of &#039;terrorism&#039;",
+          "t": "スタイネム氏はニューヨーク市の自宅で、多くの愛する人々に囲まれ安らかに亡くなったと、彼女の財団が発表した。",
+          "span": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\"",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "ウクライナは、外国航空会社に対しロシアの空域の使用をしないよう警告している。",
-          "span": "while Ukraine warns foreign airlines against using Russian airspace.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イランの中距離ミサイル「ヘイバル・シェカン」は、米国とイスラエルの緊張を高める上で重要な役割を果たすと言われている。",
-          "span": "Kheibar Shekan, Iran&#039;s medium-range missile, is said to play a pivotal role in escalating US-Israel tensions.",
+          "t": "「テロとの関連」で刑事損壊罪で有罪判決を受けたパレスチナ・アクションの活動家たちが、有罪判決を不服として控訴している。",
+          "span": "Palestine Action activists convicted of criminal damage “with a terrorist connection” are appealing their convictions",
           "src": [
             {
               "ty": "press",
@@ -210,167 +338,88 @@
         }
       ],
       "positions": [],
-      "consensus": "プーチン大統領はゼレンスキー大統領を「テロリズム」で非難し、ウクライナは外国航空会社にロシア空域の使用を警告している。リゾは訴訟棄却に感謝している。イランのミサイルに関する情報がある。評価は割れる。",
-      "note": "プライバシー配慮のため、リゾの訴訟に関する詳細は省略。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsの'リゾ'のclaimを「感謝している」から「安堵している」に修正。元テキストの'grateful'は感謝だけでなく安堵の意味合いも含むため、reasonで補足されている内容とより整合性が取れるように修正した。"
-        ]
-      }
-    },
-    {
-      "headline": "「まんじゅうや」は無効票 東京高裁 神栖市長の訴え退ける",
-      "slug": "まんじゅうやは無効票東京高裁神栖市長の訴え退ける",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47905"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090300120&g=soc&m=rss"
-        }
-      ],
-      "issue": "「まんじゅうや」と書かれた票は有効か",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "茨城県神栖市の市長選挙において、「まんじゅうや」などと書かれた票が有効と認められなかった。",
-          "span": "「まんじゅうや」などと書かれた票が有効と認められず",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "上記の判断により、木内敏之市長の当選が無効とする裁決が下された。",
-          "span": "当選を無効とする裁決を受けた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "木内敏之市長は、この裁決を不服として裁判を起こした。",
-          "span": "不服として起こした裁判",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "東京高等裁判所は、木内敏之市長の訴えを退けた。",
-          "span": "訴え退ける",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "木内敏之市長の実家は和菓子製造会社である。",
-          "span": "実家が和菓子製造会社の",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "東京高等裁判所は「まんじゅうや」と書かれた票を無効と判断し、木内敏之市長の訴えを退けた。木内市長はこの裁決に不服を示している。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」の形式に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "宮崎 イセエビ漁の漁船が不明と通報 船長ら3人死亡 海上保安部",
-      "slug": "宮崎イセエビ漁の漁船が不明と通報船長ら3人死亡海",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47914"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090300480&g=soc&m=rss"
-        }
-      ],
-      "issue": null,
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "宮崎県日南市でイセエビ漁に出た漁船が戻っていないと海上保安部に通報があった。",
-          "span": "イセエビ漁に出た漁船が戻っていない",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "海上で船長など3人が救助されたが、いずれも死亡が確認された。",
-          "span": "船長など3人が救助されましたがいずれも死亡が確認されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "海上保安部が船体を捜索している。",
-          "span": "海保が船体を捜索",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "宮崎県日南市でイセエビ漁に出た漁船が不明と通報され、船長ら3人が救助されたものの死亡が確認された。海上保安部が船体を捜索している。",
-      "note": null,
+      "consensus": "グロリア・スタイネム氏が92歳で死去したこと、およびパレスチナ・アクションの活動家が有罪判決を不服として控訴していることは、報道されている事実である。スタイネム氏の死去の状況に関する詳細は財団の発表に基づく。",
+      "note": "本件は、異なる二つの独立したニュースソースからの情報を構造化している。",
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "More than 80 migrants feared dead after boat rescued off Canary Islands",
+      "slug": "Morethan80migrantsfeared",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/5-dead-dozens-missing-after-migrant-boat-found-after-weeks-at-sea?traffic_source=rss"
+        }
+      ],
+      "issue": "カナリア諸島沖で救助された移民船の乗客数と死亡者数はどの程度か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "カナリア諸島沖で救助された移民船から44人の生存者が発見された。",
+          "span": "44 survivors",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "悪天候のため、5体の遺体が船に残された。",
+          "span": "leave five bodies behind",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "少なくとも5人が死亡したと当局は述べている。",
+          "span": "at least 5 people have died",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "木造船でスペインのカナリア諸島を目指していた。",
+          "span": "on a wooden vessel",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "カナリア諸島沖で救助された移民船から44人の生存者が発見され、少なくとも5人の死亡が確認されている。悪天候のため5体の遺体が船に残された。80人以上の移民が死亡したとみられ、数十人が行方不明となっていると報じられている。",
+      "note": "BBC Worldの記事では80人以上の死亡が懸念されていると報じているが、Al Jazeeraの記事では少なくとも5人の死亡と数十人の行方不明と報じている。生存者数と遺体に関する事実は両記事で共通している。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0].spanを\"44 survivors\"に修正しました。元テキストの\"Rescuers found 44 survivors on board the vessel\"から、事実の核となる部分のみを抽出しました。",
+          "facts[1].spanを\"leave five bodies behind\"に修正しました。元テキストの\"bad weather meant they had to leave five bodies behind\"から、事実の核となる部分のみを抽出しました。",
+          "facts[2].spanを\"at least 5 people have died\"に修正しました。元テキストの\"at least 5 people have died\"から、事実の核となる部分のみを抽出しました。",
+          "facts[3].spanを\"on a wooden vessel\"に修正しました。元テキストの\"on a wooden vessel\"から、事実の核となる部分のみを抽出しました。",
+          "positions[0].spanを\"More than 80 migrants feared dead\"に修正しました。元テキストの\"More than 80 migrants feared dead\"から、事実の核となる部分のみを抽出しました。",
+          "positions[1].spanを\"dozens missing\"に修正しました。元テキストの\"dozens missing\"から、事実の核となる部分のみを抽出しました。"
+        ]
       }
     }
   ]
