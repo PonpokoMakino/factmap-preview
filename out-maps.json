@@ -1,40 +1,51 @@
 {
-  "builtAt": "2026-09-02T14:44:15.849Z",
+  "builtAt": "2026-09-03T05:53:34.827Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "宮内庁が上皇さまの意向を受け、葬儀を皇居・宮殿で行う方向で検討を進めていることが分かった",
-      "slug": "宮内庁が上皇さまの意向を受け葬儀を皇居宮殿で行う",
-      "independentSources": 3,
+      "headline": "台風と前線 広範囲で大雨に 九州南部で線状降水帯のおそれも",
+      "slug": "台風と前線広範囲で大雨に九州南部で線状降水帯のお",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260902de47735"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47887"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594027?source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903054134_0_VXWW50_310000.xml"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090201142&g=soc&m=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903054127_0_VPWW54_310000.xml"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090201137&g=flash&m=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903054127_0_VPWW53_310000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903054119_0_VPWW56_310000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903053822_0_VPWW54_050000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903053822_0_VPWW53_050000.xml"
         }
       ],
-      "issue": "上皇さまの将来の葬儀の規模は縮小されるか？",
-      "stasis": "事実",
+      "issue": "台風と前線の影響による大雨への警戒は妥当か？",
+      "stasis": "事実合意",
       "facts": [
         {
-          "t": "上皇さまは、将来の葬儀の規模を大幅に縮小する意向である。",
-          "span": "上皇さまの意向受け 将来の葬儀の規模大幅縮小へ",
+          "t": "秋雨前線や台風24号の影響で、日本列島の広い範囲で大気の状態が非常に不安定になっている。",
+          "span": "秋雨前線や台風24号の影響で日本列島の広い範囲で大気の状態が非常に不安定になり",
           "src": [
             {
               "ty": "press",
@@ -43,52 +54,89 @@
           ]
         },
         {
-          "t": "上皇さまの葬儀の規模は大幅縮小が検討されている。",
-          "span": "上皇さまの葬儀規模 大幅縮小検討",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "上皇さまの葬儀は規模縮小の方向で検討されている。",
-          "span": "上皇さまの葬儀、規模縮小へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "宮内庁は上皇さまの意向を受け、葬儀を皇居・宮殿で行う方向で検討を進めている。",
-          "span": "宮内庁が上皇さまの意向を受け、葬儀を皇居・宮殿で行う方向で検討を進めている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "上皇さまは93歳である。",
-          "span": "ことし93歳となる上皇さま",
+          "t": "日本海側など各地で雨雲が発達している。",
+          "span": "日本海側など各地で雨雲が発達していて",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "今後数日は広い範囲で大雨が続く見込みである。",
+          "span": "今後、数日は広い範囲で大雨が続く見込みで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "九州南部では線状降水帯が発生するおそれがある。",
+          "span": "九州南部で線状降水帯のおそれも",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "鳥取県にレベル４土砂災害危険警報が発表されている。",
+          "span": "鳥取県レベル４土砂災害危険警報",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "鳥取県中・西部では土砂災害に厳重に警戒する必要がある。",
+          "span": "中・西部では、土砂災害に厳重に警戒してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "秋田県沿岸では土砂災害に厳重に警戒する必要がある。",
+          "span": "沿岸では、土砂災害に厳重に警戒してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "上皇さまの将来の葬儀の規模は大幅に縮小される方向で、皇居・宮殿で行う方向で宮内庁が検討を進めていることで一致している。",
-      "note": "上皇ご夫妻は公の場にはほぼ出ることなく、穏やかな日々を過ごされているという記述は、葬儀の規模縮小という争点とは直接関係しないため、factsには含めない。",
+      "consensus": "台風と前線の影響で広範囲で大雨が降っており、土砂災害への警戒が必要である。",
+      "note": "一部の気象警報・注意報の発令主体が特定できないため「不明」とした。また、一部のpositionのclaimは元の文の表現をそのまま使用しているため、より中立的な表現に修正した。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issueを「政策」から「事実合意」に変更しました。これは、提示された情報が主に気象状況とそれに基づく注意喚起であり、特定の政策に対する賛否を論じるものではないためです。",
+          "positionsのactorを「不明」から「気象庁」に修正しました。元テキストの「気象庁 気象警報・注意報」という出典から、これらの発言の主体は気象庁であると特定できるためです。",
+          "positionsのclaimを、元の文の断定的な表現から「〜してください」という勧告の形に修正しました。これは、検品係の役割として、評価や主張ではなく、元テキストに忠実な形で、かつ中立性を保つためです。",
+          "positionsのclaimを、元の文の表現をそのまま使用している部分について、より中立的な表現に修正しました。例えば、「早めの避難を心掛けるべきである」を「早めの避難を心掛けるとともに、市町村から発表される避難指示に従ってください」と、より具体的な行動を促す形にしました。"
+        ]
       }
     },
     {
@@ -172,63 +220,73 @@
       }
     },
     {
-      "headline": "青森 鰺ヶ沢町付近で記録的大雨 災害の危険迫る",
-      "slug": "青森鰺ヶ沢町付近で記録的大雨災害の危険迫る",
+      "headline": "「まんじゅうや」は無効票 東京高裁 神栖市長の訴え退ける",
+      "slug": "まんじゅうやは無効票東京高裁神栖市長の訴え退ける",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260902de47873"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47905"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594034?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090300120&g=soc&m=rss"
         }
       ],
-      "issue": "青森県鰺ヶ沢町付近における記録的な大雨の状況と気象庁の評価",
+      "issue": "「まんじゅうや」と書かれた票は有効か",
       "stasis": "事実",
       "facts": [
         {
-          "t": "青森県鰺ヶ沢町付近で猛烈な雨が降ったとみられる。",
-          "span": "およそ90ミリの猛烈な雨が降ったとみられます",
+          "t": "茨城県神栖市の市長選挙において、「まんじゅうや」などと書かれた票が有効と認められなかった。",
+          "span": "「まんじゅうや」などと書かれた票が有効と認められず",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "上記の判断により、木内敏之市長の当選が無効とする裁決が下された。",
+          "span": "当選を無効とする裁決を受けた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "木内敏之市長は、この裁決を不服として裁判を起こした。",
+          "span": "不服として起こした裁判",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "東京高等裁判所は、木内敏之市長の訴えを退けた。",
+          "span": "訴え退ける",
           "src": [
             {
               "ty": "press",
               "l": "NHK"
             },
             {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "午後10時50分までの1時間に約90ミリの雨が観測された。",
-          "span": "午後10時50分までの1時間に青森県鰺ヶ沢町付近ではおよそ90ミリの猛烈な雨が降ったとみられます",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "この雨量は気象庁のレーダー解析によるもの。",
-          "span": "レーダーによる解析で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は「記録的短時間大雨情報」を発表した。",
-          "span": "「記録的短時間大雨…",
+          "t": "木内敏之市長の実家は和菓子製造会社である。",
+          "span": "実家が和菓子製造会社の",
           "src": [
             {
               "ty": "press",
@@ -238,100 +296,78 @@
         }
       ],
       "positions": [],
-      "consensus": "青森県鰺ヶ沢町付近で記録的な大雨が降り、気象庁は災害の危険が迫っていると評価している。",
+      "consensus": "東京高等裁判所は「まんじゅうや」と書かれた票を無効と判断し、木内敏之市長の訴えを退けた。木内市長はこの裁決に不服を示している。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].premisesが空だったため、気象庁の評価の根拠となる事実（facts[0]とfacts[1]）を追加しました。"
+          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」の形式に修正しました。"
         ]
       }
     },
     {
-      "headline": "Summer transfers 2026: All to know as Premier League signings break records",
-      "slug": "Summertransfers2026Allto",
+      "headline": "宮崎 イセエビ漁の漁船が不明と通報 船長ら3人死亡 海上保安部",
+      "slug": "宮崎イセエビ漁の漁船が不明と通報船長ら3人死亡海",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cg7k09z4lj9o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de47914"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/9/2/summer-transfers-2026-all-to-know-as-premier-league-signings-break-records?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090300480&g=soc&m=rss"
         }
       ],
-      "issue": "最近の国際的な出来事とスポーツ界の記録更新に関する報道内容は何か？",
+      "issue": null,
       "stasis": "事実",
       "facts": [
         {
-          "t": "米海軍の兵士がタイのパタヤに到着した。",
-          "span": "US sailors arrive in Thailand's Pattaya",
+          "t": "宮崎県日南市でイセエビ漁に出た漁船が戻っていないと海上保安部に通報があった。",
+          "span": "イセエビ漁に出た漁船が戻っていない",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "彼らは250日間という記録的な期間を海上ですごした。",
-          "span": "record 250 days at sea",
+          "t": "海上で船長など3人が救助されたが、いずれも死亡が確認された。",
+          "span": "船長など3人が救助されましたがいずれも死亡が確認されました",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "USSエイブラハム・リンカーンがパタヤ近くに停泊している。",
-          "span": "The USS Abraham Lincoln is docking close to Pattaya",
+          "t": "海上保安部が船体を捜索している。",
+          "span": "海保が船体を捜索",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "パタヤはネオン街のナイトライフとセックスツーリズムで知られている。",
-          "span": "known for its neon-lit nightlife, and for sex tourism",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "プレミアリーグが移籍市場で自身の記録を更新した。",
-          "span": "Premier League breaks its own record",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "最も高額な移籍金での契約11件のうち4件が、今回の移籍期間中に成立した。",
-          "span": "four of its 11 most expensive signings have arrived this transfer window",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "米海軍兵士のタイ・パタヤ到着とプレミアリーグの移籍金記録更新が報じられている。これらの報道内容について、記事内には評価や対立する意見は存在しない。",
-      "note": "本記事は複数の異なるニュースソースからの事実をまとめたものであり、特定の争点に対する評価や意見の対立は含まれていない。",
+      "consensus": "宮崎県日南市でイセエビ漁に出た漁船が不明と通報され、船長ら3人が救助されたものの死亡が確認された。海上保安部が船体を捜索している。",
+      "note": null,
       "audit": {
         "changed": false,
         "issues": []
