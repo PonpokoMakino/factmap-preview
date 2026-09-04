@@ -1,64 +1,40 @@
 {
-  "builtAt": "2026-09-03T20:58:43.528Z",
+  "builtAt": "2026-09-04T14:12:13.310Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "緊急援助隊、４日に派遣　政府、ネパール土石流で",
-      "slug": "緊急援助隊日に派遣政府ネパル土石流で",
+      "headline": "８月の米雇用、１６万２０００人増　予想大幅超え、失業率４．１％",
+      "slug": "月の米雇用万人増予想大幅超え失業率",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム",
-        "気象庁 気象警報・注意報"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48064"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48240"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48171"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594237?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090301065&g=pol&m=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205604_0_VPFJ51_380000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205604_0_VPFJ50_380000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205540_0_VPFJ51_370000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205540_0_VPFJ50_370000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205323_0_VPFJ50_260000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205323_0_VPFJ51_260000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205147_0_VPFJ50_360000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260903205147_0_VPFJ51_360000.xml"
+          "link": "https://www.jiji.com/jc/article?k=2026090401043&g=int&m=rss"
         }
       ],
-      "issue": "ネパール土石流災害への日本の対応は適切か？",
-      "stasis": "政策",
+      "issue": "アメリカの8月の雇用統計は市場予想を上回ったか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "ネパールと中国の国境付近で大規模な土砂災害が発生した。",
-          "span": "ネパールと中国の国境付近で起きた大規模な土砂災害",
+          "t": "アメリカの8月の農業分野以外の就業者は、前の月から16万2000人増加した。",
+          "span": "8月の農業分野以外の就業者は、前の月から16万2000人増加しました",
           "src": [
             {
               "ty": "press",
@@ -67,8 +43,8 @@
           ]
         },
         {
-          "t": "日本の警察官5人が、死者の身元特定などのためにネパールへ派遣されることになった。",
-          "span": "死者の身元の特定などにあたる警察官5人が派遣されることになりました",
+          "t": "市場は5万5000人程度の増加を見込んでいた。",
+          "span": "5万5000人程度の増加を見込んでいた市場の予想",
           "src": [
             {
               "ty": "press",
@@ -77,18 +53,18 @@
           ]
         },
         {
-          "t": "この派遣はネパール政府からの要請に基づくものである。",
-          "span": "ネパール政府からの要請に基づくものだということです",
+          "t": "8月の米雇用は16万2000人増で、予想を上回った。",
+          "span": "米8月雇用16.2万人増 予想上回る",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "政府は緊急援助隊を4日に派遣した。",
-          "span": "緊急援助隊、４日に派遣",
+          "t": "8月の米雇用は16万2000人増で、予想を大幅に超えた。",
+          "span": "８月の米雇用、１６万２０００人増　予想大幅超え",
           "src": [
             {
               "ty": "press",
@@ -97,117 +73,292 @@
           ]
         },
         {
-          "t": "愛媛県では、4日夜遅くにかけて低い土地の浸水や河川の増水に注意が必要である。",
-          "span": "４日夜遅くにかけて低い土地の浸水や河川の増水に",
+          "t": "8月の米失業率は4.1％だった。",
+          "span": "失業率４．１％",
           "src": [
             {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "愛媛県では、4日朝から5日明け方にかけて土砂災害に十分注意が必要である。",
-          "span": "４日朝から５日明け方にかけて土砂災害に十分注意してください",
+          "t": "8月30日までの1週間に全国から報告されたインフルエンザの患者数は、前の週と比べておよそ1.6倍に増えた。",
+          "span": "8月30日までの1週間に全国から報告されたインフルエンザの患者数は、全国的な流行入りが発表された前の週と比べて、およそ1.6倍に増えました",
           "src": [
             {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "愛媛県では、落雷、竜巻などの激しい突風に注意が必要である。",
-          "span": "落雷、竜巻などの激しい突風に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "香川県では、4日夜遅くにかけて低い土地の浸水や河川の増水に注意が必要である。",
-          "span": "４日夜遅くにかけて低い土地の浸水や河川の増水に",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "香川県では、4日昼過ぎから5日明け方にかけて土砂災害に十分注意が必要である。",
-          "span": "４日昼過ぎから５日明け方にかけて土砂災害に十分注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "香川県では、落雷、竜巻などの激しい突風に注意が必要である。",
-          "span": "落雷、竜巻などの激しい突風に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "京都府では、4日夕方にかけて低い土地の浸水、河川の増水、土砂災害に十分注意が必要である。",
-          "span": "４日夕方にかけて低い土地の浸水、河川の増水、土砂災害に十分注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "京都府では、落雷や竜巻などの激しい突風に注意が必要である。",
-          "span": "落雷や竜巻などの激しい突風に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "徳島県北部では4日夜遅くにかけて、南部では5日明け方にかけて低い土地の浸水、河川の増水に十分注意が必要である。",
-          "span": "北部では４日夜遅くにかけて、南部では５日明け方にかけて低い土地の浸水、河川の増水に十分注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "徳島県北部では4日朝から5日明け方にかけて、南部では4日朝から5日昼前にかけて土砂災害に十分注意が必要である。",
-          "span": "北部では４日朝から５日明け方にかけて、南部では４日朝から５日昼前にかけて、土砂災害にも十",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ネパール土石流災害に対し、日本政府は警察官5人の検視部隊派遣と緊急援助隊の派遣を決定した。国内では複数の地域で大雨や土砂災害、突風への注意が呼びかけられている。",
-      "note": "気象庁の発表は、複数の府県で同じ内容が繰り返されているため、代表的なもののみ記載した。徳島県の土砂災害に関する注意喚起は、原文が途中で切れているため、判読可能な範囲で記載した。",
+      "consensus": "アメリカの8月の雇用統計は、前の月から16万2000人増加し、市場予想の5万5000人程度を大きく上回った。8月の失業率は4.1％だった。また、8月30日までの1週間のインフルエンザ患者数は前の週比1.6倍に増加した。",
+      "note": "インフルエンザに関する情報は、雇用統計とは別の話題として扱われているため、事実として抽出しました。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "日本製紙八代工場 解体中の煙突火事 きょう現場検証",
-      "slug": "日本製紙八代工場解体中の煙突火事きょう現場検証",
+      "headline": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+      "slug": "Layeruponlayerofmiracles",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260829de47121"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48070"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090400536&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "ネパールと中国の国境地帯で発生した大規模な土石流の被害状況と救助活動はどのようなものか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ネパールと中国の国境地帯で大規模な土石流が発生した。",
+          "span": "ネパールと中国の国境地帯で発生した大規模な土石流",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "これまでに両国あわせて1318人が死亡した。",
+          "span": "死者１３１８人に",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ネパール側では5500人以上が行方不明となっている。",
+          "span": "5500人以上の行方がわからなくなっています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "土石流発生から9日後の4日、ネパール側の水力発電所で2人が救助された。",
+          "span": "埋もれた発電所で２人救出",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "救助隊は、埋もれたトンネルの入り口を捜索し、車サイズの岩を爆破するなど、複数の課題を克服する必要があった。",
+          "span": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple chal",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "現地では30日にかけても雨が降り続く見通しで、二次災害のリスクが警戒されている。",
+          "span": "二次災害のリスクを警戒",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "大規模な土石流がネパールと中国の国境地帯で発生し、多数の死者・行方不明者が出ている。救助活動が続く中で生存者が救出されたが、二次災害のリスクも警戒されている。評価は記事中にないため、アプリは裁定しない。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "事実欄への評価混入: facts[4].t の「困難」を「課題」に修正しました。原文の 'challenges' に合わせて、より中立的な表現にしました。"
+        ]
+      }
+    },
+    {
+      "headline": "鹿児島 種子島・屋久島地方で線状降水帯発生 厳重警戒【中継】",
+      "slug": "鹿児島種子島屋久島地方で線状降水帯発生厳重警戒中",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260903de48057"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48221"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904140359_0_VPCJ51_460100.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904140359_0_VPCJ50_460100.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904140013_0_VPFJ51_460100.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904140013_0_VPFJ50_460100.xml"
+        }
+      ],
+      "issue": "台風と前線の影響による全国各地の気象状況と交通機関への影響",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "鹿児島県の種子島・屋久島地方で線状降水帯が発生した。",
+          "span": "線状降水帯が発生しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "九州南部を中心に大気の状態が非常に不安定になっている。",
+          "span": "九州南部を中心に大気の状態が非常に不安定になり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "種子島・屋久島地方では断続的に猛烈な雨が降っており、土砂災害や氾濫などの危険度が高まっている。",
+          "span": "断続的に猛烈な雨が降り土砂災害や氾濫などの危険度が…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風や秋雨前線の影響がこれらの気象状況の原因となっている。",
+          "span": "台風や秋雨前線の影響で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "JR東日本は、前線や台風による大雨の影響で、首都圏の在来線が6日夜から7日月曜日にかけて運休や遅れが発生する可能性があると発表した。",
+          "span": "運休や遅れが発生する可能性がある",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "JR東日本は、詳しい運転計画は決まり次第発表するとしている。",
+          "span": "詳しい運転計画は決まり次第、発表する",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、九州南部・奄美地方では土砂災害、低い土地の浸水、河川の増水や氾濫に厳重な警戒を呼びかけている。",
+          "span": "土砂災害、低い土地の浸水、河川の増水や氾濫に厳重に警戒してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、鹿児島県（奄美地方を除く）と奄美地方では5日昼前にかけて線状降水帯が発生し、災害発生の危険があるとしている。",
+          "span": "５日昼前にかけて線状降水帯が発生して災害発生の危険",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、大隅、種子島・屋久島地方では5日夜遅くにかけて土砂災害に厳重な警戒が必要だと呼びかけている。",
+          "span": "５日夜遅くにかけて土砂災害に厳重に警戒してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、種子島・屋久島地方では5日明け方にかけて低い土地の浸水、河川の増水や氾濫に厳重な警戒が必要だと呼びかけている。",
+          "span": "５日明け方にかけて低い土地の浸水、河川の増水や氾濫に厳重に警戒してくだ",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風や秋雨前線の影響により、九州南部を中心に大気の状態が不安定となり、線状降水帯の発生や猛烈な雨が観測されている。これにより、土砂災害や河川の氾濫、低い土地の浸水などの危険が高まっており、気象庁は厳重な警戒を呼びかけている。また、JR東日本は首都圏の在来線で運休や遅れの可能性があると発表している。これらの情報は全て事実の報告であり、評価や意見の対立は存在しない。",
+      "note": "本記事は気象状況とそれに対する警戒情報、交通機関への影響に関する事実の報告であり、特定の争点に対する評価や意見の対立は含まれていないため、positionsは空配列とした。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "【気象予報士解説】今後の大雨の見通しは？",
+      "slug": "気象予報士解説今後の大雨の見通しは",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -216,210 +367,21 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48063"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48213"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594145?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6594240?source=rss"
         }
       ],
-      "issue": "日本製紙八代工場で解体中の煙突で発生した火災の原因は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "日本製紙八代工場で、解体作業中の煙突で火災が発生した。",
-          "span": "解体中の煙突火事",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この火災は、ことし7月の熊本地震で9人が死亡した日本製紙八代工場で発生した。",
-          "span": "ことし7月の熊本地震で9人が死亡した日本製紙八代工場",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "火は約6時間半後の4日午前0時半ごろに消し止められた。",
-          "span": "およそ6時間半後の4日午前0時半ごろに消し止められました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "警察と消防は4日、現場検証を行った。",
-          "span": "警察と消防は、4日現場検証を行う",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日本製紙は火災について謝罪した。",
-          "span": "日本製紙謝罪",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
+      "issue": "今後の大雨の見通しはどうか？",
+      "stasis": "評価・予測",
+      "facts": [],
       "positions": [],
-      "consensus": "日本製紙八代工場で解体中の煙突で火災が発生し、消し止められた。警察と消防が現場検証を行っており、日本製紙は謝罪した。火災の原因については、記事からは特定できない。",
-      "note": "プライバシー配慮のため、被害者の実名は伏せられています。",
+      "consensus": "関東から九州にかけての大雨の終わりは見えないと報じられている。",
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences",
-      "slug": "FourimprisonedPalestineA",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/four-imprisoned-palestine-action-activists-appeal-terrorism-sentences-2?traffic_source=rss"
-        }
-      ],
-      "issue": "フェミニスト活動家グロリア・スタイネム氏の死去は事実か？／パレスチナ・アクション活動家の「テロ」関連有罪判決は覆されるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "フェミニスト活動家でジャーナリストのグロリア・スタイネム氏が92歳で死去した。",
-          "span": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "スタイネム氏はニューヨーク市の自宅で、多くの愛する人々に囲まれ安らかに亡くなったと、彼女の財団が発表した。",
-          "span": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\"",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "「テロとの関連」で刑事損壊罪で有罪判決を受けたパレスチナ・アクションの活動家たちが、有罪判決を不服として控訴している。",
-          "span": "Palestine Action activists convicted of criminal damage “with a terrorist connection” are appealing their convictions",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "グロリア・スタイネム氏が92歳で死去したこと、およびパレスチナ・アクションの活動家が有罪判決を不服として控訴していることは、報道されている事実である。スタイネム氏の死去の状況に関する詳細は財団の発表に基づく。",
-      "note": "本件は、異なる二つの独立したニュースソースからの情報を構造化している。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "More than 80 migrants feared dead after boat rescued off Canary Islands",
-      "slug": "Morethan80migrantsfeared",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c33kzv7kly4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/5-dead-dozens-missing-after-migrant-boat-found-after-weeks-at-sea?traffic_source=rss"
-        }
-      ],
-      "issue": "カナリア諸島沖で救助された移民船の乗客数と死亡者数はどの程度か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "カナリア諸島沖で救助された移民船から44人の生存者が発見された。",
-          "span": "44 survivors",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "悪天候のため、5体の遺体が船に残された。",
-          "span": "leave five bodies behind",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "少なくとも5人が死亡したと当局は述べている。",
-          "span": "at least 5 people have died",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "木造船でスペインのカナリア諸島を目指していた。",
-          "span": "on a wooden vessel",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "カナリア諸島沖で救助された移民船から44人の生存者が発見され、少なくとも5人の死亡が確認されている。悪天候のため5体の遺体が船に残された。80人以上の移民が死亡したとみられ、数十人が行方不明となっていると報じられている。",
-      "note": "BBC Worldの記事では80人以上の死亡が懸念されていると報じているが、Al Jazeeraの記事では少なくとも5人の死亡と数十人の行方不明と報じている。生存者数と遺体に関する事実は両記事で共通している。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[0].spanを\"44 survivors\"に修正しました。元テキストの\"Rescuers found 44 survivors on board the vessel\"から、事実の核となる部分のみを抽出しました。",
-          "facts[1].spanを\"leave five bodies behind\"に修正しました。元テキストの\"bad weather meant they had to leave five bodies behind\"から、事実の核となる部分のみを抽出しました。",
-          "facts[2].spanを\"at least 5 people have died\"に修正しました。元テキストの\"at least 5 people have died\"から、事実の核となる部分のみを抽出しました。",
-          "facts[3].spanを\"on a wooden vessel\"に修正しました。元テキストの\"on a wooden vessel\"から、事実の核となる部分のみを抽出しました。",
-          "positions[0].spanを\"More than 80 migrants feared dead\"に修正しました。元テキストの\"More than 80 migrants feared dead\"から、事実の核となる部分のみを抽出しました。",
-          "positions[1].spanを\"dozens missing\"に修正しました。元テキストの\"dozens missing\"から、事実の核となる部分のみを抽出しました。"
-        ]
       }
     }
   ]
