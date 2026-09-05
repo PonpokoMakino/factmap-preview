@@ -1,25 +1,50 @@
 {
-  "rankedAt": "2026-09-04T22:08:08.094Z",
+  "rankedAt": "2026-09-05T00:02:08.851Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "インドネシア大規模噴火 現時点で目立った潮位変化観測されず",
-      "slug": "インドネシア大規模噴火現時点で目立った潮位変化観",
-      "time": "2026-09-04T21:51:35.000Z",
-      "independentSources": 3,
+      "headline": "鹿児島 屋久島町にレベル5土砂災害特別警報 命が助かる行動を",
+      "slug": "鹿児島屋久島町にレベル5土砂災害特別警報命が助か",
+      "time": "2026-09-04T23:58:50.000Z",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "気象庁 地震・火山"
+        "気象庁 地震・火山",
+        "気象庁 気象警報・注意報"
       ],
-      "count": 11,
+      "count": 17,
       "hasPrimary": true,
       "members": [
+        {
+          "title": "鹿児島 屋久島町にレベル5土砂災害特別警報 命が助かる行動を",
+          "snippet": "台風や秋雨前線の影響で、鹿児島県の種子島・屋久島地方では記録的な大雨となり、屋久島町には「レベル５土砂災害特別警報」が発表されています。\n気象庁は、重大な土砂災害がすでに発生している可能性が極めて高い…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48258",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "台風24号と秋雨前線の影響で大気不安定 今後の進路 見通しは",
+          "snippet": "台風24号は、午前6時には沖縄県の久米島の北およそ200キロの海上にあって、1時間におよそ10キロの速さで南南西へ進んでいます。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48255",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "インドネシア大規模噴火 現時点で目立った潮位変化観測されず",
           "snippet": "5日未明、インドネシアのクラカタウ火山で大規模な噴火が発生しました。\n\n気象庁は噴火による津波の有無や日本への影響を調べていますが、午前6時半現在、国内や海外の観測点で目立った潮位の変化は観測されてい…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260905de48261",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "【特別警報】気象庁が記者会見「直ちに身の安全確保して」",
+          "snippet": "鹿児島県屋久島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は、午前6時10分から記者会見を開き、警戒点などについて説明しました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48264",
           "ty": "press",
           "linkKind": "article"
         },
@@ -32,12 +57,68 @@
           "linkKind": "article"
         },
         {
-          "title": "インドネシアの火山で大規模噴火",
+          "title": "屋久島町に特別警報 最新情報",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594248?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6594249?source=rss",
           "ty": "press",
           "linkKind": "article"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904230038_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904230042_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904230046_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904230049_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904230053_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、５日０９時から１２時までは火口から南方向、５日２１時から２４時までは火口から南東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904230031_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904230034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         },
         {
           "title": "降灰予報（定時）",
@@ -48,179 +129,82 @@
           "linkKind": "data"
         },
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904200042_0_VFVO53_010000.xml",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【熊本県気象警報・注意報】熊本、天草・芦北地方では、土砂災害に注意してください。熊本、阿蘇、天草・芦北地方では、強風に注意してください。天草・芦北地方では、高波に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904231306_0_VPWW54_430000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904200046_0_VFVO53_010000.xml",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【熊本県気象警報・注意報】熊本、天草・芦北地方では、土砂災害に注意してください。熊本、阿蘇、天草・芦北地方では、強風に注意してください。天草・芦北地方では、高波に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904231307_0_VPWW53_430000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904200049_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904200053_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、５日０９時から１２時までは火口から南方向、５日２１時から２４時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904200031_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、５日０９時から１２時までは火口から西方向、５日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904200034_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、５日０９時から１２時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904170033_0_VFVO53_010000.xml",
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【熊本県土砂災害警報・注意報】熊本地方、天草・芦北地方では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904231256_0_VPWW56_430000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "鹿児島 屋久島町にレベル5土砂災害特別警報 命が助かる行動を",
-      "slug": "鹿児島屋久島町にレベル5土砂災害特別警報命が助か",
-      "time": "2026-09-04T21:57:59.000Z",
+      "headline": "UN votes to adopt new world map to reflect Africa's true size",
+      "slug": "UNvotestoadoptnewworldma",
+      "time": "2026-09-04T23:03:19.000Z",
       "independentSources": 3,
       "sources": [
-        "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
+        "時事ドットコム",
+        "BBC World"
       ],
-      "count": 10,
-      "hasPrimary": true,
+      "count": 3,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "鹿児島 屋久島町にレベル5土砂災害特別警報 命が助かる行動を",
-          "snippet": "台風や秋雨前線の影響で大気の状態が非常に不安定になり、種子島・屋久島地方では猛烈な雨が降っていて、気象庁は鹿児島県の屋久島町に「レベル5土砂災害特別警報」を発表しました。\nこれまで経験したことのないよ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48258",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "台風24号と秋雨前線の影響で大気不安定 今後の進路 見通しは",
-          "snippet": "台風24号は、午前3時には沖縄県の久米島の北およそ270キロの海上にあって、1時間におよそ10キロの速さで南南西へ進んでいます。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48255",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "気象庁が記者会見 屋久島町に土砂災害特別警報",
-          "snippet": "鹿児島県屋久島町に「レベル5土砂災害特別警報」を発表したことについて、気象庁は、午前6時10分から記者会見を開き、警戒点などについて説明しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48264",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "【動画】鹿児島 屋久島町 横殴りの激しい雨",
-          "snippet": "4日午後8時45分ごろ鹿児島県屋久島町で撮影された映像です。\n風が吹いて木々が横に揺れている様子が映っています。\n横殴りの雨が激しく降っている様子も確認できます。\n撮影した男性は「ホテルのロビーから撮…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48238",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
-          "snippet": "JR東日本によりますと、前線や台風による大雨の影響で、首都圏の在来線は6日、日曜日の夜から7日の月曜日にかけて、運休や遅れが発生する可能性があるということです。\n\n詳しい運転計画は決まり次第、発表する…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260904de48221",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "屋久島町に土砂災害特別警報",
+          "title": "メルカトル図法やめて 国連採択",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594245?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6594260?source=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "屋久島町に特別警報 最新情報",
+          "title": "アフリカ大陸、正確な大きさに　地図移行促す決議採択―国連総会",
           "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594249?source=rss",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090500205&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】〈危険警報（土砂災害）〉奄美地方では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904214007_0_VPWW53_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】〈危険警報（土砂災害）〉奄美地方では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904214007_0_VPWW54_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【奄美地方（鹿児島県）土砂災害警報・注意報】奄美地方では、土砂災害に厳重に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904213957_0_VPWW56_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "UN votes to adopt new world map to reflect Africa's true size",
+          "snippet": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
     {
       "headline": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
       "slug": "WitkoffandKushnerwilltra",
-      "time": "2026-09-04T21:22:00.000Z",
-      "independentSources": 3,
+      "time": "2026-09-04T21:19:05.000Z",
+      "independentSources": 2,
       "sources": [
-        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 3,
+      "count": 2,
       "hasPrimary": false,
       "members": [
-        {
-          "title": "米特使、５日にプーチン氏と会談　ウクライナも初訪問―米メディア",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090400959&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
         {
           "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
           "snippet": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have",
@@ -240,39 +224,9 @@
       ]
     },
     {
-      "headline": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "slug": "RussiahitsUkrainiansecur",
-      "time": "2026-09-04T16:02:32.000Z",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ウクライナ保安局庁舎にドローン命中　キーウ中心部、７人負傷",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090401081&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-          "snippet": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "震源・震度に関する情報",
       "slug": "震源震度に関する情報",
-      "time": "2026-09-04T21:30:15.000Z",
+      "time": "2026-09-04T23:30:11.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -284,7 +238,7 @@
           "title": "震源・震度に関する情報",
           "snippet": "【遠地地震に関する情報】　５日０２時５０分ころ、海外で規模の大きな地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904213015_0_VXSE53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904233011_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
@@ -292,7 +246,7 @@
           "title": "震源・震度に関する情報",
           "snippet": "【遠地地震に関する情報】　５日０２時５０分ころ、海外で規模の大きな地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904190015_0_VXSE53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904213015_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -301,7 +255,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-09-04T22:04:22.000Z",
+      "time": "2026-09-04T23:20:17.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -311,26 +265,26 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宮崎県気象警報・注意報】宮崎県では、土砂災害や高波、竜巻などの激しい突風、落雷に注意してください。南部平野部では、低い土地の浸水や強風に注意してください。",
+          "snippet": "【東京都気象警報・注意報】小笠原諸島では、高波や落雷に注意してください。伊豆諸島南部では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904220424_0_VPWW54_450000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904232018_0_VPWW54_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【宮崎県気象警報・注意報】宮崎県では、土砂災害や高波、竜巻などの激しい突風、落雷に注意してください。南部平野部では、低い土地の浸水や強風に注意してください。",
+          "snippet": "【東京都気象警報・注意報】小笠原諸島では、高波や落雷に注意してください。伊豆諸島南部では、竜巻などの激しい突風や落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904220424_0_VPWW53_450000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904232018_0_VPWW53_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-09-04T21:50:13.000Z",
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-09-04T23:18:06.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -339,85 +293,69 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【三重県気象警報・注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904215014_0_VPWW54_240000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【三重県気象警報・注意報】注意報を解除します。",
+          "snippet": "【千葉県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904215014_0_VPWW53_240000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904231808_0_VPWW53_120000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【千葉県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904231807_0_VPWW54_120000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-      "slug": "Bodyofworldsyoungesttrad",
-      "time": "2026-09-04T17:14:21.000Z",
+      "headline": "円相場 荒い値動き続く FRB 日銀の利上げ観測や介入警戒で",
+      "slug": "円相場荒い値動き続くFRB日銀の利上げ観測や介入",
+      "time": "2026-09-04T22:35:00.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "NHK 主要ニュース"
       ],
-      "count": 2,
+      "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Argentine couple to return Nazi-looted painting to rightful owner",
-          "snippet": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near B",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-          "snippet": "King Oyo died in the US last week aged 34 after receiving treatment for an aggressive form of cancer.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
+          "title": "円相場 荒い値動き続く FRB 日銀の利上げ観測や介入警戒で",
+          "snippet": "4日のニューヨーク外国為替市場ではアメリカの雇用統計で堅調さが示されたことで円を売ってドルを買う動きが進んだあと、一転して円を買い戻す動きが広がりました。\n\n円相場は当面、アメリカのFRB＝連邦準備制…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48256",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Costa Rican president signals openness to domestic US military operations",
-      "slug": "CostaRicanpresidentsigna",
-      "time": "2026-09-04T21:45:56.000Z",
+      "headline": "政府 消費税減税 地方減収分は特例交付金で全額補てん検討",
+      "slug": "政府消費税減税地方減収分は特例交付金で全額補てん",
+      "time": "2026-09-04T21:25:00.000Z",
       "independentSources": 1,
       "sources": [
-        "Al Jazeera"
+        "NHK 主要ニュース"
       ],
-      "count": 2,
+      "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Costa Rican president signals openness to domestic US military operations",
-          "snippet": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Will Europe pay the US to provide military aid to Ukraine?",
-          "snippet": "US President Donald Trump laments past financial support for Ukraine&#039;s war effort and has vowed to claw the money b",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
+          "title": "政府 消費税減税 地方減収分は特例交付金で全額補てん検討",
+          "snippet": "食料品の消費税減税をめぐり、自治体の財政運営に支障が生じないよう、政府が、税率の引き下げに伴う地方の減収分を特例交付金で全額補てんする案などを検討していることがわかりました。与党とも調整した上で、国と…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48253",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "関東～九州 大雨の終わり見えず",
-      "slug": "関東九州大雨の終わり見えず",
-      "time": "2026-09-04T13:55:37.000Z",
+      "headline": "太平洋側は大雨が長引く 備えを",
+      "slug": "太平洋側は大雨が長引く備えを",
+      "time": "2026-09-04T22:43:05.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -426,19 +364,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "関東～九州 大雨の終わり見えず",
+          "title": "太平洋側は大雨が長引く 備えを",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594240?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6594256?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "米8月雇用16.2万人増 予想上回る",
-      "slug": "米8月雇用162万人増予想上回る",
-      "time": "2026-09-04T13:21:22.000Z",
+      "headline": "茂木外相留任へ 外交の継続性重視",
+      "slug": "茂木外相留任へ外交の継続性重視",
+      "time": "2026-09-04T22:26:29.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -447,19 +385,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "米8月雇用16.2万人増 予想上回る",
+          "title": "茂木外相留任へ 外交の継続性重視",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594237?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6594255?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "濁流で両親死亡 遺品は朱印帳だけ",
-      "slug": "濁流で両親死亡遺品は朱印帳だけ",
-      "time": "2026-09-04T13:59:27.000Z",
+      "headline": "追突後40m後退 男性はねられ死亡",
+      "slug": "追突後40m後退男性はねられ死亡",
+      "time": "2026-09-04T23:35:35.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -468,19 +406,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "濁流で両親死亡 遺品は朱印帳だけ",
+          "title": "追突後40m後退 男性はねられ死亡",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594241?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6594264?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "異例 任天堂2日連続新情報発表へ",
-      "slug": "異例任天堂2日連続新情報発表へ",
-      "time": "2026-09-04T14:44:15.000Z",
+      "headline": "神奈川県民の生涯通勤 労働8年分",
+      "slug": "神奈川県民の生涯通勤労働8年分",
+      "time": "2026-09-04T23:29:42.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -489,19 +427,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "異例 任天堂2日連続新情報発表へ",
+          "title": "神奈川県民の生涯通勤 労働8年分",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594243?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6594263?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "バレー男子 薄氷の白星スタート",
-      "slug": "バレ男子薄氷の白星スタト",
-      "time": "2026-09-04T13:26:46.000Z",
+      "headline": "大谷 けがで2戦連続スタメン外",
+      "slug": "大谷けがで2戦連続スタメン外",
+      "time": "2026-09-04T22:59:00.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -510,19 +448,40 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "バレー男子 薄氷の白星スタート",
+          "title": "大谷 けがで2戦連続スタメン外",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594238?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6594259?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "中国企業が大規模訪米団　首脳会談で習国家主席に同行―ロイター報道",
-      "slug": "中国企業が大規模訪米団首脳会談で習国家主席に同行",
-      "time": "2026-09-04T19:31:00.000Z",
+      "headline": "物議の水ダウ ラーメン評論家苦言",
+      "slug": "物議の水ダウラメン評論家苦言",
+      "time": "2026-09-04T22:18:16.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "物議の水ダウ ラーメン評論家苦言",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594253?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "高市首相「積極財政」を堅持　予算膨張、懸念払拭に懸命",
+      "slug": "高市首相積極財政を堅持予算膨張懸念払拭に懸命",
+      "time": "2026-09-04T22:01:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -531,19 +490,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "中国企業が大規模訪米団　首脳会談で習国家主席に同行―ロイター報道",
+          "title": "高市首相「積極財政」を堅持　予算膨張、懸念払拭に懸命",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090500137&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026090400946&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "首相動静（９月４日）",
-      "slug": "首相動静月日",
-      "time": "2026-09-04T13:04:00.000Z",
+      "headline": "参院の英語表記「上院」に　誤解回避で今夏変更、現行は占領期に翻訳",
+      "slug": "参院の英語表記上院に誤解回避で今夏変更現行は占領",
+      "time": "2026-09-04T23:51:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -552,19 +511,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "首相動静（９月４日）",
+          "title": "参院の英語表記「上院」に　誤解回避で今夏変更、現行は占領期に翻訳",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090400216&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026090400796&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "泉房穂氏が立民会派退会　参院",
-      "slug": "泉房穂氏が立民会派退会参院",
-      "time": "2026-09-04T08:36:00.000Z",
+      "headline": "トランプ政権、政策ＰＲでゲーム公開　移民拘束など５種類、セガのロゴ模倣し「ＭＡＧＡ」",
+      "slug": "トランプ政権政策でゲム公開移民拘束など種類セガの",
+      "time": "2026-09-04T21:28:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -573,73 +532,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "泉房穂氏が立民会派退会　参院",
+          "title": "トランプ政権、政策ＰＲでゲーム公開　移民拘束など５種類、セガのロゴ模倣し「ＭＡＧＡ」",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090400870&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "最低賃金、全国平均１１７７円　５６円引き上げ、３３府県で目安超え",
-      "slug": "最低賃金全国平均円円引き上げ府県で目安超え",
-      "time": "2026-09-03T11:06:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "最低賃金、全国平均１１７７円　５６円引き上げ、３３府県で目安超え",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090300788&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "中井亜美がＳＰ首位、島田麻央２位　男子は中田璃士トップ―木下杯フィギュア",
-      "slug": "中井亜美が首位島田麻央位男子は中田璃士トップ木下",
-      "time": "2026-09-04T11:05:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "中井亜美がＳＰ首位、島田麻央２位　男子は中田璃士トップ―木下杯フィギュア",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090400889&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ノルウェー政府系ファンド、日本国債の保有割合引き上げ方針",
-      "slug": "ノルウェ政府系ファンド日本国債の保有割合引き上げ",
-      "time": "2026-09-04T20:28:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ノルウェー政府系ファンド、日本国債の保有割合引き上げ方針",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090500153&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026090500201&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -667,9 +563,9 @@
       ]
     },
     {
-      "headline": "ＩＣＣ「守るため立ち上がって」　加盟国に呼び掛け―国連総会議長",
-      "slug": "守るため立ち上がって加盟国に呼び掛け国連総会議長",
-      "time": "2026-09-03T22:35:00.000Z",
+      "headline": "ノルウェー政府系ファンド、日本国債の保有割合引き上げ方針",
+      "slug": "ノルウェ政府系ファンド日本国債の保有割合引き上げ",
+      "time": "2026-09-04T20:28:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -678,19 +574,103 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ＩＣＣ「守るため立ち上がって」　加盟国に呼び掛け―国連総会議長",
+          "title": "ノルウェー政府系ファンド、日本国債の保有割合引き上げ方針",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090400206&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026090500153&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
-      "slug": "気象警報注意報暴風",
-      "time": "2026-09-04T22:04:16.000Z",
+      "headline": "小川氏、亀裂拡大防止に苦慮　中道分裂後の統一会派視野に",
+      "slug": "小川氏亀裂拡大防止に苦慮中道分裂後の統一会派視野",
+      "time": "2026-09-04T22:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "小川氏、亀裂拡大防止に苦慮　中道分裂後の統一会派視野に",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090400999&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "トランプ氏、接戦区てこ入れへ　民主、物価高で攻勢―米中間選挙まで２カ月",
+      "slug": "トランプ氏接戦区てこ入れへ民主物価高で攻勢米中間",
+      "time": "2026-09-04T22:03:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "トランプ氏、接戦区てこ入れへ　民主、物価高で攻勢―米中間選挙まで２カ月",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090400623&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "泉房穂氏が立民会派退会　参院",
+      "slug": "泉房穂氏が立民会派退会参院",
+      "time": "2026-09-04T08:36:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "泉房穂氏が立民会派退会　参院",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090400870&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "抹茶ブーム、茶葉高騰　農家に熱気も、思わぬ余波―急須でお茶は「ぜいたく」に？",
+      "slug": "抹茶ブム茶葉高騰農家に熱気も思わぬ余波急須でお茶",
+      "time": "2026-09-04T22:02:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "抹茶ブーム、茶葉高騰　農家に熱気も、思わぬ余波―急須でお茶は「ぜいたく」に？",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090400647&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-09-04T23:20:03.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -699,19 +679,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（暴風）",
-          "snippet": "【宮崎県暴風（雪）警報・注意報】南部平野部では、強風に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【東京都雷注意報】伊豆諸島南部、小笠原諸島では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904220417_0_VPWW58_450000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904232003_0_VPWW61_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
-      "slug": "気象警報注意報土砂",
-      "time": "2026-09-04T21:50:03.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-09-04T23:17:53.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -720,19 +700,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（土砂）",
-          "snippet": "【三重県土砂災害警報・注意報】注意報を解除します。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【千葉県雷注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904215004_0_VPWW56_240000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904231753_0_VPWW61_120000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
-      "slug": "台風解析予報情報日予報",
-      "time": "2026-09-04T21:40:50.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-09-04T22:55:52.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -741,12 +721,33 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
-          "snippet": "【台風解析・予報情報】",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【神奈川県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904214051_0_VPTW61_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260904225553_0_VPWW54_140000.xml",
           "ty": "prim",
           "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+      "slug": "MistrialdeclaredinLindsa",
+      "time": "2026-09-04T22:48:38.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+          "snippet": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable ",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -793,6 +794,48 @@
       ]
     },
     {
+      "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "slug": "GermanysfarrightAfDbidsf",
+      "time": "2026-09-04T23:07:23.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+          "snippet": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level powe",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "slug": "RussiahitsUkrainiansecur",
+      "time": "2026-09-04T16:02:32.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+          "snippet": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
       "slug": "UKsupportforFalklandIsla",
       "time": "2026-09-04T11:54:51.000Z",
@@ -808,6 +851,27 @@
           "snippet": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the B",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Argentine couple to return Nazi-looted painting to rightful owner",
+      "slug": "ArgentinecoupletoreturnN",
+      "time": "2026-09-04T17:14:21.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Argentine couple to return Nazi-looted painting to rightful owner",
+          "snippet": "The late-baroque Portrait of a Lady was lost for 80 years until it was spotted in photographs of a house for sale near B",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cy0zxjp50j6o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -835,42 +899,84 @@
       ]
     },
     {
-      "headline": "UN votes to adopt new world map to reflect Africa's true size",
-      "slug": "UNvotestoadoptnewworldma",
-      "time": "2026-09-04T19:44:40.000Z",
+      "headline": "Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics",
+      "slug": "Tunisiaarrestsjournalist",
+      "time": "2026-09-04T23:19:43.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "UN votes to adopt new world map to reflect Africa's true size",
-          "snippet": "The Togo-sponsored resolution was backed by 164 nations - the US the only nation to vote against it.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ce30vp55dnlo?at_medium=RSS&at_campaign=rss",
+          "title": "Tunisia arrests journalist Mohamed Yousfi amid crackdown on critics",
+          "snippet": "Tunisia faces criticism as prosecutions of journalists continue under President Kais Saied&#039;s rule.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/4/tunisia-arrests-journalist-amid-crackdown-on-government-critics?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "US diesel prices hit an all-time-high",
-      "slug": "USdieselpriceshitanallti",
-      "time": "2026-09-04T10:52:56.000Z",
+      "headline": "Mock Republican convention website tops Google, redirects to Epstein files",
+      "slug": "MockRepublicanconvention",
+      "time": "2026-09-04T22:51:06.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "US diesel prices hit an all-time-high",
-          "snippet": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil price",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
+          "title": "Mock Republican convention website tops Google, redirects to Epstein files",
+          "snippet": "Democratic lawmakers poke fun at prank website, while Republicans slam &#039;fake news&#039; and redirect users to real ",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/4/mock-republican-convention-website-redirects-users-to-epstein-files?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+      "slug": "IsraelipolicekillPalesti",
+      "time": "2026-09-04T21:58:47.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
+          "snippet": "Israeli forces bar Israeli and Palestinian activists from delivering food and medicine to homes besieged by settlers.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/4/israeli-police-kill-palestinian-in-jerusalem-as-army-blocks-aid-for-qusra?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Costa Rican president signals openness to domestic US military operations",
+      "slug": "CostaRicanpresidentsigna",
+      "time": "2026-09-04T21:45:56.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Costa Rican president signals openness to domestic US military operations",
+          "snippet": "President Laura Fernandez notes that Congress would need to approve any US military operations within the country.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/4/costa-rican-president-signals-openness-to-domestic-us-military-operations?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -976,48 +1082,6 @@
           "snippet": "Reform UK leader Nigel Farage was heckled by protesters on Friday, as he addressed the party’s conference in Birmingham.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/nigel-farage-heckled-as-he-denies-reform-uk-took-illegal-funding?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
-      "slug": "Mexicoseizes17tonnesofme",
-      "time": "2026-09-04T20:28:40.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
-          "snippet": "Mexican authorities seized nearly 17 tonnes of methamphetamine from three clandestine laboratories in Sinaloa",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Watchdog report alleges misconduct by Trump’s former labour secretary",
-      "slug": "Watchdogreportallegesmis",
-      "time": "2026-09-04T20:27:11.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Watchdog report alleges misconduct by Trump’s former labour secretary",
-          "snippet": "Lori Chavez-DeRemer reportedly used staff for personal tasks, drank at work and violated ethics regulations.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/4/watchdog-report-alleges-misconduct-by-trumps-former-labour-secretary?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
