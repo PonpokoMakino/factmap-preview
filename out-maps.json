@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-09-05T11:55:19.209Z",
+  "builtAt": "2026-09-05T18:55:36.400Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "茂木外相・片山財務相の続投調整　継続性重視、小泉氏も有力―高市政権",
-      "slug": "茂木外相片山財務相の続投調整継続性重視小泉氏も有",
+      "headline": "悠仁さま、２０歳に　学業と公的活動両立で充実",
+      "slug": "悠仁さま歳に学業と公的活動両立で充実",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,23 +14,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48338"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48356"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594345?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6594366?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090500281&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026090600004&g=soc&m=rss"
         }
       ],
-      "issue": "内閣改造において、茂木外務大臣と小泉防衛大臣は留任するか？",
+      "issue": "悠仁さまは20歳の誕生日を迎えられたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "高市総理大臣は内閣改造で、茂木外務大臣と小泉防衛大臣を留任させる方向で調整に入った。",
-          "span": "内閣改造で茂木外務大臣と小泉防衛大臣を留任させる方向で調整に入りました",
+          "t": "秋篠宮ご夫妻の長男である悠仁さまが20歳の誕生日を迎えた。",
+          "span": "20歳の誕生日を迎えられました",
           "src": [
             {
               "ty": "press",
@@ -39,58 +39,8 @@
           ]
         },
         {
-          "t": "高市総理大臣は内閣改造で、茂木外務大臣と小泉防衛大臣を留任させる方向で調整に入った。",
-          "span": "小泉防衛相の留任で調整",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は内閣改造で、茂木外務大臣と片山財務大臣の続投を調整している。",
-          "span": "茂木外相・片山財務相の続投調整",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "小泉防衛大臣の留任も有力視されている。",
-          "span": "小泉氏も有力",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "留任の理由として、外交・安全保障政策の継続性が重視されている。",
-          "span": "外交・安全保障政策の継続性を重視する",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "留任の理由として、継続性が重視されている。",
-          "span": "継続性重視",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "去年の自民党総裁選挙で争った2人を引き続き閣僚に起用することで、政権運営の安定が図られる。",
-          "span": "去年の自民党総裁選挙で争った2人を引き続き閣僚に起用し政権運営の安定",
+          "t": "悠仁さまの誕生日は6日である。",
+          "span": "6日",
           "src": [
             {
               "ty": "press",
@@ -100,244 +50,23 @@
         }
       ],
       "positions": [],
-      "consensus": "高市総理大臣は内閣改造で、茂木外務大臣と小泉防衛大臣を留任させる方向で調整に入った。留任の理由として、外交・安全保障政策の継続性が重視されている。また、政権運営の安定も図られる。",
-      "note": "プライバシー配慮のため、総理大臣の氏名は記載しない。",
+      "consensus": "悠仁さまが20歳の誕生日を迎えられたという事実で合意している。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "consensus: \"評価は割れる。\" は元テキストに根拠がなく、事実の断定とみなされるため削除しました。",
-          "note: \"プライバシー配慮のため、総理大臣の氏名は記載しない。\" は検品係の判断であり、元テキストに根拠がないため削除しました。ただし、元テキストに「高市総理大臣」と明記されているため、事実の正確性を期すために削除せず残しました。"
+          "facts[2]「悠仁さまは成年皇族としての歩みを進めている。」は、元テキストの「成年皇族の歩み進め」が記者の解釈・評価であり、検証可能な事実として残せないため削除しました。",
+          "facts[3]「悠仁さまは学業と公的活動を両立し、充実している。」は、元テキストの「学業と公的活動両立で充実」に評価語「充実」が含まれ、また「両立」も記者の解釈・評価であり、検証可能な事実として残せないため削除しました。"
         ]
       }
     },
     {
-      "headline": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
-      "slug": "台風24号秋雨前線熱帯低気圧大雨続くおそれ今後の",
-      "independentSources": 2,
+      "headline": "Nepal rescuers try to reach dozens trapped in tunnel after two found alive",
+      "slug": "Nepalrescuerstrytoreachd",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48255"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48287"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905081534_0_VPWW53_471000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905081534_0_VPWW54_471000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905081419_0_VPWW53_471000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905081419_0_VPWW54_471000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905081406_0_VPWW56_471000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905080530_0_VPFJ51_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905080530_0_VPFJ50_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905075949_0_VPFJ51_230000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905075949_0_VPFJ50_230000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905075927_0_VPFJ50_140000.xml"
-        }
-      ],
-      "issue": "台風24号と秋雨前線による大雨や土砂災害、強風、高波、突風、落雷のおそれは解消されるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "台風24号は、正午時点で沖縄県の久米島の北北東約90キロの海上を南へ時速15キロで進んでいる。",
-          "span": "台風24号は、正午には沖縄県の久米島の北北東、90キロの海上を1時間に15キロの速さで南へ進んでいます。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "西日本と東日本では、前線の活動が活発になるため、来週中頃にかけて大雨が続く見込みである。",
-          "span": "前線の活動が活発になるため、西日本と東日本では来週の中ごろにかけて大雨が続…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は5日午前11時半、鹿児島県屋久島町に出していた「レベル5土砂災害特別警報」を「レベル4土砂災害危険警報」に切り替えた。",
-          "span": "気象庁は5日午前11時半、鹿児島県屋久島町に出していた「レベル5土砂災害特別警報」を「レベル4土砂災害危険警報」に切り替えましたが",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "屋久島町では、記録的な大雨により土砂災害の危険性が非常に高い状態が続いている。",
-          "span": "記録的な大雨で土砂災害の危険性が非常に高い状態が続いていて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "沖縄本島地方では、本島北部で土砂災害に注意が必要である。",
-          "span": "本島北部では、土砂災害に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "沖縄本島地方では、強風や高波、竜巻などの激しい突風、落雷に注意が必要である。",
-          "span": "沖縄本島地方では、強風や高波、竜巻などの激しい突風、落雷に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "千葉県では、6日夜のはじめ頃から7日にかけて、低い土地の浸水、河川の増水、土砂災害に注意・警戒が必要である。",
-          "span": "千葉県では、６日夜のはじめ頃から７日にかけて、低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "千葉県では、落雷や竜巻などの激しい突風、降ひょうにも注意が必要である。",
-          "span": "また、落雷や竜巻などの激しい突風、降ひょうにも注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "愛知県では、7日に、低い土地の浸水、河川の増水、土砂災害に注意・警戒が必要である。",
-          "span": "愛知県では、７日は、低い土地の浸水や河川の増水、土砂災害に注意・警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "神奈川県では、6日夜のはじめ頃から7日にかけて、土砂災害、低い土地の浸水、河川の増水に注意・警戒が必要である。",
-          "span": "神奈川県では、６日夜のはじめ頃から７日にかけて、土砂災害、低い土地の浸水、河川の増水に注意・警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "神奈川県では、落雷や竜巻などの激しい突風、降ひょうに注意が必要である。",
-          "span": "また、落雷や竜巻などの激しい突風、降ひょうに注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風24号は沖縄の久米島沖を南進しており、西日本と東日本では来週中頃にかけて大雨が続く見込み。屋久島町では土砂災害特別警報が引き下げられたものの、依然として土砂災害の危険性が高い状態。沖縄本島地方、千葉県、愛知県、神奈川県では、それぞれ土砂災害、大雨による浸水・増水、強風、高波、突風、落雷などへの注意・警戒が呼びかけられている。",
-      "note": "複数の気象庁発表が同一内容で重複しているため、事実の重複は避けつつ、各発表元をsrcに含める。",
-      "audit": {
-        "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「前線の活動が活発になるため、西日本と…」"
-        ]
-      }
-    },
-    {
-      "headline": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-      "slug": "AraremomentofjoyNepaltun",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "BBC World"
       ],
       "links": [
@@ -346,15 +75,15 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260905de48334"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594363?source=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c7903j1vpe5o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "ネパール土石流の被災者救助活動は続いているか？",
+      "issue": "ネパール土石流の救助活動の進捗状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
@@ -363,27 +92,37 @@
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "発生から10日後の9月5日、ネパール側にあるトンネルから新たに1人が救助された。",
-          "span": "発生から10日たった、9月5日、ネパール側にあるトンネルから新たに1人が救助されました",
+          "t": "9月5日、発生から10日後にネパール側のトンネルから新たに1人が救助された。",
+          "span": "トンネルから新たに1人が救助されました",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "9月4日には別のトンネルから2人が救助されていた。",
-          "span": "4日も別のトンネルから2人が救助されていて",
+          "t": "9月4日にも別のトンネルから2人が救助されていた。",
+          "span": "別のトンネルから2人が救助されていて",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "ネパール政府はさらに捜索を続けている。",
+          "span": "さらに捜索を",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
             }
           ]
         },
@@ -398,8 +137,8 @@
           ]
         },
         {
-          "t": "トリシュリ川沿いのトンネル網に数百人の作業員が閉じ込められている。",
-          "span": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river",
+          "t": "救助隊はトンネルに閉じ込められた数十人に到達しようとしている。",
+          "span": "try to reach dozens trapped in tunnel",
           "src": [
             {
               "ty": "press",
@@ -409,20 +148,148 @@
         }
       ],
       "positions": [],
-      "consensus": "ネパールと中国の国境付近で大規模な土石流が発生し、1,300人以上が死亡、数千人が行方不明となっている。9月4日と5日にかけて、ネパール側のトンネルから複数の生存者が救助された。政府は捜索を続ける方針である。",
-      "note": "プライバシーに配慮し、救助された個人の特定につながる情報は含んでいない。",
+      "consensus": "ネパールと中国の国境付近で発生した大規模な土石流で、発生から10日後にトンネルから生存者が救助され、救助活動が続いている。死者・行方不明者は多数に上る。評価や意見の対立は報じられていない。",
+      "note": "本記事は事実の報道であり、特定の立場や評価は含まれていません。",
       "audit": {
         "changed": true,
         "issues": [
-          "consensusの「評価は割れる」を削除。テキストから評価が割れている事実は読み取れないため。",
-          "positionsのclaimのspanを短縮。元のテキストの核となる部分のみを抽出。",
-          "consensusの「政府は捜索を続ける方針だが、評価は割れる。」から「評価は割れる。」を削除。テキストに評価が割れているという記述がないため。"
+          "事実欄への評価混入: facts[5]の「生存者が見つかったことで、救助隊の希望が高まっている」は記者の解釈（評価）であり、検証可能な事実ではないため項目ごと削除しました。"
         ]
       }
     },
     {
-      "headline": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
-      "slug": "RussiahitsUkrainiansecur",
+      "headline": "台風24号 鹿児島 奄美地方で線状降水帯 6日以降は広範囲で大雨",
+      "slug": "台風24号鹿児島奄美地方で線状降水帯6日以降は広",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48377"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260905de48347"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905185433_0_VPWW53_471000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260905185433_0_VPWW54_471000.xml"
+        }
+      ],
+      "issue": "台風24号による気象状況と警戒情報は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "台風24号の影響により、沖縄・奄美地方に発達した雨雲が流入している。",
+          "span": "発達した雨雲が次々に流れ込み",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "5日の夜、鹿児島県の奄美地方で線状降水帯が発生した。",
+          "span": "線状降水帯が発生した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "沖縄県の沖縄本島では局地的に猛烈な雨が降っている。",
+          "span": "局地的に猛烈な雨が降っています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は5日午後7時58分に、鹿児島県の奄美地方へ「線状降水帯発生」の気象防災速報を発表した。",
+          "span": "「線状降水帯発生」の気象防災速報を発表しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "線状降水帯は、発達した積乱雲が連なり大雨をもたらす現象である。",
+          "span": "発達した積乱雲が連なって大雨をもたらす現象で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、線状降水帯が命に危険が及ぶ土砂災害や洪水を引き起こす可能性があると指摘している。",
+          "span": "命に危険が及ぶ土砂災害や洪",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は沖縄本島地方に大雨および土砂災害に関する危険警報を発令している。",
+          "span": "危険警報（大雨、土砂災害）",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "沖縄本島中南部および本島北部では、土砂災害や低い土地の浸水に対し厳重な警戒が呼びかけられている。",
+          "span": "土砂災害や低い土地の浸水に厳重に警戒してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "6日以降、広範囲で大雨が予想されている。",
+          "span": "6日以降は広範囲で大雨。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風24号の影響により、沖縄・奄美地方で線状降水帯が発生し、大雨による土砂災害や浸水への厳重な警戒が呼びかけられている。評価は割れない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[8].span: 元テキストの最小核をより正確に反映するため、「広範囲で大雨」から「6日以降は広範囲で大雨。」に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "slug": "Europetargetedbyspiralli",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -431,23 +298,55 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss"
         }
       ],
-      "issue": "米国の特使はウクライナ情勢に関する会談のためにモスクワを訪問したか？",
-      "stasis": "事実",
+      "issue": "国際的な紛争における軍事行動、破壊行為、および妨害工作は正当化されるか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "米国の特使がウクライナ情勢に関する会談のためモスクワに到着した。",
-          "span": "US envoys arrive in Moscow ahead of Ukraine talks",
+          "t": "米国はイランの石油タンカー3隻を攻撃した。",
+          "span": "its forces struck three Iranian crude oil carriers on Saturday",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国は、自国の軍艦が標的とされたと述べた。",
+          "span": "saying its warships were targeted",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国とイラン間の戦闘は、数週間の比較的平穏な期間の後、約1週間前に再び激化した。",
+          "span": "fighting between the US and Iran flared again following weeks of relative calm",
           "src": [
             {
               "ty": "press",
@@ -456,8 +355,8 @@
           ]
         },
         {
-          "t": "スティーブ・ウィトコフ氏とジャレッド・クシュナー氏が、日曜日にウクライナへ移動する前にロシアと会談する予定である。",
-          "span": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday",
+          "t": "ヨーロッパは、妨害工作キャンペーンの標的となっている。",
+          "span": "Europe targeted by spiralling campaign of sabotage",
           "src": [
             {
               "ty": "press",
@@ -466,8 +365,8 @@
           ]
         },
         {
-          "t": "ゼレンスキー大統領によると、ロシアが無人航空機でウクライナの首都中心部を奇襲攻撃し、ウクライナの治安本部に命中させた。",
-          "span": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+          "t": "ドイツは、ライプツィヒ空港への攻撃についてロシアを非難した。",
+          "span": "Germany has blamed Russia for an attack on Leipzig airport",
           "src": [
             {
               "ty": "press",
@@ -476,8 +375,8 @@
           ]
         },
         {
-          "t": "無人航空機はウクライナの首都中心部で警告なしに攻撃した。",
-          "span": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital",
+          "t": "他の場所でも一連の事件が発生している。",
+          "span": "a series of suspicious incidents elsewhere",
           "src": [
             {
               "ty": "press",
@@ -486,8 +385,8 @@
           ]
         },
         {
-          "t": "米国の特使がモスクワを訪問する中、ロシアの攻撃により少なくとも5人が死亡した。",
-          "span": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+          "t": "パレスチナの農地が破壊された。",
+          "span": "Palestinian farmland razed",
           "src": [
             {
               "ty": "press",
@@ -496,8 +395,8 @@
           ]
         },
         {
-          "t": "米国の特使がキエフへ向かう前に、ウクライナ軍は3日間の停戦に従うよう命じられた。",
-          "span": "Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv",
+          "t": "イスラエル人入植地の拡大が、占領下のヨルダン川西岸のA地域に広がっている。",
+          "span": "violent Israeli settler expansion spreads into Area A of the occupied West Bank",
           "src": [
             {
               "ty": "press",
@@ -506,12 +405,83 @@
           ]
         }
       ],
-      "positions": [],
-      "consensus": "米国の特使がウクライナ情勢に関する会談のためモスクワに到着し、その後ウクライナへ移動する予定である。ロシアはウクライナの首都で攻撃を行い、死者が出ている。ウクライナ軍は停戦を命じられた。",
-      "note": "本件は事実の報道に留まり、評価や意見の対立は見られないため、positions は空となります。",
+      "positions": [
+        {
+          "actor": "米国",
+          "stance": "support",
+          "claim": "米国は、自国の軍艦が標的とされたため、イランの石油タンカーを攻撃したと述べている。",
+          "span": "saying its warships were targeted",
+          "reason": null,
+          "attr": null,
+          "premises": [
+            1
+          ],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "BBC World",
+          "stance": "support",
+          "claim": "BBC Worldは、ロシアがヨーロッパにおける妨害工作キャンペーンの主要な容疑者であると報じている。",
+          "span": "Russia is the chief suspect",
+          "reason": null,
+          "attr": null,
+          "premises": [
+            3,
+            4,
+            5
+          ],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "Al Jazeera",
+          "stance": "attack",
+          "claim": "Al Jazeeraは、イスラエルの入植地拡大がヨルダン川西岸の破壊活動であると報じている。",
+          "span": "Israeli campaign of West Bank destruction",
+          "reason": null,
+          "attr": null,
+          "premises": [
+            6,
+            7
+          ],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "米国がイランの石油タンカーを攻撃し、ヨーロッパで妨害工作が報告され、ヨルダン川西岸でパレスチナの農地が破壊されたという事実は合意されている。しかし、これらの行動の正当性や責任については評価が割れている。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[3].t: 評価語「拡大する」を削除しました。",
+          "facts[5].t: 評価語「不審な」を削除しました。",
+          "facts[7].t: 評価語「暴力的な」を削除しました。",
+          "positions[0].claim: メタ記述「〜と述べている」を追加しました。",
+          "positions[0].span: クレームの根拠をより適切に表す「saying its warships were targeted」に修正しました。",
+          "positions[0].premises: クレームの根拠となる事実（facts[1]）を追加しました。",
+          "positions[1].claim: メタ記述「〜と報じている」を追加しました。",
+          "positions[2].claim: メタ記述「〜と報じている」を追加しました。"
+        ]
       }
     }
   ]
