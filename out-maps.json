@@ -1,24 +1,21 @@
 {
-  "builtAt": "2026-09-06T18:01:54.428Z",
+  "builtAt": "2026-09-06T22:13:04.316Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を",
-      "slug": "関東東海東北線状降水帯発生の可能性安全最優先に行",
-      "independentSources": 3,
+      "headline": "死亡男性１人は駐車場で発見　事件に関与とみて捜査―ケーキ店放火殺人・岐阜県警",
+      "slug": "死亡男性人は駐車場で発見事件に関与とみて捜査ケキ",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48377"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48552"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48631"
         },
         {
           "source": "NHK 主要ニュース",
@@ -26,54 +23,78 @@
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48469"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48555"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48563"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48377"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594468?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6594482?source=rss"
         },
         {
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6591369?source=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906180011_0_VPWW55_100000.xml"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594483?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090600151&g=soc&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090700104&g=soc&m=rss"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906175548_0_VXWW50_120000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906220938_0_VPWW53_040000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906175541_0_VPWW56_120000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906220938_0_VPWW54_040000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906174010_0_VPWW54_190000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906220936_0_VPWW56_040000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906174010_0_VPWW53_190000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906215746_0_VPFJ51_190000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906174009_0_VPWW54_110000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906174009_0_VPWW53_110000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906215746_0_VPFJ50_190000.xml"
         }
       ],
-      "issue": "関東・東海・東北地方における大雨の状況とそれに伴う影響は何か？",
+      "issue": "最新の主要ニュースで報じられている事柄は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "秋雨前線の北上により、伊豆諸島や関東南部で大雨となり、土砂災害の危険度が非常に高まっている。",
+          "t": "秋雨前線の影響で東京の伊豆諸島や関東南部で大雨となり、新島村には「レベル5土砂災害特別警報」が発表されている。",
+          "span": "「レベル5土砂災害特別警報」が発表されています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "新島村では重大な土砂災害がすでに発生している可能性が極めて高い状況である。",
+          "span": "重大な土砂災害がすでに発生している可能性が極めて高い状況",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "秋雨前線が北上している影響で、伊豆諸島や関東南部で大雨となり、土砂災害の危険度が非常に高まっている。",
           "span": "土砂災害の危険度が非常に高まっています",
           "src": [
             {
@@ -83,7 +104,7 @@
           ]
         },
         {
-          "t": "関東、東海、東北では線状降水帯が発生するおそれがある。",
+          "t": "関東と東海、東北では線状降水帯が発生するおそれがある。",
           "span": "線状降水帯が発生するおそれがあり",
           "src": [
             {
@@ -93,8 +114,8 @@
           ]
         },
         {
-          "t": "気象庁と東京都は6日午後11時50分に、善福寺川にレベル4氾濫危険警報を発表した。",
-          "span": "善福寺川にレベル4氾濫危険警報を発表しました",
+          "t": "大雨の影響で7日は、新幹線と首都圏の在来線など一部の交通機関で運休が決まっている。",
+          "span": "運休が決まっています",
           "src": [
             {
               "ty": "press",
@@ -103,8 +124,8 @@
           ]
         },
         {
-          "t": "大雨のおそれを受け、7日には山手線などで本数減少や運休区間が発生する。",
-          "span": "山手線など本数減 運休区間も",
+          "t": "5日、岐阜県本巣市の店舗兼住宅で3人が死亡する火事が発生した。",
+          "span": "3人が死亡した火事",
           "src": [
             {
               "ty": "press",
@@ -113,8 +134,8 @@
           ]
         },
         {
-          "t": "大雨のおそれを受け、7日には東京23区の一部や横浜市などで臨時休校が決まっている。",
-          "span": "7日の臨時休校が決まっています",
+          "t": "火事の現場には住人とその同級生合わせて10人が集まっていたとみられることが、警察への取材で分かった。",
+          "span": "住人とその同級生合わせて10人が集まっていたとみられることが、警察への取材で分かりました",
           "src": [
             {
               "ty": "press",
@@ -123,8 +144,8 @@
           ]
         },
         {
-          "t": "銚子地方気象台は午前0時20分に、千葉市にレベル4大雨危険警報を発表した。",
-          "span": "千葉市にレベル4大雨危険警報を発表しました",
+          "t": "火事に関して、1人が人を刺してガソリンをまいたという通報があった。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -133,18 +154,48 @@
           ]
         },
         {
-          "t": "低い土地の浸水や河川の増水に厳重な警戒が必要である。",
-          "span": "低い土地の浸水や河川の増水に厳重な警戒が必要です",
+          "t": "岐阜のケーキ店で放火があったとみられ、3人が死亡した。",
+          "span": "ケーキ店で放火か、３人死亡",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "東海から東北の太平洋側で大雨への警戒が呼びかけられている。",
-          "span": "東海-東北の太平洋側で大雨 警戒",
+          "t": "死亡したうち1人が事件に関与した疑いがある。",
+          "span": "うち１人が関与の疑い",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "死亡男性1人は駐車場で発見された。",
+          "span": "死亡男性１人は駐車場で発見",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "岐阜県警は、死亡男性が事件に関与したとみて捜査している。",
+          "span": "事件に関与とみて捜査",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "Yahoo!ニュースでは全国の鉄道・フライトの最新情報を提供しており、災害による交通機関への影響を確認できる。",
+          "span": "最新の鉄道運行情報、フライト情報。災害による交通機関への影響を確認。",
           "src": [
             {
               "ty": "press",
@@ -153,18 +204,8 @@
           ]
         },
         {
-          "t": "災害による全国の鉄道・フライトへの影響に関する最新情報が提供されている。",
-          "span": "災害による交通機関への影響を確認",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "群馬県南部では、低い土地の浸水や河川の増水に注意が必要である。",
-          "span": "低い土地の浸水や河川の増水に注意してください",
+          "t": "宮城県では、土砂災害や高波、竜巻などの激しい突風、落雷に注意が必要である。",
+          "span": "土砂災害や高波、竜巻などの激しい突風、落雷に注意してください",
           "src": [
             {
               "ty": "prim",
@@ -173,8 +214,8 @@
           ]
         },
         {
-          "t": "千葉県ではレベル4土砂災害危険警報が発表されており、土砂災害の発生しやすい地区では早めの避難が推奨されている。",
-          "span": "早めの避難を心がける",
+          "t": "宮城県東部では、低い土地の浸水や強風に注意が必要である。",
+          "span": "低い土地の浸水や強風に注意してください",
           "src": [
             {
               "ty": "prim",
@@ -183,7 +224,7 @@
           ]
         },
         {
-          "t": "千葉県では土砂災害に厳重な警戒が必要である。",
+          "t": "山梨県東部・富士五湖では、7日昼前にかけて土砂災害に厳重な警戒が必要である。",
           "span": "土砂災害に厳重に警戒してください",
           "src": [
             {
@@ -193,48 +234,8 @@
           ]
         },
         {
-          "t": "山梨県東部・富士五湖では土砂災害に注意が必要である。",
-          "span": "土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "山梨県では落雷に注意が必要である。",
-          "span": "落雷に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "埼玉県では土砂災害、竜巻などの激しい突風、落雷に注意が必要である。",
-          "span": "土砂災害や竜巻などの激しい突風、落雷に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "埼玉県南部、北部では低い土地の浸水に注意が必要である。",
-          "span": "低い土地の浸水に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "埼玉県秩父地方では濃霧による視程障害に注意が必要である。",
-          "span": "濃霧による視程障害に注意してください",
+          "t": "山梨県では、8日夜遅くにかけて土砂災害に注意・警戒が必要である。",
+          "span": "土砂災害に注意・警戒してください",
           "src": [
             {
               "ty": "prim",
@@ -244,102 +245,19 @@
         }
       ],
       "positions": [],
-      "consensus": "秋雨前線の影響により、関東・東海・東北地方の広範囲で大雨となり、土砂災害、河川の増水、浸水、線状降水帯発生のおそれがある。これに伴い、交通機関への影響や臨時休校が発生している。本記事には評価の対立は存在しない。",
-      "note": "本記事は主に気象情報とそれによる影響の事実を伝えており、特定の主張や評価の対立は含まれていません。",
+      "consensus": "複数の主要ニュースで、大雨による災害情報、交通機関への影響、および岐阜県での火災・殺人事件に関する事実が報じられている。これらの出来事に対する評価や解釈は本記事では示されていない。",
+      "note": "複数の独立したニュースを構造化したため、論理的な対立構造は存在しない。",
       "audit": {
         "changed": false,
         "issues": [
-          "検品パス失敗（Unexpected end of JSON input）→抽出のみ採用"
+          "検品パス失敗（The operation was aborted due to timeout）→抽出のみ採用",
+          "fact spanが原文に無い→除去「1人が人を刺してガソリンをまいたとい…」"
         ]
       }
     },
     {
-      "headline": "岐阜 洋菓子店火事3人死亡「人が刺されガソリンまかれた」通報",
-      "slug": "岐阜洋菓子店火事3人死亡人が刺されガソリンまかれ",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48427"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594451?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090600151&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090600256&g=soc&m=rss"
-        }
-      ],
-      "issue": "岐阜県本巣市の洋菓子店火災で、死亡した男性が事件に関与した疑いはあるか？",
-      "stasis": "因果の解釈（割れる）",
-      "facts": [
-        {
-          "t": "5日夜、岐阜県本巣市の店舗兼住宅で火災が発生し、3人が死亡した。",
-          "span": "5日夜、岐阜県本巣市の店舗兼住宅で3人が死亡した火事で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "火災現場にいたとみられる11人のうち、死亡した70歳の男性は建物の外で見つかった。",
-          "span": "現場にいたとみられる11人のうち、死亡した70歳の男性は建物の外で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "火災現場にいたとみられる11人のうち、死亡した70歳の男性以外の10人は室内や屋根で見つかった。",
-          "span": "ほかの10人は室内や屋根で見つかっていた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "通報により、人が刺されガソリンがまかれたとの情報があった。",
-          "span": "人が刺されガソリンまかれた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "岐阜県本巣市の店舗兼住宅で火災が発生し3人が死亡した。死亡した70歳の男性は建物の外で見つかり、他の10人は室内や屋根で見つかった。近隣住民は店にトラブルはなかったと話している。",
-      "note": "プライバシーに配慮し、被害者や容疑者の特定につながる情報は最小限に留めた。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factの「人が刺されガソリンまかれた」は、通報内容であり、事実として確定していないため、事実欄に移し、spanを調整した。",
-          "positionの「死亡した70歳の男性が事件に関与した疑いがある。」は、警察の見解として抽出したが、spanが短すぎるため、より具体的な内容を含むspanを持つ他の警察の見解と統合し、重複を削除した。",
-          "positionの「亡くなった男性が事件に関与した疑いがある。」は、actorが「近隣住民」となっているが、元テキストでは「うち１人が関与の疑い」は時事ドットコムの記事の見出しであり、警察の見解として扱われているため、削除した。",
-          "consensusから「評価は割れる」を削除し、事実関係の要約に留めた。"
-        ]
-      }
-    },
-    {
-      "headline": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-      "slug": "FarrightAfDwinsvoteinGer",
+      "headline": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+      "slug": "GermanysfarrightAfDsetfo",
       "independentSources": 3,
       "sources": [
         "時事ドットコム",
@@ -357,20 +275,133 @@
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss"
         }
       ],
-      "issue": "ドイツの極右AfDは旧東独州議選で第1党となり、政権樹立が可能か？",
-      "stasis": "事実",
+      "issue": "ドイツの極右AfDは旧東独州議選で大勝したものの、過半数に届かない見込みの中で州政府を樹立できるか？",
+      "stasis": "評価・予測",
       "facts": [
         {
-          "t": "ドイツの極右政党AfDが旧東独の州議会選挙で第1党となることが確実視されている。",
-          "span": "第１党確実",
+          "t": "時事ドットコムは、ドイツの極右政党「ドイツのための選択肢（AfD）」が旧東独の州議会選挙で圧勝したと報じている。",
+          "span": "極右ＡｆＤ圧勝",
           "src": [
             {
               "ty": "wire",
               "l": "時事ドットコム"
-            },
+            }
+          ]
+        },
+        {
+          "t": "BBC Worldは、ドイツの極右政党「ドイツのための選択肢（AfD）」が東部の州議会選挙で大勝する見込みだと報じている。",
+          "span": "set for big win in eastern state",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ドイツの極右政党「ドイツのための選択肢（AfD）」がザクセン＝アンハルト州の地域選挙で勝利すると予測されている。",
+          "span": "is projected to win a regional election in Saxony-Anhalt",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "AfDは投票率44%を獲得すると予測されている。",
+          "span": "win 44% of the vote",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "AfDは過半数にはわずかに届かない見込みである。",
+          "span": "過半数は微妙",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "AfDは過半数にわずかに届かない見込みである。",
+          "span": "just short of majority",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "時事ドットコムは、メルツ氏率いる与党が惨敗したと報じている。",
+          "span": "与党惨敗",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "BBC Worldは、AfDが保守党に大きく差をつけていると報じている。",
+          "span": "far ahead of the conservatives",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ドイツの極右AfDは旧東独の州議会選挙で大勝し、44%の票を獲得すると予測されているが、過半数には届かない見込みである。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "issue: 記述がテキストの事実と矛盾していたため修正（AfDは過半数を獲得しない見込み）。",
+          "facts[0].t: 評価語「圧勝した」を、情報源が報じた内容としてメタ記述に修正。",
+          "facts[1].t: 評価語「大勝する見込み」を、情報源が報じた内容としてメタ記述に修正。",
+          "facts[6].t: 評価語「惨敗した」を、情報源が報じた内容としてメタ記述に修正。",
+          "facts[7].t: spanの解釈とtの記述が不一致だったため修正（AfDが保守党に差をつけている）。",
+          "consensus: 評価語「圧勝し」を「大勝し」に修正し、システム指示部分を削除。"
+        ]
+      }
+    },
+    {
+      "headline": "Dozens feared trapped in collapsed building in Delhi",
+      "slug": "Dozensfearedtrappedincol",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss"
+        }
+      ],
+      "issue": "ニューデリーの建物倒壊事故の状況は？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ニューデリーで建物が倒壊した。",
+          "span": "collapsed building in Delhi",
+          "src": [
             {
               "ty": "press",
               "l": "BBC World"
@@ -382,8 +413,8 @@
           ]
         },
         {
-          "t": "AfDは投票の44%以上を獲得すると予測されている。",
-          "span": "win more than 44% of the vote",
+          "t": "倒壊した建物は5階建てのホステルだった。",
+          "span": "five-storey hostel",
           "src": [
             {
               "ty": "press",
@@ -392,8 +423,48 @@
           ]
         },
         {
-          "t": "AfDが直ちに政府を樹立できるかは不明である。",
-          "span": "not immediately clear whether it will be able to form a government",
+          "t": "倒壊した建物には主に学生が居住していた。",
+          "span": "housing mostly students",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "最大50人が建物内にいたとみられている。",
+          "span": "As many as 50 people are thought to have been inside",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "数十人が閉じ込められた恐れがあると報じられている。",
+          "span": "Dozens feared trapped",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "少なくとも5人が死亡した。",
+          "span": "At least five people have been killed",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "9人が救助された。",
+          "span": "nine rescued",
           "src": [
             {
               "ty": "press",
@@ -403,13 +474,14 @@
         }
       ],
       "positions": [],
-      "consensus": "ドイツの極右AfDが旧東独の州議会選挙で第1党となることが確実視されており、44%以上の票を獲得すると予測されている。しかし、AfDが直ちに政府を樹立できるかは不明である。AfDはこの結果を「歴史的」と評価している。",
-      "note": null,
+      "consensus": "ニューデリーで建物が倒壊し、死傷者が出たことは一致している。評価や解釈は示されていない。",
+      "note": "本記事は事実報道のみであり、特定の立場や意見は含まれていません。",
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「AfDは今回の選挙結果を『歴史的な結果』と述べている。」に修正しました。",
-          "positions[0].premises: AfDの主張が依拠する事実として、facts[0]とfacts[1]を追加しました。"
+          "元のfacts[1]が複数の情報源からの内容を統合しているにも関わらず、spanが一つしかなく、情報源との対応が不完全だったため、tを分割し、それぞれに対応するspanを持つ2つのfactエントリ（新しいfacts[1]とfacts[2]）に修正しました。",
+          "元のfacts[2]が複数の情報源からの内容を統合しているにも関わらず、spanが一つしかなく、情報源との対応が不完全だったため、tを分割し、それぞれに対応するspanを持つ2つのfactエントリ（新しいfacts[3]とfacts[4]）に修正しました。",
+          "新しいfacts[4]（元のfacts[2]の後半部分）のtが「数十人が閉じ込められた恐れがある。」と断定的に記述されていたため、情報源の視点であることを明確にするため「と報じられている」というメタ記述を追加しました。"
         ]
       }
     },
