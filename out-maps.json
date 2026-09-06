@@ -1,205 +1,10 @@
 {
-  "builtAt": "2026-09-06T08:58:22.156Z",
+  "builtAt": "2026-09-06T12:49:25.959Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を",
-      "slug": "関東東海東北線状降水帯発生の可能性安全最優先に行",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48377"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48452"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594433?source=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906084436_0_VPWW53_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906084435_0_VPWW54_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906084420_0_VPWW56_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906083414_0_VPWW56_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906082239_0_VPWW53_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906082238_0_VPWW54_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906082230_0_VPWW56_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906081035_0_VPFJ50_140000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260906081035_0_VPFJ51_140000.xml"
-        }
-      ],
-      "issue": "線状降水帯発生の可能性とそれに伴う大雨への警戒は妥当か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "秋雨前線が北上し、伊豆諸島、西日本、東日本の沿岸部で雨雲が発達している。",
-          "span": "本州の南岸付近にある秋雨前線が北上している影響で、伊豆諸島のほか西日本や東日本の沿岸部でも雨雲が発達しています。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "西日本から東北にかけての太平洋側を中心に広い範囲で大雨となる見込みである。",
-          "span": "西日本から東北にかけての太平洋側を中心に広い範囲でこれから大雨となる見込みで、関東と東…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "線状降水帯発生の可能性がある。",
-          "span": "線状降水帯発生の可能性",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "7日は山手線など一部の交通機関で本数減や運休区間が出る。",
-          "span": "7日は山手線など本数減 運休区間も。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "東海や関東地方では土砂災害などへの厳重な警戒が必要である。",
-          "span": "東海や関東 土砂災害など厳重警戒",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "千葉県では土砂災害、強風、高波、竜巻などの激しい突風、落雷に注意が必要である。",
-          "span": "千葉県では、土砂災害や強風、高波、竜巻などの激しい突風、落雷に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "千葉県では土砂災害に注意が必要である。",
-          "span": "千葉県では、土砂災害に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "伊豆諸島南部では土砂災害に厳重に警戒する必要がある。",
-          "span": "伊豆諸島南部では、土砂災害に厳重に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "神奈川県では、6日夜遅くから7日夕方にかけて土砂災害に厳重に警戒する必要がある。",
-          "span": "神奈川県では、６日夜遅くから７日夕方にかけて、土砂災害に厳重に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "神奈川県では、7日未明から朝にかけて低い土地や地下施設の浸水、河川の増水や氾濫に警戒する必要がある。",
-          "span": "７日未明から朝にかけて低い土地や地下施設の浸水、河川の増水や氾濫に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "線状降水帯発生の可能性があり、西日本から東北にかけての太平洋側を中心に広い範囲で大雨となる見込みである。一部交通機関への影響や、千葉県、伊豆諸島南部、神奈川県などでの土砂災害、強風、高波、落雷等への警戒が呼びかけられている。",
-      "note": "プライバシー配慮のため、個別の事件や被害者の特定につながる情報は含んでいません。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensusの「評価は割れる。」を削除しました。テキスト中に意見の対立を示す記述がないため。",
-          "consensusの「一部交通機関への影響や、千葉県、伊豆諸島南部、神奈川県などでの土砂災害、強風、高波、落雷等への警戒が呼びかけられている。」を事実の羅列に修正しました。抽出エンジンが事実を要約する際に「呼びかけられている」という評価的な表現を用いていたため。",
-          "factsの重複していた項目を削除しました。（例：千葉県での土砂災害に関する注意喚起）"
-        ]
-      }
-    },
-    {
-      "headline": "岐阜 洋菓子店で火事 3人死亡2人搬送「ガソリンまかれた」通報",
-      "slug": "岐阜洋菓子店で火事3人死亡2人搬送ガソリンまかれ",
+      "headline": "岐阜 洋菓子店火事3人死亡「人が刺されガソリンまかれた」通報",
+      "slug": "岐阜洋菓子店火事3人死亡人が刺されガソリンまかれ",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -213,7 +18,7 @@
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594438?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6594451?source=rss"
         },
         {
           "source": "時事ドットコム",
@@ -224,12 +29,221 @@
           "link": "https://www.jiji.com/jc/article?k=2026090600256&g=soc&m=rss"
         }
       ],
-      "issue": "岐阜県本巣市の洋菓子店で発生した火災で、死亡者が3人となった件について、放火の疑いがあるか？",
+      "issue": "岐阜県本巣市の洋菓子店火災で、死亡した男性が事件に関与した疑いはあるか？",
+      "stasis": "因果の解釈（割れる）",
+      "facts": [
+        {
+          "t": "5日夜、岐阜県本巣市の店舗兼住宅で火災が発生し、3人が死亡した。",
+          "span": "5日夜、岐阜県本巣市の店舗兼住宅で3人が死亡した火事で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "火災現場にいたとみられる11人のうち、死亡した70歳の男性は建物の外で見つかった。",
+          "span": "現場にいたとみられる11人のうち、死亡した70歳の男性は建物の外で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "火災現場にいたとみられる11人のうち、死亡した70歳の男性以外の10人は室内や屋根で見つかった。",
+          "span": "ほかの10人は室内や屋根で見つかっていた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "通報により、人が刺されガソリンがまかれたとの情報があった。",
+          "span": "人が刺されガソリンまかれた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "岐阜県本巣市の店舗兼住宅で火災が発生し3人が死亡した。死亡した70歳の男性は建物の外で見つかり、他の10人は室内や屋根で見つかった。近隣住民は店にトラブルはなかったと話している。",
+      "note": "プライバシーに配慮し、被害者や容疑者の特定につながる情報は最小限に留めた。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "factの「人が刺されガソリンまかれた」は、通報内容であり、事実として確定していないため、事実欄に移し、spanを調整した。",
+          "positionの「死亡した70歳の男性が事件に関与した疑いがある。」は、警察の見解として抽出したが、spanが短すぎるため、より具体的な内容を含むspanを持つ他の警察の見解と統合し、重複を削除した。",
+          "positionの「亡くなった男性が事件に関与した疑いがある。」は、actorが「近隣住民」となっているが、元テキストでは「うち１人が関与の疑い」は時事ドットコムの記事の見出しであり、警察の見解として扱われているため、削除した。",
+          "consensusから「評価は割れる」を削除し、事実関係の要約に留めた。"
+        ]
+      }
+    },
+    {
+      "headline": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
+      "slug": "USIranengagedintankerwar",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/6/israeli-air-attacks-on-lebanon-kill-at-least-four?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/israel-bombards-several-towns-in-southern-lebanon?traffic_source=rss"
+        }
+      ],
+      "issue": "米国とイランはホルムズ海峡で船舶への報復攻撃を行っているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "5日夜、岐阜県本巣市の店舗兼住宅で火事が発生した。",
-          "span": "5日夜、岐阜県本巣市の店舗兼住宅で起きた火事で",
+          "t": "米国はイランの石油タンカー3隻を攻撃したと発表した。",
+          "span": "The US says it hit three Iranian oil tankers",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イランは米国に関連する船舶3隻を標的にしたと発表した。",
+          "span": "while Iran says it targeted three US-linked ships",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国とイランはホルムズ海峡でタンカーを攻撃し合っている。",
+          "span": "The US and Iran attack tankers in Strait of Hormuz",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "両国は戦略的な水路の支配を確立しようとしている。",
+          "span": "as the two sides try to exert control over the strategic waterway",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルによるレバノンへの空爆で少なくとも4人が死亡した。",
+          "span": "Israeli air attacks on Lebanon kill at least four",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アラブ・サリムへの空爆で女性2人が死亡した。",
+          "span": "Two women killed in an air attack on Arab Salim",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ナバティエ・アル・ファウカへの攻撃で2人が死亡した。",
+          "span": "and two people killed in strike on Nabatieh al-Fawqa",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イスラエル軍はレバノン南部のいくつかの村を爆破した。",
+          "span": "The Israeli army has blown up several villages in southern Lebanon",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イスラエル軍の行動は6月に合意された停戦協定に違反している。",
+          "span": "in violation of a ceasefire agreement reached in June",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米国とイランはホルムズ海峡で船舶への攻撃を行っており、イスラエルはレバノン南部で空爆と村の爆破を行っている。",
+      "note": "プライバシー配慮のため、被害者の個人名は伏せられています。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: \"評価は割れる\" は元テキストから読み取れないため削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "【随時更新】大雨交通影響 7日は山手線など本数減 運休区間も",
+      "slug": "随時更新大雨交通影響7日は山手線など本数減運休区",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48452"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48469"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594460?source=rss"
+        }
+      ],
+      "issue": "7日の大雨により、交通機関や学校にどのような影響が出ているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "太平洋側を中心に広い範囲で大雨が降るおそれがある。",
+          "span": "太平洋側を中心に広い範囲で大雨が降るおそれがある",
           "src": [
             {
               "ty": "press",
@@ -238,8 +252,8 @@
           ]
         },
         {
-          "t": "火事により、病院に搬送された70歳の男性の死亡が確認された。",
-          "span": "病院に搬送された70歳の男性の死亡が確認され",
+          "t": "7日は山手線など一部の交通機関で本数減少や運休区間が生じる見込みである。",
+          "span": "7日は山手線など本数減 運休区間も",
           "src": [
             {
               "ty": "press",
@@ -248,8 +262,8 @@
           ]
         },
         {
-          "t": "この火事で死亡した人は合計3人となった。",
-          "span": "この火事で死亡した人は3人となりました",
+          "t": "7日は東京23区の一部や横浜市などで学校が臨時休校となる。",
+          "span": "7日は臨時休校相次ぐ 東京23区の一部や横浜市など",
           "src": [
             {
               "ty": "press",
@@ -258,126 +272,52 @@
           ]
         },
         {
-          "t": "火事では他に2人が搬送された。",
-          "span": "2人搬送",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "当時現場には住人と知人が集まっていた。",
-          "span": "当時現場には住人と知人が集まっていて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "火災現場は地域で人気のケーキ店だった。",
-          "span": "5人死傷のケーキ店 地域で人気",
+          "t": "大雨予想を受けて、JR東日本は一部運休を発表した。",
+          "span": "大雨予想で一部運休を発表 JR東",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
-        },
-        {
-          "t": "ケーキ店の近隣住民は、店の評判が良かったと述べている。",
-          "span": "「評判良かった」",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ケーキ店の近隣住民は、店でトラブルを聞いたことがないと述べている。",
-          "span": "「トラブル聞かず」",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
         }
       ],
       "positions": [],
-      "consensus": "岐阜県本巣市の洋菓子店で発生した火災で、3人が死亡し、2人が搬送された。放火の疑いが報じられており、死亡したうちの1人が関与した疑いがある。現場には住人と知人が集まっていた。近隣住民は店の評判が良かったと述べている。",
-      "note": "プライバシーに配慮し、被害者や容疑者の特定につながる情報は最小限に留める。",
+      "consensus": "7日は太平洋側を中心に大雨が予想され、山手線など一部交通機関の本数減少や運休、東京23区の一部や横浜市などでの学校の臨時休校が発生する見込みである。",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "factの「ケーキ店で放火の疑いがある。」と「死亡したうちの1人が関与した疑いがある。」は、警察の発表や報道内容であり、事実として断定するには不十分なため、positionsへ移動しました。",
-          "factの「近隣住民は、ケーキ店の評判が良かったと述べている。」と「近隣住民は、ケーキ店でトラブルを聞いたことがないと述べている。」は、発言主体が近隣住民であることが明らかなため、actorを明記し、factからpositionsへ移動しました。",
-          "consensusの末尾にあった「評価は割れる。」は、テキストから明確に読み取れる対立構造ではないため削除しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "US envoys set for Ukraine talks after meeting Putin in Russia",
-      "slug": "USenvoyssetforUkrainetal",
+      "headline": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
+      "slug": "PhotosGazaholdsfuneralfo",
       "independentSources": 2,
       "sources": [
-        "時事ドットコム",
-        "BBC World"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090600088&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090600135&g=flash&m=rss"
-        },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cp301rw6kvro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss"
         }
       ],
-      "issue": "米国特使はウクライナ和平案を伝達したか？",
+      "issue": "ノルウェー国王の葬儀への英国王室の参列者について",
       "stasis": "事実",
       "facts": [
         {
-          "t": "米国特使がウクライナ和平案を伝達した。",
-          "span": "米特使、ウクライナ和平案伝達",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ロシアのプーチン大統領は、ウクライナ紛争の根本原因を除去する必要性を強調した。",
-          "span": "ウクライナ紛争の根本原因を除去する必要性を強調した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米国特使は、数週間以内に計画を公表する可能性がある。",
-          "span": "数週間以内に計画公表も",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "スティーブ・ウィトコフ氏とジャレッド・クシュナー氏は、トランプ氏のトップ交渉担当者である。",
-          "span": "Steve Witkoff and Jared Kushner, Trump's top negotiators",
+          "t": "ウェールズ公（ウィリアム王子）が、来週オスロで開催されるハーラル5世国王の葬儀に国王を代表して参列する。",
+          "span": "The Prince of Wales will represent the King at the funeral of Harald V in Oslo next week.",
           "src": [
             {
               "ty": "press",
@@ -386,83 +326,29 @@
           ]
         },
         {
-          "t": "米国特使がロシアでプーチン大統領と会談した。",
-          "span": "meeting Putin in Russia",
+          "t": "ガザ地区で、瓦礫の中から収容された100人のパレスチナ人の合同葬儀が行われた。",
+          "span": "Gaza families hold mass funeral for 100 people recovered from rubble in Zeitoun neighbourhood.",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ガザ地区では、さらに数千人の遺体が破壊・損傷した建物下に埋まっているとみられている。",
+          "span": "The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "米国特使がウクライナ和平案を伝達し、プーチン大統領は紛争の根本原因の除去を強調した。",
-      "note": "BBC Worldの記事は、米国特使がプーチン大統領と会談したことを報じているが、和平案の伝達については時事ドットコムの記事に記載されている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "fact 4のspanを \"It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.\" から \"Steve Witkoff and Jared Kushner, Trump's top negotiators\" に修正しました。元テキストのspanはより短い核となる部分を指すためです。",
-          "fact 5のspanを \"US envoys set for Ukraine talks after meeting Putin in Russia\" から \"meeting Putin in Russia\" に修正しました。元テキストのspanはより短い核となる部分を指すためです。",
-          "consensusの内容を、事実として確認されている内容のみに絞り込みました。評価や割れる内容が含まれていないためです。"
-        ]
-      }
-    },
-    {
-      "headline": "国民民主代表選、玉木氏３選　「議席増やし政権担う」",
-      "slug": "国民民主代表選玉木氏選議席増やし政権担う",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260906de48450"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090600216&g=pol&m=rss"
-        }
-      ],
-      "issue": "国民民主党代表選挙で玉木氏が再選されたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "国民民主党の代表選挙で、玉木代表が再選された。",
-          "span": "玉木代表が再選されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "国民民主党の代表選挙は6日に投開票が行われた。",
-          "span": "6日、投開票が行われ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "国民民主党代表選挙で玉木氏が3選した。",
-          "span": "玉木氏３選",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "国民民主党代表選挙で玉木氏が再選された（3選）。",
-      "note": null,
+      "consensus": "ウェールズ公がノルウェー国王の葬儀に参列する。ガザ地区では瓦礫から収容された100人の合同葬儀が行われ、さらに多くの遺体が建物下に埋まっているとみられている。",
+      "note": "複数の独立したニュースソースからの情報を構造化。各記事は異なる出来事を報じているため、単一の争点や対立する立場は存在しない。",
       "audit": {
         "changed": false,
         "issues": []
