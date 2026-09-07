@@ -1,10 +1,147 @@
 {
-  "builtAt": "2026-09-07T19:13:15.897Z",
+  "builtAt": "2026-09-07T22:04:29.122Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "東京都大島町などに特別警報　前線で大雨、土砂災害警戒―福島のアンダーパス１人死亡・気象庁",
-      "slug": "東京都大島町などに特別警報前線で大雨土砂災害警戒",
+      "headline": "伊豆諸島の特別警報は危険警報に 東海は線状降水帯可能性も",
+      "slug": "伊豆諸島の特別警報は危険警報に東海は線状降水帯可",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48909"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594594?source=rss"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260907220310_0_VXWW50_120000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260907220258_0_VPWW53_120000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260907220258_0_VPWW54_120000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260907220255_0_VPWW56_120000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260907214211_0_VPFJ51_300000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260907214211_0_VPFJ50_300000.xml"
+        }
+      ],
+      "issue": "伊豆諸島、千葉県、和歌山県における気象警報・注意報の現在の状況は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "気象庁は、8日午前4時に東京の伊豆諸島に発表していた「レベル5土砂災害特別警報」を「レベル4土砂災害危険警報」に切り替えた。",
+          "span": "「レベル5土砂災害特別警報」を「レベル4土砂災害危険警報」に切り替えました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "伊豆諸島北部や千葉県南部では、土砂災害の危険度が非常に高い状態にある。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東海地方では線状降水帯が発生する可能性がある。",
+          "span": "東海は線状降水帯可能性も",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "千葉県ではレベル4土砂災害危険警報が全て解除され、現在発表されている地域はない。",
+          "span": "レベル４土砂災害危険警報を発表している地域はありません",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "千葉県では、土砂災害や竜巻などの激しい突風、落雷への注意が呼びかけられている。",
+          "span": "土砂災害や竜巻などの激しい突風、落雷に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "千葉県北東部と南部では、高波への注意が呼びかけられている。",
+          "span": "高波に注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "和歌山県北部では9日未明から夜遅くにかけて、南部では10日にかけて、低い土地の浸水や河川の増水、土砂災害に十分注意するよう呼びかけられている。",
+          "span": "低い土地の浸水や河川の増水、土砂災害に十分注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "和歌山県では、落雷や竜巻などの激しい突風にも注意するよう呼びかけられている。",
+          "span": "落雷や竜巻などの激しい突風にも注意してください",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "伊豆諸島では土砂災害特別警報が危険警報に切り替わり、千葉県ではレベル4土砂災害危険警報が解除された。東海地方では線状降水帯の可能性があり、千葉県と和歌山県では引き続き様々な気象現象への注意が呼びかけられている。これらの情報について、記事中に評価や意見の対立は見られない。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[1]のtから評価語「記録的な大雨となった」を削除しました。",
+          "facts[1]のspanが不完全だったため、「土砂災害の危険度が非常に高い」に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "小林鷹之氏、引き続き要職に　内閣改造、梶山弘志氏の入閣浮上―高市政権",
+      "slug": "小林鷹之氏引き続き要職に内閣改造梶山弘志氏の入閣",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,45 +151,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48909"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48890"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48752"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48893"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594570?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6594595?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090700094&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026090700912&g=pol&m=rss"
         }
       ],
-      "issue": "気象庁は、伊豆諸島北部に出していた土砂災害特別警報を危険警報に切り替えたか？",
+      "issue": "高市総理大臣による自民党役員人事と内閣改造の計画はどのようなものか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "気象庁は、午前4時に東京の伊豆諸島の大島町、利島村、新島村に発表していた「レベル5土砂災害特別警報」を「レベル4土砂災害危険警報」に切り替えた。",
-          "span": "午前4時、東京の伊豆諸島の大島町と利島村、新島村に発表していた「レベル5土砂災害特別警報」を「レベル4土砂災害危険警報」に切り替えました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "7日に車が水没して女性が死亡した福島県いわき市のアンダーパスでは、排水ポンプが設置されていたが、水を送る先の川の水位が上昇し排水が適正に行われていなかったことがわかった。",
-          "span": "7日に車が水没して女性が死亡した福島県いわき市のアンダーパスでは、現場に排水ポンプが設置されていましたが、水を送る先の川の水位が上昇し排水が適正に行われていなかったことがわかりました",
+          "t": "高市総理大臣が自民党の役員人事と内閣改造に向けて、日程や人選などの検討を本格化させている。",
+          "span": "日程や人選などの検討を本格化させています",
           "src": [
             {
               "ty": "press",
@@ -61,48 +176,8 @@
           ]
         },
         {
-          "t": "5日に岐阜県本巣市の店舗兼住宅が放火された疑いがある事件で、現場から複数の刃物が押収されていたことが警察への取材でわかった。",
-          "span": "5日、岐阜県本巣市の店舗兼住宅が放火された疑いがある事件で、現場から複数の刃物が押収されていたことが警察への取材でわかりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "気象庁は伊豆諸島北部に出していた土砂災害特別警報を危険警報に切り替えた。福島県いわき市のアンダーパスで女性が死亡した事故では、排水ポンプが設置されていたものの、川の水位上昇により排水が適正に行われていなかったことが判明した。岐阜県本巣市の放火事件では、現場から複数の刃物が押収された。これらの事実について、記事中に評価や意見の対立は見られない。",
-      "note": "プライバシーに配慮し、事件の被害者や容疑者の特定につながる情報は最小限に留めた。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "景気拡大 戦後最長の見方も 7月景気動向指数「改善」維持",
-      "slug": "景気拡大戦後最長の見方も7月景気動向指数改善維持",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260907de48739"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594592?source=rss"
-        }
-      ],
-      "issue": "景気拡大期間は戦後最長を更新するか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "ことし7月の景気動向指数の一致指数は、前の月を1.7ポイント上回った。",
-          "span": "ことし7月の景気動向指数は景気の現状を示す「一致指数」が前の月を1.7ポイント上回り",
+          "t": "自民党役員人事と内閣改造は、早ければ来週にも実施する方向で調整されている。",
+          "span": "早ければ来週にも実施する方向で調整していて",
           "src": [
             {
               "ty": "press",
@@ -111,62 +186,38 @@
           ]
         },
         {
-          "t": "内閣府は景気の基調判断を「改善を示している」と維持した。",
-          "span": "内閣府は「改善を示している」という景気の基調判断を維持しました",
+          "t": "政権の骨格は維持される方針である。",
+          "span": "政権の骨格は維持し",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ことし7月の景気動向指数の一致指数は前の月を1.7ポイント上回り、内閣府は景気の基調判断を「改善を示している」と維持した。専門家や報道からは、景気拡大が続いていた場合、その期間が戦後最長を超える可能性があるとの見方が出ている。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "面接不採用者をトクリュウに紹介　建設会社代表を再逮捕―広島県警",
-      "slug": "面接不採用者をトクリュウに紹介建設会社代表を再逮",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594585?source=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090700738&g=soc&m=rss"
-        }
-      ],
-      "issue": "建設会社代表は、面接で不採用となった応募者を「トクリュウ」に紹介した疑いで再逮捕されたか？",
-      "stasis": "事実",
-      "facts": [
+          "t": "自民党役員人事と内閣改造は、臨時国会での法案審議などに備えるものと見られている。",
+          "span": "臨時国会での法案審議などに備えるものとみら",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
         {
-          "t": "建設会社代表が、面接で不採用となった応募者を「トクリュウ」に紹介した疑いで再逮捕された。",
-          "span": "面接不採用者をトクリュウに紹介　建設会社代表を再逮捕",
+          "t": "小林鷹之政調会長は留任する意向であると報じられている。",
+          "span": "小林鷹之政調会長留任へ",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "事件は広島県警によって捜査されている。",
-          "span": "広島県警",
+          "t": "梶山弘志氏の入閣が浮上している。",
+          "span": "梶山弘志氏の入閣浮上",
           "src": [
             {
               "ty": "press",
@@ -176,16 +227,18 @@
         }
       ],
       "positions": [],
-      "consensus": "建設会社代表は、面接で不採用となった応募者を「トクリュウ」に紹介した疑いで再逮捕されたという事実は報じられている。",
-      "note": "プライバシー保護のため、応募者の個人情報は含めない。",
+      "consensus": "高市総理大臣は自民党役員人事と内閣改造の検討を本格化させており、早ければ来週にも実施する方向で調整中である。政権の骨格は維持し、臨時国会での法案審議に備える目的とみられている。小林鷹之政調会長の留任や梶山弘志氏の入閣が報じられている。これらの計画に対する評価や賛否は記事中に見られない。",
+      "note": "記事は事実の報道に終始しており、特定の立場や評価を表明する主体が存在しないため、positionsは空配列とした。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[3].t: 「目的とみられている」という評価混入の可能性を排除し、元のspan「〜ものとみら」に忠実な「〜ものと見られている」に修正しました。"
+        ]
       }
     },
     {
-      "headline": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
-      "slug": "BurundiansrushtoleaveKen",
+      "headline": "Kyiv air raid alerts at record high as Russia launches round-the-clock strikes",
+      "slug": "Kyivairraidalertsatrecor",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -194,19 +247,27 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c158wwl22xko?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cjdvx9pz44ro?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/7/syria-detains-assad-era-general-accused-of-bloody-crackdown-on-protests?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/yemen-fighting-escalates-as-forces-battle-for-bab-al-mandeb-strait?traffic_source=rss"
         }
       ],
-      "issue": "ケニアで未登録の外国人トレーダーに対する取り締まりが開始されるか？",
+      "issue": null,
       "stasis": "事実",
       "facts": [
         {
-          "t": "ケニアは、外国人が小規模ビジネスを運営することを制限する措置の施行を開始する予定である。",
-          "span": "Kenya is due to start enforcing measures to restrict foreign nationals from operating small-scale businesses.",
+          "t": "イスラエル軍の攻撃により、レバノン南部の村で12人が死亡した。",
+          "span": "kill 12",
           "src": [
             {
               "ty": "press",
@@ -215,8 +276,8 @@
           ]
         },
         {
-          "t": "ブルンジ国民が未登録トレーダーに対する取り締まりを前にケニアから出国を急いでいる。",
-          "span": "Burundians rush to leave Kenya ahead of crackdown on unregistered traders",
+          "t": "キーウの空襲警報が過去最高水準に達している。",
+          "span": "air raid alerts at record high",
           "src": [
             {
               "ty": "press",
@@ -225,8 +286,28 @@
           ]
         },
         {
-          "t": "シリアで、抗議活動に対する弾圧に関与したとされるアサド政権時代の将軍が拘束された。",
-          "span": "Syria detains Assad-era general accused of bloody crackdown on protests",
+          "t": "ロシアが24時間体制で攻撃を開始している。",
+          "span": "launches round-the-clock strikes",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "学校、企業、公共交通機関がロシアの空爆増加により困難に直面している。",
+          "span": "struggling with the surge in Russian air attacks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "原油価格が6週間ぶりの高値に急騰した。",
+          "span": "Oil prices spike to six-week highs",
           "src": [
             {
               "ty": "press",
@@ -235,8 +316,38 @@
           ]
         },
         {
-          "t": "拘束された将軍は、1982年のハマ虐殺および2011年の抗議活動弾圧との関連で告発されている。",
-          "span": "Major-General Mohammed Ali Durgham is accused of links to 1982 Hama massacre and 2011 protest crackdown.",
+          "t": "ホルムズ海峡で米イラン間の攻撃が激化している。",
+          "span": "US-Iran strikes intensify",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米イラン間の攻撃が、ホルムズ海峡の交通を混乱させている。",
+          "span": "disrupt traffic",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イエメンでの戦闘が激化している。",
+          "span": "Fighting is intensifying",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "政府側勢力が、イランが支援するフーシ派に対し、バブ・エル・マンデブ海峡を巡って反撃を開始している。",
+          "span": "government-aligned forces launch counterattacks against the Iran-backed Houthis",
           "src": [
             {
               "ty": "press",
@@ -246,13 +357,77 @@
         }
       ],
       "positions": [],
-      "consensus": "ケニアは外国人の小規模ビジネス運営を制限する措置を施行する予定であり、ブルンジ国民は未登録トレーダーへの取り締まりを前にケニアからの出国を急いでいる。シリアでは、1982年のハマ虐殺および2011年の抗議活動弾圧との関連で告発されているアサド政権時代の将軍が拘束された。",
-      "note": "プライバシー配慮のため、個々のトレーダーや容疑者の特定情報は含んでいない。",
+      "consensus": "世界各地で紛争が激化し、人命や経済、社会インフラに影響を及ぼしているという事実が報じられている。これらの事態に対する評価や解釈は、各主体によって異なる可能性があるが、本記事群では具体的な対立する評価は示されていない。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "factsの2番目の項目で、spanが空文字だったため、元テキストから補完した。",
-          "fact spanが原文に無い→除去「Burundians rush to…」"
+          "事実欄への評価混入: facts[6].t から「重要な」を削除しました。",
+          "span の最小核: facts[6].span を「disrupt traffic」に修正しました。",
+          "争点の立て方: テキスト内に具体的な対立する評価が示されていないため、issue を null に、positions を空配列に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "信越化学の半導体材料に「保証金」　反ダンピング措置―中国",
+      "slug": "信越化学の半導体材料に保証金反ダンピング措置中国",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48891"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090700878&g=int&m=rss"
+        }
+      ],
+      "issue": "中国政府は日本製ジクロロシランの価格が不当に安く抑えられていると認定したのか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "中国政府は、半導体製造に用いられる化学物質「ジクロロシラン」のうち日本からの輸入品に対し、事実上の関税措置をとると発表した。",
+          "span": "事実上の関税措置をとると発表しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "ジクロロシランは半導体の製造工程で使われる化学物質である。",
+          "span": "半導体の製造工程で使われる化学物質「ジクロロシラン」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "信越化学の半導体材料が、中国の反ダンピング措置による「保証金」の対象となった。",
+          "span": "信越化学の半導体材料に「保証金」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "中国政府は日本製ジクロロシランに対し事実上の関税措置をとると発表し、その理由として価格が不当に安く抑えられていると認定している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "Rule 5 (争点の立て方): テキスト内に反対側の立場が明示されていないため、issueを「妥当か？」という判断を求める問いから、中国政府の認定の有無を問う事実確認の問いに修正しました。",
+          "Rule 5 (偽りのバランス): consensus内の「評価は割れる／アプリは裁定しない。」という、テキストにない対立や評価の存在を示唆する記述を削除しました。"
         ]
       }
     }
