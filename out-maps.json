@@ -1,131 +1,28 @@
 {
-  "builtAt": "2026-09-08T17:34:09.411Z",
+  "builtAt": "2026-09-08T22:43:53.345Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "名古屋 市内の全市立学校と幼稚園 9日は休校・休園に 大雨影響",
-      "slug": "名古屋市内の全市立学校と幼稚園9日は休校休園に大",
+      "headline": "愛知・岐阜の川に氾濫特別警報　線状降水帯も発生、身の安全確保を―気象庁",
+      "slug": "愛知岐阜の川に氾濫特別警報線状降水帯も発生身の安",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49183"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260909de49198"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49141"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49182"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49034"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594678?source=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260908172040_0_VPWW55_250000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260908171100_0_VPWW55_380000.xml"
-        }
-      ],
-      "issue": "大雨による各地の被害状況と警戒情報",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "東京・武蔵野市吉祥寺北町で8日午後9時ごろ、住宅街の道路が冠水し、急な流れができた。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "名古屋市千種区の覚王山駅から東に400メートルほどの交差点付近で8日午後、道路一面が茶色い水につかり、急な流れができた。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "名古屋市教育委員会は、大雨による道路の冠水や河川の増水、複数の学校校舎での浸水被害、引き続き警報級の大雨の可能性があることを理由に、9日の市内の全市立学校と幼稚園を休校・休園とした。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "名古屋市で川が大きく波打つ様子が報じられた。",
-          "span": "大きく波打つ川",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "滋賀県に大雨警報・注意報が発表されており、低い土地の浸水や河川の増水に注意が呼びかけられている。",
-          "span": "低い土地の浸水や河川の増水に注意",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "愛媛県南予に大雨警報・注意報が発表されており、低い土地の浸水や河川の増水に警戒が呼びかけられている。",
-          "span": "低い土地の浸水や河川の増水に警戒",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "各地で大雨による道路の冠水や河川の増水などの被害が発生しており、一部地域では学校の休校措置や気象警報が発表されている。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[2].span: 元テキストの記述が不完全であり、tの内容を直接的に支持する最小核のspanが存在しないため、spanを空文字に修正しました。",
-          "fact spanが原文に無い→除去「住宅街の道路が冠水して川のようになり…」",
-          "fact spanが原文に無い→除去「道路一面が茶色い水につかり、急な流れ…」"
-        ]
-      }
-    },
-    {
-      "headline": "庄内川「レベル2氾濫注意報」に 今後も各地で線状降水帯おそれ",
-      "slug": "庄内川レベル2氾濫注意報に今後も各地で線状降水帯",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48909"
+          "link": "https://news.yahoo.co.jp/pickup/6594693?source=rss"
         },
         {
           "source": "Yahoo!ニュース 主要",
@@ -133,19 +30,39 @@
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594684?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6594694?source=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260908172359_0_VXKO53_080000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090800887&g=soc&m=rss"
         }
       ],
-      "issue": "各地の河川における洪水警報・注意報の状況と線状降水帯の発生見込みはどうか？",
+      "issue": "大雨は各地にどのような影響を与えているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "愛知県と岐阜県を流れる庄内川では、以前発表されていた「レベル5氾濫特別警報」が解除され、「レベル2氾濫注意報」に引き下げられた。",
-          "span": "庄内川「レベル2氾濫注意報」に",
+          "t": "秋雨前線の活動が活発化している。",
+          "span": "秋雨前線の活動が活発になり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東海地方で8日に線状降水帯が発生し、浸水や冠水被害が相次いだ。",
+          "span": "線状降水帯が発生して浸水や冠水の被害が相次いだ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "庄内川に一時、レベル5氾濫特別警報が発表された。",
+          "span": "レベル5氾濫特別警報が発表されました",
           "src": [
             {
               "ty": "press",
@@ -153,13 +70,13 @@
             },
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "秋雨前線や熱帯低気圧の影響により、東海地方では線状降水帯が発生し、猛烈な雨が降った。",
-          "span": "線状降水帯が発生して猛烈な雨が降り",
+          "t": "四国で非常に激しい雨が降っている。",
+          "span": "非常に激しい雨が降る",
           "src": [
             {
               "ty": "press",
@@ -168,8 +85,8 @@
           ]
         },
         {
-          "t": "今後も各地で線状降水帯が発生するおそれがある。",
-          "span": "今後も各地で線状降水帯おそれ",
+          "t": "大雨の影響で各地で被害が出ている。",
+          "span": "各地で被害が出ています",
           "src": [
             {
               "ty": "press",
@@ -178,8 +95,18 @@
           ]
         },
         {
-          "t": "近畿地方では9日昼前にかけて線状降水帯が発生するおそれがある。",
-          "span": "近畿9日昼前にかけ線状降水帯恐れ",
+          "t": "名古屋で道路冠水や地下鉄駅の浸水が発生した。",
+          "span": "道路冠水や地下鉄駅の浸水",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "関東から四国にかけて線状降水帯発生のおそれがある。",
+          "span": "線状降水帯の恐れ",
           "src": [
             {
               "ty": "press",
@@ -188,34 +115,216 @@
           ]
         },
         {
-          "t": "小貝川では「レベル2氾濫注意報」が発表されており、警戒レベル2情報［洪水］が継続している。",
-          "span": "【小貝川レベル２氾濫注意報】【警戒レベル２情報［洪水］】〔継続〕",
+          "t": "愛知・岐阜の庄内川に氾濫注意報が発表されている。",
+          "span": "氾濫注意報に",
           "src": [
             {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "小貝川では氾濫注意水位に到達しており、今後水位はさらに上昇する見込みである。",
-          "span": "氾濫注意水位に到達し、今後、水位はさらに上昇する見込み",
+          "t": "名古屋で大雨により多くの帰宅困難者が出た。",
+          "span": "多くの帰宅困難者",
           "src": [
             {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "愛知・岐阜の川に氾濫特別警報が発表された。",
+          "span": "氾濫特別警報",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "線状降水帯が発生した。",
+          "span": "線状降水帯も発生",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "庄内川では氾濫特別警報が解除され氾濫注意報に引き下げられた一方、小貝川では氾濫注意報が継続しており、今後も各地で線状降水帯の発生が予測されている。本件に関する評価の対立は報じられていない。",
-      "note": "",
+      "consensus": "秋雨前線の活動が活発化し、各地で大雨による浸水、冠水、氾濫警報、帰宅困難者などの被害が発生している。評価は割れず、気象庁が身の安全確保を呼びかけている。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "facts[0].span: 元テキストの「庄内川「レベル2氾濫注意報」に」を反映するよう修正しました。",
-          "facts[4].span: 元テキストの「【小貝川レベル２氾濫注意報】【警戒レベル２情報［洪水］】〔継続〕」を反映するよう修正しました。"
+          "positions[0]のpremisesが欠落していたため、関連する事実のインデックス[2, 6, 9, 10]を追加しました。"
+        ]
+      }
+    },
+    {
+      "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "slug": "UKannouncessanctionsonWe",
+      "independentSources": 3,
+      "sources": [
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090801086&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss"
+        }
+      ],
+      "issue": "ユダヤ人入植地からの物品輸入禁止措置は妥当か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "英国、フランス、カナダを含む12カ国が、ユダヤ人入植地からの輸入禁止措置を発表した。",
+          "span": "ユダヤ人入植地からの輸入禁止",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "英国はヨルダン川西岸の入植地に対する制裁を発表した。",
+          "span": "UK announces sanctions on West Bank settlements",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルは、英国による新たな物品禁止措置を受け、占領下の東エルサレムにある英国領事館を閉鎖すると発表した。",
+          "span": "shutting down the UK Consulate in occupied East Jerusalem",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "英国外務大臣",
+          "stance": "support",
+          "claim": "入植者がパレスチナ人の「民族浄化」を行っていると非難している。",
+          "span": "carrying out the \"ethnic cleansing\" of Palestinians",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "イスラエル",
+          "stance": "attack",
+          "claim": "輸入禁止措置に反発している。",
+          "span": "反発",
+          "reason": null,
+          "attr": null,
+          "premises": [
+            0,
+            1
+          ],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "consensus": "英国、フランス、カナダを含む12カ国がユダヤ人入植地からの輸入禁止措置を発表し、イスラエルはこれに反発している。この措置の妥当性については評価が割れている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[1].premises が空だったため、イスラエルの反発対象である関連事実 (facts[0], facts[1]) を参照するように修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "slug": "CarneysaysUStradewarwill",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss"
+        }
+      ],
+      "issue": "米国の貿易戦争は経済的コストを伴うか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "カナダは、鉄鋼からTシャツまで約200億ドル相当の米国製品に関税を課す予定である。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "これらの関税は最大50%に達する可能性がある。",
+          "span": "as high as 50%",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "「米国の貿易戦争はコストを伴う」という評価が示されているが、その影響については評価が割れる可能性がある。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "span の最小核: facts[0].span が文全体に近かったため、評価語句（'- as high as 50% -'）を除外し、より核となる部分に修正しました。"
         ]
       }
     },
@@ -307,62 +416,6 @@
         "issues": [
           "争点の立て方: テキストに実在の対立する立場が示されていないため、issueを「正当化されるか？」から「フーシ派によるサウジアラビアのエネルギー施設攻撃に対し、サウジアラビアはどのような立場を取っているか？」に変更しました。また、consensusの「攻撃の正当性については評価が割れる／アプリは裁定しない」という記述はテキストに根拠がないため削除しました。",
           "fact spanが原文に無い→除去「エネルギー施設攻撃,attack c…」"
-        ]
-      }
-    },
-    {
-      "headline": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "slug": "CarneysaysUStradewarwill",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss"
-        }
-      ],
-      "issue": "米国の貿易戦争は経済的コストを伴うか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "カナダは、鉄鋼からTシャツまで約200億ドル相当の米国製品に関税を課す予定である。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "これらの関税は最大50%に達する可能性がある。",
-          "span": "as high as 50%",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "「米国の貿易戦争はコストを伴う」という評価が示されているが、その影響については評価が割れる可能性がある。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "span の最小核: facts[0].span が文全体に近かったため、評価語句（'- as high as 50% -'）を除外し、より核となる部分に修正しました。"
         ]
       }
     }
