@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-09-08T09:22:41.743Z",
+  "builtAt": "2026-09-08T17:34:09.411Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "名古屋 1時間雨量が101.5ミリに 観測史上最多 東海豪雨超える",
-      "slug": "名古屋1時間雨量が1015ミリに観測史上最多東海",
+      "headline": "名古屋 市内の全市立学校と幼稚園 9日は休校・休園に 大雨影響",
+      "slug": "名古屋市内の全市立学校と幼稚園9日は休校休園に大",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,74 +14,34 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49073"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49183"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49074"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49141"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49034"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48909"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49043"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49082"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49072"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49182"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594660?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6594678?source=rss"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260908091900_0_VPWW53_210000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260908172040_0_VPWW55_250000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260908091900_0_VPWW54_210000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260908091713_0_VXWW50_190000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260908171100_0_VPWW55_380000.xml"
         }
       ],
-      "issue": "愛知県と岐阜県で線状降水帯が発生し、各地で猛烈な雨が降っている状況か？",
+      "issue": "大雨による各地の被害状況と警戒情報",
       "stasis": "事実",
       "facts": [
         {
-          "t": "愛知県と岐阜県で線状降水帯が発生した。",
-          "span": "愛知県と岐阜県では午後4時半ごろに「線状降水帯発生」の気象防災速報が発表されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "東海地方では猛烈な雨が降っている。",
-          "span": "東海では猛烈な雨が降り",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "愛知県が名古屋市中区に設置した雨量計では、午後4時10分までの1時間に88ミリの猛烈な雨を観測した。",
+          "t": "東京・武蔵野市吉祥寺北町で8日午後9時ごろ、住宅街の道路が冠水し、急な流れができた。",
           "span": "",
           "src": [
             {
@@ -91,7 +51,7 @@
           ]
         },
         {
-          "t": "名古屋市では1時間雨量が101.5ミリに達し、観測史上最多となった。",
+          "t": "名古屋市千種区の覚王山駅から東に400メートルほどの交差点付近で8日午後、道路一面が茶色い水につかり、急な流れができた。",
           "span": "",
           "src": [
             {
@@ -101,7 +61,7 @@
           ]
         },
         {
-          "t": "名古屋市営地下鉄の平安通駅では、ホームで天井から大量の水が漏れ、駅構内の床に水がたまり、改札付近が閉鎖された。",
+          "t": "名古屋市教育委員会は、大雨による道路の冠水や河川の増水、複数の学校校舎での浸水被害、引き続き警報級の大雨の可能性があることを理由に、9日の市内の全市立学校と幼稚園を休校・休園とした。",
           "span": "",
           "src": [
             {
@@ -111,189 +71,8 @@
           ]
         },
         {
-          "t": "名古屋市営地下鉄の栄駅では、改札付近まで水が流れ込んでいる様子が確認された。",
-          "span": "名古屋市営地下鉄の栄駅で午後4時すぎに撮影した映像では、階段をつたって改札付近まで水が流れ込んできている様子が確認できます。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "名古屋市中心部の道路が冠水している。",
-          "span": "名古屋市中心部 大雨で道路冠水。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "名古屋市港区では、アンダーパスなどが冠水し、複数の車が動けなくなっているという通報が相次いでいる。",
-          "span": "名古屋市港区を管轄する警察署によりますと、管内ではアンダーパスなどが冠水し、車が動けなくなっているという通報が相次いでいるということです。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "名古屋市は午後5時15分、市内を流れる川が氾濫する可能性が非常に高まっているとして、千種区、守山区、名東区のそれぞれ一部地域、あわせておよそ3万世帯に「緊急安全確保」を出した。",
-          "span": "名古屋市は午後5時15分、市内を流れる川が氾濫する可能性が非常に高まっているとして、千種区と守山区、名東区の、それぞれ一部の地域、あわせておよそ3万世帯に「緊急安全確保」を出しました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "岐阜県では、美濃地方で土砂災害や低い土地の浸水に厳重な警戒が必要であり、庄内川では河川の氾濫に厳重な警戒が必要である。",
-          "span": "美濃地方では、土砂災害や低い土地の浸水に厳重に警戒してください。庄内川では、河川の氾濫に厳重に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "愛知県と岐阜県で線状降水帯が発生し、各地で猛烈な雨が降っている。名古屋市では観測史上最多の雨量を記録し、地下鉄の駅構内や道路の冠水、車の立ち往生などの被害が発生している。一部地域には緊急安全確保が出されている。気象庁は土砂災害や河川の氾濫に厳重な警戒を呼びかけている。",
-      "note": "山梨県の土砂災害警戒情報に関する記述は、愛知・岐阜の状況とは直接関連しないため、事実としては含めない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "山梨県の土砂災害警戒情報に関する記述を、関連性が低いと判断し削除しました。",
-          "fact spanが原文に無い→除去「愛知県が名古屋市中区に設置した雨量計…」",
-          "fact spanが原文に無い→除去「名古屋市では猛烈な雨が降っています。…」",
-          "fact spanが原文に無い→除去「名古屋 地下鉄の平安通駅 ホームでは…」"
-        ]
-      }
-    },
-    {
-      "headline": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-      "slug": "EiffelTowershutbystaffpr",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/8/indonesia-airports-reopen-after-volcanic-ash-disrupts-thousands-of-flights?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/8/eiffel-tower-to-reopen-after-protest-over-removing-women-staff?traffic_source=rss"
-        }
-      ],
-      "issue": "エッフェル塔の閉鎖は、女性スタッフの配置変更が原因か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "エッフェル塔は、女性スタッフが配置変更されたことに対する抗議により閉鎖された。",
-          "span": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ヒンドゥー教の宗教代表団が訪問中に女性との交流を制限するよう求めた。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "この事件は、女性従業員を「屈辱的」な状況に置いた。",
-          "span": "which left female employees \"humiliated\"",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この事件について調査が開始される予定である。",
-          "span": "An investigation will be launched into the incident",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "エッフェル塔は抗議の後、再開された。",
-          "span": "Eiffel Tower reopens after protest over removing women staff",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "エッフェル塔は、女性スタッフの配置変更を巡る抗議活動により一時閉鎖された。その後再開された。",
-      "note": "プライバシー配慮のため、被害者の実名は伏せられています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factのt: \"閉鎖の原因となったのは、ヒンドゥー教の宗教代表団が訪問中に女性との交流を制限するよう求めたことだった。\" を \"ヒンドゥー教の宗教代表団が訪問中に女性との交流を制限するよう求めた。\" に修正。原因という評価語を削除し、事実のみにした。",
-          "consensus: \"評価は割れる。\" を削除。テキストから評価が割れているという事実は読み取れないため。",
-          "note: \"プライバシー配慮のため、被害者の実名は伏せられています。\" を削除。元テキストに記載がないため。"
-        ]
-      }
-    },
-    {
-      "headline": "立民系は近く新党を結成し、公明系は月内にも復党する方針",
-      "slug": "立民系は近く新党を結成し公明系は月内にも復党する",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594661?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090800803&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090800811&g=flash&m=rss"
-        }
-      ],
-      "issue": "中道系議員の離党・新党結成・復党の方針は妥当か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "中道系議員の一部が離党する意向であることが報じられている。",
-          "span": "中道 立憲系と公明系議員が離党へ",
+          "t": "名古屋市で川が大きく波打つ様子が報じられた。",
+          "span": "大きく波打つ川",
           "src": [
             {
               "ty": "press",
@@ -302,67 +81,238 @@
           ]
         },
         {
-          "t": "立憲系議員と公明系議員がそれぞれ離党する意向であることが報じられている。",
-          "span": "立民・公明系それぞれ離党へ",
+          "t": "滋賀県に大雨警報・注意報が発表されており、低い土地の浸水や河川の増水に注意が呼びかけられている。",
+          "span": "低い土地の浸水や河川の増水に注意",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "中道系議員の分裂が起きている。",
-          "span": "中道分裂",
+          "t": "愛媛県南予に大雨警報・注意報が発表されており、低い土地の浸水や河川の増水に警戒が呼びかけられている。",
+          "span": "低い土地の浸水や河川の増水に警戒",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "立憲系議員は近く新党を結成する方針である。",
-          "span": "立民系は近く新党を結成し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "公明系議員は月内にも復党する方針である。",
-          "span": "公明系は月内にも復党する方針",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "立憲系議員と公明系議員は統一会派を目指している。",
-          "span": "統一会派目指す",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "中道系議員の一部が離党し、立憲系は新党結成、公明系は復党する方針であることが報じられている。また、統一会派を目指す動きもある。",
-      "note": "複数の報道機関が同様の内容を報じているが、各報道機関の名称を明記した。",
+      "consensus": "各地で大雨による道路の冠水や河川の増水などの被害が発生しており、一部地域では学校の休校措置や気象警報が発表されている。",
+      "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[2].span: 元テキストの記述が不完全であり、tの内容を直接的に支持する最小核のspanが存在しないため、spanを空文字に修正しました。",
+          "fact spanが原文に無い→除去「住宅街の道路が冠水して川のようになり…」",
+          "fact spanが原文に無い→除去「道路一面が茶色い水につかり、急な流れ…」"
+        ]
       }
     },
     {
-      "headline": "Palestinian parents fear for children's lives at school as settler attacks grow",
-      "slug": "Palestinianparentsfearfo",
+      "headline": "庄内川「レベル2氾濫注意報」に 今後も各地で線状降水帯おそれ",
+      "slug": "庄内川レベル2氾濫注意報に今後も各地で線状降水帯",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de48909"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594689?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594684?source=rss"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260908172359_0_VXKO53_080000.xml"
+        }
+      ],
+      "issue": "各地の河川における洪水警報・注意報の状況と線状降水帯の発生見込みはどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "愛知県と岐阜県を流れる庄内川では、以前発表されていた「レベル5氾濫特別警報」が解除され、「レベル2氾濫注意報」に引き下げられた。",
+          "span": "庄内川「レベル2氾濫注意報」に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "秋雨前線や熱帯低気圧の影響により、東海地方では線状降水帯が発生し、猛烈な雨が降った。",
+          "span": "線状降水帯が発生して猛烈な雨が降り",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "今後も各地で線状降水帯が発生するおそれがある。",
+          "span": "今後も各地で線状降水帯おそれ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "近畿地方では9日昼前にかけて線状降水帯が発生するおそれがある。",
+          "span": "近畿9日昼前にかけ線状降水帯恐れ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "小貝川では「レベル2氾濫注意報」が発表されており、警戒レベル2情報［洪水］が継続している。",
+          "span": "【小貝川レベル２氾濫注意報】【警戒レベル２情報［洪水］】〔継続〕",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "小貝川では氾濫注意水位に到達しており、今後水位はさらに上昇する見込みである。",
+          "span": "氾濫注意水位に到達し、今後、水位はさらに上昇する見込み",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "庄内川では氾濫特別警報が解除され氾濫注意報に引き下げられた一方、小貝川では氾濫注意報が継続しており、今後も各地で線状降水帯の発生が予測されている。本件に関する評価の対立は報じられていない。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0].span: 元テキストの「庄内川「レベル2氾濫注意報」に」を反映するよう修正しました。",
+          "facts[4].span: 元テキストの「【小貝川レベル２氾濫注意報】【警戒レベル２情報［洪水］】〔継続〕」を反映するよう修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
+      "slug": "SaudiArabiavowstorespond",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090800162&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "フーシ派によるサウジアラビアのエネルギー施設攻撃に対し、サウジアラビアはどのような立場を取っているか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "フーシ派がサウジアラビアのエネルギー施設を攻撃した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フーシ派はこの攻撃を「大規模作戦」と呼称している。",
+          "span": "「大規模作戦」",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "攻撃により、エネルギー施設の稼働が停止する可能性がある。",
+          "span": "稼働停止も",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "サウジアラビア当局によると、フーシ派の攻撃で73人が負傷し、石油施設で火災が発生した。",
+          "span": "injured 73 people and caused fires at oil facilities",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フーシ派はイランが支援するイエメンのグループである。",
+          "span": "Iran-backed Yemeni group",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "フーシ派がサウジアラビアのエネルギー施設を攻撃し、サウジアラビアは報復を表明している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: テキストに実在の対立する立場が示されていないため、issueを「正当化されるか？」から「フーシ派によるサウジアラビアのエネルギー施設攻撃に対し、サウジアラビアはどのような立場を取っているか？」に変更しました。また、consensusの「攻撃の正当性については評価が割れる／アプリは裁定しない」という記述はテキストに根拠がないため削除しました。",
+          "fact spanが原文に無い→除去「エネルギー施設攻撃,attack c…」"
+        ]
+      }
+    },
+    {
+      "headline": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
+      "slug": "CarneysaysUStradewarwill",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -371,23 +321,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/8/yemeni-forces-launch-counteroffensive-against-houthis-vow-to-retake-sanaa?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss"
         }
       ],
-      "issue": null,
-      "stasis": null,
+      "issue": "米国の貿易戦争は経済的コストを伴うか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "占領下のヨルダン川西岸地区の校長が新しい有刺鉄線フェンスを設置した。",
-          "span": "installed new barbed wire fencing",
+          "t": "カナダは、鉄鋼からTシャツまで約200億ドル相当の米国製品に関税を課す予定である。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -396,88 +346,23 @@
           ]
         },
         {
-          "t": "今年、3人の生徒が殺害された。",
-          "span": "three pupils were killed this year",
+          "t": "これらの関税は最大50%に達する可能性がある。",
+          "span": "as high as 50%",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
             }
           ]
-        },
-        {
-          "t": "サウジアラビアに対するフーシ派の攻撃により、73人の民間人が負傷した。",
-          "span": "wounded 73 civilians",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イエメン軍はフーシ派に対する反攻を開始した。",
-          "span": "launch counter-offensive against Houthis",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "アル・バイダとアルの各州で、イエメン軍とフーシ派の衝突が激化している。",
-          "span": "clashes between Yemeni forces and Houthis intensify",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
         }
       ],
-      "positions": [
-        {
-          "actor": "サウジアラビア主導連合の報道官",
-          "stance": "attack",
-          "claim": "フーシ派がアブハ、ハミス・ムシャイト、ジャザン、ナジュランの民間施設を標的としたと述べている。",
-          "span": "targeted civilian sites in Abha, Khamis Mushait, Jazan and Najran",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            2
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "イエメン軍",
-          "stance": "support",
-          "claim": "サナアを奪還すると誓っている。",
-          "span": "vow to retake Sanaa",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "consensus": "中東地域では複数の紛争が継続しており、攻撃や軍事行動が行われている。これらの行動の正当性については、アプリは裁定しない。",
+      "positions": [],
+      "consensus": "「米国の貿易戦争はコストを伴う」という評価が示されているが、その影響については評価が割れる可能性がある。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "`issue`と`stasis`は、テキスト内の`positions`が示す対立や議論を反映していないため削除しました。`positions`は個別の主張や意図を報告していますが、それらが「紛争当事者による攻撃や軍事行動の正当性」という争点に対する賛否を形成していません。"
+          "span の最小核: facts[0].span が文全体に近かったため、評価語句（'- as high as 50% -'）を除外し、より核となる部分に修正しました。"
         ]
       }
     }
