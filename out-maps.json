@@ -1,15 +1,14 @@
 {
-  "builtAt": "2026-09-08T22:43:53.345Z",
+  "builtAt": "2026-09-09T14:24:19.703Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "愛知・岐阜の川に氾濫特別警報　線状降水帯も発生、身の安全確保を―気象庁",
-      "slug": "愛知岐阜の川に氾濫特別警報線状降水帯も発生身の安",
-      "independentSources": 3,
+      "headline": "東日本中心に大気不安定 静岡で線状降水帯発生のおそれ 警戒を",
+      "slug": "東日本中心に大気不安定静岡で線状降水帯発生のおそ",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
@@ -18,31 +17,35 @@
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49034"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260909de49392"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594693?source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260909142140_0_VPWW53_140000.xml"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594689?source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260909142140_0_VPWW54_140000.xml"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594694?source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260909142135_0_VPWW58_140000.xml"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090800887&g=soc&m=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260909140441_0_VPWW54_190000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260909140441_0_VPWW53_190000.xml"
         }
       ],
-      "issue": "大雨は各地にどのような影響を与えているか？",
+      "issue": "主要ニュースで報じられた気象状況と将棋の対局結果",
       "stasis": "事実",
       "facts": [
         {
-          "t": "秋雨前線の活動が活発化している。",
-          "span": "秋雨前線の活動が活発になり",
+          "t": "東日本を中心に大気の状態が非常に不安定になっている。",
+          "span": "東日本を中心に大気の状態が非常に不安定になっていて",
           "src": [
             {
               "ty": "press",
@@ -51,8 +54,8 @@
           ]
         },
         {
-          "t": "東海地方で8日に線状降水帯が発生し、浸水や冠水被害が相次いだ。",
-          "span": "線状降水帯が発生して浸水や冠水の被害が相次いだ",
+          "t": "静岡県ではこのあと数時間、線状降水帯が発生するおそれがある。",
+          "span": "静岡県ではこのあと数時間、線状降水帯が発生するおそれがあります",
           "src": [
             {
               "ty": "press",
@@ -61,22 +64,56 @@
           ]
         },
         {
-          "t": "庄内川に一時、レベル5氾濫特別警報が発表された。",
-          "span": "レベル5氾濫特別警報が発表されました",
+          "t": "土砂災害や浸水などに厳重に警戒するよう呼びかけられている。",
+          "span": "引き続き土砂災害や浸水などに厳重に警戒してください",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "神奈川県では土砂災害、強風、高波に注意するよう呼びかけられている。",
+          "span": "神奈川県では、土砂災害や強風、高波に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
             },
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "気象庁 気象警報・注意報（Ｈ２７）"
             }
           ]
         },
         {
-          "t": "四国で非常に激しい雨が降っている。",
-          "span": "非常に激しい雨が降る",
+          "t": "神奈川県では強風に注意するよう呼びかけられている。",
+          "span": "神奈川県では、強風に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報（Ｒ０６）（暴風）"
+            }
+          ]
+        },
+        {
+          "t": "山梨県東部・富士五湖では土砂災害に厳重に警戒するよう呼びかけられている。",
+          "span": "東部・富士五湖では、土砂災害に厳重に警戒してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報（Ｈ２７）"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "将棋の八大タイトルの1つである「王位戦」七番勝負の第6局が神奈川県で開催された。",
+          "span": "将棋の八大タイトルの1つ、「王位戦」七番勝負の第6局が神奈川県で行われ",
           "src": [
             {
               "ty": "press",
@@ -85,8 +122,8 @@
           ]
         },
         {
-          "t": "大雨の影響で各地で被害が出ている。",
-          "span": "各地で被害が出ています",
+          "t": "藤井聡太六冠（24）が挑戦者の伊藤匠二冠（23）に勝利した。",
+          "span": "藤井聡太六冠（24）が、挑戦者の伊藤匠二冠（23）に勝って",
           "src": [
             {
               "ty": "press",
@@ -95,186 +132,30 @@
           ]
         },
         {
-          "t": "名古屋で道路冠水や地下鉄駅の浸水が発生した。",
-          "span": "道路冠水や地下鉄駅の浸水",
+          "t": "藤井聡太六冠は「王位」のタイトルを7連覇した。",
+          "span": "「王位」のタイトル7連覇を果たしました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関東から四国にかけて線状降水帯発生のおそれがある。",
-          "span": "線状降水帯の恐れ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "愛知・岐阜の庄内川に氾濫注意報が発表されている。",
-          "span": "氾濫注意報に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "名古屋で大雨により多くの帰宅困難者が出た。",
-          "span": "多くの帰宅困難者",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "愛知・岐阜の川に氾濫特別警報が発表された。",
-          "span": "氾濫特別警報",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "線状降水帯が発生した。",
-          "span": "線状降水帯も発生",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "秋雨前線の活動が活発化し、各地で大雨による浸水、冠水、氾濫警報、帰宅困難者などの被害が発生している。評価は割れず、気象庁が身の安全確保を呼びかけている。",
-      "note": null,
+      "consensus": "東日本を中心とした大気不安定な状況と、静岡県での線状降水帯発生のおそれ、および各地域での気象警報・注意報が報じられている。また、将棋「王位戦」で藤井聡太六冠がタイトルを防衛し、7連覇を達成したことが報じられている。これらの情報について、記事中に評価の対立は見られない。",
+      "note": "",
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0]のpremisesが欠落していたため、関連する事実のインデックス[2, 6, 9, 10]を追加しました。"
+          "issueが問いの形式になっていたため、stasisが「事実」であることに合わせ、問いかけではない主題の記述に修正しました。",
+          "factsの記述に「〜が必要である」という評価・提言が混入していたため、「〜するよう呼びかけられている」という客観的な事実記述に修正しました（facts[2], [3], [4], [5]）。"
         ]
       }
     },
     {
-      "headline": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-      "slug": "UKannouncessanctionsonWe",
-      "independentSources": 3,
-      "sources": [
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090801086&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/what-the-uk-ban-on-goods-from-illegal-israeli-settlements-really-means?traffic_source=rss"
-        }
-      ],
-      "issue": "ユダヤ人入植地からの物品輸入禁止措置は妥当か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "英国、フランス、カナダを含む12カ国が、ユダヤ人入植地からの輸入禁止措置を発表した。",
-          "span": "ユダヤ人入植地からの輸入禁止",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "英国はヨルダン川西岸の入植地に対する制裁を発表した。",
-          "span": "UK announces sanctions on West Bank settlements",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イスラエルは、英国による新たな物品禁止措置を受け、占領下の東エルサレムにある英国領事館を閉鎖すると発表した。",
-          "span": "shutting down the UK Consulate in occupied East Jerusalem",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "英国外務大臣",
-          "stance": "support",
-          "claim": "入植者がパレスチナ人の「民族浄化」を行っていると非難している。",
-          "span": "carrying out the \"ethnic cleansing\" of Palestinians",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "イスラエル",
-          "stance": "attack",
-          "claim": "輸入禁止措置に反発している。",
-          "span": "反発",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            0,
-            1
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "consensus": "英国、フランス、カナダを含む12カ国がユダヤ人入植地からの輸入禁止措置を発表し、イスラエルはこれに反発している。この措置の妥当性については評価が割れている。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[1].premises が空だったため、イスラエルの反発対象である関連事実 (facts[0], facts[1]) を参照するように修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
-      "slug": "CarneysaysUStradewarwill",
+      "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "slug": "Oilhits100abarrelforfirs",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -283,33 +164,27 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-devastate-homes-displace-families-across-gaza?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/israeli-strikes-transform-lebanese-city-into-ghost-town?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss"
         }
       ],
-      "issue": "米国の貿易戦争は経済的コストを伴うか？",
+      "issue": "ドイツにおける極右政党AfDの選挙結果を受けて、メルツ氏とAfD党首ヴァイデル氏の間でどのような論争があったか？",
       "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "カナダは、鉄鋼からTシャツまで約200億ドル相当の米国製品に関税を課す予定である。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "これらの関税は最大50%に達する可能性がある。",
-          "span": "as high as 50%",
+          "t": "ドイツで極右政党AfDが選挙で勝利した。",
+          "span": "far-right election win",
           "src": [
             {
               "ty": "press",
@@ -319,103 +194,154 @@
         }
       ],
       "positions": [],
-      "consensus": "「米国の貿易戦争はコストを伴う」という評価が示されているが、その影響については評価が割れる可能性がある。",
+      "consensus": "ドイツで極右政党AfDが選挙で勝利したという事実について、メルツ氏がAfDを攻撃し、ヴァイデル氏の移民政策を「民族浄化」と非難したという報道がある。評価は割れる。",
       "note": null,
       "audit": {
-        "changed": true,
-        "issues": [
-          "span の最小核: facts[0].span が文全体に近かったため、評価語句（'- as high as 50% -'）を除外し、より核となる部分に修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Saudi Arabia vows to respond after Houthis attack cities and energy facilities",
-      "slug": "SaudiArabiavowstorespond",
+      "headline": "ネパール土石流 発生から2週間 国際社会に支援呼びかけへ",
+      "slug": "ネパル土石流発生から2週間国際社会に支援呼びかけ",
       "independentSources": 2,
       "sources": [
-        "時事ドットコム",
-        "BBC World"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090800162&g=int&m=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260908de49138"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cp849n2nz01o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjdvyk3pm27o?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6594779?source=rss"
         }
       ],
-      "issue": "フーシ派によるサウジアラビアのエネルギー施設攻撃に対し、サウジアラビアはどのような立場を取っているか？",
-      "stasis": "政策",
+      "issue": "ネパール土石流による被害状況と今後の支援の必要性はどうか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "フーシ派がサウジアラビアのエネルギー施設を攻撃した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "フーシ派はこの攻撃を「大規模作戦」と呼称している。",
-          "span": "「大規模作戦」",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "攻撃により、エネルギー施設の稼働が停止する可能性がある。",
-          "span": "稼働停止も",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "サウジアラビア当局によると、フーシ派の攻撃で73人が負傷し、石油施設で火災が発生した。",
-          "span": "injured 73 people and caused fires at oil facilities",
+          "t": "ネパールと中国の国境付近で大規模な土石流が発生してから2週間が経過した。",
+          "span": "ネパールと中国の国境付近で大規模な土石流が発生してから9日で2週間となり",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "フーシ派はイランが支援するイエメンのグループである。",
-          "span": "Iran-backed Yemeni group",
+          "t": "これまでに1400人以上が死亡した。",
+          "span": "これまでに1400人以上が死亡し",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "5000人以上の行方がわからなくなっている。",
+          "span": "5000人以上の行方がわからなくなっています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "土石流のがれきの量は220万トンと試算されている。",
+          "span": "がれき220万t 試算",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "フーシ派がサウジアラビアのエネルギー施設を攻撃し、サウジアラビアは報復を表明している。",
-      "note": null,
+      "consensus": "ネパールと中国の国境付近で大規模な土石流が発生してから2週間が経過し、両国で1400人以上が死亡、5000人以上が行方不明となっている。がれきは220万トンと試算されている。ネパールと中国は国際社会に支援を呼びかける方針である。",
+      "note": "両国は支援呼びかけについて、共同で実施する旨が示唆されているが、個別の主体として記載した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "高速道路 約10キロ逆走 警察が追跡 渋谷で逮捕【動画も】",
+      "slug": "高速道路約10キロ逆走警察が追跡渋谷で逮捕動画も",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260909de49327"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026090900968&g=soc&m=rss"
+        }
+      ],
+      "issue": "高速道路での逆走行為は逮捕につながるか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "9日午前、警察の追跡を受けていた車がおよそ10キロにわたって千葉県内の高速道路を逆走した。",
+          "span": "9日午前、警察の追跡を受けていた車がおよそ10キロにわたって千葉県内の高速道路を逆走しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "その後も車は逃走を続けた。",
+          "span": "その後も車は逃走を続けましたが",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警視庁の警察官が午後3時前に東京・渋谷区内で車を発見し、運転していた女を逮捕した。",
+          "span": "警視庁の警察官が午後3時前に東京・渋谷区内で発見し、運転していた女の容疑",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ソフトバンクの元選手が不同意わいせつ容疑で福岡県警に逮捕された。",
+          "span": "ソフトバンク元選手を逮捕　不同意わいせつ容疑―福岡県警",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "高速道路での逆走行為は逮捕につながる。ソフトバンクの元選手が不同意わいせつ容疑で逮捕された。",
+      "note": "プライバシーに配慮し、逮捕された女の氏名やソフトバンク元選手の氏名は記載しない。",
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: テキストに実在の対立する立場が示されていないため、issueを「正当化されるか？」から「フーシ派によるサウジアラビアのエネルギー施設攻撃に対し、サウジアラビアはどのような立場を取っているか？」に変更しました。また、consensusの「攻撃の正当性については評価が割れる／アプリは裁定しない」という記述はテキストに根拠がないため削除しました。",
-          "fact spanが原文に無い→除去「エネルギー施設攻撃,attack c…」"
+          "consensusの「評価は割れる。」は元テキストから根拠がなく削除。元テキストは事実の羅列であり、評価が割れるような論点は提示されていない。",
+          "consensusの「高速道路での逆走行為は逮捕につながる。」は、元テキストの事実（逮捕された）を一般化した断定であり、抽出エンジンの役割を超えた解釈と判断。削除し、事実の羅列に留めるべき。",
+          "consensusの「ソフトバンクの元選手が不同意わいせつ容疑で逮捕された。」も同様に、元テキストの事実を一般化した断定であり、削除。事実の羅列に留めるべき。"
         ]
       }
     }
