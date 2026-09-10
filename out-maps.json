@@ -1,39 +1,70 @@
 {
-  "builtAt": "2026-09-09T20:28:16.607Z",
+  "builtAt": "2026-09-10T14:04:25.561Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-      "slug": "Oilhits100abarrelforfirs",
-      "independentSources": 2,
+      "headline": "Trump says every adult American will get $5,000 if Republicans win midterms",
+      "slug": "TrumpsayseveryadultAmeri",
+      "independentSources": 3,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "BBC World"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260909de49402"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091000485&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091000494&g=int&m=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvgyvpxe3yjo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "ドイツにおける極右政党AfDの選挙結果を受けて、メルツ氏とAfD党首ヴァイデル氏の間でどのような論争があったか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "中間選挙で共和党が勝利した場合、アメリカの成人一人あたり5000ドルが支給されるか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "ドイツで極右政党AfDが選挙で勝利した。",
-          "span": "far-right election win",
+          "t": "トランプ大統領は共和党大会で演説した。",
+          "span": "共和党大会で演説",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領は、中間選挙で勝利した場合に、アメリカの成人一人あたり5000ドルを支給すると述べた。",
+          "span": "米国の成人に一人５０００ドルを支給する",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領は、共和党が中間選挙で勝利した場合、アメリカの成人全員に5000ドルを支給すると述べた。",
+          "span": "every adult American will get $5,000 if Republicans win midterms",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領は、その計画がどのように機能するか、または資金がどこから来るかについての詳細を述べなかった。",
+          "span": "gave no details on how the plan would work or where the money would com",
           "src": [
             {
               "ty": "press",
@@ -43,90 +74,21 @@
         }
       ],
       "positions": [],
-      "consensus": "ドイツで極右政党AfDが選挙で勝利したという事実について、メルツ氏がAfDを攻撃し、ヴァイデル氏の移民政策を「民族浄化」と非難したという報道がある。評価は割れる。",
-      "note": null,
+      "consensus": "トランプ大統領は、中間選挙で共和党が勝利した場合、アメリカの成人一人あたり5000ドルを支給すると述べたが、その計画の詳細や資金源については言及しなかった。また、民主党に委ねれば悲劇になると主張した。",
+      "note": "プライバシー配慮のため、一般人の実名は伏せられています。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "consensus: 元テキストの「評価は割れる」という記述は、抽出エンジンのJSONには含まれていないため削除しました。",
+          "facts: facts[1]のt（テキスト）を、spanと一致するように「トランプ大統領は、中間選挙で勝利した場合に、アメリカの成人一人あたり5000ドルを支給すると述べた。」に修正しました。",
+          "facts: facts[2]のt（テキスト）を、spanと一致するように「トランプ大統領は、共和党が中間選挙で勝利した場合、アメリカの成人全員に5000ドルを支給すると述べた。」に修正しました。",
+          "positions: positions[1]のclaimを、spanと一致するように「中間選挙で勝利すれば、米国の成人に一人５０００ドルを支給する」に修正しました。"
+        ]
       }
     },
     {
-      "headline": "関東甲信や伊豆諸島 明け方にかけて激しい雨のおそれ",
-      "slug": "関東甲信や伊豆諸島明け方にかけて激しい雨のおそれ",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260909de49198"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260909200009_0_VPZJ50_010000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260909200009_0_VPZJ51_010000.xml"
-        }
-      ],
-      "issue": "東日本では10日、土砂災害への警戒が必要か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "活発な秋雨前線や低気圧の影響で、東日本を中心に局地的に雨雲が発達している。",
-          "span": "活発な秋雨前線や低気圧の影響で、東日本を中心に局地的に雨雲が発達していて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "山梨県には「レベル4土砂災害危険警報」が発表されている地域がある。",
-          "span": "山梨県には「レベル4土砂災害危険警報」が発表されている地域があり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "東日本では10日は土砂災害に厳重に警戒する必要がある。",
-          "span": "東日本では１０日は土砂災害に厳重に警戒し",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "東日本では11日にかけて土砂災害への注意・警戒が必要である。",
-          "span": "１１日にかけて注意・警戒してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "東日本では10日は土砂災害に厳重に警戒し、11日にかけて注意・警戒する必要がある。",
-      "note": "複数の気象情報源が同様の注意喚起を行っているため、positionsは空とし、事実合意型としています。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "中道 立民・公明出身者で分裂へ 統一会派での連携維持が課題",
-      "slug": "中道立民公明出身者で分裂へ統一会派での連携維持が",
+      "headline": "巨人のマルティネスが通算２５０セーブ　プロ野球６人目、外国人初",
+      "slug": "巨人のマルティネスが通算セブプロ野球人目外国人初",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -135,133 +97,328 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260909de49377"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260910de49426"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090900156&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026091001132&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091001129&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091001137&g=spo&m=rss"
         }
       ],
-      "issue": "中道改革連合は分裂し、立憲民主党出身者と公明党出身者に分かれるか？",
+      "issue": "張本勲さんの死去は事実か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "プロ野球で最多の3085本のヒットを打ち、「安打製造機」と呼ばれた張本勲さんが9日に亡くなった。",
+          "span": "プロ野球最多の3085本のヒットを打ち、「安打製造機」と呼ばれた張本勲さんが9日、亡くなりました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "張本勲さんは86歳だった。",
+          "span": "86歳でした。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "張本勲さんの死去は、プロ野球で功績を残した選手をたたえる「名球会」が発表した。",
+          "span": "これはプロ野球で功績を残した選手をたたえるべく発足した「名球会」が発表しました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ソフトバンクは5年連続でクライマックスシリーズに進出した。",
+          "span": "５年連続ＣＳ進出",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "プロ野球、ソフトバンク対日本ハム戦で、ソフトバンクの松本晴投手が10勝目を挙げた。",
+          "span": "松本晴が１０勝目",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "プロ野球、ソフトバンク対日本ハム戦の試合結果はソフトバンク3対2日本ハムだった。",
+          "span": "ソフトバンク３―２日本ハム",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "巨人のマルティネス投手がプロ野球で通算250セーブを達成した。",
+          "span": "巨人のマルティネスが通算２５０セーブ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "巨人のマルティネス投手は、プロ野球で通算250セーブを達成した6人目の選手である。",
+          "span": "プロ野球６人目",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "巨人のマルティネス投手は、プロ野球で通算250セーブを達成した初の外国人選手である。",
+          "span": "外国人初",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "張本勲さんが9日に86歳で亡くなったことは、名球会が発表した事実として合意されている。その他のプロ野球に関する情報は、各出典元からの事実として提示されている。",
+      "note": "張本勲さんの死去に関する情報と、他のプロ野球ニュースが混在しているため、事実を個別に抽出した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Multicultural Malmo: Swedish city loathed by far right braces for election",
+      "slug": "MulticulturalMalmoSwedis",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss"
+        }
+      ],
+      "issue": "ドナルド・トランプ米大統領の選挙公約の合法性は問われるか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "中道改革連合は、結成から8か月で分裂することになった。",
-          "span": "結成から8か月で分裂することになりました",
+          "t": "ドナルド・トランプ米大統領は、共和党が11月の中間選挙で勝利した場合、全てのアメリカ人に5,000ドルを支給すると発言した。",
+          "span": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "中道改革連合は、立憲民主党出身者と公明党出身者に分かれる方針となった。",
-          "span": "立憲民主党出身者と公明党出身者に分かれる方針を決め",
+          "t": "トランプ大統領は、イランとの戦争は11月の中間選挙後まで終わらないとも発言した。",
+          "span": "Iran war won't end until after crucial November elections, says Trump",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "立憲民主党出身者は、新党を結成する方針である。",
-          "span": "立民系は新党",
+          "t": "トランプ大統領は、原油価格も11月の中間選挙後まで下がらないと発言した。",
+          "span": "The president also said oil prices won't come down until after the November races",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "公明党出身者は、復党する方針である。",
-          "span": "公明系復党へ",
+          "t": "スウェーデンのマルメ市は、極右勢力からしばしば多様性を理由に標的にされている。",
+          "span": "a city the far right often singles out for its diversity",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "双方は、国会での勢力確保のため衆議院で統一会派を組む方針である。",
-          "span": "国会での勢力確保に向け衆議院で統一会派を組む方針で",
+          "t": "マルメ市は、スウェーデンの選挙を控えている。",
+          "span": "ahead of Sweden&#039;s v",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "中道改革連合は、立憲民主党出身者と公明党出身者に分かれる方針を決め、結成から8か月で分裂することになった。双方は衆議院で統一会派を組む方針である。",
-      "note": "両記事とも同じ事実を報じているため、positions は空となる。",
+      "consensus": "ドナルド・トランプ米大統領は、共和党が中間選挙で勝利した場合、アメリカ人に5,000ドルを支給すると発言した。また、イランとの戦争は選挙後に終わり、原油価格も選挙後に下がると述べた。イランに関する発言は証拠なしに行われたと報じられている。スウェーデンのマルメ市は、多様性を理由に極右から標的にされており、選挙を控えている。",
+      "note": "トランプ大統領の5,000ドルの公約の合法性に関する問いは、提供されたテキストからは直接的な回答が得られないため、issueとして提起された。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "consensusの内容を元テキストの事実関係に沿って修正しました。",
+          "noteの内容を元テキストの事実関係に沿って修正しました。"
+        ]
       }
     },
     {
-      "headline": "米ラスカー賞に日本人４人　基礎と臨床でダブル受賞―睡眠研究の筑波大・柳沢氏ら",
-      "slug": "米ラスカ賞に日本人人基礎と臨床でダブル受賞睡眠研",
+      "headline": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "slug": "Fivedeadand86missingashe",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6594795?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026090901146&g=soc&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/10/at-least-25-dead-after-cargo-ship-catches-fire-in-china?traffic_source=rss"
         }
       ],
-      "issue": "柳沢氏らがラスカー賞を受賞したか？",
+      "issue": "複数の船舶火災が発生したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "睡眠研究者の柳沢氏らがラスカー賞を受賞した。",
-          "span": "睡眠研究の柳沢氏らにラスカー賞",
+          "t": "フィリピンのフェリーで火災が発生した。",
+          "span": "fire breaks out on Philippines ferry",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "米ラスカー賞に日本人4人が選ばれ、基礎医学部門と臨床医学部門でダブル受賞した。",
-          "span": "米ラスカー賞に日本人４人　基礎と臨床でダブル受賞",
+          "t": "この火災により5人が死亡し、86人が行方不明である。",
+          "span": "Five dead and 86 missing",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "睡眠研究で知られる筑波大学の柳沢氏らが受賞者に含まれる。",
-          "span": "睡眠研究の筑波大・柳沢氏ら",
+          "t": "火災は、船がパラワン州コロンの観光地近くの目的地に接近中に発生した。",
+          "span": "vessel nearing its destination at the tourist hotspot of Coron in Palawan",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "中国東部の貨物船で火災が発生した。",
+          "span": "fire on cargo ship in eastern China",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "この中国の貨物船火災で25人が死亡した。",
+          "span": "Twenty-five dead",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この中国の貨物船火災で少なくとも25人が死亡した。",
+          "span": "At least 25 dead",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "中国の貨物船には42人が乗船しており、そのうち17人が避難した。",
+          "span": "Of the 42 people on board, 17 were were evacuated",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "中国の貨物船火災は、中国東部の青島港で修理中の船で発生した。",
+          "span": "ship being repaired in the port of Qingdao, eastern China",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "柳沢氏らがラスカー賞を受賞したことは、複数の報道機関によって報じられている。受賞者は日本人4名で、基礎と臨床のダブル受賞である。",
-      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "複数の船舶火災が発生したという事実について、記事中に評価や意見の対立は見られない。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "事実欄 (facts[4], facts[5]) の `t` に「と報じられている」というメタ記述が混入していたため削除しました。事実欄は検証可能な事実を直接記述すべきであり、評価や伝聞の形式は避けるべきです。",
+          "出典が入力に無い→除去「CCTV」"
+        ]
       }
     }
   ]
