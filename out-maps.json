@@ -1,71 +1,36 @@
 {
-  "builtAt": "2026-09-12T12:54:16.756Z",
+  "builtAt": "2026-09-12T22:33:17.327Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "十勝岳 噴火警戒レベル引き上げ 気象庁会見【ノーカット動画】",
-      "slug": "十勝岳噴火警戒レベル引き上げ気象庁会見ノカット動",
-      "independentSources": 2,
+      "headline": "陸上大会関係者２８人、食中毒の疑い　弁当原因か―全日本実業団・京都",
+      "slug": "陸上大会関係者人食中毒の疑い弁当原因か全日本実業",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 地震・火山"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260912de49856"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260912de49921"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260912de49869"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595102?source=rss"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912110037_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912110041_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912110045_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912110048_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912110052_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912110056_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912110030_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912110033_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912080046_0_VFVO53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260912080049_0_VFVO53_010000.xml"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091200433&g=soc&m=rss"
         }
       ],
-      "issue": "十勝岳の噴火警戒レベルは3か？",
-      "stasis": "事実",
+      "issue": "陸上競技大会で発生した体調不良の原因は弁当か？",
+      "stasis": "因果の解釈（割れる）",
       "facts": [
         {
-          "t": "北海道の大雪山系の十勝岳で、噴火警戒レベルが「2」から「3」に引き上げられた。",
-          "span": "噴火警戒レベルを「2」から入山規制を示す「3」に引き上げました",
+          "t": "12日、京都市の陸上競技場で、運営に関わるスタッフ28人が下痢やおう吐などの症状を訴え、病院に搬送された。",
+          "span": "12日、陸上の全日本実業団選手権が開かれていた京都市の陸上競技場で、運営に関わる複数のスタッフが下痢やおう吐などの症状を訴え、28人が病院に搬送されました",
           "src": [
             {
               "ty": "press",
@@ -74,8 +39,8 @@
           ]
         },
         {
-          "t": "十勝岳では先月以降、振幅の大きな火山性地震が複数回発生している。",
-          "span": "先月以降、振幅の大きな火山性地震が複数回発生していて",
+          "t": "搬送されたスタッフのほとんどが、同じ種類の弁当を食べていたことが主催者から報告されている。",
+          "span": "ほとんどが同じ種類の弁当",
           "src": [
             {
               "ty": "press",
@@ -84,200 +49,95 @@
           ]
         },
         {
-          "t": "噴火警戒レベル3は入山規制を示す。",
-          "span": "入山規制を示す「3」",
+          "t": "陸上大会の関係者28人が食中毒の疑いで搬送された。",
+          "span": "陸上大会関係者２８人、食中毒の疑い",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "十勝岳で噴火が発生した場合、12日21時から24時までは火口から東方向、13日09時から12時までは火口から北東方向に降灰が予想される。",
-          "span": "十勝岳で噴火が発生した場合には、１２日２１時から２４時までは火口から東方向、１３日０９時から１２時までは火口から北東方向に降灰が予想されます",
+          "t": "弁当が原因である可能性が報じられている。",
+          "span": "弁当原因か",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "桜島は噴火警戒レベル3（入山規制）である。",
-          "span": "現在、桜島は噴火警戒レベル３（入山規制）です",
-          "src": [
+              "l": "Yahoo!ニュース 主要"
+            },
             {
               "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "桜島で噴火が発生した場合、12日21時から24時までは火口から北西方向、13日09時から12時までは火口から北方向に降灰が予想される。",
-          "span": "桜島で噴火が発生した場合には、１２日２１時から２４時までは火口から北西方向、１３日０９時から１２時までは火口から北方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "薩摩硫黄島は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "薩摩硫黄島で噴火が発生した場合、12日21時から24時までは火口から北西方向、13日09時から12時までは火口から北西方向に降灰が予想される。",
-          "span": "薩摩硫黄島で噴火が発生した場合には、１２日２１時から２４時までは火口から北西方向、１３日０９時から１２時までは火口から北西方向に降灰が予想され",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "口永良部島は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "現在、口永良部島は噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "口永良部島で噴火が発生した場合、12日21時から24時までは火口から西方向、13日09時から12時までは火口から西方向に降灰が予想される。",
-          "span": "口永良部島で噴火が発生した場合には、１２日２１時から２４時までは火口から西方向、１３日０９時から１２時までは火口から西方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "諏訪之瀬島は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "諏訪之瀬島で噴火が発生した場合、12日21時から24時までは火口から北西方向、13日09時から12時までは火口から西方向に降灰が予想される。",
-          "span": "諏訪之瀬島で噴火が発生した場合には、１２日２１時から２４時までは火口から北西方向、１３日０９時から１２時までは火口から西方向に降灰が予想されま",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "霧島山（新燃岳）は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "霧島山（新燃岳）で噴火が発生した場合、12日21時から24時までは火口から北西方向、13日09時から12時までは火口から北方向に降灰が予想される。",
-          "span": "霧島山（新燃岳）で噴火が発生した場合には、１２日２１時から２４時までは火口から北西方向、１３日０９時から１２時までは火口から北方向",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "雌阿寒岳は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "雌阿寒岳で噴火が発生した場合、12日21時から24時までは火口から南東方向、13日09時から12時までは火口から北方向に降灰が予想される。",
-          "span": "雌阿寒岳で噴火が発生した場合には、１２日２１時から２４時までは火口から南東方向、１３日０９時から１２時までは火口から北方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "阿蘇山は噴火警戒レベル2（火口周辺規制）である。",
-          "span": "現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "阿蘇山で噴火が発生した場合、12日21時から24時までは火口から北方向、13日09時から12時までは火口から北方向に降灰が予想される。",
-          "span": "阿蘇山で噴火が発生した場合には、１２日２１時から２４時までは火口から北方向、１３日０９時から１２時までは火口から北方向に降灰が予想されます",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "口永良部島で噴火が発生した場合、12日21時から24時までは火口から北西方向、13日09時から12時までは火口から北西方向に降灰が予想される。",
-          "span": "口永良部島で噴火が発生した場合には、１２日２１時から２４時までは火口から北西方向、１３日０９時から１２時までは火口から北西方向に降灰が予想され",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "諏訪之瀬島で噴火が発生した場合、12日21時から24時までは火口から北西方向、13日09時から12時までは火口から西方向に降灰が予想される。",
-          "span": "諏訪之瀬島で噴火が発生した場合には、１２日２１時から２４時までは火口から北西方向、１３日０９時から１２時までは火口から西方向に降灰が予想されま",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "十勝岳の噴火警戒レベルは3であり、入山規制が示されている。他の火山についても噴火警戒レベルと降灰予報が示されている。",
-      "note": "複数の火山に関する降灰予報が提供されているが、十勝岳の噴火警戒レベル引き上げが主要なニュースとなっている。",
+      "consensus": "12日、京都市の陸上競技場で、運営に関わるスタッフ28人が下痢やおう吐などの症状を訴え、病院に搬送された。搬送されたスタッフのほとんどが同じ種類の弁当を食べていたことが主催者から報告されている。弁当が原因である可能性が報じられている。",
+      "note": "プライバシーに配慮し、個別のスタッフの特定につながる情報は含んでいない。",
       "audit": {
-        "changed": true,
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
+      "slug": "TrumpscommentsonaunitedI",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260912de49908"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260913de49934"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260913de49937"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "サウジアラビアのパイプライン攻撃にイランは関与したか？",
+      "stasis": "因果の解釈",
+      "facts": [
+        {
+          "t": "サウジアラビアの原油輸出パイプラインが何者かに攻撃され、操業を停止した。",
+          "span": "パイプラインが何者かに攻撃され、操業を停止した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "サウジアラビアのパイプラインが攻撃され操業停止したことは事実だが、その原因や関与主体については見解が割れる。",
+      "note": null,
+      "audit": {
+        "changed": false,
         "issues": [
-          "consensus: \"他の火山についても噴火警戒レベルと降灰予報が示されている。評価は割れる。\" を \"他の火山についても噴火警戒レベルと降灰予報が示されている。\" に修正しました。テキストから評価の割れるという情報は読み取れないため。",
-          "note: \"プライバシーに関わる情報は含まれていない。\" を削除しました。テキストからプライバシーに関する情報が含まれていないとは判断できないため。"
+          "検品パス失敗（The operation was aborted due to timeout）→抽出のみ採用"
         ]
       }
     },
     {
-      "headline": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-      "slug": "Tragicdeathofwomanwhotes",
+      "headline": "USA edge Spain to book Women’s Basketball World Cup final against France",
+      "slug": "USAedgeSpaintobookWomens",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -286,35 +146,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c1kx0jje18wo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/trump-iran-probably-behind-saudi-oil-pipeline-attack?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/far-right-protesters-rally-against-islam-on-9-11?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss"
         }
       ],
-      "issue": "サウジアラビアの主要石油パイプラインへの攻撃は誰が実行したか？",
+      "issue": "フランスの記録的な熱波がシャンパンのアルコール度数に与える影響",
       "stasis": "事実",
       "facts": [
         {
-          "t": "サウジアラビアは、イラクから発射されたドローン攻撃を受けて、主要な石油パイプラインを閉鎖した。",
-          "span": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+          "t": "フランスで記録的な熱波が発生した。",
+          "span": "Record heatwaves in France",
           "src": [
             {
               "ty": "press",
@@ -323,8 +171,8 @@
           ]
         },
         {
-          "t": "イラクは軍司令官を解任し、イランと国境を接する地域から発せられた攻撃に関する捜査を開始した。",
-          "span": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+          "t": "異例の収穫により、より甘いブドウが生産された。",
+          "span": "unusual harvest that produced sweeter grapes",
           "src": [
             {
               "ty": "press",
@@ -333,58 +181,8 @@
           ]
         },
         {
-          "t": "アメリカは9/11同時多発テロ事件から25周年を迎え、ニューヨーク、ペンタゴン、ペンシルベニアで追悼式典が行われた。",
-          "span": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks。In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "9/11同時多発テロ事件の25周年にあたり、ニューヨーク市庁舎前でイスラム教徒に対する極右の抗議集会が開催された。",
-          "span": "A far-right Islamophobic rally was held outside New York City Hall on the 25th anniversary of the September 11 attacks.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "グラミー賞を受賞した米ラッパー、リル・ダークが殺人依頼裁判で無罪となった。",
-          "span": "Grammy-winning US rapper Lil Durk acquitted in murder-for-hire trial",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "リル・ダークは2024年に逮捕され、ライバルラッパーのいとこを殺害した銃撃事件への関与を告発された。",
-          "span": "The Chicago rapper was arrested in 2024 and accused of involvement in a shooting that killed the cousin of rival rapper",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "母親殺害事件で父親に対して証言した女性が悲劇的な死を遂げた。",
-          "span": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "デニース・コスコは、イタリアで母親殺害事件に関して、強力な『ンドランゲタ』一族と実の父親に対して証言した。",
-          "span": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+          "t": "ワイン生産者はアルコール度数15%までのシャンパンを生産できる。",
+          "span": "produce bubbly up to 15% ABV",
           "src": [
             {
               "ty": "press",
@@ -394,19 +192,18 @@
         }
       ],
       "positions": [],
-      "consensus": "サウジアラビアの石油パイプラインへの攻撃、9/11同時多発テロ事件25周年、リル・ダークの無罪判決、母親殺害事件の証言者死亡に関する事実が報じられている。石油パイプライン攻撃については、イラクから発射されたドローン攻撃と報じられる一方、トランプ氏はイランの関与を示唆している。",
-      "note": "プライバシー配慮のため、リル・ダークの事件における被害者の名前は省略。",
+      "consensus": "全員一致の最小事実",
+      "note": "",
       "audit": {
         "changed": true,
         "issues": [
-          "consensus: 元のconsensusに「評価は割れる。」という評価語が含まれていたため削除し、事実関係の対立のみを記述するように修正しました。",
-          "positions: 元のpositionsのclaimが「示唆した」という表現になっており、元テキストの「Trump: Iran probably ‘behind’ Saudi oil pipeline attack」を直接引用した形になっていたため、より自然な日本語表現に修正しました。また、元のclaimは「サウジアラビアの石油パイプライン攻撃の背後にイランがいる可能性が高いと示唆した。」となっており、元テキストの引用に近い形であったため、より自然な日本語表現に修正しました。"
+          "争点の立て方: issueがテキストの事実提示と合致するよう、疑問形から主題を示す形に修正しました。テキストは熱波とアルコール度数の関係を事実として述べており、議論の余地を示唆する疑問形は不適切でした。"
         ]
       }
     },
     {
-      "headline": "京都 全日本実業団選手権の会場で集団食中毒か 20人以上搬送",
-      "slug": "京都全日本実業団選手権の会場で集団食中毒か20人",
+      "headline": "陸上女子やり投げ 北口榛花 68メートル92の日本新記録",
+      "slug": "陸上女子やり投げ北口榛花68メトル92の日本新記",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -415,116 +212,71 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260912de49900"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260913de49941"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595094?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6595105?source=rss"
         }
       ],
-      "issue": "全日本実業団選手権の会場で発生した集団食中毒の原因は何か？",
-      "stasis": "因果の解釈（割れる）",
+      "issue": "北口榛花選手は陸上女子やり投げで日本新記録を樹立し優勝したか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "陸上の全日本実業団選手権が開かれていた京都市の陸上競技場で、複数の人が下痢やおう吐などの体調不良を訴えた。",
-          "span": "複数の人が下痢やおう吐などの体調不良を訴え",
+          "t": "陸上女子やり投げの北口榛花選手が68メートル92の日本新記録を樹立した。",
+          "span": "68メートル92の日本新記録をマーク",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "体調不良を訴えた20人以上が病院に搬送された。",
-          "span": "20人以上が病院に搬送されました",
-          "src": [
+            },
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "陸上の大会で23人が搬送された。",
-          "span": "陸上の大会で23人搬送",
-          "src": [
-            {
-              "ty": "wire",
               "l": "Yahoo!ニュース 主要"
             }
           ]
-        }
-      ],
-      "positions": [],
-      "consensus": "全日本実業団選手権の会場で複数の人が体調不良を訴え、20人以上が病院に搬送された。弁当が原因である可能性が報じられているが、断定はされていない。",
-      "note": "プライバシーに配慮し、被害者の実名は伏せています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: \"弁当が食中毒の原因である可能性がある\" を \"弁当が食中毒の原因である可能性があると報じられている\" に修正。メタ記述の徹底（claimが地の文の断定になっていたため）。"
-        ]
-      }
-    },
-    {
-      "headline": "解体中道、交付金受領に批判　１１億円、衆院選経費支払い",
-      "slug": "解体中道交付金受領に批判億円衆院選経費支払い",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595076?source=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091200101&g=pol&m=rss"
-        }
-      ],
-      "issue": "解体中の政党による政党交付金の受領とそれに対する批判",
-      "stasis": "事実と評価の混在",
-      "facts": [
-        {
-          "t": "解体中の政党が、政党交付金として約11億円を受領した。",
-          "span": "１１億円",
+          "t": "北口榛花選手が国際大会で優勝した。",
+          "span": "優勝",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "政党交付金は衆議院選挙の経費支払いに充てられた。",
-          "span": "衆院選経費支払い",
+          "t": "世界のトップ選手を集めた陸上の国際大会が開催された。",
+          "span": "世界のトップ選手を集めた陸上の国際大会",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "当該国際大会はハンガリーのブダペストで開催された。",
+          "span": "ハンガリーのブダペストで行われ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "解体中の政党が約11億円の政党交付金を受領し、衆議院選挙の経費支払いに充てたという事実については合意がある。",
-      "note": "元テキストには、交付金受領に対する具体的な批判内容や、批判の主体が「中道」以外の誰であるかは明記されていない。時事ドットコムの記事タイトルが批判的な論調を示しているため、その報道機関を批判の主体として位置づけた。Yahoo!ニュースの記事は、その批判が存在する事実を報じている。",
+      "consensus": "北口榛花選手が陸上女子やり投げで68メートル92の日本新記録を樹立し、国際大会で優勝したことは合意されている。",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "issue: 「解体中の政党が政党交付金を受領したことに対する批判は妥当か？」は、妥当性を問う形になっており、元テキストの事実関係の抽出としては中立性を欠くため、「解体中の政党による政党交付金の受領とそれに対する批判」に修正。",
-          "stasis: 「政策」は元テキストから読み取れないため、「事実と評価の混在」に修正。",
-          "facts[0].span: 「１１億円、衆院選経費支払い」は事実の核ではないため、「１１億円」に修正。",
-          "facts[1].span: 「衆院選経費支払い」は事実の核として適切。",
-          "positions[0].span: 「交付金受領巡り 解体の中道に批判」は事実の核として適切。",
-          "positions[1].actor: 「（報道機関による）」は推測であり、元テキストでは「時事ドットコム」が批判的な見出しを付けているため、これを主体として修正。",
-          "positions[1].claim: 「解体中の政党が政党交付金を受領したことは批判されるべきである。」は評価語「批判されるべき」を含み、また「時事ドットコム」が直接述べているわけではないため、「解体中の政党が政党交付金を受領したことを批判している。」に修正。",
-          "positions[1].span: 「解体中道、交付金受領に批判」は事実の核として適切。",
-          "consensus: 「しかし、この交付金受領に対する評価は割れている。」は元テキストから直接読み取れないため削除し、事実合意部分のみに修正。",
-          "note: 元テキストの事実関係と抽出内容の乖離について、より具体的に記述を修正。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
