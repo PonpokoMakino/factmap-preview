@@ -1,126 +1,45 @@
 {
-  "builtAt": "2026-09-13T00:16:49.181Z",
+  "builtAt": "2026-09-13T10:05:59.263Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
-      "slug": "TrumpscommentsonaunitedI",
-      "independentSources": 2,
+      "headline": "One dead, more than 30 missing after Vanuatu ferry sinks, PM’s office says",
+      "slug": "Onedeadmorethan30missing",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
-        "BBC World"
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260912de49908"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260913de49934"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260913de49937"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "サウジアラビアのパイプライン攻撃にイランは関与したか？",
-      "stasis": "因果の解釈",
-      "facts": [
-        {
-          "t": "サウジアラビアの原油輸出パイプラインが何者かに攻撃され、操業を停止した。",
-          "span": "パイプラインが何者かに攻撃され、操業を停止した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "サウジアラビアのパイプラインが攻撃され操業停止したことは事実だが、その原因や関与主体については見解が割れる。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": [
-          "検品パス失敗（The operation was aborted due to timeout）→抽出のみ採用"
-        ]
-      }
-    },
-    {
-      "headline": "女子やり投げ北口榛花が６８メートル９２の日本新　新設アルティメット選手権で優勝―陸上",
-      "slug": "女子やり投げ北口榛花がメトルの日本新新設アルティ",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260913de49941"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595105?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260913de49975"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091300142&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026091300285&g=soc&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-102-rescued-after-indonesian-ferry-goes-missing-in-java-sea?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/13/one-dead-more-than-30-missing-after-vanuatu-ferry-sinks-pms-office-says?traffic_source=rss"
         }
       ],
-      "issue": "陸上女子やり投げの北口榛花選手は日本新記録を樹立し、国際大会で優勝したか？",
+      "issue": "インドネシアで発生したフェリー事故の状況と、それに対する各国の対応はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "陸上女子やり投げの北口榛花選手が、68メートル92の日本新記録を樹立した。",
-          "span": "68メートル92の日本新記録",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "北口榛花選手は、大会で優勝した。",
-          "span": "優勝しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "この大会はハンガリーで開催された。",
-          "span": "ハンガリーで行われ",
+          "t": "インドネシアのジャワ海で、約240人を乗せたフェリーと13日に連絡が途絶えた。",
+          "span": "およそ240人を乗せてインドネシアのジャワ海を航行していたフェリーと13日、連絡が取れなくなり",
           "src": [
             {
               "ty": "press",
@@ -129,8 +48,8 @@
           ]
         },
         {
-          "t": "この大会は世界のトップ選手を集めた陸上の国際大会である。",
-          "span": "世界のトップ選手を集めた陸上の国際大会",
+          "t": "捜索の結果、フェリー事故で1人の死亡が確認され、140人の安否が不明となっている。",
+          "span": "これまでに1人の死亡が確認されたほか、140人の安否が分からなくなっています",
           "src": [
             {
               "ty": "press",
@@ -139,27 +58,131 @@
           ]
         },
         {
-          "t": "この大会は「新設アルティメット選手権」である。",
-          "span": "新設アルティメット選手権",
+          "t": "Virgo Transport 8号船がジャワ海で消息を絶ち、107人が救助された。",
+          "span": "Six dead, 107 rescued from Indonesian ferry that went missing in Java Sea",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "Virgo Transport 8号船には243人が乗船しており、現在も130人が行方不明となっている。",
+          "span": "Virgo Transport 8 ship, which had enco",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "Virgo Transport 8号船は、運航事業者との連絡が取れなくなっていた。",
+          "span": "Virgo Transport 8, with 243 people on board, lost contact with its operator",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "バヌアツでフェリーが沈没し、1人が死亡、30人以上が行方不明となっている。",
+          "span": "One dead, more than 30 missing after Vanuatu ferry sinks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "自衛隊がインドネシアでの森林火災に対応するため、消火活動の準備を進めている。",
+          "span": "自衛隊が消火活動準備　国外初、森林火災に対応",
+          "src": [
+            {
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "北口榛花選手が陸上女子やり投げで日本新記録を樹立し、国際大会で優勝したことは事実として合意されている。",
-      "note": "本記事は事実報道のみであり、評価や意見の対立は含まれていません。",
+      "consensus": "インドネシアでフェリー事故が発生し、多数の死傷者・行方不明者が出ている。各国が捜索活動を行っている。自衛隊はインドネシアでの森林火災対応準備を進めている。バヌアツでもフェリー沈没事故が発生している。",
+      "note": "Al Jazeeraの記事には、インドネシアのフェリー事故とバヌアツのフェリー事故の両方が含まれているため、それぞれの事実と立場を分離して記載した。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "USA edge Spain to book Women’s Basketball World Cup final against France",
-      "slug": "USAedgeSpaintobookWomens",
+      "headline": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "slug": "AnthropicbossDarioAmodei",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260913de49934"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091300171&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "AI開発のペースを減速させる必要はあるか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "AIが急速に進歩し、人間が制御する能力を上回る可能性があるという懸念がある。",
+          "span": "AIが急速に進歩し、人間が制御する能力を上回る可能性がある",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "AIモデルが世界に深刻な損害を与える可能性があるという懸念が高まっている。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "AI開発のペースを減速させる必要性について、アンソロピックCEOが考えを示し、アルトマン氏とマスク氏も賛同した。AIが急速に進歩し、人間の制御能力を超える可能性や、世界に深刻な損害を与える可能性への懸念が背景にある。評価は割れる。",
+      "note": "プライバシー配慮のため、アルトマン氏、マスク氏の具体的な発言内容は含めず、賛同した事実のみを記載。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions の claim を「〜と述べている／〜と報じられている」のメタ記述に修正しました。",
+          "positions の actor を「アンソロピック CEO」に統一しました。元テキストでは「米アンソロピックCEO」と「Anthropic boss」とあったが、同一人物と判断し、より一般的な「アンソロピック CEO」としました。",
+          "positions の claim を元のテキストの表現に近づけ、より中立的な表現に修正しました。",
+          "fact spanが原文に無い→除去「AIモデル may become a…」"
+        ]
+      }
+    },
+    {
+      "headline": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "slug": "OnlyRolandGarrostowellef",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -168,23 +191,31 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c4gr33g3evlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/9/12/usa-edge-spain-to-book-womens-basketball-world-cup-final-against-france?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/mosque-and-homes-damaged-in-saudi-arabia-after-alleged-houthi-strike?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/wildfire-rages-on-croatias-dalmatian-coast-island-of-brac?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/yemens-houthis-seize-strategic-mayun-island-in-red-sea?traffic_source=rss"
         }
       ],
-      "issue": "フランスの記録的な熱波がシャンパンのアルコール度数に与える影響",
-      "stasis": "事実",
+      "issue": "サウジアラビアの主要石油パイプラインはドローン攻撃後に閉鎖されたか？",
+      "stasis": "facts",
       "facts": [
         {
-          "t": "フランスで記録的な熱波が発生した。",
-          "span": "Record heatwaves in France",
+          "t": "サウジアラビアは、イラクから発射されたドローン攻撃を受けて、主要な石油パイプラインを閉鎖した。",
+          "span": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
           "src": [
             {
               "ty": "press",
@@ -193,8 +224,8 @@
           ]
         },
         {
-          "t": "異例の収穫により、より甘いブドウが生産された。",
-          "span": "unusual harvest that produced sweeter grapes",
+          "t": "イラクは軍司令官を解任し、イラン国境付近の地域から発せられた攻撃に関する調査を開始した。",
+          "span": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
           "src": [
             {
               "ty": "press",
@@ -203,112 +234,141 @@
           ]
         },
         {
-          "t": "ワイン生産者はアルコール度数15%までのシャンパンを生産できる。",
-          "span": "produce bubbly up to 15% ABV",
+          "t": "ウクライナのテニス選手、ダヤナ・ヤストレムスカは、オデーサの自宅がロシアのミサイルによる直接攻撃を受けたと述べた。",
+          "span": "Dayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ヤストレムスカの自宅にあったのはローラン・ギャロスのタオルだけだったと述べた。",
+          "span": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "サウジアラビアで、モスクと家屋が被害を受けた。",
+          "span": "Mosque and homes damaged in Saudi Arabia after alleged Houthi strike",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "クロアチア当局は、ダルマチア海岸沖のブラチ島で山火事が燃え盛っているため、緊急警報を発令した。",
+          "span": "Croatian authorities have issued an emergency alert as a wildfire rages on Brac Island, off the Dalmatian coast.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イエメンのフーシ派は、バブ・エル・マンデブ海峡の支配を固める中で、戦略的なメイユン島を奪取した。",
+          "span": "Yemen’s Houthis have seized the strategic Mayun Island as they cement control over the Bab al-Mandeb Strait.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "全員一致の最小事実",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: issueがテキストの事実提示と合致するよう、疑問形から主題を示す形に修正しました。テキストは熱波とアルコール度数の関係を事実として述べており、議論の余地を示唆する疑問形は不適切でした。"
-        ]
-      }
-    },
-    {
-      "headline": "是枝、塚本監督に独立賞　最高賞はデンマーク作品―ベネチア映画祭",
-      "slug": "是枝塚本監督に独立賞最高賞はデンマク作品ベネチア",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260912de49909"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091300118&g=soc&m=rss"
-        }
-      ],
-      "issue": "日本の作品はベネチア国際映画祭でどのような賞を受賞したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ベネチア国際映画祭はイタリアで開催される世界三大映画祭の一つである。",
-          "span": "世界3大映画祭の1つ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "日本の2作品はベネチア国際映画祭の最優秀賞（最高賞）を受賞しなかった。",
-          "span": "最優秀賞ならず",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ベネチア国際映画祭の最高賞はデンマーク作品が受賞した。",
-          "span": "最高賞はデンマーク作品",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "日本の2作品は、文化団体などから優れた作品に贈られる「独立賞」をそれぞれ受賞した。",
-          "span": "「独立賞」をそれぞれ受賞しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "独立賞を受賞した日本の作品は、是枝監督と塚本監督の作品である。",
-          "span": "是枝、塚本監督に独立賞",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ベネチア国際映画祭で日本の2作品は最優秀賞を逃したが、文化団体などから贈られる独立賞をそれぞれ受賞した。最高賞はデンマーク作品が受賞した。",
-      "note": "記事は事実の報道に終始しており、評価や意見の対立は存在しないため、positionsは空配列です。",
+      "consensus": "複数の地域で事件が発生した。サウジアラビアの石油パイプライン閉鎖、イラクの調査開始、ウクライナ選手の自宅への攻撃、サウジアラビアでのモスクと家屋の被害、クロアチアでの山火事、イエメンのフーシ派による島嶼の奪取が報じられている。評価は割れる。",
+      "note": "プライバシー配慮のため、個人名は公表されている範囲で記載。",
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "Mystery son and disputed heir: Uganda’s king buried amid succession dispute",
+      "slug": "Mysterysonanddisputedhei",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c0lr7k4k4zyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/13/mystery-son-and-disputed-heir-ugandas-king-buried-amid-succession-dispute?traffic_source=rss"
+        }
+      ],
+      "issue": "ウガンダのトロ王国の新君主として指名されたテレビ司会者は正当な後継者か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ウガンダのオヨ国王が埋葬された。",
+          "span": "King Oyo buried",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "故国王は34歳だった。",
+          "span": "34-year-old monarch",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トロ王国の新君主としてテレビ司会者が指名された。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "国王の死は、トロ王国の次期国王を選ぶ伝統的なプロセスに珍しい異議を提起した。",
+          "span": "opened a rare challenge",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ウガンダのオヨ国王は埋葬されたが、後継者を巡る争いが起きている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[2].span: 述部の最小句に削り、「named as new monarch」に修正した。",
+          "facts[3].t: 評価語「異例の」を「珍しい」に修正し、中立性を高めた。",
+          "facts[3].span: 述部の最小句に削り、「opened a rare challenge」に修正した。",
+          "positions[0].span: 元テキストに主張全体を示す最小核が存在しないため、空文字に修正した。"
+        ]
       }
     }
   ]
