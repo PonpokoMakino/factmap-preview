@@ -1,231 +1,109 @@
 {
-  "builtAt": "2026-09-14T22:33:26.290Z",
+  "builtAt": "2026-09-15T15:33:11.039Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "前線南下で広い範囲で激しい雨のおそれ 土砂災害など警戒",
-      "slug": "前線南下で広い範囲で激しい雨のおそれ土砂災害など",
+      "headline": "Saudi Arabia faces high-stakes choices as war with Houthis escalates",
+      "slug": "SaudiArabiafaceshighstak",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260914de50211"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq5ym3rdmkzjo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914222313_0_VPWW54_330000.xml"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/15/saudi-arabia-faces-high-stakes-choices-as-war-with-houthis-escalates?traffic_source=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914222313_0_VPWW53_330000.xml"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/15/can-the-houthis-hold-on-to-yemens-strategic-western-coast?traffic_source=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914222257_0_VPWW55_330000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914222214_0_VPWW53_080000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914222214_0_VPWW54_080000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914222206_0_VPWW55_080000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914222158_0_VPWW53_210000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914222158_0_VPWW54_210000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914222152_0_VPWW56_210000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260914221432_0_VPWW54_340000.xml"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss"
         }
       ],
-      "issue": "秋雨前線の影響で、各地で大雨や土砂災害などの危険性が高まるか？",
-      "stasis": "気象情報",
+      "issue": "エトナ山の噴火によるシチリア空港への影響は？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "秋雨前線が南下するため、15日は北日本から西日本の広い範囲で激しい雨が降るおそれがある。",
-          "span": "秋雨前線が南下するため、15日は北日本から西日本の広い範囲で激しい雨が降るおそれがあります",
+          "t": "エトナ山の噴火による火山灰のため、シチリア空港の全便が火曜日夜まで運航停止となった。",
+          "span": "All flights are suspended from one of Italy's busiest airports until Tuesday night.",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、土砂災害、低い土地の浸水、川の増水に警戒を呼びかけている。",
-          "span": "気象庁は、土砂災害や低い土地の浸水、川の増水に警戒するよう呼びかけています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "岡山県では、土砂災害、低い土地の浸水、落雷に注意が必要である。",
-          "span": "岡山県では、土砂災害や低い土地の浸水、落雷に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "岡山県では、低い土地の浸水や河川の増水に注意が必要である。",
-          "span": "岡山県では、低い土地の浸水や河川の増水に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "茨城県南部では、低い土地の浸水に注意が必要である。",
-          "span": "南部では、低い土地の浸水に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "茨城県では、落雷に注意が必要である。",
-          "span": "茨城県では、落雷に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "茨城県南部では、低い土地の浸水や河川の増水に注意が必要である。",
-          "span": "南部では、低い土地の浸水や河川の増水に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "岐阜県美濃地方では、土砂災害に注意が必要である。",
-          "span": "美濃地方では、土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "岐阜県では、竜巻などの激しい突風や落雷に注意が必要である。",
-          "span": "岐阜県では、竜巻などの激しい突風や落雷に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "op",
-              "l": "気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "岐阜県美濃地方では、土砂災害に注意が必要である。",
-          "span": "美濃地方では、土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "広島県南部では、低い土地の浸水に警戒が必要である。",
-          "span": "南部では、低い土地の浸水に警戒してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "秋雨前線の南下により、15日は北日本から西日本の広い範囲で激しい雨が降るおそれがあり、気象庁は土砂災害、低い土地の浸水、川の増水、落雷などに警戒を呼びかけている。各地の気象警報・注意報の内容は、地域によって異なる注意喚起がなされている。",
-      "note": "複数の気象庁発表源からの情報が含まれるが、内容はほぼ一貫しており、個別の立場表明（positions）は存在しないため、事実の集約に留める。",
+      "consensus": "エトナ山の噴火により、シチリア空港の全便が火曜日夜まで運航停止となった。",
+      "note": null,
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "ＡＩ開発の減速呼び掛け　１年以内に「インターネット全体を乗っ取る能力」懸念　アンソロピックＣＥＯ",
-      "slug": "開発の減速呼び掛け年以内にインタネット全体を乗っ",
+      "headline": "前線南下 16日にかけ大気不安定 熱帯低気圧の動向にも注意",
+      "slug": "前線南下16日にかけ大気不安定熱帯低気圧の動向に",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260915de50399"
+        },
+        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595300?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091300109&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091300171&g=int&m=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6595403?source=rss"
         }
       ],
-      "issue": "AI開発のペースは減速可能か、またその必要性はあるか？",
-      "stasis": "政策",
+      "issue": "秋雨前線の影響で、16日にかけ大気は不安定になるか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "AIの開発ペースを減速させることが可能かどうかについて議論がある。",
-          "span": "AIの開発ペース「減速」は可能?",
+          "t": "秋雨前線が南下しており、西日本の太平洋側を中心に激しい雨が降っている。",
+          "span": "南下している秋雨前線の影響で、西日本の太平洋側を中心に激しい雨が降っています。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "前線は16日に本州の南岸に停滞する見込みである。",
+          "span": "前線は16日、本州の南岸に停滞するため",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "16日も東日本の太平洋側を中心に雨雲が発達するおそれがある。",
+          "span": "東日本の太平洋側を中心に、16日も雨雲が発達するおそれがあります。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "16日にかけて雨が強まることが予想されている。",
+          "span": "16日にかけ雨強まる",
           "src": [
             {
               "ty": "press",
@@ -234,151 +112,182 @@
           ]
         },
         {
-          "t": "アンソロピックの研究者が、AI開発に関する懸念から抗議の退社をした。",
-          "span": "ＡＩ開発に懸念相次ぐ　「１０年以内に人類皆殺しに」―アンソロピック研究者が抗議の退社",
+          "t": "土砂災害への注意が必要である。",
+          "span": "土砂災",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "アンソロピックの研究者は、AIが10年以内に人類を皆殺しにする可能性を懸念している。",
-          "span": "「１０年以内に人類皆殺しに」",
+          "t": "冠水などへの注意が必要である。",
+          "span": "冠水など",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "アンソロピックのCEOは、AIが1年以内にインターネット全体を乗っ取る能力を持つことを懸念している。",
-          "span": "ＡＩ開発の減速呼び掛け　１年以内に「インターネット全体を乗っ取る能力」懸念",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "AI開発のペース減速の可能性と、AI開発に対する懸念が存在することについては一致しているが、その必要性や具体的なリスクについては評価が分かれる。",
-      "note": "プライバシー配慮のため、個々の研究者の氏名は特定せず「アンソロピックの研究者」としています。",
+      "consensus": "秋雨前線の影響で、16日にかけて大気は不安定となり、東日本の太平洋側を中心に雨雲が発達するおそれがある。土砂災害や冠水などに注意が必要である。",
+      "note": "記事中に評価や意見の対立は見られず、事実関係の記述のみのため、positionsは空配列とする。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "大型無人偵察機グローバルホーク 航空自衛隊“墜落と推定”",
+      "slug": "大型無人偵察機グロバルホク航空自衛隊墜落と推定",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260915de50355"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595421?source=rss"
+        }
+      ],
+      "issue": "航空自衛隊所属のグローバルホークは墜落したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "航空自衛隊三沢基地所属の大型無人偵察機「グローバルホーク」の通信が鳥取県沖の海上で途絶えた。",
+          "span": "大型無人偵察機グローバルホーク 航空自衛隊“墜落と推定”。15日昼過ぎ、青森県にある航空自衛隊三沢基地所属の大型無人偵察機「グローバルホーク」の通信が鳥取県沖の海上で途絶えました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "通信が途絶えたのは15日昼過ぎである。",
+          "span": "15日昼過ぎ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "付近の海上では機体の残骸とみられるものがみつかっている。",
+          "span": "機体の残骸とみられるものがみつかっていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "航空自衛隊は墜落したと推定している。",
+          "span": "墜落し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "墜落推定の無人機は任務中であった。",
+          "span": "任務中",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "航空自衛隊所属のグローバルホークの通信が鳥取県沖の海上で途絶え、機体の残骸とみられるものが発見されており、航空自衛隊は墜落したと推定している。当該機は任務中であった。",
+      "note": "本件は事実の記述に留まり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
         "changed": true,
         "issues": [
-          "positionsのclaimを「〜と述べている」の形式に修正しました。",
-          "positionsのreasonを、元のテキストから直接読み取れるように修正しました。"
+          "facts[0].span: 元テキストの冒頭部分全体をspanとして抽出していたため、より具体的な「大型無人偵察機グローバルホーク 航空自衛隊“墜落と推定”。15日昼過ぎ、青森県にある航空自衛隊三沢基地所属の大型無人偵察機「グローバルホーク」の通信が鳥取県沖の海上で途絶えました。」に修正しました。"
         ]
       }
     },
     {
-      "headline": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-      "slug": "RussiahitsUkrainiantrain",
+      "headline": "福岡県議会5議員 パリ訪問中に1人20万円の夕食会参加 県が負担",
+      "slug": "福岡県議会5議員パリ訪問中に1人20万円の夕食会",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260915de50409"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/9/14/manchester-derby-var-official-stood-down-from-weekend-premier-league-games?traffic_source=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595422?source=rss"
         }
       ],
-      "issue": "ボリス・ジョンソン元英国首相は、ロシアによるウクライナの列車攻撃の動機をどのように評価したか？",
-      "stasis": "価値・倫理",
+      "issue": "福岡県議会の海外視察における夕食会費用負担は妥当か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "ロシアがウクライナの列車を攻撃した。",
-          "span": "Russia hits Ukrainian train",
+          "t": "福岡県議会の議員5人が、昨年11月に服部知事とともにフランス・パリを訪問した際、1人あたりおよそ20万円の夕食会に参加した。",
+          "span": "議員5人が1人およそ20万円の夕食会に参加していた",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "攻撃は、ボリス・ジョンソン氏と欧州高官が駅を離れた直後に行われた。",
-          "span": "shortly after Boris Johnson and top European officials leave station",
+          "t": "その夕食会の費用は県が負担した。",
+          "span": "費用は県が負担した",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "福岡県議会の海外視察に対する批判が強まっている。",
+          "span": "福岡県議会の高額な海外視察に批判が強まる中",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ボリス・ジョンソン元英国首相は、ロシアのプーチン大統領が停車中のウクライナの機関車を爆破した動機は歪んだ論理に基づくと評価している。",
-      "note": null,
+      "consensus": "福岡県議会の議員5人がパリ訪問中に1人20万円の夕食会に参加し、その費用は県が負担した。海外視察への批判は強まっている。",
+      "note": "本件は、報道機関による事実の指摘と、それに対する一般的な批判の存在を示唆する内容であり、直接的な賛否の表明や政策提言を行う主体は明記されていないため、positions は報道の論調と県議会の事実関係の提示に留める。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方（ルール5）: テキスト内に実在の対立がないため、issueを単一の立場に関する問いに修正しました。",
-          "著作権（ルール8）およびメタ記述（ルール2）: positions[0].claimを元の文の言い回しから再記述し、「〜と述べている」のメタ記述を追加しました。",
-          "consensus: 複数の立場が存在しないため、デフォルトの「評価は割れる」から、ボリス・ジョンソン氏の具体的な評価内容を記述する形に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "slug": "Wilddogsrecord2500miletr",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/9/14/what-could-stop-the-houthis-advance-across-yemen?traffic_source=rss"
-        }
-      ],
-      "issue": "野生犬の記録的な長距離移動は、野生生物が環境圧力に耐えうる可能性を示すか？",
-      "stasis": "評価・予測",
-      "facts": [
-        {
-          "t": "3頭の野生犬の兄弟がザンビアを横断し、2,500マイル（約4,023km）の移動を記録した。",
-          "span": "record 2,500-mile trek across Zambia",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この移動は、繁殖相手を探す目的で行われた。",
-          "span": "in search of a mate",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "3頭の野生犬がザンビアを2,500マイル移動したという事実は合意されているが、その移動が野生生物の生存可能性に与える影響については、科学者による評価が示されている。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim を「〜と述べている」のメタ記述形式に修正し、元の文の言い回しを避けて再記述した。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
