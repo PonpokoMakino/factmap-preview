@@ -1,101 +1,91 @@
 {
-  "rankedAt": "2026-09-16T21:32:37.749Z",
+  "rankedAt": "2026-09-16T23:48:46.440Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "US interest rates raised for first time in three years",
-      "slug": "USinterestratesraisedfor",
-      "time": "2026-09-16T21:08:22.000Z",
-      "independentSources": 4,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "count": 5,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "米 FRB 0.25％の利上げ決定 利上げは約3年ぶり",
-          "snippet": "アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、16日、0.25％の利上げを決定したと発表しました。\n利上げは2023年7月以来3年2か月ぶりで、ウォーシュ議長はインフレ率が高すぎ…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50687",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "米FRB 3年2カ月ぶり利上げ決定",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595533?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "米ＦＲＢ、３年ぶり利上げ　０．２５％、インフレ長期化回避へ―政策転換、追加引き締め想定",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091700083&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "ＦＲＢは年内にあと１回の追加利上げを行う想定を示した",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091700072&g=flash&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US interest rates raised for first time in three years",
-          "snippet": "The Federal Reserve unanimously voted to increase interest rates to 3.75%-4% from 3.5%-3.75% on Wednesday.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "【台風25号 情報】小笠原諸島では18日以降 雨風強まるおそれ",
-      "slug": "台風25号情報小笠原諸島では18日以降雨風強まる",
-      "time": "2026-09-16T21:28:50.000Z",
+      "headline": "【台風25号】小笠原諸島では18日以降 雨風が強まるおそれ",
+      "slug": "台風25号小笠原諸島では18日以降雨風が強まるお",
+      "time": "2026-09-16T23:02:33.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "気象庁 気象警報・注意報"
       ],
-      "count": 2,
-      "hasPrimary": false,
+      "count": 3,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "【台風25号 情報】小笠原諸島では18日以降 雨風強まるおそれ",
-          "snippet": "大型の台風25号は日本のはるか南東の海上を北寄りに進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。\n台風はその後、本州の南の海上に進み、連休の天気に影響を…",
+          "title": "【台風25号】小笠原諸島では18日以降 雨風が強まるおそれ",
+          "snippet": "大型の台風25号は日本のはるか南東の海上を北に進んでいて、小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです。\n台風はその後、本州の南の海上に進み、連休の天気に影響を与え…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260917de50715",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "台風25号 21日ごろに関東最接近か",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595535?source=rss",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、強風や竜巻などの激しい突風、落雷に注意してください。伊豆諸島北部、伊豆諸島南部、小笠原諸島では、高波に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230234_0_VPWW54_130000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、強風や竜巻などの激しい突風、落雷に注意してください。伊豆諸島北部、伊豆諸島南部、小笠原諸島では、高波に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230234_0_VPWW53_130000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "For checkpoint and settler attack news, Palestinians tune into the radio",
+      "slug": "Forcheckpointandsettlera",
+      "time": "2026-09-16T22:30:34.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 3,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Photos show widespread damage at US sites from Iranian attacks",
+          "snippet": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "For checkpoint and settler attack news, Palestinians tune into the radio",
+          "snippet": "Palestinians in the West Bank navigate Israeli road closures and attacks with help from a local radio station.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/16/for-checkpoint-and-settler-attack-news-palestinians-tune-into-the-radio?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Macklemore pledges $1m in tour earnings to Palestinian groups",
+          "snippet": "The rapper also challenged Robert Kraft to match the donation as fallout from his removal from Ed Sheeran’s tour grows.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/16/macklemore-pledges-1m-in-tour-earnings-to-palestinian-groups?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "第２次高市改造内閣、１７日発足　古川氏起用で調整、林氏の処遇焦点",
-      "slug": "第次高市改造内閣日発足古川氏起用で調整林氏の処遇",
-      "time": "2026-09-16T19:59:08.000Z",
+      "headline": "高市首相きょう内閣改造 政権の骨格維持 維新は中司氏初入閣へ",
+      "slug": "高市首相きょう内閣改造政権の骨格維持維新は中司氏",
+      "time": "2026-09-16T22:47:49.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "count": 2,
       "hasPrimary": false,
@@ -109,40 +99,40 @@
           "linkKind": "article"
         },
         {
-          "title": "第２次高市改造内閣、１７日発足　古川氏起用で調整、林氏の処遇焦点",
+          "title": "内閣改造 赤沢氏と城内氏が続投へ",
           "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091600667&g=pol&m=rss",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595541?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "「よど号」赤木容疑者死亡か　国際手配中、滞在先の北朝鮮で",
-      "slug": "よど号赤木容疑者死亡か国際手配中滞在先の北朝鮮で",
-      "time": "2026-09-16T13:31:00.000Z",
+      "headline": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+      "slug": "WhattoknowaboutUSFederal",
+      "time": "2026-09-16T23:03:37.000Z",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "よど号事件 赤木容疑者が死亡か",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595520?source=rss",
+          "title": "US interest rates raised for first time in three years",
+          "snippet": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "「よど号」赤木容疑者死亡か　国際手配中、滞在先の北朝鮮で",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091601165&g=soc&m=rss",
+          "title": "What to know about US Federal Reserve’s first interest rate hike in 3 years",
+          "snippet": "The unanimous decision comes as prices have remained stubbornly high and despite Trump&#039;s demands for lower rates.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/16/what-to-know-about-us-federal-reserves-first-interest-rate-hike-in-3-years?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -179,96 +169,58 @@
       ]
     },
     {
-      "headline": "New video claims to show Saudi fighter jet Houthis say they shot down",
-      "slug": "NewvideoclaimstoshowSaud",
-      "time": "2026-09-16T20:12:25.000Z",
-      "independentSources": 2,
+      "headline": "NY市場 ダウ一時900ドル超の下落 外国為替市場は1ドル156円台",
+      "slug": "NY市場ダウ一時900ドル超の下落外国為替市場は",
+      "time": "2026-09-16T21:53:00.000Z",
+      "independentSources": 1,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-          "snippet": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful a",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
+          "title": "米 FRB 0.25％の利上げ決定 利上げは約3年ぶり",
+          "snippet": "アメリカのFRB＝連邦準備制度理事会は、金融政策を決める会合を開き、16日、0.25％の利上げを決定したと発表しました。\n利上げは2023年7月以来3年2か月ぶりで、ウォーシュ議長はインフレ率が高すぎ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50687",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "New video claims to show Saudi fighter jet Houthis say they shot down",
-          "snippet": "Houthi forces have released a video claiming to show a Saudi fighter jet the group says was shot down in Yemen’s Marib.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/new-video-claims-to-show-saudi-fighter-jet-houthis-say-they-shot-down?traffic_source=rss",
+          "title": "NY市場 ダウ一時900ドル超の下落 外国為替市場は1ドル156円台",
+          "snippet": "16日のニューヨーク株式市場では、アメリカのFRB＝連邦準備制度理事会が今後も利上げを進めるとの見方からダウ平均株価は一時、900ドルを超える値下がりとなりました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50718",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-09-16T20:25:48.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-16T23:00:00.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 3,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【兵庫県気象警報・注意報】兵庫県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916202549_0_VPWW53_280000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【兵庫県気象警報・注意報】兵庫県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916202549_0_VPWW54_280000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【兵庫県気象警報・注意報】兵庫県では、濃霧による視程障害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916202352_0_VPWW54_280000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-09-16T20:48:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
+        "気象庁 地震・火山"
       ],
       "count": 2,
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象解説情報",
-          "snippet": "【静岡県気象解説情報（大雨・落雷・突風）】静岡県では、大気の非常に不安定な状態は解消し、警報級の大雨となる可能性は低くなりました。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916204829_0_VPFJ51_220000.xml",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230049_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象情報",
-          "snippet": "【静岡県気象解説情報（大雨・落雷・突風）】静岡県では、大気の非常に不安定な状態は解消し、警報級の大雨となる可能性は低くなりました。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916204830_0_VPFJ50_220000.xml",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から北西方向に降灰が予想されま",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916200049_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -277,7 +229,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-09-16T20:38:39.000Z",
+      "time": "2026-09-16T23:06:55.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -287,26 +239,26 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【上川・留萌地方気象警報・注意報】上川・留萌地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【岡山県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916203841_0_VPWW54_012000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230656_0_VPWW54_330000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【上川・留萌地方気象警報・注意報】上川・留萌地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【岡山県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916203841_0_VPWW53_012000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230656_0_VPWW53_330000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-09-16T20:23:51.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-09-16T23:06:41.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -315,18 +267,47 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象解説情報",
-          "snippet": "【東京都気象解説情報（大雨・落雷・突風）】伊豆諸島南部では、１７日昼前にかけて、土砂災害に注意・警戒してください。また、伊豆諸島では、落雷や竜巻などの激しい突風に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916202351_0_VPFJ51_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230642_0_VPWW54_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象情報",
-          "snippet": "【東京都気象解説情報（大雨・落雷・突風）】伊豆諸島南部では、１７日昼前にかけて、土砂災害に注意・警戒してください。また、伊豆諸島では、落雷や竜巻などの激しい突風に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916202351_0_VPFJ50_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230642_0_VPWW53_473000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象特別警報・警報・注意報",
+      "slug": "気象特別警報警報注意報",
+      "time": "2026-09-16T23:03:03.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【長野県気象警報・注意報】中部では、土砂災害や濃霧による視程障害に注意してください。南部では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230305_0_VPWW53_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【長野県気象警報・注意報】中部では、土砂災害や濃霧による視程障害に注意してください。南部では、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230305_0_VPWW54_200000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -404,9 +385,9 @@
       ]
     },
     {
-      "headline": "コソボ元大統領に禁錮25年の実刑判決 戦争犯罪の責任認定",
-      "slug": "コソボ元大統領に禁錮25年の実刑判決戦争犯罪の責",
-      "time": "2026-09-16T21:27:31.000Z",
+      "headline": "国連グテーレス事務総長 AI開発競争 国際的な規制必要と訴える",
+      "slug": "国連グテレス事務総長AI開発競争国際的な規制必要",
+      "time": "2026-09-16T21:58:07.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -415,40 +396,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "コソボ元大統領に禁錮25年の実刑判決 戦争犯罪の責任認定",
-          "snippet": "旧ユーゴスラビアのコソボのサチ元大統領が、独立をめぐる紛争で市民の殺害や拷問などの戦争犯罪の責任が認められたとして、オランダのハーグにある特別法廷は禁錮25年の実刑判決を言い渡しました。",
+          "title": "国連グテーレス事務総長 AI開発競争 国際的な規制必要と訴える",
+          "snippet": "国連のグテーレス事務総長は、AI＝人工知能をめぐる競争を冷戦期の核開発などになぞらえて世界規模の大惨事につながりかねない競争を避けるためには国際的な規制が必要だと訴えました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50709",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50717",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "アメリカでAI開発の規制求め政敵が“共闘” 議論活発に",
-      "slug": "アメリカでAI開発の規制求め政敵が共闘議論活発に",
-      "time": "2026-09-16T21:21:08.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "アメリカでAI開発の規制求め政敵が“共闘” 議論活発に",
-          "snippet": "アメリカでAI＝人工知能の開発を規制すべきかどうか議論が活発になるなか、左派の重鎮、サンダース上院議員とトランプ大統領の支持基盤であるMAGA派に影響力のあるバノン氏が同じイベントに参加し規制の強化を…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50702",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "党役員と閣僚人事 首相の狙いは",
-      "slug": "党役員と閣僚人事首相の狙いは",
-      "time": "2026-09-16T21:21:19.000Z",
+      "headline": "トランプ氏 FRBに迅速利下げ要求",
+      "slug": "トランプ氏FRBに迅速利下げ要求",
+      "time": "2026-09-16T23:36:45.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -457,19 +417,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "党役員と閣僚人事 首相の狙いは",
+          "title": "トランプ氏 FRBに迅速利下げ要求",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595534?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6595545?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "フィジー HIV拡大で非常事態宣言",
-      "slug": "フィジHIV拡大で非常事態宣言",
-      "time": "2026-09-16T12:51:44.000Z",
+      "headline": "台風25号 21日ごろに関東最接近か",
+      "slug": "台風25号21日ごろに関東最接近か",
+      "time": "2026-09-16T21:28:50.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -478,19 +438,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "フィジー HIV拡大で非常事態宣言",
+          "title": "台風25号 21日ごろに関東最接近か",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595522?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6595535?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "呪術廻戦コラボ巡り不正 牛角謝罪",
-      "slug": "呪術廻戦コラボ巡り不正牛角謝罪",
-      "time": "2026-09-16T15:05:57.000Z",
+      "headline": "戦後最長の景気拡大か 実感乏しく",
+      "slug": "戦後最長の景気拡大か実感乏しく",
+      "time": "2026-09-16T22:19:58.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -499,19 +459,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "呪術廻戦コラボ巡り不正 牛角謝罪",
+          "title": "戦後最長の景気拡大か 実感乏しく",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595532?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6595539?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "東京・高尾山の登山道にクマ出没",
-      "slug": "東京高尾山の登山道にクマ出没",
-      "time": "2026-09-16T14:09:18.000Z",
+      "headline": "子どものSNS制限 EUが新法提案へ",
+      "slug": "子どものSNS制限EUが新法提案へ",
+      "time": "2026-09-16T21:55:43.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -520,19 +480,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "東京・高尾山の登山道にクマ出没",
+          "title": "子どものSNS制限 EUが新法提案へ",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595530?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6595537?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "福澤克雄氏 助監督骨折させていた",
-      "slug": "福澤克雄氏助監督骨折させていた",
-      "time": "2026-09-16T11:13:04.000Z",
+      "headline": "酒離れ進む韓国 日本酒ブームの訳",
+      "slug": "酒離れ進む韓国日本酒ブムの訳",
+      "time": "2026-09-16T22:24:17.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -541,10 +501,220 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "福澤克雄氏 助監督骨折させていた",
+          "title": "酒離れ進む韓国 日本酒ブームの訳",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595516?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6595540?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "速報ドジャース 地区優勝なるか",
+      "slug": "速報ドジャス地区優勝なるか",
+      "time": "2026-09-16T23:10:01.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "速報ドジャース 地区優勝なるか",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595543?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "リヨン中村敬斗 初先発で初ゴール",
+      "slug": "リヨン中村敬斗初先発で初ゴル",
+      "time": "2026-09-16T22:16:09.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "リヨン中村敬斗 初先発で初ゴール",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595538?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "運航団体「誠実に事実と向き合う」　辺野古転覆から半年、謝罪声明",
+      "slug": "運航団体誠実に事実と向き合う辺野古転覆から半年謝",
+      "time": "2026-09-16T01:24:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "運航団体「誠実に事実と向き合う」　辺野古転覆から半年、謝罪声明",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091600353&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "第２次高市改造内閣、１７日発足　古川氏起用で調整、林氏の処遇焦点",
+      "slug": "第次高市改造内閣日発足古川氏起用で調整林氏の処遇",
+      "time": "2026-09-16T12:07:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "第２次高市改造内閣、１７日発足　古川氏起用で調整、林氏の処遇焦点",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091600667&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "高市首相、総裁選にらみ安定重視　国対「刷新」、党内に不満―自民役員人事",
+      "slug": "高市首相総裁選にらみ安定重視国対刷新党内に不満自",
+      "time": "2026-09-16T22:04:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "高市首相、総裁選にらみ安定重視　国対「刷新」、党内に不満―自民役員人事",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091601040&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "グローバルホーク、米軍で相次ぎ事故　航空自衛隊の無人機墜落、「新しい戦い方」の中核に冷や水",
+      "slug": "グロバルホク米軍で相次ぎ事故航空自衛隊の無人機墜",
+      "time": "2026-09-16T22:21:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "グローバルホーク、米軍で相次ぎ事故　航空自衛隊の無人機墜落、「新しい戦い方」の中核に冷や水",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091600651&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「金利をすぐに下げろ」　ＦＲＢに圧力―トランプ米大統領",
+      "slug": "金利をすぐに下げろに圧力トランプ米大統領",
+      "time": "2026-09-16T22:11:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「金利をすぐに下げろ」　ＦＲＢに圧力―トランプ米大統領",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091700156&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ゴーン被告、初公判出廷せず　汚職事件は欠席裁判に―仏",
+      "slug": "ゴン被告初公判出廷せず汚職事件は欠席裁判に仏",
+      "time": "2026-09-16T21:25:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ゴーン被告、初公判出廷せず　汚職事件は欠席裁判に―仏",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091700177&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "「よど号」赤木容疑者死亡か　国際手配中、滞在先の北朝鮮で",
+      "slug": "よど号赤木容疑者死亡か国際手配中滞在先の北朝鮮で",
+      "time": "2026-09-16T13:31:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「よど号」赤木容疑者死亡か　国際手配中、滞在先の北朝鮮で",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091601165&g=soc&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "フーシ派が米当局と会談　サウジ以外「攻撃意志なし」と伝達―報道",
+      "slug": "フシ派が米当局と会談サウジ以外攻撃意志なしと伝達",
+      "time": "2026-09-16T22:50:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "フーシ派が米当局と会談　サウジ以外「攻撃意志なし」と伝達―報道",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091700192&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -572,50 +742,8 @@
       ]
     },
     {
-      "headline": "首相動静（９月１６日）",
-      "slug": "首相動静月日",
-      "time": "2026-09-16T13:07:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "首相動静（９月１６日）",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091600228&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ＮＹ株、一時９００ドル超安　物価高止まりに警戒",
-      "slug": "株一時ドル超安物価高止まりに警戒",
-      "time": "2026-09-16T20:58:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ＮＹ株、一時９００ドル超安　物価高止まりに警戒",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091700137&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ティラノサウルスは体温３６度　歯の炭素・水素同位体から推定―米大学",
-      "slug": "ティラノサウルスは体温度歯の炭素水素同位体から推",
+      "headline": "ティラノサウルスの体温は、ヒト並み３６．３度　アメリカの大学が初の推定　代謝が活発か",
+      "slug": "ティラノサウルスの体温はヒト並み度アメリカの大学",
       "time": "2026-09-16T18:04:00.000Z",
       "independentSources": 1,
       "sources": [
@@ -625,7 +753,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ティラノサウルスは体温３６度　歯の炭素・水素同位体から推定―米大学",
+          "title": "ティラノサウルスの体温は、ヒト並み３６．３度　アメリカの大学が初の推定　代謝が活発か",
           "snippet": "",
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026091700066&g=int&m=rss",
@@ -635,44 +763,149 @@
       ]
     },
     {
-      "headline": "玉城氏巡る虚偽拡散、ほぼ県外から　東京が６割―沖縄知事選",
-      "slug": "玉城氏巡る虚偽拡散ほぼ県外から東京が割沖縄知事選",
-      "time": "2026-09-16T05:51:00.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-16T23:00:00.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "気象庁 地震・火山"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "玉城氏巡る虚偽拡散、ほぼ県外から　東京が６割―沖縄知事選",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091600125&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から北西方向に降灰が予想されま",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230052_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "高市首相「聖域」に介入か　参院幹事長交代、政権火種に",
-      "slug": "高市首相聖域に介入か参院幹事長交代政権火種に",
-      "time": "2026-09-15T22:03:00.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-16T23:00:00.000Z",
       "independentSources": 1,
       "sources": [
-        "時事ドットコム"
+        "気象庁 地震・火山"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "高市首相「聖域」に介入か　参院幹事長交代、政権火種に",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091501066&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230056_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-16T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230031_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-16T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　十勝岳　降灰予報（定時）】　現在、十勝岳は噴火警戒レベル３（入山規制）です。十勝岳で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-16T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230037_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-16T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230041_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-09-16T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -698,198 +931,9 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　口永良部島　降灰予報（定時）】　現在、口永良部島は噴火警戒レベル２（火口周辺規制）です。口永良部島で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から北西方向に降灰が予想されま",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916200049_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916200052_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916200056_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916200031_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　十勝岳　降灰予報（定時）】　現在、十勝岳は噴火警戒レベル３（入山規制）です。十勝岳で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916200034_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916200037_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916200041_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-09-16T20:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１７日０９時から１２時までは火口から西方向、１７日２１時から２４時までは火口から西方向に降灰が予想されます",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916200045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "噴火に関する火山観測報",
-      "slug": "噴火に関する火山観測報",
-      "time": "2026-09-16T19:27:05.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "噴火に関する火山観測報",
-          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年09月17日04時16分(161916UTC)\n現　　象：噴火",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916192705_0_VFVO52_400000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
       "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
       "slug": "気象警報注意報その他注意報",
-      "time": "2026-09-16T20:38:33.000Z",
+      "time": "2026-09-16T23:06:42.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -899,32 +943,32 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【上川・留萌地方濃霧注意報】上川、留萌地方では、濃霧による視程障害に注意してください。",
+          "snippet": "【岡山県濃霧注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916203833_0_VPWW61_012000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230643_0_VPWW61_330000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Photos show widespread damage at US sites from Iranian attacks",
-      "slug": "Photosshowwidespreaddama",
-      "time": "2026-09-16T18:36:16.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-09-16T23:02:51.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "気象庁 気象警報・注意報"
       ],
       "count": 1,
-      "hasPrimary": false,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "Photos show widespread damage at US sites from Iranian attacks",
-          "snippet": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【長野県雷・濃霧注意報】南部では、急な強い雨や落雷に注意してください。中部では、濃霧による視程障害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260916230251_0_VPWW61_200000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
@@ -965,6 +1009,27 @@
           "snippet": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "slug": "SaudiArabiasaysitshotdow",
+      "time": "2026-09-16T08:36:17.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+          "snippet": "The Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful a",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1013,8 +1078,92 @@
       ]
     },
     {
-      "headline": "US removes Venezuela from list of drug transit, production countries",
-      "slug": "USremovesVenezuelafromli",
+      "headline": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
+      "slug": "IsraelandMoroccoagreetoo",
+      "time": "2026-09-16T23:26:27.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Israel and Morocco agree to open embassies, upgrading diplomatic ties",
+          "snippet": "Both sides agreed to expand air travel and resume direct commercial flights.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/16/israel-and-morocco-agree-to-open-embassies-upgrading-diplomatic-ties?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+      "slug": "USmilitaryclaimsStraitof",
+      "time": "2026-09-16T23:14:46.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "US military claims Strait of Hormuz remains open amid ongoing blockade",
+          "snippet": "The comments from a US CENTCOM spokesperson come amid continued tensions over shipping through the vital waterway.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/16/us-military-claims-strait-of-hormuz-remains-open-amid-ongoing-blockade?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "‘People don’t have money’: Syrian fuel hikes deepen economic pain",
+      "slug": "PeopledonthavemoneySyria",
+      "time": "2026-09-16T23:11:31.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "‘People don’t have money’: Syrian fuel hikes deepen economic pain",
+          "snippet": "Higher diesel and petrol prices are pushing up transport and food costs across an already impoverished Syria.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/16/people-dont-have-money-syrian-fuel-hikes-deepen-economic-pain?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+      "slug": "ManchesterUnitedlose32to",
+      "time": "2026-09-16T21:41:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Manchester United lose 3-2 to Brighton, crash out of League Cup",
+          "snippet": "Brighton come from two goals down to win 3-2 at Old Trafford, to shock Manchester United as slow start continues.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/9/16/manchester-united-lose-3-2-to-brighton-crash-out-of-league-cup?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "US removes Venezuela from drug list, Trump says",
+      "slug": "USremovesVenezuelafromdr",
       "time": "2026-09-16T20:53:02.000Z",
       "independentSources": 1,
       "sources": [
@@ -1024,7 +1173,7 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "US removes Venezuela from list of drug transit, production countries",
+          "title": "US removes Venezuela from drug list, Trump says",
           "snippet": "Trump says the country has made progress against narcotics since Maduro&#039;s removal, may also remove Colombia and Bol",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/9/16/us-removes-venezuela-from-list-of-drug-transit-production-countries?traffic_source=rss",
@@ -1049,132 +1198,6 @@
           "snippet": "Displaced Syrians are digging through mountains of burning garbage searching for recyclable materials to make a living.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/displaced-syrians-dig-through-hills-of-garbage-to-make-a-living?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
-      "slug": "SyriaabolishesalAssadera",
-      "time": "2026-09-16T20:08:50.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Syria abolishes al-Assad-era ‘terrorism’ court as Kurdish tensions flare",
-          "snippet": "Discontent is testing President Ahmed al-Sharaa&#039;s ability to unify a country emerging from 14 years of conflict.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/16/syria-abolishes-al-assad-era-terrorism-court-as-kurdish-tensions-flare?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
-      "slug": "EffortsunderwayforZelens",
-      "time": "2026-09-16T20:05:51.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Efforts underway for Zelenskyy-Trump meeting at UN next week",
-          "snippet": "Trump pushes for a solution to end Moscow&#039;s war against Kyiv as civilian deaths in Ukraine rise.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/16/efforts-underway-for-zelenskyy-trump-meeting-at-un-next-week?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Al-Mughayyir: A village under siege",
-      "slug": "AlMughayyirAvillageunder",
-      "time": "2026-09-16T19:48:05.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Al-Mughayyir: A village under siege",
-          "snippet": "In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
-      "slug": "RepublicanUSsenatorslams",
-      "time": "2026-09-16T19:45:30.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Republican US senator slams Trump vaccine policy amid rising measles deaths",
-          "snippet": "US Senator Bill Cassidy presses Trump&#039;s pick for surgeon general on views over vaccines, public health.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/16/republican-us-senator-slams-trump-vaccine-policy-amid-rising-measles-deaths?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
-      "slug": "Lebanonreturns37artefact",
-      "time": "2026-09-16T19:44:05.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Lebanon returns 37 artefacts smuggled out of Egypt six years ago",
-          "snippet": "The artefacts date back to the pharaonic civilisation, more commonly referred to as ancient Egypt.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/16/lebanon-returns-37-artefacts-smuggled-out-of-egypt-six-years-ago?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
-      "slug": "JerusalemDailyUStosend28",
-      "time": "2026-09-16T19:14:28.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Jerusalem Daily: US to send $2.8BN worth of weapons to Israel",
-          "snippet": "A 15-year-old boy was killed in a double-tap strike while trying to save a paramedic.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/jerusalem-daily-us-to-send-2-8bn-worth-of-weapons-to-israel?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
