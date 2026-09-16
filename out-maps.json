@@ -1,7 +1,177 @@
 {
-  "builtAt": "2026-09-16T14:37:46.758Z",
+  "builtAt": "2026-09-16T21:32:37.749Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
+    {
+      "headline": "US interest rates raised for first time in three years",
+      "slug": "USinterestratesraisedfor",
+      "independentSources": 4,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50687"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595533?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091700083&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091700072&g=flash&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "米FRBはインフレ抑制のために利上げを決定したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アメリカのFRB（連邦準備制度理事会）は、金融政策を決める会合で0.25％の利上げを決定した。",
+          "span": "0.25％の利上げを決定した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "今回の利上げは、2023年7月以来3年2か月ぶりである。",
+          "span": "利上げは2023年7月以来3年2か月ぶり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "FRBは年内にあと1回の追加利上げを行う想定を示した。",
+          "span": "年内にあと１回の追加利上げを行う想定を示した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "FRBは水曜日、政策金利を3.5%-3.75%から3.75%-4%に引き上げることを全会一致で決定した。",
+          "span": "increase interest rates to 3.75%-4% from 3.5%-3.75%",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "FRBは0.25％の利上げを決定し、これは3年2か月ぶりである。年内にあと1回の追加利上げが想定されている。インフレ率の高さを背景とした決定であると報じられている。",
+      "note": "BBC Worldの記事では、利上げ幅が0.25%であることには言及されておらず、政策金利の具体的なレンジが示されている。また、利上げ決定の時期も「水曜日」と記載されている。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "【台風25号 情報】小笠原諸島では18日以降 雨風強まるおそれ",
+      "slug": "台風25号情報小笠原諸島では18日以降雨風強まる",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50715"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595535?source=rss"
+        }
+      ],
+      "issue": "台風25号はいつ、どこに最も接近するか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "大型の台風25号は日本のはるか南東の海上を北寄りに進んでいる。",
+          "span": "大型の台風25号は日本のはるか南東の海上を北寄りに進んでいて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "小笠原諸島では18日から19日ごろにかけて雨や風が強まり、波も高くなる見込みである。",
+          "span": "小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風はその後、本州の南の海上を進むとみられる。",
+          "span": "台風はその後、本州の南の海上",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風25号は21日ごろに関東に最も接近する可能性がある。",
+          "span": "台風25号 21日ごろに関東最接近か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風25号は日本のはるか南東の海上を北寄りに進んでおり、小笠原諸島では18日から19日ごろにかけて雨や風が強まり波も高くなる見込み。その後、本州の南の海上を進み、21日ごろに関東に最も接近する可能性がある。",
+      "note": "本件は事実の記述のみであり、評価や対立する意見は含まれていないため、positions は空となります。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
     {
       "headline": "第２次高市改造内閣、１７日発足　古川氏起用で調整、林氏の処遇焦点",
       "slug": "第次高市改造内閣日発足古川氏起用で調整林氏の処遇",
@@ -109,185 +279,64 @@
       }
     },
     {
-      "headline": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-      "slug": "Eightchildrenamong21kill",
+      "headline": "「よど号」赤木容疑者死亡か　国際手配中、滞在先の北朝鮮で",
+      "slug": "よど号赤木容疑者死亡か国際手配中滞在先の北朝鮮で",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr89jqd1w45eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/16/djibouti-on-alert-as-people-flee-yemen-after-houthi-takeover-of-mayyun?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/16/gold-mine-collapse-kills-at-least-70-people-in-sudans-west-kordofan?traffic_source=rss"
-        }
-      ],
-      "issue": "ガザ地区でイスラエルによる攻撃で倒壊した建物により、21人が死亡したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ガザ地区で、イスラエルによる昨年攻撃された建物が倒壊し、21人が死亡した。死者には子供8人が含まれる。建物の下敷きになった多数の行方不明者がいるとみられる。",
-          "span": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ガザ地区で、イスラエルによる昨年攻撃された建物が倒壊し、21人が死亡した。死者には子供8人が含まれる。建物の下敷きになった多数の行方不明者がいるとみられる。",
-      "note": "プライバシー配慮のため、被害者の詳細な情報は含んでいない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "South African president vows justice as more women's bodies found near Johannesburg",
-      "slug": "SouthAfricanpresidentvow",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crgqde1nex2vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqy0z5y7wnp2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/16/why-are-election-officials-in-the-us-preparing-for-chaos-before-midterms?traffic_source=rss"
-        }
-      ],
-      "issue": "ヨハネスブルグ近郊で発見された女性の遺体と、シリアルキラーの可能性との関連性は明らかか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ヨハネスブルグ近郊で複数の女性の遺体が発見された。",
-          "span": "more women's bodies found near Johannesburg",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "警察は、発見された遺体とシリアルキラーを結びつけていないが、その可能性を捜査している。",
-          "span": "Police have not linked the deaths to a serial killer but are investigating this possibility",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ヨハネスブルグ近郊で複数の女性の遺体が発見された。警察はシリアルキラーの可能性を捜査しているが、現時点では関連性は明らかになっていない。南アフリカ大統領は正義を誓った。",
-      "note": "プライバシー配慮のため、被害者の特定につながる情報は含んでいない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensusの末尾「評価は割れる。」は元テキストに根拠がないため削除しました。",
-          "positionsのclaimを「正義を誓う」から「正義を誓った」に修正しました。元テキストの動詞の時制に合わせました。"
-        ]
-      }
-    },
-    {
-      "headline": "【台風情報】台風25号が発生 連休の天気影響か 最新情報に注意",
-      "slug": "台風情報台風25号が発生連休の天気影響か最新情報",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50674"
-        },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595529?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6595520?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091601165&g=soc&m=rss"
         }
       ],
-      "issue": "台風25号は連休の天気に影響を与えるか？",
+      "issue": "「よど号」事件の赤木容疑者は死亡したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "台風25号が16日午後9時に発生した。",
-          "span": "台風25号が発生",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風25号は日本のはるか南東の海上で発生した。",
-          "span": "日本のはるか南東の海上で台風25号が発生しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風25号は18日以降、小笠原諸島に近づいた後、本州の南の海上に進むおそれがある。",
-          "span": "18日以降、小笠原諸島に近づいた後、本州の南の海上に進むおそれがあります",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風25号は連休の天気に影響を与える可能性がある。",
-          "span": "連休の天気に影響を与える可能性があり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風25号は発達しながら北上する見込み。",
-          "span": "発達しながら北上へ",
+          "t": "「よど号」事件の赤木容疑者が死亡したと報じられている。",
+          "span": "赤木容疑者死亡か",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "赤木容疑者は国際手配中である。",
+          "span": "国際手配中",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "赤木容疑者は滞在先の北朝鮮で死亡したとされている。",
+          "span": "滞在先の北朝鮮で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風25号が発生し、連休の天気に影響を与える可能性がある。最新の情報に注意が必要である。",
-      "note": "複数の情報源から台風25号の発生と今後の進路に関する事実情報を抽出した。評価や予測に関する対立する立場は記事中に見られなかったため、positionsは空とした。",
+      "consensus": "「よど号」事件の赤木容疑者が死亡したと報じられている。国際手配中であり、滞在先の北朝鮮で死亡したとされている。",
+      "note": "プライバシー保護のため、容疑者の氏名は伏せ字（赤木容疑者）として扱う。",
       "audit": {
         "changed": false,
         "issues": []
