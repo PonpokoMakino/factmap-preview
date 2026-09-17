@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-09-17T12:12:36.973Z",
+  "builtAt": "2026-09-17T20:18:06.847Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "第２次高市改造内閣が発足　主要閣僚留任、林氏は退任―初入閣に「裏金」議員起用",
-      "slug": "第次高市改造内閣が発足主要閣僚留任林氏は退任初入",
+      "headline": "第２次高市改造内閣が発足　「決断と実行」主要閣僚留任―裏金議員起用、林氏は退任・維新から初入閣",
+      "slug": "第次高市改造内閣が発足決断と実行主要閣僚留任裏金",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -18,11 +18,7 @@
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595618?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595613?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6595637?source=rss"
         },
         {
           "source": "時事ドットコム",
@@ -31,9 +27,17 @@
         {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026091700942&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091700596&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091700594&g=flash&m=rss"
         }
       ],
-      "issue": "第2次高市改造内閣は、強い経済の実現に向けた政策を加速させるか？",
+      "issue": "第2次高市改造内閣の発足と、高市総理大臣が表明した内閣の方針および人選基準は何か？",
       "stasis": "政策",
       "facts": [
         {
@@ -41,8 +45,8 @@
           "span": "第2次高市改造内閣発足",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "NHK"
             },
             {
               "ty": "press",
@@ -51,31 +55,17 @@
           ]
         },
         {
-          "t": "高市総理大臣は、内閣改造を受けて記者会見で、強い経済の実現に向けた政策を加速させる姿勢を強調した。",
-          "span": "第2次高市改造内閣で強い経済の実現に向けた政策を加速させていく姿勢を強調しました",
+          "t": "高市総理大臣は17日夜に記者会見を行った。",
+          "span": "高市総理大臣は17日夜、記者会見し",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "高市総理大臣は、閣僚の起用にあたって政策の実行力を重視したと説明した。",
-          "span": "閣僚の起用にあたっては、政策の実行力を重視したと説明しまし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "主要閣僚の一部は留任した。",
+          "t": "主要閣僚は留任した。",
           "span": "主要閣僚留任",
           "src": [
             {
@@ -85,18 +75,22 @@
           ]
         },
         {
-          "t": "林氏は退任した。",
+          "t": "林芳正氏は閣外に退任した。",
           "span": "林氏は退任",
           "src": [
             {
               "ty": "press",
+              "l": "Yahoo!ニュース"
+            },
+            {
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "初入閣議員の中に「裏金」問題に関与したとされる議員が起用された。",
-          "span": "初入閣に「裏金」議員起用",
+          "t": "細野豪志氏が入閣し、閣僚席次でナンバー2となった。",
+          "span": "ナンバー２に細野氏",
           "src": [
             {
               "ty": "press",
@@ -105,18 +99,28 @@
           ]
         },
         {
-          "t": "細野豪志氏が復興大臣に就任した。",
-          "span": "細野豪志氏「宿命」 復興相に就任",
+          "t": "簗和生氏が入閣した。",
+          "span": "",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "閣僚席次でナンバー2は細野氏となった。",
-          "span": "閣僚席次、ナンバー２に細野氏",
+          "t": "裏金問題に関与した議員が閣僚に起用された。",
+          "span": "裏金議員起用",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日本維新の会から初めて閣僚が起用された。",
+          "span": "維新から初入閣",
           "src": [
             {
               "ty": "press",
@@ -126,11 +130,17 @@
         }
       ],
       "positions": [],
-      "consensus": "第2次高市改造内閣が発足し、高市総理大臣は強い経済実現に向けた政策加速と実行力重視の姿勢を強調したが、閣僚人事については評価が分かれる可能性がある。",
-      "note": "プライバシー配慮のため、裏金問題に関与したとされる議員の個人名は記載しない。",
+      "consensus": "第2次高市改造内閣が発足し、高市総理大臣は強い経済の実現と政策実行力重視の人選を強調した。本記事中には、これらの目標達成に対する明確な反対意見や評価の対立は示されていない。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "争点の立て方: issueがテキスト内の対立を反映していなかったため、第2次高市改造内閣の発足と高市総理大臣の表明した方針・人選基準を問う記述的な問いに修正しました。",
+          "spanの最小核: facts[3].spanを「林芳正氏なぜ閣外」から元テキストに存在するより具体的な「林氏は退任」に修正しました。",
+          "spanの最小核: facts[5].spanを「簗和生（やな・かずお）氏の入閣が固まった」から最小核である「簗和生氏の入閣」に修正しました。",
+          "著作権: positions[0].claimが元の文の言い回しをなぞっていたため、「〜考えを示したと報じられている」と再記述しました。",
+          "著作権: positions[1].claimが元の文の言い回しをなぞっていたため、「〜と説明したと報じられている」と再記述しました。"
+        ]
       }
     },
     {
@@ -258,8 +268,50 @@
       }
     },
     {
-      "headline": "Ninth woman's body found as South African police investigate string of deaths",
-      "slug": "NinthwomansbodyfoundasSo",
+      "headline": "Canada welcomes EU proposal to become 'associate member'",
+      "slug": "CanadawelcomesEUproposal",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091701248&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "欧州連合（EU）のカナダ「準加盟」構想について、カナダ首相はどのような見解を示しているか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "欧州連合（EU）がカナダに対し「準加盟」構想を提案した。",
+          "span": "EU proposal to become 'associate member'",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "欧州連合（EU）がカナダに対し「準加盟」構想を提案しており、カナダ首相マーク・カーニー氏がこれを歓迎している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: `issue` がテキスト内の対立を反映していなかったため、カナダ首相の見解を問う形に修正しました。テキストには賛成意見のみが示されており、反対意見は存在しませんでした。"
+        ]
+      }
+    },
+    {
+      "headline": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "slug": "UNexpertssaygroundstobel",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -268,31 +320,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/17/russian-plans-include-strikes-against-ukraines-allies-poland-says?traffic_source=rss"
         }
       ],
-      "issue": "アサド政権は米ジャーナリストの誘拐を数週間計画していたか？",
-      "stasis": "事実",
+      "issue": "米国はイランへの攻撃で戦争犯罪を犯したか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "アサド政権は米ジャーナリストの誘拐を数週間計画していたと情報源が主張している。",
-          "span": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+          "t": "米国は2月のイランでの致命的な攻撃を実行したことを認めていない。",
+          "span": "The US has not acknowledged carrying out February's deadly strikes",
           "src": [
             {
               "ty": "press",
@@ -301,8 +341,8 @@
           ]
         },
         {
-          "t": "オースティン・ティス氏の誘拐はシリアの元指導者バシャール・アサドの承認を得ていたと情報源が主張している。",
-          "span": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims",
+          "t": "攻撃はミナーブの小学校とスポーツ複合施設に対して行われた。",
+          "span": "on a primary school in Minab and a sports complex",
           "src": [
             {
               "ty": "press",
@@ -312,72 +352,12 @@
         }
       ],
       "positions": [],
-      "consensus": "アサド政権は米ジャーナリストの誘拐を数週間計画していたと情報源が主張している。オースティン・ティス氏の誘拐はシリアの元指導者バシャール・アサドの承認を得ていたと情報源が主張している。",
-      "note": "プライバシー配慮のため、誘拐されたジャーナリストの氏名は伏せています。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "プロ野球元日本ハム、ウルフさん死去　４５歳、日本で通算５６勝",
-      "slug": "プロ野球元日本ハムウルフさん死去歳日本で通算勝",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595597?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091700306&g=spo&m=rss"
-        }
-      ],
-      "issue": "ブライアン・ウルフ氏の死去",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "プロ野球元日本ハムファイターズのブライアン・ウルフ氏が45歳で死去した。",
-          "span": "プロ野球元日本ハム、ウルフさん死去　４５歳",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ウルフ氏は日本で通算56勝を記録した。",
-          "span": "日本で通算５６勝",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "日本ハムファイターズはウルフ氏の死去に関してコメントを発表した。",
-          "span": "日ハムがコメント",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "プロ野球元日本ハムのブライアン・ウルフ氏が45歳で死去したことは事実として報じられている。",
-      "note": "",
+      "consensus": "国連専門家は米国がイランへの攻撃で戦争犯罪を犯したと信じるに足る根拠があると述べているが、米国は攻撃の実行を認めていない。評価は割れる。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "issueの記述が主題の提示に留まっていたため、「ブライアン・ウルフ氏の死去」に修正しました。"
+          "positions[0].claim: メタ記述の徹底と著作権配慮のため、発言主体を明記し「〜と述べている」の形式に修正した。"
         ]
       }
     }
