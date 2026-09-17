@@ -1,91 +1,308 @@
 {
-  "builtAt": "2026-09-16T21:32:37.749Z",
+  "builtAt": "2026-09-17T12:12:36.973Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "US interest rates raised for first time in three years",
-      "slug": "USinterestratesraisedfor",
-      "independentSources": 4,
+      "headline": "第２次高市改造内閣が発足　主要閣僚留任、林氏は退任―初入閣に「裏金」議員起用",
+      "slug": "第次高市改造内閣が発足主要閣僚留任林氏は退任初入",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50687"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50695"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595533?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6595618?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595613?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091700083&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026091700731&g=pol&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091700072&g=flash&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026091700942&g=pol&m=rss"
         }
       ],
-      "issue": "米FRBはインフレ抑制のために利上げを決定したか？",
+      "issue": "第2次高市改造内閣は、強い経済の実現に向けた政策を加速させるか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "第2次高市改造内閣が発足した。",
+          "span": "第2次高市改造内閣発足",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、内閣改造を受けて記者会見で、強い経済の実現に向けた政策を加速させる姿勢を強調した。",
+          "span": "第2次高市改造内閣で強い経済の実現に向けた政策を加速させていく姿勢を強調しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、閣僚の起用にあたって政策の実行力を重視したと説明した。",
+          "span": "閣僚の起用にあたっては、政策の実行力を重視したと説明しまし",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "主要閣僚の一部は留任した。",
+          "span": "主要閣僚留任",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "林氏は退任した。",
+          "span": "林氏は退任",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "初入閣議員の中に「裏金」問題に関与したとされる議員が起用された。",
+          "span": "初入閣に「裏金」議員起用",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "細野豪志氏が復興大臣に就任した。",
+          "span": "細野豪志氏「宿命」 復興相に就任",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "閣僚席次でナンバー2は細野氏となった。",
+          "span": "閣僚席次、ナンバー２に細野氏",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "第2次高市改造内閣が発足し、高市総理大臣は強い経済実現に向けた政策加速と実行力重視の姿勢を強調したが、閣僚人事については評価が分かれる可能性がある。",
+      "note": "プライバシー配慮のため、裏金問題に関与したとされる議員の個人名は記載しない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "台風25号 小笠原諸島接近へ 東日本は連休中の天気に影響も",
+      "slug": "台風25号小笠原諸島接近へ東日本は連休中の天気に",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50715"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260917114346_0_VPWW54_460100.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260917114346_0_VPWW53_460100.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260917114339_0_VPWW56_460100.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260917113924_0_VPWW54_420000.xml"
+        }
+      ],
+      "issue": "台風25号による小笠原諸島および東日本への影響はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "アメリカのFRB（連邦準備制度理事会）は、金融政策を決める会合で0.25％の利上げを決定した。",
-          "span": "0.25％の利上げを決定した",
+          "t": "大型の台風25号は勢力をやや強めながら北上している。",
+          "span": "大型の台風25号は勢力をやや強めながら北上していて",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "今回の利上げは、2023年7月以来3年2か月ぶりである。",
-          "span": "利上げは2023年7月以来3年2か月ぶり",
+          "t": "小笠原諸島では18日以降、非常に強い風が吹き、海上も大しけとなる見込みである。",
+          "span": "小笠原諸島では18日以降非常に強い風が吹き、海上も大しけとなる見込みです",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "FRBは年内にあと1回の追加利上げを行う想定を示した。",
-          "span": "年内にあと１回の追加利上げを行う想定を示した",
+          "t": "台風25号は東日本の連休中の天気に影響を与える可能性がある。",
+          "span": "東日本は連休中の天気に影響も",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "FRBは水曜日、政策金利を3.5%-3.75%から3.75%-4%に引き上げることを全会一致で決定した。",
-          "span": "increase interest rates to 3.75%-4% from 3.5%-3.75%",
+          "t": "気象庁は、高波に警戒し強風や土砂災害に十分注意するよう呼びかけている。",
+          "span": "高波に警戒し強風や土砂災害に十分注意するよう呼びかけています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "鹿児島県大隅地方では土砂災害への注意が必要である。",
+          "span": "大隅地方では、土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "鹿児島県薩摩、大隅、種子島・屋久島地方では落雷への注意が必要である。",
+          "span": "薩摩、大隅、種子島・屋久島地方では、落雷に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "長崎県北部、壱岐・対馬、五島では強風や高波への注意が必要である。",
+          "span": "北部、壱岐・対馬、五島では、強風や高波に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "長崎県五島では落雷への注意が必要である。",
+          "span": "五島では、落雷に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "大型の台風25号は北上しており、小笠原諸島では18日以降、非常に強い風と大しけが予想される。東日本の連休中の天気への影響も懸念されている。気象庁は高波、強風、土砂災害、落雷への注意を呼びかけている。鹿児島県大隅地方では土砂災害、薩摩・大隅・種子島・屋久島地方では落雷、長崎県北部・壱岐対馬・五島では強風・高波、五島では落雷への注意報が出ている。",
+      "note": "気象庁の警報・注意報は複数の日付・種別で重複して記載されているが、内容は同一であるため、事実として統合した。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "重複する気象庁の警報・注意報のsrcを一つに統合し、事実の重複を削除した。"
+        ]
+      }
+    },
+    {
+      "headline": "Ninth woman's body found as South African police investigate string of deaths",
+      "slug": "NinthwomansbodyfoundasSo",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c52e047wpw7po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss"
+        }
+      ],
+      "issue": "アサド政権は米ジャーナリストの誘拐を数週間計画していたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アサド政権は米ジャーナリストの誘拐を数週間計画していたと情報源が主張している。",
+          "span": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "オースティン・ティス氏の誘拐はシリアの元指導者バシャール・アサドの承認を得ていたと情報源が主張している。",
+          "span": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims",
           "src": [
             {
               "ty": "press",
@@ -95,192 +312,16 @@
         }
       ],
       "positions": [],
-      "consensus": "FRBは0.25％の利上げを決定し、これは3年2か月ぶりである。年内にあと1回の追加利上げが想定されている。インフレ率の高さを背景とした決定であると報じられている。",
-      "note": "BBC Worldの記事では、利上げ幅が0.25%であることには言及されておらず、政策金利の具体的なレンジが示されている。また、利上げ決定の時期も「水曜日」と記載されている。",
+      "consensus": "アサド政権は米ジャーナリストの誘拐を数週間計画していたと情報源が主張している。オースティン・ティス氏の誘拐はシリアの元指導者バシャール・アサドの承認を得ていたと情報源が主張している。",
+      "note": "プライバシー配慮のため、誘拐されたジャーナリストの氏名は伏せています。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "【台風25号 情報】小笠原諸島では18日以降 雨風強まるおそれ",
-      "slug": "台風25号情報小笠原諸島では18日以降雨風強まる",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260917de50715"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595535?source=rss"
-        }
-      ],
-      "issue": "台風25号はいつ、どこに最も接近するか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "大型の台風25号は日本のはるか南東の海上を北寄りに進んでいる。",
-          "span": "大型の台風25号は日本のはるか南東の海上を北寄りに進んでいて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "小笠原諸島では18日から19日ごろにかけて雨や風が強まり、波も高くなる見込みである。",
-          "span": "小笠原諸島では18日から19日ごろにかけて雨や風が強まって波も高くなる見込みです",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風はその後、本州の南の海上を進むとみられる。",
-          "span": "台風はその後、本州の南の海上",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風25号は21日ごろに関東に最も接近する可能性がある。",
-          "span": "台風25号 21日ごろに関東最接近か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風25号は日本のはるか南東の海上を北寄りに進んでおり、小笠原諸島では18日から19日ごろにかけて雨や風が強まり波も高くなる見込み。その後、本州の南の海上を進み、21日ごろに関東に最も接近する可能性がある。",
-      "note": "本件は事実の記述のみであり、評価や対立する意見は含まれていないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "第２次高市改造内閣、１７日発足　古川氏起用で調整、林氏の処遇焦点",
-      "slug": "第次高市改造内閣日発足古川氏起用で調整林氏の処遇",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50478"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50641"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50669"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091600667&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091601114&g=int&m=rss"
-        }
-      ],
-      "issue": "男女平等調査における日本の順位と、その背景にある政治参加および経済分野の評価は妥当か？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "スイスの国際組織がまとめた世界各国の男女間の平等に関する調査で、日本は145か国中117位となった。",
-          "span": "日本は145か国の中で117位となりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "男女平等調査において、女性初の高市総理大臣の就任により「政治参加」の指数は改善したが、「経済」の分野では後退した。",
-          "span": "女性初の高市総理大臣の就任で「政治参加」の指数が改善したものの「経済」の分野では後退し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "男女平等に関する国際調査で、日本はG7の中で最下位が続いている。",
-          "span": "Ｇ７最下位続く",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "自民党の役員人事が16日に行われ、17日に内閣改造が行われる予定である。",
-          "span": "17日の内閣改造に先立って16日午前、自民党の役員人事を行いました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "自民党の新執行部が発足し、幹事長など多くが留任となった。",
-          "span": "16日に自民党の新執行部が発足し、幹事長など多くが留任となりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "第2次高市改造内閣が17日に発足する予定で、古川氏の起用が調整されている。",
-          "span": "第２次高市改造内閣、１７日発足　古川氏起用で調整",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "男女平等調査で日本は145か国中117位であり、G7最下位が続いている。高市総理大臣は重要な政策転換実現に向け総力体制を表明した。内閣改造が17日に行われる。評価は割れる。",
-      "note": "プライバシー配慮のため、個別の政治参加や経済分野の後退に関する詳細な評価主体は特定せず、調査結果の事実として記述した。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimを「〜と述べている／と報じられている」の構造に修正しました。",
-          "factsのspanをより最小核に近づけました（例：「日本は145か国の中で117位となりました」→「日本は145か国中117位となった」）。",
-          "positionsのclaimを、元のテキストの語順や言い回しをなぞらないように修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "「よど号」赤木容疑者死亡か　国際手配中、滞在先の北朝鮮で",
-      "slug": "よど号赤木容疑者死亡か国際手配中滞在先の北朝鮮で",
+      "headline": "プロ野球元日本ハム、ウルフさん死去　４５歳、日本で通算５６勝",
+      "slug": "プロ野球元日本ハムウルフさん死去歳日本で通算勝",
       "independentSources": 2,
       "sources": [
         "Yahoo!ニュース 主要",
@@ -289,57 +330,55 @@
       "links": [
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595520?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6595597?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091601165&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026091700306&g=spo&m=rss"
         }
       ],
-      "issue": "「よど号」事件の赤木容疑者は死亡したか？",
+      "issue": "ブライアン・ウルフ氏の死去",
       "stasis": "事実",
       "facts": [
         {
-          "t": "「よど号」事件の赤木容疑者が死亡したと報じられている。",
-          "span": "赤木容疑者死亡か",
+          "t": "プロ野球元日本ハムファイターズのブライアン・ウルフ氏が45歳で死去した。",
+          "span": "プロ野球元日本ハム、ウルフさん死去　４５歳",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ウルフ氏は日本で通算56勝を記録した。",
+          "span": "日本で通算５６勝",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日本ハムファイターズはウルフ氏の死去に関してコメントを発表した。",
+          "span": "日ハムがコメント",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "赤木容疑者は国際手配中である。",
-          "span": "国際手配中",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "赤木容疑者は滞在先の北朝鮮で死亡したとされている。",
-          "span": "滞在先の北朝鮮で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "「よど号」事件の赤木容疑者が死亡したと報じられている。国際手配中であり、滞在先の北朝鮮で死亡したとされている。",
-      "note": "プライバシー保護のため、容疑者の氏名は伏せ字（赤木容疑者）として扱う。",
+      "consensus": "プロ野球元日本ハムのブライアン・ウルフ氏が45歳で死去したことは事実として報じられている。",
+      "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issueの記述が主題の提示に留まっていたため、「ブライアン・ウルフ氏の死去」に修正しました。"
+        ]
       }
     }
   ]
