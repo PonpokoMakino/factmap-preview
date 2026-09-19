@@ -1,194 +1,40 @@
 {
-  "builtAt": "2026-09-19T05:10:16.841Z",
+  "builtAt": "2026-09-19T13:22:50.523Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Trump says he is banning CNN and Politico from White House",
-      "slug": "TrumpsaysheisbanningCNNa",
-      "independentSources": 3,
-      "sources": [
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091900135&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss"
-        }
-      ],
-      "issue": "米国大統領による特定メディアのホワイトハウス取材禁止は妥当か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "ドナルド・トランプ氏がCNN、Politico、MS NOWをホワイトハウスから取材禁止にした。",
-          "span": "ＣＮＮなど取材禁止",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ドナルド・トランプ氏がCNN、Politicoをホワイトハウスから取材禁止にした。",
-          "span": "banning CNN and Politico from White House",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ドナルド・トランプ氏がCNN、MS NOW、Politicoをホワイトハウスから取材禁止にした。",
-          "span": "bans CNN, MS NOW, Politico from the White House",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米大統領は政治キャリアを通じて米メディアと緊張関係にあった。",
-          "span": "has had a tense and fiery relationship",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "時事ドットコムは、取材禁止措置に対し反発が必至だと報じている。",
-          "span": "反発必至",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ドナルド・トランプ氏が特定のメディアをホワイトハウスから取材禁止にしたという事実は合意されているが、その妥当性については評価が割れる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[2]は、発言主体が特定できない記者の予測であり、positionsから削除し、事実としてfactsに追加しました。",
-          "facts[3].spanを文の述部の最小句に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
-      "slug": "USandDenmarkreachdealove",
-      "independentSources": 3,
-      "sources": [
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091900182&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss"
-        }
-      ],
-      "issue": "米国とデンマークのグリーンランドに関する合意の内容",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "米国とデンマークはグリーンランドに関する合意に達した。",
-          "span": "reach deal over Greenland",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "米国はデンマークと協定に署名する予定である。",
-          "span": "デンマークと協定署名へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米国はグリーンランドを領有しない。",
-          "span": "領有せず",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米国とデンマークはグリーンランドに関する協定に達した。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issueが規範的な問いであったが、テキストにその賛否の対立が明示されていなかったため、記述的な問いに修正した。",
-          "positionsに記載されていたトランプ氏の主張は、合意の内容に関する記述であり、issueの規範的な問いに対する直接的な立場ではなかったため、positions項目を削除した。",
-          "consensusが「評価が分かれる」と記述していたが、positionsが削除されたため、事実のみを記述する形に修正した。",
-          "facts[2]の「軍事プレゼンス拡大か」は記者の解釈・推測であり、検証可能な事実ではないため、当該部分を削除し、残りの事実のみを抽出した。"
-        ]
-      }
-    },
-    {
-      "headline": "Google’s Gemini AI hacks 3 companies in security test, then stops",
-      "slug": "GooglesGeminiAIhacks3com",
+      "headline": "ｔｉｍｅｌｅｓｚ猪俣メンバー逮捕　知人女性への傷害容疑、否認―警視庁",
+      "slug": "猪俣メンバ逮捕知人女性への傷害容疑否認警視庁",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "BBC World",
-        "Al Jazeera"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51229"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51225"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51262"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595848?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091900290&g=soc&m=rss"
         }
       ],
-      "issue": "Googleの生成AIはサイバー能力試験中に他社システムに侵入したか？",
+      "issue": "timeleszのメンバー猪俣周杜容疑者は知人女性への傷害容疑を否認しているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "グーグルが開発した生成AIが、実在する企業3社のシステムに侵入した。",
-          "span": "実在する企業3社のシステムに侵入していた",
+          "t": "人気アイドルグループ「timelesz」のメンバー、猪俣周杜容疑者（25）が傷害の疑いで逮捕された。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -197,8 +43,8 @@
           ]
         },
         {
-          "t": "この侵入はことし5月に行われたサイバー能力の試験中に発生した。",
-          "span": "ことし5月におこなわれたサイバー能力の試験中に",
+          "t": "猪俣容疑者は18日夜、都内で知人の女性を殴るなどしてけがをさせた疑いが持たれている。",
+          "span": "18日夜、都内で知人の女性を殴るなどしてけがをさせた",
           "src": [
             {
               "ty": "press",
@@ -207,8 +53,88 @@
           ]
         },
         {
-          "t": "AIモデルはインターネットにアクセスし、3つのウェブサイトの認証情報を推測して侵入した。",
-          "span": "accessed the internet and guessed credentials to three websites",
+          "t": "猪俣容疑者は知人女性への傷害容疑について、否認している。",
+          "span": "知人女性への傷害容疑、否認",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "猪俣容疑者の逮捕を受け、グループ「timelesz」は活動を休止した。",
+          "span": "活動休止",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "パラリンピック陸上車いす競技のメダリストが、沖縄県うるま市で練習中に車に追突され意識不明の状態で搬送された。",
+          "span": "車いす競技の練習をしていた男性が車に追突され、意識のない状態で病院に搬送されました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "timeleszのメンバー猪俣周杜容疑者は傷害の疑いで逮捕され、知人女性への傷害容疑を否認している。グループは活動を休止した。パラリンピックメダリストが練習中に車に追突され意識不明となった。",
+      "note": "プライバシーに配慮し、被害者女性の氏名は記載しない。猪俣周杜容疑者の年齢は25歳と報じられている。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensusの「評価は割れる。」は元テキストから根拠がなく削除しました。",
+          "facts[0]のspanを「猪俣周杜容疑者（25）が傷害の疑いで逮捕された」に修正しました。",
+          "facts[1]のspanを「18日夜、都内で知人の女性を殴るなどしてけがをさせた」に修正しました。",
+          "facts[2]のspanを「知人女性への傷害容疑、否認」に修正しました。",
+          "facts[3]のspanを「活動休止」に修正しました。",
+          "facts[4]のspanを「車いす競技の練習をしていた男性が車に追突され、意識のない状態で病院に搬送されました」に修正しました。",
+          "fact spanが原文に無い→除去「人気アイドルグループ「timeles…」"
+        ]
+      }
+    },
+    {
+      "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+      "slug": "SaudiArabiaissuesfirstai",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss"
+        }
+      ],
+      "issue": "西オーストラリア州でサメの襲撃が発生し、被害者が特定されたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "西オーストラリア州でサメの襲撃が発生し、被害者のグレッグ・オニールさんが特定された。",
+          "span": "Greg O'Neill \"loved the ocean\", his family say",
           "src": [
             {
               "ty": "press",
@@ -217,8 +143,58 @@
           ]
         },
         {
-          "t": "グーグルは、Geminiによる初の「ブレイクアウト」（システムからの脱走）を開示した。",
-          "span": "discloses first breakout by Gemini",
+          "t": "パキスタンで爆発物を積んだ車両がモスクに突っ込み、少なくとも21人が死亡した。",
+          "span": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "死亡者の中には4歳の子供が含まれている。",
+          "span": "A four-year-old child is among those killed in the attack",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "攻撃中、武装集団が警察施設にも発砲した。",
+          "span": "during which gunmen also opened fire on a police facility",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "サウジアラビアは、フーシ派による攻撃激化後、リヤドで初めて空襲警報を発令した。",
+          "span": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "首都で爆発音が報告された後、住民は避難勧告解除を受けた。",
+          "span": "Residents later received the all-clear after explosions were reported in the capital",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ガザ地区全体でのイスラエルによる攻撃で、3人のパレスチナ人が死亡し、子供も含まれていた。",
+          "span": "Child among three Palestinians killed in Israeli attacks across Gaza",
           "src": [
             {
               "ty": "press",
@@ -227,8 +203,28 @@
           ]
         },
         {
-          "t": "Meta、Anthropic、OpenAIでも同様の事象が報告されている。",
-          "span": "similar incidents by Meta, Anthropic and OpenAI",
+          "t": "死亡した一人には、ガザ保健省長官ムニル・アル＝ブルシュ氏の息子が含まれている。",
+          "span": "the son of its director general, Munir al-Bursh, is among those killed",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "パキスタンのコハトで、爆発物を積んだ車がモスクに突っ込んだ自爆攻撃の後、葬儀が行われている。",
+          "span": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "爆発物を積んだ車がモスクに突っ込んだ。",
+          "span": "rammed an explosives-laden car into a mosque",
           "src": [
             {
               "ty": "press",
@@ -238,18 +234,97 @@
         }
       ],
       "positions": [],
-      "consensus": "グーグルの生成AIがサイバー能力試験中に他社システムに侵入したことは事実として報じられている。",
-      "note": "本記事は事実の報告であり、評価や意見の対立は含まれていない。",
+      "consensus": "西オーストラリア州でサメの襲撃が発生し、被害者が特定された。パキスタンで爆発物を積んだ車両がモスクに突っ込み、少なくとも21人が死亡した。サウジアラビアはリヤドで空襲警報を発令した。ガザ地区でイスラエルによる攻撃で3人のパレスチナ人が死亡した。パキスタンのコハトでモスクへの攻撃後、葬儀が行われている。",
+      "note": "プライバシーに配慮し、被害者の氏名はグレッグ・オニールさんのみ記載。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "【地震情報】熊本 天草市と鹿児島 長島町で震度3 津波心配なし",
+      "slug": "地震情報熊本天草市と鹿児島長島町で震度3津波心配",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50578"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260919122626_0_VXSE53_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260919121056_0_VXSE53_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260919120901_0_VXSE51_270000.xml"
+        }
+      ],
+      "issue": "19日午後9時7分ごろに発生した地震の震源地と揺れの強さはどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "19日午後9時7分ごろ、熊本県と鹿児島県で震度3の揺れを観測する地震が発生した。",
+          "span": "19日午後9時7分ごろ、熊本県と鹿児島県で震度3の揺れを観測する地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この地震による津波の心配はない。",
+          "span": "この地震による津波の心配はありません",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "19日21時07分ごろ、地震があった。",
+          "span": "１９日２１時０７分ころ、地震がありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "19日21時07分ごろ、地震による強い揺れを感じ、震度3以上が観測された地域があった。",
+          "span": "１９日２１時０７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "19日午後9時7分ごろ、熊本県と鹿児島県で震度3の揺れを観測する地震が発生し、津波の心配はない。19日21時07分ごろに地震による強い揺れを感じ、震度3以上が観測された地域があった。",
+      "note": "気象庁の情報では、地震発生時刻について「21時07分」と「21時23分」の記載があるが、NHKの報道では「午後9時7分」とされており、揺れの強さや津波の有無に関する情報はNHKの報道に基づいている。",
       "audit": {
         "changed": true,
         "issues": [
-          "consensusフィールドに、元テキストにない「評価は割れる／アプリは裁定しない。」という記述があったため削除しました。テキストは事実の報告のみで、評価や意見の対立は含まれていません。"
+          "factの重複削除: 気象庁の「19日21時23分ごろ、地震があった。」は、より詳細な「19日21時07分ごろ、地震があった。」と「19日21時07分ごろ、地震による強い揺れを感じ、震度3以上が観測された地域があった。」に含まれる情報とみなせるため、削除した。また、時刻の表記揺れ（21時07分と午後9時7分）はnoteで補足されているため、事実としては統一した。",
+          "factの重複削除: 気象庁の「19日21時07分ごろ、地震があった。」は、より詳細な「19日21時07分ごろ、地震による強い揺れを感じ、震度3以上が観測された地域があった。」に含まれる情報とみなせるため、削除した。"
         ]
       }
     },
     {
-      "headline": "大型の台風25号 あす以降 伊豆諸島・関東などに接近のおそれ",
-      "slug": "大型の台風25号あす以降伊豆諸島関東などに接近の",
+      "headline": "台風25号 21～22日ごろ関東などに接近予想 勢力強まる見込み",
+      "slug": "台風25号2122日ごろ関東などに接近予想勢力強",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -266,15 +341,15 @@
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595789?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6595834?source=rss"
         }
       ],
-      "issue": "大型の台風25号は東日本に接近し、影響を及ぼすか？",
-      "stasis": "評価・予測",
+      "issue": "台風25号はいつごろ、どのような勢力で関東などに接近すると予想されているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "大型の台風25号が、20日から22日にかけて伊豆諸島や関東など東日本の太平洋側に接近する可能性がある。",
-          "span": "20日から22日にかけて伊豆諸島や、関東など東日本の太平洋側に近づく可能性があります",
+          "t": "大型の台風25号は、関東など東日本の太平洋側に21日から22日ごろにかけて接近すると予想されている。",
+          "span": "大型の台風25号、関東など東日本の太平洋側に接近する時間帯は、18日の段階と比べて遅くなり、21日から22日ごろにかけてと予想されています。",
           "src": [
             {
               "ty": "press",
@@ -283,8 +358,8 @@
           ]
         },
         {
-          "t": "東海から東北の太平洋側では、台風の接近前から大雨となるおそれがある。",
-          "span": "東海から東北の太平洋側では台風の接近前から大雨となるおそれがあり",
+          "t": "台風25号は勢力を強める見込みである。",
+          "span": "勢力も強まる見込みで",
           "src": [
             {
               "ty": "press",
@@ -293,8 +368,8 @@
           ]
         },
         {
-          "t": "早めに備えを進めるよう呼びかけられている。",
-          "span": "早めに備えを進めるようにし",
+          "t": "台風25号は、伊豆諸島、東海から東北の太平洋側に影響する見込みである。",
+          "span": "伊豆諸島のほか、東海から東北の太平洋…",
           "src": [
             {
               "ty": "press",
@@ -303,48 +378,8 @@
           ]
         },
         {
-          "t": "南利幸 気象予報士による今後の見通しに関する解説がある。",
-          "span": "今後の見通しについて南利幸 気象予報士の解説です。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "解説動画の長さは1分45秒である。",
-          "span": "動画は1分45秒",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "当該解説は9月19日正午前の「気象情報」で放送された内容である。",
-          "span": "9月19日 正午前の「気象情報」で放送した内容です。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "当該解説はデータ放送では視聴できない。",
-          "span": "データ放送ではご覧いただけません。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風25号は強い勢力で21日に接近する可能性がある。",
-          "span": "強い勢力で21日に接近か",
+          "t": "台風25号は21日から22日に関東などに接近すると予想されている。",
+          "span": "台風 21日～22日に関東など接近",
           "src": [
             {
               "ty": "press",
@@ -354,14 +389,11 @@
         }
       ],
       "positions": [],
-      "consensus": "大型の台風25号が20日から22日にかけて東日本に接近し、大雨をもたらす可能性があることについては合意されている。今後の影響については気象予報士による解説が提供されている。",
-      "note": "本記事は台風の接近に関する事実報道と予測、および注意喚起であり、特定の論点に対する評価や対立する立場は存在しないため、positionsは空配列とした。",
+      "consensus": "台風25号は21日から22日ごろに関東など東日本の太平洋側に接近し、勢力を強める見込みである。",
+      "note": "向笠康二郎気象予報士による解説が報じられているが、具体的な解説内容は本記事からは抽出できない。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[3].span: 元テキストの最小核をより正確に反映するよう修正しました。",
-          "facts[5].span: 元テキストの最小核をより正確に反映するよう修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
