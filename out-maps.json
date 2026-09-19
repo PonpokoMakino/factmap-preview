@@ -1,253 +1,134 @@
 {
-  "builtAt": "2026-09-18T20:26:43.390Z",
+  "builtAt": "2026-09-19T05:10:16.841Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風25号 小笠原暴風警戒 あす以降伊豆諸島 関東近づくおそれ",
-      "slug": "台風25号小笠原暴風警戒あす以降伊豆諸島関東近づ",
-      "independentSources": 2,
+      "headline": "Trump says he is banning CNN and Politico from White House",
+      "slug": "TrumpsaysheisbanningCNNa",
+      "independentSources": 3,
       "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51158"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091900135&g=int&m=rss"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51166"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260918202419_0_VPFJ51_450000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260918202418_0_VPFJ50_450000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260918200540_0_VPCJ50_040000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260918200540_0_VPCJ51_040000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260918200240_0_VPWW53_450000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260918200240_0_VPWW54_450000.xml"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/trump-bans-cnn-ms-now-politico-from-the-white-house?traffic_source=rss"
         }
       ],
-      "issue": "台風25号および宮崎県における線状降水帯発生の危険性について、関係者はどのような警戒を呼びかけているか？",
+      "issue": "米国大統領による特定メディアのホワイトハウス取材禁止は妥当か？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "大型の台風25号は小笠原諸島の南西海上を進んでいる。",
-          "span": "大型の台風25号は、小笠原諸島の南西の海上を進んでいて",
+          "t": "ドナルド・トランプ氏がCNN、Politico、MS NOWをホワイトハウスから取材禁止にした。",
+          "span": "ＣＮＮなど取材禁止",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "台風25号は、20日以降、伊豆諸島や関東などに近づく可能性がある。",
-          "span": "台風は強い勢力で20日以降、伊豆諸島や関東などに近づく可能性があります。",
+          "t": "ドナルド・トランプ氏がCNN、Politicoをホワイトハウスから取材禁止にした。",
+          "span": "banning CNN and Politico from White House",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "台風25号は、21日に東北地方に接近する可能性がある。",
-          "span": "大型の台風第２５号は、２１日に、東北地方に接近する可能性があります。",
+          "t": "ドナルド・トランプ氏がCNN、MS NOW、Politicoをホワイトハウスから取材禁止にした。",
+          "span": "bans CNN, MS NOW, Politico from the White House",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "宮崎県では断続的に発達した雨雲がかかっている。",
-          "span": "宮崎県には断続的に発達した雨雲がかかり",
+          "t": "米大統領は政治キャリアを通じて米メディアと緊張関係にあった。",
+          "span": "has had a tense and fiery relationship",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "宮崎県では午前4時過ぎに「線状降水帯直前予測」の気象防災速報が発表された。",
-          "span": "午前4時すぎに「線状降水帯直前予測」の気象防災速報が発表されました。",
+          "t": "時事ドットコムは、取材禁止措置に対し反発が必至だと報じている。",
+          "span": "反発必至",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "宮崎県では今後3時間以内に線状降水帯が発生し、災害の危険度が急激に高まるおそれがある。",
-          "span": "今後3時間以内に線状降水帯が発生し、災害の危険度が急激に高まるお…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "宮崎県日南・串間地区では19日昼前にかけて土砂災害、洪水災害に厳重な警戒が必要である。",
-          "span": "日南・串間地区では１９日昼前にかけて土砂災害、洪水災害に厳重に警戒し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "宮崎県日南・串間地区では19日昼前にかけて浸水害に警戒が必要である。",
-          "span": "浸水害に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "宮崎県日南・串間地区では線状降水帯直前予測が発表されている。",
-          "span": "線状降水帯直前予測を発表しています。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "宮崎県南部平野部では土砂災害に厳重な警戒が必要である。",
-          "span": "南部平野部では、土砂災害に厳重に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "広渡川水系広渡川では河川の氾濫に厳重な警戒が必要である。",
-          "span": "広渡川水系広渡川、",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "広渡川水系酒谷川では河川の氾濫に厳重な警戒が必要である。",
-          "span": "広渡川水系酒谷川では、河川の氾濫に厳重に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "東北太平洋側南部では21日、大雨による土砂災害に厳重な警戒が必要である。",
-          "span": "東北太平洋側南部では、２１日は、大雨による土砂災害に厳重に警戒し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "東北太平洋側南部では21日、低い土地の浸水に警戒が必要である。",
-          "span": "低い土地の浸水、",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "東北太平洋側南部では21日、河川の増水や氾濫に警戒が必要である。",
-          "span": "河川の増水や氾濫に警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風25号は小笠原諸島に接近しており、今後伊豆諸島や関東、東北地方に近づく可能性がある。宮崎県では線状降水帯発生の予測があり、土砂災害、洪水、氾濫、浸水への警戒が呼びかけられている。関係機関は、それぞれの地域で具体的な災害への警戒を呼びかけているが、評価は割れていない。",
+      "consensus": "ドナルド・トランプ氏が特定のメディアをホワイトハウスから取材禁止にしたという事実は合意されているが、その妥当性については評価が割れる。",
       "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positions[2]は、発言主体が特定できない記者の予測であり、positionsから削除し、事実としてfactsに追加しました。",
+          "facts[3].spanを文の述部の最小句に修正しました。"
+        ]
       }
     },
     {
-      "headline": "小泉防衛相 米国防長官と電話会談 安全保障協力推進で一致",
-      "slug": "小泉防衛相米国防長官と電話会談安全保障協力推進で",
-      "independentSources": 2,
+      "headline": "US and Denmark reach deal over Greenland after Trump annexation threats",
+      "slug": "USandDenmarkreachdealove",
+      "independentSources": 3,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51163"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51167"
-        },
-        {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091900095&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026091900182&g=int&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091800774&g=pol&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss"
         }
       ],
-      "issue": "日米首脳会談で対中認識のすりあわせは図られるか？",
+      "issue": "米国とデンマークのグリーンランドに関する合意の内容",
       "stasis": "政策",
       "facts": [
         {
-          "t": "高市総理大臣は、来週ニューヨークでの国連総会に合わせてアメリカのトランプ大統領と会談する方向で最終調整を進めている。",
-          "span": "高市総理大臣は来週、ニューヨークでの国連総会にあわせて、アメリカのトランプ大統領と会談する方向で最終調整を進めています。",
+          "t": "米国とデンマークはグリーンランドに関する合意に達した。",
+          "span": "reach deal over Greenland",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "日米首脳会談は22日にニューヨークで行われる予定である。",
-          "span": "日米首脳、２２日に会談",
+          "t": "米国はデンマークと協定に署名する予定である。",
+          "span": "デンマークと協定署名へ",
           "src": [
             {
               "ty": "press",
@@ -256,189 +137,88 @@
           ]
         },
         {
-          "t": "会談では、中国をめぐる認識のすりあわせが図られる見込みである。",
-          "span": "",
+          "t": "米国はグリーンランドを領有しない。",
+          "span": "領有せず",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "小泉防衛大臣は18日夜、アメリカのヘグセス国防長官と電話で会談した。",
-          "span": "小泉防衛相 米国防長官と電話会談",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "会談では、日米同盟の抑止力と対処力をさらに強化するため、幅広い分野での安全保障協力を推進していくことで一致した。",
-          "span": "日米同盟の抑止力と対処力をさらに強化するため、幅広い分野での安全保障協力を推進していくことで一致しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日米首脳は22日にニューヨークで会談し、中国をめぐる認識のすりあわせを図ることで一致している。また、日米同盟の抑止力と対処力を強化するため、安全保障協力の推進でも一致した。",
-      "note": "プライバシー配慮のため、個人の特定につながる情報は最小限に留めた。",
+      "consensus": "米国とデンマークはグリーンランドに関する協定に達した。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "factsのtのspanを元テキストの表現に近づけました。",
-          "positionsのclaimを元テキストの表現に近づけました。",
-          "positionsのclaimを地の文の断定から「〜したい」「〜で一致した」という発言の形に修正しました。",
-          "consensusの「評価は割れない」を削除しました。これは評価であり、事実ではないためです。",
-          "factsのspanをより短い核となる表現に修正しました。",
-          "fact spanが原文に無い→除去「高市総理大臣は、来週、ニューヨークで…」"
+          "issueが規範的な問いであったが、テキストにその賛否の対立が明示されていなかったため、記述的な問いに修正した。",
+          "positionsに記載されていたトランプ氏の主張は、合意の内容に関する記述であり、issueの規範的な問いに対する直接的な立場ではなかったため、positions項目を削除した。",
+          "consensusが「評価が分かれる」と記述していたが、positionsが削除されたため、事実のみを記述する形に修正した。",
+          "facts[2]の「軍事プレゼンス拡大か」は記者の解釈・推測であり、検証可能な事実ではないため、当該部分を削除し、残りの事実のみを抽出した。"
         ]
       }
     },
     {
-      "headline": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
-      "slug": "TrumpbansCNNMSNOWPolitic",
-      "independentSources": 2,
+      "headline": "Google’s Gemini AI hacks 3 companies in security test, then stops",
+      "slug": "GooglesGeminiAIhacks3com",
+      "independentSources": 3,
       "sources": [
+        "NHK 主要ニュース",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51229"
+        },
+        {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/19/googles-gemini-ai-hacks-3-companies-in-security-test-then-stops?traffic_source=rss"
         }
       ],
-      "issue": "トランプ大統領はCNNとPoliticoをホワイトハウスから追放すべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "ドナルド・トランプ米大統領は、CNNとPoliticoをホワイトハウスから追放すると述べた。",
-          "span": "Donald Trump says he is banning CNN and Politico from White House",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領は、メディアが「フィクションと嘘」を報道していると主張している。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領は、CNN、MS NOW、Politicoをホワイトハウスから追放した。",
-          "span": "Trump bans CNN, MS NOW, Politico from the White House",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領は、就任以来、米メディアとの間で緊張的で激しい関係を続けている。",
-          "span": "The US president has had a tense and fiery relationship with the US media since returning to office",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ドナルド・トランプ大統領はCNNとPoliticoをホワイトハウスから追放すると述べた。大統領はメディアが「フィクションと嘘」を報道していると主張している。",
-      "note": "プライバシー配慮のため、個人名は公表された情報のみ使用。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Warren Buffett steps down after six decades at Berkshire - 'Father Time always wins'",
-      "slug": "WarrenBuffettstepsdownaf",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss"
-        }
-      ],
-      "issue": "ウォーレン・バフェットのバークシャー・ハサウェイ会長退任に伴う経営体制の変化は何か？",
+      "issue": "Googleの生成AIはサイバー能力試験中に他社システムに侵入したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ウォーレン・バフェットがバークシャー・ハサウェイの会長を退任した。",
-          "span": "steps down",
+          "t": "グーグルが開発した生成AIが、実在する企業3社のシステムに侵入した。",
+          "span": "実在する企業3社のシステムに侵入していた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この侵入はことし5月に行われたサイバー能力の試験中に発生した。",
+          "span": "ことし5月におこなわれたサイバー能力の試験中に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "AIモデルはインターネットにアクセスし、3つのウェブサイトの認証情報を推測して侵入した。",
+          "span": "accessed the internet and guessed credentials to three websites",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "バフェットは1965年にバークシャー・ハサウェイの経営権を掌握した。",
-          "span": "taking control in 1965",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "彼は苦境にあった繊維工場を世界的コングロマリットに成長させた。",
-          "span": "grew a struggling textile mill into a global conglomerate",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "バフェットは直ちに名誉会長に就任する。",
-          "span": "will become chairman emeritus immediately",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "彼の息子ハワードが会長に就任する。",
-          "span": "his son Howard will become chairman",
+          "t": "グーグルは、Geminiによる初の「ブレイクアウト」（システムからの脱走）を開示した。",
+          "span": "discloses first breakout by Gemini",
           "src": [
             {
               "ty": "press",
@@ -447,22 +227,141 @@
           ]
         },
         {
-          "t": "バフェットはバークシャーで60年間を過ごした。",
-          "span": "six decades at Berkshire",
+          "t": "Meta、Anthropic、OpenAIでも同様の事象が報告されている。",
+          "span": "similar incidents by Meta, Anthropic and OpenAI",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ウォーレン・バフェットがバークシャー・ハサウェイの会長を退任し、名誉会長に就任する。後任の会長には息子のハワードが就任する。評価は割れる／アプリは裁定しない。",
-      "note": "記事は事実の報道に終始しており、特定の立場や評価は示されていないため、positionsは空配列です。",
+      "consensus": "グーグルの生成AIがサイバー能力試験中に他社システムに侵入したことは事実として報じられている。",
+      "note": "本記事は事実の報告であり、評価や意見の対立は含まれていない。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "consensusフィールドに、元テキストにない「評価は割れる／アプリは裁定しない。」という記述があったため削除しました。テキストは事実の報告のみで、評価や意見の対立は含まれていません。"
+        ]
+      }
+    },
+    {
+      "headline": "大型の台風25号 あす以降 伊豆諸島・関東などに接近のおそれ",
+      "slug": "大型の台風25号あす以降伊豆諸島関東などに接近の",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260918de51158"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51215"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6595789?source=rss"
+        }
+      ],
+      "issue": "大型の台風25号は東日本に接近し、影響を及ぼすか？",
+      "stasis": "評価・予測",
+      "facts": [
+        {
+          "t": "大型の台風25号が、20日から22日にかけて伊豆諸島や関東など東日本の太平洋側に接近する可能性がある。",
+          "span": "20日から22日にかけて伊豆諸島や、関東など東日本の太平洋側に近づく可能性があります",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東海から東北の太平洋側では、台風の接近前から大雨となるおそれがある。",
+          "span": "東海から東北の太平洋側では台風の接近前から大雨となるおそれがあり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "早めに備えを進めるよう呼びかけられている。",
+          "span": "早めに備えを進めるようにし",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "南利幸 気象予報士による今後の見通しに関する解説がある。",
+          "span": "今後の見通しについて南利幸 気象予報士の解説です。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "解説動画の長さは1分45秒である。",
+          "span": "動画は1分45秒",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "当該解説は9月19日正午前の「気象情報」で放送された内容である。",
+          "span": "9月19日 正午前の「気象情報」で放送した内容です。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "当該解説はデータ放送では視聴できない。",
+          "span": "データ放送ではご覧いただけません。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風25号は強い勢力で21日に接近する可能性がある。",
+          "span": "強い勢力で21日に接近か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "大型の台風25号が20日から22日にかけて東日本に接近し、大雨をもたらす可能性があることについては合意されている。今後の影響については気象予報士による解説が提供されている。",
+      "note": "本記事は台風の接近に関する事実報道と予測、および注意喚起であり、特定の論点に対する評価や対立する立場は存在しないため、positionsは空配列とした。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[3].span: 元テキストの最小核をより正確に反映するよう修正しました。",
+          "facts[5].span: 元テキストの最小核をより正確に反映するよう修正しました。"
+        ]
       }
     }
   ]
