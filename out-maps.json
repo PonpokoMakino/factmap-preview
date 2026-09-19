@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-09-19T13:22:50.523Z",
+  "builtAt": "2026-09-19T18:55:50.113Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "ｔｉｍｅｌｅｓｚ猪俣メンバー逮捕　知人女性への傷害容疑、否認―警視庁",
-      "slug": "猪俣メンバ逮捕知人女性への傷害容疑否認警視庁",
+      "headline": "ラグビー 日本がフィジーに勝ち国際大会優勝 W杯へ成長示す",
+      "slug": "ラグビ日本がフィジに勝ち国際大会優勝W杯へ成長示",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,27 +14,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51225"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51262"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51284"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6595848?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6595855?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026091900290&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026091900489&g=spo&m=rss"
         }
       ],
-      "issue": "timeleszのメンバー猪俣周杜容疑者は知人女性への傷害容疑を否認しているか？",
+      "issue": "ラグビー日本代表はパシフィックネーションズカップで優勝したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "人気アイドルグループ「timelesz」のメンバー、猪俣周杜容疑者（25）が傷害の疑いで逮捕された。",
-          "span": "",
+          "t": "ラグビー日本代表が国際大会「パシフィックネーションズカップ」で優勝した。",
+          "span": "国際大会優勝",
           "src": [
             {
               "ty": "press",
@@ -43,8 +39,8 @@
           ]
         },
         {
-          "t": "猪俣容疑者は18日夜、都内で知人の女性を殴るなどしてけがをさせた疑いが持たれている。",
-          "span": "18日夜、都内で知人の女性を殴るなどしてけがをさせた",
+          "t": "決勝でフィジー代表と対戦し、20対15で勝利した。",
+          "span": "20対15で競り勝ち",
           "src": [
             {
               "ty": "press",
@@ -53,18 +49,18 @@
           ]
         },
         {
-          "t": "猪俣容疑者は知人女性への傷害容疑について、否認している。",
-          "span": "知人女性への傷害容疑、否認",
+          "t": "7年ぶり4回目の優勝となった。",
+          "span": "7年ぶり4回目の優勝",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "猪俣容疑者の逮捕を受け、グループ「timelesz」は活動を休止した。",
-          "span": "活動休止",
+          "t": "ラグビー日本代表がPNCで7年ぶりに優勝した。",
+          "span": "7年ぶりにPNC優勝",
           "src": [
             {
               "ty": "press",
@@ -73,35 +69,100 @@
           ]
         },
         {
-          "t": "パラリンピック陸上車いす競技のメダリストが、沖縄県うるま市で練習中に車に追突され意識不明の状態で搬送された。",
-          "span": "車いす競技の練習をしていた男性が車に追突され、意識のない状態で病院に搬送されました",
+          "t": "日本代表は攻守に主導権を握り、フィジーの攻撃を封じて勝利した。",
+          "span": "攻守に主導権、難敵撃破　フィジーの攻撃封じた日本",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ラグビー日本代表はパシフィックネーションズカップでフィジー代表に20対15で勝利し、7年ぶり4回目の優勝を果たした。日本代表は攻守に主導権を握り、フィジーの攻撃を封じた。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0].span \"ラグビー 日本がフィジーに勝ち国際大会優勝\" を \"国際大会優勝\" に修正しました。spanは最小核にすべきという観点に基づきます。"
+        ]
+      }
+    },
+    {
+      "headline": "timeleszの猪俣周杜容疑者を逮捕 知人女性に暴行か 活動休止に",
+      "slug": "timeleszの猪俣周杜容疑者を逮捕知人女性に",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51225"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51281"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51262"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026091900290&g=soc&m=rss"
+        }
+      ],
+      "issue": "timeleszの猪俣周杜容疑者は知人女性への傷害容疑を否認しているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "人気アイドルグループ「timelesz」のメンバー、猪俣周杜容疑者（25）が、知人の女性に暴行を加えてけがをさせた傷害の疑いで逮捕された。",
+          "span": "知人の女性を殴るなどしてけがをさせたとして、傷害の疑いで逮捕された",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
+        },
+        {
+          "t": "逮捕は18日夜、都内で行われた。",
+          "span": "18日夜、都内で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "猪俣周杜容疑者は、知人女性への傷害容疑について、否認している。",
+          "span": "知人女性への傷害容疑、否認",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "timeleszのメンバー猪俣周杜容疑者は傷害の疑いで逮捕され、知人女性への傷害容疑を否認している。グループは活動を休止した。パラリンピックメダリストが練習中に車に追突され意識不明となった。",
-      "note": "プライバシーに配慮し、被害者女性の氏名は記載しない。猪俣周杜容疑者の年齢は25歳と報じられている。",
+      "consensus": "timeleszの猪俣周杜容疑者は、知人女性への傷害容疑で逮捕されたが、容疑を否認している。",
+      "note": "プライバシーに配慮し、被害者の実名は伏せています。",
       "audit": {
         "changed": true,
         "issues": [
-          "consensusの「評価は割れる。」は元テキストから根拠がなく削除しました。",
-          "facts[0]のspanを「猪俣周杜容疑者（25）が傷害の疑いで逮捕された」に修正しました。",
-          "facts[1]のspanを「18日夜、都内で知人の女性を殴るなどしてけがをさせた」に修正しました。",
-          "facts[2]のspanを「知人女性への傷害容疑、否認」に修正しました。",
-          "facts[3]のspanを「活動休止」に修正しました。",
-          "facts[4]のspanを「車いす競技の練習をしていた男性が車に追突され、意識のない状態で病院に搬送されました」に修正しました。",
+          "facts[0].spanを元テキストのより具体的な表現に修正しました。",
           "fact spanが原文に無い→除去「人気アイドルグループ「timeles…」"
         ]
       }
     },
     {
-      "headline": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-      "slug": "SaudiArabiaissuesfirstai",
+      "headline": "Brighton beat Arsenal 3-0 as Man City top Premier League without playing",
+      "slug": "BrightonbeatArsenal30asM",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -110,31 +171,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqwyzdnk442lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/19/cuba-works-to-restore-power-after-another-major-nationwide-blackout?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/19-09-sv-kohat-funerals-pakistan-pk?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/9/19/brighton-beat-arsenal-3-0-as-man-city-top-premier-league-without-playing?traffic_source=rss"
         }
       ],
-      "issue": "西オーストラリア州でサメの襲撃が発生し、被害者が特定されたか？",
+      "issue": "キューバで大規模停電が発生しているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "西オーストラリア州でサメの襲撃が発生し、被害者のグレッグ・オニールさんが特定された。",
-          "span": "Greg O'Neill \"loved the ocean\", his family say",
+          "t": "キューバで大規模な停電が発生し、数百万人が電力供給を受けていない。",
+          "span": "Millions without power as Cuba hit by latest major blackout",
           "src": [
             {
               "ty": "press",
@@ -143,58 +196,8 @@
           ]
         },
         {
-          "t": "パキスタンで爆発物を積んだ車両がモスクに突っ込み、少なくとも21人が死亡した。",
-          "span": "At least 21 killed after vehicle loaded with explosives rams Pakistan mosque",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "死亡者の中には4歳の子供が含まれている。",
-          "span": "A four-year-old child is among those killed in the attack",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "攻撃中、武装集団が警察施設にも発砲した。",
-          "span": "during which gunmen also opened fire on a police facility",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "サウジアラビアは、フーシ派による攻撃激化後、リヤドで初めて空襲警報を発令した。",
-          "span": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "首都で爆発音が報告された後、住民は避難勧告解除を受けた。",
-          "span": "Residents later received the all-clear after explosions were reported in the capital",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ガザ地区全体でのイスラエルによる攻撃で、3人のパレスチナ人が死亡し、子供も含まれていた。",
-          "span": "Child among three Palestinians killed in Israeli attacks across Gaza",
+          "t": "キューバで再び大規模な全国規模の停電が発生した。",
+          "span": "another major nationwide blackout",
           "src": [
             {
               "ty": "press",
@@ -203,8 +206,8 @@
           ]
         },
         {
-          "t": "死亡した一人には、ガザ保健省長官ムニル・アル＝ブルシュ氏の息子が含まれている。",
-          "span": "the son of its director general, Munir al-Bursh, is among those killed",
+          "t": "今年に入って少なくとも6回の停電が発生している。",
+          "span": "at least the sixth one this year",
           "src": [
             {
               "ty": "press",
@@ -213,8 +216,8 @@
           ]
         },
         {
-          "t": "パキスタンのコハトで、爆発物を積んだ車がモスクに突っ込んだ自爆攻撃の後、葬儀が行われている。",
-          "span": "Funerals held after deadly mosque attack in Pakistan’s Kohat",
+          "t": "ブライトンがアーセナルに3-0で勝利した。",
+          "span": "Brighton beat Arsenal 3-0",
           "src": [
             {
               "ty": "press",
@@ -223,8 +226,18 @@
           ]
         },
         {
-          "t": "爆発物を積んだ車がモスクに突っ込んだ。",
-          "span": "rammed an explosives-laden car into a mosque",
+          "t": "アーセナルはブライトンに3-0で敗れ、プレミアリーグ首位の座を明け渡した。",
+          "span": "Arsenal suffer shock 3-0 loss at Brighton to lose top spot in the Premier League",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "マンチェスター・シティが試合をせずにプレミアリーグ首位に立った。",
+          "span": "as Man City top Premier League without playing",
           "src": [
             {
               "ty": "press",
@@ -234,92 +247,11 @@
         }
       ],
       "positions": [],
-      "consensus": "西オーストラリア州でサメの襲撃が発生し、被害者が特定された。パキスタンで爆発物を積んだ車両がモスクに突っ込み、少なくとも21人が死亡した。サウジアラビアはリヤドで空襲警報を発令した。ガザ地区でイスラエルによる攻撃で3人のパレスチナ人が死亡した。パキスタンのコハトでモスクへの攻撃後、葬儀が行われている。",
-      "note": "プライバシーに配慮し、被害者の氏名はグレッグ・オニールさんのみ記載。",
+      "consensus": "キューバで大規模な停電が発生し、数百万人が電力供給を受けていない。ブライトンがアーセナルに3-0で勝利し、マンチェスター・シティが試合をせずにプレミアリーグ首位に立った。",
+      "note": "プライバシー配慮のため、キューバの停電に関する個別の被害者や容疑者の情報は含まれていません。サッカーの試合結果に関する情報は、公的なイベントであるため含まれています。",
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "【地震情報】熊本 天草市と鹿児島 長島町で震度3 津波心配なし",
-      "slug": "地震情報熊本天草市と鹿児島長島町で震度3津波心配",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 地震・火山"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260916de50578"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260919122626_0_VXSE53_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260919121056_0_VXSE53_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260919120901_0_VXSE51_270000.xml"
-        }
-      ],
-      "issue": "19日午後9時7分ごろに発生した地震の震源地と揺れの強さはどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "19日午後9時7分ごろ、熊本県と鹿児島県で震度3の揺れを観測する地震が発生した。",
-          "span": "19日午後9時7分ごろ、熊本県と鹿児島県で震度3の揺れを観測する地震がありました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この地震による津波の心配はない。",
-          "span": "この地震による津波の心配はありません",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "19日21時07分ごろ、地震があった。",
-          "span": "１９日２１時０７分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "19日21時07分ごろ、地震による強い揺れを感じ、震度3以上が観測された地域があった。",
-          "span": "１９日２１時０７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "19日午後9時7分ごろ、熊本県と鹿児島県で震度3の揺れを観測する地震が発生し、津波の心配はない。19日21時07分ごろに地震による強い揺れを感じ、震度3以上が観測された地域があった。",
-      "note": "気象庁の情報では、地震発生時刻について「21時07分」と「21時23分」の記載があるが、NHKの報道では「午後9時7分」とされており、揺れの強さや津波の有無に関する情報はNHKの報道に基づいている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factの重複削除: 気象庁の「19日21時23分ごろ、地震があった。」は、より詳細な「19日21時07分ごろ、地震があった。」と「19日21時07分ごろ、地震による強い揺れを感じ、震度3以上が観測された地域があった。」に含まれる情報とみなせるため、削除した。また、時刻の表記揺れ（21時07分と午後9時7分）はnoteで補足されているため、事実としては統一した。",
-          "factの重複削除: 気象庁の「19日21時07分ごろ、地震があった。」は、より詳細な「19日21時07分ごろ、地震による強い揺れを感じ、震度3以上が観測された地域があった。」に含まれる情報とみなせるため、削除した。"
-        ]
       }
     },
     {
