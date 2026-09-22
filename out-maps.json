@@ -1,72 +1,250 @@
 {
-  "builtAt": "2026-09-21T23:49:45.416Z",
+  "builtAt": "2026-09-22T07:25:51.700Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】",
-      "slug": "台風25号交通影響続く首都圏の鉄道運転見合わせ2",
-      "independentSources": 3,
+      "headline": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
+      "slug": "IranmuststoparmingHouthi",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51748"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51710"
         },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51835"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51851"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092200315&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/22/houthis-battle-for-strategic-heights-in-yemen-as-thousands-more-flee-homes?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/22/us-strikes-on-alleged-drug-boats-may-be-crimes-against-humanity-un-says?traffic_source=rss"
+        }
+      ],
+      "issue": "イエメンの反政府勢力フーシ派によるサウジアラビアへの攻撃に対し、国際社会は軍事行動を含む強硬な対応を取るべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "イエメンの反政府勢力フーシ派はイランの支援を受けている。",
+          "span": "イランの支援を受ける",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "フーシ派は対立するサウジアラビアへの攻撃を強めている。",
+          "span": "サウジアラビアへの攻撃を強める",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領はサウジアラビアの要請を受け、フーシ派への空爆準備を指示した。",
+          "span": "フーシ派への空爆を準備するよう指示した",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領は空爆指示を直前になって撤回した。",
+          "span": "直前になって",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "日本政府は、高市総理大臣とトランプ大統領との日米首脳会談を日本時間23日午前にニューヨークで行うと正式に発表した。",
+          "span": "日米首脳会談を日本時間の23日午前、国連総会が開かれているアメリカ・ニューヨークで行うと正式に発表しました",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "G7外相会合がニューヨークで開かれた。",
+          "span": "G7＝主要7か国の外相会合がニューヨークで開かれ",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "中国主席は24日にトランプ氏と会談するため、3年ぶりに訪米する。",
+          "span": "３年ぶり訪米へ　２４日にトランプ氏と会談",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "イエメンではフーシ派とサウジアラビア支援勢力との間で戦闘が激化している。",
+          "span": "escalate war",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "国連総会の一般討論は9月22日に始まる。",
+          "span": "September 22 marks the start of the general debate",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イエメンの反政府勢力フーシ派がイランの支援を受け、サウジアラビアへの攻撃を強めている。評価は割れる／アプリは裁定しない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[4].spanが空だったので、元テキストから適切なspanを抽出して追加しました。",
+          "positionsのclaimがメタ記述になっていなかったので、「〜と述べている／と報じられている」の形式に修正しました。",
+          "fact spanが原文に無い→除去「日米首脳会談を日本時間の23日午前、…」"
+        ]
+      }
+    },
+    {
+      "headline": "【台風被害】 神奈川と千葉で4人死亡6人不明 住宅被害470棟余",
+      "slug": "台風被害神奈川と千葉で4人死亡6人不明住宅被害4",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
         {
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20260922de51778"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51808"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51748"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51800"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6596089?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6596092?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092200259&g=soc&m=rss"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260921231654_0_VPWW54_130000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260922070848_0_VPWW54_120000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260921231654_0_VPWW53_130000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260922070848_0_VPWW53_120000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260921231640_0_VPWW56_130000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260922070841_0_VPWW55_120000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260921225404_0_VPWW54_130000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260922070841_0_VPWW56_120000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260921225404_0_VPWW53_130000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260922070521_0_VPWW54_140000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260921225359_0_VPWW56_130000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260922070521_0_VPWW53_140000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260922070510_0_VPWW56_140000.xml"
         }
       ],
-      "issue": "台風25号は日本にどのような影響をもたらし、今後の警戒事項は何か？",
+      "issue": null,
       "stasis": "事実",
       "facts": [
         {
-          "t": "強い台風25号の影響で、関東や伊豆諸島では記録的な大雨となった。",
-          "span": "記録的な大雨となり",
+          "t": "台風25号に伴う大雨の影響で、21日に神奈川県と千葉県で土砂崩れが相次いで発生した。",
+          "span": "台風25号に伴う大雨の影響で21日、神奈川県や千葉県では土砂崩れが相次ぎ",
           "src": [
             {
               "ty": "press",
@@ -75,8 +253,22 @@
           ]
         },
         {
-          "t": "台風25号の影響により、土砂災害や川の氾濫が相次いだ。",
-          "span": "土砂災害や川の氾濫が相次ぎました",
+          "t": "これまでに4人が死亡し、6人の行方が分からなくなっており、警察や消防が捜索活動を続けている。",
+          "span": "4人が死亡したほか、6人の行方が分からなくなっていて、警察や消防が捜索活動を続けています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "台風25号の影響により、関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫による浸水被害が相次いだ。",
+          "span": "関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫による浸水被害が相次ぎました",
           "src": [
             {
               "ty": "press",
@@ -85,8 +277,8 @@
           ]
         },
         {
-          "t": "21日、神奈川県や千葉県では土砂崩れが相次いだ。",
-          "span": "神奈川県や千葉県では土砂崩れが相次ぎ",
+          "t": "22日は広い範囲で晴れているものの、これまでの雨で地盤が緩んだり浸水が続いたりしている状況である。",
+          "span": "22日は広い範囲で晴れていますが、これまでの雨で地盤が緩んでいたり浸水が続いていたりしてい",
           "src": [
             {
               "ty": "press",
@@ -95,28 +287,163 @@
           ]
         },
         {
-          "t": "神奈川県と千葉県で50代と60代の2人が死亡し、4人が行方不明となっている。",
-          "span": "50代と60代の2人が死亡したほか、4人の行方が分からなくなっています",
+          "t": "神奈川県と千葉県は自衛隊に対し災害派遣を要請した。",
+          "span": "自衛隊に災害派遣要請",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "警察と消防は22日も行方不明者の捜索を続ける予定である。",
-          "span": "警察と消防は22日も捜索を続けることにしています",
+          "t": "気象庁は千葉県に対し、南部での土砂災害、県全体での低い土地の浸水、北東部での河川の増水、北東部および南部での高波に注意するよう呼びかけている。",
+          "span": "南部では、土砂災害に注意してください。千葉県では、低い土地の浸水に注意してください。北東部では、河川の増水に注意してください。北東部、南部では、高波に注意してください。",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "台風25号の影響により、首都圏の鉄道で運転見合わせなど交通機関への影響が続いている。",
-          "span": "交通影響続く 首都圏の鉄道 運転見合わせ",
+          "t": "気象庁は神奈川県に対し、東部での土砂災害に注意するよう呼びかけている。",
+          "span": "東部では、土砂災害に注意してください。",
+          "src": [
+            {
+              "ty": "prim",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風25号による大雨で神奈川県と千葉県を中心に土砂災害や浸水被害が発生し、人的被害も出ている。気象庁は引き続き警戒を呼びかけている。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "【地震情報】茨城県で震度3 津波の心配なし",
+      "slug": "地震情報茨城県で震度3津波の心配なし",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51863"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260922063746_0_VXSE53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260922063555_0_VXSE51_270000.xml"
+        }
+      ],
+      "issue": "茨城県で発生した地震の状況はどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "茨城県で震度3の地震が発生した。",
+          "span": "震度3を観測する地震",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "prim",
+              "l": "気象庁"
+            }
+          ]
+        },
+        {
+          "t": "この地震による津波の心配はない。",
+          "span": "津波の心配はありません",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "地震は22日午後3時34分ごろに発生した。",
+          "span": "22日午後3時34分ごろ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "prim",
+              "l": "気象庁"
+            }
+          ]
+        },
+        {
+          "t": "震度3を観測したのは水戸市、石岡市、笠間市である。",
+          "span": "水戸市と石岡市、笠間市",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "茨城県の他の地域では震度2や1の揺れが観測された。",
+          "span": "震度2や1の揺れを茨城",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "茨城県で震度3の地震が発生し、津波の心配はない。本件に関する評価は割れていない。",
+      "note": "本記事は事実報道のみであり、評価や意見の対立は存在しないため、positionsは空配列です。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0].span: 文の最小核に削るため、「茨城県で震度3を観測する地震がありました」を「震度3を観測する地震」に修正しました。",
+          "facts[3].span: 文の最小核に削るため、「水戸市と石岡市、笠間市です」を「水戸市と石岡市、笠間市」に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "福岡 3歳児死亡事故 容疑者「前夜に飲酒し 朝また飲んで車に」",
+      "slug": "福岡3歳児死亡事故容疑者前夜に飲酒し朝また飲んで",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51846"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6596142?source=rss"
+        }
+      ],
+      "issue": "福岡市で発生した3歳児死亡事故の状況は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "福岡市で20日、飲酒運転とみられる車がバイクに追突し、近くにいた3歳の男の子が死亡する事故が発生した。",
+          "span": "飲酒運転とみられる車がバイクに追突して近くにいた男の子が死亡した事故",
           "src": [
             {
               "ty": "press",
@@ -129,8 +456,8 @@
           ]
         },
         {
-          "t": "22日は広い範囲で晴れる見込みである。",
-          "span": "22日は広い範囲で晴れる見込みですが",
+          "t": "事故を起こした車を運転していた68歳の容疑者が逮捕された。",
+          "span": "車を運転し逮捕された68歳の容疑者",
           "src": [
             {
               "ty": "press",
@@ -139,276 +466,27 @@
           ]
         },
         {
-          "t": "これまでの大雨により地盤が緩んでいる。",
-          "span": "これまでの大雨で地盤が緩んでいるため",
+          "t": "容疑者は、事故前日の夜に自宅で酒を飲み、朝起きてから再び飲酒して車に乗ったと供述している。",
+          "span": "事故前日の夜に自宅で酒を飲み、朝起きてからまた飲んで車に乗った",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "引き続き土砂災害への厳重な警戒が呼びかけられている。",
-          "span": "土砂災害に厳重警戒",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "川や崖などへの注意が呼びかけられている。",
-          "span": "川や崖など注意を",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
-        },
-        {
-          "t": "気象庁は東京都の東京地方、伊豆諸島北部、伊豆諸島南部に土砂災害注意報を発令している。",
-          "span": "土砂災害に注意してください。",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は伊豆諸島北部、伊豆諸島南部に高波注意報を発令している。",
-          "span": "高波に注意してください。",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は東京都の一部地域で土砂災害警報・注意報を解除した。",
-          "span": "注意報を解除します。",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
         }
       ],
       "positions": [],
-      "consensus": "台風25号により関東や伊豆諸島で記録的な大雨と広範囲な被害が発生し、引き続き土砂災害や高波への厳重な警戒が必要であるという点で合意されている。評価の対立はない。",
-      "note": "本記事群は事実の報告と注意喚起のみであり、特定の評価や主張の対立は存在しないため、positionsは空配列とした。",
+      "consensus": "福岡市で飲酒運転とみられる車による追突事故で3歳児が死亡したこと、および容疑者が飲酒を認めていることについては、報道間で合意がある。",
+      "note": "本記事は事実の報道であり、評価や意見の対立は含まれていないため、positionsは空配列です。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[8].t: 評価混入を修正し、「〜が必要である」から「〜が呼びかけられている」に再記述しました。",
-          "facts[9].t: 評価混入を修正し、「〜が必要である」から「〜が呼びかけられている」に再記述しました。",
-          "facts[10].span: spanが文全体だったため、最小核である「土砂災害に注意してください。」に修正しました。",
-          "facts[11].span: spanが文全体だったため、最小核である「高波に注意してください。」に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-      "slug": "USstrikesonallegeddrugbo",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/trump-speech-inaudible-as-us-networks-boycott-white-house-event?traffic_source=rss"
-        }
-      ],
-      "issue": "トランプ政権のメディア対応は適切か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "トランプ大統領は国連サミットのためニューヨークへ向かっていた。",
-          "span": "heads to New York for the UN summit",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ米大統領が新しいホワイトハウスのヘリコプター着陸場を発表した。",
-          "span": "unveiled a new White House helicopter pad",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "トランプ政権のメディア対応に対し、主要な米国のメディアは訴訟提起や報道中断、イベントボイコットなどの形で反発している。この対応の適切性については評価が割れる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimにメタ記述「〜と報じられている」を追加し、地の文の断定を修正した。"
-        ]
-      }
-    },
-    {
-      "headline": "問題相次ぐアジア大会　国歌ミス、空席、バス現れず",
-      "slug": "問題相次ぐアジア大会国歌ミス空席バス現れず",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6596096?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026092100483&g=spo&m=rss"
-        }
-      ],
-      "issue": "アジア大会でどのような問題が発生しているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "Yahoo!ニュース 主要は、アジア大会の現地入りした記者が大会運営に対して違和感を抱いていると報じている。",
-          "span": "現地入り記者の違和感",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "時事ドットコムは、アジア大会で複数の問題が相次いで発生していると報じている。",
-          "span": "問題相次ぐ",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "時事ドットコムは、発生した問題の中には国歌の誤りがあると報じている。",
-          "span": "国歌ミス",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "時事ドットコムは、発生した問題の中には競技会場の空席があると報じている。",
-          "span": "空席",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "時事ドットコムは、発生した問題の中にはバスが時間通りに現れない事態があると報じている。",
-          "span": "バス現れず",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "複数のメディアが報じるところによると、アジア大会では国歌の誤り、競技会場の空席、バスの遅延など、複数の問題が相次いで発生しており、現地入りした記者も大会運営に対して違和感を抱いているとされている。これらの事実に対する評価や解釈は、本記事からは読み取れない。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄のt項目について、地の文の断定ではなく、情報源を明記したメタ記述（「〜と報じられている」）に修正し、著作権に配慮した再記述を行った。"
-        ]
-      }
-    },
-    {
-      "headline": "イエメン暫定政権トップ、トランプ氏に支援要請　米軍介入直前で撤回か",
-      "slug": "イエメン暫定政権トップトランプ氏に支援要請米軍介",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260921de51710"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026092200146&g=int&m=rss"
-        }
-      ],
-      "issue": "トランプ大統領はイエメンのフーシ派への空爆を指示すべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "イランの支援を受けるイエメンの反政府勢力フーシ派が、対立するサウジアラビアへの攻撃を強めている。",
-          "span": "攻撃を強める",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領は、サウジアラビアの要請を受け、フーシ派への空爆準備を指示した。",
-          "span": "フーシ派への空爆を準備するよう指示した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領は、米軍介入の直前で空爆準備の指示を撤回したと報じられている。",
-          "span": "米軍介入直前で撤回か",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イランの支援を受けるフーシ派がサウジアラビアへの攻撃を強める中、トランプ大統領はサウジアラビアの要請でフーシ派への空爆準備を指示したが、米軍介入直前で撤回したと報じられている。イエメン暫定政権トップもトランプ氏に支援を要請している。評価は割れる／アプリは裁定しない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimが地の文の断定になっていたため、メタ記述「〜と報じられている」を追加しました。"
+          "facts[1].span: 元テキストの「車を運転し逮捕された68歳の容疑者」により忠実な最小核となるよう修正しました。"
         ]
       }
     }
