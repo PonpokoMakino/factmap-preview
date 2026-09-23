@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-09-23T12:05:18.052Z",
+  "builtAt": "2026-09-23T16:51:25.602Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "住民「言葉が出ない」　片付けと土砂撤去、にじむ疲労―台風２５号、広範囲で被害・千葉、神奈川",
-      "slug": "住民言葉が出ない片付けと土砂撤去にじむ疲労台風号",
-      "independentSources": 4,
+      "headline": "台風25号 千葉と神奈川で10人死亡 4人行方不明 住宅被害相次ぐ",
+      "slug": "台風25号千葉と神奈川で10人死亡4人行方不明住",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム",
         "気象庁 気象警報・注意報"
       ],
@@ -18,50 +17,38 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20260922de51926"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6596286?source=rss"
-        },
-        {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026092300512&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026092300327&g=soc&m=rss"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260923075748_0_VPWW54_140000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260923145959_0_VPWW53_120000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260923075748_0_VPWW53_140000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260923075747_0_VPWW54_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260923075747_0_VPWW53_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260923075744_0_VPWW54_120000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260923145959_0_VPWW54_120000.xml"
         }
       ],
-      "issue": "台風25号による被害状況はどうか？",
+      "issue": "台風25号による死者・不明者数と被害状況",
       "stasis": "事実",
       "facts": [
         {
-          "t": "台風25号に伴う記録的な大雨により、千葉県と神奈川県で土砂災害や川の氾濫による浸水被害が発生した。",
-          "span": "台風25号に伴う記録的な大雨で、千葉県と神奈川県では土砂災害や川の氾濫による浸水被害が相次ぎ",
+          "t": "台風25号に伴う記録的な大雨により、千葉県と神奈川県でこれまでに10人が死亡し、4人の行方がわからなくなっている。",
+          "span": "これまでに10人が死亡、4人の行方がわからなくなっています",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "これまでに千葉県と神奈川県で10人が死亡し、4人の行方がわからなくなっている。",
-          "span": "これまでに10人が死亡、4人の行方がわからなくなっています",
+          "t": "台風25号に伴う記録的な大雨により、千葉県と神奈川県で土砂災害や川の氾濫による浸水被害が相次いでいる。",
+          "span": "土砂災害や川の氾濫による浸水被害が相次ぎ",
           "src": [
             {
               "ty": "press",
@@ -80,48 +67,8 @@
           ]
         },
         {
-          "t": "台風25号により、千葉県と神奈川県で計10人が死亡した。",
-          "span": "台風 千葉・神奈川で計10人死亡",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "台風25号により、千葉県と神奈川県で広範囲に被害が出ている。",
-          "span": "台風２５号、広範囲で被害・千葉、神奈川",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "神奈川県東部では土砂災害に注意が必要である。",
-          "span": "東部では、土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "東京都伊豆諸島北部、伊豆諸島南部では土砂災害に注意が必要である。",
-          "span": "伊豆諸島北部、伊豆諸島南部では、土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
           "t": "千葉県では土砂災害や濃霧による視程障害に注意が必要である。",
-          "span": "千葉県では、土砂災害や濃霧による視程障害に注意してください",
+          "span": "土砂災害や濃霧による視程障害に注意してください",
           "src": [
             {
               "ty": "op",
@@ -131,17 +78,7 @@
         },
         {
           "t": "千葉県北西部では低い土地の浸水に注意が必要である。",
-          "span": "北西部では、低い土地の浸水に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "千葉県北東部では河川の増水に注意が必要である。",
-          "span": "北東部では、河川の増水に注意してください",
+          "span": "低い土地の浸水に注意してください",
           "src": [
             {
               "ty": "op",
@@ -151,200 +88,20 @@
         }
       ],
       "positions": [],
-      "consensus": "台風25号に伴う記録的な大雨により、千葉県と神奈川県で土砂災害や川の氾濫による浸水被害が発生し、これまでに10人が死亡、4人の行方がわからなくなっており、住宅被害も相次いでいる。気象庁は神奈川県東部、東京都伊豆諸島北部・南部、千葉県で土砂災害に注意を呼びかけている。千葉県北西部では低い土地の浸水、北東部では河川の増水に注意が必要である。住民は片付けと土砂撤去に疲労がにじんでいる。",
-      "note": "プライバシーに配慮し、被害者の実名は記載しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "レアアース輸出正常化、焦点に　中国許可遅れ、日本向けも―米中首脳会談",
-      "slug": "レアアス輸出正常化焦点に中国許可遅れ日本向けも米",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260922de51902"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260923de51963"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260923de51965"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6596276?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026092300644&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026092300262&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026092300410&g=int&m=rss"
-        }
-      ],
-      "issue": "日米首脳会談で中国をめぐる諸課題について、高市総理大臣とトランプ大統領はどのように意見交換し、どのような連携を確認したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "高市総理大臣は、国連総会のため訪れているニューヨークで、アメリカのトランプ大統領と日米首脳会談を行った。",
-          "span": "アメリカのトランプ大統領と日米首脳会談を行い",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "会談では、24日に控えた米中首脳会談を念頭に、中国をめぐる諸課題について意見が交わされた。",
-          "span": "24日に控えた米中首脳会談を念頭に、中国をめぐる諸課題について意見を交わし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日米両首脳は、中国をめぐる諸課題について緊密に連携していくことを確認した。",
-          "span": "緊密に連携していくこと",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "中国の習近平国家主席は、アメリカを国賓として訪問するため、23日午後、専用機で北京を出発した。",
-          "span": "習近平国家主席がアメリカを国賓として訪問するため23日午後、専用機で北京を出発した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "習主席はアメリカでトランプ大統領とことし2回目となる首脳会談を行う予定である。",
-          "span": "習主席はアメリカでトランプ大統領とことし2回目となる首脳会談を行う予定です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は、訪問先のニューヨークで記者会見を行った。",
-          "span": "訪問先のニューヨークで記者会見し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は、トランプ大統領との首脳会談について、日米同盟の強さを世界に示すものになったと述べた。",
-          "span": "日米同盟の強さを世界に示すものになった",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は、地域の平和と安定のため、日米同盟関係をさらに揺るぎのないものにしていく考えを示した。",
-          "span": "地域の平和と安定のため同盟関係をさらに揺るぎのないものにしていく考",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は、帰国の途についた。",
-          "span": "高市首相が帰国の途",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米中首脳会談は24日に行われる予定である。",
-          "span": "２４日に会談へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米中首脳会談の議題には、AIや貿易などが含まれる。",
-          "span": "ＡＩや貿易など",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "レアアースの輸出正常化が、米中首脳会談の焦点の一つとなっている。",
-          "span": "レアアース輸出正常化、焦点に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "中国による日本向けレアアースの許可遅れが指摘されている。",
-          "span": "中国許可遅れ、日本向けも",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "日米首脳は中国をめぐる諸課題について意見交換し、緊密に連携していくことを確認した。米中首脳会談は24日に行われ、AIや貿易、レアアース輸出正常化などが議題となる。",
-      "note": "プライバシー配慮のため、個別の事件や個人に関する詳細な情報は省略した。",
+      "consensus": "台風25号に伴う記録的な大雨により、千葉県と神奈川県ではこれまでに10人が死亡、4人の行方がわからなくなっています。住宅の被害も相次いでいます。千葉県では土砂災害や濃霧による視程障害、北西部では低い土地の浸水に注意が必要です。",
+      "note": "気象庁の警報・注意報は同一内容が2回記載されていたため、重複してfactとして抽出せず、spanの出典を1つにまとめました。",
       "audit": {
         "changed": true,
         "issues": [
-          "consensus: \"評価は割れる\" は元テキストに根拠がないため削除しました。",
-          "note: \"プライバシー配慮のため、個別の事件や個人に関する詳細な情報は省略した。\" は元テキストに根拠がなく、検品係の判断によるものなので削除しました。"
+          "issueを「台風25号による死者・不明者数と被害状況」に修正しました。",
+          "factsの4番目と5番目のspanの出典を重複していたものを1つにまとめました。",
+          "noteを修正しました。"
         ]
       }
     },
     {
-      "headline": "Trump meets US-backed Venezuelan president for first time since Maduro seized",
-      "slug": "TrumpmeetsUSbackedVenezu",
+      "headline": "Trump administration accuses banned media outlets of 'falsehoods' ahead of court hearing",
+      "slug": "Trumpadministrationaccus",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -353,23 +110,39 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj207y30wp0lo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c670lydl5wg5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c699d2dn9z0mo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6790yrgzq25o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/23/yemeni-government-in-military-and-diplomatic-push-to-reverse-houthi-gains?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/kpmg-manager-says-she-was-fired-after-facing-harassment-over-her-keffiyeh?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/23/can-ethiopias-seven-group-rebel-alliance-challenge-abiy-ahmed?traffic_source=rss"
         }
       ],
-      "issue": "米国とイランは、トランプ大統領の「壊滅」発言後、初の会談を行ったか？",
+      "issue": "エチオピアとティグレ州の間で新たな戦争の懸念が高まっているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "米国とイランは、6月以来となる会談を行った。",
-          "span": "US and Iran hold first talks since June",
+          "t": "エチオピアとティグレ州が互いに攻勢を開始したと非難し合っている。",
+          "span": "Ethiopia and Tigray accuse each of launching offensives",
           "src": [
             {
               "ty": "press",
@@ -378,8 +151,8 @@
           ]
         },
         {
-          "t": "会談は、6月に停戦が崩壊して以来初めてである。",
-          "span": "The talks are the first since a ceasefire collapsed in June",
+          "t": "ティグレ州当局が、最近のドローン攻撃の報告を受けてティグレ州の空港を接収したと報じられている。",
+          "span": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
           "src": [
             {
               "ty": "press",
@@ -388,17 +161,7 @@
           ]
         },
         {
-          "t": "両国は断続的に撃ち合っている。",
-          "span": "with the sides exchanging fire intermittently",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領は、イランを「壊滅」させると脅迫した。",
+          "t": "イエメン政府は、フーシ派の進撃を覆すための軍事的・外交的攻勢をかけている。",
           "span": "",
           "src": [
             {
@@ -408,8 +171,8 @@
           ]
         },
         {
-          "t": "トランプ大統領は、外交について自慢した。",
-          "span": "and then brags about diplomacy",
+          "t": "イエメン政府は、外交官が国連で反フーシ派闘争を中央舞台に置こうとする中、戦場での進撃を主張している。",
+          "span": "Government claims battlefield advances as diplomats attempt to put anti-Houthi fight at UN centre stage.",
           "src": [
             {
               "ty": "press",
@@ -418,8 +181,68 @@
           ]
         },
         {
-          "t": "テヘランは対応を警告した。",
-          "span": "provoking Tehran to warn of a response",
+          "t": "ポーランドは、ロシア軍ヘリコプターが自国の領空を侵害したと非難している。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ポーランドによると、その航空機は領空内に42秒間滞在し、NATO加盟国に戦闘機の発進を余儀なくさせた。",
+          "span": "Poland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ政権は、裁判所の審理を前に、禁止されたメディアアウトレットを「虚偽」で非難している。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国司法省は、CNN、Politico、MS NOWが提起した訴訟に対する回答で、国家安全保障にも言及している。",
+          "span": "The US Justice Department's response to a lawsuit filed by CNN, Politico and MS NOW also cites national security.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "KPMGのマネージャーは、ケフィヤ（スカーフ）をめぐる嫌がらせに直面した後、解雇されたと述べている。",
+          "span": "KPMG manager says she was fired after facing harassment over her keffiyeh",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "エチオピアの7つのグループからなる反政府同盟は、アビィ・アハメド首相に挑戦できるか。",
+          "span": "Can Ethiopia’s seven-group rebel alliance challenge Abiy Ahmed?",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "この同盟は、アビィ首相との緊張が高まる中、異なる敵、主張、歴史を持つ運動を結集している。",
+          "span": "The alliance brings together movements with different enemies, claims and histories as tensions with Abiy rise.",
           "src": [
             {
               "ty": "press",
@@ -429,18 +252,20 @@
         }
       ],
       "positions": [],
-      "consensus": "米国とイランは6月以来となる会談を行った。両国は断続的に撃ち合っている。トランプ大統領はイランを「壊滅」させると脅迫し、その後外交について自慢したと報じられている。",
-      "note": "ベネズエラ大統領に関する情報は、イランと米国の会談とは直接関係がないため、この構造化からは除外されました。",
+      "consensus": "エチオピアとティグレ州は互いに攻勢を非難し合っており、新たな戦争の懸念が高まっている。ティグレ州当局は空港を接収したと報じられている。イエメン政府はフーシ派の進撃を覆すための軍事的・外交的攻勢をかけている。ポーランドはロシア軍ヘリコプターが領空を侵害したと非難し、戦闘機の発進を余儀なくされた。トランプ政権は禁止されたメディアアウトレットを「虚偽」で非難し、国家安全保障にも言及している。KPMGのマネージャーはケフィヤをめぐる嫌がらせの後解雇されたと述べている。エチオピアの反政府同盟はアビィ首相に挑戦する可能性があり、異なる敵、主張、歴史を持つ運動を結集している。ドリー・パートンのマネージャーは、甥が遺産を恐喝しようとしていると非難している。",
+      "note": "プライバシーに配慮し、KPMGのマネージャーの氏名は伏せられています。",
       "audit": {
-        "changed": true,
+        "changed": false,
         "issues": [
-          "positions.claim: \"イランを「壊滅」させると脅迫し、その後外交について自慢した。\" を \"イランを「壊滅」させると脅迫し、その後外交について自慢したと述べている。\" に修正。メタ記述の徹底（claimが地の文の断定になっていたため）。"
+          "fact spanが原文に無い→除去「Yemeni government …」",
+          "fact spanが原文に無い→除去「Poland accuses Rus…」",
+          "fact spanが原文に無い→除去「Trump administrati…」"
         ]
       }
     },
     {
-      "headline": "山形 海岸で子どもとみられる遺体 不明6歳男児の可能性 警察",
-      "slug": "山形海岸で子どもとみられる遺体不明6歳男児の可能",
+      "headline": "全日空機 那覇空港で乗客を緊急脱出 けが人の情報なし",
+      "slug": "全日空機那覇空港で乗客を緊急脱出けが人の情報なし",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -449,19 +274,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260923de52028"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de52071"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260923de52066"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6596296?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6596316?source=rss"
         }
       ],
-      "issue": "海岸で発見された遺体は、行方不明の6歳男児か？",
+      "issue": "全日空機は那覇空港で乗客を緊急脱出させたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "山形県酒田市の海岸で、子どもとみられる遺体が見つかった。",
-          "span": "山形県酒田市の海岸で子どもとみられる遺体が見つかりました",
+          "t": "全日空の旅客機が那覇空港に着陸後、誘導路上で停止し、乗客が脱出用シューターを使って機外へ降ろされた。",
+          "span": "那覇空港に着陸した旅客機が誘導路上で停止し、脱出用のシューターを使って乗客を航空機から降ろしたということです",
           "src": [
             {
               "ty": "press",
@@ -470,8 +299,8 @@
           ]
         },
         {
-          "t": "警察は、服装の特徴などから、行方不明になっている酒田市の6歳男児の可能性があるとみて捜査している。",
-          "span": "警察は、服装の特徴などから、今月5日から行方がわからなくなっている酒田市の6歳の男の子の可能性があるとみて調べています",
+          "t": "この出来事は23日午後10時過ぎに発生した。",
+          "span": "23日午後10時すぎ",
           "src": [
             {
               "ty": "press",
@@ -480,22 +309,119 @@
           ]
         },
         {
-          "t": "遺体は離島で発見された。",
-          "span": "遺体は離島で発見",
+          "t": "けが人の情報は入っていない。",
+          "span": "けが人の情報なし",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風26号がフィリピンの東の海上で発生した。",
+          "span": "台風26号が発生",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風26号は土曜日以降、沖縄の南の海上へ進む可能性がある。",
+          "span": "土曜日以降、沖縄の南の海上へ進む可能性があり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "山形県酒田市の海岸で子どもとみられる遺体が見つかり、警察は行方不明の6歳男児の可能性があるとみて捜査している。遺体は離島で発見された。",
-      "note": "プライバシーに配慮し、男児の実名は伏せられています。",
+      "consensus": "全日空機が那覇空港で乗客を緊急脱出させたことは事実である。けが人の情報は確認されていない。台風26号が発生し、今後の進路に注意が必要である。",
+      "note": "複数のニュースソースからの情報を統合した。全日空機のインシデントと台風の発生は別件である。",
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "ＤｅＮＡの戸柱「自分が一番びっくり」　プロ野球",
+      "slug": "の戸柱自分が一番びっくりプロ野球",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260924de52076"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092300854&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092300845&g=spo&m=rss"
+        }
+      ],
+      "issue": "プロ野球の結果について",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "プロ野球は23日に6試合が行われた。",
+          "span": "プロ野球は23日、6試合が行われ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ソフトバンクが西武に大勝した。",
+          "span": "ソフトバンクがふた桁得点で西武に大勝しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "楽天が延長戦を制し、日本ハムに勝利した。",
+          "span": "楽天が延長戦制す",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日本ハム対楽天の試合結果は3対5だった。",
+          "span": "日本ハム３―５楽天",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "プロ野球は23日に6試合が行われ、ソフトバンクが西武に大勝し、楽天が延長戦で日本ハムに勝利した（3対5）。戸柱（DeNA）は自身の結果に驚いていると述べた。",
+      "note": "複数の出典からの情報を統合しました。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positionsのclaimを「〜と述べた」の形式に修正しました。",
+          "consensusの戸柱に関する記述をpositionsの内容と一致するように修正しました。"
+        ]
       }
     }
   ]
