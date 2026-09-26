@@ -1,160 +1,61 @@
 {
-  "builtAt": "2026-09-26T01:49:00.117Z",
+  "builtAt": "2026-09-26T11:51:14.871Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "【地震速報】 熊本県 熊本地方で震度4 津波の心配はなし",
-      "slug": "地震速報熊本県熊本地方で震度4津波の心配はなし",
+      "headline": "China, US to open AI ‘communication channel’ after summit, White House says",
+      "slug": "ChinaUStoopenAIcommunica",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 地震・火山"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260919de51276"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6596586?source=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260926014547_0_VXSE53_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260926013536_0_VXSE53_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260926013409_0_VXSE52_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260926013252_0_VXSE51_270000.xml"
-        }
-      ],
-      "issue": "熊本県熊本地方で発生した地震の概要は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "熊本県熊本地方で震度4の地震が観測された。",
-          "span": "震度4",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この地震による津波の心配はないと発表された。",
-          "span": "津波の心配はなし",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        },
-        {
-          "t": "地震は26日午前10時31分ごろに発生した。",
-          "span": "10時31分ごろ地震がありました",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "震源地は熊本県熊本地方である。",
-          "span": "震源地は熊本県熊本地方",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "震源の深さは10キロと推定される。",
-          "span": "震源の深さは10キロ",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "地震の規模を示すマグニチュードは4.5と推定されている。",
-          "span": "マグニチュードは4.5と推定されます",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "熊本県熊本地方で震度4の地震が発生し、津波の心配はないと報じられている。この件に関して評価や意見の対立は見られない。",
-      "note": "本記事は地震速報であり、客観的な事実のみを報じているため、評価や意見の対立は存在しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "US court rules against Kalshi, says states can regulate prediction markets",
-      "slug": "UScourtrulesagainstKalsh",
-      "independentSources": 3,
-      "sources": [
         "時事ドットコム",
-        "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260926de52588"
+        },
+        {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026092600157&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026092501015&g=pol&m=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092600356&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092600361&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092600379&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092600302&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092600314&g=int&m=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss"
         }
       ],
-      "issue": "ローマ教皇はAIの役割についてどのような見解を示したか？",
-      "stasis": "事実合意",
+      "issue": "米中首脳会談における「同盟国」という表現の妥当性およびその影響は？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "ローマ教皇がユネスコでAIに関する訴えを行った。",
-          "span": "ユネスコで訴え",
+          "t": "米中両首脳は、AIの呼称をスーパーインテリジェンス（SI）とすることで合意した。",
+          "span": "ＡＩの呼称をスーパーインテリジェンス（ＳＩ）とすることで合意した",
           "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -162,8 +63,146 @@
           ]
         },
         {
-          "t": "ローマ教皇は金曜日のフランス訪問初日に警告を発した。",
-          "span": "delivered the warning on the first day of his trip to France on Friday",
+          "t": "米中両軍は、危機時の意思疎通と予防を強化する覚書の早期締結で合意した。",
+          "span": "中米両軍は危機時の意思疎通と予防を強化する覚書の早期締結で合意した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "アメリカのホワイトハウスは、AIをめぐってリスクや利益について意見を交わしたと発表した。",
+          "span": "安全性が議論となっているAIをめぐってリスクや利益について意見を交わすた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ホワイトハウスは、両国がAIインシデントのための「二国間コミュニケーションチャネル」を開設することで合意したと発表した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米中首脳会談の成果文書には、第2次世界大戦の「同盟国」という表現が明記された。",
+          "span": "米中は第２次大戦の「同盟国」　会談文書明記",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米中両首脳はAIの呼称をSIとすること、両軍は危機時の意思疎通強化で合意した。成果文書には第2次大戦の「同盟国」という表現が明記された。日本政府は「同盟国」という表現に困惑し分析を急いでいる。報道では日米離間懸念も指摘されている。評価は割れる。",
+      "note": "AIの呼称変更に関する事実は、複数の記事で報じられている。米中両軍の合意も複数の記事で報じられている。成果文書における「同盟国」という表現と、それに対する日本政府の困惑および日米離間の懸念は、複数の記事で報じられている。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "娘２人を６階から投げ落とす　殺人未遂容疑で２５歳父親逮捕―岐阜県警",
+      "slug": "娘人を階から投げ落とす殺人未遂容疑で歳父親逮捕岐",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260926de52546"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026092600260&g=soc&m=rss"
+        }
+      ],
+      "issue": "父親が娘2人をマンション6階から投げ落とした事件は殺人未遂にあたるか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "26日朝早く、岐阜県各務原市の自宅マンション6階から、4歳と1歳の娘2人が投げ落とされた。",
+          "span": "26日朝早く、岐阜県各務原市にある自宅マンションの6階から4歳と1歳の娘を投げ落とした",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "事件を受け、25歳の父親が殺人未遂の疑いで逮捕された。",
+          "span": "25歳の父親が殺人未遂の疑いで逮捕されました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "事件前に通報を受けた警察が現場に駆けつけていた。",
+          "span": "現場には事件前に通報を受けた警察が駆けつけていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "26日朝早く、岐阜県各務原市の自宅マンション6階から4歳と1歳の娘2人が投げ落とされ、25歳の父親が殺人未遂の疑いで逮捕された。事件前に通報を受けた警察が現場に駆けつけていたという事実については、報道各社で一致している。",
+      "note": "プライバシーに配慮し、被害者の実名は伏せています。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Israel bans Arab parties from election: Who they are, why it matters",
+      "slug": "IsraelbansArabpartiesfro",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss"
+        }
+      ],
+      "issue": "ブラジルのルラ大統領はオンラインギャンブルを禁止するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "ブラジルのルラ大統領は、大統領選挙の前にオンラインギャンブルを禁止した。",
+          "span": "bans online gambling ahead of presidential election",
           "src": [
             {
               "ty": "press",
@@ -172,8 +211,18 @@
           ]
         },
         {
-          "t": "ローマ教皇はエリゼ宮殿で発言した。",
-          "span": "at the Elysee Palace",
+          "t": "ルラ大統領は、オンラインギャンブル産業を「がん」と表現した。",
+          "span": "said the industry was a \"cancer\"",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルは、アラブ政党の選挙出馬を禁止した。",
+          "span": "Israel bans Arab parties from election",
           "src": [
             {
               "ty": "press",
@@ -182,28 +231,8 @@
           ]
         },
         {
-          "t": "パリには数千人が集まった。",
-          "span": "Thousands gather in Paris",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国の裁判所がKalshiに対する判決を下し、州が予測市場を規制できると判断した。",
-          "span": "rules against Kalshi, says states can regulate prediction markets",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国の控訴裁判所は予測市場の規制に関して見解が分かれており、最高裁判所での議論の可能性を開いた。",
-          "span": "US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate",
+          "t": "ICC（国際刑事裁判所）の逮捕状や国際的な制裁を受けているイスラエルの政治家は、立候補資格を保持している。",
+          "span": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
           "src": [
             {
               "ty": "press",
@@ -213,20 +242,18 @@
         }
       ],
       "positions": [],
-      "consensus": "ローマ教皇がAIに関する警告を発し、米国で予測市場に関する裁判所の判決があったことは事実として報じられている。AIの役割や影響に関する評価は割れる可能性があるが、本アプリは裁定しない。",
-      "note": null,
+      "consensus": "ブラジルのルラ大統領はオンラインギャンブルを禁止し、イスラエルはアラブ政党の選挙出馬を禁止した。イスラエルでは、ICCの逮捕状や国際制裁を受けている政治家も立候補可能である。",
+      "note": "2つの異なるニュース記事が混在しています。",
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: テキストに示された唯一の立場であるため、issueを「ローマ教皇はAIの役割についてどのような見解を示したか？」に変更し、stasisを「事実合意」に変更しました。これにより、賛否の割れる問いではなく、見解の報告として再定義しました。",
-          "メタ記述の徹底・著作権: positions[0].claimをメタ記述に修正し、元のテキストの断定的な表現を避けました。",
-          "論理構造の検証: positions[0].reasonがclaimの繰り返しであり、明確な根拠を示していなかったため、nullに設定しました。"
+          "consensusの「評価は割れる。」は元テキストから読み取れないため削除しました。"
         ]
       }
     },
     {
-      "headline": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-      "slug": "IranwarliveTehranoffersU",
+      "headline": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+      "slug": "TrumprejectsIranssevenda",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -239,136 +266,21 @@
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-to-reopen-strait-of-hormuz-within-a-week-if-us-agrees-to-plan?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss"
         }
       ],
-      "issue": "米国はイランのホルムズ海峡再開と核協議再開に関する7日間計画を受け入れるべきか？",
+      "issue": "イランのホルムズ海峡再開および停戦提案に対する米国の対応は適切か？",
       "stasis": "政策",
-      "facts": [
-        {
-          "t": "イランは米国に対し、ホルムズ海峡を7日以内に再開する計画を提示した。",
-          "span": "offers US deal to reopen Strait of Hormuz in seven days",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "その計画には、1週間以内に核協議を再開することも含まれる。",
-          "span": "resume nuclear talks within a week",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国当局者は、イランの提案に関して仲介者を通じて「建設的な協議」が行われていると述べた。",
-          "span": "\"constructive discussions\" were taking place through mediators",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
+      "facts": [],
       "positions": [],
-      "consensus": "イランが米国にホルムズ海峡再開と核協議再開を含む7日間計画を提示し、米国が仲介者を通じて協議中であるという事実は合意されている。計画の受け入れに関する評価は、米国の返答待ちであり、割れる可能性がある。",
+      "consensus": "イランはホルムズ海峡再開と停戦の提案を行ったが、米国（トランプ大統領）は停戦提案を拒否しており、対応の評価は割れる。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].span が空だったので、元テキストから「the &quot;choice rests with the US&quot;」を抽出して修正しました。",
-          "position spanが原文に無い→除去「\"choice rests with…」"
+          "positions[0].stance: イランは提案の主体であり、直接的に争点への賛否を表明しているわけではないため、'support' から 'neutral' に修正しました。",
+          "positions[2].stance: 'attack' は評価語であり、中立性に反するため、提案を拒否するという行動を示す 'oppose' に修正しました。"
         ]
-      }
-    },
-    {
-      "headline": "群馬女性殺害、娘の元夫を公開手配　長男への殺人未遂容疑―県警",
-      "slug": "群馬女性殺害娘の元夫を公開手配長男への殺人未遂容",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260925de52508"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026092600127&g=soc&m=rss"
-        }
-      ],
-      "issue": "群馬県太田市で発生した女性死亡事件の状況は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "25日、群馬県太田市の住宅で52歳の女性が殺害された。",
-          "span": "52歳の女性が殺害された",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "女性の長女の30歳の元夫が、事件現場で女性の長男を切りつけて逃走した。",
-          "span": "女性の長男を切りつけて逃げた",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "警察は、逃走した元夫について、長男に対する殺人未遂の疑いで逮捕状を取り、公開手配した。",
-          "span": "逮捕状を取り、公開手配し",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "群馬県太田市で発生した女性死亡事件について、警察が容疑者を公開手配したという事実が報じられている。評価や意見の対立は記事中にない。",
-      "note": "本記事は事件の事実報道であり、評価や意見の対立は含まれていないため、positionsは空配列です。",
-      "audit": {
-        "changed": false,
-        "issues": []
       }
     }
   ]
