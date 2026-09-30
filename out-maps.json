@@ -1,110 +1,10 @@
 {
-  "builtAt": "2026-09-30T07:07:17.240Z",
+  "builtAt": "2026-09-30T13:38:21.233Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "生成ＡＩによる声の模倣を巡る訴訟で、東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した",
-      "slug": "生成による声の模倣を巡る訴訟で東京地裁は人の声も",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260930de53277"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597056?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026093000118&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026093000582&g=flash&m=rss"
-        }
-      ],
-      "issue": "生成AIによる声の無断使用はパブリシティ権の侵害にあたるか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "人気声優の津田健次郎さんが、生成AIで自身の声を無断で模倣された動画が投稿されたとして、動画共有アプリ「TikTok」の運営会社を訴えた。",
-          "span": "生成AIで自身の声を無断で模倣された動画が投稿された",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した。",
-          "span": "人の声もパブリシティー権の保護対象となる",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "東京地裁",
-          "stance": "support",
-          "claim": "人の声もパブリシティー権の保護対象となる。",
-          "span": "人の声もパブリシティー権の保護対象となる",
-          "reason": "人の声もパブリシティー権の保護対象となるため。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "東京地裁",
-          "stance": "attack",
-          "claim": "声優の請求を棄却した。",
-          "span": "声優の請求棄却",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "consensus": "東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した。しかし、声優の請求は棄却された。",
-      "note": "NHKのニュース記事が途中で切れているため、一部の事実記述が不完全です。Yahoo!ニュースと時事ドットコムの記事で、東京地裁の判断について「パブリシティ権の侵害にあたる」という初判断を示したという報道と、「請求を棄却した」という報道があり、判断のニュアンスが異なる可能性があります。ここでは両方の情報を事実として記載し、立場として分けています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "fact 1のspanを「生成AIで自身の声を無断で模倣された動画が投稿された」に修正しました。元は「生成AIで自身の声を無断で模倣された動画が投稿された」でした。",
-          "fact 2のspanを「人の声もパブリシティー権の保護対象となる」に修正しました。元は「人の声もパブリシティー権の保護対象となるとの判断を示した」でした。",
-          "fact 2のsrcを「時事ドットコム」に修正しました。元は「NHK 主要ニュース」でした。",
-          "position 1のclaimを「人の声もパブリシティー権の保護対象となる。」に修正しました。元は「声を無断で使用する行為はパブリシティ権の侵害にあたるという初判断を示した。」でした。",
-          "position 1のspanを「人の声もパブリシティー権の保護対象となる」に修正しました。元は空文字でした。",
-          "position 1のreasonを「人の声もパブリシティー権の保護対象となるため。」に修正しました。元は「人の声もパブリシティー権の保護対象となるため。」でした。",
-          "position 1のsrcを「時事ドットコム」に修正しました。元は「NHK 主要ニュース」「時事ドットコム」でした。",
-          "position 2のclaimを「声優の請求を棄却した。」に修正しました。元は「声優の請求を棄却した。」でした。",
-          "position 2のspanを「声優の請求棄却」に修正しました。元は空文字でした。",
-          "position 2のsrcを「Yahoo!ニュース 主要」に修正しました。元は「Yahoo!ニュース 主要」でした。",
-          "consensusを「東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した。しかし、声優の請求は棄却された。」に修正しました。元は「東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した。しかし、声優の請求は棄却された。評価は割れる。」でした。",
-          "noteの「NHKのニュース記事が途中で切れているため、一部の事実記述が不完全です。」を削除しました。",
-          "noteの「また、Yahoo!ニュースと時事ドットコムの記事で、東京地裁の判断について「パブリシティ権の侵害にあたる」という初判断を示したという報道と、「請求を棄却した」という報道があり、判断のニュアンスが異なる可能性があります。ここでは両方の情報を事実として記載し、立場として分けています。」を「Yahoo!ニュースと時事ドットコムの記事で、東京地裁の判断について「パブリシティ権の侵害にあたる」という初判断を示したという報道と、「請求を棄却した」という報道があり、判断のニュアンスが異なる可能性があります。ここでは両方の情報を事実として記載し、立場として分けています。」に修正しました。",
-          "position spanが原文に無い→除去「声を無断で使用する行為はパブリシティ…」"
-        ]
-      }
-    },
-    {
-      "headline": "台風26号 今夜から伊豆諸島に接近 千葉でもあす雨強まるおそれ",
-      "slug": "台風26号今夜から伊豆諸島に接近千葉でもあす雨強",
+      "headline": "台風26号 今夜遅く伊豆諸島に接近 千葉であす雨強まるおそれも",
+      "slug": "台風26号今夜遅く伊豆諸島に接近千葉であす雨強ま",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -117,27 +17,19 @@
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930065159_0_VPWW53_013000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930133717_0_VPFJ50_130000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930065159_0_VPWW54_013000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930064733_0_VPWW54_011000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930064733_0_VPWW53_011000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930133717_0_VPFJ51_130000.xml"
         }
       ],
-      "issue": "台風26号は伊豆諸島に接近し、強風や大雨をもたらすか？",
+      "issue": "台風26号は伊豆諸島にいつ接近し、どのような影響をもたらすか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "台風26号は30日夜から1日明け方にかけて伊豆諸島に近づく見込みである。",
-          "span": "台風26号は30日夜から1日明け方にかけて伊豆諸島に近づく見込みです",
+          "t": "台風26号は現在、伊豆諸島に接近しており、30日夜遅くから1日明け方にかけてかなり接近する見込みである。",
+          "span": "台風26号はこの時間、伊豆諸島に近づいていて、30日夜遅くから1日明け方にかけて、かなり接近する見込みです。",
           "src": [
             {
               "ty": "press",
@@ -146,8 +38,8 @@
           ]
         },
         {
-          "t": "伊豆諸島では風が強まり、非常に激しい雨が降る見込みである。",
-          "span": "伊豆諸島では風が強まり、非常に激しい雨が降る見込みで",
+          "t": "伊豆諸島では、次第に風が強まり、1日にかけて非常に激しい雨が降るおそれがある。",
+          "span": "伊豆諸島では次第に風が強まり、1日にかけて非常に激しい雨が降るおそれがあり",
           "src": [
             {
               "ty": "press",
@@ -156,8 +48,8 @@
           ]
         },
         {
-          "t": "伊豆諸島では大雨による土砂災害や高波、強風に十分注意が必要である。",
-          "span": "大雨による土砂災害や高波に十分注意し、強風にも注意が必要",
+          "t": "伊豆諸島では、土砂災害や高波のおそれがある。",
+          "span": "土砂災害や高波",
           "src": [
             {
               "ty": "press",
@@ -166,57 +58,55 @@
           ]
         },
         {
-          "t": "千葉ではあす雨が強まるおそれがある。",
-          "span": "千葉でもあす雨強まるおそれ",
+          "t": "伊豆諸島南部では、10月1日明け方にかけて土砂災害に厳重に警戒する必要がある。",
+          "span": "伊豆諸島南部では１０月１日明け方にかけて土砂災害に厳重に警戒してください。",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "網走、北見、紋別地方では強風に注意が必要である。",
-          "span": "網走、北見、紋別地方では、強風に注意してください",
-          "src": [
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            },
             {
-              "ty": "press",
+              "ty": "op",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "網走地方では高波に注意が必要である。",
-          "span": "網走地方では、高波に注意してください",
+          "t": "伊豆諸島南部では、落雷、竜巻などの激しい突風に注意する必要がある。",
+          "span": "また、落雷、竜巻などの激しい突風に注意してください。",
           "src": [
             {
-              "ty": "press",
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "op",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "宗谷地方では強風、高波、落雷に注意が必要である。",
-          "span": "宗谷地方では、強風や高波、落雷に注意してください",
+          "t": "千葉県では、あす（1日）雨が強まるおそれがある。",
+          "span": "千葉であす雨強まるおそれも",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風26号は伊豆諸島に接近し、強風や大雨をもたらす見込みである。また、網走、北見、紋別、宗谷地方では強風や高波、落雷に注意が必要である。",
-      "note": "気象庁の警報・注意報に関する情報は、重複する内容が含まれていましたが、事実として整理しました。",
+      "consensus": "台風26号は伊豆諸島に接近しており、土砂災害や高波、激しい雨、落雷、突風などのおそれがある。千葉県でも雨が強まる見込みである。",
+      "note": "",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-      "slug": "Spainannouncesbanonevict",
+      "headline": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+      "slug": "Russialauncheslargestatt",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -225,23 +115,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss"
         }
       ],
-      "issue": "ガザ地区での空爆後、少女が複数の手術を受けたか？",
+      "issue": "ロシアは春以降、ウクライナのエネルギーインフラに対して最大の攻撃を行ったか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ガザ地区で、少女ラシールさんがテントにいた際にイスラエル軍のヘリコプターによる攻撃を受けたと目撃者が証言している。",
-          "span": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike.",
+          "t": "ロシアは春以降、ウクライナのエネルギーインフラに対して最大の攻撃を行った。",
+          "span": "Russia launches largest attack on Ukraine energy infrastructure since spring",
           "src": [
             {
               "ty": "press",
@@ -250,128 +140,166 @@
           ]
         },
         {
-          "t": "イスラエル軍は、その攻撃に関する記録がないと述べている。",
-          "span": "Israel’s military says it has no record of the atta",
+          "t": "攻撃により、11の地域で住宅や鉄道も標的となった。",
+          "span": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "少女ラシールさんは、感染症を抑えるために複数の手術を受けている。",
-          "span": "Girl has multiple surgeries to control infections after strike in Gaza",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "スペインは、87歳の女性がアパートから立ち退きさせられたことに対する抗議を受けて、立ち退き禁止を発表した。",
-          "span": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この禁止措置は、30日以内に議会で承認されなければならない複数の提案の一部である。",
-          "span": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "フランスでは、公務員が賃金引き上げを求めてストライキを行っている。",
-          "span": "Public workers in France strike over pay",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "学生の抗議活動が暴力的になり、警察は学校での衝突で440人の学生を逮捕した。",
-          "span": "as student protests turn violent。Tens of thousands of workers march nationwide, as police arrest 440 students in clashes at schools.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ガザ地区での空爆後、少女が複数の手術を受けたこと、スペインが立ち退き禁止を発表したこと、フランスで公務員が賃金引き上げを求めてストライキを行い、学生の抗議活動が暴力的になったことは事実として合意されている。イスラエル軍は攻撃の記録がないと述べている。",
-      "note": "プライバシーに配慮し、少女の名前は公開情報に基づき記載。ガザ地区の出来事に関するイスラエル軍の反論は、事実として記録されている。",
+      "consensus": "ロシアは春以降、ウクライナのエネルギーインフラに対して最大の攻撃を行った。攻撃により、11の地域で住宅や鉄道も標的となった。",
+      "note": "プライバシー配慮のため、被害者の特定につながる情報は含んでいません。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Democrats hope anger at Trump enough to get young people to vote",
-      "slug": "DemocratshopeangeratTrum",
+      "headline": "野上士耀選手が死去、１９歳　寮の室内で発見―プロ野球・オリックス",
+      "slug": "野上士耀選手が死去歳寮の室内で発見プロ野球オリッ",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597107?source=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026093001018&g=spo&m=rss"
         }
       ],
-      "issue": "AI開発の規制は十分か？",
-      "stasis": "政策",
+      "issue": "オリックス・バファローズの野上士耀選手の死去について",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "一部のテクノロジー企業の幹部や専門家がAIに関するより厳しい規則を求めている。",
-          "span": "some tech bosses and experts have called for tighter rules around AI",
+          "t": "プロ野球・オリックス・バファローズの野上士耀選手が死去した。",
+          "span": "野上士耀選手が死去",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "トランプ大統領と主要なテクノロジー企業がAI開発を規制するための自主的な合意に署名した。",
-          "span": "US President Donald Trump and leading tech companies have signed a voluntary agreement to regulate AI development",
+          "t": "野上士耀選手は19歳だった。",
+          "span": "１９歳",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "野上士耀選手は寮の室内で発見された。",
+          "span": "寮の室内で発見",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "野上士耀選手の死に事件性はないと報じられている。",
+          "span": "事件性なし",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "トランプ大統領と主要テクノロジー企業はAI開発の自主規制に合意したが、その十分性については評価が分かれる。",
-      "note": null,
+      "consensus": "オリックス・バファローズの野上士耀選手が19歳で死去し、寮の室内で発見された。死に事件性は無いと報じられている。",
+      "note": "プライバシーに配慮し、詳細な状況説明は省略した。",
       "audit": {
         "changed": true,
         "issues": [
-          "positions.claim: \"AIの自己規制を支持する\" → \"AIの自己規制を支持していると報じられている\" に修正（メタ記述の徹底）",
-          "positions.claim: \"AI開発の自主的な規制に署名した\" → \"AI開発の自主的な規制に署名したと報じられている\" に修正（メタ記述の徹底）"
+          "issue: \"オリックス・バファローズの野上士耀選手の死去について、事件性はあったのか？\" を \"オリックス・バファローズの野上士耀選手の死去について\" に修正。元テキストに事件性の有無に関する議論や対立は明記されておらず、単なる事実の報道に留まるため、問い形式のissueは不適切と判断。",
+          "facts[3].t: \"野上士耀選手の死について、事件性はないと報じられている。\" を \"野上士耀選手の死に事件性はないと報じられている。\" に修正。より自然な日本語表現への変更。",
+          "facts[3].span: \"事件性なし\" を \"事件性なし\" のまま維持。元テキストの表現を正確に反映しているため。",
+          "consensus: \"オリックス・バファローズの野上士耀選手が19歳で死去し、寮の室内で発見された。死に事件性は無いと報じられている。\" を \"オリックス・バファローズの野上士耀選手が19歳で死去し、寮の室内で発見された。死に事件性は無いと報じられている。\" に修正。より自然な日本語表現への変更。"
+        ]
+      }
+    },
+    {
+      "headline": "妻の遺体切断、医師の男逮捕　死体損壊容疑など―兵庫県警",
+      "slug": "妻の遺体切断医師の男逮捕死体損壊容疑など兵庫県警",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260930de53465"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026093000967&g=soc&m=rss"
+        }
+      ],
+      "issue": "医師の夫は、妻の遺体を損壊し川に遺棄したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "去年、兵庫県尼崎市で当時41歳の妻の遺体が発見された。",
+          "span": "去年、兵庫県尼崎市で当時41歳の妻の遺体",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "46歳の医師の夫が、妻の遺体を刃物で損壊し川に遺棄した疑いで逮捕された。",
+          "span": "医師で46歳の夫が逮捕されました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "逮捕容疑は死体損壊などである。",
+          "span": "死体損壊容疑など",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "去年、兵庫県尼崎市で当時41歳の妻の遺体が発見され、46歳の医師の夫が遺体を損壊し川に遺棄した疑いで逮捕された。警察は妻の死亡のいきさつについても調べる方針である。",
+      "note": "本件は事実関係の報道であり、評価や意見の対立は見られないため、positions は警察の捜査方針に関する記述のみとする。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions.claim: \"妻の死亡のいきさつについても詳しく調べる方針である\" を \"妻の死亡のいきさつについても詳しく調べる方針であると述べている\" に修正。メタ記述の徹底（地の文の断定を回避）。"
         ]
       }
     }
