@@ -1,35 +1,165 @@
 {
-  "builtAt": "2026-09-30T13:38:21.233Z",
+  "builtAt": "2026-09-30T22:35:28.852Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風26号 今夜遅く伊豆諸島に接近 千葉であす雨強まるおそれも",
-      "slug": "台風26号今夜遅く伊豆諸島に接近千葉であす雨強ま",
-      "independentSources": 2,
+      "headline": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
+      "slug": "NetanyahupraisesstabbedI",
+      "independentSources": 5,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53511"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597126?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026093001110&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss"
+        }
+      ],
+      "issue": "旅客機の緊急着陸は副操縦士の墜落企図によるものか？",
+      "stasis": "因果の解釈",
+      "facts": [
+        {
+          "t": "UAEからイスラエルに向かっていた旅客機が緊急着陸した。",
+          "span": "緊急着陸しました",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "旅客機はハイジャックなどを知らせる信号を出した。",
+          "span": "ハイジャックなどを知らせる信号を出した",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "副操縦士が機長を刺した。",
+          "span": "副操縦士が機長刺す",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        },
+        {
+          "t": "操縦士の1人が逮捕され、尋問を受けている。",
+          "span": "A pilot has been arrested and is being questioned",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "代替機がイスラエルに到着し、乗客を運んだ。",
+          "span": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "刺された操縦士はスミット・マッチャー機長である。",
+          "span": "Captain Smit Machchhar",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "UAEからイスラエルに向かっていた旅客機が緊急着陸し、操縦士の1人が別の操縦士を刺したことは合意されている。緊急着陸の原因については、イスラエル首相が副操縦士による墜落企図があったと述べている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "Position 1: `span`が空文字だったため、元テキストのNHK見出しから「操縦士の1人が墜落企てた」に修正しました。",
+          "Position 2: 提示された争点「旅客機の緊急着陸は副操縦士の墜落企図によるものか？」に直接関連しないため、削除しました。この項目は操縦士への評価であり、緊急着陸の原因に関する議論には寄与しません。",
+          "position spanが原文に無い→除去「操縦士の1人が別の操縦士を刺し、墜落…」"
+        ]
+      }
+    },
+    {
+      "headline": "台風26号 伊豆諸島は強風 高波 落雷に注意 千葉で強い雨おそれ",
+      "slug": "台風26号伊豆諸島は強風高波落雷に注意千葉で強い",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260930de53237"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53516"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53515"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597124?source=rss"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930133717_0_VPFJ50_130000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930223001_0_VPWW54_130000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930133717_0_VPFJ51_130000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930223001_0_VPWW53_130000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930222805_0_VPWW53_130000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930222805_0_VPWW54_130000.xml"
         }
       ],
-      "issue": "台風26号は伊豆諸島にいつ接近し、どのような影響をもたらすか？",
+      "issue": "",
       "stasis": "事実",
       "facts": [
         {
-          "t": "台風26号は現在、伊豆諸島に接近しており、30日夜遅くから1日明け方にかけてかなり接近する見込みである。",
-          "span": "台風26号はこの時間、伊豆諸島に近づいていて、30日夜遅くから1日明け方にかけて、かなり接近する見込みです。",
+          "t": "台風26号が伊豆諸島付近を進んでいる。",
+          "span": "伊豆諸島付近を進んでいて",
           "src": [
             {
               "ty": "press",
@@ -38,8 +168,8 @@
           ]
         },
         {
-          "t": "伊豆諸島では、次第に風が強まり、1日にかけて非常に激しい雨が降るおそれがある。",
-          "span": "伊豆諸島では次第に風が強まり、1日にかけて非常に激しい雨が降るおそれがあり",
+          "t": "伊豆諸島では警報級の大雨となる可能性が低くなった。",
+          "span": "警報級の大雨となる可能性は低くなりました",
           "src": [
             {
               "ty": "press",
@@ -48,8 +178,8 @@
           ]
         },
         {
-          "t": "伊豆諸島では、土砂災害や高波のおそれがある。",
-          "span": "土砂災害や高波",
+          "t": "伊豆諸島では強風、高波、落雷、竜巻などの激しい突風に注意が必要である。",
+          "span": "強風や高波のほか、落雷、竜巻などの激しい突風に注意してください",
           "src": [
             {
               "ty": "press",
@@ -58,36 +188,68 @@
           ]
         },
         {
-          "t": "伊豆諸島南部では、10月1日明け方にかけて土砂災害に厳重に警戒する必要がある。",
-          "span": "伊豆諸島南部では１０月１日明け方にかけて土砂災害に厳重に警戒してください。",
+          "t": "伊豆諸島北部および南部では強風や高波に注意が必要である。",
+          "span": "強風や高波に注意してください",
           "src": [
             {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "op",
+              "ty": "prim",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "伊豆諸島南部では、落雷、竜巻などの激しい突風に注意する必要がある。",
-          "span": "また、落雷、竜巻などの激しい突風に注意してください。",
+          "t": "伊豆諸島南部では土砂災害に注意が必要である。",
+          "span": "土砂災害に注意してください",
           "src": [
             {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "op",
+              "ty": "prim",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "千葉県では、あす（1日）雨が強まるおそれがある。",
-          "span": "千葉であす雨強まるおそれも",
+          "t": "千葉県では1日昼ごろにかけて強い雨のおそれがある。",
+          "span": "千葉で強い雨おそれ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風が関東に接近し、千葉県では大雨のおそれがある。",
+          "span": "台風が関東接近へ 千葉は大雨恐れ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "1日午前に日本のはるか南で台風27号が発生した。",
+          "span": "1日午前、日本のはるか南で台風27号が発生しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風27号は今後北上する見込みである。",
+          "span": "今後北上する見込みで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は台風27号に関する今後の情報に注意するよう呼びかけている。",
+          "span": "今後の情報に注意するよう呼びかけています",
           "src": [
             {
               "ty": "press",
@@ -97,11 +259,145 @@
         }
       ],
       "positions": [],
-      "consensus": "台風26号は伊豆諸島に接近しており、土砂災害や高波、激しい雨、落雷、突風などのおそれがある。千葉県でも雨が強まる見込みである。",
+      "consensus": "台風26号および27号に関する気象情報が報じられている。評価は割れない。",
       "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[5].span: '1日昼ごろにかけて' が事実の核を捉えていなかったため、元テキストのヘッドラインから '千葉で強い雨おそれ' に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+      "slug": "LastUKandUStroopsleaveIr",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53501"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597112?source=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "イラクからの米軍撤退は妥当か、またはその影響はどうか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "アメリカ軍は9月30日、イラクからの部隊撤退を完了したと発表した。",
+          "span": "部隊の撤退が完了した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "アメリカ軍のイラク駐留は、過激派組織IS＝イスラミックステートに対応するためだった。",
+          "span": "過激派組織IS＝イスラミックステートに対応するために駐留を続けてきた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イギリス軍もイラクから撤退した。",
+          "span": "Last UK and US troops leave Iraq",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "連合軍の撤退は2年前に合意された取引に基づいている。",
+          "span": "under a deal agreed two years ago",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "隣国イランへの軍事作戦の後、イランの活動が活発化している。",
+          "span": "隣国イランへの軍事作戦のあと活動を活発化させてきたイラン",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "イラク政府",
+          "stance": "support",
+          "claim": "イラク政府は、連合軍の撤退が主要な要求だったと報じられている。",
+          "span": "was a key demand of the Iraqi government",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "報道機関",
+          "stance": "attack",
+          "claim": "報道機関は、治安悪化への懸念が残ると報じている。",
+          "span": "治安悪化への懸念残る",
+          "reason": null,
+          "attr": null,
+          "premises": [
+            4
+          ],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "consensus": "アメリカ軍は9月30日にイラクからの部隊撤退を完了し、イギリス軍も撤退した。この駐留はIS対応のためであり、撤退はイラク政府の要求に基づいている。しかし、その影響については評価が割れる。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claimのメタ記述を修正しました。",
+          "positions[1].claimのメタ記述を修正しました。",
+          "positions[1].reasonの内容を新たな事実としてfactsに追加し、positions[1].premisesで参照するように修正しました。元のreasonフィールドはnullに設定しました。"
+        ]
       }
     },
     {
@@ -156,151 +452,6 @@
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "野上士耀選手が死去、１９歳　寮の室内で発見―プロ野球・オリックス",
-      "slug": "野上士耀選手が死去歳寮の室内で発見プロ野球オリッ",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597107?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026093001018&g=spo&m=rss"
-        }
-      ],
-      "issue": "オリックス・バファローズの野上士耀選手の死去について",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "プロ野球・オリックス・バファローズの野上士耀選手が死去した。",
-          "span": "野上士耀選手が死去",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "野上士耀選手は19歳だった。",
-          "span": "１９歳",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "野上士耀選手は寮の室内で発見された。",
-          "span": "寮の室内で発見",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "野上士耀選手の死に事件性はないと報じられている。",
-          "span": "事件性なし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "オリックス・バファローズの野上士耀選手が19歳で死去し、寮の室内で発見された。死に事件性は無いと報じられている。",
-      "note": "プライバシーに配慮し、詳細な状況説明は省略した。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issue: \"オリックス・バファローズの野上士耀選手の死去について、事件性はあったのか？\" を \"オリックス・バファローズの野上士耀選手の死去について\" に修正。元テキストに事件性の有無に関する議論や対立は明記されておらず、単なる事実の報道に留まるため、問い形式のissueは不適切と判断。",
-          "facts[3].t: \"野上士耀選手の死について、事件性はないと報じられている。\" を \"野上士耀選手の死に事件性はないと報じられている。\" に修正。より自然な日本語表現への変更。",
-          "facts[3].span: \"事件性なし\" を \"事件性なし\" のまま維持。元テキストの表現を正確に反映しているため。",
-          "consensus: \"オリックス・バファローズの野上士耀選手が19歳で死去し、寮の室内で発見された。死に事件性は無いと報じられている。\" を \"オリックス・バファローズの野上士耀選手が19歳で死去し、寮の室内で発見された。死に事件性は無いと報じられている。\" に修正。より自然な日本語表現への変更。"
-        ]
-      }
-    },
-    {
-      "headline": "妻の遺体切断、医師の男逮捕　死体損壊容疑など―兵庫県警",
-      "slug": "妻の遺体切断医師の男逮捕死体損壊容疑など兵庫県警",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260930de53465"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026093000967&g=soc&m=rss"
-        }
-      ],
-      "issue": "医師の夫は、妻の遺体を損壊し川に遺棄したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "去年、兵庫県尼崎市で当時41歳の妻の遺体が発見された。",
-          "span": "去年、兵庫県尼崎市で当時41歳の妻の遺体",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "46歳の医師の夫が、妻の遺体を刃物で損壊し川に遺棄した疑いで逮捕された。",
-          "span": "医師で46歳の夫が逮捕されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "逮捕容疑は死体損壊などである。",
-          "span": "死体損壊容疑など",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "去年、兵庫県尼崎市で当時41歳の妻の遺体が発見され、46歳の医師の夫が遺体を損壊し川に遺棄した疑いで逮捕された。警察は妻の死亡のいきさつについても調べる方針である。",
-      "note": "本件は事実関係の報道であり、評価や意見の対立は見られないため、positions は警察の捜査方針に関する記述のみとする。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions.claim: \"妻の死亡のいきさつについても詳しく調べる方針である\" を \"妻の死亡のいきさつについても詳しく調べる方針であると述べている\" に修正。メタ記述の徹底（地の文の断定を回避）。"
-        ]
       }
     }
   ]
