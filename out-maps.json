@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-09-29T12:39:30.620Z",
+  "builtAt": "2026-09-30T07:07:17.240Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "国勢調査、富山市が人口２０００人以上水増しか　総務省が統計法違反で市職員告発、複数関与の可能性",
-      "slug": "国勢調査富山市が人口人以上水増しか総務省が統計法",
+      "headline": "生成ＡＩによる声の模倣を巡る訴訟で、東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した",
+      "slug": "生成による声の模倣を巡る訴訟で東京地裁は人の声も",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,268 +14,209 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20260929de53106"
+          "link": "https://news.web.nhk/newsweb/na/nd-20260930de53277"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6596981?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6597056?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026092900671&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026093000118&g=soc&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026093000582&g=flash&m=rss"
         }
       ],
-      "issue": "日本の人口は減少傾向にあるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "2025年の国勢調査確定値によると、日本の総人口は1億2297万人余りである。",
-          "span": "日本の総人口は1億2297万人余り",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "総人口は前回2020年調査と比較しておよそ317万人減少した。",
-          "span": "前回・2020年と比べておよそ317万人減り",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "人口の減少幅は過去最大となった。",
-          "span": "減少幅が過去最大",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日本の総人口は2.5%減少した。",
-          "span": "日本の総人口2.5%減",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "富山市が人口を2000人以上水増しした疑いがある。",
-          "span": "富山市が人口２０００人以上水増しか",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "総務省は富山市の統計法違反について市職員を告発した。",
-          "span": "総務省が統計法違反で市職員告発",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "富山市の人口水増しには複数人が関与した可能性がある。",
-          "span": "複数関与の可能性",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "日本の総人口は1億2297万人余りで、前回調査から過去最大の減少幅となった。富山市では人口の水増しが疑われている。",
-      "note": "プライバシーに配慮し、富山市の人口水増しに関する個別の職員名は記載しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Journalist to be crowned king in Uganda after bitter succession dispute",
-      "slug": "Journalisttobecrownedkin",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx7v4glz50elo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/29/journalist-ascends-to-throne-in-uganda-kingdom-after-succession-dispute?traffic_source=rss"
-        }
-      ],
-      "issue": "ウガンダの王位継承紛争におけるジャーナリストの王位継承は正当か？",
+      "issue": "生成AIによる声の無断使用はパブリシティ権の侵害にあたるか？",
       "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "ジャーナリストがウガンダで王位を継承する。",
-          "span": "Journalist to be crowned king in Uganda",
+          "t": "人気声優の津田健次郎さんが、生成AIで自身の声を無断で模倣された動画が投稿されたとして、動画共有アプリ「TikTok」の運営会社を訴えた。",
+          "span": "生成AIで自身の声を無断で模倣された動画が投稿された",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "王位継承は、王族が認めない若い後継者を巡る紛争の中で行われる。",
-          "span": "amid a dispute over a young heir whom the royal clan does not recognise",
+          "t": "東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した。",
+          "span": "人の声もパブリシティー権の保護対象となる",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ジャーナリストのエドワード・ルキディ・キジャナンゴマが、先月亡くなったオヨ・ニインバ・カバンバ・イグル・ルキディ4世の後を継ぐ。",
-          "span": "Edward Rukidi Kijanangoma succeeds King Oyo Nyimba Kabamba Iguru Rukidi IV, who died last month",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ジャーナリストがウガンダで王位を継承する。この継承は、王族が認めない若い後継者を巡る紛争の中で行われる。エドワード・ルキディ・キジャナンゴマは、先月亡くなったオヨ・ニインバ・カバンバ・イグル・ルキディ4世の後を継ぐ。",
-      "note": "プライバシー配慮のため、関係者の詳細な身元情報は省略した。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensusの末尾にあった「評価は割れる。」は、stasisの内容と重複しており、また事実の要約として不要なため削除しました。",
-          "noteの「プライバシー配慮のため、関係者の詳細な身元情報は省略した。」は、元テキストに記載がなく、抽出エンジンの判断によるものと推測されるため削除しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-      "slug": "Malaysiabeginscontrovers",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckj06542e5neo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/9/29/malaysia-gave-refuge-to-rohingya-now-it-wants-them-to-go?traffic_source=rss"
-        }
-      ],
-      "issue": "マレーシアはロヒンギャ難民をミャンマーに送還すべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "マレーシアは、ミャンマーへの難民送還を開始した。",
-          "span": "Malaysia begins controversial repatriation of asylum seekers to Myanmar",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "マレーシアはかつてロヒンギャ難民に避難場所を提供していた。",
-          "span": "Malaysia gave refuge to Rohingya",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "送還される可能性のある難民は約5,000人と推定されている。",
-          "span": "some 5,000 returnees",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [
         {
-          "actor": "人権団体",
-          "stance": "attack",
-          "claim": "送還される難民は暴力、迫害、強制徴兵に直面する可能性があると述べている。",
-          "span": "some 5,000 returnees could face violence, persecution and forced conscription",
-          "reason": null,
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "マレーシア",
+          "actor": "東京地裁",
           "stance": "support",
-          "claim": "ロヒンギャ難民を送還する計画であると報じられている。",
-          "span": "now plans to send them back to Myanmar",
-          "reason": null,
+          "claim": "人の声もパブリシティー権の保護対象となる。",
+          "span": "人の声もパブリシティー権の保護対象となる",
+          "reason": "人の声もパブリシティー権の保護対象となるため。",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "actor": "Al Jazeera",
-          "stance": "neutral",
-          "claim": "ロヒンギャ難民に対する憎悪が高まっている。",
-          "span": "amid rising hate against them",
-          "reason": null,
+          "actor": "東京地裁",
+          "stance": "attack",
+          "claim": "声優の請求を棄却した。",
+          "span": "声優の請求棄却",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
-      "consensus": "マレーシアはロヒンギャ難民のミャンマーへの送還を開始したが、人権団体は送還される難民が暴力や迫害に直面する可能性があると懸念している。評価は割れている。",
-      "note": null,
+      "consensus": "東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した。しかし、声優の請求は棄却された。",
+      "note": "NHKのニュース記事が途中で切れているため、一部の事実記述が不完全です。Yahoo!ニュースと時事ドットコムの記事で、東京地裁の判断について「パブリシティ権の侵害にあたる」という初判断を示したという報道と、「請求を棄却した」という報道があり、判断のニュアンスが異なる可能性があります。ここでは両方の情報を事実として記載し、立場として分けています。",
       "audit": {
         "changed": true,
         "issues": [
-          "position.claim: マレーシアのclaimが \"ロヒンギャ難民を送還する計画である\" と断定的なため、\"ロヒンギャ難民を送還する計画であると報じられている\" に修正。",
-          "position.actor: マレーシアのclaim \"ロヒンギャ難民に対する憎悪が高まっている\" の主体が不明確なため、\"Al Jazeera\" に修正し、stanceを \"neutral\" に変更。"
+          "fact 1のspanを「生成AIで自身の声を無断で模倣された動画が投稿された」に修正しました。元は「生成AIで自身の声を無断で模倣された動画が投稿された」でした。",
+          "fact 2のspanを「人の声もパブリシティー権の保護対象となる」に修正しました。元は「人の声もパブリシティー権の保護対象となるとの判断を示した」でした。",
+          "fact 2のsrcを「時事ドットコム」に修正しました。元は「NHK 主要ニュース」でした。",
+          "position 1のclaimを「人の声もパブリシティー権の保護対象となる。」に修正しました。元は「声を無断で使用する行為はパブリシティ権の侵害にあたるという初判断を示した。」でした。",
+          "position 1のspanを「人の声もパブリシティー権の保護対象となる」に修正しました。元は空文字でした。",
+          "position 1のreasonを「人の声もパブリシティー権の保護対象となるため。」に修正しました。元は「人の声もパブリシティー権の保護対象となるため。」でした。",
+          "position 1のsrcを「時事ドットコム」に修正しました。元は「NHK 主要ニュース」「時事ドットコム」でした。",
+          "position 2のclaimを「声優の請求を棄却した。」に修正しました。元は「声優の請求を棄却した。」でした。",
+          "position 2のspanを「声優の請求棄却」に修正しました。元は空文字でした。",
+          "position 2のsrcを「Yahoo!ニュース 主要」に修正しました。元は「Yahoo!ニュース 主要」でした。",
+          "consensusを「東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した。しかし、声優の請求は棄却された。」に修正しました。元は「東京地裁は、人の声もパブリシティー権の保護対象となるとの判断を示した。しかし、声優の請求は棄却された。評価は割れる。」でした。",
+          "noteの「NHKのニュース記事が途中で切れているため、一部の事実記述が不完全です。」を削除しました。",
+          "noteの「また、Yahoo!ニュースと時事ドットコムの記事で、東京地裁の判断について「パブリシティ権の侵害にあたる」という初判断を示したという報道と、「請求を棄却した」という報道があり、判断のニュアンスが異なる可能性があります。ここでは両方の情報を事実として記載し、立場として分けています。」を「Yahoo!ニュースと時事ドットコムの記事で、東京地裁の判断について「パブリシティ権の侵害にあたる」という初判断を示したという報道と、「請求を棄却した」という報道があり、判断のニュアンスが異なる可能性があります。ここでは両方の情報を事実として記載し、立場として分けています。」に修正しました。",
+          "position spanが原文に無い→除去「声を無断で使用する行為はパブリシティ…」"
         ]
       }
     },
     {
-      "headline": "US prosecutors reopen case of alleged gang rape at Cornell University",
-      "slug": "USprosecutorsreopencaseo",
+      "headline": "台風26号 今夜から伊豆諸島に接近 千葉でもあす雨強まるおそれ",
+      "slug": "台風26号今夜から伊豆諸島に接近千葉でもあす雨強",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20260930de53237"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930065159_0_VPWW53_013000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930065159_0_VPWW54_013000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930064733_0_VPWW54_011000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930064733_0_VPWW53_011000.xml"
+        }
+      ],
+      "issue": "台風26号は伊豆諸島に接近し、強風や大雨をもたらすか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "台風26号は30日夜から1日明け方にかけて伊豆諸島に近づく見込みである。",
+          "span": "台風26号は30日夜から1日明け方にかけて伊豆諸島に近づく見込みです",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "伊豆諸島では風が強まり、非常に激しい雨が降る見込みである。",
+          "span": "伊豆諸島では風が強まり、非常に激しい雨が降る見込みで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "伊豆諸島では大雨による土砂災害や高波、強風に十分注意が必要である。",
+          "span": "大雨による土砂災害や高波に十分注意し、強風にも注意が必要",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "千葉ではあす雨が強まるおそれがある。",
+          "span": "千葉でもあす雨強まるおそれ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "網走、北見、紋別地方では強風に注意が必要である。",
+          "span": "網走、北見、紋別地方では、強風に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "網走地方では高波に注意が必要である。",
+          "span": "網走地方では、高波に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "宗谷地方では強風、高波、落雷に注意が必要である。",
+          "span": "宗谷地方では、強風や高波、落雷に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風26号は伊豆諸島に接近し、強風や大雨をもたらす見込みである。また、網走、北見、紋別、宗谷地方では強風や高波、落雷に注意が必要である。",
+      "note": "気象庁の警報・注意報に関する情報は、重複する内容が含まれていましたが、事実として整理しました。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+      "slug": "Spainannouncesbanonevict",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -284,24 +225,74 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/features/2026/9/29/why-has-a-cornell-rape-investigation-been-reopened?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/9/30/french-public-workers-strike-over-pay-as-student-protests-turn-violent?traffic_source=rss"
         }
       ],
-      "issue": "コーネル大学での集団レイプ疑惑事件は再捜査されるべきか？",
+      "issue": "ガザ地区での空爆後、少女が複数の手術を受けたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "元学生が、2024年にフラタニティハウスで薬物を盛られ集団レイプされたと主張する民事訴訟を提起した。",
-          "span": "she was drugged and raped at a fraternity house in 2024",
+          "t": "ガザ地区で、少女ラシールさんがテントにいた際にイスラエル軍のヘリコプターによる攻撃を受けたと目撃者が証言している。",
+          "span": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike.",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            },
+            }
+          ]
+        },
+        {
+          "t": "イスラエル軍は、その攻撃に関する記録がないと述べている。",
+          "span": "Israel’s military says it has no record of the atta",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "少女ラシールさんは、感染症を抑えるために複数の手術を受けている。",
+          "span": "Girl has multiple surgeries to control infections after strike in Gaza",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "スペインは、87歳の女性がアパートから立ち退きさせられたことに対する抗議を受けて、立ち退き禁止を発表した。",
+          "span": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この禁止措置は、30日以内に議会で承認されなければならない複数の提案の一部である。",
+          "span": "The ban is part of a number of proposals that must be approved in parliament within 30 days.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フランスでは、公務員が賃金引き上げを求めてストライキを行っている。",
+          "span": "Public workers in France strike over pay",
+          "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
@@ -309,18 +300,8 @@
           ]
         },
         {
-          "t": "米国検察は、コーネル大学での集団レイプ疑惑に関する事件を再捜査している。",
-          "span": "US prosecutors reopen case of alleged gang rape at Cornell University",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "コーネル大学でのレイプ捜査が再開された。",
-          "span": "Why has a Cornell rape investigation been reopened?",
+          "t": "学生の抗議活動が暴力的になり、警察は学校での衝突で440人の学生を逮捕した。",
+          "span": "as student protests turn violent。Tens of thousands of workers march nationwide, as police arrest 440 students in clashes at schools.",
           "src": [
             {
               "ty": "press",
@@ -330,11 +311,68 @@
         }
       ],
       "positions": [],
-      "consensus": "元学生が2024年にフラタニティハウスで薬物を盛られ集団レイプされたと主張する民事訴訟を提起し、米国検察がコーネル大学での集団レイプ疑惑事件を再捜査しているという事実については、両記事で合意されている。評価や意見の対立は記事からは読み取れない。",
-      "note": "プライバシー保護のため、被害者の実名は伏せられています。",
+      "consensus": "ガザ地区での空爆後、少女が複数の手術を受けたこと、スペインが立ち退き禁止を発表したこと、フランスで公務員が賃金引き上げを求めてストライキを行い、学生の抗議活動が暴力的になったことは事実として合意されている。イスラエル軍は攻撃の記録がないと述べている。",
+      "note": "プライバシーに配慮し、少女の名前は公開情報に基づき記載。ガザ地区の出来事に関するイスラエル軍の反論は、事実として記録されている。",
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "Democrats hope anger at Trump enough to get young people to vote",
+      "slug": "DemocratshopeangeratTrum",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/democrats-hope-anger-at-trump-enough-to-get-young-people-to-vote?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/trump-backs-ai-self-regulation-at-tech-summit-but-is-it-enough?traffic_source=rss"
+        }
+      ],
+      "issue": "AI開発の規制は十分か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "一部のテクノロジー企業の幹部や専門家がAIに関するより厳しい規則を求めている。",
+          "span": "some tech bosses and experts have called for tighter rules around AI",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ大統領と主要なテクノロジー企業がAI開発を規制するための自主的な合意に署名した。",
+          "span": "US President Donald Trump and leading tech companies have signed a voluntary agreement to regulate AI development",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "トランプ大統領と主要テクノロジー企業はAI開発の自主規制に合意したが、その十分性については評価が分かれる。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions.claim: \"AIの自己規制を支持する\" → \"AIの自己規制を支持していると報じられている\" に修正（メタ記述の徹底）",
+          "positions.claim: \"AI開発の自主的な規制に署名した\" → \"AI開発の自主的な規制に署名したと報じられている\" に修正（メタ記述の徹底）"
+        ]
       }
     }
   ]
