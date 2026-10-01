@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-09-30T22:35:28.852Z",
+  "builtAt": "2026-10-01T07:45:52.134Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Netanyahu praises stabbed Indian pilot for saving lives on Flydubai flight",
-      "slug": "NetanyahupraisesstabbedI",
-      "independentSources": 5,
+      "headline": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "slug": "Tooearlytosaywhatmotivef",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム",
         "BBC World",
         "Al Jazeera"
@@ -16,64 +15,96 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53511"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597126?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53581"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026093001110&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026100100652&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/30/netanyahu-praises-indian-pilot-for-saving-lives-on-flydubai-flight?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/1/india-vs-pakistan-live-asian-games-hockey-semifinal?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/gaza-prepares-to-bury-105-palestinians-killed-in-october-2023?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand?traffic_source=rss"
         }
       ],
-      "issue": "旅客機の緊急着陸は副操縦士の墜落企図によるものか？",
-      "stasis": "因果の解釈",
+      "issue": "イスラエル行き旅客機内で副操縦士が機長を刺したとされる事件の動機は何か？",
+      "stasis": "因果の解釈（割れる）",
       "facts": [
         {
-          "t": "UAEからイスラエルに向かっていた旅客機が緊急着陸した。",
-          "span": "緊急着陸しました",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "旅客機はハイジャックなどを知らせる信号を出した。",
-          "span": "ハイジャックなどを知らせる信号を出した",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "副操縦士が機長を刺した。",
-          "span": "副操縦士が機長刺す",
+          "t": "イスラエル行きの旅客機がサウジアラビアに緊急着陸した。",
+          "span": "イスラエル行きの旅客機がサウジアラビアに緊急着陸した",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "操縦士の1人が逮捕され、尋問を受けている。",
+          "t": "イスラエルメディアは、副操縦士が機長を刺し、旅客機の墜落を企てたと伝えている。",
+          "span": "副操縦士が機長を刺して旅客機の墜落を企てたと伝えています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "副操縦士はオマーン国籍とされている。",
+          "span": "副操縦士はオマーン国籍とされ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "事件の動機の解明が焦点となっている。",
+          "span": "動機の解明が焦点です",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "イスラエル便の乗客は、急降下を「ジェットコースターのよう」だったと述べた。",
+          "span": "急降下「ジェットコースターのよう」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "パイロットが逮捕され、尋問を受けている。",
           "span": "A pilot has been arrested and is being questioned",
           "src": [
             {
@@ -81,328 +112,210 @@
               "l": "BBC World"
             }
           ]
-        },
-        {
-          "t": "代替機がイスラエルに到着し、乗客を運んだ。",
-          "span": "A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "刺された操縦士はスミット・マッチャー機長である。",
-          "span": "Captain Smit Machchhar",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
         }
       ],
       "positions": [],
-      "consensus": "UAEからイスラエルに向かっていた旅客機が緊急着陸し、操縦士の1人が別の操縦士を刺したことは合意されている。緊急着陸の原因については、イスラエル首相が副操縦士による墜落企図があったと述べている。",
+      "consensus": "イスラエル行き旅客機が緊急着陸したことは事実だが、副操縦士が機長を刺したとされる事件の動機や詳細はまだ不明であり、評価は割れる。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "Position 1: `span`が空文字だったため、元テキストのNHK見出しから「操縦士の1人が墜落企てた」に修正しました。",
-          "Position 2: 提示された争点「旅客機の緊急着陸は副操縦士の墜落企図によるものか？」に直接関連しないため、削除しました。この項目は操縦士への評価であり、緊急着陸の原因に関する議論には寄与しません。",
-          "position spanが原文に無い→除去「操縦士の1人が別の操縦士を刺し、墜落…」"
+          "事実欄 (facts[4]) の 't' に評価語「恐怖を振り返った」が混入していたため、「と述べた」に修正しました。"
         ]
       }
     },
     {
-      "headline": "台風26号 伊豆諸島は強風 高波 落雷に注意 千葉で強い雨おそれ",
-      "slug": "台風26号伊豆諸島は強風高波落雷に注意千葉で強い",
+      "headline": "「timelesz」猪俣周杜メンバーの契約解除 所属事務所が発表",
+      "slug": "timelesz猪俣周杜メンバの契約解除所属事務",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53516"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53613"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53515"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53606"
         },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597124?source=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930223001_0_VPWW54_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930223001_0_VPWW53_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930222805_0_VPWW53_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20260930222805_0_VPWW54_130000.xml"
-        }
-      ],
-      "issue": "",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "台風26号が伊豆諸島付近を進んでいる。",
-          "span": "伊豆諸島付近を進んでいて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "伊豆諸島では警報級の大雨となる可能性が低くなった。",
-          "span": "警報級の大雨となる可能性は低くなりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "伊豆諸島では強風、高波、落雷、竜巻などの激しい突風に注意が必要である。",
-          "span": "強風や高波のほか、落雷、竜巻などの激しい突風に注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "伊豆諸島北部および南部では強風や高波に注意が必要である。",
-          "span": "強風や高波に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "伊豆諸島南部では土砂災害に注意が必要である。",
-          "span": "土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "千葉県では1日昼ごろにかけて強い雨のおそれがある。",
-          "span": "千葉で強い雨おそれ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風が関東に接近し、千葉県では大雨のおそれがある。",
-          "span": "台風が関東接近へ 千葉は大雨恐れ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "1日午前に日本のはるか南で台風27号が発生した。",
-          "span": "1日午前、日本のはるか南で台風27号が発生しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風27号は今後北上する見込みである。",
-          "span": "今後北上する見込みで",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は台風27号に関する今後の情報に注意するよう呼びかけている。",
-          "span": "今後の情報に注意するよう呼びかけています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風26号および27号に関する気象情報が報じられている。評価は割れない。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[5].span: '1日昼ごろにかけて' が事実の核を捉えていなかったため、元テキストのヘッドラインから '千葉で強い雨おそれ' に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-      "slug": "LastUKandUStroopsleaveIr",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "BBC World"
-      ],
-      "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53501"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53556"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597112?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6597174?source=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597166?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597163?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100100604&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026093001018&g=spo&m=rss"
         }
       ],
-      "issue": "イラクからの米軍撤退は妥当か、またはその影響はどうか？",
+      "issue": "広島東洋カープは、小園海斗選手ら4選手との来季契約を結ばない決定は妥当か？",
       "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "アメリカ軍は9月30日、イラクからの部隊撤退を完了したと発表した。",
-          "span": "部隊の撤退が完了した",
+          "t": "プロ野球、広島は主力の小園海斗選手や矢野雅哉選手など4人について、来シーズンの契約を結ばないと発表した。",
+          "span": "主力の小園海斗選手や矢野雅哉選手など4人について、指定薬物をめぐる問題への内部調査の結果、信頼関係を築くのが難しいとして来シーズンの契約を結ばないと発表しました。",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "小園海斗選手らは「ゾンビたばこ」問題に関連している。",
+          "span": "「ゾンビたばこ」問題で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "電子部品大手のニデックは、昨年度の決算で5646億円を超える最終赤字となったと発表した。",
+          "span": "昨年度の決算で最終的な損益が5646億円を超える赤字になったと発表しました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ニデックは会計不正などの一連の問題を起こしていた。",
+          "span": "会計不正などの一連の問題を受けて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "人気アイドルグループ「timelesz」の猪俣周杜メンバーが、知人の女性を殴るなどしてけがをさせたとして逮捕され、その後釈放された。",
+          "span": "知人の女性を殴るなどしてけがをさせたとして逮捕され、その後、釈放された",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "「timelesz」の所属事務所は猪俣周杜メンバーとの契約を解除したと発表した。",
+          "span": "所属事務所は契約を解除したと発表しました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "オリックスの野上士耀選手が19歳で死去し、寮の室内で発見された。",
+          "span": "野上士耀選手が死去、１９歳　寮の室内で発見",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "広島東洋カープは小園海斗選手ら4選手との来季契約を結ばないことを発表した。ニデックは昨年度決算で5646億円超の赤字を発表し、新社長らが記者会見を行った。「timelesz」の猪俣周杜メンバーは契約解除となった。オリックスの野上士耀選手が死去した。評価は割れる。",
+      "note": "プライバシーに配慮し、個別の薬物問題の詳細や事件の詳細は省略した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "東京湾アクアライン 車4台が関係する事故 2人死亡3人けが",
+      "slug": "東京湾アクアライン車4台が関係する事故2人死亡3",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261001de53536"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597171?source=rss"
+        }
+      ],
+      "issue": "東京湾アクアラインで発生した多重事故の状況はどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "1日朝、東京湾アクアラインでトラックなど4台が関係する事故が発生した。",
+          "span": "1日朝、川崎市の東京湾アクアラインでトラックなど4台が関係する事故があり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この事故で2人が死亡し、3人が病院に運ばれた。",
+          "span": "2人死亡3人けが",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この事故で2人が死亡した。",
+          "span": "2人死亡",
+          "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
-        },
-        {
-          "t": "アメリカ軍のイラク駐留は、過激派組織IS＝イスラミックステートに対応するためだった。",
-          "span": "過激派組織IS＝イスラミックステートに対応するために駐留を続けてきた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イギリス軍もイラクから撤退した。",
-          "span": "Last UK and US troops leave Iraq",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "連合軍の撤退は2年前に合意された取引に基づいている。",
-          "span": "under a deal agreed two years ago",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "隣国イランへの軍事作戦の後、イランの活動が活発化している。",
-          "span": "隣国イランへの軍事作戦のあと活動を活発化させてきたイラン",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
         }
       ],
-      "positions": [
-        {
-          "actor": "イラク政府",
-          "stance": "support",
-          "claim": "イラク政府は、連合軍の撤退が主要な要求だったと報じられている。",
-          "span": "was a key demand of the Iraqi government",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "報道機関",
-          "stance": "attack",
-          "claim": "報道機関は、治安悪化への懸念が残ると報じている。",
-          "span": "治安悪化への懸念残る",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            4
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "consensus": "アメリカ軍は9月30日にイラクからの部隊撤退を完了し、イギリス軍も撤退した。この駐留はIS対応のためであり、撤退はイラク政府の要求に基づいている。しかし、その影響については評価が割れる。",
-      "note": null,
+      "positions": [],
+      "consensus": "1日朝、東京湾アクアラインでトラックなど4台が関係する事故が発生し、2人が死亡、3人が病院に運ばれた。警察は大型トレーラーが渋滞の列に突っ込んだとみて調べている。",
+      "note": "プライバシー配慮のため、事故の詳細な状況や個人を特定できる情報は含んでいません。",
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].claimのメタ記述を修正しました。",
-          "positions[1].claimのメタ記述を修正しました。",
-          "positions[1].reasonの内容を新たな事実としてfactsに追加し、positions[1].premisesで参照するように修正しました。元のreasonフィールドはnullに設定しました。"
+          "facts[1]のspanを「2人死亡3人けが」に修正しました。元テキストに存在しないspanを削除しました。",
+          "consensusから「評価は割れる。」を削除しました。元テキストに評価が割れる根拠がないためです。",
+          "fact spanが原文に無い→除去「2人が死亡し3人けが…」"
         ]
       }
     },
     {
-      "headline": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-      "slug": "Russialauncheslargestatt",
+      "headline": "Swiss glaciers suffer 'disastrous' year of ice loss, threatening water supplies",
+      "slug": "Swissglacierssufferdisas",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -411,23 +324,29 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6n9w0ypjwl9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/catastrophic-year-as-swiss-glaciers-lose-5-of-ice-after-heatwaves?traffic_source=rss"
         }
       ],
-      "issue": "ロシアは春以降、ウクライナのエネルギーインフラに対して最大の攻撃を行ったか？",
+      "issue": "スイスの氷河は気候変動の影響で、どの程度氷を失うのか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ロシアは春以降、ウクライナのエネルギーインフラに対して最大の攻撃を行った。",
-          "span": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+          "t": "スイスの氷河は、熱波の影響で今年、氷の5%を失った。",
+          "span": "Swiss glaciers lose 5% of ice after heatwaves",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "科学者によると、氷河の急速な融解は気候変動のペースを考えると驚くべきことではなくなった。",
+          "span": "Scientists say such rapid melting is no longer surprising given the pace of climate change.",
           "src": [
             {
               "ty": "press",
@@ -436,22 +355,26 @@
           ]
         },
         {
-          "t": "攻撃により、11の地域で住宅や鉄道も標的となった。",
-          "span": "In total 11 regions of the country were attacked overnight, with residential buildings and railways also targeted",
+          "t": "科学者たちは、スイスの氷河が今年、記録的な量の氷を失ったと警告している。",
+          "span": "Scientists are warning that Switzerland&#039;s glaciers have lost an ‘enormous’ amount of ice this year.",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ロシアは春以降、ウクライナのエネルギーインフラに対して最大の攻撃を行った。攻撃により、11の地域で住宅や鉄道も標的となった。",
-      "note": "プライバシー配慮のため、被害者の特定につながる情報は含んでいません。",
+      "consensus": "スイスの氷河は、熱波の影響で今年、氷の5%を失った。科学者によると、氷河の急速な融解は気候変動のペースを考えると驚くべきことではなくなった。科学者たちは、スイスの氷河が今年、記録的な量の氷を失ったと警告している。",
+      "note": "プライバシーに配慮し、個人名は記載しない。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "consensus: 元のconsensusには、事実とpositionsの要約が含まれていましたが、positionsの「氷河の損失は悲惨な年であったと評価されているが、その評価については割れている。」という部分は、事実ではなく評価であり、また、positionsのclaimは両方とも「壊滅的」「悲惨」という評価語を含んでおり、事実として提示されていました。これらの評価語はpositionsのclaimに含め、consensusからは削除しました。また、consensusの末尾にあった「その評価については割れている」という記述は、positionsの内容から推測されるものであり、直接的な事実の要約ではないため削除しました。",
+          "positions: positionsのclaimに「壊滅的な」「悲惨な」という評価語が含まれていましたが、これは事実ではなく評価であるため、そのままpositionsのclaimとして残しました。actorが「Scientists」と特定できているため、そのままにしました。",
+          "facts: factsの各項目は、元テキストから抽出された事実であり、評価語は含まれていないため、修正はありません。"
+        ]
       }
     }
   ]
