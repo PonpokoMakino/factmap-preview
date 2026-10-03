@@ -1,142 +1,142 @@
 {
-  "builtAt": "2026-10-02T23:50:32.837Z",
+  "builtAt": "2026-10-03T03:56:37.592Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Police bodycam shows Luigi Mangione arrest at Pennsylvania McDonald’s",
-      "slug": "PolicebodycamshowsLuigiM",
-      "independentSources": 2,
+      "headline": "富山市の国勢調査 人口水増し問題で市役所を捜索 富山県警",
+      "slug": "富山市の国勢調査人口水増し問題で市役所を捜索富山",
+      "independentSources": 3,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54022"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/police-bodycam-shows-luigi-mangione-arrest-at-pennsylvania?traffic_source=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597359?source=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/10/2/france-held-by-italy-in-zidanes-homecoming-after-olise-stunner?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100300201&g=soc&m=rss"
         }
       ],
-      "issue": "複数の国際ニュース記事における主要な出来事と状況は何か？",
+      "issue": "富山市の国勢調査における人口水増し疑惑に関する捜査",
       "stasis": "事実",
       "facts": [
         {
-          "t": "フランスで教育に関する抗議活動が激化し、機動隊と学生が衝突した。",
-          "span": "Riot police clash with students",
+          "t": "富山市の職員が国勢調査で人口を水増しした疑いで刑事告発されていた。",
+          "span": "国勢調査で人口を水増しした疑いがあるとして刑事告発されていた",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "約735校が混乱に直面した。",
-          "span": "have faced disruption",
+          "t": "警察は3日、統計法違反の疑いで富山市役所を捜索した。",
+          "span": "統計法違反の疑いで富山市役所を捜索しました",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "抗議活動は暴力的である。",
-          "span": "violent protests",
+          "t": "人口の水増しには複数の職員が関与した可能性がある。",
+          "span": "複数の職員が関与した可能性がある",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "抗議活動は基準と教師不足を巡るものである。",
-          "span": "over standards and lack of teachers",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "新たに公開されたボディカメラ映像が、警察がルイージ・マンジョーネを逮捕・捜索する様子を示している。",
-          "span": "shows police arresting and searching Luigi Mangione",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "逮捕はペンシルベニア州アルトゥーナのマクドナルドで行われた。",
-          "span": "at a McDonald’s in Altoona",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "逮捕は2024年に行われた。",
-          "span": "in 2024",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ジダン監督のホームデビュー戦で、フランスはイタリアと1-1で引き分けた。",
-          "span": "held 1-1 by Italy in Zidane home debut",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "マイケル・オリーズの先制点を、イタリアのアレッサンドロ・バストーニが取り消した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "この試合はUEFAネーションズリーグの引き分けだった。",
-          "span": "UEFA Nations League draw",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "提示された記事は、フランスでの教育抗議活動、ペンシルベニア州での逮捕、およびサッカーの試合結果という、複数の国際的な出来事を報じている。これらの出来事に対する評価や解釈は記事中に示されていないため、本JSONでは事実のみを記述する。",
-      "note": "複数の独立したニュース記事から事実を抽出したため、特定の争点や対立する立場は存在しません。",
+      "consensus": "富山市の国勢調査における人口水増し疑惑に関して、警察が統計法違反の疑いで市役所を捜索したことが報じられている。",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[8].span が空だったので、元テキストの該当箇所 'Italy's Alessandro Bastoni cancels out Michael Olise's opener for France' に修正しました。",
-          "fact spanが原文に無い→除去「cancels out Michae…」"
-        ]
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "大谷翔平「かなり良くなった」　地区シリーズへ復調強調―ＭＬＢ・ドジャース",
+      "slug": "大谷翔平かなり良くなった地区シリズへ復調強調ドジ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54033"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100300207&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100300202&g=spo&m=rss"
+        }
+      ],
+      "issue": "大谷翔平選手の地区シリーズへの心境と準備状況は良好か？",
+      "stasis": "評価・予測",
+      "facts": [
+        {
+          "t": "大谷翔平選手が大リーグのけが人リストから復帰した。",
+          "span": "けが人リストから復帰し",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "大谷翔平選手がポストシーズン（地区シリーズ）に臨む。",
+          "span": "ポストシーズンに臨む",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "大谷翔平選手が地区シリーズを前に会見を行った。",
+          "span": "地区シリーズを前に会見を行い",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "大谷翔平選手がけがから復帰し、地区シリーズを前に自身の状態が良好であり、期待感を持っていると表明したことについては合意されている。評価は割れていない。",
+      "note": null,
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     },
     {
@@ -226,8 +226,8 @@
       }
     },
     {
-      "headline": "「副首都」要件案を公表 4道府県に指定可能性",
-      "slug": "副首都要件案を公表4道府県に指定可能性",
+      "headline": "津市の4人死亡火事 当時現場で複数回の爆発音のような大きな音",
+      "slug": "津市の4人死亡火事当時現場で複数回の爆発音のよう",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -236,19 +236,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261003de53995"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261003de54036"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597340?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6597373?source=rss"
         }
       ],
-      "issue": "政府が公表した「副首都」指定要件案の内容と、その要件を満たす道府県",
+      "issue": "津市で発生した火災の状況と原因は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "政府は、大規模災害時に首都の代替機能を担う「副首都」の指定要件案を公表した。",
-          "span": "指定要件の案を公表しました",
+          "t": "津市で住宅1棟が全焼し、4人が死亡する火事が発生した。",
+          "span": "津市で住宅1棟が全焼し、4人が死亡した火事",
           "src": [
             {
               "ty": "press",
@@ -257,8 +257,8 @@
           ]
         },
         {
-          "t": "要件案には、道府県内に全国の総人口の1.2％以上の都市があることなどが盛り込まれている。",
-          "span": "道府県内に全国の総人口の1.2％以上の都市があることなどが盛り込まれていて",
+          "t": "この火事は2日に発生した。",
+          "span": "2日に",
           "src": [
             {
               "ty": "press",
@@ -267,8 +267,8 @@
           ]
         },
         {
-          "t": "政府が公表した要件案により、「副首都」に指定される可能性がある。",
-          "span": "この要件で「副首都」に指定される可",
+          "t": "火災現場では当時、爆発音のような大きな音が複数回していた。",
+          "span": "爆発音のような大きな音が複数回していた",
           "src": [
             {
               "ty": "press",
@@ -277,8 +277,28 @@
           ]
         },
         {
-          "t": "「副首都」となる要件を4道府県が満たしている。",
-          "span": "4道府県満たす",
+          "t": "この情報は消防への取材で明らかになった。",
+          "span": "消防への取材で分かりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "住人やその知人の4歳から13歳までの子ども4人と連絡が取れていない。",
+          "span": "住人やその知人の4歳から13歳までの子ども4人と連絡が取れ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "プロパンボンベが破裂した。",
+          "span": "プロパンボンベ破裂",
           "src": [
             {
               "ty": "press",
@@ -288,76 +308,11 @@
         }
       ],
       "positions": [],
-      "consensus": "政府が大規模災害時の首都代替機能を担う「副首都」の指定要件案を公表し、その要件を満たす道府県が4つあるという事実が報じられている。記事中には、この要件案に対する評価や賛否の意見は示されていない。",
-      "note": "事実合意型",
+      "consensus": "津市で発生した火災により4人が死亡し、住宅1棟が全焼した。現場では爆発音が複数回聞かれ、プロパンボンベが破裂したと報じられている。4人の子どもと連絡が取れていない。",
+      "note": "本記事は事実の報告であり、評価や意見の対立は含まれていないため、positionsは空配列です。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "issueが事実合意型であるため、問いの形式から記述的な形式に修正しました。",
-          "facts[2].tがspanから直接読み取れない情報を含んでいたため、spanの内容と整合するように修正しました。また、facts[3]との重複を避けました。"
-        ]
-      }
-    },
-    {
-      "headline": "久保建英選手と福原遥さん結婚　サッカー",
-      "slug": "久保建英選手と福原遥さん結婚サッカ",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597341?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100201122&g=soc&m=rss"
-        }
-      ],
-      "issue": "女優の福原遥の結婚に関する報道の内容は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "女優の福原遥が結婚したと報じられている。",
-          "span": "福原遥結婚",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "福原遥の結婚相手はサッカー選手の久保建英であると報じられている。",
-          "span": "久保建英選手と福原遥さん結婚",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "福原遥の結婚に対し、芸能界から祝福の声が多数寄せられている。",
-          "span": "芸能界から祝福相次ぐ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "女優の福原遥がサッカー選手の久保建英と結婚したと報じられており、芸能界から祝福が寄せられている。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "spanの最小核: facts[1]のspanが元テキストと一字一句一致していなかったため、「久保建英選手と福原遥さん結婚」に修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
