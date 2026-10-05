@@ -1,76 +1,70 @@
 {
-  "builtAt": "2026-10-05T14:58:21.442Z",
+  "builtAt": "2026-10-05T21:56:54.935Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Nobel medicine prize honours US and German scientists for optogenetics work",
-      "slug": "Nobelmedicineprizehonour",
+      "headline": "Trump says US ready to aid Russia with plague outbreak in Siberia",
+      "slug": "TrumpsaysUSreadytoaidRus",
       "independentSources": 3,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム",
+        "Yahoo!ニュース 主要",
+        "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54368"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597690?source=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100500852&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss"
         }
       ],
-      "issue": "ことしのノーベル生理学・医学賞は、光遺伝学の基礎を築いた研究者に授与されるか？",
+      "issue": "ロシアのペスト研究所員死亡事件について、米国はどのように対応しているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ことしのノーベル生理学・医学賞に、光遺伝学の基礎を築いたアメリカ、スタンフォード大学のカール・ダイセロス氏ら3人が選ばれた。",
-          "span": "ことしのノーベル生理学・医学賞に、光を使って神経細胞などの働きを自在に操作する「光遺伝学＝オプトジェネティクス」と呼ばれる技術の基礎を築いた、アメリカ、スタンフォード大学のカール・ダイセロス氏ら3人",
+          "t": "ロシアのペスト研究所で働く研究員が死亡した。",
+          "span": "ペスト研究所員死亡",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "光遺伝学は、光を使って神経細胞などの働きを自在に操作する技術である。",
-          "span": "光を使って神経細胞などの働きを自在に操作する「光遺伝学＝オプトジェネティクス」と呼ばれる技術",
+          "t": "死亡した研究員は、ロシアのシベリアにある研究センターに勤務していた。",
+          "span": "research centre in Si",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "光遺伝学研究の米独3氏にノーベル生理学・医学賞が授与される。",
-          "span": "光遺伝学研究の米独３氏に　照射した神経細胞操作―ノーベル生理学・医学賞",
+          "t": "米国は、この事件を「非常に強く」注視している。",
+          "span": "looking \"very strongly\"",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "ノーベル生理学・医学賞の受賞者は、アメリカとドイツの科学者である。",
-          "span": "Nobel medicine prize honours US and German scientists for optogenetics work",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "物理学、化学、文学、平和、経済学のノーベル賞受賞者は、今後発表される。",
-          "span": "The winners of the Nobel Prizes in physics, chemistry, literature, peace and ‌economics will be announced in the week.",
+          "t": "ロシア当局は、シベリアでの肺炎ペストが疑われる死亡事件の後、病院を検疫し、200人の接触者を監視している。",
+          "span": "Russian authorities quarantine hospital, monitor 200 contacts after suspected pneumonic plague death in Siberia",
           "src": [
             {
               "ty": "press",
@@ -80,21 +74,19 @@
         }
       ],
       "positions": [],
-      "consensus": "ことしのノーベル生理学・医学賞は、光遺伝学の基礎を築いたアメリカとドイツの研究者3人に授与されることが報じられている。",
-      "note": "",
+      "consensus": "ロシアのペスト研究所員が死亡し、米国がこの件を注視している点については一致している。しかし、米国がどのように支援するかについては、異なる発言が見られる。",
+      "note": "プライバシー保護のため、死亡した研究所員の個人情報は含んでいない。",
       "audit": {
         "changed": true,
         "issues": [
-          "Fact 1: src.l '時事ドットコム' と 'Al Jazeera' を削除。元テキストにカール・ダイセロス氏の名前やスタンフォード大学の記載は無い。また、NHKの報道にのみ言及があるため、srcをNHKに限定。",
-          "Fact 3: src.l '時事ドットコム' を削除。元テキストに「照射した神経細胞操作」の記載は無い。",
-          "Fact 4: src.l 'Al Jazeera' を削除。元テキストに「アメリカとドイツの科学者」という直接的な表現は無い。NHKの報道で「米独研究者」とあるが、Al Jazeeraの原文は「US and German scientists」であり、直接的な対応関係が薄いと判断。",
-          "Fact 5: src.l 'Al Jazeera' を削除。元テキストに「今後発表される」という直接的な表現は無い。"
+          "positions.claim: \"米国は、ロシアのペスト研究所員死亡事件を注視している。\" を \"米国は、ロシアのペスト研究所員死亡事件を注視していると述べた。\" に修正。メタ記述の徹底（地の文の断定を回避）。",
+          "positions.claim: \"米国は、シベリアでのペスト発生に関してロシアを支援する用意がある。\" を \"米国は、シベリアでのペスト発生に関してロシアを支援する用意があると述べた。\" に修正。メタ記述の徹底（地の文の断定を回避）。"
         ]
       }
     },
     {
-      "headline": "Teenager's hand blown off during confrontation between France school protesters and police",
-      "slug": "Teenagershandblownoffdur",
+      "headline": "Spain PM pins hopes on housing crisis to help win snap election",
+      "slug": "SpainPMpinshopesonhousin",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -103,19 +95,7 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
@@ -123,19 +103,19 @@
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/brazils-presidential-race-head-for-a-tough-runoff?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections?traffic_source=rss"
         }
       ],
-      "issue": "ブラジル大統領選挙の結果は？",
-      "stasis": "事実",
+      "issue": "スペインのペドロ・サンチェス首相は、総選挙の実施をどのように位置づけているか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "スペインのサンチェス首相は、住宅問題への対策が議会で否決されたことを受け、11月29日に早期選挙を実施すると発表した。",
-          "span": "Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the countr",
+          "t": "スペインで早期総選挙が実施された。",
+          "span": "Calling of a snap election",
           "src": [
             {
               "ty": "press",
@@ -144,8 +124,8 @@
           ]
         },
         {
-          "t": "フランスの学校での抗議活動中に、15歳の少年が警察との対立で手を吹き飛ばされる重傷を負った。",
-          "span": "Teenager's hand blown off during confrontation between France school protesters and police",
+          "t": "ペドロ・サンチェス首相は、早期総選挙の実施を、熟考された戦略的行動と見なしている。",
+          "span": "was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre",
           "src": [
             {
               "ty": "press",
@@ -154,8 +134,8 @@
           ]
         },
         {
-          "t": "フランスのパ＝ド＝カレー県知事によると、少年の命に危険はない。",
-          "span": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+          "t": "サンチェス首相は、住宅危機が総選挙での勝利に貢献すると期待している。",
+          "span": "pins hopes on housing crisis to help win snap election",
           "src": [
             {
               "ty": "press",
@@ -164,8 +144,8 @@
           ]
         },
         {
-          "t": "沖縄で逮捕されたアメリカ海兵隊員が、長年の不満を抱える地元住民の間で抗議活動を再燃させた。",
-          "span": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+          "t": "ブラジル大統領選挙の第1回投票が行われた。",
+          "span": "wins first round of Brazil election",
           "src": [
             {
               "ty": "press",
@@ -174,8 +154,8 @@
           ]
         },
         {
-          "t": "ナイジェリア警察は、爆弾が誘拐された若者の救出を妨げていると発表した。",
-          "span": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+          "t": "ブラジル大統領選挙の第1回投票では、どの候補者も50%以上の票を獲得できなかった。",
+          "span": "With neither candidate getting more than 50% of the vote",
           "src": [
             {
               "ty": "press",
@@ -184,8 +164,8 @@
           ]
         },
         {
-          "t": "誘拐された19人の若者のうちの一人の父親は、心配で3日間何も食べていないとBBCに語った。",
-          "span": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+          "t": "ブラジル大統領選挙は10月25日に決選投票に進む。",
+          "span": "the election will go to a run-off on 25 October",
           "src": [
             {
               "ty": "press",
@@ -194,28 +174,8 @@
           ]
         },
         {
-          "t": "ブラジル大統領選挙の第1回投票で、右派のフラビオ・ボウソナロ氏が勝利した。",
-          "span": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ブラジル大統領選挙の第1回投票では、どの候補者も50%以上の票を獲得できなかったため、10月25日に決選投票が行われる。",
-          "span": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ブラジルのフラビオ・ボウソナロ氏が、10月25日の決選投票で勝利し、次期大統領になると分析されている。",
-          "span": "Analysts say Flavio Bolsonaro is projected to win the run-off vote on October 25 and become Brazil&#039;s next president",
+          "t": "ブラジル大統領選挙の第1回投票で、ボルソナロ氏が大きな進歩を遂げた。",
+          "span": "revealed major gains for Bolsonaro",
           "src": [
             {
               "ty": "press",
@@ -224,8 +184,8 @@
           ]
         },
         {
-          "t": "フランスでは、数百校が閉鎖される中、学生による抗議活動が続いている。",
-          "span": "Students continue to protest in France as hundreds of schools close",
+          "t": "ブラジル大統領選挙は、激しい接戦の決選投票に向かっている。",
+          "span": "Brazil is heading into a fiercely contested presidential runoff",
           "src": [
             {
               "ty": "press",
@@ -234,8 +194,18 @@
           ]
         },
         {
-          "t": "フランスの教育大臣によると、月曜日には約500校が完全にまたは部分的に閉鎖される見込みである。",
-          "span": "Education Minister Edouard Geffray said on Sunday about 500 schools likely to be fully or partially closed on Monday.",
+          "t": "ボスニア・ヘルツェゴビナで選挙が行われた。",
+          "span": "Bosnia and Herzegovina’s election",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ボスニア・ヘルツェゴビナの選挙で、ナショナリスト政党が勢力を強めた。",
+          "span": "strengthened nationalist parties",
           "src": [
             {
               "ty": "press",
@@ -245,142 +215,41 @@
         }
       ],
       "positions": [],
-      "consensus": "ブラジル大統領選挙の第1回投票では、フラビオ・ボウソナロ氏が勝利し、10月25日の決選投票に進む。アナリストはボウソナロ氏の勝利を予測している。",
-      "note": "プライバシーに配慮し、事件の被害者や容疑者の特定につながる情報は最小限に留めている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issueを「スペインで早期選挙が実施されるか？」から「ブラジル大統領選挙の結果は？」に変更しました。元テキストにはスペインの早期選挙に関する記述はありますが、issueとして立てるには他のニュース項目との関連性が薄く、ブラジル大統領選挙の結果の方が複数のソースで言及されており、より中心的な論点と判断しました。",
-          "consensusの内容を、スペインの早期選挙に関する記述を含めず、ブラジル大統領選挙の結果に絞って修正しました。これにより、issueとの整合性を高めました。",
-          "factsの項目は、元のテキストの内容を正確に反映しており、評価や推測が含まれていないため、そのまま維持しました。",
-          "positionsの項目は、元テキストの内容を正確に反映しており、評価や推測が含まれていないため、そのまま維持しました。",
-          "noteの内容は、プライバシーへの配慮に関するものであり、元のテキストの内容を正確に反映しているため、そのまま維持しました。",
-          "fact spanが原文に無い→除去「The prefect of Pas…」"
-        ]
-      }
-    },
-    {
-      "headline": "日本、ニュージーランドを下して優勝　上田綺世と堂安律がゴール―キリン杯サッカー",
-      "slug": "日本ニュジランドを下して優勝上田綺世と堂安律がゴ",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54856"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100500990&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100500888&g=spo&m=rss"
-        }
-      ],
-      "issue": "サッカー日本代表はニュージーランドに勝利したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "サッカー日本代表は強化試合でニュージーランドと対戦し、2対1で勝利した。",
-          "span": "2対1で競り勝ちました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日本代表はキリン杯でニュージーランドを下して優勝した。",
-          "span": "日本、ニュージーランドを下して優勝",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "上田綺世が先制ゴールを決めた。",
-          "span": "上田が先制ゴール",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "上田綺世と堂安律がゴールを決めた。",
-          "span": "上田綺世と堂安律がゴール",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "試合は1対1で後半に入った。",
-          "span": "１―１で後半へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "サッカー日本代表はニュージーランドに勝利した。",
-      "note": "複数の出典で勝利が報じられているが、試合展開の詳細（1-1からの逆転など）については一部のみ記述されている。",
+      "consensus": "スペインで早期総選挙が実施され、首相は住宅危機を勝利の鍵と見ている。ブラジル大統領選挙の第1回投票では、ボルソナロ氏が勝利したが、過半数に達せず決選投票に進む。ボスニア・ヘルツェゴビナの選挙ではナショナリスト政党が勢力を強めた。",
+      "note": "プライバシー配慮のため、ブラジル大統領選挙の候補者の名前は公人として扱っています。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "首にひも状の絞め跡か　米海兵隊の男、容疑依然否認―ホテル女性強殺・沖縄県警",
-      "slug": "首にひも状の絞め跡か米海兵隊の男容疑依然否認ホテ",
+      "headline": "ロシア 野党集会でプーチン政権への批判相次ぎ60人以上拘束",
+      "slug": "ロシア野党集会でプチン政権への批判相次ぎ60人以",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54855"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261006de54961"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100500743&g=soc&m=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261006de54962"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597677?source=rss"
         }
       ],
-      "issue": "那覇市で発生した米兵による女性殺害事件の捜査状況はどうか？",
-      "stasis": "事実",
+      "issue": "ロシアにおける政権批判の集会参加者拘束、日本の対露制裁、および日本の首相所信表明に対する評価は妥当か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "アメリカ海兵隊員が那覇市で女性を殺害し、所持品を奪ったとして逮捕された事件が発生している。",
-          "span": "アメリカ海兵隊員が那覇市で女性を殺害し、所持品を奪ったとして逮捕された事件",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "防犯カメラなどの分析の結果、事件前に被害女性と米兵がタクシーや繁華街で行動をともにしたとみられる。",
-          "span": "",
+          "t": "ロシアの首都モスクワで野党「ロシア共産党」の集会が開かれ、参加者ら60人以上が当局に拘束された。",
+          "span": "参加者ら60人以上が当局に拘束されました",
           "src": [
             {
               "ty": "press",
@@ -389,8 +258,8 @@
           ]
         },
         {
-          "t": "その後、2人は現場のホテルへ向かったとみられる。",
-          "span": "現場のホテルへ向かったとみられる",
+          "t": "ロシア外務省は、日本政府によるロシアへの追加制裁決定を「非友好的だ」と批判した。",
+          "span": "「非友好的だ」と強く批判した",
           "src": [
             {
               "ty": "press",
@@ -399,34 +268,76 @@
           ]
         },
         {
-          "t": "被害女性の首にひも状の絞め跡があるとみられる。",
-          "span": "首にひも状の絞め跡か",
+          "t": "ロシア外務省は、日本の追加制裁に対し、何らかの対抗措置をとる構えを示した。",
+          "span": "何らかの対抗措置をとる構えを示しました",
           "src": [
             {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "逮捕された米海兵隊員は容疑を否認している。",
-          "span": "容疑依然否認",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "那覇市で発生した米兵による女性殺害事件について、捜査が進展し、新たな事実関係が報じられている。本件は事実報道であり、評価や意見の対立は報じられていない。",
-      "note": "被害女性のプライバシー保護のため、実名や特定につながる情報は記載していません。",
+      "consensus": "ロシアの野党集会で60人以上が拘束されたこと、ロシア外務省が日本の追加制裁を批判し対抗措置の構えを示したこと、首相所信表明に野党から批判が出ていることは報じられている。評価は割れる。",
+      "note": "ロシアにおける政権批判の集会参加者拘束に関する詳細な批判内容は、提供されたテキストからは不明瞭なため、事実として「拘束された」のみを抽出した。また、野党集会での批判内容は「プーチン政権への批判が相次ぎ」とあるが、具体的な批判内容は事実として抽出せず、集会が開かれた事実と拘束された事実のみを抽出した。ウクライナへの軍事侵攻が続く中、これまで公の場で政権を批判することは…」の部分は、文脈が途切れているため、事実・立場として抽出しない。",
       "audit": {
         "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「2人がタクシーや繁華街で行動をともに…」"
-        ]
+        "issues": []
+      }
+    },
+    {
+      "headline": "France braces for national day of school protests after injuries and mass arrests",
+      "slug": "Francebracesfornationald",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss"
+        }
+      ],
+      "issue": "フランスは教育への投資を求める学生を支援するための抗議活動に備えているか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "フランスは、教育への投資を求める学生を支援するための抗議活動に備えている。",
+          "span": "France braces for national day of school protests after injuries and mass arrests",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "学生たちは教育への投資を要求している。",
+          "span": "students who’ve been demanding more investment in education",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "フランスは教育への投資を求める学生を支援するための抗議活動に備えていると報じられている。学生たちは教育への投資を要求している。",
+      "note": "プライバシー配慮のため、負傷者や大規模逮捕に関する詳細は省略。",
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     }
   ]
