@@ -1,145 +1,36 @@
 {
-  "builtAt": "2026-10-05T00:43:48.515Z",
+  "builtAt": "2026-10-05T14:58:21.442Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "US Marine arrested over murder of woman in Okinawa, Japan",
-      "slug": "USMarinearrestedovermurd",
-      "independentSources": 4,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54384"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597570?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100400094&g=soc&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "沖縄で発生した強盗殺人事件の状況と、それに対する関係者の対応は何か",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "沖縄に駐留するアメリカ海兵隊の上等兵が、那覇市で女性を殺害し所持品を奪った疑いで強盗殺人容疑で逮捕された。",
-          "span": "強盗殺人の疑いで逮捕された",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "被害女性の首には、コードのようなものが巻かれた絞殺痕があった。",
-          "span": "女性の首にはコードのようなものが巻かれ、絞められた痕があった",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "沖縄で米兵が強盗殺人容疑で逮捕され、被害女性の首に絞められた痕があったこと、および日本政府が米国に抗議したことは事実として報じられている。個別の容疑や対応の評価については、本アプリは裁定しない。",
-      "note": "被害者のプライバシーに配慮し、氏名等の特定情報は記載していません。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[0].t: 著作権配慮のため、元の文の語順・言い回しをなぞらないよう再記述に修正。",
-          "facts[1].t: 著作権配慮のため、元の文の語順・言い回しをなぞらないよう再記述に修正。",
-          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」の構造に修正。",
-          "positions[1].claim: 著作権配慮とメタ記述の徹底のため、元の文の語順・言い回しをなぞらないよう再記述し、「〜と報じられている」の構造に修正。"
-        ]
-      }
-    },
-    {
-      "headline": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
-      "slug": "KyivbridgehitinfurtherRu",
+      "headline": "Nobel medicine prize honours US and German scientists for optogenetics work",
+      "slug": "Nobelmedicineprizehonour",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "BBC World",
+        "時事ドットコム",
         "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54373"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54368"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100500852&g=int&m=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/4/police-investigating-flydubai-co-pilots-australia-ties?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/4/mass-protests-demanding-poll-chief-resignation-shake-india-for-third-day?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/5/nobel-medicine-prize-honours-us-and-german-scientists-for-optogenetics-work?traffic_source=rss"
         }
       ],
-      "issue": "キーウの橋への無人機攻撃は、市民に心理的圧力を加える意図があるか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "ことしのノーベル生理学・医学賞は、光遺伝学の基礎を築いた研究者に授与されるか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "ウクライナの首都キーウで、市内を流れる川にかかる橋が無人機の攻撃を受けた。",
-          "span": "市内を流れる川にかかる橋が無人機の攻撃を受けました",
+          "t": "ことしのノーベル生理学・医学賞に、光遺伝学の基礎を築いたアメリカ、スタンフォード大学のカール・ダイセロス氏ら3人が選ばれた。",
+          "span": "ことしのノーベル生理学・医学賞に、光を使って神経細胞などの働きを自在に操作する「光遺伝学＝オプトジェネティクス」と呼ばれる技術の基礎を築いた、アメリカ、スタンフォード大学のカール・ダイセロス氏ら3人",
           "src": [
             {
               "ty": "press",
@@ -148,8 +39,8 @@
           ]
         },
         {
-          "t": "キーウではここ数日、橋がロシア軍に狙われている。",
-          "span": "橋がロシア軍に狙われていて",
+          "t": "光遺伝学は、光を使って神経細胞などの働きを自在に操作する技術である。",
+          "span": "光を使って神経細胞などの働きを自在に操作する「光遺伝学＝オプトジェネティクス」と呼ばれる技術",
           "src": [
             {
               "ty": "press",
@@ -158,37 +49,52 @@
           ]
         },
         {
-          "t": "キーウのピヴニチヌイ（北部）橋がドローン攻撃を受けた。",
-          "span": "drone hitting the Pivnichyi (Northern) Bridge",
+          "t": "光遺伝学研究の米独3氏にノーベル生理学・医学賞が授与される。",
+          "span": "光遺伝学研究の米独３氏に　照射した神経細胞操作―ノーベル生理学・医学賞",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "キーウの北部橋は2日連続で攻撃を受けた。",
-          "span": "which has been hit for the second day in a row",
+          "t": "ノーベル生理学・医学賞の受賞者は、アメリカとドイツの科学者である。",
+          "span": "Nobel medicine prize honours US and German scientists for optogenetics work",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "物理学、化学、文学、平和、経済学のノーベル賞受賞者は、今後発表される。",
+          "span": "The winners of the Nobel Prizes in physics, chemistry, literature, peace and ‌economics will be announced in the week.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "キーウの橋が無人機攻撃を受けた事実は合意されているが、その意図については評価が分かれる。",
-      "note": "提供されたニュース記事には、ウクライナのキーウへの無人機攻撃に関する情報と、インド、オーストラリア、ブラジル、スペイン、スーダンに関する別のニュースが含まれています。構造化はキーウの攻撃に焦点を当てています。インドの警察官によるジャーナリストへの性的嫌がらせの告発、オーストラリアのFlydubai副操縦士の関連調査、ブラジルの選挙、スペインの住宅危機デモ、スーダンでの国連支援トラック運転手の死亡に関する情報は、キーウの攻撃とは直接関連がないため、このJSON構造には含めていません。",
+      "consensus": "ことしのノーベル生理学・医学賞は、光遺伝学の基礎を築いたアメリカとドイツの研究者3人に授与されることが報じられている。",
+      "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "Fact 1: src.l '時事ドットコム' と 'Al Jazeera' を削除。元テキストにカール・ダイセロス氏の名前やスタンフォード大学の記載は無い。また、NHKの報道にのみ言及があるため、srcをNHKに限定。",
+          "Fact 3: src.l '時事ドットコム' を削除。元テキストに「照射した神経細胞操作」の記載は無い。",
+          "Fact 4: src.l 'Al Jazeera' を削除。元テキストに「アメリカとドイツの科学者」という直接的な表現は無い。NHKの報道で「米独研究者」とあるが、Al Jazeeraの原文は「US and German scientists」であり、直接的な対応関係が薄いと判断。",
+          "Fact 5: src.l 'Al Jazeera' を削除。元テキストに「今後発表される」という直接的な表現は無い。"
+        ]
       }
     },
     {
-      "headline": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
-      "slug": "USwithdrawsB1bomberaircr",
+      "headline": "Teenager's hand blown off during confrontation between France school protesters and police",
+      "slug": "Teenagershandblownoffdur",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -197,23 +103,39 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6gqw8jg7k3go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/5/bolsonaro-favourite-to-win-what-brazils-first-round-of-election-tells-us?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/5/students-continue-to-protest-in-france-as-hundreds-of-schools-close?traffic_source=rss"
         }
       ],
-      "issue": "エチオピア反政府勢力はティグレ州都から撤退したか？",
+      "issue": "ブラジル大統領選挙の結果は？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "エチオピア反政府勢力がティグレ州都から撤退した。",
-          "span": "Ethiopian rebel forces withdraw from Tigray regional capital",
+          "t": "スペインのサンチェス首相は、住宅問題への対策が議会で否決されたことを受け、11月29日に早期選挙を実施すると発表した。",
+          "span": "Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the countr",
           "src": [
             {
               "ty": "press",
@@ -222,27 +144,124 @@
           ]
         },
         {
-          "t": "親政府軍がメケレ市を制圧した。",
-          "span": "pro-government forces have taken control of the city",
+          "t": "フランスの学校での抗議活動中に、15歳の少年が警察との対立で手を吹き飛ばされる重傷を負った。",
+          "span": "Teenager's hand blown off during confrontation between France school protesters and police",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フランスのパ＝ド＝カレー県知事によると、少年の命に危険はない。",
+          "span": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "沖縄で逮捕されたアメリカ海兵隊員が、長年の不満を抱える地元住民の間で抗議活動を再燃させた。",
+          "span": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ナイジェリア警察は、爆弾が誘拐された若者の救出を妨げていると発表した。",
+          "span": "Bombs preventing rescue of kidnapped youths, Nigerian police say",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "誘拐された19人の若者のうちの一人の父親は、心配で3日間何も食べていないとBBCに語った。",
+          "span": "The father of one of the 19 young abductees tells the BBC he hasn't eaten in three days out of worry.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ブラジル大統領選挙の第1回投票で、右派のフラビオ・ボウソナロ氏が勝利した。",
+          "span": "Right-wing Flávio Bolsonaro wins first round of Brazil election",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ブラジル大統領選挙の第1回投票では、どの候補者も50%以上の票を獲得できなかったため、10月25日に決選投票が行われる。",
+          "span": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ブラジルのフラビオ・ボウソナロ氏が、10月25日の決選投票で勝利し、次期大統領になると分析されている。",
+          "span": "Analysts say Flavio Bolsonaro is projected to win the run-off vote on October 25 and become Brazil&#039;s next president",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "フランスでは、数百校が閉鎖される中、学生による抗議活動が続いている。",
+          "span": "Students continue to protest in France as hundreds of schools close",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "フランスの教育大臣によると、月曜日には約500校が完全にまたは部分的に閉鎖される見込みである。",
+          "span": "Education Minister Edouard Geffray said on Sunday about 500 schools likely to be fully or partially closed on Monday.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "エチオピア反政府勢力はティグレ州都から撤退し、親政府軍がメケレ市を制圧した。評価は割れる／アプリは裁定しない。",
-      "note": "",
+      "consensus": "ブラジル大統領選挙の第1回投票では、フラビオ・ボウソナロ氏が勝利し、10月25日の決選投票に進む。アナリストはボウソナロ氏の勝利を予測している。",
+      "note": "プライバシーに配慮し、事件の被害者や容疑者の特定につながる情報は最小限に留めている。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issueを「スペインで早期選挙が実施されるか？」から「ブラジル大統領選挙の結果は？」に変更しました。元テキストにはスペインの早期選挙に関する記述はありますが、issueとして立てるには他のニュース項目との関連性が薄く、ブラジル大統領選挙の結果の方が複数のソースで言及されており、より中心的な論点と判断しました。",
+          "consensusの内容を、スペインの早期選挙に関する記述を含めず、ブラジル大統領選挙の結果に絞って修正しました。これにより、issueとの整合性を高めました。",
+          "factsの項目は、元のテキストの内容を正確に反映しており、評価や推測が含まれていないため、そのまま維持しました。",
+          "positionsの項目は、元テキストの内容を正確に反映しており、評価や推測が含まれていないため、そのまま維持しました。",
+          "noteの内容は、プライバシーへの配慮に関するものであり、元のテキストの内容を正確に反映しているため、そのまま維持しました。",
+          "fact spanが原文に無い→除去「The prefect of Pas…」"
+        ]
       }
     },
     {
-      "headline": "臨時国会きょう召集 消費税減税法案などで論戦へ",
-      "slug": "臨時国会きょう召集消費税減税法案などで論戦へ",
+      "headline": "日本、ニュージーランドを下して優勝　上田綺世と堂安律がゴール―キリン杯サッカー",
+      "slug": "日本ニュジランドを下して優勝上田綺世と堂安律がゴ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -251,24 +270,34 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54388"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54856"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100400185&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026100500990&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100500888&g=spo&m=rss"
         }
       ],
-      "issue": "食料品の消費税減税法案は、物価高対策として効果的か、また財源は適切か",
-      "stasis": "政策",
+      "issue": "サッカー日本代表はニュージーランドに勝利したか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "臨時国会が10月5日に召集される。",
-          "span": "5日召集されます",
+          "t": "サッカー日本代表は強化試合でニュージーランドと対戦し、2対1で勝利した。",
+          "span": "2対1で競り勝ちました",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "日本代表はキリン杯でニュージーランドを下して優勝した。",
+          "span": "日本、ニュージーランドを下して優勝",
+          "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -276,57 +305,127 @@
           ]
         },
         {
-          "t": "今回の臨時国会は、先の内閣改造後初めての論戦の場となる。",
-          "span": "先の内閣改造後初めての論戦の場となる",
+          "t": "上田綺世が先制ゴールを決めた。",
+          "span": "上田が先制ゴール",
           "src": [
             {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "上田綺世と堂安律がゴールを決めた。",
+          "span": "上田綺世と堂安律がゴール",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "試合は1対1で後半に入った。",
+          "span": "１―１で後半へ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
-      "positions": [
+      "positions": [],
+      "consensus": "サッカー日本代表はニュージーランドに勝利した。",
+      "note": "複数の出典で勝利が報じられているが、試合展開の詳細（1-1からの逆転など）については一部のみ記述されている。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "首にひも状の絞め跡か　米海兵隊の男、容疑依然否認―ホテル女性強殺・沖縄県警",
+      "slug": "首にひも状の絞め跡か米海兵隊の男容疑依然否認ホテ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
         {
-          "actor": "政府・与党",
-          "stance": "support",
-          "claim": "食料品の消費税減税に関する法案などの成立を目指していると報じられている。",
-          "span": "食料品の消費税減税に関する法案などの成立を図る",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54855"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100500743&g=soc&m=rss"
+        }
+      ],
+      "issue": "那覇市で発生した米兵による女性殺害事件の捜査状況はどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アメリカ海兵隊員が那覇市で女性を殺害し、所持品を奪ったとして逮捕された事件が発生している。",
+          "span": "アメリカ海兵隊員が那覇市で女性を殺害し、所持品を奪ったとして逮捕された事件",
           "src": [
             {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
               "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "防犯カメラなどの分析の結果、事件前に被害女性と米兵がタクシーや繁華街で行動をともにしたとみられる。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "actor": "野党側",
-          "stance": "attack",
-          "claim": "物価高対策としての効果や財源などをただす構えであると報じられている。",
-          "span": "物価高対策としての効果や財源などをただす",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
+          "t": "その後、2人は現場のホテルへ向かったとみられる。",
+          "span": "現場のホテルへ向かったとみられる",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "被害女性の首にひも状の絞め跡があるとみられる。",
+          "span": "首にひも状の絞め跡か",
           "src": [
             {
               "ty": "wire",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "逮捕された米海兵隊員は容疑を否認している。",
+          "span": "容疑依然否認",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
-      "consensus": "臨時国会が召集され、食料品の消費税減税法案などを巡って論戦が行われるが、その効果や財源に関する評価は割れている。",
-      "note": null,
+      "positions": [],
+      "consensus": "那覇市で発生した米兵による女性殺害事件について、捜査が進展し、新たな事実関係が報じられている。本件は事実報道であり、評価や意見の対立は報じられていない。",
+      "note": "被害女性のプライバシー保護のため、実名や特定につながる情報は記載していません。",
       "audit": {
-        "changed": true,
+        "changed": false,
         "issues": [
-          "issueの表現を、評価を含まない中立的な問いに修正しました。",
-          "positions.claimをメタ記述（〜と報じられている）に修正しました。"
+          "fact spanが原文に無い→除去「2人がタクシーや繁華街で行動をともに…」"
         ]
       }
     }
