@@ -1,112 +1,54 @@
 {
-  "builtAt": "2026-10-04T18:46:36.813Z",
+  "builtAt": "2026-10-05T00:43:48.515Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Jerusalem Daily: Israeli forces arrest school children during raid",
-      "slug": "JerusalemDailyIsraelifor",
+      "headline": "US Marine arrested over murder of woman in Okinawa, Japan",
+      "slug": "USMarinearrestedovermurd",
       "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
+        "BBC World"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261004de54164"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54384"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597570?source=rss"
         },
         {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026100400094&g=soc&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100400152&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100400232&g=pol&m=rss"
-        },
-        {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/jerusalem-daily-israeli-forces-arrest-school-children-during-raid?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/4/philippines-arrests-244-suspects-in-online-scam-crackdown?traffic_source=rss"
         }
       ],
-      "issue": "那覇市のホテルで発生した強盗殺人事件において、逮捕された米海兵隊員の上等兵の関与は明らかか？",
+      "issue": "沖縄で発生した強盗殺人事件の状況と、それに対する関係者の対応は何か",
       "stasis": "事実",
       "facts": [
         {
-          "t": "那覇市のホテルで女性が殺害され、所持品が奪われた事件が発生した。",
-          "span": "那覇市のホテルで女性を殺害したうえ所持品を奪った",
+          "t": "沖縄に駐留するアメリカ海兵隊の上等兵が、那覇市で女性を殺害し所持品を奪った疑いで強盗殺人容疑で逮捕された。",
+          "span": "強盗殺人の疑いで逮捕された",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "Yahoo!ニュース 主要"
             },
             {
               "ty": "press",
               "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "沖縄に駐留するアメリカ海兵隊の20歳の上等兵が、強盗殺人の疑いで逮捕された。",
-          "span": "沖縄に駐留するアメリカ海兵隊の20歳の上等兵が強盗殺人の疑いで逮捕された",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
             },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "女性の死因は、首を圧迫されたことによる窒息だったことが警察によって判明した。",
-          "span": "女性の死因は首を圧迫されたことによる窒息だった",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "逮捕された米海兵隊員の上等兵は容疑を否認している。",
-          "span": "逮捕の米海兵隊員は否認",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "逮捕された米海兵隊員の上等兵は「知りません」と供述している。",
-          "span": "「知りません」",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "日本政府はアメリカ政府に対し、抗議し、軍関係者の行動を求める措置を要求した。",
-          "span": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-          "src": [
             {
               "ty": "press",
               "l": "BBC World"
@@ -114,45 +56,30 @@
           ]
         },
         {
-          "t": "イスラエル治安部隊が、ヨルダン川西岸地区で学校に通う子供たちを拘束した。",
-          "span": "Israeli forces arrest school children during raid",
+          "t": "被害女性の首には、コードのようなものが巻かれた絞殺痕があった。",
+          "span": "女性の首にはコードのようなものが巻かれ、絞められた痕があった",
           "src": [
             {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "フィリピンで、オンライン詐欺の取り締まりで244人の容疑者が逮捕された。",
-          "span": "Philippines arrests 244 suspects in online scam crackdown",
-          "src": [
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            },
             {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "逮捕された容疑者たちは、フィリピンのオフショアゲーミング事業者（POGO）を、人身売買、詐欺、殺人の隠れ蓑として使用したと非難されている。",
-          "span": "Criminals accused of using Philippine offshore gaming operators (POGOs) as cover for human trafficking, fraud, murder.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "ty": "wire",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "那覇市のホテルで女性が殺害され所持品が奪われた事件で、米海兵隊員の上等兵が逮捕された。女性の死因は窒息と判明している。逮捕された上等兵は容疑を否認している。高市首相は逮捕を遺憾とし、沖縄知事は憤りを示した。日本政府はアメリカに抗議し、措置を求めた。",
-      "note": "Al Jazeeraの記事には、沖縄の事件とは別のイスラエルとフィリピンでの事件に関する情報が含まれているため、それらは別途 facts として抽出した。",
+      "consensus": "沖縄で米兵が強盗殺人容疑で逮捕され、被害女性の首に絞められた痕があったこと、および日本政府が米国に抗議したことは事実として報じられている。個別の容疑や対応の評価については、本アプリは裁定しない。",
+      "note": "被害者のプライバシーに配慮し、氏名等の特定情報は記載していません。",
       "audit": {
         "changed": true,
         "issues": [
-          "consensus: \"評価は割れる\" を削除。事実のみを記述するよう修正。",
-          "positions[0].claim: \"米兵逮捕は極めて遺憾である\" を \"米兵逮捕は極めて遺憾である\" に修正。元のテキストに忠実にするため。",
-          "positions[1].claim: \"米兵逮捕に対し強い憤りを感じている\" を \"米兵逮捕に対し強い憤りを示している\" に修正。元のテキストに忠実にするため。"
+          "facts[0].t: 著作権配慮のため、元の文の語順・言い回しをなぞらないよう再記述に修正。",
+          "facts[1].t: 著作権配慮のため、元の文の語順・言い回しをなぞらないよう再記述に修正。",
+          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」の構造に修正。",
+          "positions[1].claim: 著作権配慮とメタ記述の徹底のため、元の文の語順・言い回しをなぞらないよう再記述し、「〜と報じられている」の構造に修正。"
         ]
       }
     },
@@ -260,35 +187,88 @@
       }
     },
     {
-      "headline": "Yemen's government announces all-out war to reclaim land from Houthis",
-      "slug": "Yemensgovernmentannounce",
-      "independentSources": 3,
+      "headline": "US withdraws B-1 bomber aircraft from UK’s Fairford base amid Iran fears",
+      "slug": "USwithdrawsB1bomberaircr",
+      "independentSources": 2,
       "sources": [
-        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100400391&g=int&m=rss"
-        },
-        {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/germany-merz-visits-kyiv-air-raids-ukraine?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/4/nicaragua-says-it-will-withdraw-from-central-american-parliament?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss"
         }
       ],
-      "issue": "イエメン政府はフーシ派から領土を奪還するための大規模軍事作戦を宣言したか？",
+      "issue": "エチオピア反政府勢力はティグレ州都から撤退したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "イエメン政府は、フーシ派から領土を奪還することを目的とした大規模な軍事作戦を宣言した。",
-          "span": "大規模軍事作戦を宣言",
+          "t": "エチオピア反政府勢力がティグレ州都から撤退した。",
+          "span": "Ethiopian rebel forces withdraw from Tigray regional capital",
           "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "親政府軍がメケレ市を制圧した。",
+          "span": "pro-government forces have taken control of the city",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "エチオピア反政府勢力はティグレ州都から撤退し、親政府軍がメケレ市を制圧した。評価は割れる／アプリは裁定しない。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "臨時国会きょう召集 消費税減税法案などで論戦へ",
+      "slug": "臨時国会きょう召集消費税減税法案などで論戦へ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54388"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100400185&g=pol&m=rss"
+        }
+      ],
+      "issue": "食料品の消費税減税法案は、物価高対策として効果的か、また財源は適切か",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "臨時国会が10月5日に召集される。",
+          "span": "5日召集されます",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -296,122 +276,58 @@
           ]
         },
         {
-          "t": "イエメン政府は、フーシ派から領土を奪還するための全面戦争を発表した。",
-          "span": "announces all-out war to reclaim land from Houthis",
+          "t": "今回の臨時国会は、先の内閣改造後初めての論戦の場となる。",
+          "span": "先の内閣改造後初めての論戦の場となる",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イエメン大統領の発表は、フーシ派とサウジアラビア主導の連合軍との間の攻撃の応酬の中で行われた。",
-          "span": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ドイツのフリードリヒ・メルツ首相は、キエフへのサプライズ訪問中に、15億ドルの軍事・復興支援を発表した。",
-          "span": "German Chancellor Friedrich Merz, on a surprise visit to Kyiv, announced $1.5 billion in military and reconstruction aid",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ドイツのメルツ首相は、プーチン大統領に戦争を終わらせるよう促した。",
-          "span": "urges Putin to end war",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
-      "positions": [],
-      "consensus": "イエメン政府はフーシ派から領土を奪還するための大規模軍事作戦を宣言した。ドイツのメルツ首相はキエフを訪問し、15億ドルの支援を発表し、プーチン大統領に戦争終結を促した。",
-      "note": "入力記事は複数の独立した出来事に関するものであり、それらの間の直接的な対立や評価の応酬は含まれていないため、positions は空です。",
+      "positions": [
+        {
+          "actor": "政府・与党",
+          "stance": "support",
+          "claim": "食料品の消費税減税に関する法案などの成立を目指していると報じられている。",
+          "span": "食料品の消費税減税に関する法案などの成立を図る",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "野党側",
+          "stance": "attack",
+          "claim": "物価高対策としての効果や財源などをただす構えであると報じられている。",
+          "span": "物価高対策としての効果や財源などをただす",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "consensus": "臨時国会が召集され、食料品の消費税減税法案などを巡って論戦が行われるが、その効果や財源に関する評価は割れている。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "競馬 凱旋門賞 日本馬は11着と14着 初優勝ならず",
-      "slug": "競馬凱旋門賞日本馬は11着と14着初優勝ならず",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261005de54386"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597559?source=rss"
-        }
-      ],
-      "issue": "日本馬は凱旋門賞で初優勝できるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "競馬の世界最高峰のレース「凱旋門賞」がフランスで行われた。",
-          "span": "競馬の世界最高峰のレース「凱旋門賞」が4日、フランスで行われ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日本から2頭が出走し、11着と14着だった。",
-          "span": "日本から2頭が出走しましたが11着と14着に終わり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日本馬の凱旋門賞初優勝はならなかった。",
-          "span": "初優勝はなりませんでした",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "武豊騎手は12度目の凱旋門賞挑戦だった。",
-          "span": "武豊12度目挑戦も夢散",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "日本馬は凱旋門賞で11着と14着に終わり、初優勝はならなかった。武豊騎手は12度目の挑戦だった。",
-      "note": "プライバシー配慮のため、武豊騎手以外の騎手や馬の名前は記載しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issueの表現を、評価を含まない中立的な問いに修正しました。",
+          "positions.claimをメタ記述（〜と報じられている）に修正しました。"
+        ]
       }
     }
   ]
