@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-10-06T08:55:48.973Z",
+  "builtAt": "2026-10-06T15:43:34.753Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "slug": "FortHoodshootertobeexecu",
+      "headline": "Indian opposition MPs detained in protest against election chief",
+      "slug": "IndianoppositionMPsdetai",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -13,27 +13,279 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/6/trump-approves-firing-squad-execution-for-fort-hood-attacker-nidal-hasan?traffic_source=rss"
+          "link": "https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/10/6/france-protests-what-we-know-as-schools-brace-for-nationwide-action?traffic_source=rss"
         }
       ],
-      "issue": "ナイジェリアで軍用機墜落により32人が死亡したことは、国家にとって痛ましい出来事か？",
+      "issue": "インドの野党議員は、選挙管理委員長に対する抗議活動で拘束されたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ナイジェリアで軍用機が沼地に墜落し、32人が死亡した。",
-          "span": "Nigeria mourns 32 killed as military plane crashes into swamp",
+          "t": "インドの野党議員が、選挙管理委員長に対する抗議活動中に拘束された。",
+          "span": "Indian opposition MPs detained in protest against election chief",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "野党指導者は、選挙管理委員長がナレンドラ・モディ首相に有利になるよう、選挙人名簿を操作したと主張している。",
+          "span": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フランスでは、学校の封鎖や路上抗議活動が広がり、国民的な行動に直面している。",
+          "span": "School blockades, street protests grip France",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "抗議活動は3週目に突入し、拡大している。",
+          "span": "Now in their third week, the protests have grown",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "インドの野党議員が抗議活動中に拘束されたという事実は報じられている。フランスでは抗議活動が拡大している。しかし、選挙人名簿の操作や教育資金に関する要求については、評価が分かれている。",
+      "note": "複数の独立したニュースソースからの情報を統合しました。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+      "slug": "Bulgariasearchesformissi",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss"
+        }
+      ],
+      "issue": "黒海におけるドローン攻撃の背後には誰がいるのか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "黒海でドローン攻撃により船舶が沈没し、乗組員が行方不明になっている。",
+          "span": "Ship sinks and crew missing after Black Sea drone attack",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ブルガリアは、黒海でドローンに攻撃された2隻の船舶の乗組員を捜索している。",
+          "span": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トーゴ船籍のアルファ・ワタン号が攻撃現場で沈没した。",
+          "span": "Togo-flagged Alfa Watan sinks at scene of attack",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ロシアは戦争の一環として黒海での攻撃を激化させている。",
+          "span": "Russia intensifies strikes in the Black Sea as part of its war",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ホルムズ海峡での船舶攻撃が増加している。",
+          "span": "Hormuz ship attacks surge",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ホルムズ海峡は重要なエネルギー回廊である。",
+          "span": "critical Strait of Hormuz energy corridor",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "船舶攻撃のエスカレーションにもかかわらず、湾岸の石油流量は急増している。",
+          "span": "Gulf oil flows surge despite escalating ship attacks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "黒海でドローン攻撃により船舶が沈没し、乗組員が行方不明になっている。攻撃の背後については不明である。ホルムズ海峡での船舶攻撃が増加しているが、湾岸の石油流量は急増している。",
+      "note": "プライバシー配慮のため、個人名は伏せられています。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "台風27号 関東の海上はあす明け方にかけて高波に警戒",
+      "slug": "台風27号関東の海上はあす明け方にかけて高波に警",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261006de54955"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597805?source=rss"
+        }
+      ],
+      "issue": "台風27号の影響で関東の海上は高波に警戒が必要か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "台風27号の影響で、太平洋側では波が高くなっている。",
+          "span": "太平洋側では波が高く",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "関東の海上では7日の明け方にかけて高波に警戒が必要である。",
+          "span": "関東の海上では7日の明け方にかけて高波に警戒してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "6日は各地で気温が上がり、関東や東海では真夏日になったところがあった。",
+          "span": "6日は各地で気温が上がり、関東や東海では真夏日になったところもありました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風の影響で西湘バイパスが通行止めになっている。",
+          "span": "西湘バイパス通行止め",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風27号の影響で関東の海上では7日の明け方にかけて高波に警戒が必要であり、西湘バイパスは通行止めとなっている。6日は各地で気温が上がり、関東や東海では真夏日になったところがあった。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": [
+          "検品パス失敗（The operation was aborted due to timeout）→抽出のみ採用"
+        ]
+      }
+    },
+    {
+      "headline": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+      "slug": "SaudiArabiaurgedtosparem",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-east-west-pipeline-pumping-5-8-million-bpd?traffic_source=rss"
+        }
+      ],
+      "issue": "サウジアラビアはFacebook投稿に対する死刑判決を執行すべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "Anojan Sivarasa氏はFacebookのコメントを巡る冒涜罪で有罪判決を受けた。",
+          "span": "found guilty of blasphemy over a Facebook comment",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "彼は死刑に直面している。",
+          "span": "faces execution",
           "src": [
             {
               "ty": "press",
@@ -43,265 +295,13 @@
         }
       ],
       "positions": [],
-      "consensus": "ナイジェリアで軍用機墜落により32人が死亡した。大統領はこれを痛ましい出来事と表現している。",
-      "note": "プライバシー配慮のため、事件の詳細な場所や個人情報は省略しています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions.claim: \"この墜落は軍および国家全体にとって痛ましい瞬間である\" を \"この墜落は軍および国家全体にとって痛ましい瞬間であると述べている\" に修正。メタ記述の徹底（観点2）のため。"
-        ]
-      }
-    },
-    {
-      "headline": "10年もの国債の表面利率3.1%に 約30年ぶりの水準 財務省",
-      "slug": "10年もの国債の表面利率31に約30年ぶりの水準",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261006de55357"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597758?source=rss"
-        }
-      ],
-      "issue": "10年もの国債の表面利率は3.1%に引き上げられるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "財務省は、10月に発行する10年ものの国債の表面利率を3.1%に引き上げると発表した。",
-          "span": "表面利率3.1%に 約30年ぶりの水準 財務省。財務省は、10月に発行する10年ものの国債について、「表面利率」を3.1％に引き上げると発表しました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "表面利率が3％を超えるのは1996年8月以来である。",
-          "span": "表面利率が3％を超えるのは1996年8月以来",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "決定は債券市場の金利上昇傾向を踏まえたものである。",
-          "span": "債券市場で金利が上昇傾向にあることを踏まえたもの",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "10年物国債の表面利率は年3.1%になる。",
-          "span": "表面利率を年3.1%に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "財務省は、10月に発行する10年ものの国債の表面利率を3.1%に引き上げると発表した。これは1996年8月以来の3%超えの水準である。決定は債券市場の金利上昇傾向を踏まえたものである。",
-      "note": "本件は事実の合意形成が主であり、対立する立場は記事中に見られませんでした。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensusの末尾に「評価は割れる。」という抽出エンジンの判断が追加されていたため削除しました。",
-          "factsのspanが空欄だったため、元テキストから適切な箇所を抽出して補完しました。",
-          "fact spanが原文に無い→除去「表面利率を3.1％に引き上げると発表…」"
-        ]
-      }
-    },
-    {
-      "headline": "小沢一郎氏、中道に離党届　新党結成を模索",
-      "slug": "小沢一郎氏中道に離党届新党結成を模索",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597761?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100600726&g=pol&m=rss"
-        }
-      ],
-      "issue": "小沢一郎氏は新党結成を模索しているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "小沢一郎氏が中道に離党届を提出した。",
-          "span": "中道に離党届",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "小沢一郎氏が無所属となった。",
-          "span": "無所属に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "小沢一郎氏は中道に離党届を提出し無所属となり、新党結成を模索していると報じられている。",
-      "note": "複数の記事で同様の事実が報じられているため、事実として統合した。小沢氏の発言内容は「新党結成を模索」という点で一致している。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions の claim を「〜と報じられている」というメタ記述に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "高カロリー食で脳神経に異常　認知機能低下の仕組み解明―東京科学大など",
-      "slug": "高カロリ食で脳神経に異常認知機能低下の仕組み解明",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597756?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100600106&g=soc&m=rss"
-        }
-      ],
-      "issue": "高カロリー食が脳神経に異常を引き起こし、認知機能低下につながる仕組みは何か？",
-      "stasis": "因果の解釈",
-      "facts": [
-        {
-          "t": "東京科学大などの研究グループが、高カロリー食が脳神経に異常を引き起こし、認知機能低下につながる仕組みを解明したと発表した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "マウス実験において、高カロリー食を与えると脳の視床下部にある神経細胞「POMCニューロン」の機能が低下することが発見された。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "POMCニューロンは食欲抑制やエネルギー消費に関与している。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "POMCニューロンの機能低下の原因は、ミトコンドリアの異常と細胞内のカルシウム濃度の上昇である。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "カルシウム濃度の上昇が神経細胞の興奮性を高め、その過剰な興奮がPOMCニューロンの機能を低下させる。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "この研究成果は米科学誌「サイエンス・アドバンシズ」に掲載された。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "高カロリー食が脳神経に異常を引き起こし、認知機能低下につながる仕組みが解明されたという研究結果が発表された。研究者はこの成果が認知症や肥満、糖尿病の予防・治療法開発につながると期待している。",
+      "consensus": "Anojan Sivarasa氏がFacebook投稿を巡る冒涜罪で有罪判決を受け、死刑に直面していることについては事実として合意されている。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "span の最小核: 元テキスト（提供されたタイトルのみ）に一字一句存在しないため、全ての span フィールドを空文字に修正しました。",
-          "発言主体・媒体の捏造: positions[0].actor が提供された元テキストから特定できないため、「東京科学大の西真理子教授」から「東京科学大などの研究グループ」に修正しました。",
-          "争点の立て方: issue が研究結果の記述であるため、賛否の割れる問いではなく「高カロリー食が脳神経に異常を引き起こし、認知機能低下につながる仕組みは何か？」という記述的な問いに修正しました。",
-          "論理構造の検証: positions[0].claim の前提となる事実（facts[1]、facts[2]、facts[3]、facts[4]）を premises に追加しました。",
-          "事実欄への評価混入: positions[0].reason の内容が主張の理由ではなく、研究成果への期待であるため、reason を null にし、内容を attr フィールドに移動しました。",
-          "fact spanが原文に無い→除去「高カロリー食が脳神経に異常を引き起こ…」",
-          "fact spanが原文に無い→除去「高カロリー食を与えると脳の視床下部に…」",
-          "fact spanが原文に無い→除去「POMCニューロンは食欲抑制やエネル…」",
-          "fact spanが原文に無い→除去「機能低下の原因は、POMCニューロン…」",
-          "fact spanが原文に無い→除去「カルシウム濃度上昇が神経細胞の興奮性…」",
-          "fact spanが原文に無い→除去「研究成果は米科学誌「サイエンス・アド…」",
-          "position spanが原文に無い→除去「高カロリー食が脳に与える影響を明らか…」"
+          "争点の立て方: 元テキストには、死刑判決の執行を避けるよう求める声（urged to spare）は報じられているものの、その反対の立場（執行を支持する立場やサウジアラビア政府の公式見解）が明確に記述されていません。監査観点「反対側の立場を推測で作らない」に基づき、positions配列を空に修正しました。",
+          "consensus: positions配列の変更に伴い、合意事項の記述を、テキストから明確に読み取れる事実に限定するよう修正しました。"
         ]
       }
     }
