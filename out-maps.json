@@ -1,92 +1,10 @@
 {
-  "builtAt": "2026-10-05T21:56:54.935Z",
+  "builtAt": "2026-10-06T08:55:48.973Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Trump says US ready to aid Russia with plague outbreak in Siberia",
-      "slug": "TrumpsaysUSreadytoaidRus",
-      "independentSources": 3,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597690?source=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss"
-        }
-      ],
-      "issue": "ロシアのペスト研究所員死亡事件について、米国はどのように対応しているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ロシアのペスト研究所で働く研究員が死亡した。",
-          "span": "ペスト研究所員死亡",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "死亡した研究員は、ロシアのシベリアにある研究センターに勤務していた。",
-          "span": "research centre in Si",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "米国は、この事件を「非常に強く」注視している。",
-          "span": "looking \"very strongly\"",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ロシア当局は、シベリアでの肺炎ペストが疑われる死亡事件の後、病院を検疫し、200人の接触者を監視している。",
-          "span": "Russian authorities quarantine hospital, monitor 200 contacts after suspected pneumonic plague death in Siberia",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ロシアのペスト研究所員が死亡し、米国がこの件を注視している点については一致している。しかし、米国がどのように支援するかについては、異なる発言が見られる。",
-      "note": "プライバシー保護のため、死亡した研究所員の個人情報は含んでいない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions.claim: \"米国は、ロシアのペスト研究所員死亡事件を注視している。\" を \"米国は、ロシアのペスト研究所員死亡事件を注視していると述べた。\" に修正。メタ記述の徹底（地の文の断定を回避）。",
-          "positions.claim: \"米国は、シベリアでのペスト発生に関してロシアを支援する用意がある。\" を \"米国は、シベリアでのペスト発生に関してロシアを支援する用意があると述べた。\" に修正。メタ記述の徹底（地の文の断定を回避）。"
-        ]
-      }
-    },
-    {
-      "headline": "Spain PM pins hopes on housing crisis to help win snap election",
-      "slug": "SpainPMpinshopesonhousin",
+      "headline": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+      "slug": "FortHoodshootertobeexecu",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -95,136 +13,48 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/brazils-presidential-race-head-for-a-tough-runoff?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/6/trump-approves-firing-squad-execution-for-fort-hood-attacker-nidal-hasan?traffic_source=rss"
         }
       ],
-      "issue": "スペインのペドロ・サンチェス首相は、総選挙の実施をどのように位置づけているか？",
-      "stasis": "政策",
+      "issue": "ナイジェリアで軍用機墜落により32人が死亡したことは、国家にとって痛ましい出来事か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "スペインで早期総選挙が実施された。",
-          "span": "Calling of a snap election",
+          "t": "ナイジェリアで軍用機が沼地に墜落し、32人が死亡した。",
+          "span": "Nigeria mourns 32 killed as military plane crashes into swamp",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ペドロ・サンチェス首相は、早期総選挙の実施を、熟考された戦略的行動と見なしている。",
-          "span": "was not a knee-jerk reaction from Pedro Sánchez but a carefully thought-out manoeuvre",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "サンチェス首相は、住宅危機が総選挙での勝利に貢献すると期待している。",
-          "span": "pins hopes on housing crisis to help win snap election",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ブラジル大統領選挙の第1回投票が行われた。",
-          "span": "wins first round of Brazil election",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ブラジル大統領選挙の第1回投票では、どの候補者も50%以上の票を獲得できなかった。",
-          "span": "With neither candidate getting more than 50% of the vote",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ブラジル大統領選挙は10月25日に決選投票に進む。",
-          "span": "the election will go to a run-off on 25 October",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ブラジル大統領選挙の第1回投票で、ボルソナロ氏が大きな進歩を遂げた。",
-          "span": "revealed major gains for Bolsonaro",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ブラジル大統領選挙は、激しい接戦の決選投票に向かっている。",
-          "span": "Brazil is heading into a fiercely contested presidential runoff",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ボスニア・ヘルツェゴビナで選挙が行われた。",
-          "span": "Bosnia and Herzegovina’s election",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ボスニア・ヘルツェゴビナの選挙で、ナショナリスト政党が勢力を強めた。",
-          "span": "strengthened nationalist parties",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "スペインで早期総選挙が実施され、首相は住宅危機を勝利の鍵と見ている。ブラジル大統領選挙の第1回投票では、ボルソナロ氏が勝利したが、過半数に達せず決選投票に進む。ボスニア・ヘルツェゴビナの選挙ではナショナリスト政党が勢力を強めた。",
-      "note": "プライバシー配慮のため、ブラジル大統領選挙の候補者の名前は公人として扱っています。",
+      "consensus": "ナイジェリアで軍用機墜落により32人が死亡した。大統領はこれを痛ましい出来事と表現している。",
+      "note": "プライバシー配慮のため、事件の詳細な場所や個人情報は省略しています。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positions.claim: \"この墜落は軍および国家全体にとって痛ましい瞬間である\" を \"この墜落は軍および国家全体にとって痛ましい瞬間であると述べている\" に修正。メタ記述の徹底（観点2）のため。"
+        ]
       }
     },
     {
-      "headline": "ロシア 野党集会でプーチン政権への批判相次ぎ60人以上拘束",
-      "slug": "ロシア野党集会でプチン政権への批判相次ぎ60人以",
+      "headline": "10年もの国債の表面利率3.1%に 約30年ぶりの水準 財務省",
+      "slug": "10年もの国債の表面利率31に約30年ぶりの水準",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -233,23 +63,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261006de54961"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261006de54962"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261006de55357"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6597677?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6597758?source=rss"
         }
       ],
-      "issue": "ロシアにおける政権批判の集会参加者拘束、日本の対露制裁、および日本の首相所信表明に対する評価は妥当か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "10年もの国債の表面利率は3.1%に引き上げられるか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "ロシアの首都モスクワで野党「ロシア共産党」の集会が開かれ、参加者ら60人以上が当局に拘束された。",
-          "span": "参加者ら60人以上が当局に拘束されました",
+          "t": "財務省は、10月に発行する10年ものの国債の表面利率を3.1%に引き上げると発表した。",
+          "span": "表面利率3.1%に 約30年ぶりの水準 財務省。財務省は、10月に発行する10年ものの国債について、「表面利率」を3.1％に引き上げると発表しました。",
           "src": [
             {
               "ty": "press",
@@ -258,8 +84,8 @@
           ]
         },
         {
-          "t": "ロシア外務省は、日本政府によるロシアへの追加制裁決定を「非友好的だ」と批判した。",
-          "span": "「非友好的だ」と強く批判した",
+          "t": "表面利率が3％を超えるのは1996年8月以来である。",
+          "span": "表面利率が3％を超えるのは1996年8月以来",
           "src": [
             {
               "ty": "press",
@@ -268,76 +94,215 @@
           ]
         },
         {
-          "t": "ロシア外務省は、日本の追加制裁に対し、何らかの対抗措置をとる構えを示した。",
-          "span": "何らかの対抗措置をとる構えを示しました",
+          "t": "決定は債券市場の金利上昇傾向を踏まえたものである。",
+          "span": "債券市場で金利が上昇傾向にあることを踏まえたもの",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "10年物国債の表面利率は年3.1%になる。",
+          "span": "表面利率を年3.1%に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ロシアの野党集会で60人以上が拘束されたこと、ロシア外務省が日本の追加制裁を批判し対抗措置の構えを示したこと、首相所信表明に野党から批判が出ていることは報じられている。評価は割れる。",
-      "note": "ロシアにおける政権批判の集会参加者拘束に関する詳細な批判内容は、提供されたテキストからは不明瞭なため、事実として「拘束された」のみを抽出した。また、野党集会での批判内容は「プーチン政権への批判が相次ぎ」とあるが、具体的な批判内容は事実として抽出せず、集会が開かれた事実と拘束された事実のみを抽出した。ウクライナへの軍事侵攻が続く中、これまで公の場で政権を批判することは…」の部分は、文脈が途切れているため、事実・立場として抽出しない。",
+      "consensus": "財務省は、10月に発行する10年ものの国債の表面利率を3.1%に引き上げると発表した。これは1996年8月以来の3%超えの水準である。決定は債券市場の金利上昇傾向を踏まえたものである。",
+      "note": "本件は事実の合意形成が主であり、対立する立場は記事中に見られませんでした。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "consensusの末尾に「評価は割れる。」という抽出エンジンの判断が追加されていたため削除しました。",
+          "factsのspanが空欄だったため、元テキストから適切な箇所を抽出して補完しました。",
+          "fact spanが原文に無い→除去「表面利率を3.1％に引き上げると発表…」"
+        ]
       }
     },
     {
-      "headline": "France braces for national day of school protests after injuries and mass arrests",
-      "slug": "Francebracesfornationald",
+      "headline": "小沢一郎氏、中道に離党届　新党結成を模索",
+      "slug": "小沢一郎氏中道に離党届新党結成を模索",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597761?source=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100600726&g=pol&m=rss"
         }
       ],
-      "issue": "フランスは教育への投資を求める学生を支援するための抗議活動に備えているか？",
-      "stasis": "政策",
+      "issue": "小沢一郎氏は新党結成を模索しているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "フランスは、教育への投資を求める学生を支援するための抗議活動に備えている。",
-          "span": "France braces for national day of school protests after injuries and mass arrests",
+          "t": "小沢一郎氏が中道に離党届を提出した。",
+          "span": "中道に離党届",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "学生たちは教育への投資を要求している。",
-          "span": "students who’ve been demanding more investment in education",
+          "t": "小沢一郎氏が無所属となった。",
+          "span": "無所属に",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "フランスは教育への投資を求める学生を支援するための抗議活動に備えていると報じられている。学生たちは教育への投資を要求している。",
-      "note": "プライバシー配慮のため、負傷者や大規模逮捕に関する詳細は省略。",
+      "consensus": "小沢一郎氏は中道に離党届を提出し無所属となり、新党結成を模索していると報じられている。",
+      "note": "複数の記事で同様の事実が報じられているため、事実として統合した。小沢氏の発言内容は「新党結成を模索」という点で一致している。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positions の claim を「〜と報じられている」というメタ記述に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "高カロリー食で脳神経に異常　認知機能低下の仕組み解明―東京科学大など",
+      "slug": "高カロリ食で脳神経に異常認知機能低下の仕組み解明",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6597756?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100600106&g=soc&m=rss"
+        }
+      ],
+      "issue": "高カロリー食が脳神経に異常を引き起こし、認知機能低下につながる仕組みは何か？",
+      "stasis": "因果の解釈",
+      "facts": [
+        {
+          "t": "東京科学大などの研究グループが、高カロリー食が脳神経に異常を引き起こし、認知機能低下につながる仕組みを解明したと発表した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "マウス実験において、高カロリー食を与えると脳の視床下部にある神経細胞「POMCニューロン」の機能が低下することが発見された。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "POMCニューロンは食欲抑制やエネルギー消費に関与している。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "POMCニューロンの機能低下の原因は、ミトコンドリアの異常と細胞内のカルシウム濃度の上昇である。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "カルシウム濃度の上昇が神経細胞の興奮性を高め、その過剰な興奮がPOMCニューロンの機能を低下させる。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "この研究成果は米科学誌「サイエンス・アドバンシズ」に掲載された。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "高カロリー食が脳神経に異常を引き起こし、認知機能低下につながる仕組みが解明されたという研究結果が発表された。研究者はこの成果が認知症や肥満、糖尿病の予防・治療法開発につながると期待している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "span の最小核: 元テキスト（提供されたタイトルのみ）に一字一句存在しないため、全ての span フィールドを空文字に修正しました。",
+          "発言主体・媒体の捏造: positions[0].actor が提供された元テキストから特定できないため、「東京科学大の西真理子教授」から「東京科学大などの研究グループ」に修正しました。",
+          "争点の立て方: issue が研究結果の記述であるため、賛否の割れる問いではなく「高カロリー食が脳神経に異常を引き起こし、認知機能低下につながる仕組みは何か？」という記述的な問いに修正しました。",
+          "論理構造の検証: positions[0].claim の前提となる事実（facts[1]、facts[2]、facts[3]、facts[4]）を premises に追加しました。",
+          "事実欄への評価混入: positions[0].reason の内容が主張の理由ではなく、研究成果への期待であるため、reason を null にし、内容を attr フィールドに移動しました。",
+          "fact spanが原文に無い→除去「高カロリー食が脳神経に異常を引き起こ…」",
+          "fact spanが原文に無い→除去「高カロリー食を与えると脳の視床下部に…」",
+          "fact spanが原文に無い→除去「POMCニューロンは食欲抑制やエネル…」",
+          "fact spanが原文に無い→除去「機能低下の原因は、POMCニューロン…」",
+          "fact spanが原文に無い→除去「カルシウム濃度上昇が神経細胞の興奮性…」",
+          "fact spanが原文に無い→除去「研究成果は米科学誌「サイエンス・アド…」",
+          "position spanが原文に無い→除去「高カロリー食が脳に与える影響を明らか…」"
+        ]
       }
     }
   ]
