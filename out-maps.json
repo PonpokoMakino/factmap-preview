@@ -1,10 +1,136 @@
 {
-  "builtAt": "2026-10-08T17:22:18.429Z",
+  "builtAt": "2026-10-09T02:17:16.689Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "阪神の佐藤が打撃４部門トップ　投手は阪神・高橋が２冠―プロ野球セ・リーグ",
-      "slug": "阪神の佐藤が打撃部門トップ投手は阪神高橋が冠プロ",
+      "headline": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+      "slug": "FortHoodattackersexecuti",
+      "independentSources": 4,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598082?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026100900356&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/8/hegseth-says-firing-squad-execution-of-fort-hood-shooter-will-be-public?traffic_source=rss"
+        }
+      ],
+      "issue": "米軍は、2009年のフォートフッド基地乱射事件の犯人ニダル・ハサンの銃殺刑を生配信するのか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "米国防総省は、2009年のフォートフッド基地乱射事件の犯人ニダル・ハサンの銃殺刑を生配信する方針である。",
+          "span": "銃殺刑を生配信へ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "米国の国防長官は、ニダル・ハサンの処刑は公開されると述べた。",
+          "span": "The US Defence Secretary says the execution will be public",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ペンタゴン（国防総省）の関係者は、元米陸軍少佐ニダル・ハサンの処刑は「公開」されるとアルジャジーラに伝えた。",
+          "span": "An official at the Pentagon told Al Jazeera that former US Army Major Nidal Hasan&#039;s execution would be &#039;livest",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "クリスタ・パイクは、米国での処刑が失敗した後、歩いていると弁護士がBBCに伝えた。",
+          "span": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "弁護士によると、コリーン・スレマー殺害犯は、2度の致死注射を生き延びた後、病院の部屋を歩き回っている。",
+          "span": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "法曹専門家",
+          "stance": "attack",
+          "claim": "この決定は「前例のない」ものである。",
+          "span": "the \"unprecedented\" decision is on \"",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "ヘグセス氏",
+          "stance": "support",
+          "claim": "フォートフッドの銃撃犯の銃殺刑は「公開」されるだろう。",
+          "span": "Hegseth says firing squad execution of Fort Hood shooter will be ‘public’",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "米軍は、2009年のフォートフッド基地乱射事件の犯人ニダル・ハサンの銃殺刑を生配信する方針である。処刑は公開されると報じられているが、法曹専門家はこの決定を「前例のない」と評している。",
+      "note": "クリスタ・パイクに関する情報は、ニダル・ハサンの処刑とは直接関係ないが、処刑の失敗例として言及されている可能性があるため、事実として抽出した。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positionsのclaim「この前例のない決定は「…」である。」を「この決定は「前例のない」ものである。」に修正。元のテキストにない「攻撃」のニュアンスを削除。",
+          "consensusを修正。事実と異なる「その評価については割れている」を削除し、事実に基づいた記述に修正。"
+        ]
+      }
+    },
+    {
+      "headline": "消費減税法案が閣議決定　来春から１％、臨時国会で攻防",
+      "slug": "消費減税法案が閣議決定来春から臨時国会で攻防",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,31 +140,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261008de56508"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261008de56885"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261009de56958"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598052?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6598094?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100801196&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100801143&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026100900138&g=pol&m=rss"
         }
       ],
-      "issue": "阪神タイガースの佐藤輝明選手はプロ野球セ・リーグで三冠王を獲得したか？",
-      "stasis": "事実",
+      "issue": "政府が閣議決定した食料品の消費税率を1%に引き下げる法案は、今の国会で成立させるべきか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "阪神タイガースの佐藤輝明選手がセ・リーグの打率、ホームラン、打点のいずれもタイトルを獲得し、三冠王に輝いた。",
-          "span": "阪神の佐藤輝明選手が打率、ホームラン、打点でいずれもタイトルを獲得し三冠王に輝きました",
+          "t": "政府は、食料品の消費税率を来年4月から2年間、1%に引き下げることなどを盛り込んだ関連法案を閣議決定した。",
+          "span": "食料品の消費税減税関連法案を閣議決定",
           "src": [
             {
               "ty": "press",
@@ -47,23 +165,7 @@
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "プロ野球の三冠王は、2022年に当時ヤクルトの村上宗隆選手が達成して以来、4年ぶりである。",
-          "span": "プロ野球の三冠王は、2022年に当時ヤクルトの村上宗隆選手が達成して以来、4年ぶりで",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "阪神タイガースの佐藤輝明選手は史上9人目の三冠王である。",
-          "span": "阪神の佐藤輝明、史上９人目の三冠王",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -71,19 +173,13 @@
           ]
         },
         {
-          "t": "プロ野球セ・リーグのレギュラーシーズンが終了した。",
-          "span": "プロ野球は8日、セ・リーグの1試合が行われレギュラーシーズンが終了しました",
+          "t": "当該法案は、食料品の消費税率を来年4月から2年間、1%に引き下げる内容である。",
+          "span": "食料品の消費税率を来年4月から2年間、1％に引き下げる",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "阪神タイガースの佐藤輝明選手は打撃4部門でトップだった。",
-          "span": "阪神の佐藤が打撃４部門トップ",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -92,41 +188,47 @@
         }
       ],
       "positions": [],
-      "consensus": "阪神タイガースの佐藤輝明選手がセ・リーグで打率、ホームラン、打点のタイトルを獲得し三冠王に輝いた。これは村上宗隆選手以来4年ぶり、史上9人目である。プロ野球セ・リーグのレギュラーシーズンは終了した。",
-      "note": "複数のニュースソースで事実が確認されたため、positions は空配列とする。",
+      "consensus": "政府が食料品の消費税減税関連法案を閣議決定したことは事実として合意されている。法案の国会での成立については、与野党間で議論や攻防が予想される。",
+      "note": null,
       "audit": {
         "changed": false,
-        "issues": []
+        "issues": [
+          "検品パス失敗（The operation was aborted due to timeout）→抽出のみ採用"
+        ]
       }
     },
     {
-      "headline": "'Every day there is killing': Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
-      "slug": "EverydaythereiskillingPa",
+      "headline": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
+      "slug": "Russianstrikeonbuseskill",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckgel9044vqeo?at_medium=RSS&at_campaign=rss"
+        },
         {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/8/dozens-killed-in-russian-strike-on-civilian-buses-in-eastern-ukraine?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/8/kenyan-patient-suspected-of-ebola-infection-tests-negative?traffic_source=rss"
         }
       ],
-      "issue": "ロシアによるウクライナへの攻撃は民間人を標的としたものか？",
+      "issue": "複数の国際的な出来事の概要は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ロシアの攻撃により、ウクライナ東部のクラマトルスク市で少なくとも30人が死亡したと当局者が発表した。",
-          "span": "Russian strike on buses kills at least 30, say officials",
+          "t": "モナコで富豪に対する爆弾攻撃未遂事件があった。",
+          "span": "Monaco bomb attack on millionaire",
           "src": [
             {
               "ty": "press",
@@ -135,8 +237,8 @@
           ]
         },
         {
-          "t": "ロシアの攻撃は、前線都市クラマトルスクで2台の混雑した車両を標的としたとウクライナは非難している。",
-          "span": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians",
+          "t": "ロシアによる攻撃で少なくとも30人が死亡したと当局が発表した。",
+          "span": "kills at least 30",
           "src": [
             {
               "ty": "press",
@@ -145,8 +247,18 @@
           ]
         },
         {
-          "t": "ロシアの攻撃がドネツク地域の都市で2台の民間バスを直撃し、少なくとも33人が死亡した。",
-          "span": "At least 33 people were killed after a Russian strike hit two civilian buses in a city within the Donestsk region.",
+          "t": "ウクライナへの致命的な攻撃が急増している。",
+          "span": "deadly attacks on Ukraine surge",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ガザ市アル・サブラ地区の建物にイスラエル軍の空爆があった。",
+          "span": "An Israeli air strike hit a building in Gaza City’s al-Sabra neighbourhood",
           "src": [
             {
               "ty": "press",
@@ -155,8 +267,48 @@
           ]
         },
         {
-          "t": "ガザ地区の多くのパレスチナ人が、停戦にもかかわらずイスラエルによる攻撃を受け、狭いテント都市で生活している。",
-          "span": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
+          "t": "空爆により、子供を含む数人が死亡した。",
+          "span": "killing several people, including children",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ケニアでエボラ感染が疑われた患者の検査結果が陰性だった。",
+          "span": "suspected of Ebola infection tests negative",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ケニアは今週、国内初のエボラ症例を報告していた。",
+          "span": "the country reported its first-ever case this week",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "予備的な検査結果により、ケニアでの2例目の懸念が和らいだ。",
+          "span": "Preliminary lab results ease fears of a second case in Kenya",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "Vitalii Zhykovychは、ウクライナ生まれの実業家ヴァディム・エルモラエフ氏に対する暗殺未遂事件について、自身の説明を述べたと報じられている。",
+          "span": "gives his own account of the attempted assassination of Ukrainian-born businessman Vadym Yermolayev",
           "src": [
             {
               "ty": "press",
@@ -165,8 +317,8 @@
           ]
         },
         {
-          "t": "ガザ地区では、和平合意が停滞する中で、停戦にもかかわらずイスラエルによる攻撃が続いている。",
-          "span": "Palestinians in Gaza face Israeli strikes despite ceasefire as peace deal stalls",
+          "t": "ウクライナは、ロシアがクラマトルスクの最前線都市で、できるだけ多くの民間人を殺害するために2台の混雑した車両を標的にしたと非難したと報じられている。",
+          "span": "accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians",
           "src": [
             {
               "ty": "press",
@@ -176,141 +328,69 @@
         }
       ],
       "positions": [],
-      "consensus": "ロシアの攻撃によりウクライナ東部のバスが被害を受け、多数の死傷者が出た。ガザ地区では停戦や和平合意の停滞にもかかわらずイスラエルによる攻撃が続いている。ウクライナはロシアが民間人を標的にしたと非難している。",
-      "note": "プライバシー配慮のため、被害者の個人情報は含んでいない。",
+      "consensus": "複数の国際的な出来事が報じられており、関係者からの主張や非難も事実として報じられている。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "争点の立て方: テキスト内に単一の争点が存在せず、positionsが事実の報告（発言・非難）であったため、positionsの項目をfactsに移し、issueをより一般的な記述に変更しました。"
+        ]
       }
     },
     {
-      "headline": "中国外務省の幹部、高市首相を呼び捨て　日本政府「敬意払うのは当然」、中国に申し入れ",
-      "slug": "中国外務省の幹部高市首相を呼び捨て日本政府敬意払",
+      "headline": "ブックオフ 不正アクセスで最大643万件の会員情報漏えいか",
+      "slug": "ブックオフ不正アクセスで最大643万件の会員情報",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261008de56829"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261009de56955"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100701068&g=pol&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598089?source=rss"
         }
       ],
-      "issue": "米大統領は習主席に高市首相との対話を呼びかけたか、また中国外務省幹部は高市首相を呼び捨てにしたか",
+      "issue": "ブックオフグループホールディングスは会員情報漏えいの可能性を発表したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "9月に行われた米中首脳会談で、アメリカのトランプ大統領が中国の習近平国家主席に対し、高市総理大臣と対話し日本との関係を修復するよう求めていたと香港のメディアが報じた。",
-          "span": "アメリカのトランプ大統領が中国の習近平国家主席に対して、高市総理大臣と対話し日本との関係を修復するよう求めていた",
+          "t": "中古書籍販売などを手がけるブックオフグループホールディングスは、子会社が提供する会員情報管理システムに不正アクセスがあったと発表した。",
+          "span": "子会社が提供する会員情報の管理システムに不正アクセスがあり",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "中国外務省の幹部が高市首相を呼び捨てにしたと報じられた。",
-          "span": "中国外務省の幹部、高市首相を呼び捨て",
+          "t": "この不正アクセスにより、最大で643万件の会員情報が漏えいした可能性がある。",
+          "span": "最大で643万件の会員の情報が漏えいした可能性がある",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "日本政府は、中国に対し敬意を払うのは当然だとし、申し入れを行った。",
-          "span": "日本政府「敬意払うのは当然」、中国に申し入れ",
-          "src": [
+              "l": "NHK"
+            },
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "米大統領が習主席に高市首相との対話を呼びかけたという報道と、中国外務省幹部が高市首相を呼び捨てにしたという報道があった。日本政府は中国に敬意を払うよう申し入れた。",
-      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "ブックオフグループホールディングスの子会社システムへの不正アクセスにより、最大643万件の会員情報が漏えいした可能性があるという事実が報じられている。評価は割れない。",
+      "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "slug": "VenezuelasexleaderNicols",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/8/venezuelas-nicolas-maduro-and-his-wife-charged-over-torture-allegations?traffic_source=rss"
-        }
-      ],
-      "issue": "ニコラス・マドゥロは拷問共謀罪で訴追されるべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "ニコラス・マドゥロは拷問共謀罪で訴追された。",
-          "span": "charged with conspiracy to commit torture",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "新たな訴追は、マドゥロ政権下で拘束されていた米国市民への拷問疑惑に関連している。",
-          "span": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ニコラス・マドゥロと彼の妻は拷問疑惑で訴追された。",
-          "span": "Venezuela’s Nicolas Maduro and his wife charged over torture allegations",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "新たな米国の訴追は、ベネズエラの前大統領とファーストレディに対する既存の麻薬密売事件に追加されるものである。",
-          "span": "The new US charge adds to the existing drug trafficking case against Venezuela’s former president and first lady",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ニコラス・マドゥロは拷問共謀罪で訴追された。新たな訴追は、マドゥロ政権下で拘束されていた米国市民への拷問疑惑に関連している。ニコラス・マドゥロと彼の妻は拷問疑惑で訴追された。新たな米国の訴追は、ベネズエラの前大統領とファーストレディに対する既存の麻薬密売事件に追加されるものである。",
-      "note": "プライバシー配慮のため、被害者の実名は伏せられています。",
-      "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issueフィールドが質問形式になっていなかったため、事実を問う質問に修正しました。"
+        ]
       }
     }
   ]
