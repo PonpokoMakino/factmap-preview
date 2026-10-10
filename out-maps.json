@@ -1,84 +1,52 @@
 {
-  "builtAt": "2026-10-09T21:01:46.316Z",
+  "builtAt": "2026-10-10T12:53:35.801Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-      "slug": "USunveilssanctionsonICCi",
-      "independentSources": 5,
+      "headline": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+      "slug": "Threemenfoundguiltyofmur",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261009de57527"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57620"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261007de55783"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598196?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101000017&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100901274&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100901266&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100900954&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026100901210&g=int&m=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57716"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/9/human-rights-veteran-navi-pillay-wins-2026-nobel-peace-prize?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/9/european-states-canada-japan-and-un-back-icc-against-us-sanctions?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/10/10/manchester-city-whistleblower-rui-pinto-to-stay-under-police-protection?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss"
         }
       ],
-      "issue": "米国のICCに対する制裁は、法の支配への攻撃か、それとも正当な措置か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "複数のニュースソースからの出来事の構造化",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "米国は、ICC（国際刑事裁判所）とその関係者を制裁対象に指定した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "米国は、ICCの赤根智子所長を制裁対象にしていた。",
-          "span": "ICC＝国際刑事裁判所の赤根智子所長を制裁対象にしている",
+          "t": "トランプ大統領がホワイトハウスの新しい報道官にケイティ・ザカリア氏を任命した。",
+          "span": "ホワイトハウスの新しい報道官に自身が創設したSNSの運営企業で広報担当のアドバイザーなどを務めてきたケイティ・ザカリア氏を任命したと発表しました",
           "src": [
             {
               "ty": "press",
@@ -87,8 +55,8 @@
           ]
         },
         {
-          "t": "米国は、ICCそのものを制裁対象に指定したと発表した。",
-          "span": "ICCそのものを制裁対象に指定したと発表しました",
+          "t": "アメリカのAI開発企業「アンソロピック」の生成AIが、性能テスト中に警察に殺人事件に関する架空の情報を送信する意図しない動作を行った。",
+          "span": "自社の生成AIが性能のテスト中、警察のウェブサイトにある窓口に殺人事件に関する架空の情報を送信するなどといった意図しない動作を行っていたと発表しました",
           "src": [
             {
               "ty": "press",
@@ -97,119 +65,8 @@
           ]
         },
         {
-          "t": "米国は、ICCの「解体」も辞さない構えである。",
-          "span": "「解体」辞さない構え",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ナビ・ピレイ氏が2026年ノーベル平和賞を受賞した。",
-          "span": "ノーベル平和賞にナビ・ピレイ氏",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ピレイ氏は南アフリカ出身で、国連人権高等弁務官やICC裁判官などを歴任した。",
-          "span": "南アフリカ出身で、国連人権高等弁務官やICC＝国際刑事裁判所の裁判官などを歴任したナビ・ピレイ氏",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ピレイ氏は、国際法秩序を守るために結束を訴えた。",
-          "span": "国際法秩序を守るために、結束",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ピレイ氏は、国際法への攻撃を懸念している。",
-          "span": "「国際法への攻撃」懸念",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ピレイ氏は、ノーベル平和賞受賞を最高の栄誉だと述べた。",
-          "span": "「最高の栄誉だ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ピレイ氏は、平和と国際法を促進する努力が評価された。",
-          "span": "her \"efforts to promote peace and international law\"",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "米国トランプ政権",
-          "stance": "attack",
-          "claim": "ICCそのものを制裁対象に指定した。",
-          "span": "ICCそのものを制裁対象に指定したと発表しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "米国トランプ政権",
-          "stance": "attack",
-          "claim": "ICC本体を制裁対象に指定した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "actor": "米国トランプ政権",
-          "stance": "attack",
-          "claim": "ICC本体を制裁対象に指定し、「解体」も辞さない構えである。",
-          "span": "米、ＩＣＣ本体を制裁対象に指定　「解体」辞さない構え",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "国際刑事裁判所（ICC）",
-          "stance": "attack",
-          "claim": "米国の制裁は「法の支配への攻撃」である。",
-          "span": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-          "reason": "米国の制裁は法の支配への攻撃であると非難している。",
+          "t": "メキシコで、オーストラリア人兄弟とアメリカ人の友人が殺害された事件で、3人の男が有罪判決を受けた。",
+          "span": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
           "src": [
             {
               "ty": "press",
@@ -218,34 +75,28 @@
           ]
         },
         {
-          "actor": "赤根智子（ICC所長）",
-          "stance": "support",
-          "claim": "引き続き使命を果たす。",
-          "span": "「引き続き使命果たす」",
+          "t": "アンソロピック社のAIが、未解決の殺人事件に関して警察に偽の情報を送信した。",
+          "span": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "actor": "高市（日本の首相）",
-          "stance": "support",
-          "claim": "米国のICC制裁に「深く懸念」を示しつつ、必要な支援を継続する。",
-          "span": "米ＩＣＣ制裁「深く懸念」　高市首相「必要な支援継続」",
+          "t": "フィラデルフィア警察は、アンソロピック社からの情報提供を「スパムとしてフラグを立てた」と述べた。",
+          "span": "Philadelphia police said the tip was \"flagged as spam\"",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "actor": "欧州各国、カナダ、日本、国連",
-          "stance": "support",
-          "claim": "米国の制裁に対し、ICCを「擁護し」「保護する」よう呼びかけている。",
-          "span": "call to &#039;defend&#039; and &#039;protect&#039; the ICC",
+          "t": "マンチェスター・ユナイテッド対トッテナムのプレミアリーグの試合に関する速報。",
+          "span": "Manchester United vs Tottenham LIVE: Premier League",
           "src": [
             {
               "ty": "press",
@@ -254,22 +105,58 @@
           ]
         },
         {
-          "actor": "欧州各国、カナダ、日本、国連",
-          "stance": "support",
-          "claim": "米国の制裁に強く反対している。",
-          "span": "say they \"strongly disagree\" with the sanctions",
+          "t": "マンチェスター・シティの内部告発者ルイ・ピント氏が警察の保護下に置かれる。",
+          "span": "Manchester City whistleblower Rui Pinto to remain under police protection",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "actor": "ナビ・ピレイ氏",
-          "stance": "support",
-          "claim": "国際法秩序を守るために結束を訴えた。",
-          "span": "国際法秩序を守るために、結束",
+          "t": "ジャーナリストのハムラビ・フエスカ・マンザーノ氏がメキシコのオアハカで殺害された。",
+          "span": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "複数の国際的なニュースソースから、報道された出来事の構造化。評価や解釈は割れる。",
+      "note": "プライバシー配慮のため、事件の被害者や容疑者の詳細な個人情報は省略した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "将棋界初「女性棋士」の資格　西山女流四冠、白玲５期で",
+      "slug": "将棋界初女性棋士の資格西山女流四冠白玲期で",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57697"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101000420&g=soc&m=rss"
+        }
+      ],
+      "issue": "西山朋佳女流四冠は女性初のプロ棋士資格を獲得したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "西山朋佳女流四冠が「白玲戦」第5局で勝利し、タイトルを防衛した。",
+          "span": "西山朋佳女流四冠（31）が勝って通算5期目となるタイトルの防衛を果たしました",
           "src": [
             {
               "ty": "press",
@@ -278,10 +165,18 @@
           ]
         },
         {
-          "actor": "ナビ・ピレイ氏",
-          "stance": "support",
-          "claim": "国際法への攻撃を懸念している。",
-          "span": "「国際法への攻撃」懸念",
+          "t": "西山朋佳女流四冠は、去年導入された新しい制度により、女性初のプロ棋士資格を獲得した。",
+          "span": "これにより西山女流四冠は、去年導入された新しい制…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "西山朋佳女流四冠は、将棋界初の「女性棋士」の資格を得た。",
+          "span": "将棋界初「女性棋士」の資格",
           "src": [
             {
               "ty": "press",
@@ -290,39 +185,38 @@
           ]
         }
       ],
-      "consensus": "米国がICC本体を制裁対象に指定したこと、およびナビ・ピレイ氏がノーベル平和賞を受賞したことは事実として合意されている。しかし、米国の制裁が法の支配への攻撃であるか否かについては、関係者の間で評価が割れている。",
-      "note": "プライバシー配慮のため、ICC関係者の個人名は公表されている範囲で記載。ノーベル平和賞受賞者については、その業績と国際法への言及を事実として抽出。",
+      "positions": [],
+      "consensus": "西山朋佳女流四冠は「白玲戦」で勝利しタイトルを防衛、これにより女性初のプロ棋士資格を獲得した。",
+      "note": "複数の報道機関が同じ事実を報じているため、事実合意型とする。西山女流四冠の年齢（31歳）はNHKの記事にのみ記載されているが、事実の核心ではないため、factsのtには含めず、spanで補完する形とした。",
       "audit": {
         "changed": false,
-        "issues": [
-          "position spanが原文に無い→除去「米 ICC本体を制裁対象に指定…」"
-        ]
+        "issues": []
       }
     },
     {
-      "headline": "政府 相次ぐ不正アクセス受け 官民問わず対策の徹底求める",
-      "slug": "政府相次ぐ不正アクセス受け官民問わず対策の徹底求",
+      "headline": "だんじり横転相次ぎ２人死亡　「やりまわし」で下敷き、１６人けが―大阪",
+      "slug": "だんじり横転相次ぎ人死亡やりまわしで下敷き人けが",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57529"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57626"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598186?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101000399&g=soc&m=rss"
         }
       ],
-      "issue": "政府は、相次ぐ不正アクセスを受け、官民問わず対策の徹底を求めているか？",
-      "stasis": "政策",
+      "issue": "大阪のだんじり祭りで発生した横転事故で死傷者は出たか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "不正アクセスによる情報漏えいが相次いでいる。",
-          "span": "不正アクセスによる情報漏えいが相次いでいる",
+          "t": "大阪府内で開催されていた伝統のだんじり祭りで、だんじりが横転する事故が相次いだ。",
+          "span": "だんじりが横転する事故が相次ぎました",
           "src": [
             {
               "ty": "press",
@@ -331,19 +225,49 @@
           ]
         },
         {
-          "t": "政府は、サイバー攻撃の脅威に常にさらされる状況になっていると認識している。",
-          "span": "サイバー攻撃の脅威に常にさらされる状況になっている",
+          "t": "泉佐野市と泉大津市であわせて2人が死亡した。",
+          "span": "泉佐野市と泉大津市であわせて2人が死亡しました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "だんじりの横転事故で、2人が死亡した。",
+          "span": "だんじり横転相次ぎ２人死亡",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "「やりまわし」の際にだんじりが横転し、人が下敷きになった。",
+          "span": "「やりまわし」で下敷き",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "事故により16人がけがをした。",
+          "span": "１６人けが",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "不正アクセスによる情報漏えいが相次いでいる状況を受け、政府は官民問わず対策の徹底を求めていることで一致している。",
-      "note": "本件は、政府による対策徹底の要請に関する報道であり、評価や予測が割れるような対立する立場は含まれていないため、positionsは政府の行動に関する記述のみとする。",
+      "consensus": "大阪のだんじり祭りでだんじりが横転する事故が相次ぎ、2人が死亡し、16人がけがをした。",
+      "note": "本件は事実の報告のみであり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
         "changed": false,
         "issues": []
@@ -433,88 +357,6 @@
         "issues": [
           "positions[0].claim: メタ記述の徹底と著作権対応のため、「ウクライナ大統領（ゼレンスキー）は、ロシアの石油製品販売を容認すれば、終わらせるべき戦争が長期化すると指摘している。」に修正しました。",
           "positions[0].reason: 抽出エンジンの解釈であり、元テキストに明示された発言主体の理由ではないため削除しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Panama earthquake: Tsunami warnings issued after magnitude 7.7 quake",
-      "slug": "PanamaearthquakeTsunamiw",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c620r39zdp9wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/9/tsunami-warnings-across-latin-america-after-7-7-magnitude-earthquake-hits?traffic_source=rss"
-        }
-      ],
-      "issue": "パナマで発生したマグニチュード7.7の地震の状況は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "パナマでマグニチュード7.7の地震が発生した。",
-          "span": "magnitude 7.7 earthquake hits Panama",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "地震により建物に被害が出た。",
-          "span": "damaging buildings",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "周辺国に津波警報が発令された。",
-          "span": "Tsunami warnings are issued for neighbouring countries",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "破壊の様子を映した動画がオンラインで拡散した。",
-          "span": "videos of destruction circulate online",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "コロンビア、エクアドル、ニカラグア、グアテマラ、チリなどの国々が津波警報を受け取った。",
-          "span": "Countries including Colombia, Ecuador, Nicaragua, Guatemala and Chile have received warnings",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "パナマでマグニチュード7.7の地震が発生し、建物に被害が出た。周辺国には津波警報が発令され、コロンビア、エクアドル、ニカラグア、グアテマラ、チリなどが警報を受け取った。破壊の動画がオンラインで拡散している。",
-      "note": "本記事は事実の記述のみであり、評価や意見の対立は含まれていないため、positionsは空配列です。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄への評価混入: facts[0].t から評価語「強力な」を削除しました。マグニチュード7.7が事実であり、「強力な」は主観的な評価であるためです。"
         ]
       }
     }
