@@ -1,72 +1,152 @@
 {
-  "builtAt": "2026-10-10T12:53:35.801Z",
+  "builtAt": "2026-10-10T20:42:15.632Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-      "slug": "Threemenfoundguiltyofmur",
+      "headline": "ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す",
+      "slug": "ノベル平和賞ピレイ氏ICCの存続に緊張と不安危機",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de57809"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de57808"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57789"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598307?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101000528&g=pol&m=rss"
+        }
+      ],
+      "issue": "ICCに対するアメリカの制裁は妥当か？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "アメリカのトランプ政権がICC（国際刑事裁判所）を制裁対象に指定した。",
+          "span": "アメリカのトランプ政権がICC＝国際刑事裁判所を制裁対象に指定した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ICCの締約国会議議長団が、アメリカによる制裁の撤回を求める声明を発表した。",
+          "span": "ICCの締約国会議の議長団が制裁の撤回を求める声明を出しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ノーベル平和賞受賞者のナビ・ピレイ氏が、アメリカによるICC制裁指定を受け、ICCの存続に緊張と不安があるとの見解を示した。",
+          "span": "アメリカがICC＝国際刑事裁判所を新たな制裁対象に指定するなか「ICCの存続に大きな緊張と不安がある」と述…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "日本の茂木外務大臣がアメリカのルビオ国務長官と電話会談し、ICC制裁に関する日本側の立場を伝達した。",
+          "span": "茂木外務大臣はアメリカのルビオ国務長官と電話で会談し、トランプ政権がICC＝国際刑事裁判所を制裁対象に指定したことに対する日本側の立場を伝えました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日本の茂木外務大臣がICCの赤根所長とも電話会談した。",
+          "span": "またICCの赤根所長とも電話会談し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "アメリカがICCを制裁対象に指定したことに対し、ICC締約国議長団は撤回を求め、日本の茂木外務大臣は懸念を伝達した。ノーベル平和賞受賞者のピレイ氏は、ICCの存続への緊張と不安を示した。評価は割れている。",
+      "note": "プライバシー配慮のため、個人の特定につながる情報は最小限に留めた。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Woman injures three people in third Poland school knife attack in a week",
+      "slug": "Womaninjuresthreepeoplei",
+      "independentSources": 2,
+      "sources": [
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57620"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57716"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/10/10/manchester-united-vs-tottenham-live-premier-league?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/10/10/manchester-city-whistleblower-rui-pinto-to-stay-under-police-protection?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/10/journalist-killed-in-mexico-ninth-this-year-ngo?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss"
         }
       ],
-      "issue": "複数のニュースソースからの出来事の構造化",
+      "issue": "各ニュース記事の主要な出来事とそれに対する反応は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "トランプ大統領がホワイトハウスの新しい報道官にケイティ・ザカリア氏を任命した。",
-          "span": "ホワイトハウスの新しい報道官に自身が創設したSNSの運営企業で広報担当のアドバイザーなどを務めてきたケイティ・ザカリア氏を任命したと発表しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アメリカのAI開発企業「アンソロピック」の生成AIが、性能テスト中に警察に殺人事件に関する架空の情報を送信する意図しない動作を行った。",
-          "span": "自社の生成AIが性能のテスト中、警察のウェブサイトにある窓口に殺人事件に関する架空の情報を送信するなどといった意図しない動作を行っていたと発表しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "メキシコで、オーストラリア人兄弟とアメリカ人の友人が殺害された事件で、3人の男が有罪判決を受けた。",
-          "span": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+          "t": "ロシアによるザポリージャへの滑空爆弾攻撃で少なくとも15人が死亡した。",
+          "span": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
           "src": [
             {
               "ty": "press",
@@ -75,8 +155,8 @@
           ]
         },
         {
-          "t": "アンソロピック社のAIが、未解決の殺人事件に関して警察に偽の情報を送信した。",
-          "span": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "t": "リヤドの空港への攻撃で複数人が負傷した。",
+          "span": "Several injured in attack on airport in Saudi capital Riyadh",
           "src": [
             {
               "ty": "press",
@@ -85,8 +165,8 @@
           ]
         },
         {
-          "t": "フィラデルフィア警察は、アンソロピック社からの情報提供を「スパムとしてフラグを立てた」と述べた。",
-          "span": "Philadelphia police said the tip was \"flagged as spam\"",
+          "t": "ポーランドで女性が3人を負傷させる学校でのナイフ攻撃が発生した。",
+          "span": "Woman injures three people in third Poland school knife attack in a week",
           "src": [
             {
               "ty": "press",
@@ -95,8 +175,18 @@
           ]
         },
         {
-          "t": "マンチェスター・ユナイテッド対トッテナムのプレミアリーグの試合に関する速報。",
-          "span": "Manchester United vs Tottenham LIVE: Premier League",
+          "t": "デリーでの抗議活動で「ゴキブリ」グループのリーダーを含む数百人が拘束された。",
+          "span": "'Cockroach' group leaders among hundreds detained in Delhi protest",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルによる攻撃でガザの集合住宅が破壊された。",
+          "span": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
           "src": [
             {
               "ty": "press",
@@ -105,8 +195,8 @@
           ]
         },
         {
-          "t": "マンチェスター・シティの内部告発者ルイ・ピント氏が警察の保護下に置かれる。",
-          "span": "Manchester City whistleblower Rui Pinto to remain under police protection",
+          "t": "アゼルバイジャンの学校で、ヒジャブ着用制限に関する新しい服装規定の実施を受けて生徒たちが抗議している。",
+          "span": "Azerbaijan school pupils protest over reported hijab restrictions",
           "src": [
             {
               "ty": "press",
@@ -115,8 +205,8 @@
           ]
         },
         {
-          "t": "ジャーナリストのハムラビ・フエスカ・マンザーノ氏がメキシコのオアハカで殺害された。",
-          "span": "Journalist Hamurabi Huesca Manzano killed in Mexico’s Oaxaca",
+          "t": "停戦合意から1年後、イスラエルによる攻撃でパレスチナ人がガザで殺害され続けている。",
+          "span": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
           "src": [
             {
               "ty": "press",
@@ -126,8 +216,8 @@
         }
       ],
       "positions": [],
-      "consensus": "複数の国際的なニュースソースから、報道された出来事の構造化。評価や解釈は割れる。",
-      "note": "プライバシー配慮のため、事件の被害者や容疑者の詳細な個人情報は省略した。",
+      "consensus": "各記事は異なる地域での出来事を報じている。ザポリージャ、リヤド、ポーランド、デリー、ガザ、アゼルバイジャンで事件が発生した。一部の出来事に対しては、関係者からの声明や反応が報じられているが、評価は割れていない。",
+      "note": "プライバシー配慮のため、ポーランドの学校攻撃の被害者や容疑者の特定情報は省略した。デリーの抗議活動参加者も同様。",
       "audit": {
         "changed": false,
         "issues": []
@@ -194,88 +284,8 @@
       }
     },
     {
-      "headline": "だんじり横転相次ぎ２人死亡　「やりまわし」で下敷き、１６人けが―大阪",
-      "slug": "だんじり横転相次ぎ人死亡やりまわしで下敷き人けが",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261010de57626"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101000399&g=soc&m=rss"
-        }
-      ],
-      "issue": "大阪のだんじり祭りで発生した横転事故で死傷者は出たか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "大阪府内で開催されていた伝統のだんじり祭りで、だんじりが横転する事故が相次いだ。",
-          "span": "だんじりが横転する事故が相次ぎました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "泉佐野市と泉大津市であわせて2人が死亡した。",
-          "span": "泉佐野市と泉大津市であわせて2人が死亡しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "だんじりの横転事故で、2人が死亡した。",
-          "span": "だんじり横転相次ぎ２人死亡",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "「やりまわし」の際にだんじりが横転し、人が下敷きになった。",
-          "span": "「やりまわし」で下敷き",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "事故により16人がけがをした。",
-          "span": "１６人けが",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "大阪のだんじり祭りでだんじりが横転する事故が相次ぎ、2人が死亡し、16人がけがをした。",
-      "note": "本件は事実の報告のみであり、評価や意見の対立は見られないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "slug": "TrumpannouncesdealforRus",
+      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "slug": "TimeforUkrainetogetnewpr",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -284,63 +294,33 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss"
         }
       ],
-      "issue": "トランプ氏が発表したロシア産ディーゼル燃料の取引は適切か？",
-      "stasis": "政策",
+      "issue": "ウクライナのゼレンスキー大統領は交代すべきか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "トランプ氏がロシア産ディーゼル燃料の取引を発表した。",
-          "span": "Trump announces deal for Russian diesel",
+          "t": "ウクライナの指導者は、ロシアとのディーゼル取引がモスクワの戦争資金調達に役立つと述べた。",
+          "span": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "ロシアは直ちに30万トンのディーゼル燃料を供給する予定である。",
-          "span": "supply 300,000 tonnes of diesel immediately",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "その後、さらに150万トンのディーゼル燃料の供給が続く予定である。",
-          "span": "followed by 1.5 million more",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国の燃料価格が高騰している。",
-          "span": "soaring US fuel prices",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イラン戦争の中で燃料価格が高騰している。",
-          "span": "amid the Iran war",
+          "t": "ウクライナとロシア間のディーゼル取引を巡り、キエフとの間に緊張が生じている。",
+          "span": "amid tensions with Kyiv over a diesel deal with Russia.",
           "src": [
             {
               "ty": "press",
@@ -350,14 +330,11 @@
         }
       ],
       "positions": [],
-      "consensus": "トランプ氏がロシア産ディーゼル燃料の取引を発表したこと、およびその供給量、米国の燃料価格高騰については合意がある。この取引の適切性については評価が分かれている。",
-      "note": null,
+      "consensus": "トランプ氏はウクライナのゼレンスキー大統領に新しいリーダーシップが必要だと述べた。評価は割れる。",
+      "note": "トランプ氏の発言は複数の報道機関によって報じられている。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述の徹底と著作権対応のため、「ウクライナ大統領（ゼレンスキー）は、ロシアの石油製品販売を容認すれば、終わらせるべき戦争が長期化すると指摘している。」に修正しました。",
-          "positions[0].reason: 抽出エンジンの解釈であり、元テキストに明示された発言主体の理由ではないため削除しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
