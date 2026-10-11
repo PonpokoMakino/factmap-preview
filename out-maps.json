@@ -1,35 +1,89 @@
 {
-  "builtAt": "2026-10-11T10:52:48.095Z",
+  "builtAt": "2026-10-11T16:33:36.276Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "slug": "TimeforUkrainetogetnewpr",
-      "independentSources": 2,
+      "headline": "At least five people missing as flash floods in Nepal sweep away houses",
+      "slug": "Atleastfivepeoplemissing",
+      "independentSources": 4,
       "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de58027"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598442?source=rss"
+        },
+        {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/11/at-least-five-people-missing-as-flash-floods-in-nepal-sweep-away-houses?traffic_source=rss"
         }
       ],
-      "issue": "ウクライナのゼレンスキー大統領は交代すべきか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "ネパールで発生した土石流による被害状況と救助活動はどうか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "ウクライナの指導者は、ロシアとのディーゼル取引がモスクワの戦争資金調達に役立つと述べた。",
-          "span": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+          "t": "ネパールで再び土石流が発生し、5人の行方が分からなくなっている。",
+          "span": "再び土石流が発生し、5人の行方が分からなくなっていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "軍が救助活動を行っている。",
+          "span": "軍による救助活動が行われています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ことし8月にも大規模な土石流が発生していた。",
+          "span": "ことし8月、大規模な土石流が発生したネパールで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "11日、中部ゴルカ郡で土砂崩れが発生した。",
+          "span": "11日中部ゴルカ郡で土砂崩れが発生し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "家屋や橋が流された。",
+          "span": "Homes and bridges swept away",
           "src": [
             {
               "ty": "press",
@@ -38,8 +92,75 @@
           ]
         },
         {
-          "t": "ウクライナとロシア間のディーゼル取引を巡り、キエフとの間に緊張が生じている。",
-          "span": "amid tensions with Kyiv over a diesel deal with Russia.",
+          "t": "国の中心部で川が氾濫した後、当局は住民に安全な場所への移動を促している。",
+          "span": "Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ネパールは2ヶ月前の壊滅的な洪水から回復しようとしている。",
+          "span": "Nepal is still trying to recover from catastrophic floods that hit less than two months ago",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ネパールで土石流が発生し、5人の行方が分からなくなっており、軍が救助活動を行っている。家屋や橋が流されたという事実については、複数の報道機関で一致している。",
+      "note": "プライバシーに配慮し、被害者の特定につながる情報は含んでいません。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "fact.t: \"当局は、国の中心部で川が氾濫した後、住民に安全な場所への移動を促している。\" を \"国の中心部で川が氾濫した後、当局は住民に安全な場所への移動を促している。\" に修正しました。元のspan \"Authorities urge villagers to move to safer places after a river in the central part of the country bursts its banks.\" は英語であり、そのままでは日本語のtと一致しないため、tをより自然な日本語に修正しました。",
+          "fact.t: \"ネパールは2ヶ月前の大規模な洪水から回復しようとしている。\" を \"ネパールは2ヶ月前の壊滅的な洪水から回復しようとしている。\" に修正しました。元のspan \"Nepal is still trying to recover from catastrophic floods that hit less than two months ago\" に \"catastrophic\" が含まれているため、tに \"壊滅的な\" を追加しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
+      "slug": "TrumpsaysUkraineandRussi",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101100484&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101100483&g=flash&m=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/11/trump-says-ukraine-russia-agree-to-energy-ceasefire-2?traffic_source=rss"
+        }
+      ],
+      "issue": "ロシアとウクライナは「エネルギー停戦」で合意したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "トランプ米大統領は、ロシアとウクライナが「エネルギー停戦」で合意したとSNSに投稿した。",
+          "span": "米大統領は、ロシアとウクライナが「エネルギー停戦」で合意したとＳＮＳに投稿した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "トランプ米大統領は、ロシアとウクライナが「エネルギー停戦」で合意したと投稿した。",
+          "span": "Trump says Ukraine and Russia agree to ‘energy ceasefire’",
           "src": [
             {
               "ty": "press",
@@ -49,162 +170,103 @@
         }
       ],
       "positions": [],
-      "consensus": "トランプ氏はウクライナのゼレンスキー大統領に新しいリーダーシップが必要だと述べた。評価は割れる。",
-      "note": "トランプ氏の発言は複数の報道機関によって報じられている。",
+      "consensus": "トランプ米大統領は、ロシアとウクライナが「エネルギー停戦」で合意したと投稿した。ウクライナ大統領は60日間の完全停戦を推進していた。",
+      "note": "ウクライナ大統領の「60日間の完全停戦推進」は、トランプ大統領の「エネルギー停戦」合意という事実に対する直接的な反論ではないが、文脈上、停戦の範囲や期間に関する異なる動きを示唆しているため、positions に含めた。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus の「評価は割れる」を削除し、事実の列挙に変更しました。",
+          "positions のウクライナ大統領の stance を「attack」から「neutral」に変更しました。元テキストは停戦推進の事実を述べており、トランプ大統領の発言への直接的な反論や攻撃とは読み取れないためです。"
+        ]
+      }
+    },
+    {
+      "headline": "Pope Leo XIV to undergo surgery after lump found in lung",
+      "slug": "PopeLeoXIVtoundergosurge",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/pope-leo-xiv-to-undergo-surgery-after-lump-found-in-lung?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/11/pope-leo-to-undergo-surgery-to-remove-lung-nodule?traffic_source=rss"
+        }
+      ],
+      "issue": "ローマ教皇レオは肺の結節摘出の手術を受けるか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ローマ教皇レオ（71歳）は、肺に結節が見つかったため、手術を受ける予定である。",
+          "span": "Pope Leo to have surgery after lump found on lung",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "結節は「非常に早期の段階」で特定されたと教皇は述べた。",
+          "span": "the nodule was identified \"at a very early stage\"",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ローマ教皇レオ14世は、今週、肺の結節摘出の手術を受けることを発表した。",
+          "span": "Pope Leo XIV to undergo surgery after lump found in lung",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ローマ教皇レオは、肺の結節摘出の手術を受ける予定である。",
+          "span": "Pope Leo to undergo surgery to remove lung nodule",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "71歳の精神的指導者は、サン・ピエトロ広場での毎週の日曜日の祝福中に巡礼者に伝えた。",
+          "span": "The 71-year-old spiritual leader informed pilgrims during his weekly Sunday blessing at St Peter&#039;s Square",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ローマ教皇レオ（71歳）は肺に結節が見つかり、手術を受ける予定である。結節は早期に特定されたと述べられている。この事実は報道されている。",
+      "note": "ローマ教皇の名前について、BBCは「Pope Leo」、Al Jazeeraは「Pope Leo XIV」と報じているが、年齢と状況から同一人物と判断し、事実として統合した。spanは原文のまま引用。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-      "slug": "HeadmasterdetainedafterB",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/anti-ice-protests-in-new-york-after-man-shot-in-car-with-child?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/gallery/2026/10/11/photos-thousands-detained-as-new-delhi-cracks-down-on-youth-protest?traffic_source=rss"
-        }
-      ],
-      "issue": "インドの「ゴキブリ」運動の指導者たちは解放されたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "インドの「ゴキブリ」運動の指導者たちが解放された。",
-          "span": "leaders released",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "警察は、数千人が拘束され解放された後も、市の中心部へのアクセスを制限し続けるとしている。",
-          "span": "Police say they will keep restricting access to the city centre after thousands of people were detained and released",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "インド当局は、「ゴキブリ」運動の集会を取り締まり、デモ参加者を拘束した。",
-          "span": "Demonstrators intercepted and detained as authorities crack down on &#039;cockroach&#039; movement rally",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ハリケーン「イサイアス」が金曜日の夕方に米国に上陸し、その後熱帯低気圧に弱まった。",
-          "span": "Isaias barrelled into the US on Friday evening, before it weakened to a post-tropi",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ハリケーン「イサイアス」により、4人が死亡し、数千人が停電に見舞われた。",
-          "span": "Four dead and thousands without power after Hurricane Isaias lashes US",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "建物の屋根が吹き飛ばされた。",
-          "span": "Roofs were ripped off buildings",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "元生徒たちが、性的虐待を受けたと主張する他の人々からの証拠や証言を数年かけて収集し、独自の調査を開始した。",
-          "span": "Former students launched their own investigation, spending years collecting evidence and testimonies from others who say",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "元校長が、生徒への性的虐待疑惑に関するBBCの調査を受けて拘束された。",
-          "span": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ニューヨーク市で、男性が子供と一緒に車に乗っているところを警官に撃たれた後、反ICE（移民税関執行局）の抗議活動が行われた。",
-          "span": "Anti-ICE protests in New York after man shot in car with child",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "抗議者たちは、オスカー・ベルガルがブロンクスで警官に撃たれた後、ICEの廃止を要求している。",
-          "span": "Protesters in New York City are demanding the abolition of ICE after officers shot Oscar Belgal in the Bronx",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "インドの「ゴキブリ」運動の指導者たちは解放された。警察は市の中心部へのアクセスを制限し続けるとしている。ハリケーン「イサイアス」により4人が死亡し、数千人が停電に見舞われた。生徒への性的虐待疑惑に関する調査を受けて元校長が拘束された。ニューヨーク市では反ICE抗議活動が行われ、抗議者たちはICEの廃止を要求している。",
-      "note": "プライバシー配慮のため、被害者や容疑者の実名は伏せられています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factのspanが元テキストに存在しないため削除しました: \"\"",
-          "consensusの内容が事実と異なるため修正しました。元テキストには「評価は割れる」という記述はありません。",
-          "fact spanが原文に無い→除去「Anti-ICE (Immigrat…」"
-        ]
-      }
-    },
-    {
-      "headline": "ＤｅＮＡが連勝でファイナルへ　パは１勝１敗、第３戦に―プロ野球ＣＳ",
-      "slug": "が連勝でファイナルへパは勝敗第戦にプロ野球",
+      "headline": "サウジ首都空港攻撃で１２人死亡　フーシ派への報復宣言―イエメン内戦介入後、最悪被害",
+      "slug": "サウジ首都空港攻撃で人死亡フシ派への報復宣言イエ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -213,27 +275,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261011de57945"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261011de57954"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261011de57816"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101100177&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101100228&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026101100146&g=int&m=rss"
         }
       ],
-      "issue": "プロ野球クライマックスシリーズのファーストステージの結果はどうか？",
-      "stasis": "事実",
+      "issue": "サウジアラビアの首都リヤドの国際空港への攻撃は、イエメンの反政府勢力フーシ派によるものか、また、攻撃の応酬は激化するか？",
+      "stasis": "因果の解釈（割れる）",
       "facts": [
         {
-          "t": "プロ野球セ・リーグのクライマックスシリーズファーストステージで、DeNAが巨人に2連勝し、ファイナルステージ進出を決めた。",
-          "span": "DeNAが巨人に4対1で勝って対戦成績を2勝0敗としてファイナルステージ進出を決めました",
+          "t": "サウジアラビアの首都リヤドの国際空港が10日に攻撃を受け、12人が死亡、300人以上が負傷した。",
+          "span": "サウジアラビアの首都リヤドの国際空港が10日、攻撃を受けて12人が死亡、300人以上がけがをしました",
           "src": [
             {
               "ty": "press",
@@ -242,38 +296,8 @@
           ]
         },
         {
-          "t": "プロ野球パ・リーグのクライマックスシリーズファーストステージ第2戦で、日本ハムが西武に1対0で勝利し、対戦成績を1勝1敗とした。",
-          "span": "日本ハムが西武に1対0で競り勝って対戦成績を1勝1敗としました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "プロ野球・ロッテの西岡剛コーチが退団した。",
-          "span": "西岡剛コーチが退団",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "プロ野球クライマックスシリーズ、セ・リーグはDeNAが連勝でファイナルステージに進んだ。",
-          "span": "ＤｅＮＡが連勝でファイナルへ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "プロ野球クライマックスシリーズ、パ・リーグは1勝1敗となり、決着は第3戦にもつれこんだ。",
-          "span": "パは１勝１敗、第３戦に",
+          "t": "この攻撃は、イエメン内戦への介入後、最悪の被害をもたらした。",
+          "span": "イエメン内戦介入後、最悪被害",
           "src": [
             {
               "ty": "press",
@@ -283,67 +307,14 @@
         }
       ],
       "positions": [],
-      "consensus": "プロ野球クライマックスシリーズのファーストステージの結果について、セ・リーグではDeNAが巨人に2連勝してファイナルステージに進出し、パ・リーグでは日本ハムと西武が1勝1敗で第3戦にもつれこんだ。また、ロッテの西岡剛コーチが退団した。",
-      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positionsは空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Russia’s Yandex says data centre in Vladimir shut down after drone attack",
-      "slug": "RussiasYandexsaysdatacen",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cv8ezd246z1wo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss"
-        }
-      ],
-      "issue": "ロシアによるザポリージャへの滑空爆弾攻撃による死者数は少なくとも20人か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ロシアによるザポリージャへの滑空爆弾攻撃で、少なくとも20人が死亡した。",
-          "span": "kills at least 20 people",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "攻撃により子供たちが死亡した。",
-          "span": "which left children dead",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ロシアによるザポリージャへの滑空爆弾攻撃で、少なくとも20人が死亡した。攻撃により子供たちが死亡した。ヴォロディミル・ゼレンスキー大統領は、この攻撃を米国とのディーゼル取引に対するロシアからの「感謝」の表明だと述べた。",
-      "note": "プライバシー配慮のため、被害者の個人情報は含んでいません。",
+      "consensus": "サウジアラビアの首都リヤドの国際空港が10日に攻撃を受け、12人が死亡、300人以上が負傷した。サウジアラビアなどはこれをイエメンの反政府勢力フーシ派によるテロ行為と見なし、報復を宣言している。評価は割れる。",
+      "note": "この記事では、攻撃の応酬が激化するおそれがあるという予測が含まれていますが、これは事実ではなく、将来の出来事に関する予測であるため、facts には含めていません。また、フーシ派からの直接的な声明や反論は記事に含まれていないため、positions はサウジアラビア側の主張のみとなっています。",
       "audit": {
         "changed": true,
         "issues": [
-          "positions.claim: \"攻撃は、米国とのディーゼル取引に対するロシアからの「感謝」の表明である。\" を \"この攻撃は、米国とのディーゼル取引に対するロシアからの「感謝」の表明であると述べた。\" に修正。メタ記述の徹底（positions の claim が「〜と述べている／と報じられている」の構造か）のため。",
-          "consensus: \"評価は割れる。\" を削除。テキストに記載のない評価のため。"
+          "factsの2番目の項目「サウジアラビアなどは、この攻撃をイエメンの反政府勢力フーシ派によるテロ行為だと見なしている。」は、positionsの1番目の項目と重複しており、かつ「見なしている」という表現は事実というよりは立場表明に近い。positionsに統合し、factsからは削除した。",
+          "positionsの1番目のclaim「イエメンの反政府勢力フーシ派によるテロ行為であり、断固とした対応をとるべきだ。」は、「断固とした対応をとるべきだ」が評価・提言にあたるため、事実部分のみを抽出した。ただし、元テキストのspanが評価・提言部分を含んでいるため、spanはそのまま残した。",
+          "consensusの末尾「評価は割れる。」は、元テキストから直接読み取れるものではなく、抽出エンジンの解釈と判断されるため削除した。"
         ]
       }
     }
