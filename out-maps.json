@@ -1,49 +1,54 @@
 {
-  "builtAt": "2026-10-12T13:25:01.436Z",
+  "builtAt": "2026-10-12T21:48:31.169Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Which banners did Liverpool fans display at Anfield against Man City?",
-      "slug": "WhichbannersdidLiverpool",
-      "independentSources": 4,
+      "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+      "slug": "SixUkrainianenergysitesh",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
+        "BBC World"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58223"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58308"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101100418&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026101100484&g=int&m=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/10/12/which-banners-did-liverpool-fans-display-at-anfield-against-man-city?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/12/giants-brigades-leads-southern-yemen-fightback-against-the-houthis?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/saudi-arabia-vows-resilience-as-houthi-strikes-hit-riyadh-airport?traffic_source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "サウジアラビアの国際空港に対するフーシ派の攻撃は、緊張を高めるか？",
-      "stasis": "因果の解釈（割れる）",
+      "issue": "ロシアは「エネルギー停戦」合意後もエネルギー施設への攻撃を続けているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "サウジアラビア当局は、首都リヤドの国際空港が11日に2日連続で攻撃を受け、1人が死亡したと発表した。",
-          "span": "首都リヤドの国際空港が11日、2日連続となる攻撃を受け、1人が死亡したと発表しました",
+          "t": "アメリカのトランプ大統領は、ロシアとウクライナが「エネルギー停戦」で合意したと発表した。",
+          "span": "アメリカのトランプ大統領がロシアとウクライナがいわゆる「エネルギー停戦」で合意したと発表した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナのゼレンスキー大統領は、トランプ大統領の発表後もロシアがエネルギー施設への攻撃を続けていると非難している。",
+          "span": "アメリカのトランプ大統領がロシアとウクライナがいわゆる「エネルギー停戦」で合意したと発表したあともロシアはエネルギー施設への攻撃を続けていると非難し",
           "src": [
             {
               "ty": "press",
@@ -52,8 +57,8 @@
           ]
         },
         {
-          "t": "フーシ派はリヤドの国際空港と別の施設を攻撃し、13人が死亡した。",
-          "span": "the armed group hit Riyadh's international airport and another facility, killing 13 people",
+          "t": "ゼレンスキー大統領は、エネルギーインフラへの停戦に署名する用意があると示唆している。",
+          "span": "suggests he would sign up to a ceasefire on energy infrastructure",
           "src": [
             {
               "ty": "press",
@@ -62,8 +67,43 @@
           ]
         },
         {
-          "t": "フーシ派の支配地域に対するサウジアラビアによる攻撃も報じられている。",
-          "span": "イエメンではフーシ派の支配地域に対するサウジ",
+          "t": "ゼレンスキー大統領によると、トランプ大統領が停戦を発表した後、6か所のウクライナのエネルギー施設がロシアによって攻撃された。",
+          "span": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナ側は、アメリカ大統領がエネルギーインフラが標的にならないと発表した後も攻撃が続いていると主張している。",
+          "span": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ロシアは、トランプ大統領の「エネルギー停戦」合意について沈黙を守っている。",
+          "span": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "ウクライナのゼレンスキー大統領",
+          "stance": "attack",
+          "claim": "ロシアは「エネルギー停戦」合意後もエネルギー施設への攻撃を続けている。",
+          "span": "ロシアはエネルギー施設への攻撃を続けている",
+          "reason": "アメリカのトランプ大統領が「エネルギー停戦」で合意したと発表した後も攻撃が続いているため。",
           "src": [
             {
               "ty": "press",
@@ -72,39 +112,32 @@
           ]
         },
         {
-          "t": "サウジアラビアは、フーシ派の攻撃に対して回復力を再確認している。",
-          "span": "Saudi Arabia reaffirms its resilience",
+          "actor": "ウクライナのゼレンスキー大統領",
+          "stance": "support",
+          "claim": "エネルギーインフラへの停戦に署名する用意がある。",
+          "span": "suggests he would sign up to a ceasefire on energy infrastructure",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イエメン南部では、フーシ派に対する主要な抵抗勢力として南部巨人旅団が登場している。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
             }
           ]
         }
       ],
-      "positions": [],
-      "consensus": "サウジアラビアの国際空港がフーシ派による攻撃を受け、死傷者が出ている。サウジアラビアは対応を誓い、回復力を再確認している。",
-      "note": "Al Jazeeraの記事には、リバプールファンがマンチェスター・シティを「チーター」と呼んだことに関する記述が含まれており、本件の争点とは直接関係がないため、構造化から除外した。また、サウジアラビアの国防支援に関する記事は、直接的な攻撃の事実や対応に関する記述が少なく、本件の争点との関連性が薄いため、構造化から除外した。",
+      "consensus": "アメリカのトランプ大統領はロシアとウクライナが「エネルギー停戦」で合意したと発表したが、ウクライナのゼレンスキー大統領は合意後もロシアによるエネルギー施設への攻撃が続いていると非難している。ゼレンスキー大統領はエネルギーインフラへの停戦には署名する用意があると示唆している。ロシア側の公式な見解は報じられていない。",
+      "note": "ロシア側の公式発表がないため、立場はウクライナ側のみ記載。",
       "audit": {
-        "changed": false,
+        "changed": true,
         "issues": [
-          "fact spanが原文に無い→除去「Yemen's Southern G…」"
+          "fact 3のtを「ゼレンスキー大統領によると、トランプ大統領が停戦を発表した後、6か所のウクライナのエネルギー施設がロシアによって攻撃された。」に修正しました。元のtは「トランプ大統領の発表後、6か所のウクライナのエネルギー施設がロシアによって攻撃されたとゼレンスキー大統領は述べている。」であり、主語が不明瞭でした。",
+          "fact 4のtを「ウクライナ側は、アメリカ大統領がエネルギーインフラが標的にならないと発表した後も攻撃が続いていると主張している。」に修正しました。元のtは「ウクライナ側は、エネルギーインフラへの攻撃は続いており、アメリカ大統領が標的にならないと発表した後も攻撃があったと主張している。」であり、より簡潔にしました。",
+          "consensusを「アメリカのトランプ大統領はロシアとウクライナが「エネルギー停戦」で合意したと発表したが、ウクライナのゼレンスキー大統領は合意後もロシアによるエネルギー施設への攻撃が続いていると非難している。ゼレンスキー大統領はエネルギーインフラへの停戦には署名する用意があると示唆している。ロシア側の公式な見解は報じられていない。」に修正しました。元のconsensusは「アメリカのトランプ大統領はロシアとウクライナが「エネルギー停戦」で合意したと発表したが、ウクライナ側は合意後もロシアによるエネルギー施設への攻撃が続いていると非難している。ロシア側の公式な見解は報じられていない。評価は割れている。」であり、「評価は割れている」という評価語を削除し、ゼレンスキー大統領の停戦署名意思に関する情報を追加しました。"
         ]
       }
     },
     {
-      "headline": "栃木 那珂川町 工場火災 鎮火のめど立たず 夜間も消火活動へ",
-      "slug": "栃木那珂川町工場火災鎮火のめど立たず夜間も消火活",
+      "headline": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
+      "slug": "栃木県那珂川町の工場火災24時間以上経過も鎮火せ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -113,51 +146,51 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58117"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58321"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012110034_0_VFVO53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012200041_0_VFVO53_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012110037_0_VFVO53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012200045_0_VFVO53_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012110042_0_VFVO53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012200048_0_VFVO53_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012110046_0_VFVO53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012200051_0_VFVO53_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012110049_0_VFVO53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012200030_0_VFVO53_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012110052_0_VFVO53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012200033_0_VFVO53_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012110031_0_VFVO53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012200036_0_VFVO53_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012080052_0_VFVO53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012170034_0_VFVO53_010000.xml"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012080030_0_VFVO53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261012170037_0_VFVO53_010000.xml"
         }
       ],
-      "issue": "火災の鎮火状況および火山の降灰予報はどうか？",
+      "issue": "火災の鎮火状況および火山噴火時の降灰予報はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "栃木県那珂川町のプラスチック製品工場の倉庫で火災が発生し、発生から半日以上経過しても鎮火のめどが立たず、夜間も消火活動が続けられている。",
-          "span": "12日朝、栃木県那珂川町のプラスチック製品を作る工場の倉庫で火災があり、発生から半日以上が経過した現在も続いています。",
+          "t": "栃木県那珂川町の工場倉庫で火災が発生し、発生から24時間以上経過しても鎮火していない。",
+          "span": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
           "src": [
             {
               "ty": "press",
@@ -166,68 +199,18 @@
           ]
         },
         {
-          "t": "火災により、敷地内の別の建物にも延焼している。",
-          "span": "敷地内の別の建物にも延焼していて",
+          "t": "消防は消火活動を行っているが、鎮圧や鎮火のめどは立っていない。",
+          "span": "鎮圧や鎮火のめどはたっていないということです",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "火災によるけが人はいない。",
-          "span": "けが人はいませんが",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "十勝岳は噴火警戒レベル３（入山規制）である。",
-          "span": "現在、十勝岳は噴火警戒レベル３（入山規制）です。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "十勝岳で噴火が発生した場合、12日21時から24時は火口から北東方向、13日09時から12時は火口から北方向に降灰が予想される。",
-          "span": "十勝岳で噴火が発生した場合には、１２日２１時から２４時までは火口から北東方向、１３日０９時から１２時までは火口から北方向に降灰が予想されます。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "阿蘇山は噴火警戒レベル２（火口周辺規制）である。",
-          "span": "現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "阿蘇山で噴火が発生した場合、12日21時から24時は火口から北西方向、13日09時から12時は火口から北方向に降灰が予想される。",
-          "span": "阿蘇山で噴火が発生した場合には、１２日２１時から２４時までは火口から北西方向、１３日０９時から１２時までは火口から北方向に降灰が予想されます。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
             }
           ]
         },
         {
           "t": "桜島は噴火警戒レベル３（入山規制）である。",
-          "span": "現在、桜島は噴火警戒レベル３（入山規制）です。",
+          "span": "現在、桜島は噴火警戒レベル３（入山規制）です",
           "src": [
             {
               "ty": "press",
@@ -236,8 +219,8 @@
           ]
         },
         {
-          "t": "桜島で噴火が発生した場合、12日21時から24時は火口から西方向、13日09時から12時は火口から北方向に降灰が予想される。",
-          "span": "桜島で噴火が発生した場合には、１２日２１時から２４時までは火口から西方向、１３日０９時から１２時までは火口から北方向に降灰が予想されます。",
+          "t": "桜島で噴火が発生した場合、13日09時から12時は火口から北方向、21時から24時は火口から北東方向に降灰が予想される。",
+          "span": "桜島で噴火が発生した場合には、１３日０９時から１２時までは火口から北方向、１３日２１時から２４時までは火口から北東方向に降灰が予想されます",
           "src": [
             {
               "ty": "press",
@@ -247,7 +230,7 @@
         },
         {
           "t": "薩摩硫黄島は噴火警戒レベル２（火口周辺規制）である。",
-          "span": "現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。",
+          "span": "現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です",
           "src": [
             {
               "ty": "press",
@@ -256,8 +239,8 @@
           ]
         },
         {
-          "t": "薩摩硫黄島で噴火が発生した場合、12日21時から24時は火口から西方向、13日09時から12時は火口から北西方向に降灰が予想される。",
-          "span": "薩摩硫黄島で噴火が発生した場合には、１２日２１時から２４時までは火口から西方向、１３日０９時から１２時までは火口から北西方向に降灰が予想されま",
+          "t": "薩摩硫黄島で噴火が発生した場合、13日09時から12時は火口から北西方向、21時から24時は火口から東方向に降灰が予想される。",
+          "span": "薩摩硫黄島で噴火が発生した場合には、１３日０９時から１２時までは火口から北西方向、１３日２１時から２４時までは火口から東方向に降灰が予想されま",
           "src": [
             {
               "ty": "press",
@@ -267,7 +250,7 @@
         },
         {
           "t": "諏訪之瀬島は噴火警戒レベル２（火口周辺規制）である。",
-          "span": "現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。",
+          "span": "現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です",
           "src": [
             {
               "ty": "press",
@@ -276,8 +259,8 @@
           ]
         },
         {
-          "t": "諏訪之瀬島で噴火が発生した場合、12日21時から24時は火口から北西方向、13日09時から12時は火口から北方向に降灰が予想される。",
-          "span": "諏訪之瀬島で噴火が発生した場合には、１２日２１時から２４時までは火口から北西方向、１３日０９時から１２時までは火口から北方向に降灰が予想されま",
+          "t": "諏訪之瀬島で噴火が発生した場合、13日09時から12時は火口から北方向、21時から24時は火口から東方向に降灰が予想される。",
+          "span": "諏訪之瀬島で噴火が発生した場合には、１３日０９時から１２時までは火口から北方向、１３日２１時から２４時までは火口から東方向に降灰が予想されます",
           "src": [
             {
               "ty": "press",
@@ -287,7 +270,7 @@
         },
         {
           "t": "霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）である。",
-          "span": "現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。",
+          "span": "現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です",
           "src": [
             {
               "ty": "press",
@@ -296,8 +279,8 @@
           ]
         },
         {
-          "t": "霧島山（新燃岳）で噴火が発生した場合、12日21時から24時は火口から北西方向、13日09時から12時は火口から北方向に降灰が予想される。",
-          "span": "霧島山（新燃岳）で噴火が発生した場合には、１２日２１時から２４時までは火口から北西方向、１３日０９時から１２時までは火口から北方向",
+          "t": "霧島山（新燃岳）で噴火が発生した場合、13日09時から12時は火口から北方向、21時から24時は火口から北東方向に降灰が予想される。",
+          "span": "霧島山（新燃岳）で噴火が発生した場合には、１３日０９時から１２時までは火口から北方向、１３日２１時から２４時までは火口から北東方向",
           "src": [
             {
               "ty": "press",
@@ -307,7 +290,7 @@
         },
         {
           "t": "雌阿寒岳は噴火警戒レベル２（火口周辺規制）である。",
-          "span": "現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。",
+          "span": "現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です",
           "src": [
             {
               "ty": "press",
@@ -316,8 +299,58 @@
           ]
         },
         {
-          "t": "雌阿寒岳で噴火が発生した場合、12日21時から24時は火口から北方向、13日09時から12時は火口から北方向に降灰が予想される。",
-          "span": "雌阿寒岳で噴火が発生した場合には、１２日２１時から２４時までは火口から北方向、１３日０９時から１２時までは火口から北方向に降灰が予想されます。",
+          "t": "雌阿寒岳で噴火が発生した場合、13日09時から12時は火口から北方向、21時から24時は火口から北方向に降灰が予想される。",
+          "span": "雌阿寒岳で噴火が発生した場合には、１３日０９時から１２時までは火口から北方向、１３日２１時から２４時までは火口から北方向に降灰が予想されます",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "十勝岳は噴火警戒レベル３（入山規制）である。",
+          "span": "現在、十勝岳は噴火警戒レベル３（入山規制）です",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "十勝岳で噴火が発生した場合、13日09時から12時は火口から北方向に降灰が予想される。",
+          "span": "十勝岳で噴火が発生した場合には、１３日０９時から１２時までは火口から北方向に降灰が予想されます",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "十勝岳で噴火が発生した場合、13日21時から24時は火口から北方向に降灰が予想される。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "阿蘇山は噴火警戒レベル２（火口周辺規制）である。",
+          "span": "現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "阿蘇山で噴火が発生した場合、13日09時から12時は火口から北方向、21時から24時は火口から北東方向に降灰が予想される。",
+          "span": "阿蘇山で噴火が発生した場合には、１３日０９時から１２時までは火口から北方向、１３日２１時から２４時までは火口から北東方向に降灰が予想されます",
           "src": [
             {
               "ty": "press",
@@ -327,101 +360,44 @@
         }
       ],
       "positions": [],
-      "consensus": "栃木県那珂川町の工場火災は鎮火のめどが立たず夜間も消火活動が続けられている。複数の火山で噴火警戒レベルが発表されており、降灰予報が出されている。これらの事実について、記事中に評価や意見の対立は見られない。",
-      "note": "霧島山（新燃岳）と雌阿寒岳に関する情報は重複して記載されていたため、事実として1つにまとめました。",
+      "consensus": "栃木県那珂川町の工場火災は発生から24時間以上経過しても鎮火しておらず、消防は消火活動を続けている。複数の火山で噴火警戒レベルが発表されており、指定された時間帯に指定された方向への降灰が予想されている。",
+      "note": "複数の火山に関する降灰予報は、それぞれ独立した事実として記載した。",
       "audit": {
         "changed": true,
         "issues": [
-          "霧島山（新燃岳）と雌阿寒岳に関する情報が重複していたため、事実のリストから重複する項目を削除しました。"
+          "factのt=\"十勝岳で噴火が発生した場合、13日21時から24時は火口から北方向に降灰が予想される。\"のspanが空文字だったため、元テキストから該当箇所を特定し、\"十勝岳で噴火が発生した場合には、１３日２１時から２４時までは火口から北方向に降灰が予想されます\"を補完した。",
+          "fact spanが原文に無い→除去「十勝岳で噴火が発生した場合には、１３…」"
         ]
       }
     },
     {
-      "headline": "‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?",
-      "slug": "EnergyceasefireWhatsbehi",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm2keg7910gvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn1g0xrxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/12/confronting-the-largest-energy-security?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/12/azerbaijans-school-hijab-ban-whats-behind-it-and-whats-next?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss"
-        }
-      ],
-      "issue": "フランスの学校で教師が銃撃された事件で、生徒が逮捕されたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "フランスの学校で、14歳の生徒が逮捕された。",
-          "span": "A 14-year-old was detained",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "中学校の校長と教師が負傷した。",
-          "span": "the middle-school principal and teacher were injured",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "フランスの学校で教師が銃撃された事件で、14歳の生徒が逮捕され、校長と教師が負傷したという事実は合意されている。",
-      "note": "プライバシーに配慮し、被害者の実名は伏せられています。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "ノーベル経済学賞に米大教授２氏　マクロ安定化策、基礎を再構築",
-      "slug": "ノベル経済学賞に米大教授氏マクロ安定化策基礎を再",
+      "headline": "片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相",
+      "slug": "片山財務相が世界銀行IMF合同開発委の次期議長に",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261009de57272"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261012de58277"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101200507&g=int&m=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58295"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598563?source=rss"
         }
       ],
-      "issue": "ことしのノーベル経済学賞は誰が受賞したか？",
-      "stasis": "事実",
+      "issue": "衆議院予算委員会で、消費税減税、経済・財政政策、簗農林水産大臣の発言などをめぐる論戦は行われるか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "ことしのノーベル経済学賞にアメリカの2人の研究者が選ばれた。",
-          "span": "ことしのノーベル経済学賞に、アメリカの2人の研究者が選ばれました",
+          "t": "衆議院予算委員会で、高市総理大臣とすべての閣僚が出席して基本的質疑が13日から始まる。",
+          "span": "13日から衆議院予算委員会で高市総理大臣とすべての閣僚が出席して基本的質疑が始まります",
           "src": [
             {
               "ty": "press",
@@ -430,32 +406,98 @@
           ]
         },
         {
-          "t": "ノーベル経済学賞にアメリカの大学教授2名が選ばれた。",
-          "span": "ノーベル経済学賞に米大教授２氏",
+          "t": "食料品の消費税減税、経済・財政政策、簗農林水産大臣の道路予算に関する発言などが論戦の対象となる。",
+          "span": "食料品の消費税減税や経済・財政政策、それに簗農林水産大臣の道路予算に関する発言などをめぐって論戦が",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "受賞者たちはマクロ経済の安定化策の基礎を再構築した。",
-          "span": "マクロ安定化策、基礎を再構築",
+          "t": "片山財務大臣が世界銀行・IMF合同開発委員会の次の議長に就任することになった。",
+          "span": "片山財務大臣が、世界銀行・IMF（国際通貨基金）合同開発委員会の次の議長に就任することになった",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、片山財務大臣の世界銀行・IMF合同開発委員会の次期議長就任について、自身のSNSで明らかにした。",
+          "span": "高市総理大臣は、12日、自身のSNSに投稿し、片山財務大臣が、世界銀行・IMF（国際通貨基金）合同開発委員会の次の議長に就任することになったと明らかにしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ことしのノーベル経済学賞にアメリカの2人の研究者が選ばれた。受賞者たちはマクロ経済の安定化策の基礎を再構築した。",
-      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "衆議院予算委員会で、高市総理大臣とすべての閣僚が出席して基本的質疑が13日から始まる。食料品の消費税減税、経済・財政政策、簗農林水産大臣の発言などが論戦の対象となる。片山財務大臣が世界銀行・IMF合同開発委員会の次の議長に就任することになったと、高市総理大臣がSNSで明らかにした。",
+      "note": "プライバシー配慮のため、簗農林水産大臣の発言内容は具体的に記載しない。",
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "slug": "Saudiministervowsserious",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/teenager-shoots-headmaster-teacher-at-french-school?traffic_source=rss"
+        }
+      ],
+      "issue": "フーシ派による空港攻撃とサウジアラビアの対応について",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "フーシ派武装集団がリヤド国際空港と別の施設を攻撃した。",
+          "span": "the armed group hit Riyadh's international airport and another facility",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この攻撃により13人が死亡した。",
+          "span": "killing 13 people",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "フーシ派がサウジアラビアの空港を攻撃し13人が死亡したことに対し、サウジアラビアの閣僚は「深刻な対応」を取ると表明している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: テキストに明示的な賛否の対立がないため、issueを政策の是非を問う形式から、状況を記述する形式に修正しました。"
+        ]
       }
     }
   ]
