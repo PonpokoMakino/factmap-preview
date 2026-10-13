@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-10-13T17:09:50.727Z",
+  "builtAt": "2026-10-13T21:50:27.560Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "タス通信によると、北海道新聞特派員の日本人男性がロシア・サハリン州でスパイ容疑で拘束された",
-      "slug": "タス通信によると北海道新聞特派員の日本人男性がロ",
+      "headline": "ロシア、道新記者を「スパイ容疑」で拘束　動員兵の情報収集と主張―「日本が記者利用」と遺憾表明",
+      "slug": "ロシア道新記者をスパイ容疑で拘束動員兵の情報収集",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -17,12 +17,16 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20261013de58917"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58873"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598670?source=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598669?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101400001&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101400156&g=int&m=rss"
         },
         {
           "source": "時事ドットコム",
@@ -30,23 +34,23 @@
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101400001&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026101400142&g=flash&m=rss"
         }
       ],
-      "issue": "ロシアは北海道新聞記者をスパイ容疑で拘束したか？",
+      "issue": "ロシアによる北海道新聞記者のスパイ容疑での拘束は妥当か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ロシアの治安機関が、北海道新聞のユジノサハリンスク支局の日本人記者をスパイ容疑で拘束したと報じられた。",
-          "span": "ロシアの治安機関が北海道新聞のユジノサハリンスク支局の日本人記者をスパイ容疑で拘束した",
+          "t": "ロシアの治安機関が、北海道新聞のユジノサハリンスク支局の日本人男性記者を拘束したと発表した。",
+          "span": "スパイ容疑で拘束したと発表しました",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "NHK"
             },
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Yahoo!ニュース"
             },
             {
               "ty": "press",
@@ -55,37 +59,36 @@
           ]
         },
         {
-          "t": "首都モスクワにある日本大使館は、拘束の事実関係の確認を急いでいる。",
-          "span": "事実関係の確認を急いでいる",
+          "t": "拘束はロシアのサハリン州で行われた。",
+          "span": "サハリンで拘束",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "ロシア極東のサハリン州は、中国の企業関係者などの代表団が北方領土の択捉島を訪問したと発表した。",
-          "span": "中国の企業関係者などの代表団が北方領土の択捉島を訪問した",
+          "t": "首都モスクワにある日本大使館は、この件の事実関係の確認を急いでいる。",
+          "span": "事実関係の確認を急いでいる",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "NHK"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ロシアの治安機関が北海道新聞の日本人記者をスパイ容疑でロシア極東サハリン州で拘束したと報じられており、日本大使館は事実関係の確認を急いでいる。",
-      "note": "本件は事実の報道であり、評価や意見の対立は確認されなかったため、positionsは空配列です。",
+      "consensus": "ロシアの治安機関が北海道新聞の日本人男性記者を拘束したことは事実だが、その理由や妥当性については評価が割れる。",
+      "note": null,
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[2].span が空文字になっていたため、元テキストの内容に合わせて修正しました。",
-          "positionsが空配列であるにもかかわらず、consensusに「評価は割れる／アプリは裁定しない」という記述があったため削除しました。",
-          "fact spanが原文に無い→除去「中国の企業関係者などの代表団が北方領…」",
-          "出典が入力に無い→除去「ロシア国営タス通信」"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
@@ -188,8 +191,8 @@
       }
     },
     {
-      "headline": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "slug": "BulgariasummonsRussianam",
+      "headline": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "slug": "Popediagnosedwithlungcan",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -198,19 +201,37 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss"
         }
       ],
-      "issue": "ブルガリアでロシア大使が召喚されたのは、黒海でのドローン攻撃により商船が沈没したためか？",
+      "issue": "ローマ教皇レオは肺がんと診断され、手術を受けたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ブルガリアは、黒海で商船がドローン攻撃により沈没した件でロシア大使を召喚した。",
-          "span": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+          "t": "ローマ教皇レオは肺がんと診断された。",
+          "span": "diagnosed with lung cancer",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ローマ教皇レオは右肺下葉の切除手術を受けた。",
+          "span": "surgery to remove a lower lobe of his right lung",
           "src": [
             {
               "ty": "press",
@@ -219,18 +240,8 @@
           ]
         },
         {
-          "t": "商船の沈没により、6人の乗組員が救助されたが、10人が行方不明となっている。",
-          "span": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ギリシャ駐在の米国大使が、不正行為の疑惑を受けて辞任した。",
-          "span": "US ambassador to Greece resigns amid misconduct allegations",
+          "t": "手術は肺の癌性腫瘍を除去するためだった。",
+          "span": "surgery to remove a cancerous growth on his lung",
           "src": [
             {
               "ty": "press",
@@ -239,8 +250,22 @@
           ]
         },
         {
-          "t": "キンバリー・ギルフォイルは、金銭と引き換えにトランプ政権関係者へのアクセスを提供したという疑惑を否定している。",
-          "span": "Kimberly Guilfoyle denies allegations that she offered access to Trump administration officials in exchange for money",
+          "t": "バチカンは、教皇の手術が成功したと発表した。",
+          "span": "had successful surgery",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "教皇は71歳で、ローマのジェメッリ病院で回復中である。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -250,16 +275,20 @@
         }
       ],
       "positions": [],
-      "consensus": "ブルガリアでロシア大使が召喚されたのは、黒海で商船がドローン攻撃により沈没したためである。ギリシャ駐在の米国大使が不正行為の疑惑を受けて辞任した。キンバリー・ギルフォイルは疑惑を否定している。",
-      "note": "本件は、異なる2つの独立したニュース記事を構造化したものです。記事間に直接的な関連性はありません。",
+      "consensus": "ローマ教皇レオは肺がんと診断され、右肺下葉の癌性腫瘍を除去する手術を受け、バチカンは手術が成功したと発表した。教皇は71歳で、ローマのジェメッリ病院で回復中である。",
+      "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1].spanから評価語「successful」を削除し、検証可能な事実のみを残しました。",
+          "facts[4].spanが空だったため、元テキストから最小核を抽出しました。",
+          "fact spanが原文に無い→除去「is recovering in R…」"
+        ]
       }
     },
     {
-      "headline": "Sweden’s centre-left leader fails in second bid to form government",
-      "slug": "Swedenscentreleftleaderf",
+      "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+      "slug": "MissilesinterceptednearR",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -268,19 +297,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/13/swedens-centre-left-leader-fails-in-second-bid-to-form-government?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss"
         }
       ],
-      "issue": "DRコンゴのジョゼフ・カビラ前大統領の新たな反政府勢力連合の指導者就任に関する報道",
-      "stasis": "事実合意",
+      "issue": "イエメン紛争における軍事行動の現状と影響は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "ジョゼフ・カビラ前大統領がDRコンゴの新たな反政府勢力連合の指導者に指名された。",
-          "span": "Ex-president named leader of new DR Congo rebel coalition",
+          "t": "サウジアラビア主導連合軍がフーシ派支配下の首都サヌア近郊の燃料貯蔵施設を攻撃した。",
+          "span": "struck a fuel depot near the Houthi-controlled capital, Sanaa",
           "src": [
             {
               "ty": "press",
@@ -289,8 +322,8 @@
           ]
         },
         {
-          "t": "カビラ前大統領は以前、M23反政府勢力との関連を否定していた。",
-          "span": "denied having links to the M23 rebels",
+          "t": "リヤド近郊でミサイルが迎撃された。",
+          "span": "Missiles intercepted near Riyadh",
           "src": [
             {
               "ty": "press",
@@ -299,26 +332,42 @@
           ]
         },
         {
-          "t": "M23反政府勢力はDRコンゴ東部の大部分を支配している。",
-          "span": "control much of eastern DR Congo",
+          "t": "イエメン政府軍がタイズでフーシ派に包囲されている。",
+          "span": "Yemeni government forces are encircled by the Houthis in Taiz",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "タイズの道路封鎖により食料不足が悪化している。",
+          "span": "blockades on road routes have worsened shortages",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "フーシ派によるリヤドへの攻撃でエジプト人客室乗務員が死亡した。",
+          "span": "Egyptian flight attendant killed in Houthi attack on Riyadh",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ジョゼフ・カビラ前大統領がDRコンゴの新たな反政府勢力連合の指導者に指名されたという事実が報じられている。本記事には、この事実に対する評価や対立する立場は含まれていない。",
-      "note": "本記事には、この事実に対する評価や対立する立場は含まれていません。",
+      "consensus": "サウジアラビア主導連合軍とフーシ派による軍事行動、およびそれらが引き起こす民間人への影響に関する事実が報じられている。記事中にはこれらの行動に対する評価や立場表明は含まれていない。",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: 元テキストに評価や対立する立場が含まれていないため、issueを中立的な事実の記述に修正しました。",
-          "stasis: 元テキストに評価や対立する立場が含まれていないため、「事実合意」に修正しました。",
-          "consensus: 元テキストに評価や対立する立場が含まれていないため、その旨を反映するように修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
