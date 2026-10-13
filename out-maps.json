@@ -1,10 +1,96 @@
 {
-  "builtAt": "2026-10-13T09:45:54.870Z",
+  "builtAt": "2026-10-13T17:09:50.727Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "高市首相は簗（やな）農水相の発言に関し「不適切で本当にださい。行政の運営をしていいかどうかも含めてしっかり考える」と述べた",
-      "slug": "高市首相は簗やな農水相の発言に関し不適切で本当に",
+      "headline": "タス通信によると、北海道新聞特派員の日本人男性がロシア・サハリン州でスパイ容疑で拘束された",
+      "slug": "タス通信によると北海道新聞特派員の日本人男性がロ",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58917"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58873"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598669?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101301165&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101400001&g=int&m=rss"
+        }
+      ],
+      "issue": "ロシアは北海道新聞記者をスパイ容疑で拘束したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ロシアの治安機関が、北海道新聞のユジノサハリンスク支局の日本人記者をスパイ容疑で拘束したと報じられた。",
+          "span": "ロシアの治安機関が北海道新聞のユジノサハリンスク支局の日本人記者をスパイ容疑で拘束した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "首都モスクワにある日本大使館は、拘束の事実関係の確認を急いでいる。",
+          "span": "事実関係の確認を急いでいる",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ロシア極東のサハリン州は、中国の企業関係者などの代表団が北方領土の択捉島を訪問したと発表した。",
+          "span": "中国の企業関係者などの代表団が北方領土の択捉島を訪問した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシアの治安機関が北海道新聞の日本人記者をスパイ容疑でロシア極東サハリン州で拘束したと報じられており、日本大使館は事実関係の確認を急いでいる。",
+      "note": "本件は事実の報道であり、評価や意見の対立は確認されなかったため、positionsは空配列です。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[2].span が空文字になっていたため、元テキストの内容に合わせて修正しました。",
+          "positionsが空配列であるにもかかわらず、consensusに「評価は割れる／アプリは裁定しない」という記述があったため削除しました。",
+          "fact spanが原文に無い→除去「中国の企業関係者などの代表団が北方領…」",
+          "出典が入力に無い→除去「ロシア国営タス通信」"
+        ]
+      }
+    },
+    {
+      "headline": "高市首相、簗氏進退に言及　「違法性あれば即断」―野党、自発的辞任要求",
+      "slug": "高市首相簗氏進退に言及違法性あれば即断野党自発的",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -18,11 +104,7 @@
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598627?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101300628&g=flash&m=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6598668?source=rss"
         },
         {
           "source": "時事ドットコム",
@@ -30,23 +112,15 @@
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101300229&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101300805&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101300790&g=flash&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026101300943&g=pol&m=rss"
         }
       ],
-      "issue": "簗農林水産大臣の発言や進退は妥当か？",
+      "issue": "簗農林水産大臣は、道路予算に関する発言が事実であれば、行政運営にあたるべきか？",
       "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "簗農林水産大臣は、道路予算に関する発言などをめぐり、野党が問責決議案を提出することも含め対応を協議している。",
-          "span": "道路予算に関する発言などをめぐり、野党が問責決議案を提出することも含め対応を協議している",
+          "t": "衆議院予算委員会で質疑が始まった。",
+          "span": "衆議院予算委員会で質疑が始まりました",
           "src": [
             {
               "ty": "press",
@@ -55,266 +129,195 @@
           ]
         },
         {
-          "t": "簗農林水産大臣は、無料バス疑惑について「問題ない」と発言した。",
-          "span": "無料バス疑惑「問題ない」",
+          "t": "高市総理大臣は、簗農林水産大臣の道路予算に関する発言が事実であれば不適切だと述べた。",
+          "span": "簗農林水産大臣の道路予算に関する発言について、事実であれば不適切だとした上で",
           "src": [
             {
               "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、簗大臣が行政運営にあたるのが良いか熟慮すると述べた。",
+          "span": "簗大臣が行政運営にあたるのがいいかどうかも含めて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、簗氏と14日に面会する意向を示した。",
+          "span": "高市首相、１４日に簗氏と面会",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、簗氏の進退に言及し、違法性があれば即断すると述べた。",
+          "span": "高市首相、簗氏進退に言及　「違法性あれば即断」",
+          "src": [
+            {
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "簗農林水産大臣は道路予算に関する発言等をめぐり野党から問責決議案提出の動きがあること、また無料バス疑惑について「問題ない」と発言したこと。高市首相は簗氏の発言を「不適切でダサイ」と評し、進退や違法性があれば更迭も辞さないと述べた。評価は割れている。",
-      "note": "高市首相の発言は、簗氏の発言や進退に対する評価・対応方針を示している。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-      "slug": "SixUkrainianenergysitesh",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58308"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101100484&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "ロシアは「エネルギー停戦」合意後もエネルギー施設への攻撃を続けているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "アメリカのトランプ大統領は、ロシアとウクライナが「エネルギー停戦」で合意したと発表した。",
-          "span": "アメリカのトランプ大統領がロシアとウクライナがいわゆる「エネルギー停戦」で合意したと発表した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ウクライナのゼレンスキー大統領は、トランプ大統領の発表後もロシアがエネルギー施設への攻撃を続けていると非難している。",
-          "span": "アメリカのトランプ大統領がロシアとウクライナがいわゆる「エネルギー停戦」で合意したと発表したあともロシアはエネルギー施設への攻撃を続けていると非難し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ゼレンスキー大統領は、エネルギーインフラへの停戦に署名する用意があると示唆している。",
-          "span": "suggests he would sign up to a ceasefire on energy infrastructure",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ゼレンスキー大統領によると、トランプ大統領が停戦を発表した後、6か所のウクライナのエネルギー施設がロシアによって攻撃された。",
-          "span": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ウクライナ側は、アメリカ大統領がエネルギーインフラが標的にならないと発表した後も攻撃が続いていると主張している。",
-          "span": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ロシアは、トランプ大統領の「エネルギー停戦」合意について沈黙を守っている。",
-          "span": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "ウクライナのゼレンスキー大統領",
-          "stance": "attack",
-          "claim": "ロシアは「エネルギー停戦」合意後もエネルギー施設への攻撃を続けている。",
-          "span": "ロシアはエネルギー施設への攻撃を続けている",
-          "reason": "アメリカのトランプ大統領が「エネルギー停戦」で合意したと発表した後も攻撃が続いているため。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "ウクライナのゼレンスキー大統領",
-          "stance": "support",
-          "claim": "エネルギーインフラへの停戦に署名する用意がある。",
-          "span": "suggests he would sign up to a ceasefire on energy infrastructure",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "consensus": "アメリカのトランプ大統領はロシアとウクライナが「エネルギー停戦」で合意したと発表したが、ウクライナのゼレンスキー大統領は合意後もロシアによるエネルギー施設への攻撃が続いていると非難している。ゼレンスキー大統領はエネルギーインフラへの停戦には署名する用意があると示唆している。ロシア側の公式な見解は報じられていない。",
-      "note": "ロシア側の公式発表がないため、立場はウクライナ側のみ記載。",
+      "consensus": "高市総理大臣は、簗農林水産大臣の道路予算に関する発言が事実であれば不適切であるとし、大臣の進退を含めて熟慮する意向を示した。14日に簗氏と面会する予定。野党は簗氏に自発的な辞任を求めている。評価は割れる。",
+      "note": "プライバシー配慮のため、個別の発言内容は要約し、事実と評価を分離した。",
       "audit": {
         "changed": true,
         "issues": [
-          "fact 3のtを「ゼレンスキー大統領によると、トランプ大統領が停戦を発表した後、6か所のウクライナのエネルギー施設がロシアによって攻撃された。」に修正しました。元のtは「トランプ大統領の発表後、6か所のウクライナのエネルギー施設がロシアによって攻撃されたとゼレンスキー大統領は述べている。」であり、主語が不明瞭でした。",
-          "fact 4のtを「ウクライナ側は、アメリカ大統領がエネルギーインフラが標的にならないと発表した後も攻撃が続いていると主張している。」に修正しました。元のtは「ウクライナ側は、エネルギーインフラへの攻撃は続いており、アメリカ大統領が標的にならないと発表した後も攻撃があったと主張している。」であり、より簡潔にしました。",
-          "consensusを「アメリカのトランプ大統領はロシアとウクライナが「エネルギー停戦」で合意したと発表したが、ウクライナのゼレンスキー大統領は合意後もロシアによるエネルギー施設への攻撃が続いていると非難している。ゼレンスキー大統領はエネルギーインフラへの停戦には署名する用意があると示唆している。ロシア側の公式な見解は報じられていない。」に修正しました。元のconsensusは「アメリカのトランプ大統領はロシアとウクライナが「エネルギー停戦」で合意したと発表したが、ウクライナ側は合意後もロシアによるエネルギー施設への攻撃が続いていると非難している。ロシア側の公式な見解は報じられていない。評価は割れている。」であり、「評価は割れている」という評価語を削除し、ゼレンスキー大統領の停戦署名意思に関する情報を追加しました。"
+          "fact 2: spanを元テキストの該当箇所に修正しました。",
+          "fact 3: spanを元テキストの該当箇所に修正しました。",
+          "consensus: 元テキストの情報をより正確に反映するように修正しました。",
+          "note: \"プライバシー配慮のため、個別の発言内容は要約し、事実と評価を分離した。\" は検品係の作業内容であり、元テキストの内容ではないため削除しました。",
+          "fact spanが原文に無い→除去「簗大臣の道路予算に関する発言について…」"
         ]
       }
     },
     {
-      "headline": "「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性",
-      "slug": "銀のさら運営会社最大約650万件の登録者情報漏え",
+      "headline": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "slug": "BulgariasummonsRussianam",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58643"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598636?source=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss"
         }
       ],
-      "issue": "「銀のさら」運営会社で登録者情報漏えいの可能性は妥当か？",
+      "issue": "ブルガリアでロシア大使が召喚されたのは、黒海でのドローン攻撃により商船が沈没したためか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "「銀のさら」などを運営するライドオンエクスプレスホールディングスは、子会社が運営する公式サイトとアプリの登録者情報、最大約650万件が漏えいした可能性があると発表した。",
-          "span": "子会社が運営する公式サイトとアプリの登録者の情報、最大およそ650万件が漏えいした可能性があると発表しまし",
+          "t": "ブルガリアは、黒海で商船がドローン攻撃により沈没した件でロシア大使を召喚した。",
+          "span": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "この情報漏えいの可能性は、宅配すしチェーン「銀のさら」の運営会社に関するものである。",
-          "span": "「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性",
+          "t": "商船の沈没により、6人の乗組員が救助されたが、10人が行方不明となっている。",
+          "span": "Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "「銀のさら」運営会社で約650万件の情報漏洩の可能性があると報じられている。",
-          "span": "銀のさら運営 650万件情報漏洩か",
+          "t": "ギリシャ駐在の米国大使が、不正行為の疑惑を受けて辞任した。",
+          "span": "US ambassador to Greece resigns amid misconduct allegations",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "キンバリー・ギルフォイルは、金銭と引き換えにトランプ政権関係者へのアクセスを提供したという疑惑を否定している。",
+          "span": "Kimberly Guilfoyle denies allegations that she offered access to Trump administration officials in exchange for money",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "「銀のさら」運営会社で最大約650万件の登録者情報漏えいの可能性があるという事実は、複数の報道機関によって報じられている。",
-      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "ブルガリアでロシア大使が召喚されたのは、黒海で商船がドローン攻撃により沈没したためである。ギリシャ駐在の米国大使が不正行為の疑惑を受けて辞任した。キンバリー・ギルフォイルは疑惑を否定している。",
+      "note": "本件は、異なる2つの独立したニュース記事を構造化したものです。記事間に直接的な関連性はありません。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "新垣結衣が第1子出産 CM企業祝福",
-      "slug": "新垣結衣が第1子出産CM企業祝福",
+      "headline": "Sweden’s centre-left leader fails in second bid to form government",
+      "slug": "Swedenscentreleftleaderf",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598638?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101300797&g=soc&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/13/swedens-centre-left-leader-fails-in-second-bid-to-form-government?traffic_source=rss"
         }
       ],
-      "issue": "新垣結衣さんと星野源さんの第1子出産は事実か？",
-      "stasis": "事実",
+      "issue": "DRコンゴのジョゼフ・カビラ前大統領の新たな反政府勢力連合の指導者就任に関する報道",
+      "stasis": "事実合意",
       "facts": [
         {
-          "t": "新垣結衣が第1子を出産した。",
-          "span": "新垣結衣が第1子出産",
+          "t": "ジョゼフ・カビラ前大統領がDRコンゴの新たな反政府勢力連合の指導者に指名された。",
+          "span": "Ex-president named leader of new DR Congo rebel coalition",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "星野源さんとの間に第1子が誕生した。",
-          "span": "星野源さん、新垣結衣さんに第１子",
+          "t": "カビラ前大統領は以前、M23反政府勢力との関連を否定していた。",
+          "span": "denied having links to the M23 rebels",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "M23反政府勢力はDRコンゴ東部の大部分を支配している。",
+          "span": "control much of eastern DR Congo",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "新垣結衣さんが第1子を出産したという事実は、複数の報道機関によって確認されている。",
-      "note": "CM企業からの祝福に関する情報は、Yahoo!ニュースのタイトルに含まれていましたが、本文の構造化対象外のため、事実・立場としては抽出していません。",
+      "consensus": "ジョゼフ・カビラ前大統領がDRコンゴの新たな反政府勢力連合の指導者に指名されたという事実が報じられている。本記事には、この事実に対する評価や対立する立場は含まれていない。",
+      "note": "本記事には、この事実に対する評価や対立する立場は含まれていません。",
       "audit": {
         "changed": true,
         "issues": [
-          "fact[1].t: \"星野源さんが、新垣結衣さんとの間に第1子が誕生したことを報じられた\" を \"星野源さんとの間に第1子が誕生した\" に修正。メタ記述の徹底（positionsがないため、事実の断定表現を避ける）。"
+          "争点の立て方: 元テキストに評価や対立する立場が含まれていないため、issueを中立的な事実の記述に修正しました。",
+          "stasis: 元テキストに評価や対立する立場が含まれていないため、「事実合意」に修正しました。",
+          "consensus: 元テキストに評価や対立する立場が含まれていないため、その旨を反映するように修正しました。"
         ]
       }
     }
