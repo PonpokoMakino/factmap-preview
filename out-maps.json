@@ -1,94 +1,206 @@
 {
-  "builtAt": "2026-10-13T21:50:27.560Z",
+  "builtAt": "2026-10-14T05:50:32.685Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "ロシア、道新記者を「スパイ容疑」で拘束　動員兵の情報収集と主張―「日本が記者利用」と遺憾表明",
-      "slug": "ロシア道新記者をスパイ容疑で拘束動員兵の情報収集",
-      "independentSources": 3,
+      "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+      "slug": "TrumpoustsKimberlyGuilfo",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58917"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598670?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de59035"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101400001&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026101400288&g=int&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101400156&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101301165&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101400142&g=flash&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss"
         }
       ],
-      "issue": "ロシアによる北海道新聞記者のスパイ容疑での拘束は妥当か？",
-      "stasis": "事実",
+      "issue": "米駐ギリシャ大使の辞任・解任を巡る状況と関連する主張は何か？",
+      "stasis": "記述・主張",
       "facts": [
         {
-          "t": "ロシアの治安機関が、北海道新聞のユジノサハリンスク支局の日本人男性記者を拘束したと発表した。",
-          "span": "スパイ容疑で拘束したと発表しました",
+          "t": "米駐ギリシャ大使が辞任の意向を示した。",
+          "span": "辞任の意向を示しました",
           "src": [
             {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "米駐ギリシャ大使は、トランプ大統領の献金者に多額の金銭を要求した疑惑が報じられていた。",
+          "span": "多額の金銭を要求した疑惑などが報じられていた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "米駐ギリシャ大使キンバリー・ギルフォイル氏は、トランプ大統領の長男の元婚約者である。",
+          "span": "トランプ大統領の長男の元婚約者だった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
               "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            },
-            {
-              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "拘束はロシアのサハリン州で行われた。",
-          "span": "サハリンで拘束",
+          "t": "米駐ギリシャ大使は事実上の解任と報じられている。",
+          "span": "事実上の解任と",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "NHK 主要ニュース"
             },
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "首都モスクワにある日本大使館は、この件の事実関係の確認を急いでいる。",
-          "span": "事実関係の確認を急いでいる",
+          "t": "トランプ大統領はキンバリー・ギルフォイル氏を駐ギリシャ米大使から解任したと報じられている。",
+          "span": "ousts Kimberly Guilfoyle",
           "src": [
             {
-              "ty": "wire",
-              "l": "NHK"
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルが盗まれた古代遺物22点をギリシャに返還した。",
+          "span": "returns 22 stolen ancient artefacts",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "この文化交流は、イスラエルとギリシャの関係強化の中で行われた。",
+          "span": "comes amid strengthening ties",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ロシアの治安機関が北海道新聞の日本人男性記者を拘束したことは事実だが、その理由や妥当性については評価が割れる。",
+      "consensus": "米駐ギリシャ大使が辞任の意向を示し、事実上の解任と報じられている。大使は不適切な行為の疑惑を否定している。",
       "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "争点の立て方：テキストにない「妥当性」の評価を問う形になっていたため、状況と主張を問う形に修正。それに伴いconsensusも修正。",
+          "spanの最小核：facts[4], [5], [6]のspanが文節全体になっていたため、述部の最小核に修正。",
+          "stasis：issueの変更に伴い、stasisも「評価・予測」から「記述・主張」に修正。"
+        ]
+      }
+    },
+    {
+      "headline": "北海道は暴風警戒 東日本では大気不安定",
+      "slug": "北海道は暴風警戒東日本では大気不安定",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261014de58942"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054751_0_VPWW53_120000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054751_0_VPWW54_120000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054330_0_VPWW54_130000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054330_0_VPWW53_130000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054257_0_VPWW54_130000.xml"
+        }
+      ],
+      "issue": "気象庁は北海道や東日本における気象状況についてどのような警戒を呼びかけているか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "前線を伴った低気圧の影響がある。",
+          "span": "前線を伴った低気圧の影響で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "北海道では風が強まっている。",
+          "span": "北海道では風が強まり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "本州でも局地的に雨雲が発達している。",
+          "span": "本州でも局地的に雨雲が発達しています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "北海道や東日本では低気圧の影響で風が強まり雨雲が発達しており、気象庁が暴風、激しい突風、落雷、高波、急な激しい雨への警戒を呼びかけている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: issueがテキスト内の対立を反映していないため、気象庁の呼びかけ内容を問う形に修正しました。",
+          "論理構造の検証: NHK記事内の記述に基づき、positions[0]とpositions[1]にpremisesを追加しました。"
+        ]
       }
     },
     {
@@ -191,180 +303,123 @@
       }
     },
     {
-      "headline": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-      "slug": "Popediagnosedwithlungcan",
+      "headline": "ロシア、北海道新聞記者を「スパイ容疑」で拘束　動員兵の情報収集と主張―「日本が記者利用」と遺憾表明",
+      "slug": "ロシア北海道新聞記者をスパイ容疑で拘束動員兵の情",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58917"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/13/pope-leo-diagnosed-with-cancer-after-surgery-to-remove-part-of-lung?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101400156&g=int&m=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/vatican-confirms-pope-leos-surgery-was-successful?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101400412&g=pol&m=rss"
         }
       ],
-      "issue": "ローマ教皇レオは肺がんと診断され、手術を受けたか？",
-      "stasis": "事実",
+      "issue": "ロシアによる北海道新聞記者のスパイ容疑での拘束は妥当か、またその対応は適切か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "ローマ教皇レオは肺がんと診断された。",
-          "span": "diagnosed with lung cancer",
+          "t": "ロシアの治安機関が北海道新聞のユジノサハリンスク支局の日本人男性記者をスパイ容疑で拘束したと発表した。",
+          "span": "スパイ容疑で拘束したと発表しました",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ローマ教皇レオは右肺下葉の切除手術を受けた。",
-          "span": "surgery to remove a lower lobe of his right lung",
+          "t": "ロシアの治安機関は、記者が動員兵の情報を収集していたと主張している。",
+          "span": "動員兵の情報収集と主張",
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "手術は肺の癌性腫瘍を除去するためだった。",
-          "span": "surgery to remove a cancerous growth on his lung",
+          "t": "ロシアの治安機関がさらに捜査を進める方針である。",
+          "span": "さらに捜査を進めるとしている",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "バチカンは、教皇の手術が成功したと発表した。",
-          "span": "had successful surgery",
+          "t": "記者の拘束が長期化する懸念が報じられている。",
+          "span": "拘束が長期化する懸念もあります",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "教皇は71歳で、ローマのジェメッリ病院で回復中である。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
-      "positions": [],
-      "consensus": "ローマ教皇レオは肺がんと診断され、右肺下葉の癌性腫瘍を除去する手術を受け、バチカンは手術が成功したと発表した。教皇は71歳で、ローマのジェメッリ病院で回復中である。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].spanから評価語「successful」を削除し、検証可能な事実のみを残しました。",
-          "facts[4].spanが空だったため、元テキストから最小核を抽出しました。",
-          "fact spanが原文に無い→除去「is recovering in R…」"
-        ]
-      }
-    },
-    {
-      "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "slug": "MissilesinterceptednearR",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
+      "positions": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/food-shortages-in-yemens-taiz-as-houthi-siege-hits-supplies?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/13/funeral-for-egyptian-flight-attendant-killed-in-houthi-attack-on-riyadh?traffic_source=rss"
-        }
-      ],
-      "issue": "イエメン紛争における軍事行動の現状と影響は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "サウジアラビア主導連合軍がフーシ派支配下の首都サヌア近郊の燃料貯蔵施設を攻撃した。",
-          "span": "struck a fuel depot near the Houthi-controlled capital, Sanaa",
+          "actor": "ロシアの治安機関",
+          "stance": "support",
+          "claim": "北海道新聞の日本人記者をスパイ容疑で拘束したと主張している。",
+          "span": "スパイ容疑で拘束した",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "リヤド近郊でミサイルが迎撃された。",
-          "span": "Missiles intercepted near Riyadh",
+          "actor": "ロシア",
+          "stance": "support",
+          "claim": "日本が記者を利用したとして遺憾を表明している。",
+          "span": "「日本が記者利用」と遺憾表明",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "イエメン政府軍がタイズでフーシ派に包囲されている。",
-          "span": "Yemeni government forces are encircled by the Houthis in Taiz",
+          "actor": "日本政府",
+          "stance": "attack",
+          "claim": "ロシアに対し、人道的配慮を要求している。",
+          "span": "人道的配慮を要求",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "タイズの道路封鎖により食料不足が悪化している。",
-          "span": "blockades on road routes have worsened shortages",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "フーシ派によるリヤドへの攻撃でエジプト人客室乗務員が死亡した。",
-          "span": "Egyptian flight attendant killed in Houthi attack on Riyadh",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "ty": "wire",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
-      "positions": [],
-      "consensus": "サウジアラビア主導連合軍とフーシ派による軍事行動、およびそれらが引き起こす民間人への影響に関する事実が報じられている。記事中にはこれらの行動に対する評価や立場表明は含まれていない。",
-      "note": "",
+      "consensus": "ロシアの治安機関が北海道新聞の日本人記者をスパイ容疑で拘束したことは事実として報じられているが、その妥当性や対応については関係者の間で評価が割れている。アプリは裁定しない。",
+      "note": null,
       "audit": {
         "changed": false,
         "issues": []
