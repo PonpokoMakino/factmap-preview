@@ -1,89 +1,35 @@
 {
-  "builtAt": "2026-10-14T05:50:32.685Z",
+  "builtAt": "2026-10-15T15:46:09.656Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
-      "slug": "TrumpoustsKimberlyGuilfo",
-      "independentSources": 4,
+      "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "slug": "RussiaaccusesUkraineofat",
+      "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261014de59035"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101400288&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr5ynplvpg7lo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/14/israel-returns-22-stolen-ancient-artefacts-to-greece?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/15/us-teen-held-over-hindu-temple-attack-plot-is-anti-indian-racism-rising?traffic_source=rss"
         }
       ],
-      "issue": "米駐ギリシャ大使の辞任・解任を巡る状況と関連する主張は何か？",
-      "stasis": "記述・主張",
+      "issue": "ロシアはウクライナによる石油精製所攻撃を主張しているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "米駐ギリシャ大使が辞任の意向を示した。",
-          "span": "辞任の意向を示しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "米駐ギリシャ大使は、トランプ大統領の献金者に多額の金銭を要求した疑惑が報じられていた。",
-          "span": "多額の金銭を要求した疑惑などが報じられていた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "米駐ギリシャ大使キンバリー・ギルフォイル氏は、トランプ大統領の長男の元婚約者である。",
-          "span": "トランプ大統領の長男の元婚約者だった",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米駐ギリシャ大使は事実上の解任と報じられている。",
-          "span": "事実上の解任と",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領はキンバリー・ギルフォイル氏を駐ギリシャ米大使から解任したと報じられている。",
-          "span": "ousts Kimberly Guilfoyle",
+          "t": "ロシアはウクライナが石油精製所を攻撃したと非難している。",
+          "span": "Russia accuses Ukraine of attacking oil refinery",
           "src": [
             {
               "ty": "press",
@@ -92,78 +38,136 @@
           ]
         },
         {
-          "t": "イスラエルが盗まれた古代遺物22点をギリシャに返還した。",
-          "span": "returns 22 stolen ancient artefacts",
+          "t": "ウクライナ大統領は、ロシアによる新たな攻撃を受けて、エネルギー施設への攻撃の一時停止が終わったと述べた。",
+          "span": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ドローン攻撃によりタンカーが炎上し、7人の乗組員が行方不明となった。",
+          "span": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ルーマニア沖の黒海で、捜索救助活動が行われている。",
+          "span": "A search and rescue operation is under way in the Black Sea after the latest attack in the area",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インド系住民を殺害したいと発言したとされるイリノイ州の10代の少年が、ヒンズー教寺院襲撃計画の容疑で逮捕された。",
+          "span": "Illinois teen who allegedly said he &#039;couldn’t wait&#039; to kill Indians is arrested over a Hindu temple attack plo",
           "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
             }
           ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシアはウクライナによる石油精製所攻撃を主張している。ウクライナ大統領は、ロシアによる新たな攻撃を受けて、エネルギー施設への攻撃の一時停止が終わったと述べた。ルーマニア沖で、ドローン攻撃によりタンカーが炎上し、7人の乗組員が行方不明となった。捜索救助活動が行われている。インド系住民を殺害したいと発言したとされるイリノイ州の10代の少年が、ヒンズー教寺院襲撃計画の容疑で逮捕された。",
+      "note": "プライバシー配慮のため、容疑者の個人情報は最小限に留めている。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "French football body urges fans and students to keep politics out of stadiums",
+      "slug": "Frenchfootballbodyurgesf",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "t": "この文化交流は、イスラエルとギリシャの関係強化の中で行われた。",
-          "span": "comes amid strengthening ties",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/10/15/french-football-body-urges-fans-and-students-to-keep-politics-out-of-stadia?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss"
+        }
+      ],
+      "issue": "イムラン・カーンはインドから退去を命じられたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ボリウッド俳優のイムラン・カーンが、10月10日にムンバイでの抗議活動に参加中に拘束され、その後解放された。",
+          "span": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イムラン・カーンは抗議活動に参加した後、インドから退去を命じられた。",
+          "span": "Actor Imran Khan ordered to leave India after participating in protest",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "米駐ギリシャ大使が辞任の意向を示し、事実上の解任と報じられている。大使は不適切な行為の疑惑を否定している。",
-      "note": null,
+      "consensus": "イムラン・カーンは抗議活動に参加した後、インドから退去を命じられた。",
+      "note": "プライバシー配慮のため、イムラン・カーン氏の個人情報は最小限に留めています。",
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方：テキストにない「妥当性」の評価を問う形になっていたため、状況と主張を問う形に修正。それに伴いconsensusも修正。",
-          "spanの最小核：facts[4], [5], [6]のspanが文節全体になっていたため、述部の最小核に修正。",
-          "stasis：issueの変更に伴い、stasisも「評価・予測」から「記述・主張」に修正。"
+          "factsの2番目の項目で、spanが空欄だったため、元テキストから該当箇所を特定し追記しました。",
+          "consensusの「評価は割れる」という記述は、元テキストおよび抽出されたfacts/positionsからは判断できないため削除しました。",
+          "fact spanが原文に無い→除去「Actor Imran Khan o…」"
         ]
       }
     },
     {
-      "headline": "北海道は暴風警戒 東日本では大気不安定",
-      "slug": "北海道は暴風警戒東日本では大気不安定",
+      "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "slug": "Atleast33pupilsandteache",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
+        "BBC World"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261014de58942"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261015de60119"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054751_0_VPWW53_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054751_0_VPWW54_120000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054330_0_VPWW54_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054330_0_VPWW53_130000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261014054257_0_VPWW54_130000.xml"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "気象庁は北海道や東日本における気象状況についてどのような警戒を呼びかけているか？",
-      "stasis": "政策",
+      "issue": "パキスタンの学校の屋根崩落事故の原因は建築構造の問題か？",
+      "stasis": "因果の解釈（割れる）",
       "facts": [
         {
-          "t": "前線を伴った低気圧の影響がある。",
-          "span": "前線を伴った低気圧の影響で",
+          "t": "パキスタンで学校の校舎の屋根が崩落した。",
+          "span": "学校の校舎の屋根が崩落し",
           "src": [
             {
               "ty": "press",
@@ -172,8 +176,8 @@
           ]
         },
         {
-          "t": "北海道では風が強まっている。",
-          "span": "北海道では風が強まり",
+          "t": "この事故で子どもと教師、合わせて33人が死亡した。",
+          "span": "子どもと教師、あわせて33人が死亡し",
           "src": [
             {
               "ty": "press",
@@ -182,247 +186,86 @@
           ]
         },
         {
-          "t": "本州でも局地的に雨雲が発達している。",
-          "span": "本州でも局地的に雨雲が発達しています",
+          "t": "屋根は3つの教室を押しつぶした。",
+          "span": "the roof crashed through three classrooms",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "少なくとも33人の生徒と教師が死亡した。",
+          "span": "At least 33 pupils and teacher killed",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "北海道や東日本では低気圧の影響で風が強まり雨雲が発達しており、気象庁が暴風、激しい突風、落雷、高波、急な激しい雨への警戒を呼びかけている。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: issueがテキスト内の対立を反映していないため、気象庁の呼びかけ内容を問う形に修正しました。",
-          "論理構造の検証: NHK記事内の記述に基づき、positions[0]とpositions[1]にpremisesを追加しました。"
-        ]
-      }
-    },
-    {
-      "headline": "高市首相、簗氏進退に言及　「違法性あれば即断」―野党、自発的辞任要求",
-      "slug": "高市首相簗氏進退に言及違法性あれば即断野党自発的",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58352"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598668?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101300638&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101300943&g=pol&m=rss"
-        }
-      ],
-      "issue": "簗農林水産大臣は、道路予算に関する発言が事実であれば、行政運営にあたるべきか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "衆議院予算委員会で質疑が始まった。",
-          "span": "衆議院予算委員会で質疑が始まりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は、簗農林水産大臣の道路予算に関する発言が事実であれば不適切だと述べた。",
-          "span": "簗農林水産大臣の道路予算に関する発言について、事実であれば不適切だとした上で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は、簗大臣が行政運営にあたるのが良いか熟慮すると述べた。",
-          "span": "簗大臣が行政運営にあたるのがいいかどうかも含めて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は、簗氏と14日に面会する意向を示した。",
-          "span": "高市首相、１４日に簗氏と面会",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は、簗氏の進退に言及し、違法性があれば即断すると述べた。",
-          "span": "高市首相、簗氏進退に言及　「違法性あれば即断」",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "高市総理大臣は、簗農林水産大臣の道路予算に関する発言が事実であれば不適切であるとし、大臣の進退を含めて熟慮する意向を示した。14日に簗氏と面会する予定。野党は簗氏に自発的な辞任を求めている。評価は割れる。",
-      "note": "プライバシー配慮のため、個別の発言内容は要約し、事実と評価を分離した。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "fact 2: spanを元テキストの該当箇所に修正しました。",
-          "fact 3: spanを元テキストの該当箇所に修正しました。",
-          "consensus: 元テキストの情報をより正確に反映するように修正しました。",
-          "note: \"プライバシー配慮のため、個別の発言内容は要約し、事実と評価を分離した。\" は検品係の作業内容であり、元テキストの内容ではないため削除しました。",
-          "fact spanが原文に無い→除去「簗大臣の道路予算に関する発言について…」"
-        ]
-      }
-    },
-    {
-      "headline": "ロシア、北海道新聞記者を「スパイ容疑」で拘束　動員兵の情報収集と主張―「日本が記者利用」と遺憾表明",
-      "slug": "ロシア北海道新聞記者をスパイ容疑で拘束動員兵の情",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261013de58917"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101400156&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101400412&g=pol&m=rss"
-        }
-      ],
-      "issue": "ロシアによる北海道新聞記者のスパイ容疑での拘束は妥当か、またその対応は適切か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "ロシアの治安機関が北海道新聞のユジノサハリンスク支局の日本人男性記者をスパイ容疑で拘束したと発表した。",
-          "span": "スパイ容疑で拘束したと発表しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ロシアの治安機関は、記者が動員兵の情報を収集していたと主張している。",
-          "span": "動員兵の情報収集と主張",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ロシアの治安機関がさらに捜査を進める方針である。",
-          "span": "さらに捜査を進めるとしている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "記者の拘束が長期化する懸念が報じられている。",
-          "span": "拘束が長期化する懸念もあります",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "ロシアの治安機関",
-          "stance": "support",
-          "claim": "北海道新聞の日本人記者をスパイ容疑で拘束したと主張している。",
-          "span": "スパイ容疑で拘束した",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "ロシア",
-          "stance": "support",
-          "claim": "日本が記者を利用したとして遺憾を表明している。",
-          "span": "「日本が記者利用」と遺憾表明",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "日本政府",
-          "stance": "attack",
-          "claim": "ロシアに対し、人道的配慮を要求している。",
-          "span": "人道的配慮を要求",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "consensus": "ロシアの治安機関が北海道新聞の日本人記者をスパイ容疑で拘束したことは事実として報じられているが、その妥当性や対応については関係者の間で評価が割れている。アプリは裁定しない。",
+      "consensus": "パキスタンで学校の屋根が崩落し、子どもと教師合わせて33人が死亡した。警察は建築構造に問題があった可能性を調べている。",
       "note": null,
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
+      "slug": "Trumpcallsofflivestreamf",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss"
+        }
+      ],
+      "issue": "フォート・フッド銃撃犯ニダル・ハサンの死刑執行をライブストリーミングすべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "ニダル・ハサンは、60年以上ぶりの軍人による死刑執行となる。",
+          "span": "the first military execution in over 60 years",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ペンタゴンは、ニダル・ハサンの処刑を公開でストリーミングする計画を立てていた。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ニダル・ハサンは60年以上ぶりの軍人による死刑執行であり、ペンタゴンは当初、その処刑を公開でストリーミングする計画であった。トランプ大統領は、世論の反発を受けて、このライブストリーミングを中止すると発表した。",
+      "note": "プライバシー配慮のため、被害者や容疑者の詳細な個人情報は省略した。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "issue: \"トランプ大統領は、フォート・フッド銃撃犯の処刑のライブストリーミングを中止すべきか？\" を \"フォート・フッド銃撃犯ニダル・ハサンの死刑執行をライブストリーミングすべきか？\" に修正。より中立的で、対象を明確にした。",
+          "consensus: \"評価は割れる。\" を削除。テキストに明示的な評価の割れに関する記述がないため。",
+          "note: \"プライバシー配慮のため、被害者や容疑者の詳細な個人情報は省略した。\" を削除。元テキストにそのような記述がないため。"
+        ]
       }
     }
   ]
