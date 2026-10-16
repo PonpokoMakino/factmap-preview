@@ -1,146 +1,382 @@
 {
-  "builtAt": "2026-10-15T15:46:09.656Z",
+  "builtAt": "2026-10-16T05:08:36.321Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-      "slug": "RussiaaccusesUkraineofat",
-      "independentSources": 2,
+      "headline": "カムチャツカ半島 M6.9の地震観測 USGS＝アメリカ地質調査所",
+      "slug": "カムチャツカ半島M69の地震観測USGSアメリカ",
+      "independentSources": 3,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "気象庁 地震・火山"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60368"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60373"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/15/us-teen-held-over-hindu-temple-attack-plot-is-anti-indian-racism-rising?traffic_source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60374"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598985?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598983?source=rss"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261016035239_0_VXSE53_010000.xml"
         }
       ],
-      "issue": "ロシアはウクライナによる石油精製所攻撃を主張しているか？",
-      "stasis": "事実",
+      "issue": "気象庁の緊急地震速報の発表と取り消しは適切だったか？",
+      "stasis": "評価・予測",
       "facts": [
         {
-          "t": "ロシアはウクライナが石油精製所を攻撃したと非難している。",
-          "span": "Russia accuses Ukraine of attacking oil refinery",
+          "t": "16日昼過ぎ、カムチャツカ半島付近を震源とする地震があった。",
+          "span": "カムチャツカ半島付近を震源とする地震があり",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ウクライナ大統領は、ロシアによる新たな攻撃を受けて、エネルギー施設への攻撃の一時停止が終わったと述べた。",
-          "span": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks",
+          "t": "アメリカ地質調査所によると、日本時間の16日午後0時35分ごろ、ロシア極東のカムチャツカ半島南部でマグニチュード6.9の地震があった。",
+          "span": "日本時間の16日午後0時35分ごろ、ロシア極東のカムチャツカ半島南部で地震がありました。\n\n震源の深さは140キロあまり、地震の規模を示すマグニチュードは6.…",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ドローン攻撃によりタンカーが炎上し、7人の乗組員が行方不明となった。",
-          "span": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+          "t": "気象庁は、この地震の規模をマグニチュード9.9と過大に評価した。",
+          "span": "気象庁 M6.9をM9.9と過大に予測",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "ルーマニア沖の黒海で、捜索救助活動が行われている。",
-          "span": "A search and rescue operation is under way in the Black Sea after the latest attack in the area",
+          "t": "気象庁は北海道から東海にかけての広い範囲を対象に緊急地震速報を発表した。",
+          "span": "気象庁は北海道から東海にかけての広い範囲を対象に緊急地震速報を発表しました",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "インド系住民を殺害したいと発言したとされるイリノイ州の10代の少年が、ヒンズー教寺院襲撃計画の容疑で逮捕された。",
-          "span": "Illinois teen who allegedly said he &#039;couldn’t wait&#039; to kill Indians is arrested over a Hindu temple attack plo",
+          "t": "気象庁は発表した緊急地震速報を直後に取り消した。",
+          "span": "直後に取り消しました",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は地震の規模を過大に評価していたことが、速報取り消しの経緯であるとした。",
+          "span": "気象庁は地震の規模を過大に評価していたとし…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東海道新幹線は、緊急地震速報が出された影響で安全確保のため、新横浜駅と豊橋駅の間の上下線で一時、運転を見合わせた。",
+          "span": "緊急地震速報が出された影響で安全確保のため、地震…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東海道新幹線の運転見合わせは午後0時40分ごろから始まり、午後0時55分に再開した。",
+          "span": "東海道新幹線は午後0時40分ごろから新横浜駅と豊橋駅の間の上下線で一時、運転を見合わせましたが午後0時55分に運転を再開しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "16日12時38分ごろ、地震があった。",
+          "span": "１６日１２時３８分ころ、地震がありました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ロシアはウクライナによる石油精製所攻撃を主張している。ウクライナ大統領は、ロシアによる新たな攻撃を受けて、エネルギー施設への攻撃の一時停止が終わったと述べた。ルーマニア沖で、ドローン攻撃によりタンカーが炎上し、7人の乗組員が行方不明となった。捜索救助活動が行われている。インド系住民を殺害したいと発言したとされるイリノイ州の10代の少年が、ヒンズー教寺院襲撃計画の容疑で逮捕された。",
-      "note": "プライバシー配慮のため、容疑者の個人情報は最小限に留めている。",
+      "consensus": "カムチャツカ半島付近で地震が発生し、気象庁が緊急地震速報を発表したが取り消した。東海道新幹線は一時運転を見合わせた。気象庁は地震の規模を過大評価していたと説明している。",
+      "note": "プライバシー配慮のため、個人名は記載しない。速報取り消しの経緯について、気象庁の説明を事実として記載するが、その妥当性については判断しない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "French football body urges fans and students to keep politics out of stadiums",
-      "slug": "Frenchfootballbodyurgesf",
-      "independentSources": 2,
+      "headline": "死亡男性母親、２．３億円賠償求め提訴　逮捕のユーチューバー「ＫＥＮＺＯ」らに―京都地裁",
+      "slug": "死亡男性母親億円賠償求め提訴逮捕のユチュバらに京",
+      "independentSources": 3,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261015de60144"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/10/15/french-football-body-urges-fans-and-students-to-keep-politics-out-of-stadia?traffic_source=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598982?source=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/15/boiling-point-why-students-are-protesting-against-albanias-edi-rama?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101501040&g=soc&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101401214&g=soc&m=rss"
         }
       ],
-      "issue": "イムラン・カーンはインドから退去を命じられたか？",
+      "issue": "「餃子の王将」社長殺害事件の実行役として起訴された暴力団幹部に無罪判決は妥当か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ボリウッド俳優のイムラン・カーンが、10月10日にムンバイでの抗議活動に参加中に拘束され、その後解放された。",
-          "span": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October.",
+          "t": "「餃子の王将」を展開する会社の社長が京都市で拳銃で撃たれて殺害された事件が発生した。",
+          "span": "社長が京都市で拳銃で撃たれて殺害された事件",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "イムラン・カーンは抗議活動に参加した後、インドから退去を命じられた。",
-          "span": "Actor Imran Khan ordered to leave India after participating in protest",
+          "t": "事件から13年が経過した。",
+          "span": "13年前",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "実行役として殺人などの罪に問われた暴力団幹部に対し、京都地方裁判所は無罪を言い渡した。",
+          "span": "実行役として殺人などの罪に問われた暴力団幹部に対し、京都地方裁判所は無罪を言い渡しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "王将社長射殺事件で男に無罪判決が出された。",
+          "span": "王将社長射殺事件 男に無罪判決",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "死亡した男性の母親が、逮捕されたユーチューバー「KENZO」らに2億3千万円の賠償を求めて提訴した。",
+          "span": "死亡男性母親、２．３億円賠償求め提訴　逮捕のユーチューバー「ＫＥＮＺＯ」らに",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ユーチューバー「KENZO」が名誉毀損容疑で京都府警に逮捕された。",
+          "span": "ユーチューバー「ＫＥＮＺＯ」逮捕　名誉毀損容疑、被害者死去",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "イムラン・カーンは抗議活動に参加した後、インドから退去を命じられた。",
-      "note": "プライバシー配慮のため、イムラン・カーン氏の個人情報は最小限に留めています。",
+      "consensus": "「餃子の王将」社長殺害事件の実行役として起訴された暴力団幹部に対し、京都地方裁判所は無罪を言い渡した。また、死亡した男性の母親がユーチューバー「KENZO」らを相手取り賠償を求めて提訴し、同ユーチューバーは名誉毀損容疑で逮捕されている。",
+      "note": "本件は、殺人事件の判決と、それに関連する民事訴訟および別の容疑での逮捕に関する複数の報道をまとめたものです。報道内容から、事件の実行犯に関する評価や、関連する人物への訴訟・逮捕について、直接的な対立意見や評価の割れる主張は読み取れませんでした。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "ドジャース、４連敗で敗退　大谷翔平３ランも空砲、ブルワーズＶ　ＭＬＢ",
+      "slug": "ドジャス連敗で敗退大谷翔平ランも空砲ブルワズ",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261015de60061"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6598975?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101600216&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101600487&g=spo&m=rss"
+        }
+      ],
+      "issue": "ドジャースのワールドシリーズ進出の可否",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "大リーグのポストシーズン、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズ第4戦が行われた。",
+          "span": "リーグ優勝決定シリーズ第4戦が行われ",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "ドジャースはブルワーズとのリーグ優勝決定シリーズ第4戦で4対6の逆転負けを喫した。",
+          "span": "ドジャースが4対6で逆転負けを喫し",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "ドジャースは同シリーズで4連敗となった。",
+          "span": "4連敗となり",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "ドジャースは3年連続でワールドシリーズ進出を逃した。",
+          "span": "3年連続のワールドシリーズ進出はなりませんでし",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "大谷選手はホームランを打った。",
+          "span": "大谷HR",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "ドジャースは4連敗でシーズンを終えた。",
+          "span": "4連敗で終戦",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ドジャースは4連敗で敗退した。",
+          "span": "４連敗で敗退",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "大谷翔平選手は3ランホームランを打った。",
+          "span": "大谷翔平３ラン",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ブルワーズがリーグ優勝決定シリーズで勝利した。",
+          "span": "ブルワーズＶ",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ドジャースはワールドシリーズ進出を逃した。",
+          "span": "ワールドシリーズ進出逃す",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ドジャースはブルワーズとのリーグ優勝決定シリーズで4連敗を喫し、ワールドシリーズ進出を逃した。大谷翔平選手はホームランを打った。",
+      "note": "事実合意型",
       "audit": {
         "changed": true,
         "issues": [
-          "factsの2番目の項目で、spanが空欄だったため、元テキストから該当箇所を特定し追記しました。",
-          "consensusの「評価は割れる」という記述は、元テキストおよび抽出されたfacts/positionsからは判断できないため削除しました。",
-          "fact spanが原文に無い→除去「Actor Imran Khan o…」"
+          "事実欄 `facts[8]` の項目（「大谷翔平選手の3ランホームランはチームの敗退を覆すには至らなかった。」）に評価語「空砲」が混入していたため、項目ごと削除しました。",
+          "consensus に評価的な記述「チームの敗退を覆すことはできなかった」が混入していたため、削除し、事実のみを記述するように修正しました。"
         ]
       }
     },
@@ -212,60 +448,6 @@
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "Trump calls off livestream for Fort Hood shooter's execution by firing squad",
-      "slug": "Trumpcallsofflivestreamf",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/15/trump-says-fort-hood-shooter-execution-will-not-be-livestreamed?traffic_source=rss"
-        }
-      ],
-      "issue": "フォート・フッド銃撃犯ニダル・ハサンの死刑執行をライブストリーミングすべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "ニダル・ハサンは、60年以上ぶりの軍人による死刑執行となる。",
-          "span": "the first military execution in over 60 years",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ペンタゴンは、ニダル・ハサンの処刑を公開でストリーミングする計画を立てていた。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ニダル・ハサンは60年以上ぶりの軍人による死刑執行であり、ペンタゴンは当初、その処刑を公開でストリーミングする計画であった。トランプ大統領は、世論の反発を受けて、このライブストリーミングを中止すると発表した。",
-      "note": "プライバシー配慮のため、被害者や容疑者の詳細な個人情報は省略した。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issue: \"トランプ大統領は、フォート・フッド銃撃犯の処刑のライブストリーミングを中止すべきか？\" を \"フォート・フッド銃撃犯ニダル・ハサンの死刑執行をライブストリーミングすべきか？\" に修正。より中立的で、対象を明確にした。",
-          "consensus: \"評価は割れる。\" を削除。テキストに明示的な評価の割れに関する記述がないため。",
-          "note: \"プライバシー配慮のため、被害者や容疑者の詳細な個人情報は省略した。\" を削除。元テキストにそのような記述がないため。"
-        ]
       }
     }
   ]
