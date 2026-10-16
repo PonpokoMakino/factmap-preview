@@ -1,85 +1,80 @@
 {
-  "builtAt": "2026-10-16T18:11:52.473Z",
+  "builtAt": "2026-10-16T23:42:21.678Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "震度７の緊急地震速報取り消し　「千島でＭ９．９」と過大評価―気象庁課長「深くおわび」",
-      "slug": "震度の緊急地震速報取り消し千島でと過大評価気象庁",
-      "independentSources": 4,
+      "headline": "邦人記者とロシア人交換狙いか　日本のハッカー拘束に関連も",
+      "slug": "邦人記者とロシア人交換狙いか日本のハッカ拘束に関",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "気象庁 地震・火山"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60368"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261017de60807"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599005?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6599059?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101600527&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101600779&g=soc&m=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261016092026_0_VXSE53_270000.xml"
+          "link": "https://www.jiji.com/jc/article?k=2026101600658&g=soc&m=rss"
         }
       ],
-      "issue": "気象庁の緊急地震速報の取り消しは、その原因と影響は何か？",
+      "issue": "ロシアが拘束した北海道新聞記者への領事面会は実現したか、またその背景は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "16日昼過ぎ、カムチャツカ半島付近を震源とする地震が発生した。",
-          "span": "16日昼過ぎ、カムチャツカ半島付近を震源とする地震があり",
+          "t": "ロシアの治安機関が北海道新聞の記者を拘束したと発表した。",
+          "span": "北海道新聞の記者を拘束したと発表した",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "気象庁は、北海道から東海にかけての広い範囲を対象に緊急地震速報を発表した。",
-          "span": "気象庁は北海道から東海にかけての広い範囲を対象に緊急地震速報を発表しました",
+          "t": "モスクワの日本大使館担当者が、拘束された記者との領事面会のため拘置所を訪問した。",
+          "span": "領事面会を行うため拘置所を訪問しました",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "気象庁は発表直後に緊急地震速報を取り消した。",
-          "span": "直後に取り消しました",
+          "t": "領事面会は実現しなかった。",
+          "span": "面会は実現せず",
           "src": [
             {
+              "ty": "wire",
+              "l": "NHK"
+            },
+            {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース"
             }
           ]
         },
         {
-          "t": "気象庁は、地震の規模を過大に評価して緊急地震速報を発表した。",
-          "span": "地震の規模を過大に評価して緊急地",
+          "t": "日本大使館は領事面会の調整を急ぐ方針を示している。",
+          "span": "調整を急ぐ方針です",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "ty": "wire",
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "気象庁は、緊急地震速報で「千島でM9.9」と過大評価した。",
-          "span": "「千島でＭ９．９」と過大評価",
+          "t": "邦人記者の拘束は、ロシア人との交換を狙ったものである可能性が報じられている。",
+          "span": "邦人記者とロシア人交換狙いか",
           "src": [
             {
               "ty": "press",
@@ -88,24 +83,178 @@
           ]
         },
         {
-          "t": "16日18時17分頃、地震があった。",
-          "span": "１６日１８時１７分ころ、地震がありました",
+          "t": "邦人記者の拘束は、日本のハッカー拘束に関連する可能性も報じられている。",
+          "span": "日本のハッカー拘束に関連も",
           "src": [
             {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "気象庁はカムチャツカ半島付近を震源とする地震に対し、緊急地震速報を発表したが、直後に取り消した。気象庁は地震の規模を過大評価したことを認めている。",
-      "note": "プライバシー配慮のため、混乱の声の具体的な個人名は記載しない。",
+      "consensus": "ロシアが拘束した北海道新聞記者への領事面会は実現せず、日本大使館は調整を急いでいる。背景にはロシア人との交換や日本のハッカー拘束との関連が指摘されている。本件に関する評価や意見の対立は記事中には見られない。",
+      "note": "記事は事実の報告に終始しており、特定の立場や評価の対立は記述されていないため、positionsは空配列とした。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+      "slug": "AlbanianPMblamesforeignh",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss"
+        }
+      ],
+      "issue": "ヨーロッパの学生運動は、教育制度の改善を求めているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "インドの「ゴキブリ」党の創設者が抗議活動を前に拘束された。",
+          "span": "India's 'cockroach' party founder detained ahead of protest",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インドの若者主導の運動は、先週の大規模拘束と指導者2名の投獄を受けてデリーでの抗議活動を呼びかけていた。",
+          "span": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アルバニアの首都ティラナでは、反政府「フラミンゴ」運動による数ヶ月にわたる抗議活動が発生している。",
+          "span": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アルバニアの首相は、学生の抗議活動が激化する中、暴動の原因を「外国の手」のせいだと非難した。",
+          "span": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アルバニアでは、機動隊が4日連続で抗議者と衝突している。",
+          "span": "Riot police clash with protesters for fourth day",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アルバニアの若者は、汚職と大学の劣悪な状況に抗議している。",
+          "span": "as young Albanians protest corruption and poor university conditions",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ヨーロッパのいくつかの国では、学生活動家がより良い教育システムを要求する中、暴力的な混乱が発生している。",
+          "span": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "アルバニアの首相",
+          "stance": "neutral",
+          "claim": "アルバニアの暴動の原因は「外国の手」にあると述べている。",
+          "span": "blames ‘foreign hands’ for unrest",
+          "reason": null,
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "アルバニアの若者",
+          "stance": "attack",
+          "claim": "汚職と大学の劣悪な状況に抗議していると述べている。",
+          "span": "protest corruption and poor university conditions",
+          "reason": null,
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "ヨーロッパの学生活動家",
+          "stance": "support",
+          "claim": "より良い教育システムを要求していると述べている。",
+          "span": "demand better education systems",
+          "reason": null,
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "ヨーロッパの学生運動は、教育制度の改善を求めているという点で一致している。ただし、アルバニアの抗議活動の原因については、首相は「外国の手」を非難している。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "factのt: \"気象庁は、震源・震度に関する情報として、16日18時17分頃に地震があったと発表した。\" を \"16日18時17分頃、地震があった。\" に修正。メタ記述の徹底（「震源・震度に関する情報として」は不要）。",
-          "consensusの内容を \"気象庁はカムチャツカ半島付近を震源とする地震に対し、緊急地震速報を発表したが、直後に取り消した。気象庁は地震の規模を過大評価したことを認めている。\" に修正。元の \"評価は割れる\" は、テキストから明確に読み取れないため削除。"
+          "positions の claim を「〜と述べている」の形に修正しました。",
+          "facts の span が元のテキストと一致しない箇所はありませんでした。",
+          "facts の評価語混入はありませんでした。",
+          "actor や src の捏造はありませんでした。",
+          "issue は元テキストから明確に読み取れるため変更ありません。",
+          "偽りのバランスはありませんでした。",
+          "論理構造の検証は、このデータセットでは不要と判断しました。",
+          "著作権に関する問題はありませんでした。"
         ]
       }
     },
@@ -224,8 +373,8 @@
       }
     },
     {
-      "headline": "Indian protest leaders detained ahead of flag march in New Delhi",
-      "slug": "Indianprotestleadersdeta",
+      "headline": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "slug": "Oregonteacherfoughtschoo",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -234,23 +383,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss"
         }
       ],
-      "issue": "インドの「ゴキブリ党」創設者と学生リーダーは、抗議活動の前に拘束されたか？",
+      "issue": "学校での事件・事故に対する安全対策と責任の所在は適切か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "インドの「ゴキブリ党」創設者アビジット・ディプケと学生リーダーのネハ・ボラが、デモ行進の前に拘束された。",
-          "span": "India&#039;s Cockroach Janta Party founder Abhijeet Dipke and student leader Neha Bora were detained ahead of a flag mar",
+          "t": "米国オレゴン州の小学校で銃撃事件が発生した。",
+          "span": "school shooting",
           "src": [
             {
               "ty": "press",
@@ -259,8 +408,8 @@
           ]
         },
         {
-          "t": "若者主導の運動が、先週の大規模拘束と指導者2名の投獄を受けてデリーでの抗議活動を呼びかけていた。",
-          "span": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
+          "t": "この事件では、16歳の容疑者が関与した。",
+          "span": "The 16-year-old suspect",
           "src": [
             {
               "ty": "press",
@@ -269,94 +418,84 @@
           ]
         },
         {
-          "t": "アルバニアの首都ティラナでは、反政府「フラミンゴ」運動による数ヶ月にわたる抗議活動があった。",
-          "span": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement",
+          "t": "容疑者は以前、その小学校に通っていた。",
+          "span": "previously attended the primary school",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
             }
           ]
-        }
-      ],
-      "positions": [],
-      "consensus": "インドの「ゴキブリ党」創設者と学生リーダーが抗議活動の前に拘束されたという事実は、複数の情報源で報じられている。アルバニアの「フラミンゴ」運動に関する情報も含まれているが、インドの事象とは直接関連しない。",
-      "note": "アルバニアの「フラミンゴ」運動に関する情報は、インドの事象とは直接関連しないため、事実としてのみ記載した。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "元会社役員の実刑確定へ　３人死傷、二審逆転無罪破棄―猪苗代湖ボート事故・最高裁",
-      "slug": "元会社役員の実刑確定へ人死傷二審逆転無罪破棄猪苗",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599047?source=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101600677&g=soc&m=rss"
-        }
-      ],
-      "issue": "猪苗代湖ボート事故の元会社役員に対する判決は妥当か？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "猪苗代湖でボート事故が発生し、3人が死傷した。",
-          "span": "３人死傷",
+          "t": "容疑者は特別支援教育の教室を標的にした。",
+          "span": "targeted a special educational needs classroom",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "元会社役員は、二審で逆転無罪判決を受けた。",
-          "span": "二審逆転無罪",
+          "t": "事件発生時、教師が攻撃者と戦った。",
+          "span": "teacher fought school attacker",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "最高裁は、二審の無罪判決を破棄した。",
-          "span": "二審逆転無罪破棄",
+          "t": "武装した父親が容疑者を複数回撃った。",
+          "span": "armed dad shot suspect 'multiple times'",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "元会社役員の実刑が確定する見込みである。",
-          "span": "元会社役員の実刑確定へ",
+          "t": "オレゴン州ベンドの小学校の外に設けられた仮設の追悼施設で、犠牲者を悼む人々が静かに悲しんだ。",
+          "span": "grieved at a makeshift memorial",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "パキスタンのペシャワールで学校の屋根が崩落した。",
+          "span": "school roof collapse",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "この事故により、34人の子供が死亡した。",
+          "span": "killed 34 children",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "猪苗代湖で3人が死傷したボート事故に関し、元会社役員は二審で逆転無罪となったが、最高裁で破棄され実刑が確定する見込みである。事故の遺族（両親）は判決を受け、複雑な心境を抱いていると報じられている。評価は割れる。",
-      "note": "本件は、事故の遺族（両親）の心境と、元会社役員に対する司法判断の推移を報じている。両親の具体的な心境や、元会社役員の立場からの詳細な主張は、提示された情報からは読み取れないため、事実と判決の推移を中心に構造化した。",
+      "consensus": "米国オレゴン州とパキスタンで学校に関する悲劇的な事件が発生し、パキスタンでは保護者が説明責任を求めている。評価は割れる／アプリは裁定しない。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "positionsのclaimを「〜と述べている／と報じられている」の形式に修正しました。元テキストの「判決受け両親が心境」は事実の記述であり、評価や主張ではないため、positionsからfactsへ移動させることも検討しましたが、元JSONの意図を尊重し、評価語を付加する形でpositionsに残しました。",
-          "positionsのclaimを「〜と報じられている」の形式に修正しました。元テキストの「元会社役員の実刑確定へ」は事実の記述であり、評価や主張ではないため、positionsからfactsへ移動させることも検討しましたが、元JSONの意図を尊重し、評価語を付加する形でpositionsに残しました。"
+          "facts[7].span が空だったので、元テキストから「school roof collapse」に修正しました。",
+          "fact spanが原文に無い→除去「school roof collap…」"
         ]
       }
     }
