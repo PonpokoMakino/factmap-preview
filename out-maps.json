@@ -1,14 +1,15 @@
 {
-  "builtAt": "2026-10-16T05:08:36.321Z",
+  "builtAt": "2026-10-16T09:46:29.231Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "カムチャツカ半島 M6.9の地震観測 USGS＝アメリカ地質調査所",
-      "slug": "カムチャツカ半島M69の地震観測USGSアメリカ",
-      "independentSources": 3,
+      "headline": "震度７の緊急地震速報取り消し　「千島でＭ９．９」と過大評価―気象庁課長「深くおわび」",
+      "slug": "震度の緊急地震速報取り消し千島でと過大評価気象庁",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "気象庁 地震・火山"
       ],
       "links": [
@@ -17,32 +18,28 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20261016de60368"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60373"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60374"
-        },
-        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598985?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6599005?source=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598983?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101600527&g=soc&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101600779&g=soc&m=rss"
         },
         {
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261016035239_0_VXSE53_010000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261016092026_0_VXSE53_270000.xml"
         }
       ],
-      "issue": "気象庁の緊急地震速報の発表と取り消しは適切だったか？",
-      "stasis": "評価・予測",
+      "issue": "気象庁の緊急地震速報の取り消しは、その原因と影響は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "16日昼過ぎ、カムチャツカ半島付近を震源とする地震があった。",
-          "span": "カムチャツカ半島付近を震源とする地震があり",
+          "t": "16日昼過ぎ、カムチャツカ半島付近を震源とする地震が発生した。",
+          "span": "16日昼過ぎ、カムチャツカ半島付近を震源とする地震があり",
           "src": [
             {
               "ty": "press",
@@ -51,27 +48,7 @@
           ]
         },
         {
-          "t": "アメリカ地質調査所によると、日本時間の16日午後0時35分ごろ、ロシア極東のカムチャツカ半島南部でマグニチュード6.9の地震があった。",
-          "span": "日本時間の16日午後0時35分ごろ、ロシア極東のカムチャツカ半島南部で地震がありました。\n\n震源の深さは140キロあまり、地震の規模を示すマグニチュードは6.…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、この地震の規模をマグニチュード9.9と過大に評価した。",
-          "span": "気象庁 M6.9をM9.9と過大に予測",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は北海道から東海にかけての広い範囲を対象に緊急地震速報を発表した。",
+          "t": "気象庁は、北海道から東海にかけての広い範囲を対象に緊急地震速報を発表した。",
           "span": "気象庁は北海道から東海にかけての広い範囲を対象に緊急地震速報を発表しました",
           "src": [
             {
@@ -81,7 +58,7 @@
           ]
         },
         {
-          "t": "気象庁は発表した緊急地震速報を直後に取り消した。",
+          "t": "気象庁は発表直後に緊急地震速報を取り消した。",
           "span": "直後に取り消しました",
           "src": [
             {
@@ -91,8 +68,8 @@
           ]
         },
         {
-          "t": "気象庁は地震の規模を過大に評価していたことが、速報取り消しの経緯であるとした。",
-          "span": "気象庁は地震の規模を過大に評価していたとし…",
+          "t": "気象庁は、地震の規模を過大に評価して緊急地震速報を発表した。",
+          "span": "地震の規模を過大に評価して緊急地",
           "src": [
             {
               "ty": "press",
@@ -101,47 +78,40 @@
           ]
         },
         {
-          "t": "東海道新幹線は、緊急地震速報が出された影響で安全確保のため、新横浜駅と豊橋駅の間の上下線で一時、運転を見合わせた。",
-          "span": "緊急地震速報が出された影響で安全確保のため、地震…",
+          "t": "気象庁は、緊急地震速報で「千島でM9.9」と過大評価した。",
+          "span": "「千島でＭ９．９」と過大評価",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "東海道新幹線の運転見合わせは午後0時40分ごろから始まり、午後0時55分に再開した。",
-          "span": "東海道新幹線は午後0時40分ごろから新横浜駅と豊橋駅の間の上下線で一時、運転を見合わせましたが午後0時55分に運転を再開しました",
+          "t": "16日18時17分頃、地震があった。",
+          "span": "１６日１８時１７分ころ、地震がありました",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "16日12時38分ごろ、地震があった。",
-          "span": "１６日１２時３８分ころ、地震がありました。",
-          "src": [
-            {
-              "ty": "press",
+              "ty": "prim",
               "l": "気象庁 地震・火山"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "カムチャツカ半島付近で地震が発生し、気象庁が緊急地震速報を発表したが取り消した。東海道新幹線は一時運転を見合わせた。気象庁は地震の規模を過大評価していたと説明している。",
-      "note": "プライバシー配慮のため、個人名は記載しない。速報取り消しの経緯について、気象庁の説明を事実として記載するが、その妥当性については判断しない。",
+      "consensus": "気象庁はカムチャツカ半島付近を震源とする地震に対し、緊急地震速報を発表したが、直後に取り消した。気象庁は地震の規模を過大評価したことを認めている。",
+      "note": "プライバシー配慮のため、混乱の声の具体的な個人名は記載しない。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "factのt: \"気象庁は、震源・震度に関する情報として、16日18時17分頃に地震があったと発表した。\" を \"16日18時17分頃、地震があった。\" に修正。メタ記述の徹底（「震源・震度に関する情報として」は不要）。",
+          "consensusの内容を \"気象庁はカムチャツカ半島付近を震源とする地震に対し、緊急地震速報を発表したが、直後に取り消した。気象庁は地震の規模を過大評価したことを認めている。\" に修正。元の \"評価は割れる\" は、テキストから明確に読み取れないため削除。"
+        ]
       }
     },
     {
-      "headline": "死亡男性母親、２．３億円賠償求め提訴　逮捕のユーチューバー「ＫＥＮＺＯ」らに―京都地裁",
-      "slug": "死亡男性母親億円賠償求め提訴逮捕のユチュバらに京",
+      "headline": "頭部にバット直撃の川上審判員が意識回復 家族「復帰めざす」",
+      "slug": "頭部にバット直撃の川上審判員が意識回復家族復帰め",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -151,27 +121,41 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261015de60144"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60624"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598982?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6599000?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101501040&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101401214&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026101600808&g=spo&m=rss"
         }
       ],
-      "issue": "「餃子の王将」社長殺害事件の実行役として起訴された暴力団幹部に無罪判決は妥当か？",
+      "issue": "川上審判員は意識を回復したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "「餃子の王将」を展開する会社の社長が京都市で拳銃で撃たれて殺害された事件が発生した。",
-          "span": "社長が京都市で拳銃で撃たれて殺害された事件",
+          "t": "プロ野球の試合で頭部にバットが直撃し、入院が続いていた川上拓斗審判員の意識が回復した。",
+          "span": "意識が回復した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "川上審判員の家族が、意識回復したことを明らかにした。",
+          "span": "家族が明らかにしました",
           "src": [
             {
               "ty": "press",
@@ -180,8 +164,8 @@
           ]
         },
         {
-          "t": "事件から13年が経過した。",
-          "span": "13年前",
+          "t": "川上審判員は、ことし4月のプロ野球の試合で頭部にバットが直撃した。",
+          "span": "ことし4月、プロ野球の試合で頭部にバットが直撃し",
           "src": [
             {
               "ty": "press",
@@ -190,8 +174,210 @@
           ]
         },
         {
-          "t": "実行役として殺人などの罪に問われた暴力団幹部に対し、京都地方裁判所は無罪を言い渡した。",
-          "span": "実行役として殺人などの罪に問われた暴力団幹部に対し、京都地方裁判所は無罪を言い渡しました",
+          "t": "川上審判員は、頭部負傷により入院が続いている。",
+          "span": "入院が続く",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "川上審判員は意識を回復した。家族は復帰を目指すと述べている。",
+      "note": "プライバシーに配慮し、川上審判員の詳細な容態や個人情報は記載しない。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions の claim を「川上審判員は復帰を目指す。」から「川上審判員は復帰を目指すとしている。」に修正。メタ記述の徹底（地の文の断定を避けるため）。"
+        ]
+      }
+    },
+    {
+      "headline": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+      "slug": "Childrenaged58and11kille",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally?traffic_source=rss"
+        }
+      ],
+      "issue": "学校襲撃事件、船舶攻撃、建物の倒壊、寺院襲撃計画、政党集会に関する報道か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "米国の小学校で銃撃事件が発生し、5歳、8歳、11歳の子供3名と教師1名が死亡した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "オレゴン州ベンド市で、16歳の容疑者が小学校で発砲し、子供3名（5歳、8歳、11歳）と教師1名が死亡した。",
+          "span": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ホルムズ海峡付近で船舶攻撃の報告が過去最高を記録し、石油輸出が減速している。",
+          "span": "Ship attack reports near Hormuz reach record high as oil exports slow",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "英国の海事機関のデータ分析によると、1週間に12隻の船舶が攻撃された。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "パキスタンで学校の屋根が崩壊し、少なくとも33人の生徒と教師が死亡した。",
+          "span": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "パキスタンでの屋根崩壊事故では、屋根が3つの教室に崩落し、子供たちが瓦礫の下に埋まった。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国の19歳の容疑者は、ヒンズー教寺院を襲撃する計画を立てていたが、警察への通報により阻止された。",
+          "span": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国の寺院襲撃計画は、19歳の容疑者の銃が礼拝所の外でジャムったために失敗したと警察は述べている。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インド警察は、コックローチ・ジャンダ党の集会のためニューデリーで取り締まりを開始した。",
+          "span": "Indian police launch New Delhi clampdown for Cockroach Party rally",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "コックローチ・ジャンダ党と政府の対立は、活動家の投獄に対する抗議を呼びかける若者主導の運動により延長されている。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "複数の報道機関が、学校での銃撃事件、船舶への攻撃、建物の倒壊、寺院襲撃計画、政党集会に関する事実を報じている。これらの報道内容について、評価や意見の対立は示されていない。",
+      "note": "プライバシー配慮のため、事件の被害者や容疑者の詳細な個人情報は含めていない。",
+      "audit": {
+        "changed": false,
+        "issues": [
+          "fact spanが原文に無い→除去「Children aged 5, 8…」",
+          "fact spanが原文に無い→除去「BBC Verify analysi…」",
+          "fact spanが原文に無い→除去「Children were buri…」",
+          "fact spanが原文に無い→除去「The alleged plot o…」",
+          "fact spanが原文に無い→除去「Cockroach Janta Pa…」"
+        ]
+      }
+    },
+    {
+      "headline": "個人情報漏えい 1億6500万人分以上に 利用者ができる対策は",
+      "slug": "個人情報漏えい1億6500万人分以上に利用者がで",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60556"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60395"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261016de60239"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599004?source=rss"
+        }
+      ],
+      "issue": "個人情報流出の規模と対策は十分か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ソースネクストで、メールアドレスやパスワードなど大量の個人情報が不正アクセスにより流出した。うちパスワードは暗号化されていない状態で流出したことが確認された。",
+          "span": "パスワードは暗号がかかっていない状態で流出していたことが会社へ",
           "src": [
             {
               "ty": "press",
@@ -200,254 +386,45 @@
           ]
         },
         {
-          "t": "王将社長射殺事件で男に無罪判決が出された。",
-          "span": "王将社長射殺事件 男に無罪判決",
+          "t": "ヤマト運輸で、代金後払いサービスへの不正アクセスにより、530万件余りの個人情報が外部に流出したことが確認された。",
+          "span": "530万件余りの個人情報が外部に流出したことを確認したと明らかにしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "不正アクセスで漏えいした可能性がある個人情報が、のべ1億6500万人分以上にのぼることがセキュリティー会社のまとめで分かった。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "183万件の個人情報が流出した。",
+          "span": "個人情報が183万件流出",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
-        },
-        {
-          "t": "死亡した男性の母親が、逮捕されたユーチューバー「KENZO」らに2億3千万円の賠償を求めて提訴した。",
-          "span": "死亡男性母親、２．３億円賠償求め提訴　逮捕のユーチューバー「ＫＥＮＺＯ」らに",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ユーチューバー「KENZO」が名誉毀損容疑で京都府警に逮捕された。",
-          "span": "ユーチューバー「ＫＥＮＺＯ」逮捕　名誉毀損容疑、被害者死去",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
         }
       ],
       "positions": [],
-      "consensus": "「餃子の王将」社長殺害事件の実行役として起訴された暴力団幹部に対し、京都地方裁判所は無罪を言い渡した。また、死亡した男性の母親がユーチューバー「KENZO」らを相手取り賠償を求めて提訴し、同ユーチューバーは名誉毀損容疑で逮捕されている。",
-      "note": "本件は、殺人事件の判決と、それに関連する民事訴訟および別の容疑での逮捕に関する複数の報道をまとめたものです。報道内容から、事件の実行犯に関する評価や、関連する人物への訴訟・逮捕について、直接的な対立意見や評価の割れる主張は読み取れませんでした。",
+      "consensus": "複数の企業・報道機関から個人情報流出に関する報告があり、その規模はのべ1億6500万人分以上にのぼることが確認されている。流出した情報にはパスワードが含まれる場合があり、一部は暗号化されていなかった。利用者はパスワードの再設定などの対策が推奨される。",
+      "note": "記事中に利用者ができる対策に関する具体的な記述は少ないため、issue は流出の規模と対策の十分性に焦点を当てた。各社の発表は事実確認として neutral な stance で記載した。",
       "audit": {
         "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "ドジャース、４連敗で敗退　大谷翔平３ランも空砲、ブルワーズＶ　ＭＬＢ",
-      "slug": "ドジャス連敗で敗退大谷翔平ランも空砲ブルワズ",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261015de60061"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6598975?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101600216&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101600487&g=spo&m=rss"
-        }
-      ],
-      "issue": "ドジャースのワールドシリーズ進出の可否",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "大リーグのポストシーズン、ナショナルリーグのドジャースとブルワーズのリーグ優勝決定シリーズ第4戦が行われた。",
-          "span": "リーグ優勝決定シリーズ第4戦が行われ",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "ドジャースはブルワーズとのリーグ優勝決定シリーズ第4戦で4対6の逆転負けを喫した。",
-          "span": "ドジャースが4対6で逆転負けを喫し",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "ドジャースは同シリーズで4連敗となった。",
-          "span": "4連敗となり",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "ドジャースは3年連続でワールドシリーズ進出を逃した。",
-          "span": "3年連続のワールドシリーズ進出はなりませんでし",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "大谷選手はホームランを打った。",
-          "span": "大谷HR",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "ドジャースは4連敗でシーズンを終えた。",
-          "span": "4連敗で終戦",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ドジャースは4連敗で敗退した。",
-          "span": "４連敗で敗退",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "大谷翔平選手は3ランホームランを打った。",
-          "span": "大谷翔平３ラン",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ブルワーズがリーグ優勝決定シリーズで勝利した。",
-          "span": "ブルワーズＶ",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ドジャースはワールドシリーズ進出を逃した。",
-          "span": "ワールドシリーズ進出逃す",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ドジャースはブルワーズとのリーグ優勝決定シリーズで4連敗を喫し、ワールドシリーズ進出を逃した。大谷翔平選手はホームランを打った。",
-      "note": "事実合意型",
-      "audit": {
-        "changed": true,
         "issues": [
-          "事実欄 `facts[8]` の項目（「大谷翔平選手の3ランホームランはチームの敗退を覆すには至らなかった。」）に評価語「空砲」が混入していたため、項目ごと削除しました。",
-          "consensus に評価的な記述「チームの敗退を覆すことはできなかった」が混入していたため、削除し、事実のみを記述するように修正しました。"
+          "fact spanが原文に無い→除去「のべ1億6500万人分以上にのぼって…」",
+          "position spanが原文に無い→除去「のべ1億6500万人分以上にのぼって…」"
         ]
-      }
-    },
-    {
-      "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-      "slug": "Atleast33pupilsandteache",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261015de60119"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "パキスタンの学校の屋根崩落事故の原因は建築構造の問題か？",
-      "stasis": "因果の解釈（割れる）",
-      "facts": [
-        {
-          "t": "パキスタンで学校の校舎の屋根が崩落した。",
-          "span": "学校の校舎の屋根が崩落し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この事故で子どもと教師、合わせて33人が死亡した。",
-          "span": "子どもと教師、あわせて33人が死亡し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "屋根は3つの教室を押しつぶした。",
-          "span": "the roof crashed through three classrooms",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "少なくとも33人の生徒と教師が死亡した。",
-          "span": "At least 33 pupils and teacher killed",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "パキスタンで学校の屋根が崩落し、子どもと教師合わせて33人が死亡した。警察は建築構造に問題があった可能性を調べている。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": []
       }
     }
   ]
