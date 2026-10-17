@@ -1,54 +1,31 @@
 {
-  "builtAt": "2026-10-17T01:35:43.637Z",
+  "builtAt": "2026-10-17T10:39:39.734Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "高市首相 靖国神社の秋の例大祭にあわせ「真榊」奉納",
-      "slug": "高市首相靖国神社の秋の例大祭にあわせ真榊奉納",
-      "independentSources": 3,
+      "headline": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
+      "slug": "DeNAが2年ぶり日本シリズ進出CSファイナル阪",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261017de60815"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599075?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261017de60916"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101700164&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026101700351&g=spo&m=rss"
         }
       ],
-      "issue": "高市総理大臣は靖国神社の秋の例大祭に真榊を奉納したか",
+      "issue": "DeNAは2年ぶりに日本シリーズに進出したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "高市総理大臣が靖国神社の秋の例大祭に合わせ、鉢植えの供え物「真榊」を奉納した。",
-          "span": "「真榊」と呼ばれる鉢植えの供え物を奉納しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "靖国神社の秋の例大祭は17日から始まった。",
-          "span": "17日から始まった靖国神社の秋の例大祭",
+          "t": "プロ野球セ・リーグのクライマックスシリーズファイナルステージ第4戦で、DeNAが阪神に8対5で勝利した。",
+          "span": "DeNAが阪神に8対5で勝って4連勝とし",
           "src": [
             {
               "ty": "press",
@@ -57,8 +34,28 @@
           ]
         },
         {
-          "t": "高市総理大臣は靖国神社への参拝を見送る見込みである。",
-          "span": "参拝見送りへ",
+          "t": "DeNAはクライマックスシリーズファイナルステージで阪神に4連勝した。",
+          "span": "阪神に4連勝",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "DeNAはレギュラーシーズン3位から2年ぶりの日本シリーズ進出を決めた。",
+          "span": "レギュラーシーズン3位から2年ぶりの日本シリーズ進出を決めました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "プロ野球CS・阪神対DeNAの試合結果は5対8だった。",
+          "span": "阪神５―８ＤｅＮＡ",
           "src": [
             {
               "ty": "press",
@@ -68,11 +65,14 @@
         }
       ],
       "positions": [],
-      "consensus": "高市総理大臣が靖国神社の秋の例大祭に合わせ「真榊」を奉納したことは報じられている。",
-      "note": "",
+      "consensus": "DeNAは2年ぶりに日本シリーズに進出した。",
+      "note": "両記事ともDeNAの勝利と日本シリーズ進出を事実として報じているため、positionsは空となる。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "fact 2 の span を「阪神に4連勝」に修正しました。",
+          "fact spanが原文に無い→除去「阪神に4連勝とし…」"
+        ]
       }
     },
     {
@@ -192,133 +192,6 @@
       }
     },
     {
-      "headline": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
-      "slug": "Oregonteacherfoughtschoo",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss"
-        }
-      ],
-      "issue": "学校での事件・事故に対する安全対策と責任の所在は適切か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "米国オレゴン州の小学校で銃撃事件が発生した。",
-          "span": "school shooting",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "この事件では、16歳の容疑者が関与した。",
-          "span": "The 16-year-old suspect",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "容疑者は以前、その小学校に通っていた。",
-          "span": "previously attended the primary school",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "容疑者は特別支援教育の教室を標的にした。",
-          "span": "targeted a special educational needs classroom",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "事件発生時、教師が攻撃者と戦った。",
-          "span": "teacher fought school attacker",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "武装した父親が容疑者を複数回撃った。",
-          "span": "armed dad shot suspect 'multiple times'",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "オレゴン州ベンドの小学校の外に設けられた仮設の追悼施設で、犠牲者を悼む人々が静かに悲しんだ。",
-          "span": "grieved at a makeshift memorial",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "パキスタンのペシャワールで学校の屋根が崩落した。",
-          "span": "school roof collapse",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "この事故により、34人の子供が死亡した。",
-          "span": "killed 34 children",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米国オレゴン州とパキスタンで学校に関する悲劇的な事件が発生し、パキスタンでは保護者が説明責任を求めている。評価は割れる／アプリは裁定しない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[7].span が空だったので、元テキストから「school roof collapse」に修正しました。",
-          "fact spanが原文に無い→除去「school roof collap…」"
-        ]
-      }
-    },
-    {
       "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "slug": "PalestiniansandUSjournal",
       "independentSources": 2,
@@ -430,6 +303,75 @@
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "slug": "Trumpcompletelywrongtore",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss"
+        }
+      ],
+      "issue": "イタリア国防相は、ウクライナへの支援制限はロシアの侵攻を長引かせると主張しているか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "低所得国は歳入の最大14％を債務返済に充てている。",
+          "span": "Low-income countries spend up to 14 percent of their revenue on debt repayments",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "イタリア国防相 グイド・クロゼット",
+          "stance": "attack",
+          "claim": "米国はウクライナ支援を制限することで、ロシアの侵攻を長引かせるリスクがある。",
+          "span": "the US risks prolonging Russia's full-scale invasion rather than helping",
+          "reason": "トランプ氏の発言はウクライナへの支援制限に関するものであり、それは完全に間違っている。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "IMF（国際通貨基金）",
+          "stance": "support",
+          "claim": "高インフレと戦争の影響に直面する貧しい国々への支援を求めている。",
+          "span": "IMF urges support for poorer nations facing high inflation, war spillovers",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "consensus": "IMFは高インフレと戦争の影響に直面する貧しい国々への支援を求めている。イタリア国防相は、ウクライナへの支援制限はロシアの侵攻を長引かせるリスクがあると主張している。評価は割れる。",
+      "note": "イタリア国防相の発言は、トランプ氏のウクライナ支援制限に対する批判として報じられている。IMFの声明は、経済的困難に直面する国々への支援の必要性を強調している。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claim: 元テキストの \"Trump 'completely wrong' to restrict support for Ukraine\" を、より直接的な主張として解釈し、\"米国はウクライナ支援を制限することで、ロシアの侵攻を長引かせるリスクがある\" と修正しました。また、reason の \"トランプ氏の支援制限は完全に間違っている\" を、より文脈に沿った形に修正しました。",
+          "positions[0].span: 元テキストの \"the US risks prolonging Russia's full-scale invasion rather than helping\" を、より正確な引用として修正しました。"
+        ]
       }
     }
   ]
