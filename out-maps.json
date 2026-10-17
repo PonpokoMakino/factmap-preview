@@ -1,199 +1,10 @@
 {
-  "builtAt": "2026-10-17T10:39:39.734Z",
+  "builtAt": "2026-10-17T16:54:04.805Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
-      "slug": "DeNAが2年ぶり日本シリズ進出CSファイナル阪",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261017de60916"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101700351&g=spo&m=rss"
-        }
-      ],
-      "issue": "DeNAは2年ぶりに日本シリーズに進出したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "プロ野球セ・リーグのクライマックスシリーズファイナルステージ第4戦で、DeNAが阪神に8対5で勝利した。",
-          "span": "DeNAが阪神に8対5で勝って4連勝とし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "DeNAはクライマックスシリーズファイナルステージで阪神に4連勝した。",
-          "span": "阪神に4連勝",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "DeNAはレギュラーシーズン3位から2年ぶりの日本シリーズ進出を決めた。",
-          "span": "レギュラーシーズン3位から2年ぶりの日本シリーズ進出を決めました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "プロ野球CS・阪神対DeNAの試合結果は5対8だった。",
-          "span": "阪神５―８ＤｅＮＡ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "DeNAは2年ぶりに日本シリーズに進出した。",
-      "note": "両記事ともDeNAの勝利と日本シリーズ進出を事実として報じているため、positionsは空となる。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "fact 2 の span を「阪神に4連勝」に修正しました。",
-          "fact spanが原文に無い→除去「阪神に4連勝とし…」"
-        ]
-      }
-    },
-    {
-      "headline": "震度７の緊急地震速報取り消し　「千島でＭ９．９」と過大評価―気象庁部長「深くおわび」",
-      "slug": "震度の緊急地震速報取り消し千島でと過大評価気象庁",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261017de60797"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599068?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101600527&g=soc&m=rss"
-        }
-      ],
-      "issue": "気象庁の緊急地震速報システムは適切に機能しているか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "16日、北海道から東海にかけての広い範囲で緊急地震速報が誤って発表された。",
-          "span": "緊急地震速報を誤って発表した",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "この速報は、震度7と発表された。",
-          "span": "震度７の緊急地震速報",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "時事ドットコムは、この速報が「千島でM9.9」と過大に評価されたと報じた。",
-          "span": "「千島でＭ９．９」と過大評価",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、本来使われないはずの、震源から遠く離れた観測点のデータを使うミスが起きていたと明らかにした。",
-          "span": "震源から遠く離れた観測点のデータを使うミスが起きていた",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "過去の対策が機能しなかった。",
-          "span": "過去の対策が機能せず",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "発表された緊急地震速報は取り消された。",
-          "span": "緊急地震速報取り消し",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は今回の事態について調査している。",
-          "span": "気象庁は調査",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "16日、北海道から東海にかけての広い範囲で緊急地震速報が誤って発表され、震度7、千島でマグニチュード9.9と発表されたが、時事ドットコムはこれを過大評価であったと報じた。気象庁は、本来使われないはずの遠い観測点のデータを使うミスが原因で、過去の対策が機能しなかったと明らかにし、調査を進めている。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄への評価混入: facts[2].t の「過大に評価された」という評価を、時事ドットコムが報じた内容として再記述し、中立性を確保した。",
-          "著作権: consensus の記述を facts[2].t の修正に合わせて変更した。"
-        ]
-      }
-    },
-    {
-      "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-      "slug": "PalestiniansandUSjournal",
+      "headline": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "slug": "Rarepinkdiamondgoesondis",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -202,23 +13,27 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss"
         }
       ],
-      "issue": "イスラエル入植者によるパレスチナ人へのオリーブ収穫攻撃で、パレスチナ人や米国人ジャーナリストが負傷したか？",
+      "issue": "希少なピンクダイヤモンドはフランスで一般公開されているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "イスラエル入植者によるオリーブ収穫攻撃で、パレスチナ人と米国人ジャーナリストが負傷した。",
-          "span": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+          "t": "希少なピンクダイヤモンドがフランスで一般公開されている。",
+          "span": "Rare pink diamond goes on display in France",
           "src": [
             {
               "ty": "press",
@@ -227,87 +42,180 @@
           ]
         },
         {
-          "t": "覆面をした入植者が、オリーブを収穫しようとしていたパレスチナ人を攻撃するのをBBCが目撃した。",
-          "span": "The BBC sees masked settlers attack Palestinians trying to harvest olives",
+          "t": "このフランス王室の宝石は、1926年のアマチュアによる強盗事件の後、初めて一般公開される。",
+          "span": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 t",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "同様の事件が急増している。",
-          "span": "amid a surge in similar incidents",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ホルムズ海峡付近での船舶攻撃の報告が記録的な高水準に達し、石油輸出が減速している。",
-          "span": "Ship attack reports near Hormuz reach record high as oil exports slow",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "英国の海事機関からのデータを分析したBBC Verifyによると、1週間で12隻の船舶が攻撃された。",
-          "span": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "米国で4,410件の麻疹（はしか）の症例が記録されており、アウトブレイクが拡大している。",
-          "span": "US records 4,410 measles cases as outbreak grows",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "CDCは全国で451件の入院を報告している。",
-          "span": "The CDC reports 451 hospitalisations nationwide",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "保健当局はワクチン接種活動を拡大している。",
-          "span": "as health officials expand vaccination efforts",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "イスラエル入植者によるオリーブ収穫攻撃でパレスチナ人と米国人ジャーナリストが負傷した。ホルムズ海峡付近での船舶攻撃の報告が記録的な高水準に達し、1週間で12隻の船舶が攻撃された。米国で4,410件の麻疹の症例が記録され、451件の入院があり、保健当局はワクチン接種活動を拡大している。",
-      "note": "複数の独立したニュースソースからの情報を統合した。",
+      "consensus": "希少なピンクダイヤモンドがフランスで一般公開されている。",
+      "note": "原文の断片化により、ダイヤモンドの強盗事件に関する詳細な文脈は不明。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: 元のconsensusに「評価は割れる」という評価が含まれていましたが、元テキストおよびfacts/positionsからは評価が割れる根拠が読み取れないため削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "墜落した空自「グローバルホーク」機体の一部海底から引き揚げ",
+      "slug": "墜落した空自グロバルホク機体の一部海底から引き揚",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261017de61020"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599163?source=rss"
+        }
+      ],
+      "issue": "航空自衛隊のグローバルホーク墜落事故の原因究明は進んでいるか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "航空自衛隊の大型無人偵察機「グローバルホーク」が鳥取県沖で墜落した。",
+          "span": "鳥取県沖を飛行していた航空自衛隊の大型無人偵察機「グローバルホーク」が墜落した事故",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "自衛隊は17日、現場周辺の海底から機体の胴体の一部を引き揚げた。",
+          "span": "自衛隊は17日、現場周辺の海底から機体の胴体の一部を引き揚げました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "回収されたものは墜落した無人機の胴体の一部とみられる。",
+          "span": "墜落の無人機胴体一部か 空自回収",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "機体を分析し、事故の詳しい原因を調べる予定である。",
+          "span": "機体を分析し、事故の詳しい原因を調べる方",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "航空自衛隊のグローバルホークが鳥取県沖で墜落し、自衛隊が機体の一部を海底から引き揚げ、原因究明を進める予定である点で一致している。",
+      "note": "本件は事実の記述に留まり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "slug": "Trumpcompletelywrongtore",
+      "headline": "靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら参拝",
+      "slug": "靖国神社秋の例大祭高市首相が真榊城内成長戦略相ら",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261017de60815"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101700253&g=flash&m=rss"
+        }
+      ],
+      "issue": "靖国神社の秋の例大祭における政治家の参拝や供物の奉納は適切か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "靖国神社の秋の例大祭が17日から始まった。",
+          "span": "17日から始まった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は秋の例大祭にあわせて「真榊」を奉納した。",
+          "span": "高市総理大臣は「真榊」と呼ばれる鉢植えの供え物を奉納しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "城内成長戦略担当大臣が靖国神社を参拝した。",
+          "span": "城内成長戦略担当大臣",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "自民党の小林政務調査会長が靖国神社を参拝した。",
+          "span": "自民党の小林政務調査会長",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "靖国神社の秋の例大祭にあわせて、高市総理大臣が「真榊」を奉納し、城内成長戦略担当大臣と自民党の小林政務調査会長が参拝した。",
+      "note": "本件は、政治家の靖国神社参拝に関する報道であり、参拝の是非や外交への影響に関する評価は記事に含まれていないため、issueは政策の範疇とし、positionsは参拝・奉納という事実の記述に留める。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positionsのclaimを「〜と述べている／〜と報じられている」の形式に修正しました。",
+          "factsのspanを、より最小核となるように修正しました。",
+          "positionsのspanを、より最小核となるように修正しました。",
+          "factsのspanを、より最小核となるように修正しました。",
+          "positionsのclaimを、より自分の言葉で再記述するように修正しました。",
+          "fact spanが原文に無い→除去「城内成長戦略担当大臣がそれぞれ参拝し…」"
+        ]
+      }
+    },
+    {
+      "headline": "Pope discharged from hospital days after lung cancer surgery",
+      "slug": "Popedischargedfromhospit",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -316,34 +224,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss"
         }
       ],
-      "issue": "イタリア国防相は、ウクライナへの支援制限はロシアの侵攻を長引かせると主張しているか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "ローマ教皇の退院と今後の予定は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "低所得国は歳入の最大14％を債務返済に充てている。",
-          "span": "Low-income countries spend up to 14 percent of their revenue on debt repayments",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "イタリア国防相 グイド・クロゼット",
-          "stance": "attack",
-          "claim": "米国はウクライナ支援を制限することで、ロシアの侵攻を長引かせるリスクがある。",
-          "span": "the US risks prolonging Russia's full-scale invasion rather than helping",
-          "reason": "トランプ氏の発言はウクライナへの支援制限に関するものであり、それは完全に間違っている。",
+          "t": "ローマ教皇が病院を退院した。",
+          "span": "discharged from hospital",
           "src": [
             {
               "ty": "press",
@@ -352,10 +245,38 @@
           ]
         },
         {
-          "actor": "IMF（国際通貨基金）",
-          "stance": "support",
-          "claim": "高インフレと戦争の影響に直面する貧しい国々への支援を求めている。",
-          "span": "IMF urges support for poorer nations facing high inflation, war spillovers",
+          "t": "退院は肺がん手術から数日後だった。",
+          "span": "days after lung cancer surgery",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ローマ教皇は日曜日にサンピエトロ広場で伝統的なアンジェラスの祈りと祝福を行う予定である。",
+          "span": "will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "レオ教皇は土曜日にローマのジェメッリ病院を退院した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "Al Jazeeraは、肺がん手術が成功したと報じた。",
+          "span": "successful lung cancer surgery",
           "src": [
             {
               "ty": "press",
@@ -364,13 +285,15 @@
           ]
         }
       ],
-      "consensus": "IMFは高インフレと戦争の影響に直面する貧しい国々への支援を求めている。イタリア国防相は、ウクライナへの支援制限はロシアの侵攻を長引かせるリスクがあると主張している。評価は割れる。",
-      "note": "イタリア国防相の発言は、トランプ氏のウクライナ支援制限に対する批判として報じられている。IMFの声明は、経済的困難に直面する国々への支援の必要性を強調している。",
+      "positions": [],
+      "consensus": "ローマ教皇が肺がん手術後に病院を退院し、日曜日にアンジェラスの祈りを行う予定であるという点で合意されている。評価は割れない。",
+      "note": "事実合意型の記事であり、評価や対立する立場は存在しない。",
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].claim: 元テキストの \"Trump 'completely wrong' to restrict support for Ukraine\" を、より直接的な主張として解釈し、\"米国はウクライナ支援を制限することで、ロシアの侵攻を長引かせるリスクがある\" と修正しました。また、reason の \"トランプ氏の支援制限は完全に間違っている\" を、より文脈に沿った形に修正しました。",
-          "positions[0].span: 元テキストの \"the US risks prolonging Russia's full-scale invasion rather than helping\" を、より正確な引用として修正しました。"
+          "facts[4].t: 評価語「成功した」が事実欄に混入していたため、「Al Jazeeraが報じた」というメタ記述に修正。",
+          "facts[3].span: 空文字になっていたため、元テキストの該当箇所「left Rome's Gemelli Hospital」に修正。",
+          "fact spanが原文に無い→除去「left Rome's Gemell…」"
         ]
       }
     }
