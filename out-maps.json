@@ -1,10 +1,94 @@
 {
-  "builtAt": "2026-10-17T16:54:04.805Z",
+  "builtAt": "2026-10-17T23:18:26.465Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Rare pink diamond goes on display in France 100 years after amateur heist",
-      "slug": "Rarepinkdiamondgoesondis",
+      "headline": "At least 17 killed in stampede at religious gathering in India",
+      "slug": "Atleast17killedinstamped",
+      "independentSources": 4,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261018de61058"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261018de61074"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599188?source=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss"
+        }
+      ],
+      "issue": "祭りで参加者が死亡した事故の原因と状況は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "愛媛県西条市で、江戸時代から続く「西条まつり」に参加していた西条市の副市長が、倒れてきた太鼓台の下敷きになり死亡した。",
+          "span": "愛媛県西条市で江戸時代から続く「西条まつり」で、「太鼓台」の担ぎ手として参加していた西条市の副市長が倒れてきた太鼓台の下敷きになり、死亡しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "インド東部で、ヒンドゥー教の祭典に参加していた大勢の人たちが折り重なるように倒れ、少なくとも17人が死亡した。",
+          "span": "インド東部で17日、ヒンドゥー教の祭典に参加していた大勢の人たちが折り重なるように倒れ、これまでに少なくとも17人が死亡しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "インドのコルカタで、ヒンドゥー教の祭典を記念するイベントで群衆が発生し、多くの負傷者が出た。",
+          "span": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インドの西ベンガル州北コルカタで、宗教的な集まりの祭りで群衆が発生し、少なくとも17人が死亡した。",
+          "span": "At least 17 killed in stampede at religious gathering in India。Incident took place at festival in north Kolkata, in India&#039;s West Bengal state, amid big crowds and rainfall, polic",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "愛媛県西条市とインドで、祭りの最中に参加者が死亡する事故が発生した。西条市では副市長が太鼓台の下敷きになり死亡、インドではヒンドゥー教の祭典で群衆が発生し少なくとも17人が死亡した。警察が詳しい状況を調べている。",
+      "note": "西条市の事故については、警察が詳しい状況を調べている。インドの事故については、BBCとAl Jazeeraが群衆と負傷者についても報じている。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "slug": "Violentclasheslootingand",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -13,27 +97,39 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss"
         }
       ],
-      "issue": "希少なピンクダイヤモンドはフランスで一般公開されているか？",
+      "issue": "欧州各国で生活費高騰への抗議デモが発生しているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "希少なピンクダイヤモンドがフランスで一般公開されている。",
-          "span": "Rare pink diamond goes on display in France",
+          "t": "フランスで生活費高騰への抗議デモが発生し、1,000人以上が逮捕され、建物が炎上するなどの混乱があった。",
+          "span": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
           "src": [
             {
               "ty": "press",
@@ -42,99 +138,147 @@
           ]
         },
         {
-          "t": "このフランス王室の宝石は、1926年のアマチュアによる強盗事件の後、初めて一般公開される。",
-          "span": "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 t",
+          "t": "フランスのデモには50万人以上が参加した。",
+          "span": "more than half a million joined cost of living protest",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
             }
           ]
+        },
+        {
+          "t": "アルバニアの首都ティラナで、反政府デモ参加者と機動隊が衝突した。",
+          "span": "Anti-government protesters battle with police in Albania",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アルバニアのデモは土曜日に首都ティラナで終日続いた。",
+          "span": "throughout Saturday in the capital Tirana",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ベルギー、イタリア、ポルトガル、フランスで生活費高騰への抗議デモが発生した。",
+          "span": "Cost of living protests hit Belgium, Italy, Portugal and France",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "EU各国の政府に圧力をかけるため、数십万人が別々のデモに参加した。",
+          "span": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アルバニアのデモ参加者は、機動隊による残虐行為を訴えている。",
+          "span": "Protesters allege police brutality as violent clashes rage on in Albania",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アルバニアの教育省前で激しい衝突が起きた。",
+          "span": "clashes turn violent outside the Education Ministry",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "フランスでの抗議デモと略奪の最中、アルジャジーラのレポーターが嫌がらせを受け、頭部を殴打された。",
+          "span": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "レナで店を略奪していたデモ参加者によって、アルジャジーラのレポーター、ロージー・バーチャードが嫌がらせを受けた。",
+          "span": "Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アルバニア警察は、ラマ首相に対する抗議デモがエスカレートする中、ゴム弾を発射した。",
+          "span": "Albanian police fire rubber bullets as protests against Rama escalate",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "5日間にわたる衝突がティラナを揺るがし、学生たちがラマ首相の辞任を求める広範な運動に参加した。",
+          "span": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama&#039;s resignation",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナとロシアの戦争において、EUがウクライナを救済するかどうかは不透明である。",
+          "span": "Will the EU come to Ukraine’s rescue in war against Russia?",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "トランプとゼレンスキーの関係が悪化する中、米国からの支援が危険にさらされている。",
+          "span": "US support at risk as Trump-Zelenskyy relations nosedive",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "希少なピンクダイヤモンドがフランスで一般公開されている。",
-      "note": "原文の断片化により、ダイヤモンドの強盗事件に関する詳細な文脈は不明。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensus: 元のconsensusに「評価は割れる」という評価が含まれていましたが、元テキストおよびfacts/positionsからは評価が割れる根拠が読み取れないため削除しました。"
-        ]
-      }
-    },
-    {
-      "headline": "墜落した空自「グローバルホーク」機体の一部海底から引き揚げ",
-      "slug": "墜落した空自グロバルホク機体の一部海底から引き揚",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261017de61020"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599163?source=rss"
-        }
-      ],
-      "issue": "航空自衛隊のグローバルホーク墜落事故の原因究明は進んでいるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "航空自衛隊の大型無人偵察機「グローバルホーク」が鳥取県沖で墜落した。",
-          "span": "鳥取県沖を飛行していた航空自衛隊の大型無人偵察機「グローバルホーク」が墜落した事故",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "自衛隊は17日、現場周辺の海底から機体の胴体の一部を引き揚げた。",
-          "span": "自衛隊は17日、現場周辺の海底から機体の胴体の一部を引き揚げました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "回収されたものは墜落した無人機の胴体の一部とみられる。",
-          "span": "墜落の無人機胴体一部か 空自回収",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "機体を分析し、事故の詳しい原因を調べる予定である。",
-          "span": "機体を分析し、事故の詳しい原因を調べる方",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "航空自衛隊のグローバルホークが鳥取県沖で墜落し、自衛隊が機体の一部を海底から引き揚げ、原因究明を進める予定である点で一致している。",
-      "note": "本件は事実の記述に留まり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "フランス、アルバニア、ベルギー、イタリア、ポルトガルで抗議デモが発生した。フランスでは1,000人以上が逮捕され、アルバニアでは警察とデモ参加者の間で激しい衝突が起きた。アルバニアのデモ参加者は警察の残虐行為を訴え、学生は首相の辞任を要求している。評価は割れる。",
+      "note": "プライバシー配慮のため、フランスのデモ参加者の具体的な行動や、アルジャジーラレポーターへの加害者に関する詳細は省略した。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら参拝",
-      "slug": "靖国神社秋の例大祭高市首相が真榊城内成長戦略相ら",
+      "headline": "「ＭＭＸ」、２０日打ち上げ　火星衛星から試料回収狙う―世界初、起源や生命探る・ＪＡＸＡ",
+      "slug": "日打ち上げ火星衛星から試料回収狙う世界初起源や生",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -143,19 +287,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261017de60815"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261017de61034"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101700253&g=flash&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026101700294&g=soc&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101700291&g=soc&m=rss"
         }
       ],
-      "issue": "靖国神社の秋の例大祭における政治家の参拝や供物の奉納は適切か？",
+      "issue": "日本の探査機MMXによる火星衛星からのサンプルリターン計画の目的と意義は何か？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "靖国神社の秋の例大祭が17日から始まった。",
-          "span": "17日から始まった",
+          "t": "日本の探査機MMXは、火星の衛星「フォボス」から砂を地球に持ち帰る計画である。",
+          "span": "火星の衛星「フォボス」から砂を地球に持ち帰る",
           "src": [
             {
               "ty": "press",
@@ -164,8 +312,8 @@
           ]
         },
         {
-          "t": "高市総理大臣は秋の例大祭にあわせて「真榊」を奉納した。",
-          "span": "高市総理大臣は「真榊」と呼ばれる鉢植えの供え物を奉納しました",
+          "t": "MMX探査機はH3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられる。",
+          "span": "H3ロケットに搭載され、20日に鹿児島県の種子島宇宙センターから打ち上げられます",
           "src": [
             {
               "ty": "press",
@@ -174,8 +322,61 @@
           ]
         },
         {
-          "t": "城内成長戦略担当大臣が靖国神社を参拝した。",
-          "span": "城内成長戦略担当大臣",
+          "t": "火星衛星からの試料回収は世界初の試みである。",
+          "span": "世界初",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "MMX探査機は火星衛星の起源や生命を探ることを目的としている。",
+          "span": "起源や生命探る",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "MMX探査機は火星の衛星フォボスから砂を地球に持ち帰る計画であり、20日に打ち上げられる。この計画は世界初の試みであり、火星衛星の起源や生命を探ることを目的としている。この計画の意義については、サンプルリターン技術の継承と発展に寄与するという見解が示されているが、計画の是非に関する対立する意見は報じられていない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "争点の立て方: issueがテキストにない対立を暗示していたため、「日本の探査機MMXによる火星衛星からのサンプルリターン計画の目的と意義は何か？」に修正しました。",
+          "メタ記述の徹底: positions[0].claimが地の文の断定になっていたため、「サンプルリターン技術の継承と発展が重要であると述べている。」に修正し、メタ記述にしました。"
+        ]
+      }
+    },
+    {
+      "headline": "東京 福生 男性が刃物で刺され死亡 知人の行方捜査",
+      "slug": "東京福生男性が刃物で刺され死亡知人の行方捜査",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261018de61068"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599183?source=rss"
+        }
+      ],
+      "issue": "東京 福生市で発生した殺人事件の概要は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "18日未明、東京福生市の路上で40代くらいの男性が刃物で刺された。",
+          "span": "18日未明、東京 福生市の路上で40代くらいの男性が刃物で刺され",
           "src": [
             {
               "ty": "press",
@@ -183,13 +384,51 @@
             },
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "自民党の小林政務調査会長が靖国神社を参拝した。",
-          "span": "自民党の小林政務調査会長",
+          "t": "刺された男性は死亡した。",
+          "span": "死亡しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "刺したのは男性の知人とみられている。",
+          "span": "刺したのは男性の知人とみられ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "知人とみられる人物は現場から逃走した。",
+          "span": "現場から逃走した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "警視庁は本件を殺人事件として、知人の行方を捜査している。",
+          "span": "殺人事件として行方を捜査しています",
           "src": [
             {
               "ty": "press",
@@ -199,102 +438,11 @@
         }
       ],
       "positions": [],
-      "consensus": "靖国神社の秋の例大祭にあわせて、高市総理大臣が「真榊」を奉納し、城内成長戦略担当大臣と自民党の小林政務調査会長が参拝した。",
-      "note": "本件は、政治家の靖国神社参拝に関する報道であり、参拝の是非や外交への影響に関する評価は記事に含まれていないため、issueは政策の範疇とし、positionsは参拝・奉納という事実の記述に留める。",
+      "consensus": "18日未明、東京福生市で40代くらいの男性が刃物で刺され死亡する事件が発生し、警視庁は知人とみられる容疑者の行方を殺人事件として捜査している。",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimを「〜と述べている／〜と報じられている」の形式に修正しました。",
-          "factsのspanを、より最小核となるように修正しました。",
-          "positionsのspanを、より最小核となるように修正しました。",
-          "factsのspanを、より最小核となるように修正しました。",
-          "positionsのclaimを、より自分の言葉で再記述するように修正しました。",
-          "fact spanが原文に無い→除去「城内成長戦略担当大臣がそれぞれ参拝し…」"
-        ]
-      }
-    },
-    {
-      "headline": "Pope discharged from hospital days after lung cancer surgery",
-      "slug": "Popedischargedfromhospit",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss"
-        }
-      ],
-      "issue": "ローマ教皇の退院と今後の予定は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ローマ教皇が病院を退院した。",
-          "span": "discharged from hospital",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "退院は肺がん手術から数日後だった。",
-          "span": "days after lung cancer surgery",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ローマ教皇は日曜日にサンピエトロ広場で伝統的なアンジェラスの祈りと祝福を行う予定である。",
-          "span": "will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "レオ教皇は土曜日にローマのジェメッリ病院を退院した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "Al Jazeeraは、肺がん手術が成功したと報じた。",
-          "span": "successful lung cancer surgery",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ローマ教皇が肺がん手術後に病院を退院し、日曜日にアンジェラスの祈りを行う予定であるという点で合意されている。評価は割れない。",
-      "note": "事実合意型の記事であり、評価や対立する立場は存在しない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[4].t: 評価語「成功した」が事実欄に混入していたため、「Al Jazeeraが報じた」というメタ記述に修正。",
-          "facts[3].span: 空文字になっていたため、元テキストの該当箇所「left Rome's Gemelli Hospital」に修正。",
-          "fact spanが原文に無い→除去「left Rome's Gemell…」"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
