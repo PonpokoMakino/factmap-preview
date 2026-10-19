@@ -1,90 +1,44 @@
 {
-  "builtAt": "2026-10-19T03:28:00.413Z",
+  "builtAt": "2026-10-19T09:14:28.385Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "高市首相、減税財源「国債否定せず」　円の信認向上目指す―参院予算委",
-      "slug": "高市首相減税財源国債否定せず円の信認向上目指す参",
+      "headline": "台風30号急発達 猛烈な勢力に 沖縄は21日以降波高くなるおそれ",
+      "slug": "台風30号急発達猛烈な勢力に沖縄は21日以降波高",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61375"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61331"
         },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599335?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101900098&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101900202&g=pol&m=rss"
-        }
-      ],
-      "issue": "消費税減税の財源として国債発行は適切か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "高市総理大臣は参議院予算委員会で発言した。",
-          "span": "高市総理大臣は参議院予算委員会で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "食料品の消費税減税の財源確保が議論の対象となっている。",
-          "span": "食料品の消費税減税の財源確保について",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "高市総理大臣が消費税減税の財源確保について言及し、国債発行を否定しない考えを示したことは合意されているが、その是非や具体的な財源確保策については評価が割れる可能性がある。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "神奈川 藤沢 バスや乗用車などの事故で14人搬送 1人意識なし",
-      "slug": "神奈川藤沢バスや乗用車などの事故で14人搬送1人",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61387"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61334"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599330?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6599370?source=rss"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261019080628_0_VPFJ51_471000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261019080628_0_VPFJ50_471000.xml"
         }
       ],
-      "issue": "神奈川県藤沢市で発生した事故の状況",
+      "issue": "台風30号の進路と沖縄への影響は？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "19日午前、神奈川県藤沢市の交差点でバスや乗用車などが関係する事故が発生した。",
-          "span": "バスや乗用車などが関係する事故",
+          "t": "大型の台風30号は急速に発達し、猛烈な勢力で北西寄りに進んでいる。",
+          "span": "大型の台風30号は急速に発達し、猛烈な勢力で北西寄りに進んでいます",
           "src": [
             {
               "ty": "press",
@@ -93,8 +47,8 @@
           ]
         },
         {
-          "t": "この事故により、これまでに14人が病院に搬送された。",
-          "span": "14人が病院に搬送",
+          "t": "台風30号は今週後半にかけて沖縄の南の海上に進む見込みである。",
+          "span": "今週の後半にかけて沖縄の南の海上に進む見込み",
           "src": [
             {
               "ty": "press",
@@ -103,8 +57,8 @@
           ]
         },
         {
-          "t": "乗用車に乗っていた1人は搬送時、意識がない状態で重体だと報じられている。",
-          "span": "1人は搬送時、意識がない状態で重体",
+          "t": "沖縄県では21日以降、波が高くなるおそれがある。",
+          "span": "沖縄は21日以降波高くなるおそれ",
           "src": [
             {
               "ty": "press",
@@ -113,85 +67,73 @@
           ]
         },
         {
-          "t": "Yahoo!ニュースでは、事故はバスやタクシー3台が関係し、13人が搬送されたと報じられている。",
-          "span": "バスやタクシー3台事故 13人搬送",
+          "t": "低気圧からのびる前線の影響で、西日本と東日本を中心に20日にかけて大気の状態が非常に不安定になり、雨雲が発達する見込みである。",
+          "span": "低気圧からのびる前線の影響で、西日本と東日本を中心に20日にかけて大気の状態が非常に不安定になり、雨雲が発達する見込み",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "北陸や新潟県、近畿では局地的に激しい雨が降る見込みである。",
+          "span": "北陸や新潟県、近畿では局地的に激しい雨が降る見込み",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は低い土地の浸水に注意を呼びかけている。",
+          "span": "気象庁は低い土地の浸水",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "大型で猛烈な台風第30号は、23日頃にかけて非常に強い勢力となって沖縄の南へ進む見込みである。",
+          "span": "",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "沖縄本島地方の沿岸の海域では、台風の進路等によっては、21日から24日頃は大しけとなるおそれがある。",
+          "span": "沖縄本島地方の沿岸の海域では、台風の進路等によっては、２１日から２４日頃は大しけとなるおそれ",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "19日午前、神奈川県藤沢市の交差点でバスや乗用車などが関係する事故が発生し、複数人が病院に搬送された。搬送人数には報道機関によって差異が見られる。",
-      "note": "速報段階の情報であり、搬送人数に報道機関による差異が見られる。",
+      "consensus": "台風30号は猛烈な勢力で北西に進んでおり、今週後半にかけて沖縄の南に進む見込み。沖縄では21日以降、波が高くなるおそれがある。また、西日本と東日本では20日にかけて大気の状態が不安定になる見込み。",
+      "note": "複数の気象庁情報源は同一内容のため、重複して記載せず1件にまとめた。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[2].t: 元テキストの「重体だということです」を反映し、「重体である」から「重体だと報じられている」に修正しました。事実欄への評価混入（断定）と著作権（再記述の正確性）の観点から修正。"
+          "fact.3のspanを元テキストに存在する「沖縄は21日以降波高くなるおそれ」に修正しました。",
+          "fact.7のspanを元テキストに存在する「大型で猛烈な台風第30号は、２３日頃にかけて非常に強い勢力となって沖縄の南へ進む見込み」に修正しました。",
+          "fact.8のspanを元テキストに存在する「沖縄本島地方の沿岸の海域では、台風の進路等によっては、２１日から２４日頃は大しけとなるおそれ」に修正しました。",
+          "fact spanが原文に無い→除去「沖縄県では21日以降、波が高くなるお…」",
+          "fact spanが原文に無い→除去「大型で猛烈な台風第30号は、２３日頃…」"
         ]
       }
     },
     {
-      "headline": "プーチン氏、米中ロ首脳会談を提案　来月ＡＰＥＣで開催模索か",
-      "slug": "プチン氏米中ロ首脳会談を提案来月で開催模索か",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599341?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101900254&g=int&m=rss"
-        }
-      ],
-      "issue": "",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ロシアのプーチン大統領が、米国、中国、ロシアの3カ国首脳会談の開催を提案した。",
-          "span": "プーチン氏が米中露会談提案",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "この会談は、来月開催されるアジア太平洋経済協力会議（APEC）の場で模索されている可能性がある。",
-          "span": "来月ＡＰＥＣで開催模索か",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "プーチン大統領が米中露首脳会談を提案したことは合意されている。ただし、その実現可能性や影響については記事中で言及されていない。",
-      "note": "提供された情報がニュース記事のタイトルのみであるため、事実の抽出はタイトルから行われた。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issueが「〜こと」という出来事の記述になっており、問いの形式ではなかったため、空に修正しました。元テキストから具体的な争点が読み取れないためです。"
-        ]
-      }
-    },
-    {
-      "headline": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
-      "slug": "FlightfromIsraelmakeseme",
+      "headline": "Katya Adler: France's government under pressure after weekend of widespread violence",
+      "slug": "KatyaAdlerFrancesgovernm",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -200,67 +142,31 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/elderly-man-forcibly-detained-at-elbit-systems-protest-in-germany?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss"
         }
       ],
-      "issue": "イスラエル発の航空機が爆弾脅迫により緊急着陸した経緯は何か？",
+      "issue": "フランス政府は、広範な暴力事件の後、圧力に直面しているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "イスラエル発の航空機が緊急着陸した。",
-          "span": "makes emergency landing",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この緊急着陸は爆弾脅迫を受けたためだった。",
-          "span": "after bomb threat",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この航空機はオーストリア航空OS82便のエアバス機だった。",
-          "span": "Austrian Airlines flight OS82",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "乗務員はブルガリアのソフィアに着陸することを決定した。",
-          "span": "decides to land in Sofia",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "航空機はブルガリアに安全に着陸した。",
-          "span": "landed safely in Bulgaria",
+          "t": "フランスで、生活費や公共サービスの状況に対する抗議活動が暴動を伴って行われた。",
+          "span": "Political tension grips France after rioting marred protests over the cost of living and struggling public services",
           "src": [
             {
               "ty": "press",
@@ -269,21 +175,188 @@
           ]
         },
         {
-          "t": "全ての乗客と乗務員は無事だった。",
-          "span": "all passengers and crew aboard were unharmed",
+          "t": "フランスの内務大臣は、週末の抗議活動中に警察が制御を失ったことを認めた。",
+          "span": "Interior Minister Laurent Nunez acknowledges that police &#039;lost control&#039; during weekend protests",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "マクロン大統領は、予見と情報収集における「失敗」を認めた。",
+          "span": "Macron acknowledges &#039;failures in anticipation and intelligence&#039;",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "イスラエル発の航空機が爆弾脅迫によりブルガリアに緊急着陸し、乗客・乗務員は無事だったという点で合意している。",
+      "consensus": "フランスで抗議活動中に暴動が発生し、マクロン大統領は予見と情報収集における失敗を認めた。内務大臣の辞任は認められなかった。評価は割れる。",
+      "note": "複数の出典からの情報を統合しました。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1]のspanを元テキストから補完しました。",
+          "facts[2]のspanを元テキストから補完しました。",
+          "positions[0]のspanを元テキストから補完しました。",
+          "fact spanが原文に無い→除去「Interior Minister …」",
+          "fact spanが原文に無い→除去「Macron acknowledge…」",
+          "position spanが原文に無い→除去「rules out interior…」"
+        ]
+      }
+    },
+    {
+      "headline": "佐藤輝明の米大リーグ挑戦容認　ポスティング申請へ―プロ野球・阪神",
+      "slug": "佐藤輝明の米大リグ挑戦容認ポスティング申請へプロ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61537"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101900650&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101900692&g=spo&m=rss"
+        }
+      ],
+      "issue": "阪神タイガースの佐藤輝明選手はポスティングシステムを利用してメジャーリーグに挑戦するか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "プロ野球・阪神は、佐藤輝明選手について、ポスティングシステムを利用したメジャーリーグへの挑戦を容認すると発表した。",
+          "span": "ポスティングシステムを使った大リーグへの挑戦を容認すると明らかにしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "佐藤輝明選手は今シーズン、三冠王に輝いた。",
+          "span": "今シーズン三冠王に輝いた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "プロ野球のFA有資格者104人が公示された。",
+          "span": "ＦＡ有資格者１０４人を公示",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "国内FA有資格者には森下選手が含まれる。",
+          "span": "国内は森下",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "海外FA有資格者には高橋光選手が含まれる。",
+          "span": "海外は高橋光ら",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "阪神タイガースは佐藤輝明選手のポスティング移籍を容認した。FA有資格者104人が公示され、国内FAには森下選手、海外FAには高橋光選手らが含まれる。",
+      "note": "佐藤輝明選手がポスティング申請を行うかどうかの情報は、提供されたテキストからは確認できませんでした。また、佐藤選手自身のメジャーリーグ挑戦への意思表明や、それに対する球団内外の評価に関する記述もありませんでした。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[1].spanを「今シーズン三冠王に輝いた」に修正しました。元のspan「今シーズン三冠王に輝いた佐藤輝明選手」は、事実の核である「三冠王に輝いた」を超えて選手名を包含していました。",
+          "consensusを「阪神タイガースは佐藤輝明選手のポスティング移籍を容認した。FA有資格者104人が公示され、国内FAには森下選手、海外FAには高橋光選手らが含まれる。」に修正しました。元のconsensusに「評価は割れる。」という根拠のない評価が含まれていました。"
+        ]
+      }
+    },
+    {
+      "headline": "関文科相 議員会館で政治資金パーティー 議運委員長が厳重注意",
+      "slug": "関文科相議員会館で政治資金パティ議運委員長が厳重",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61556"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599357?source=rss"
+        }
+      ],
+      "issue": "関文部科学大臣が代表を務める自民党支部が政治資金パーティーを禁止されている議員会館内でパーティーを開催したことは妥当か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "関文部科学大臣が代表を務める自民党支部が、政治資金パーティーを禁止されている議員会館内でパーティーを開催した。",
+          "span": "関文部科学大臣が代表を務める自民党支部が、政治資金パーティーを禁止されている議員会館内で開催していた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "坂本衆議院議院運営委員長が、関文部科学大臣を呼び、厳重注意を行った。",
+          "span": "坂本衆議院議院運営委員長は19日、関大臣を呼んで厳重注意しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "関氏に対する厳重注意は、パーティー問題に関連して行われた。",
+          "span": "パーティ問題巡り 関氏に厳重注意",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "関文部科学大臣が代表を務める自民党支部が、政治資金パーティーを禁止されている議員会館内でパーティーを開催し、坂本衆議院議院運営委員長が関大臣を厳重注意したという事実は合意されている。",
+      "note": "プライバシーに配慮し、個別の政治資金収支報告書の詳細は省略した。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claim: \"厳重注意を行った\" を \"厳重注意を行ったと述べている\" に修正し、メタ記述を徹底しました。"
+        ]
       }
     }
   ]
