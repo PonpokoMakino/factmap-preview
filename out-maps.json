@@ -1,218 +1,10 @@
 {
-  "builtAt": "2026-10-19T09:14:28.385Z",
+  "builtAt": "2026-10-19T16:31:04.710Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風30号急発達 猛烈な勢力に 沖縄は21日以降波高くなるおそれ",
-      "slug": "台風30号急発達猛烈な勢力に沖縄は21日以降波高",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61331"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61334"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599370?source=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261019080628_0_VPFJ51_471000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261019080628_0_VPFJ50_471000.xml"
-        }
-      ],
-      "issue": "台風30号の進路と沖縄への影響は？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "大型の台風30号は急速に発達し、猛烈な勢力で北西寄りに進んでいる。",
-          "span": "大型の台風30号は急速に発達し、猛烈な勢力で北西寄りに進んでいます",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風30号は今週後半にかけて沖縄の南の海上に進む見込みである。",
-          "span": "今週の後半にかけて沖縄の南の海上に進む見込み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "沖縄県では21日以降、波が高くなるおそれがある。",
-          "span": "沖縄は21日以降波高くなるおそれ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "低気圧からのびる前線の影響で、西日本と東日本を中心に20日にかけて大気の状態が非常に不安定になり、雨雲が発達する見込みである。",
-          "span": "低気圧からのびる前線の影響で、西日本と東日本を中心に20日にかけて大気の状態が非常に不安定になり、雨雲が発達する見込み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "北陸や新潟県、近畿では局地的に激しい雨が降る見込みである。",
-          "span": "北陸や新潟県、近畿では局地的に激しい雨が降る見込み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は低い土地の浸水に注意を呼びかけている。",
-          "span": "気象庁は低い土地の浸水",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "大型で猛烈な台風第30号は、23日頃にかけて非常に強い勢力となって沖縄の南へ進む見込みである。",
-          "span": "",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "沖縄本島地方の沿岸の海域では、台風の進路等によっては、21日から24日頃は大しけとなるおそれがある。",
-          "span": "沖縄本島地方の沿岸の海域では、台風の進路等によっては、２１日から２４日頃は大しけとなるおそれ",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風30号は猛烈な勢力で北西に進んでおり、今週後半にかけて沖縄の南に進む見込み。沖縄では21日以降、波が高くなるおそれがある。また、西日本と東日本では20日にかけて大気の状態が不安定になる見込み。",
-      "note": "複数の気象庁情報源は同一内容のため、重複して記載せず1件にまとめた。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "fact.3のspanを元テキストに存在する「沖縄は21日以降波高くなるおそれ」に修正しました。",
-          "fact.7のspanを元テキストに存在する「大型で猛烈な台風第30号は、２３日頃にかけて非常に強い勢力となって沖縄の南へ進む見込み」に修正しました。",
-          "fact.8のspanを元テキストに存在する「沖縄本島地方の沿岸の海域では、台風の進路等によっては、２１日から２４日頃は大しけとなるおそれ」に修正しました。",
-          "fact spanが原文に無い→除去「沖縄県では21日以降、波が高くなるお…」",
-          "fact spanが原文に無い→除去「大型で猛烈な台風第30号は、２３日頃…」"
-        ]
-      }
-    },
-    {
-      "headline": "Katya Adler: France's government under pressure after weekend of widespread violence",
-      "slug": "KatyaAdlerFrancesgovernm",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/19/hezbollah-funding-plan-indicates-a-new-challenge-to-lebanons-government?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/19/frances-macron-declines-ministers-resignation-after-violent-protests?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/elderly-man-forcibly-detained-at-elbit-systems-protest-in-germany?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/10/19/france-protests-live-macron-admits-failures-after-days-of-violent-unrest?traffic_source=rss"
-        }
-      ],
-      "issue": "フランス政府は、広範な暴力事件の後、圧力に直面しているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "フランスで、生活費や公共サービスの状況に対する抗議活動が暴動を伴って行われた。",
-          "span": "Political tension grips France after rioting marred protests over the cost of living and struggling public services",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "フランスの内務大臣は、週末の抗議活動中に警察が制御を失ったことを認めた。",
-          "span": "Interior Minister Laurent Nunez acknowledges that police &#039;lost control&#039; during weekend protests",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "マクロン大統領は、予見と情報収集における「失敗」を認めた。",
-          "span": "Macron acknowledges &#039;failures in anticipation and intelligence&#039;",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "フランスで抗議活動中に暴動が発生し、マクロン大統領は予見と情報収集における失敗を認めた。内務大臣の辞任は認められなかった。評価は割れる。",
-      "note": "複数の出典からの情報を統合しました。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1]のspanを元テキストから補完しました。",
-          "facts[2]のspanを元テキストから補完しました。",
-          "positions[0]のspanを元テキストから補完しました。",
-          "fact spanが原文に無い→除去「Interior Minister …」",
-          "fact spanが原文に無い→除去「Macron acknowledge…」",
-          "position spanが原文に無い→除去「rules out interior…」"
-        ]
-      }
-    },
-    {
-      "headline": "佐藤輝明の米大リーグ挑戦容認　ポスティング申請へ―プロ野球・阪神",
-      "slug": "佐藤輝明の米大リグ挑戦容認ポスティング申請へプロ",
+      "headline": "上皇后さま、９２歳に　体力低下も、穏やかな日々",
+      "slug": "上皇后さま歳に体力低下も穏やかな日",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -221,23 +13,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61537"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61822"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101900650&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102000003&g=soc&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026101900692&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102000010&g=soc&m=rss"
         }
       ],
-      "issue": "阪神タイガースの佐藤輝明選手はポスティングシステムを利用してメジャーリーグに挑戦するか？",
+      "issue": "上皇后さまは92歳の誕生日を迎えられたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "プロ野球・阪神は、佐藤輝明選手について、ポスティングシステムを利用したメジャーリーグへの挑戦を容認すると発表した。",
-          "span": "ポスティングシステムを使った大リーグへの挑戦を容認すると明らかにしました",
+          "t": "上皇后さまは92歳の誕生日を迎えられた。",
+          "span": "92歳の誕生日を迎えられました",
           "src": [
             {
               "ty": "press",
@@ -246,8 +38,8 @@
           ]
         },
         {
-          "t": "佐藤輝明選手は今シーズン、三冠王に輝いた。",
-          "span": "今シーズン三冠王に輝いた",
+          "t": "上皇后さまは20日に92歳の誕生日を迎えられた。",
+          "span": "20日、92歳の誕生日を迎えられました",
           "src": [
             {
               "ty": "press",
@@ -256,8 +48,8 @@
           ]
         },
         {
-          "t": "プロ野球のFA有資格者104人が公示された。",
-          "span": "ＦＡ有資格者１０４人を公示",
+          "t": "上皇后さまは92歳になられた。",
+          "span": "９２歳に",
           "src": [
             {
               "ty": "press",
@@ -266,8 +58,8 @@
           ]
         },
         {
-          "t": "国内FA有資格者には森下選手が含まれる。",
-          "span": "国内は森下",
+          "t": "上皇后さまは体力が低下している。",
+          "span": "体力低下も",
           "src": [
             {
               "ty": "press",
@@ -276,8 +68,8 @@
           ]
         },
         {
-          "t": "海外FA有資格者には高橋光選手が含まれる。",
-          "span": "海外は高橋光ら",
+          "t": "上皇后さまは穏やかな日々を送られている。",
+          "span": "穏やかな日々",
           "src": [
             {
               "ty": "press",
@@ -287,76 +79,224 @@
         }
       ],
       "positions": [],
-      "consensus": "阪神タイガースは佐藤輝明選手のポスティング移籍を容認した。FA有資格者104人が公示され、国内FAには森下選手、海外FAには高橋光選手らが含まれる。",
-      "note": "佐藤輝明選手がポスティング申請を行うかどうかの情報は、提供されたテキストからは確認できませんでした。また、佐藤選手自身のメジャーリーグ挑戦への意思表明や、それに対する球団内外の評価に関する記述もありませんでした。",
+      "consensus": "上皇后さまは92歳の誕生日を迎えられた。体力は低下しているが、穏やかな日々を送られていると報じられている。",
+      "note": "上皇后さまの近況に関する複数の報道を統合した。プライバシーに配慮し、詳細な個人情報は含んでいない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "slug": "Kenyacultleaderwhotoldpa",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/19/kenyan-court-convicts-starvation-cult-leader-for-murder-of-191-people?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss"
+        }
+      ],
+      "issue": "ポール・マッケンジーは191人の殺害容疑で有罪か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ポール・マッケンジーは191件の殺害罪で有罪判決を受けた。",
+          "span": "Paul Mackenzie was found guilty of 191 murder charges",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "有罪判決のうち、1件を除いて全て子供に対するものだった。",
+          "span": "all but one of them children",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ポール・マッケンジーは、信者を「イエスに会えるように」餓死させたことを命じたことを否定していた。",
+          "span": "had denied ordering the victims to starve so they could &#039;meet Jesus&#039;",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ケニアの裁判所は、「終末論」カルト事件で最初の判決を下した。",
+          "span": "A Kenyan court has handed down the first judgement in the &#039;doomsday&#039; cult case",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ポール・マッケンジーは自称牧師である。",
+          "span": "Self-proclaimed pastor Paul Mackenzie",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ポール・マッケンジーは191件の殺害罪で有罪判決を受けた。そのうち1件を除いて全て子供に対するものだった。",
+      "note": "",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[1].spanを「今シーズン三冠王に輝いた」に修正しました。元のspan「今シーズン三冠王に輝いた佐藤輝明選手」は、事実の核である「三冠王に輝いた」を超えて選手名を包含していました。",
-          "consensusを「阪神タイガースは佐藤輝明選手のポスティング移籍を容認した。FA有資格者104人が公示され、国内FAには森下選手、海外FAには高橋光選手らが含まれる。」に修正しました。元のconsensusに「評価は割れる。」という根拠のない評価が含まれていました。"
+          "factsのspanが空だったものを元テキストから補完しました。",
+          "factsに元テキストから抽出できる「ポール・マッケンジーは自称牧師である」を追加しました。",
+          "positionsのspanを元テキストから補完しました。",
+          "consensusの内容をfactsの内容と一致するように修正しました。",
+          "noteの内容を削除しました（事実としてfactsに含めたため）。",
+          "fact spanが原文に無い→除去「had denied orderin…」",
+          "fact spanが原文に無い→除去「A Kenyan court has…」",
+          "position spanが原文に無い→除去「had denied orderin…」"
         ]
       }
     },
     {
-      "headline": "関文科相 議員会館で政治資金パーティー 議運委員長が厳重注意",
-      "slug": "関文科相議員会館で政治資金パティ議運委員長が厳重",
+      "headline": "フランス、一部都市の夜間外出禁止へ　デモ暴徒から「人・財産守る」―仏首相",
+      "slug": "フランス一部都市の夜間外出禁止へデモ暴徒から人財",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61556"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599406?source=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599357?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026101900140&g=int&m=rss"
         }
       ],
-      "issue": "関文部科学大臣が代表を務める自民党支部が政治資金パーティーを禁止されている議員会館内でパーティーを開催したことは妥当か？",
+      "issue": "フランスの一部都市で夜間外出禁止令が発令されるか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "関文部科学大臣が代表を務める自民党支部が、政治資金パーティーを禁止されている議員会館内でパーティーを開催した。",
-          "span": "関文部科学大臣が代表を務める自民党支部が、政治資金パーティーを禁止されている議員会館内で開催していた",
+          "t": "フランスの一部都市で夜間外出禁止令が発令される見込みである。",
+          "span": "一部都市の夜間外出禁止へ",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "坂本衆議院議院運営委員長が、関文部科学大臣を呼び、厳重注意を行った。",
-          "span": "坂本衆議院議院運営委員長は19日、関大臣を呼んで厳重注意しました",
+          "t": "夜間外出禁止令は、デモの暴徒から人や財産を守るために発令される。",
+          "span": "デモ暴徒から「人・財産守る」",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関氏に対する厳重注意は、パーティー問題に関連して行われた。",
-          "span": "パーティ問題巡り 関氏に厳重注意",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "関文部科学大臣が代表を務める自民党支部が、政治資金パーティーを禁止されている議員会館内でパーティーを開催し、坂本衆議院議院運営委員長が関大臣を厳重注意したという事実は合意されている。",
-      "note": "プライバシーに配慮し、個別の政治資金収支報告書の詳細は省略した。",
+      "consensus": "フランスの一部都市で夜間外出禁止令が発令される見込みである。これはデモの暴徒から人や財産を守るためである。フランス首相は一部地域での夜間外出禁止令を要請した。",
+      "note": "本件は政策決定に関する報道であり、評価や意見の対立は見られないため、positions は首相の発言内容を事実として記述する形とした。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: \"厳重注意を行った\" を \"厳重注意を行ったと述べている\" に修正し、メタ記述を徹底しました。"
-        ]
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "slug": "HouthimissilestrikeonYem",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss"
+        }
+      ],
+      "issue": "イエメンのキャンプへのフーシ派によるミサイル攻撃で50人が死亡したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "イエメンのシャブワ州にあるキャンプが、フーシ派によるミサイル攻撃を受け、50人の治安部隊の新兵が死亡したと、地元当局が発表した。",
+          "span": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "攻撃されたキャンプは、政府が管理するシャブワ州にあり、訓練センターとして使用されていたと当局者は述べている。",
+          "span": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centr",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ロシアのセルゲイ・ラブロフ外相が、イランのテヘランを訪問した。",
+          "span": "Russia’s FM Sergey Lavrov is in Tehran for his first visit since the outbreak of the US-Israeli war on Iran.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ラブロフ外相は、テヘラン訪問中に、米国・イスラエルによるイランへの戦争と地域安全保障について協議した。",
+          "span": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イエメンのキャンプへのフーシ派によるミサイル攻撃で50人が死亡したという発表があった。ロシアのラブロフ外相がテヘランを訪問し、地域安全保障について協議した。評価は割れていない。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": []
       }
     }
   ]
