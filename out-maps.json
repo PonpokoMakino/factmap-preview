@@ -1,170 +1,191 @@
 {
-  "builtAt": "2026-10-20T14:55:23.233Z",
+  "builtAt": "2026-10-20T18:56:35.254Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-      "slug": "Marseillebracesformoreun",
-      "independentSources": 2,
+      "headline": "探査機「MMX」 火星へ向かう軌道に 衛星「フォボス」探査へ",
+      "slug": "探査機MMX火星へ向かう軌道に衛星フォボス探査へ",
+      "independentSources": 3,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61814"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102000158&g=flash&m=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020185140_0_VPWW54_460040.xml"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020185140_0_VPWW53_460040.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020185129_0_VPWW59_460040.xml"
         }
       ],
-      "issue": "マルセイユでさらなる混乱が予想されるか？",
+      "issue": "日本の火星衛星探査機「MMX」の打ち上げは成功したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "土曜日にフランス全土で混乱が発生し、マルセイユで最悪の暴力が発生した。",
-          "span": "",
+          "t": "日本の火星衛星探査機「MMX」は20日午前、種子島宇宙センターからH3ロケットで打ち上げられた。",
+          "span": "日本の火星衛星探査機「MMX」は20日午前、鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられ",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "探査機「MMX」は予定どおり火星へ向かう軌道に投入された。",
+          "span": "予定どおり火星へ向かう軌道に投入されて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "探査機「MMX」の打ち上げは成功した。",
+          "span": "打ち上げは成功しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "探査機「MMX」は予定の軌道に投入され、打ち上げは成功した。",
+          "span": "ＭＭＸを予定の軌道に投入し、打ち上げは成功した",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "奄美地方では高波に注意が必要である。",
+          "span": "奄美地方では、高波に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "マルセイユでさらなる混乱が予想されるという事実について、全員一致の合意はない。",
-      "note": "このニュースは、マルセイユでの混乱の可能性について報じていますが、具体的な評価や立場は含まれていません。",
+      "consensus": "日本の火星衛星探査機「MMX」は20日午前、種子島宇宙センターからH3ロケットで打ち上げられ、予定どおり火星へ向かう軌道に投入され、打ち上げは成功しました。奄美地方では高波に注意が必要です。",
+      "note": "気象警報・注意報に関する情報は、探査機打ち上げのニュースとは直接関連しないが、記事に含まれていたため事実として抽出した。",
       "audit": {
         "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「Marseille braces f…」"
-        ]
+        "issues": []
       }
     },
     {
-      "headline": "Man charged with attack on Australian MP as suspect's father says she is family friend",
-      "slug": "ManchargedwithattackonAu",
+      "headline": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ",
+      "slug": "国の省エネ住宅事業で2万3000件超の情報漏えい",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de62520"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de62509"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de62437"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599523?source=rss"
         }
       ],
-      "issue": "オーストラリアの国会議員への襲撃事件で、被告人の父親は被害者と家族ぐるみの友人だと述べているか？",
+      "issue": "不正アクセスによる情報漏えいや意図しない売買注文の発注は、各社で確認されているか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "オーストラリアの国会議員への襲撃事件で、男性が起訴された。",
-          "span": "Man charged with attack on Australian MP",
+          "t": "岩井コスモ証券は、売買管理システムへの不正アクセスにより、7つの口座で顧客が意図しない売買注文が発注されたことを確認したと発表した。",
+          "span": "売買管理システムへの不正アクセスによって7つの口座で顧客が意図しない売買注文が発注されたことを確認した",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "起訴された男性の父親は、被害者のヘレン・ヘインズ議員とは20年以上知人の関係だと述べている。",
-          "span": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+          "t": "岩井コスモ証券は、取引前の状態に戻す措置を完了した。",
+          "span": "取引前の状態に戻す措置を完了し",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ヘレン・ヘインズ議員は重体である。",
-          "span": "who remains in a critical condition",
+          "t": "国土交通省などは、国の省エネ住宅に関する補助金を受け付けていた大手広告会社が不正アクセスを受け、申請などを行った事業者、2万3000人あまりの個人情報が漏えいしたおそれがあると発表した。",
+          "span": "国の省エネ住宅に関する補助金を受け付けていた大手広告会社が不正アクセスを受けて、申請などを行った事業者、2万3000人あまりの個人情報が漏えいしたおそれがある",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "フランスのリモージュ市庁舎で土曜日に火災が発生し、時計塔の尖塔が崩壊した。",
-          "span": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+          "t": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは、会員登録している顧客の氏名、メールアドレス、住所などの個人情報445万件あまりが外部に流出したと発表した。",
+          "span": "会員登録している顧客の氏名やメールアドレス、それに住所などの個人情報、445万件あまりが外部に流出した",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "イスラエルによる攻撃で、ガザ地区で少なくとも4人のパレスチナ人が死亡した。",
-          "span": "Israeli attacks kill at least four Palestinians in Gaza",
+          "t": "岩井コスモ証券にサイバー攻撃があった。",
+          "span": "岩井コスモ証券にサイバー攻撃",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "死亡した4人のうちには、夫婦と17歳が含まれる。",
-          "span": "A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "英国政府は、ガザ地区の家族の再会を阻止している。",
-          "span": "UK government blocks Gaza families’ reunion",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "英国の難民再定住制度は、ガザ地区のパレスチナ人には適用されない。",
-          "span": "Britain’s reopened refugee resettlement scheme offers no escape for Palestinians in Gaza.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "複数の報道機関が、オーストラリアの国会議員への襲撃事件、フランスのリモージュ市庁舎での火災、イスラエルによるガザ地区での攻撃、および英国政府によるガザ地区の家族の再会阻止に関する事実を報じている。評価や意見の対立は、提示された情報からは確認できない。",
-      "note": "プライバシー保護のため、襲撃事件の被害者である国会議員の名前はそのまま記載したが、容疑者の氏名は伏せた。",
+      "consensus": "岩井コスモ証券、国の省エネ住宅事業、ふるさとチョイスにおいて、それぞれ不正アクセスやサイバー攻撃による情報漏えいまたは意図しない売買注文の発注が確認されている。",
+      "note": "プライバシーに配慮し、個人を特定できる情報は最小限に留めた。",
       "audit": {
         "changed": false,
         "issues": []
@@ -261,65 +282,53 @@
       }
     },
     {
-      "headline": "学長選考、東大に異例の検証要請　「明確な説明なく遺憾」―文科省",
-      "slug": "学長選考東大に異例の検証要請明確な説明なく遺憾文",
+      "headline": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "slug": "Kenyacultleaderschildren",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599489?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102000692&g=soc&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss"
         }
       ],
-      "issue": "東京大学次期総長の選考はやり直しとなるか？",
-      "stasis": "政策",
+      "issue": "ケニアのカルト指導者の子供たちは、裁判を数週間後に控えてもなお飢餓状態に置かれているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "東京大学で次期総長の選考が行われた。",
-          "span": "次期総長 選考",
+          "t": "ケニアのカルト指導者の子供たちが、裁判を数週間後に控えても飢餓状態に置かれていると、息子が述べている。",
+          "span": "Kenya cult leader's children still being starved weeks before trial, son says",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "文部科学省は、東京大学に対して学長選考に関する異例の検証を要請した。",
-          "span": "学長選考、東大に異例の検証要請",
+          "t": "ダン・マッケンジーは当初、父親を擁護していたが、後に祖母を通報せざるを得なかったと感じていると述べた。",
+          "span": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "文部科学省は、東京大学の学長選考について「明確な説明なく遺憾」との意向を示した。",
-          "span": "「明確な説明なく遺憾」",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "東京大学で次期総長の選考が行われたが、文部科学省は学長選考に関して異例の検証を要請し、「明確な説明なく遺憾」との意向を示した。",
-      "note": "本件は、東京大学の次期総長選考プロセスにおける文部科学省からの検証要請という事実に基づき構造化された。選考のやり直しに関する直接的な決定や確定的な情報は、提示されたテキストからは読み取れないため、争点として提示した。",
+      "consensus": "ケニアのカルト指導者の子供たちが裁判を数週間後に控えて飢餓状態に置かれていると息子が述べているという事実は、複数の情報源によって報じられている。しかし、この状況の評価や、それに対する個人の行動については、さらなる情報が必要である。",
+      "note": "プライバシーに配慮し、関係者の特定につながる可能性のある詳細情報は省略した。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: \"東京大学の学長選考について、明確な説明がないことは遺憾である。\" を \"東京大学の学長選考について、明確な説明がないことは遺憾であると述べている。\" に修正。メタ記述の徹底（地の文の断定を回避）。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
