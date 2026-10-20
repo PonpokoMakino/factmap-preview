@@ -1,357 +1,324 @@
 {
-  "builtAt": "2026-10-20T00:25:15.698Z",
+  "builtAt": "2026-10-20T14:55:23.233Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "火星衛星へ、探査機打ち上げ成功　試料回収、５年で往復―「ＭＭＸ」、Ｈ３搭載・ＪＡＸＡ",
-      "slug": "火星衛星へ探査機打ち上げ成功試料回収年で往復搭載",
-      "independentSources": 3,
+      "headline": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+      "slug": "Marseillebracesformoreun",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss"
+        }
+      ],
+      "issue": "マルセイユでさらなる混乱が予想されるか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "土曜日にフランス全土で混乱が発生し、マルセイユで最悪の暴力が発生した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "マルセイユでさらなる混乱が予想されるという事実について、全員一致の合意はない。",
+      "note": "このニュースは、マルセイユでの混乱の可能性について報じていますが、具体的な評価や立場は含まれていません。",
+      "audit": {
+        "changed": false,
+        "issues": [
+          "fact spanが原文に無い→除去「Marseille braces f…」"
+        ]
+      }
+    },
+    {
+      "headline": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+      "slug": "ManchargedwithattackonAu",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss"
+        }
+      ],
+      "issue": "オーストラリアの国会議員への襲撃事件で、被告人の父親は被害者と家族ぐるみの友人だと述べているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "オーストラリアの国会議員への襲撃事件で、男性が起訴された。",
+          "span": "Man charged with attack on Australian MP",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "起訴された男性の父親は、被害者のヘレン・ヘインズ議員とは20年以上知人の関係だと述べている。",
+          "span": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ヘレン・ヘインズ議員は重体である。",
+          "span": "who remains in a critical condition",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フランスのリモージュ市庁舎で土曜日に火災が発生し、時計塔の尖塔が崩壊した。",
+          "span": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルによる攻撃で、ガザ地区で少なくとも4人のパレスチナ人が死亡した。",
+          "span": "Israeli attacks kill at least four Palestinians in Gaza",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "死亡した4人のうちには、夫婦と17歳が含まれる。",
+          "span": "A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "英国政府は、ガザ地区の家族の再会を阻止している。",
+          "span": "UK government blocks Gaza families’ reunion",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "英国の難民再定住制度は、ガザ地区のパレスチナ人には適用されない。",
+          "span": "Britain’s reopened refugee resettlement scheme offers no escape for Palestinians in Gaza.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "複数の報道機関が、オーストラリアの国会議員への襲撃事件、フランスのリモージュ市庁舎での火災、イスラエルによるガザ地区での攻撃、および英国政府によるガザ地区の家族の再会阻止に関する事実を報じている。評価や意見の対立は、提示された情報からは確認できない。",
+      "note": "プライバシー保護のため、襲撃事件の被害者である国会議員の名前はそのまま記載したが、容疑者の氏名は伏せた。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "台風30号 先島諸島に23日から接近見込み 西日本に影響可能性も",
+      "slug": "台風30号先島諸島に23日から接近見込み西日本に",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de61985"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599518?source=rss"
+        }
+      ],
+      "issue": "台風30号はいつ、どこに接近・影響する見込みか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "大型で猛烈な台風30号が接近する見込みである。",
+          "span": "大型で猛烈な台風30号",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風30号は23日から先島諸島に接近する見込みである。",
+          "span": "先島諸島に23日から接近見込み",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風30号の影響で、沖縄県では21日から海上は大しけとなる見込みである。",
+          "span": "沖縄県では21日から海上は大しけとなり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "先島諸島では、台風が接近する23日から24日にかけて暴風や警報級の大雨になるおそれがある。",
+          "span": "暴風や警報級の大雨になるおそれがあります",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風30号は西日本に影響する可能性がある。",
+          "span": "西日本に影響可能性も",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風30号は来週、本州付近に接近する恐れがある。",
+          "span": "本州付近に来週接近恐れ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風30号は大型で猛烈であり、23日から先島諸島に接近して暴風や大雨をもたらすおそれがある。沖縄県では21日から海上は大しけとなり、西日本や本州付近への影響も懸念されている。今後の予報には幅がある。",
+      "note": "本件は事実の記述に留まり、評価や意見の対立は見られないため、positions は空となります。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "学長選考、東大に異例の検証要請　「明確な説明なく遺憾」―文科省",
+      "slug": "学長選考東大に異例の検証要請明確な説明なく遺憾文",
+      "independentSources": 2,
+      "sources": [
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61814"
-        },
-        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599414?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6599489?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102000118&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102000692&g=soc&m=rss"
         }
       ],
-      "issue": "火星衛星探査機「MMX」の打ち上げ",
-      "stasis": "事実",
+      "issue": "東京大学次期総長の選考はやり直しとなるか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "日本の火星衛星探査機「MMX」の打ち上げが成功した。",
-          "span": "打ち上げは成功しました",
+          "t": "東京大学で次期総長の選考が行われた。",
+          "span": "次期総長 選考",
           "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
+            }
+          ]
+        },
+        {
+          "t": "文部科学省は、東京大学に対して学長選考に関する異例の検証を要請した。",
+          "span": "学長選考、東大に異例の検証要請",
+          "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "打ち上げにはH3ロケット10号機が使用された。",
-          "span": "H3ロケット10号機で",
+          "t": "文部科学省は、東京大学の学長選考について「明確な説明なく遺憾」との意向を示した。",
+          "span": "「明確な説明なく遺憾」",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "打ち上げは20日午前5時前に行われた。",
-          "span": "20日午前5時前に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "鹿児島県の種子島宇宙センターから打ち上げられた。",
-          "span": "鹿児島県の種子島宇宙センターから",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "探査機は火星へ向かう軌道に投入された。",
-          "span": "火星へ向かう軌道に投入されて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "MMXのミッションは、火星衛星からの試料回収と5年での往復を目指す。",
-          "span": "試料回収、５年で往復",
-          "src": [
-            {
-              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "火星衛星探査機「MMX」はH3ロケット10号機により20日午前5時前に種子島宇宙センターから打ち上げられ、火星へ向かう軌道に投入されて打ち上げは成功した。",
-      "note": "事実合意型。",
+      "consensus": "東京大学で次期総長の選考が行われたが、文部科学省は学長選考に関して異例の検証を要請し、「明確な説明なく遺憾」との意向を示した。",
+      "note": "本件は、東京大学の次期総長選考プロセスにおける文部科学省からの検証要請という事実に基づき構造化された。選考のやり直しに関する直接的な決定や確定的な情報は、提示されたテキストからは読み取れないため、争点として提示した。",
       "audit": {
         "changed": true,
         "issues": [
-          "`issue`が事実の問いかけになっていたため、中立的な主題に修正しました。",
-          "`consensus`に「評価は割れる／アプリは裁定しない」という記述がありましたが、元テキストでは打ち上げ成功が事実として報じられており、評価が割れる状況ではないため削除しました。"
-        ]
-      }
-    },
-    {
-      "headline": "東・西日本で大気不安定に 台風30号の最新情報 確認を",
-      "slug": "東西日本で大気不安定に台風30号の最新情報確認を",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61878"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020001135_0_VPWW54_170000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020001135_0_VPWW53_170000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020001127_0_VPWW55_170000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020000343_0_VPWW54_150000.xml"
-        }
-      ],
-      "issue": "東・西日本における大気の状態とそれに伴う注意喚起は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "東日本と西日本を中心に大気の状態が非常に不安定になっている。",
-          "span": "大気の状態が非常に不安定になっていて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "北陸で雨雲が発達している。",
-          "span": "北陸で雨雲が発達しています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、低い土地の浸水や川の増水、落雷、竜巻などの激しい突風、ひょうに警戒するよう呼びかけている。",
-          "span": "低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、能登地方で土砂災害に注意するよう呼びかけている。",
-          "span": "土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、石川県で低い土地の浸水や竜巻などの激しい突風、落雷に注意するよう呼びかけている。",
-          "span": "低い土地の浸水や竜巻などの激しい突風、落雷に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、石川県で低い土地の浸水や河川の増水に注意するよう呼びかけている。",
-          "span": "低い土地の浸水や河川の増水に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、新潟県の下越と中越で低い土地の浸水に警戒するよう呼びかけている。",
-          "span": "低い土地の浸水に警戒してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "東・西日本で大気の状態が不安定になっており、気象庁は各地で低い土地の浸水、川の増水、土砂災害、落雷、竜巻などの激しい突風、ひょうへの注意や警戒を呼びかけている。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-      "slug": "HouthimissilestrikeonYem",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss"
-        }
-      ],
-      "issue": "イエメンのキャンプへのフーシ派によるミサイル攻撃で50人が死亡したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "イエメンのシャブワ州にあるキャンプが、フーシ派によるミサイル攻撃を受け、50人の治安部隊の新兵が死亡したと、地元当局が発表した。",
-          "span": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "攻撃されたキャンプは、政府が管理するシャブワ州にあり、訓練センターとして使用されていたと当局者は述べている。",
-          "span": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centr",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ロシアのセルゲイ・ラブロフ外相が、イランのテヘランを訪問した。",
-          "span": "Russia’s FM Sergey Lavrov is in Tehran for his first visit since the outbreak of the US-Israeli war on Iran.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ラブロフ外相は、テヘラン訪問中に、米国・イスラエルによるイランへの戦争と地域安全保障について協議した。",
-          "span": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イエメンのキャンプへのフーシ派によるミサイル攻撃で50人が死亡したという発表があった。ロシアのラブロフ外相がテヘランを訪問し、地域安全保障について協議した。評価は割れていない。",
-      "note": "",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-      "slug": "Curfewimposedinpartsofce",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss"
-        }
-      ],
-      "issue": "",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "フランス各地での暴動を受け、パリ中心部および他の都市の一部で外出禁止令が発令された。",
-          "span": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "フランス内務大臣は、一部の都市で警察が「統制を失った」ことを認めた。",
-          "span": "admits that police \"lost control\" in some cities",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "フランス各地で暴動が発生し、パリ中心部などで外出禁止令が発令された。内務大臣は一部都市で警察が統制を失ったことを認めた。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "issueフィールドは「賛否の割れる問い」であるべきだが、元テキストにそのような争点がないため空にした。",
-          "facts[1].src[0].tyが「prim」となっていたが、元テキストの出典は「BBC World」という報道機関であるため「press」に修正した。"
+          "positions[0].claim: \"東京大学の学長選考について、明確な説明がないことは遺憾である。\" を \"東京大学の学長選考について、明確な説明がないことは遺憾であると述べている。\" に修正。メタ記述の徹底（地の文の断定を回避）。"
         ]
       }
     }
