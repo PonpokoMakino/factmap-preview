@@ -1,44 +1,41 @@
 {
-  "builtAt": "2026-10-20T18:56:35.254Z",
+  "builtAt": "2026-10-21T00:36:45.265Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "探査機「MMX」 火星へ向かう軌道に 衛星「フォボス」探査へ",
-      "slug": "探査機MMX火星へ向かう軌道に衛星フォボス探査へ",
-      "independentSources": 3,
+      "headline": "Elon Musk says Tesla-SpaceX merger being considered",
+      "slug": "ElonMusksaysTeslaSpaceXm",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "気象庁 気象警報・注意報"
+        "BBC World"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261019de61814"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261021de62558"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599543?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102000158&g=flash&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102100209&g=int&m=rss"
         },
         {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020185140_0_VPWW54_460040.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020185140_0_VPWW53_460040.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261020185129_0_VPWW59_460040.xml"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "日本の火星衛星探査機「MMX」の打ち上げは成功したか？",
-      "stasis": "事実",
+      "issue": "スペースXとテスラの経営統合は検討されているか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "日本の火星衛星探査機「MMX」は20日午前、種子島宇宙センターからH3ロケットで打ち上げられた。",
-          "span": "日本の火星衛星探査機「MMX」は20日午前、鹿児島県の種子島宇宙センターからH3ロケットで打ち上げられ",
+          "t": "イーロン・マスク氏はスペースXとテスラのCEOである。",
+          "span": "自身がCEOを務める",
           "src": [
             {
               "ty": "press",
@@ -47,8 +44,8 @@
           ]
         },
         {
-          "t": "探査機「MMX」は予定どおり火星へ向かう軌道に投入された。",
-          "span": "予定どおり火星へ向かう軌道に投入されて",
+          "t": "スペースXは宇宙開発やAI事業を展開している。",
+          "span": "宇宙開発やAI事業を展開する",
           "src": [
             {
               "ty": "press",
@@ -57,8 +54,8 @@
           ]
         },
         {
-          "t": "探査機「MMX」の打ち上げは成功した。",
-          "span": "打ち上げは成功しました",
+          "t": "テスラは電気自動車（EV）メーカーである。",
+          "span": "EV＝電気自動車メーカーの",
           "src": [
             {
               "ty": "press",
@@ -67,223 +64,33 @@
           ]
         },
         {
-          "t": "探査機「MMX」は予定の軌道に投入され、打ち上げは成功した。",
-          "span": "ＭＭＸを予定の軌道に投入し、打ち上げは成功した",
+          "t": "イーロン・マスク氏は20日、スペースXとテスラが経営統合を議論するための特別委員会を設置したと述べた。",
+          "span": "特別委員会を設置し",
           "src": [
             {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "奄美地方では高波に注意が必要である。",
-          "span": "奄美地方では、高波に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             },
             {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日本の火星衛星探査機「MMX」は20日午前、種子島宇宙センターからH3ロケットで打ち上げられ、予定どおり火星へ向かう軌道に投入され、打ち上げは成功しました。奄美地方では高波に注意が必要です。",
-      "note": "気象警報・注意報に関する情報は、探査機打ち上げのニュースとは直接関連しないが、記事に含まれていたため事実として抽出した。",
+      "consensus": "イーロン・マスク氏がスペースXとテスラの経営統合について特別委員会を設置し議論していることは事実として報じられている。アプリは統合の適切性を裁定しない。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "争点の立て方: テキスト内に経営統合の適切性に関する対立する立場が示されていないため、issueを「スペースXとテスラの経営統合は適切か？」から「スペースXとテスラの経営統合は検討されているか？」に変更しました。これにより、テキストが報じている内容（検討されている事実とマスク氏の肯定的な見解）に即した中立的な問いになります。"
+        ]
       }
     },
     {
-      "headline": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ",
-      "slug": "国の省エネ住宅事業で2万3000件超の情報漏えい",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261021de62520"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261020de62509"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261020de62437"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599523?source=rss"
-        }
-      ],
-      "issue": "不正アクセスによる情報漏えいや意図しない売買注文の発注は、各社で確認されているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "岩井コスモ証券は、売買管理システムへの不正アクセスにより、7つの口座で顧客が意図しない売買注文が発注されたことを確認したと発表した。",
-          "span": "売買管理システムへの不正アクセスによって7つの口座で顧客が意図しない売買注文が発注されたことを確認した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "岩井コスモ証券は、取引前の状態に戻す措置を完了した。",
-          "span": "取引前の状態に戻す措置を完了し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "国土交通省などは、国の省エネ住宅に関する補助金を受け付けていた大手広告会社が不正アクセスを受け、申請などを行った事業者、2万3000人あまりの個人情報が漏えいしたおそれがあると発表した。",
-          "span": "国の省エネ住宅に関する補助金を受け付けていた大手広告会社が不正アクセスを受けて、申請などを行った事業者、2万3000人あまりの個人情報が漏えいしたおそれがある",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは、会員登録している顧客の氏名、メールアドレス、住所などの個人情報445万件あまりが外部に流出したと発表した。",
-          "span": "会員登録している顧客の氏名やメールアドレス、それに住所などの個人情報、445万件あまりが外部に流出した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "岩井コスモ証券にサイバー攻撃があった。",
-          "span": "岩井コスモ証券にサイバー攻撃",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "岩井コスモ証券、国の省エネ住宅事業、ふるさとチョイスにおいて、それぞれ不正アクセスやサイバー攻撃による情報漏えいまたは意図しない売買注文の発注が確認されている。",
-      "note": "プライバシーに配慮し、個人を特定できる情報は最小限に留めた。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "台風30号 先島諸島に23日から接近見込み 西日本に影響可能性も",
-      "slug": "台風30号先島諸島に23日から接近見込み西日本に",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261020de61985"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599518?source=rss"
-        }
-      ],
-      "issue": "台風30号はいつ、どこに接近・影響する見込みか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "大型で猛烈な台風30号が接近する見込みである。",
-          "span": "大型で猛烈な台風30号",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風30号は23日から先島諸島に接近する見込みである。",
-          "span": "先島諸島に23日から接近見込み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風30号の影響で、沖縄県では21日から海上は大しけとなる見込みである。",
-          "span": "沖縄県では21日から海上は大しけとなり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "先島諸島では、台風が接近する23日から24日にかけて暴風や警報級の大雨になるおそれがある。",
-          "span": "暴風や警報級の大雨になるおそれがあります",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風30号は西日本に影響する可能性がある。",
-          "span": "西日本に影響可能性も",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風30号は来週、本州付近に接近する恐れがある。",
-          "span": "本州付近に来週接近恐れ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風30号は大型で猛烈であり、23日から先島諸島に接近して暴風や大雨をもたらすおそれがある。沖縄県では21日から海上は大しけとなり、西日本や本州付近への影響も懸念されている。今後の予報には幅がある。",
-      "note": "本件は事実の記述に留まり、評価や意見の対立は見られないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Kenya cult leader's children still being starved weeks before trial, son says",
-      "slug": "Kenyacultleaderschildren",
+      "headline": "NATO to send additional patrol planes to Black Sea after drone attacks",
+      "slug": "NATOtosendadditionalpatr",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -292,43 +99,247 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss"
         }
       ],
-      "issue": "ケニアのカルト指導者の子供たちは、裁判を数週間後に控えてもなお飢餓状態に置かれているか？",
+      "issue": "N/A",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ケニアのカルト指導者の子供たちが、裁判を数週間後に控えても飢餓状態に置かれていると、息子が述べている。",
-          "span": "Kenya cult leader's children still being starved weeks before trial, son says",
+          "t": "オーストラリアの国会議員への襲撃容疑で男が起訴された。",
+          "span": "charged with attack on Australia MP",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "BBC World"
             }
           ]
         },
         {
-          "t": "ダン・マッケンジーは当初、父親を擁護していたが、後に祖母を通報せざるを得なかったと感じていると述べた。",
-          "span": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother",
+          "t": "ヘレン・ヘインズ議員は重体である。",
+          "span": "remains in a critical condition",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ケニアのカルト指導者の子供たちが裁判を数週間後に控えて飢餓状態に置かれていると息子が述べているという事実は、複数の情報源によって報じられている。しかし、この状況の評価や、それに対する個人の行動については、さらなる情報が必要である。",
-      "note": "プライバシーに配慮し、関係者の特定につながる可能性のある詳細情報は省略した。",
+      "consensus": "オーストラリアの国会議員への襲撃容疑で男が起訴され、議員は重体である。ブレンダン・ヌージェントの家族はヘレン・ヘインズを20年以上知っていると述べている。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positions[0].spanが空だったので、元テキストから「have known Helen Haines... for more than 20 years」に修正しました。",
+          "position spanが原文に無い→除去「have known Helen H…」"
+        ]
+      }
+    },
+    {
+      "headline": "「参考」「未定」、異例の審議入り　消費減税法案、財源・給付巡り",
+      "slug": "参考未定異例の審議入り消費減税法案財源給付巡り",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261020de62512"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102000991&g=pol&m=rss"
+        }
+      ],
+      "issue": "食料品の消費税減税法案は成立すべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "食料品の消費税減税関連法案が衆議院で審議入りした。",
+          "span": "審議入りし",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "消費税減税法案は『参考』『未定』という状況で審議入りした。",
+          "span": "「参考」「未定」、異例の審議入り",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "消費税減税法案の審議では、財源や給付を巡る議論がある。",
+          "span": "財源・給付巡り",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "高市総理大臣",
+          "stance": "support",
+          "claim": "消費税減税法案は、できる限り早く負担軽減を実感させる上で最善の方法であると強調している。",
+          "span": "最善の方法だ",
+          "reason": "できるかぎり早く負担軽減を実感してもらう上で",
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "actor": "野党",
+          "stance": "attack",
+          "claim": "消費税減税法案に対し、対案を示している。",
+          "span": "対案などが示される",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "actor": "与党",
+          "stance": "neutral",
+          "claim": "消費税減税法案の成立に向けて、野党との歩み寄れる点がないか模索している。",
+          "span": "歩み寄れる点がないか",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "actor": "時事ドットコム",
+          "stance": "neutral",
+          "claim": "消費税減税法案の審議入りを『異例』と報じている。",
+          "span": "異例の審議入り",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "consensus": "食料品の消費税減税関連法案が衆議院で審議入りしたが、その内容や成立の是非については評価が割れている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "事実欄（facts[1]）に評価語「異例」が混入していたため、事実項目から評価語を削除し、その評価を報じた媒体（時事ドットコム）を主体とするpositions項目を追加した。"
+        ]
+      }
+    },
+    {
+      "headline": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "slug": "USfoodimportersuesTrumpo",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss"
+        }
+      ],
+      "issue": "トランプ政権によるカナダ製品への関税賦課は権限を逸脱しているか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "トランプ政権はカナダ製品に関税を課した。",
+          "span": "Canadian tariffs",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国の食品輸入業者がトランプ氏を提訴した。",
+          "span": "Trump sued",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "課された関税は50%である。",
+          "span": "50 percent tariffs",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "トランプ政権がカナダ製品に関税を課し、それに対して訴訟が提起されたこと。評価は割れる。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[3]のclaimが、不完全な元テキスト（\"imme\"）から文脈を推測して記述されており、「テキストに無いものを作らない」という原則に反するため、当該positionを削除しました。",
+          "positions[3]の削除に伴い、その推測を説明していたnoteフィールドを削除しました。"
+        ]
       }
     }
   ]
