@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-10-21T19:27:31.309Z",
+  "builtAt": "2026-10-21T22:36:43.349Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "秋田・子吉川が氾濫　４５０世帯に緊急安全確保―特別警報発表・気象庁など",
-      "slug": "秋田子吉川が氾濫世帯に緊急安全確保特別警報発表気",
+      "headline": "気象庁は秋田県・子吉川（こよしがわ）の氾濫特別警報を注意報に切り替えた",
+      "slug": "気象庁は秋田県子吉川こよしがわの氾濫特別警報を注",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -18,11 +18,15 @@
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261021de63212"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261022de63278"
         },
         {
           "source": "Yahoo!ニュース 主要",
           "link": "https://news.yahoo.co.jp/pickup/6599644?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102200064&g=flash&m=rss"
         },
         {
           "source": "時事ドットコム",
@@ -31,18 +35,14 @@
         {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026102101078&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102200064&g=flash&m=rss"
         }
       ],
-      "issue": "秋田県の子吉川における氾濫特別警報は、氾濫注意報に切り替えられたか？",
+      "issue": "秋田県子吉川の氾濫状況と警報の推移はどうか",
       "stasis": "事実",
       "facts": [
         {
-          "t": "秋田県では記録的な大雨となった。",
-          "span": "記録的な大雨となった",
+          "t": "秋田県では低気圧と前線の影響により記録的な大雨が降った。",
+          "span": "低気圧と前線の影響で、記録的な大雨となった",
           "src": [
             {
               "ty": "press",
@@ -61,8 +61,8 @@
           ]
         },
         {
-          "t": "子吉川で「レベル5氾濫特別警報」が発表されていた。",
-          "span": "「レベル5氾濫特別警報」が発表されていました",
+          "t": "子吉川には「レベル5氾濫特別警報」が発表されていた。",
+          "span": "「レベル5氾濫特別警報」が発表されていましたが",
           "src": [
             {
               "ty": "press",
@@ -71,8 +71,8 @@
           ]
         },
         {
-          "t": "子吉川の氾濫特別警報は、午前2時20分に「レベル2氾濫注意報」に切り替えられた。",
-          "span": "午前2時20分「レベル2氾濫注意報」に切り替えられました",
+          "t": "午前2時すぎに「レベル5氾濫特別警報」が「レベル2氾濫注意報」に切り替えられた。",
+          "span": "午前2時すぎ、「レベル2氾濫注意報」に切り替えられました",
           "src": [
             {
               "ty": "press",
@@ -81,21 +81,11 @@
           ]
         },
         {
-          "t": "秋田県由利本荘市の子吉川沿いの道路まで水があふれた。",
-          "span": "道路まで水あふれる",
+          "t": "気象庁が子吉川の氾濫特別警報を注意報に切り替えた。",
+          "span": "氾濫特別警報を注意報に切り替えた",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "子吉川の氾濫特別警報は注意報に切り替えられた。",
-          "span": "特別警報から切り替え",
-          "src": [
-            {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
@@ -105,30 +95,28 @@
           "span": "４５０世帯に緊急安全確保",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "気象庁は秋田県・子吉川の氾濫特別警報を注意報に切り替えた。",
-          "span": "氾濫特別警報を注意報に切り替えた",
+          "t": "22日午前6時40分ごろ、秋田県由利本荘市の子吉川をドローンで撮影した。",
+          "span": "ドローンを使って撮影しました",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "秋田県の子吉川で氾濫が確認され、一時「レベル5氾濫特別警報」が発表されたが、後に「レベル2氾濫注意報」に切り替えられた。",
-      "note": "プライバシーに配慮し、動画撮影者の親族に関する情報は含めない。",
+      "consensus": "秋田県子吉川の氾濫特別警報が注意報に切り替えられたという事実については合意されている。評価は割れない。",
       "audit": {
         "changed": true,
         "issues": [
-          "issueを「〜べきか？」から「〜か？」に変更。これは事実確認の問いであり、意見表明ではないため。",
-          "factsのspanを元テキストの表現に近づけ、より正確な引用となるように修正。"
+          "facts[6].span: 文まるごとのspanを述部の最小句に修正しました。"
         ]
       }
     },
@@ -198,8 +186,8 @@
       }
     },
     {
-      "headline": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-      "slug": "Targetedattackonmuchlove",
+      "headline": "Mexico charges prosecutor with treason over US involvement in drug raid",
+      "slug": "Mexicochargesprosecutorw",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -208,23 +196,33 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/21/actors-writers-condemn-uk-anti-terror-law-targeting-sally-rooney?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/21/mexico-charges-prosecutor-with-treason-over-us-involvement-in-drug-raid?traffic_source=rss"
         }
       ],
-      "issue": "オーストラリアの国会議員への攻撃は、英国の反テロ法と同様に、表現の自由を脅かすものか？",
-      "stasis": "価値・倫理",
+      "issue": "メキシコの元検察官が米国の麻薬捜査官の国内作戦への参加を許可したことは、反逆罪にあたるか、またメキシコの法律に準拠していたか？",
+      "stasis": "法",
       "facts": [
         {
-          "t": "オーストラリアの国会議員が、 alleged car attack の後、両足を切断した。",
-          "span": "who had to have both legs amputated",
+          "t": "メキシコの元検察官セサル・ハウレギ・モレノ氏が反逆罪で起訴された。",
+          "span": "Ex-prosecutor charged with treason",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ハウレギ・モレノ氏は、4月に麻薬研究所と疑われる場所への襲撃に米国の捜査官が参加することを許可したとして告発されている。",
+          "span": "accused of allowing US agents to join a raid on a suspected drugs lab in April",
           "src": [
             {
               "ty": "press",
@@ -233,38 +231,8 @@
           ]
         },
         {
-          "t": "その国会議員は、地域社会のために尽力した、 genuinely kind person として地元住民に描写されている。",
-          "span": "Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": " alleged attacker は43歳で、Brendan Nugent という名前である。",
-          "span": "Her alleged attacker, 43-year-old Brendan Nugent",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "Brendan Nugent は複数の罪に問われ、水曜日に初めて出廷した。",
-          "span": "faces multiple charges and appeared in court for the first time on Wed",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "英国の反テロ法は、Palestine Action を禁止している。",
-          "span": "UK law banning Palestine Action",
+          "t": "4月の麻薬作戦における米国の捜査官の参加は、メキシコの法律が遵守されたかについて疑問を提起している。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -274,71 +242,93 @@
         }
       ],
       "positions": [],
-      "consensus": "オーストラリアの国会議員が alleged car attack により両足を切断したという事実は合意されている。英国の反テロ法がPalestine Actionを禁止していることも合意されている。",
-      "note": "オーストラリアの国会議員への攻撃と英国の反テロ法は、別々の出来事として報じられている。後者は、表現の自由への影響という点で関連付けられている可能性がある。",
+      "consensus": "メキシコの元検察官が反逆罪で起訴されたという事実は合意されているが、その行為が反逆罪にあたるか、またメキシコの法律に準拠していたかについては評価が割れる。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "facts[0].span を \"who had to have both legs amputated\" に修正しました。元の \"Australian MP loses both legs after alleged car attack\" は事実の核ではなく、文脈情報を含んでいました。",
-          "facts[1].span を \"Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.\" に修正しました。元の \"Locals describe the MP, who had to have both legs amputated, as a genuinely kind person who fought for the community.\" は事実の核ではなく、文脈情報を含んでいました。",
-          "facts[2].span を \"Her alleged attacker, 43-year-old Brendan Nugent\" に修正しました。元の \"Her alleged attacker, 43-year-old Brendan Nugent\" は事実の核ではなく、文脈情報を含んでいました。",
-          "facts[3].span を \"faces multiple charges and appeared in court for the first time on Wed\" に修正しました。元の \"faces multiple charges and appeared in court for the first time on Wed\" は事実の核ではなく、文脈情報を含んでいました。",
-          "facts[4].span を \"UK law banning Palestine Action\" に修正しました。元の \"UK law banning Palestine Action\" は事実の核ではなく、文脈情報を含んでいました。",
-          "positions[0].stance を \"condemn\" に修正しました。元の \"attack\" は、この文脈では不適切でした。",
-          "positions[0].reason を null に修正しました。元の \"オーストラリアの国会議員への攻撃は、表現の自由を脅かす可能性があるという文脈で言及されている\" は、抽出エンジンの解釈であり、テキストに明示されていません。",
-          "consensus を \"オーストラリアの国会議員が alleged car attack により両足を切断したという事実は合意されている。英国の反テロ法がPalestine Actionを禁止していることも合意されている。\" に修正しました。元の \"しかし、英国の反テロ法が抑圧的であるかについては評価が分かれる\" は、positions に記載されている内容を反映しておらず、また、issue の問いに対する直接的な合意事項ではありません。",
-          "note を \"オーストラリアの国会議員への攻撃と英国の反テロ法は、別々の出来事として報じられている。後者は、表現の自由への影響という点で関連付けられている可能性がある。\" に修正しました。元の \"プライバシー保護のため、被害者や容疑者の詳細な個人情報は省略した。\" は、検品係の判断ではなく、抽出エンジンの判断であり、監査の観点から不要です。"
+          "stasisを「政策」から「法」に修正しました。",
+          "facts[2].spanが空文字だったため、元テキストの該当箇所「The participation of US agents in an April drug operation has raised questions about whether Mexico's laws were uph」に修正しました。",
+          "positions[0].claimが地の文の断定になっていたため、「メキシコ当局は、元検察官が米国の麻薬捜査官の国内作戦への参加を許可した行為は反逆罪にあたると主張している。」とメタ記述の形式に修正しました。",
+          "positions[0].premisesに、主張の根拠となる事実（facts[1]）を追加しました。",
+          "fact spanが原文に無い→除去「The participation …」"
         ]
       }
     },
     {
-      "headline": "ＭＭＸを予定の軌道に投入し、打ち上げは成功した",
-      "slug": "を予定の軌道に投入し打ち上げは成功した",
+      "headline": "Judge orders Meta to pay $25bn in fines for Facebook privacy violations",
+      "slug": "JudgeordersMetatopay25bn",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599628?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102000158&g=flash&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/21/judge-orders-meta-to-pay-25bn-in-fines-for-facebook-privacy-violations?traffic_source=rss"
         }
       ],
-      "issue": "MMX探査機の打ち上げは成功し、機能は正常か？",
+      "issue": "Metaはユーザーデータプライバシーに関する虚偽表示で罰金を科されたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "MMX探査機は予定の軌道に投入され、打ち上げは成功した。",
-          "span": "ＭＭＸを予定の軌道に投入し、打ち上げは成功した",
+          "t": "Metaは250億ドルの罰金を科された。",
+          "span": "fined $25bn",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "MMX探査機の機能は正常であることが確認された。",
-          "span": "機能正常を確認",
+          "t": "この罰金は、Metaがニューメキシコ州のFacebookユーザーに対し、データアクセスに関して虚偽の情報を伝えたことで有罪と認定されたことによる。",
+          "span": "lying to Facebook users in ⁠⁠⁠⁠⁠⁠⁠⁠New Mexico about access to their data",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "この罰金は、Facebookの所有者であるMetaに対してこれまでに科された中で最大の金額である。",
+          "span": "largest to date against Facebook's owner",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この金額は、カリフォルニア州との180億ドルの和解金よりも大きい。",
+          "span": "larger than an $18bn deal with California",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "MMX探査機は予定の軌道に投入され、打ち上げは成功し、機能は正常であることが確認された。",
-      "note": "本件は事実の確認のみであり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "Metaはユーザーデータプライバシーに関する虚偽表示で250億ドルの罰金を科された。評価は割れる／アプリは裁定しない。",
+      "note": "テキストには評価や対立する立場が記述されていないため、positionsは空配列です。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1].src: The specific details in the span 'lying to Facebook users in New Mexico about access to their data' are only supported by the Al Jazeera snippet. Removed 'BBC World' from the source list for this fact."
+        ]
       }
     }
   ]
