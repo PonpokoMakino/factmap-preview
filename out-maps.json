@@ -1,5 +1,5 @@
 {
-  "builtAt": "2026-10-24T13:39:33.857Z",
+  "builtAt": "2026-10-24T19:23:08.933Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
@@ -183,12 +183,11 @@
       }
     },
     {
-      "headline": "ソフトバンクの山本祐、勇姿届ける　新天地で日本一へ―プロ野球・日本シリーズ",
-      "slug": "ソフトバンクの山本祐勇姿届ける新天地で日本一へプ",
-      "independentSources": 3,
+      "headline": "２年目、ソフトバンクの庄子が激戦にけり　横浜スタジアムで躍動―プロ野球・日本シリーズ",
+      "slug": "年目ソフトバンクの庄子が激戦にけり横浜スタジアム",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
@@ -197,20 +196,24 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20261024de64830"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599986?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102400419&g=spo&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400471&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102400517&g=spo&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102400527&g=spo&m=rss"
         }
       ],
-      "issue": "プロ野球日本シリーズ第1戦の結果は？",
+      "issue": "プロ野球日本シリーズ第1戦でソフトバンクはDeNAに勝利したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "プロ野球の日本シリーズ第1戦が行われている。",
-          "span": "プロ野球の日本シリーズの第1戦が行われています。",
+          "t": "プロ野球日本シリーズ第1戦でソフトバンクがDeNAに延長11回、3対1で勝利した。",
+          "span": "延長11回、3対1で勝ちました",
           "src": [
             {
               "ty": "press",
@@ -219,17 +222,7 @@
           ]
         },
         {
-          "t": "セ・リーグのDeNAとパ・リーグのソフトバンクが対戦している。",
-          "span": "セ・リーグのDeNAが2年ぶり、パ・リーグのソフトバンクが2年連続の日本一をかけて対戦しています。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "試合は7回にソフトバンクが先制した。",
+          "t": "ソフトバンクは7回に先制した。",
           "span": "7回にソフトバンクが先制し",
           "src": [
             {
@@ -239,8 +232,8 @@
           ]
         },
         {
-          "t": "DeNAの牧選手がホームランを打った。",
-          "span": "牧にHR",
+          "t": "DeNAは8回に牧秀悟選手のホームランで追いついた。",
+          "span": "DeNAが8回に牧秀悟選手のホームランで追いつ",
           "src": [
             {
               "ty": "press",
@@ -249,8 +242,8 @@
           ]
         },
         {
-          "t": "試合は延長戦に突入した。",
-          "span": "延長に。",
+          "t": "ソフトバンクの庄子が決勝打を打った。",
+          "span": "庄子が決勝打",
           "src": [
             {
               "ty": "press",
@@ -259,18 +252,28 @@
           ]
         },
         {
-          "t": "延長戦でソフトバンクが勝ち越した。",
-          "span": "延長でSBが勝ち越し",
+          "t": "ソフトバンクは2年連続の日本一を目指している。",
+          "span": "2年連続の日本一を目指すソフトバンク",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ソフトバンクの山本祐投手が登板した。",
-          "span": "ソフトバンクの山本祐、勇姿届ける",
+          "t": "ソフトバンクの庄子は2年目の選手である。",
+          "span": "２年目、ソフトバンクの庄子が",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "プロ野球日本シリーズ第2戦の予告先発投手に関する情報がある。",
+          "span": "２５日の予告先発投手",
           "src": [
             {
               "ty": "press",
@@ -280,86 +283,16 @@
         }
       ],
       "positions": [],
-      "consensus": "プロ野球日本シリーズ第1戦は、DeNAとソフトバンクが対戦し、試合は延長戦となりソフトバンクが勝ち越した。DeNAの牧選手がホームランを打った。",
-      "note": "速報中の情報が含まれるため、試合結果は確定していません。",
+      "consensus": "プロ野球日本シリーズ第1戦でソフトバンクがDeNAに延長11回、3対1で勝利した。",
+      "note": "プライバシー配慮のため、選手の実名はそのまま記載。報道機関の名称はそのまま記載。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Trump administration sues to block certification of upcoming Alaska election",
-      "slug": "Trumpadministrationsuest",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400196&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "アラスカ州上院選の認証は、同姓同名の候補者による混乱を理由に阻止されるべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "米司法省がアラスカ州の次期選挙の認証を阻止するための訴訟を提起した。",
-          "span": "sues to block certification of upcoming Alaska election",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "アラスカ州上院選の共和党現職は、僅差で敗れた場合、認証阻止を検討している。",
-          "span": "惜敗なら認証阻止を",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "アラスカ州上院選には同姓同名の候補者がおり、具体的には「ダン・サリバン」という名前の候補者が2人いる。",
-          "span": "同姓同名",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "アラスカ州上院選の認証阻止の是非については、米司法省が同姓同名候補による混乱を理由に訴訟を提起しており、評価は割れる。アプリは裁定しない。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄に争点（アラスカ州上院選）と無関係な情報（セルビアの学生運動）が混入していたため、該当項目を削除しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-      "slug": "IransayswontallowUSwarsh",
+      "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "slug": "StudentmovementtakesSerb",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -368,27 +301,33 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss"
         }
       ],
-      "issue": "イランは米国市民に対する攻撃を計画しているか？",
-      "stasis": "事実",
+      "issue": "セルビアの選挙で、学生運動はブチッチ大統領に勝利するか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "オーストラリアの独立系国会議員の容体は、車両による襲撃とされる事件後、深刻だが安定した状態に回復した。",
-          "span": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
+          "t": "セルビアで早期選挙が行われている。",
+          "span": "Serbia is voting in an early election",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "学生運動「Student List」は、約2年間の反汚職デモから発展し、ブチッチ大統領にとって最大の対抗勢力となっている。",
+          "span": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's",
           "src": [
             {
               "ty": "press",
@@ -397,48 +336,8 @@
           ]
         },
         {
-          "t": "イラン当局は、米国艦船が接近することを認めない方針を示しており、トランプ大統領は新たな攻撃を検討している。",
-          "span": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イラン当局、メディア、アナリストは戦争が近づいていると感じているが、後退しない姿勢を示している。",
-          "span": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ヨルダンのアブドラ国王は、教会での致命的な攻撃の後、断固たる対応を命じた。",
-          "span": "Jordan’s King Abdullah orders firm response after deadly church attack",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "当局は攻撃者を捜索中で、既知のグループとの関連があるかどうかを判断するには時期尚早であるとしている。",
-          "span": "Authorities are still searching for the attackers and say it is too early to determine if they had ties to known groups.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米情報機関の文書は、中東における米国市民に対するイランの計画が「高度な段階に達した」と警告している。",
-          "span": "Iranian plots against US citizens in the Middle East &#039;have reached advanced stages&",
+          "t": "セルビアの選挙は、ブチッチ大統領にとって有力なライバルが存在する状況で行われている。",
+          "span": "where the most powerful politician in the country, has a serious rival.",
           "src": [
             {
               "ty": "press",
@@ -448,8 +347,58 @@
         }
       ],
       "positions": [],
-      "consensus": "オーストラリアの国会議員の容体は回復し、ヨルダンの教会襲撃事件の捜査が進められている。イランは米国艦船の接近を認めず、米国はイランによる米国市民への攻撃計画が進んでいると警告している。評価は割れる。",
-      "note": "プライバシー配慮のため、オーストラリアの国会議員の氏名は記載しない。イランと米国の間の緊張関係に関する複数の報道をまとめた。",
+      "consensus": "セルビアで早期選挙が行われ、学生運動がブチッチ大統領にとって最大の対抗勢力となっている。しかし、選挙の結果に関する評価は分かれている。",
+      "note": "ブラジルの選挙に関する情報は、セルビアの選挙とは直接関係がないため、この構造化からは除外しました。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
+      "slug": "GMO不正アクセス問題で政府に能動的サイバ防御を",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64764"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599979?source=rss"
+        }
+      ],
+      "issue": "GMOインターネットグループは政府に「能動的サイバー防御」を要請したが、政府側は慎重な姿勢か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "GMOインターネットグループは、投資家向けクラウドサービスが不正アクセスを受けた問題で、政府に「能動的サイバー防御」を緊急要請したことを明らかにした。",
+          "span": "投資家向けのクラウドサービスが不正アクセスを受けた問題で、政府に対し、被害の拡大を未然に防止するための「能動的サイバー防御」を緊急要請したことを明らかにしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "政府側は「能動的サイバー防御」の要請に対し、慎重な姿勢を示している。",
+          "span": "政府側慎重",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "GMOインターネットグループは政府に「能動的サイバー防御」を要請したが、政府側は慎重な姿勢である。",
+      "note": "本件は、GMOインターネットグループからの要請と、それに対する政府側の慎重な姿勢という構造を抽出した。政府側の具体的な慎重理由や、GMO側の要請の具体的な内容については、提示されたテキストからは詳細不明のため、事実として抽出していない。",
       "audit": {
         "changed": false,
         "issues": []
