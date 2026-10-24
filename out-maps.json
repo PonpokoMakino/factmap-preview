@@ -1,101 +1,15 @@
 {
-  "builtAt": "2026-10-23T22:36:19.763Z",
+  "builtAt": "2026-10-24T05:45:26.295Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-      "slug": "WhiteHousesaysMelaniaTru",
+      "headline": "台風３０号、先島諸島北方を北上へ　西日本は前線で大雨警戒―気象庁",
+      "slug": "台風号先島諸島北方を北上へ西日本は前線で大雨警戒",
       "independentSources": 4,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599882?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102301177&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/russia-ukraine-agree-to-melania-trump-brokered-localised-ceasefire?traffic_source=rss"
-        }
-      ],
-      "issue": "ウクライナ南部の都市オレシュキにおける停戦は、メラニア・トランプ氏の仲介によるものか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ウクライナ南部のオレシュキで局地的な停戦が合意された。",
-          "span": "ウクライナ南部で局地停戦",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "オレシュキは壊滅の危機に瀕しており、住民は食料不足から庭の雑草を食べて生き延びる状況にあった。",
-          "span": "where residents have had to eat garden weeds to surviv",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ロシア占領下のオレシュキで停戦が確認された。",
-          "span": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "停戦は、メラニア・トランプ氏のイニシアチブによってもたらされたとトランプ大統領が発言した。",
-          "span": "President Trump says it was First Lady Melania Trump’s initiative that led to a ceasefire in Oleshky.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ウクライナ南部のオレシュキで局地的な停戦が合意され、ロシアとウクライナ双方がこれを認めている。この停戦はメラニア・トランプ氏の仲介によるものだと報じられている。",
-      "note": "プライバシー配慮のため、一般市民の実名は伏せられています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimを「〜と述べている／と報じられている」形式に修正しました。",
-          "positionsのactor「メラニア・トランプ氏」のclaimを「停戦を仲介した」から「停戦を仲介したと報じられている」に修正しました（BBC Worldの報道に基づくため）。",
-          "positionsのactor「米ホワイトハウス」のclaimを「ウクライナ南部で局地停戦が成立した」から「ウクライナ南部で局地停戦が成立したと発表した」に修正しました（時事ドットコムの報道に基づくため）。",
-          "positionsのactor「ロシア」のclaimを「停戦に合意した」から「停戦に合意したと確認した」に修正しました（Al Jazeeraの報道に基づくため）。",
-          "positionsのactor「ウクライナ」のclaimを「停戦に合意した」から「停戦に合意したと確認した」に修正しました（Al Jazeeraの報道に基づくため）。",
-          "positionsのactor「トランプ大統領」のclaimを「メラニア・トランプ氏のイニシアチブが停戦につながった」から「メラニア・トランプ氏のイニシアチブが停戦につながったと述べた」に修正しました（Al Jazeeraの報道に基づくため）。"
-        ]
-      }
-    },
-    {
-      "headline": "台風31号が日本のはるか南東の海上で発生 今後の情報に注意を",
-      "slug": "台風31号が日本のはるか南東の海上で発生今後の情",
-      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "気象庁 気象警報・注意報"
       ],
       "links": [
@@ -105,59 +19,59 @@
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64647"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64639"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64655"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599881?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6599921?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102400245&g=soc&m=rss"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023223351_0_VPWW53_240000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024053811_0_VPWW54_240000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023223351_0_VPWW54_240000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024053811_0_VPWW53_240000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023223336_0_VPWW56_240000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024053808_0_VPWW56_240000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023222140_0_VPWW53_474000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024045940_0_VPFJ51_474000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023222140_0_VPWW54_474000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024045940_0_VPFJ50_474000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023222034_0_VPWW53_473000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024043455_0_VPWW53_200000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023222034_0_VPWW54_473000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024043455_0_VPWW54_200000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023220721_0_VPWW54_240000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023220721_0_VPWW53_240000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261023220708_0_VPWW55_240000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024043450_0_VPWW61_200000.xml"
         }
       ],
-      "issue": "台風30号および31号の進路と影響はどうか？",
+      "issue": "台風30号の現在の状況と影響は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "大型で強い台風30号は沖縄県の先島諸島を暴風域に巻き込み、ほとんど停滞している。",
-          "span": "大型で強い台風30号は沖縄県の先島諸島を暴風域に巻き込んでほとんど停滞していて",
+          "t": "大型台風30号が先島諸島に接近している。",
+          "span": "先島諸島に接近していて",
           "src": [
             {
               "ty": "press",
@@ -166,9 +80,73 @@
           ]
         },
         {
-          "t": "台風30号は九州へ向かっている。",
-          "span": "強い台風30号は九州へ",
+          "t": "先島諸島では局地的に激しい雨が降っている。",
+          "span": "局地的に激しい雨が降っています",
           "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "先島諸島の一部は暴風域に入っている。",
+          "span": "先島諸島の一部は暴風域に入っていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "先島諸島では高波や土砂災害、低い土地の浸水などへの厳重な警戒が呼びかけられている。",
+          "span": "高波や土砂災害、低い土地の浸水などに厳重に警戒し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "先島諸島では不要不急の外出を控えるよう呼びかけられている。",
+          "span": "不要不急の外出は控えてください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台風30号は24日明け方にかけて台湾に最も接近した。",
+          "span": "台風30号は24日明け方にかけて台湾に最も接近し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台湾では倒木などの被害が相次いだ。",
+          "span": "倒木などの被害が相次ぎ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "台湾ではこれまでに1人が死亡し、500人以上がけがをした。",
+          "span": "1人が死亡し、500人以上がけがをしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
@@ -176,8 +154,8 @@
           ]
         },
         {
-          "t": "24日午前、日本のはるか南東の海上で台風31号が発生した。",
-          "span": "24日午前、日本のはるか南東の海上で台風31号が発生しました",
+          "t": "台湾北部や中部では休校などの措置がとられた。",
+          "span": "北部や中部では休校などの措置がとられ",
           "src": [
             {
               "ty": "press",
@@ -186,125 +164,92 @@
           ]
         },
         {
-          "t": "三重県南部では、低い土地の浸水に警戒が必要である。",
-          "span": "南部では、低い土地の浸水に警戒してください",
+          "t": "台風30号は先島諸島北方を北上する見込み。",
+          "span": "先島諸島北方を北上へ",
           "src": [
             {
               "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "西日本では前線の影響で大雨が警戒されている。",
+          "span": "西日本は前線で大雨警戒",
+          "src": [
             {
               "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "三重県南部では土砂災害や高波に注意するよう呼びかけられている。",
+          "span": "南部では、土砂災害や高波に注意してください",
+          "src": [
+            {
+              "ty": "prim",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "三重県南部では、土砂災害に注意が必要である。",
-          "span": "南部では、土砂災害に注意してください",
+          "t": "八重山地方の暴風警報は強風注意報に切り替えられた。",
+          "span": "八重山地方の暴風警報を強風注意報に切り替えました",
           "src": [
             {
-              "ty": "press",
+              "ty": "prim",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "八重山地方では、土砂災害に厳重に警戒が必要である。",
-          "span": "八重山地方では、土砂災害に厳重に警戒してください",
+          "t": "八重山地方では24日に非常に強い風に十分注意するよう呼びかけられている。",
+          "span": "２４日は非常に強い風に十分注意してください",
           "src": [
             {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
+              "ty": "prim",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "宮古島地方では、土砂災害に厳重に警戒が必要である。",
-          "span": "宮古島地方では、土砂災害に厳重に警戒してください",
+          "t": "八重山地方では海上は猛烈なしけとなっている。",
+          "span": "海上は猛烈なしけとなっています",
           "src": [
             {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
+              "ty": "prim",
               "l": "気象庁 気象警報・注意報"
             }
           ]
         },
         {
-          "t": "三重県南部では、土砂災害や低い土地の浸水に警戒が必要である。",
-          "span": "南部では、土砂災害や低い土地の浸水に警戒してください",
+          "t": "八重山地方ではうねりを伴った高波、土砂災害、低い土地の浸水に厳重な警戒が呼びかけられている。",
+          "span": "うねりを伴った高波、土砂災害に厳重に警戒し、低い土地の浸",
           "src": [
             {
-              "ty": "press",
+              "ty": "prim",
               "l": "気象庁 気象警報・注意報"
-            },
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "三重県南部では、低い土地の浸水や河川の増水に警戒が必要である。",
-          "span": "南部では、低い土地の浸水や河川の増水に警戒してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "沖縄県では、暴風や高波、土砂災害や低い土地の浸水、川の増水に厳重な警戒が必要である。",
-          "span": "沖縄県では引き続き、暴風や高波、土砂災害や低い土地の浸水、川の増水に厳重に警戒してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "西日本では、非…（情報不完全）",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "九州では警報級の大雨に警戒が必要である。",
-          "span": "警報級大雨",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "台風30号は沖縄県先島諸島を暴風域に巻き込み停滞し、九州へ向かっている。台風31号が日本のはるか南東の海上で発生した。各地で暴風、大雨、高波、土砂災害、低い土地の浸水、川の増水への警戒が呼びかけられている。",
-      "note": "一部の情報源で日付や警報・注意報の種別（H27, R06）に関する表記揺れが見られるが、事象自体は同一と判断した。西日本に関する情報は途中で途切れている。",
+      "consensus": "台風30号は先島諸島に接近し、台湾では死傷者が出た。日本各地で大雨や強風、高波、土砂災害への警戒が呼びかけられている。評価は割れない。",
+      "note": null,
       "audit": {
-        "changed": false,
+        "changed": true,
         "issues": [
-          "fact spanが原文に無い→除去「西日本では、非……」"
+          "事実欄への評価混入: facts[3].t が「厳重な警戒が必要」と評価的に記述されていたため、「厳重な警戒が呼びかけられている」と修正しました。",
+          "事実欄への評価混入: facts[11].t が「注意が必要」と評価的に記述されていたため、「注意するよう呼びかけられている」と修正しました。",
+          "事実欄への評価混入: facts[13].t が「注意が必要」と評価的に記述されていたため、「注意するよう呼びかけられている」と修正しました。",
+          "事実欄への評価混入: facts[15].t が「厳重な警戒が必要」と評価的に記述されていたため、「厳重な警戒が呼びかけられている」と修正しました。"
         ]
       }
     },
     {
-      "headline": "松井氏、０２年以来の巨人復帰　年俸２億円、３年契約―プロ野球",
-      "slug": "松井氏年以来の巨人復帰年俸億円年契約プロ野球",
+      "headline": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+      "slug": "GMOFX取引のサバに不正アクセス口座で不正操作",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -314,35 +259,41 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64015"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64764"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64076"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599877?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6599928?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102301036&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102300496&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102301071&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102300897&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102301185&g=soc&m=rss"
         }
       ],
-      "issue": "松井秀喜氏は巨人の新監督として「新たな黄金時代」を築けるか？",
+      "issue": "不正アクセス問題への対応として、能動的サイバー防御の導入は検討されるべきか？",
       "stasis": "政策",
       "facts": [
         {
-          "t": "プロ野球、巨人の新しい監督に松井秀喜氏が就任した。",
-          "span": "新しい監督に、巨人のスター選手として活躍し、大リーグのヤンキースなどでもプレーした松井秀喜氏が就任",
+          "t": "IT大手のGMOインターネットグループが投資家向けに提供している自動取引のサーバーが不正アクセスを受けた。",
+          "span": "自動取引のサーバーが不正アクセスを受けた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "この不正アクセスにより、FX取引を行う利用者の口座IDやパスワードなどが不正に取得された可能性がある。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -351,57 +302,101 @@
           ]
         },
         {
-          "t": "松井秀喜氏は、巨人のスター選手として活躍し、大リーグのヤンキースなどでもプレーした経験を持つ。",
-          "span": "巨人のスター選手として活躍し、大リーグのヤンキースなどでもプレーした",
+          "t": "環境省のメールサービスも不正アクセスを受け、2万件を超える個人情報が流出した可能性がある。",
+          "span": "個人情報２万件超流出か",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "松井秀喜氏は2002年以来の巨人復帰となる。",
-          "span": "０２年以来の巨人復帰",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "松井秀喜氏の契約は年俸2億円、3年契約である。",
-          "span": "年俸２億円、３年契約",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "松井秀喜氏は、長嶋茂雄氏が背負っていた背番号「90」を背負う。",
-          "span": "長嶋さんの「９０」背負う",
-          "src": [
-            {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "松井秀喜氏が巨人の新監督に就任し、「新たな黄金時代」を築く意気込みを語った。王貞治氏もエールを送っている。",
-      "note": "24日の予告先発投手に関する情報は、本件の争点とは直接関係がないため、事実としては取り上げない。",
+      "consensus": "GMOインターネットグループと環境省のシステムが不正アクセスを受け、情報流出の可能性が指摘されている。これに対し、GMOは政府に「能動的サイバー防御」を緊急要請しており、その導入の是非については評価が分かれる可能性がある。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[1].span: 元テキストの「可能性」が途中で切れていたため、「IDやパスワードなどが不正に取得された可能性」に修正しました。",
+          "issue: テキストに能動的サイバー防御の導入に関する賛否両論の記述がないため、issueを「不正アクセス問題への対応として、能動的サイバー防御の導入は検討されるべきか？」に変更し、GMOの要請がこの問いに対する立場を示す形に修正しました。",
+          "positions[0].claim: 元テキストの言い回しをなぞっていたため、著作権に配慮し、かつメタ記述（〜と報じられており、〜と述べている）を徹底する形で再記述しました。"
+        ]
       }
     },
     {
-      "headline": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-      "slug": "DeadlyshootingnearParisi",
+      "headline": "Trump administration sues to block certification of upcoming Alaska election",
+      "slug": "Trumpadministrationsuest",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102400196&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "アラスカ州上院選の認証は、同姓同名の候補者による混乱を理由に阻止されるべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "米司法省がアラスカ州の次期選挙の認証を阻止するための訴訟を提起した。",
+          "span": "sues to block certification of upcoming Alaska election",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アラスカ州上院選の共和党現職は、僅差で敗れた場合、認証阻止を検討している。",
+          "span": "惜敗なら認証阻止を",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "アラスカ州上院選には同姓同名の候補者がおり、具体的には「ダン・サリバン」という名前の候補者が2人いる。",
+          "span": "同姓同名",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "アラスカ州上院選の認証阻止の是非については、米司法省が同姓同名候補による混乱を理由に訴訟を提起しており、評価は割れる。アプリは裁定しない。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "事実欄に争点（アラスカ州上院選）と無関係な情報（セルビアの学生運動）が混入していたため、該当項目を削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+      "slug": "Argentinianjudgedropsfra",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -410,23 +405,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss"
         }
       ],
-      "issue": "パリ近郊で発生した銃撃事件について、マクロン大統領はどのような見解を示したか？",
-      "stasis": "事実合意",
+      "issue": "アルゼンチン大統領ミレイ氏の仮想通貨関連の行為は詐欺的であったか？",
+      "stasis": "評価・予測",
       "facts": [
         {
-          "t": "パリ近郊での銃撃事件で1人が死亡した。",
-          "span": "One person is killed",
+          "t": "アルゼンチンがミレイ大統領に対する仮想通貨詐欺疑惑の捜査を中止した。",
+          "span": "drops investigation into President Milei over crypto fraud",
           "src": [
             {
               "ty": "press",
@@ -435,8 +430,8 @@
           ]
         },
         {
-          "t": "パリ近郊での銃撃事件で5人が負傷した。",
-          "span": "five wounded",
+          "t": "ある仮想通貨が急落した。",
+          "span": "a cryptocurrency nosedived",
           "src": [
             {
               "ty": "press",
@@ -445,8 +440,8 @@
           ]
         },
         {
-          "t": "パリ近郊の銃撃事件で容疑者が拘束された。",
-          "span": "the suspected gunman has been apprehended",
+          "t": "ミレイ氏がソーシャルメディアの投稿を削除した。",
+          "span": "deleted a social media post",
           "src": [
             {
               "ty": "press",
@@ -455,38 +450,8 @@
           ]
         },
         {
-          "t": "ヨルダンの教会での葬儀で銃撃により7人が死亡した。",
-          "span": "Seven shot dead by gunmen",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ヨルダンの教会での葬儀での銃撃により34人が負傷した。",
-          "span": "Thirty-four people are also injured",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ヨルダン南部のカラク県にある教会での葬儀で銃撃事件が発生した。",
-          "span": "at church funeral in Jordan",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ヨルダンの事件では2人の覆面をした銃撃犯が発砲した。",
-          "span": "two masked gunmen opened fire",
+          "t": "法医学人類学者が、アルゼンチン最後の軍事独裁政権下で殺害された少なくとも38人の犠牲者の遺骨を特定した。",
+          "span": "identified the remains of at least 38 victims of Argentina’s last military dictatorship",
           "src": [
             {
               "ty": "press",
@@ -495,23 +460,27 @@
           ]
         },
         {
-          "t": "ヨルダンの事件では現在、犯人捜索が行われている。",
-          "span": "a manhunt is now under way",
+          "t": "アルゼンチンの裁判官が、ミレイ氏に対する仮想通貨スキャンダルに関する詐欺捜査を中止した。",
+          "span": "drops fraud investigation into Milei over crypto scandal",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "パリ近郊とヨルダンでそれぞれ銃撃事件が発生し、多数の死傷者が出た。パリの事件について、マクロン大統領は「人種差別的なテロ攻撃」と分類する見解を示した。",
-      "note": null,
+      "consensus": "ミレイ大統領に対する仮想通貨詐欺疑惑の捜査は中止され、裁判官は彼の行為が詐欺的ではないと判断した。評価は割れていない。",
+      "note": "記事には、ミレイ大統領の仮想通貨スキャンダルとは無関係な、アルゼンチンの「汚い戦争」の犠牲者特定に関する事実も含まれている。",
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: テキストに実在の対立がないため、issueをマクロン大統領の見解を問う形に修正し、stasisを「事実合意」に変更した。それに伴いconsensusも修正した。"
+          "facts[2].spanが空文字だったため、元テキストの最小核「deleted a social media post」に修正しました。",
+          "positions[0].claimが地の文の断定になっていたため、メタ記述「と述べている」を追加しました。",
+          "positions[1].claimが地の文の断定になっていたため、メタ記述「と判断した」を追加しました。",
+          "positions[1].premisesが、主張の根拠ではなく、主張によって引き起こされた事実を参照していたため、空配列に修正しました。",
+          "fact spanが原文に無い→除去「he deleted a socia…」"
         ]
       }
     }
