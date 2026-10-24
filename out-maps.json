@@ -1,25 +1,152 @@
 {
-  "builtAt": "2026-10-24T19:23:08.933Z",
+  "builtAt": "2026-10-24T21:44:21.373Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風30号 台湾で1人死亡 600人以上けが 日本人学校で門倒れる",
-      "slug": "台風30号台湾で1人死亡600人以上けが日本人学",
-      "independentSources": 4,
+      "headline": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "slug": "KimJongUncrossesnewbridg",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "気象庁 気象警報・注意報"
+        "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64650"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de64976"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64639"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64966"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102400321&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102400459&g=int&m=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss"
+        }
+      ],
+      "issue": "ウクライナ南部での限定停戦と金正恩総書記の訪中という国際情勢の主要な出来事について、関係者や報道機関はどのような意図や影響を表明・予測しているか？",
+      "stasis": "記述・解釈",
+      "facts": [
+        {
+          "t": "ウクライナ南部で限定停戦が合意された。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この停戦合意はアメリカの仲介によって発表された。",
+          "span": "アメリカの仲介で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "北朝鮮のキム・ジョンウン総書記は24日に中国東北部の都市を訪問した。",
+          "span": "中国東北部の都市を訪問し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "キム総書記は中国共産党の最高指導部のメンバーと会談した。",
+          "span": "中国共産党の最高指導部のメンバーと会談しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "キム総書記の訪中は1年ぶりである。",
+          "span": "１年ぶり訪中",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "キム総書記は新しい橋を利用して中朝国境を越えた。",
+          "span": "新大橋を利用",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "キム総書記は中国序列4位の人物と会談した。",
+          "span": "中国序列４位と会談",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "キム・ジョンウン総書記は北朝鮮と中国を結ぶ新しい橋を渡った。",
+          "span": "Kim Jong Un crosses new bridge linking North Korea and China",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ウクライナ南部での限定停戦合意と金正恩総書記の訪中という主要な国際情勢の出来事については事実として合意されているが、それらの意図や影響については関係者の見解や予測が示されている。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "issue: 複数の独立した出来事を一つの争点として結合していたため、記述的な問いに修正しました。",
+          "stasis: 争点に賛否の対立が見られないため、「評価・予測（割れる）」から「記述・解釈」に修正しました。",
+          "positions[0].claim: 地の文の断定になっていたため、発言主体が「〜と述べている」というメタ記述の形式に修正しました。",
+          "positions[1].claim: 地の文の断定になっていたため、報道機関の解釈であることを示す「〜と報じられている」というメタ記述の形式に修正しました。",
+          "positions[1].span: 空文字だったため、元テキストから主張の最小核となる句「中国と意思疎通を図るねらい」を抽出しました。",
+          "positions[2].claim: 地の文の断定になっていたため、報道機関の解釈であることを示す「〜と報じられている」というメタ記述の形式に修正しました。",
+          "fact spanが原文に無い→除去「限定停戦の合意が発表された…」",
+          "position spanが原文に無い→除去「中国と意思疎通を図るねらい…」"
+        ]
+      }
+    },
+    {
+      "headline": "台風３０号、２６日に九州接近か　東・西日本は前線で大雨警戒―気象庁",
+      "slug": "台風号日に九州接近か東西日本は前線で大雨警戒気象",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64932"
         },
         {
           "source": "Yahoo!ニュース 主要",
@@ -31,31 +158,15 @@
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400245&g=soc&m=rss"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024133151_0_VPWW53_474000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024133151_0_VPWW54_474000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024132319_0_VPWW53_474000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024132319_0_VPWW54_474000.xml"
+          "link": "https://www.jiji.com/jc/article?k=2026102400245&g=wth&m=rss"
         }
       ],
-      "issue": "台風30号は西日本に接近し、大雨をもたらすか？",
-      "stasis": "事実",
+      "issue": "台風30号の進路と日本への影響は何か？",
+      "stasis": "評価・予測",
       "facts": [
         {
-          "t": "大型の台風30号は東シナ海を北上しており、25日午後には東寄りに進路を変え西日本に接近する見込みである。",
-          "span": "大型の台風30号は、東シナ海を北上していて、25日午後には東寄りに進路を変え西日本に接近する見込みです",
+          "t": "大型台風30号は東シナ海を北上している。",
+          "span": "東シナ海を北上していて",
           "src": [
             {
               "ty": "press",
@@ -64,8 +175,8 @@
           ]
         },
         {
-          "t": "台風30号が接近した台湾では、各地で強い風が吹き、建物や樹木が倒れる被害が相次いだ。",
-          "span": "各地で強い風が吹き、建物や樹木が倒れる被害が相次ぎました",
+          "t": "台風30号はしだいに東寄りに進路を変え、九州に接近する見込み。",
+          "span": "しだいに東寄りに進路を変え九州に接近する見込み",
           "src": [
             {
               "ty": "press",
@@ -74,8 +185,28 @@
           ]
         },
         {
-          "t": "台湾では台風30号により1人が死亡し、600人以上がけがをした。",
-          "span": "台湾で1人死亡 600人以上けが",
+          "t": "台風30号は先島諸島北方を北上する。",
+          "span": "先島諸島北方を北上へ",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "台風30号は26日に九州に接近する可能性がある。",
+          "span": "２６日に九州接近か",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "本州付近に前線が停滞している。",
+          "span": "本州付近に停滞する前線に",
           "src": [
             {
               "ty": "press",
@@ -84,8 +215,8 @@
           ]
         },
         {
-          "t": "台風30号の影響で、日本人学校で門が倒れる被害があった。",
-          "span": "日本人学校で門倒れる",
+          "t": "台風から暖かく湿った空気が前線に流れ込む影響がある。",
+          "span": "台風から暖かく湿った空気が流れ込む影響で",
           "src": [
             {
               "ty": "press",
@@ -94,8 +225,8 @@
           ]
         },
         {
-          "t": "西日本から東日本では、前線により大雨のおそれがある。",
-          "span": "西～東日本で大雨のおそれ",
+          "t": "東日本と西日本の広い範囲で27日に大雨のおそれがある。",
+          "span": "東日本と西日本の広い範囲で27日にか…",
           "src": [
             {
               "ty": "press",
@@ -104,7 +235,7 @@
           ]
         },
         {
-          "t": "西日本から東日本では、26日が雨のピークになると予想されている。",
+          "t": "西日本から東日本では26日が雨のピークとなる。",
           "span": "西-東日本26日が雨ピークに",
           "src": [
             {
@@ -114,185 +245,37 @@
           ]
         },
         {
-          "t": "気象庁は、台風30号が26日に九州に接近する可能性があり、東・西日本では前線による大雨に警戒が必要だと発表している。",
-          "span": "台風３０号、２６日に九州接近か　東・西日本は前線で大雨警戒",
+          "t": "気象庁は、東日本と西日本で前線による大雨に警戒を呼びかけている。",
+          "span": "東・西日本は前線で大雨警戒",
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "気象庁は、台風30号が先島諸島北方を通って北上する見込みであり、西日本では前線による大雨に警戒が必要だと発表している。",
-          "span": "台風３０号、先島諸島北方を北上へ　西日本は前線で大雨警戒",
+          "t": "気象庁は、西日本で前線による大雨に警戒を呼びかけている。",
+          "span": "西日本は前線で大雨警戒",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "沖縄県の石垣島地方では、土砂災害に注意が必要である。",
-          "span": "石垣島地方では、土砂災害に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "沖縄県の八重山地方では、強風や高波、落雷に注意が必要である。",
-          "span": "八重山地方では、強風や高波、落雷に注意してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "沖縄県の八重山地方では、高波に警戒が必要である。",
-          "span": "八重山地方では、高波に警戒してください",
-          "src": [
-            {
-              "ty": "op",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "沖縄県の雨や風のピークは過ぎたが、引き続き土砂災害に厳重な警戒が必要である。",
-          "span": "沖縄県の雨や風のピークは過ぎましたが、引き続き、土砂災害に厳重に警戒してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風30号は西日本に接近し、西日本から東日本では大雨となるおそれがある。沖縄県では土砂災害、強風、高波、落雷に注意・警戒が必要である。台湾では台風により死傷者が出ている。",
-      "note": "気象庁の発表は、過去の発表（H27）と最新の発表が混在しているが、内容は同一であるため、事実として統合した。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "２年目、ソフトバンクの庄子が激戦にけり　横浜スタジアムで躍動―プロ野球・日本シリーズ",
-      "slug": "年目ソフトバンクの庄子が激戦にけり横浜スタジアム",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64830"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400419&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400517&g=spo&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400527&g=spo&m=rss"
-        }
-      ],
-      "issue": "プロ野球日本シリーズ第1戦でソフトバンクはDeNAに勝利したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "プロ野球日本シリーズ第1戦でソフトバンクがDeNAに延長11回、3対1で勝利した。",
-          "span": "延長11回、3対1で勝ちました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ソフトバンクは7回に先制した。",
-          "span": "7回にソフトバンクが先制し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "DeNAは8回に牧秀悟選手のホームランで追いついた。",
-          "span": "DeNAが8回に牧秀悟選手のホームランで追いつ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ソフトバンクの庄子が決勝打を打った。",
-          "span": "庄子が決勝打",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ソフトバンクは2年連続の日本一を目指している。",
-          "span": "2年連続の日本一を目指すソフトバンク",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ソフトバンクの庄子は2年目の選手である。",
-          "span": "２年目、ソフトバンクの庄子が",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "プロ野球日本シリーズ第2戦の予告先発投手に関する情報がある。",
-          "span": "２５日の予告先発投手",
-          "src": [
-            {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "プロ野球日本シリーズ第1戦でソフトバンクがDeNAに延長11回、3対1で勝利した。",
-      "note": "プライバシー配慮のため、選手の実名はそのまま記載。報道機関の名称はそのまま記載。",
+      "consensus": "台風30号は東シナ海を北上し、九州に接近する見込みで、前線の影響により東日本と西日本で大雨が予想される。評価は割れず、アプリは裁定しない。",
+      "note": null,
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "slug": "StudentmovementtakesSerb",
+      "headline": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+      "slug": "Almost1000arrestedasclas",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -301,33 +284,39 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss"
         }
       ],
-      "issue": "セルビアの選挙で、学生運動はブチッチ大統領に勝利するか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "フランスで大規模デモの後に発生した衝突で、約1000人が逮捕されたか？",
+      "stasis": "facts",
       "facts": [
         {
-          "t": "セルビアで早期選挙が行われている。",
-          "span": "Serbia is voting in an early election",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "学生運動「Student List」は、約2年間の反汚職デモから発展し、ブチッチ大統領にとって最大の対抗勢力となっている。",
-          "span": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's",
+          "t": "フランス全土で大規模デモが行われ、衝突が発生し、約1000人が逮捕された。",
+          "span": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
           "src": [
             {
               "ty": "press",
@@ -336,8 +325,18 @@
           ]
         },
         {
-          "t": "セルビアの選挙は、ブチッチ大統領にとって有力なライバルが存在する状況で行われている。",
-          "span": "where the most powerful politician in the country, has a serious rival.",
+          "t": "当局は、先週末のような暴動や略奪の再発を回避することに成功した。",
+          "span": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "パリでは、2週連続で数千人の抗議者が街頭に繰り出した。",
+          "span": "Thousands of protesters are on the streets of Paris for a second weekend.",
           "src": [
             {
               "ty": "press",
@@ -347,58 +346,62 @@
         }
       ],
       "positions": [],
-      "consensus": "セルビアで早期選挙が行われ、学生運動がブチッチ大統領にとって最大の対抗勢力となっている。しかし、選挙の結果に関する評価は分かれている。",
-      "note": "ブラジルの選挙に関する情報は、セルビアの選挙とは直接関係がないため、この構造化からは除外しました。",
+      "consensus": "フランス全土で大規模デモが行われ、衝突が発生し、約1000人が逮捕された。当局は先週末のような暴動や略奪の再発を回避することに成功した。パリでは2週連続で数千人の抗議者が街頭に繰り出した。",
+      "note": "プライバシー配慮のため、個別の事件や人物の特定情報は省略した。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
-      "slug": "GMO不正アクセス問題で政府に能動的サイバ防御を",
+      "headline": "Three released without charge after fatal arson attack in Ireland",
+      "slug": "Threereleasedwithoutchar",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64764"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599979?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
         }
       ],
-      "issue": "GMOインターネットグループは政府に「能動的サイバー防御」を要請したが、政府側は慎重な姿勢か？",
-      "stasis": "政策",
+      "issue": "アイルランドでの致命的な放火事件に関連して3人が釈放されたか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "GMOインターネットグループは、投資家向けクラウドサービスが不正アクセスを受けた問題で、政府に「能動的サイバー防御」を緊急要請したことを明らかにした。",
-          "span": "投資家向けのクラウドサービスが不正アクセスを受けた問題で、政府に対し、被害の拡大を未然に防止するための「能動的サイバー防御」を緊急要請したことを明らかにしました",
+          "t": "アイルランドでの致命的な放火事件後、3人（女性2人、男性1人）が起訴なしで釈放された。",
+          "span": "Three released without charge after fatal arson attack",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "政府側は「能動的サイバー防御」の要請に対し、慎重な姿勢を示している。",
-          "span": "政府側慎重",
+          "t": "1人が勾留されたままであると、アイルランド警察（gardaí）が述べている。",
+          "span": "one person remains in custody, gardaí say",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "GMOインターネットグループは政府に「能動的サイバー防御」を要請したが、政府側は慎重な姿勢である。",
-      "note": "本件は、GMOインターネットグループからの要請と、それに対する政府側の慎重な姿勢という構造を抽出した。政府側の具体的な慎重理由や、GMO側の要請の具体的な内容については、提示されたテキストからは詳細不明のため、事実として抽出していない。",
+      "consensus": "アイルランドでの致命的な放火事件後、3人が起訴なしで釈放され、1人が勾留されたままであるという事実が報じられている。評価は割れない。",
+      "note": "",
       "audit": {
         "changed": false,
         "issues": []
