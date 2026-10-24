@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-10-24T05:45:26.295Z",
+  "builtAt": "2026-10-24T13:39:33.857Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "台風３０号、先島諸島北方を北上へ　西日本は前線で大雨警戒―気象庁",
-      "slug": "台風号先島諸島北方を北上へ西日本は前線で大雨警戒",
+      "headline": "台風30号 台湾で1人死亡 600人以上けが 日本人学校で門倒れる",
+      "slug": "台風30号台湾で1人死亡600人以上けが日本人学",
       "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
@@ -22,12 +22,12 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20261024de64639"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64655"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6599973?source=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599921?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102400388&g=soc&m=rss"
         },
         {
           "source": "時事ドットコム",
@@ -35,43 +35,27 @@
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024053811_0_VPWW54_240000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024133151_0_VPWW53_474000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024053811_0_VPWW53_240000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024133151_0_VPWW54_474000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024053808_0_VPWW56_240000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024132319_0_VPWW53_474000.xml"
         },
         {
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024045940_0_VPFJ51_474000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024045940_0_VPFJ50_474000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024043455_0_VPWW53_200000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024043455_0_VPWW54_200000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024043450_0_VPWW61_200000.xml"
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261024132319_0_VPWW54_474000.xml"
         }
       ],
-      "issue": "台風30号の現在の状況と影響は何か？",
+      "issue": "台風30号は西日本に接近し、大雨をもたらすか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "大型台風30号が先島諸島に接近している。",
-          "span": "先島諸島に接近していて",
+          "t": "大型の台風30号は東シナ海を北上しており、25日午後には東寄りに進路を変え西日本に接近する見込みである。",
+          "span": "大型の台風30号は、東シナ海を北上していて、25日午後には東寄りに進路を変え西日本に接近する見込みです",
           "src": [
             {
               "ty": "press",
@@ -80,8 +64,8 @@
           ]
         },
         {
-          "t": "先島諸島では局地的に激しい雨が降っている。",
-          "span": "局地的に激しい雨が降っています",
+          "t": "台風30号が接近した台湾では、各地で強い風が吹き、建物や樹木が倒れる被害が相次いだ。",
+          "span": "各地で強い風が吹き、建物や樹木が倒れる被害が相次ぎました",
           "src": [
             {
               "ty": "press",
@@ -90,8 +74,8 @@
           ]
         },
         {
-          "t": "先島諸島の一部は暴風域に入っている。",
-          "span": "先島諸島の一部は暴風域に入っていて",
+          "t": "台湾では台風30号により1人が死亡し、600人以上がけがをした。",
+          "span": "台湾で1人死亡 600人以上けが",
           "src": [
             {
               "ty": "press",
@@ -100,8 +84,8 @@
           ]
         },
         {
-          "t": "先島諸島では高波や土砂災害、低い土地の浸水などへの厳重な警戒が呼びかけられている。",
-          "span": "高波や土砂災害、低い土地の浸水などに厳重に警戒し",
+          "t": "台風30号の影響で、日本人学校で門が倒れる被害があった。",
+          "span": "日本人学校で門倒れる",
           "src": [
             {
               "ty": "press",
@@ -110,8 +94,8 @@
           ]
         },
         {
-          "t": "先島諸島では不要不急の外出を控えるよう呼びかけられている。",
-          "span": "不要不急の外出は控えてください",
+          "t": "西日本から東日本では、前線により大雨のおそれがある。",
+          "span": "西～東日本で大雨のおそれ",
           "src": [
             {
               "ty": "press",
@@ -120,33 +104,9 @@
           ]
         },
         {
-          "t": "台風30号は24日明け方にかけて台湾に最も接近した。",
-          "span": "台風30号は24日明け方にかけて台湾に最も接近し",
+          "t": "西日本から東日本では、26日が雨のピークになると予想されている。",
+          "span": "西-東日本26日が雨ピークに",
           "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台湾では倒木などの被害が相次いだ。",
-          "span": "倒木などの被害が相次ぎ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台湾ではこれまでに1人が死亡し、500人以上がけがをした。",
-          "span": "1人が死亡し、500人以上がけがをしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
@@ -154,102 +114,77 @@
           ]
         },
         {
-          "t": "台湾北部や中部では休校などの措置がとられた。",
-          "span": "北部や中部では休校などの措置がとられ",
+          "t": "気象庁は、台風30号が26日に九州に接近する可能性があり、東・西日本では前線による大雨に警戒が必要だと発表している。",
+          "span": "台風３０号、２６日に九州接近か　東・西日本は前線で大雨警戒",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、台風30号が先島諸島北方を通って北上する見込みであり、西日本では前線による大雨に警戒が必要だと発表している。",
+          "span": "台風３０号、先島諸島北方を北上へ　西日本は前線で大雨警戒",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "沖縄県の石垣島地方では、土砂災害に注意が必要である。",
+          "span": "石垣島地方では、土砂災害に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "沖縄県の八重山地方では、強風や高波、落雷に注意が必要である。",
+          "span": "八重山地方では、強風や高波、落雷に注意してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "沖縄県の八重山地方では、高波に警戒が必要である。",
+          "span": "八重山地方では、高波に警戒してください",
+          "src": [
+            {
+              "ty": "op",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "沖縄県の雨や風のピークは過ぎたが、引き続き土砂災害に厳重な警戒が必要である。",
+          "span": "沖縄県の雨や風のピークは過ぎましたが、引き続き、土砂災害に厳重に警戒してください",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
-        },
-        {
-          "t": "台風30号は先島諸島北方を北上する見込み。",
-          "span": "先島諸島北方を北上へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "西日本では前線の影響で大雨が警戒されている。",
-          "span": "西日本は前線で大雨警戒",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "三重県南部では土砂災害や高波に注意するよう呼びかけられている。",
-          "span": "南部では、土砂災害や高波に注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "八重山地方の暴風警報は強風注意報に切り替えられた。",
-          "span": "八重山地方の暴風警報を強風注意報に切り替えました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "八重山地方では24日に非常に強い風に十分注意するよう呼びかけられている。",
-          "span": "２４日は非常に強い風に十分注意してください",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "八重山地方では海上は猛烈なしけとなっている。",
-          "span": "海上は猛烈なしけとなっています",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "八重山地方ではうねりを伴った高波、土砂災害、低い土地の浸水に厳重な警戒が呼びかけられている。",
-          "span": "うねりを伴った高波、土砂災害に厳重に警戒し、低い土地の浸",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
         }
       ],
       "positions": [],
-      "consensus": "台風30号は先島諸島に接近し、台湾では死傷者が出た。日本各地で大雨や強風、高波、土砂災害への警戒が呼びかけられている。評価は割れない。",
-      "note": null,
+      "consensus": "台風30号は西日本に接近し、西日本から東日本では大雨となるおそれがある。沖縄県では土砂災害、強風、高波、落雷に注意・警戒が必要である。台湾では台風により死傷者が出ている。",
+      "note": "気象庁の発表は、過去の発表（H27）と最新の発表が混在しているが、内容は同一であるため、事実として統合した。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄への評価混入: facts[3].t が「厳重な警戒が必要」と評価的に記述されていたため、「厳重な警戒が呼びかけられている」と修正しました。",
-          "事実欄への評価混入: facts[11].t が「注意が必要」と評価的に記述されていたため、「注意するよう呼びかけられている」と修正しました。",
-          "事実欄への評価混入: facts[13].t が「注意が必要」と評価的に記述されていたため、「注意するよう呼びかけられている」と修正しました。",
-          "事実欄への評価混入: facts[15].t が「厳重な警戒が必要」と評価的に記述されていたため、「厳重な警戒が呼びかけられている」と修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
-      "slug": "GMOFX取引のサバに不正アクセス口座で不正操作",
+      "headline": "ソフトバンクの山本祐、勇姿届ける　新天地で日本一へ―プロ野球・日本シリーズ",
+      "slug": "ソフトバンクの山本祐勇姿届ける新天地で日本一へプ",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -259,32 +194,74 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64764"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261023de64076"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64830"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599928?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6599986?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102301185&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102400471&g=spo&m=rss"
         }
       ],
-      "issue": "不正アクセス問題への対応として、能動的サイバー防御の導入は検討されるべきか？",
-      "stasis": "政策",
+      "issue": "プロ野球日本シリーズ第1戦の結果は？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "IT大手のGMOインターネットグループが投資家向けに提供している自動取引のサーバーが不正アクセスを受けた。",
-          "span": "自動取引のサーバーが不正アクセスを受けた",
+          "t": "プロ野球の日本シリーズ第1戦が行われている。",
+          "span": "プロ野球の日本シリーズの第1戦が行われています。",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "セ・リーグのDeNAとパ・リーグのソフトバンクが対戦している。",
+          "span": "セ・リーグのDeNAが2年ぶり、パ・リーグのソフトバンクが2年連続の日本一をかけて対戦しています。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "試合は7回にソフトバンクが先制した。",
+          "span": "7回にソフトバンクが先制し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "DeNAの牧選手がホームランを打った。",
+          "span": "牧にHR",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "試合は延長戦に突入した。",
+          "span": "延長に。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "延長戦でソフトバンクが勝ち越した。",
+          "span": "延長でSBが勝ち越し",
+          "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
@@ -292,36 +269,22 @@
           ]
         },
         {
-          "t": "この不正アクセスにより、FX取引を行う利用者の口座IDやパスワードなどが不正に取得された可能性がある。",
-          "span": "",
+          "t": "ソフトバンクの山本祐投手が登板した。",
+          "span": "ソフトバンクの山本祐、勇姿届ける",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "環境省のメールサービスも不正アクセスを受け、2万件を超える個人情報が流出した可能性がある。",
-          "span": "個人情報２万件超流出か",
-          "src": [
-            {
-              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "GMOインターネットグループと環境省のシステムが不正アクセスを受け、情報流出の可能性が指摘されている。これに対し、GMOは政府に「能動的サイバー防御」を緊急要請しており、その導入の是非については評価が分かれる可能性がある。",
-      "note": null,
+      "consensus": "プロ野球日本シリーズ第1戦は、DeNAとソフトバンクが対戦し、試合は延長戦となりソフトバンクが勝ち越した。DeNAの牧選手がホームランを打った。",
+      "note": "速報中の情報が含まれるため、試合結果は確定していません。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].span: 元テキストの「可能性」が途中で切れていたため、「IDやパスワードなどが不正に取得された可能性」に修正しました。",
-          "issue: テキストに能動的サイバー防御の導入に関する賛否両論の記述がないため、issueを「不正アクセス問題への対応として、能動的サイバー防御の導入は検討されるべきか？」に変更し、GMOの要請がこの問いに対する立場を示す形に修正しました。",
-          "positions[0].claim: 元テキストの言い回しをなぞっていたため、著作権に配慮し、かつメタ記述（〜と報じられており、〜と述べている）を徹底する形で再記述しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
@@ -395,8 +358,8 @@
       }
     },
     {
-      "headline": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
-      "slug": "Argentinianjudgedropsfra",
+      "headline": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "slug": "IransayswontallowUSwarsh",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -405,23 +368,27 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/24/jordans-king-abdullah-orders-firm-response-after-deadly-church-attack?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss"
         }
       ],
-      "issue": "アルゼンチン大統領ミレイ氏の仮想通貨関連の行為は詐欺的であったか？",
-      "stasis": "評価・予測",
+      "issue": "イランは米国市民に対する攻撃を計画しているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "アルゼンチンがミレイ大統領に対する仮想通貨詐欺疑惑の捜査を中止した。",
-          "span": "drops investigation into President Milei over crypto fraud",
+          "t": "オーストラリアの独立系国会議員の容体は、車両による襲撃とされる事件後、深刻だが安定した状態に回復した。",
+          "span": "The independent MP is now in a serious but stable condition, according to the Melbourne hospital.",
           "src": [
             {
               "ty": "press",
@@ -430,28 +397,8 @@
           ]
         },
         {
-          "t": "ある仮想通貨が急落した。",
-          "span": "a cryptocurrency nosedived",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ミレイ氏がソーシャルメディアの投稿を削除した。",
-          "span": "deleted a social media post",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "法医学人類学者が、アルゼンチン最後の軍事独裁政権下で殺害された少なくとも38人の犠牲者の遺骨を特定した。",
-          "span": "identified the remains of at least 38 victims of Argentina’s last military dictatorship",
+          "t": "イラン当局は、米国艦船が接近することを認めない方針を示しており、トランプ大統領は新たな攻撃を検討している。",
+          "span": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
           "src": [
             {
               "ty": "press",
@@ -460,8 +407,38 @@
           ]
         },
         {
-          "t": "アルゼンチンの裁判官が、ミレイ氏に対する仮想通貨スキャンダルに関する詐欺捜査を中止した。",
-          "span": "drops fraud investigation into Milei over crypto scandal",
+          "t": "イラン当局、メディア、アナリストは戦争が近づいていると感じているが、後退しない姿勢を示している。",
+          "span": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ヨルダンのアブドラ国王は、教会での致命的な攻撃の後、断固たる対応を命じた。",
+          "span": "Jordan’s King Abdullah orders firm response after deadly church attack",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "当局は攻撃者を捜索中で、既知のグループとの関連があるかどうかを判断するには時期尚早であるとしている。",
+          "span": "Authorities are still searching for the attackers and say it is too early to determine if they had ties to known groups.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米情報機関の文書は、中東における米国市民に対するイランの計画が「高度な段階に達した」と警告している。",
+          "span": "Iranian plots against US citizens in the Middle East &#039;have reached advanced stages&",
           "src": [
             {
               "ty": "press",
@@ -471,17 +448,11 @@
         }
       ],
       "positions": [],
-      "consensus": "ミレイ大統領に対する仮想通貨詐欺疑惑の捜査は中止され、裁判官は彼の行為が詐欺的ではないと判断した。評価は割れていない。",
-      "note": "記事には、ミレイ大統領の仮想通貨スキャンダルとは無関係な、アルゼンチンの「汚い戦争」の犠牲者特定に関する事実も含まれている。",
+      "consensus": "オーストラリアの国会議員の容体は回復し、ヨルダンの教会襲撃事件の捜査が進められている。イランは米国艦船の接近を認めず、米国はイランによる米国市民への攻撃計画が進んでいると警告している。評価は割れる。",
+      "note": "プライバシー配慮のため、オーストラリアの国会議員の氏名は記載しない。イランと米国の間の緊張関係に関する複数の報道をまとめた。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[2].spanが空文字だったため、元テキストの最小核「deleted a social media post」に修正しました。",
-          "positions[0].claimが地の文の断定になっていたため、メタ記述「と述べている」を追加しました。",
-          "positions[1].claimが地の文の断定になっていたため、メタ記述「と判断した」を追加しました。",
-          "positions[1].premisesが、主張の根拠ではなく、主張によって引き起こされた事実を参照していたため、空配列に修正しました。",
-          "fact spanが原文に無い→除去「he deleted a socia…」"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
