@@ -1,33 +1,25 @@
 {
-  "rankedAt": "2026-10-25T19:18:28.721Z",
+  "rankedAt": "2026-10-25T21:54:44.444Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
       "headline": "台風３０号、九州西方で温帯低気圧に　東・西日本は前線で大雨警戒―気象庁",
       "slug": "台風号九州西方で温帯低気圧に東西日本は前線で大雨",
-      "time": "2026-10-25T13:47:39.000Z",
+      "time": "2026-10-25T21:41:15.000Z",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "気象庁 気象警報・注意報"
       ],
-      "count": 3,
-      "hasPrimary": false,
+      "count": 7,
+      "hasPrimary": true,
       "members": [
         {
-          "title": "台風30号は温帯低気圧に 西～東日本で大雨のおそれ",
-          "snippet": "台風30号は東シナ海で温帯低気圧に変わりました。\n前線に向かって低気圧周辺の暖かく湿った空気が流れ込むなどして西日本と東日本では大気の状態が非常に不安定になっています。\n26日にかけて非常に激しい雨が…",
+          "title": "台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ",
+          "snippet": "台風30号は25日夜、温帯低気圧に変わりましたが、西日本と東日本では26日も大気の状態が非常に不安定になって、局地的に非常に激しい雨が降るおそれがあります。気象庁は土砂災害に警戒するとともに、低い土地…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64932",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "台風30号は温帯低気圧に 大雨警戒",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600115?source=rss",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65420",
           "ty": "press",
           "linkKind": "article"
         },
@@ -38,34 +30,74 @@
           "link": "https://www.jiji.com/jc/article?k=2026102500237&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【佐賀県気象警報・注意報】佐賀県では、土砂災害や低い土地の浸水、強風、高波、竜巻などの激しい突風、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025214116_0_VPWW53_410000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【佐賀県気象警報・注意報】佐賀県では、土砂災害や低い土地の浸水、強風、高波、竜巻などの激しい突風、落雷に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025214116_0_VPWW54_410000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【佐賀県土砂災害警報・注意報】佐賀県では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025214052_0_VPWW56_410000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【新潟県気象警報・注意報】上越、佐渡では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025212521_0_VPWW53_150000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【新潟県気象警報・注意報】上越、佐渡では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025212521_0_VPWW54_150000.xml",
+          "ty": "prim",
+          "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
-      "slug": "ObamaattacksTrumpashecam",
-      "time": "2026-10-25T18:55:39.000Z",
+      "headline": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "slug": "Morethan1300arrestedascl",
+      "time": "2026-10-25T21:41:10.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 7,
+      "count": 13,
       "hasPrimary": false,
       "members": [
+        {
+          "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+          "snippet": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
         {
           "title": "Venezuelan opposition leader María Machado returns after months in exile",
           "snippet": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Early reports suggest record high turnout in Serbia elections",
-          "snippet": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
@@ -86,26 +118,104 @@
           "linkKind": "article"
         },
         {
+          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+          "snippet": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "US Attorney General Todd Blanche defends Alaska Senate election lawsuit",
+          "snippet": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Marine Le Pen launches French presidential campaign",
+          "snippet": "Marine Le Pen launches French presidential campaign",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+          "snippet": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Brazil election results 2026 live: Lula-Bolsonaro voting extended by 2 hours",
+          "snippet": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "The narrative battle over France’s unrest",
+          "snippet": "Student protests, police violence and French media obsessed with &#039;barbarians&#039;.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Iraqis mark seven years since Tishreen protests with reform demands",
+          "snippet": "Thousands gather in Tahrir Square to mark seven years since Iraq’s 2019 ‘Tishreen’ protests.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/iraqis-mark-seven-years-since-tishreen-protests-with-reform-demands?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+          "snippet": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
           "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
           "snippet": "The Nobel laureate&#039;s homecoming follows national protests demanding free elections.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
-        },
+        }
+      ]
+    },
+    {
+      "headline": "ブラジル大統領選、決選投票実施　親米右派と現職左派接戦―ブラジル",
+      "slug": "ブラジル大統領選決選投票実施親米右派と現職左派接",
+      "time": "2026-10-25T21:29:57.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
         {
-          "title": "Uganda orders 21-day Ebola quarantine for citizens returning from DR Congo",
-          "snippet": "Kampala says country is Ebola free, but Swiss authorities believe a woman diagnosed in Nigeria was infected in Uganda.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/25/uganda-orders-21-day-ebola-quarantine-for-citizens-returning-from-dr-congo?traffic_source=rss",
+          "title": "ブラジル大統領選挙 決選投票 全土で投票時間が2時間延長",
+          "snippet": "ブラジルの大統領選挙は、25日、左派で現職のルーラ大統領と右派で前大統領の長男、フラビオ・ボルソナロ上院議員による決選投票が2時間延長され、いまも行われています。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65416",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "US and Israel elections: New leaders, same policies?",
-          "snippet": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+          "title": "ブラジル大統領選、決選投票実施　親米右派と現職左派接戦―ブラジル",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102500227&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -114,7 +224,7 @@
     {
       "headline": "ソフトバンクが２連勝　延長十回、川村が決勝ソロ―プロ野球・日本シリーズ",
       "slug": "ソフトバンクが連勝延長十回川村が決勝ソロプロ野球",
-      "time": "2026-10-25T16:59:00.000Z",
+      "time": "2026-10-25T19:52:32.000Z",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -142,68 +252,9 @@
       ]
     },
     {
-      "headline": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-      "slug": "Morethan1300arrestedascl",
-      "time": "2026-10-25T17:39:42.000Z",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
-          "snippet": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Can protests in Europe bring about change?",
-          "snippet": "People have been taking to the streets to demand action.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "那覇市長に知念覚氏再選　新人３人破る",
-      "slug": "那覇市長に知念覚氏再選新人人破る",
-      "time": "2026-10-25T14:54:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "新潟市長に中原氏３選　新人２人破る",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102500392&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "那覇市長に知念覚氏再選　新人３人破る",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102500387&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "推定噴煙流向報",
-      "slug": "推定噴煙流向報",
-      "time": "2026-10-25T15:44:00.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-10-25T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -212,27 +263,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "推定噴煙流向報",
-          "snippet": "【桜島　推定噴煙流向報】",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向、２６日２１時から２４時までは火口から南東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025154417_0_VFVO60_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025200037_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "推定噴煙流向報",
-          "snippet": "【桜島　推定噴煙流向報】",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025142303_0_VFVO60_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025170038_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "噴火に関する火山観測報",
-      "slug": "噴火に関する火山観測報",
-      "time": "2026-10-25T15:43:43.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-10-25T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -241,27 +292,56 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "噴火に関する火山観測報",
-          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年10月26日00時34分(251534UTC)\n現　　象：噴火",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向、２６日２１時から２４時までは火口から南東方向に降灰が予想され",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025154343_0_VFVO52_400000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025200041_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "噴火に関する火山観測報",
-          "snippet": "【火山名　桜島　噴火に関する火山観測報】火　　山：桜島\n日　　時：2026年10月25日23時16分(251416UTC)\n現　　象：噴火",
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025142229_0_VFVO52_400000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025170042_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-10-25T19:12:27.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-10-25T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２６日０９時から１２時までは火口から東方向、２６日２１時から２４時までは火口から南東方向に降灰が予想されま",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025200045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２６日０９時から１２時までは火口から東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025170045_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-10-25T21:47:12.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -270,76 +350,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、強風や高波、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025191228_0_VPWW53_460040.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025214713_0_VPWW54_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025191228_0_VPWW54_460040.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-10-25T19:11:12.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【福井県気象警報・注意報】福井県では、落雷に注意してください。",
+          "snippet": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、強風や高波、落雷に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025191113_0_VPWW53_180000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【福井県気象警報・注意報】福井県では、落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025191113_0_VPWW54_180000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-10-25T19:08:36.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【三重県気象警報・注意報】南部では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025190838_0_VPWW53_240000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【三重県気象警報・注意報】南部では、土砂災害に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025190837_0_VPWW54_240000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025214713_0_VPWW53_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -375,9 +397,9 @@
       ]
     },
     {
-      "headline": "体操世界選手権 種目別鉄棒で岡慎之助が銀メダル",
-      "slug": "体操世界選手権種目別鉄棒で岡慎之助が銀メダル",
-      "time": "2026-10-25T17:29:04.000Z",
+      "headline": "消費税減税法案 与党 通過時期探る 野党 支援金対象明示を",
+      "slug": "消費税減税法案与党通過時期探る野党支援金対象明示",
+      "time": "2026-10-25T20:46:47.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -386,10 +408,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "体操世界選手権 種目別鉄棒で岡慎之助が銀メダル",
-          "snippet": "オランダで開かれている体操の世界選手権は最終日の25日、男女の種目別の決勝が行われ、「鉄棒」で岡慎之助選手が銀メダルを獲得しました。",
+          "title": "消費税減税法案 与党 通過時期探る 野党 支援金対象明示を",
+          "snippet": "国会では今週、食料品の消費税減税関連法案の審議が続きます。\n\n与党側は、野党の主張も丁寧に聞きながら、衆議院通過の時期を探りたいとしているのに対し、野党側は、所得に応じた支援金の対象などを示すよう重ね…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65415",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65353",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "あすイスラエル総選挙 ネタニヤフ首相政権維持できるか焦点",
+      "slug": "あすイスラエル総選挙ネタニヤフ首相政権維持できる",
+      "time": "2026-10-25T20:49:10.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "あすイスラエル総選挙 ネタニヤフ首相政権維持できるか焦点",
+          "snippet": "イスラエルの総選挙が日本時間の27日に行われます。ネタニヤフ首相は3年前、イスラム組織ハマスの奇襲攻撃を防げなかった責任を野党陣営から追及され苦戦を強いられていて、中東情勢に大きな影響を与えてきたネタ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65348",
           "ty": "press",
           "linkKind": "article"
         }
@@ -398,7 +441,7 @@
     {
       "headline": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選",
       "slug": "福島県知事選挙現職の内堀雅雄氏が4回目の当選",
-      "time": "2026-10-25T15:27:49.000Z",
+      "time": "2026-10-25T20:16:20.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -417,9 +460,9 @@
       ]
     },
     {
-      "headline": "バドミントン協会がスポーツと自然環境学ぶ勉強会を初開催",
-      "slug": "バドミントン協会がスポツと自然環境学ぶ勉強会を初",
-      "time": "2026-10-25T17:15:46.000Z",
+      "headline": "大相撲九州場所 番付発表 33歳の美ノ海が新三役",
+      "slug": "大相撲九州場所番付発表33歳の美ノ海が新三役",
+      "time": "2026-10-25T21:04:32.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -428,52 +471,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "バドミントン協会がスポーツと自然環境学ぶ勉強会を初開催",
-          "snippet": "スポーツと自然環境の関係性やその保護について子どもたちに学んでもらおうと、バドミントンの競技団体が、小学生を対象にした勉強会を初めて開きました。",
+          "title": "大相撲九州場所 番付発表 33歳の美ノ海が新三役",
+          "snippet": "来月8日に初日を迎える大相撲九州場所の番付が発表され、33歳の美ノ海が新三役となる小結に昇進しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65369",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65392",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "長崎 漁港で男性死亡 台風に備え船を見に行ったか",
-      "slug": "長崎漁港で男性死亡台風に備え船を見に行ったか",
-      "time": "2026-10-25T14:59:13.000Z",
+      "headline": "関東-九州激しい雨 夜にピークも",
+      "slug": "関東九州激しい雨夜にピクも",
+      "time": "2026-10-25T21:45:08.000Z",
       "independentSources": 1,
       "sources": [
-        "NHK 主要ニュース"
+        "Yahoo!ニュース 主要"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "長崎 漁港で男性死亡 台風に備え船を見に行ったか",
-          "snippet": "25日午後、長崎県南島原市の漁港で、70代の漁師の男性が海に沈んでいるのが発見され、死亡しました。警察は、男性が台風に備えて船の様子を見に行き、何らかの理由で海に転落した可能性があると見て、当時の状況…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65387",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "マラソン競歩 川野将虎が世界新記録で優勝",
-      "slug": "マラソン競歩川野将虎が世界新記録で優勝",
-      "time": "2026-10-25T14:00:04.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "マラソン競歩 川野将虎が世界新記録で優勝",
-          "snippet": "陸上の競歩でマラソンと同じ42.195キロで行われる新しい種目「マラソン競歩」の大会が山形県高畠町で行われ、川野将虎選手が2時間55分14秒の世界新記録をマークし優勝しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65141",
+          "title": "関東-九州激しい雨 夜にピークも",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600128?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -501,9 +523,9 @@
       ]
     },
     {
-      "headline": "AI投資に巨額マネー 実態と展望",
-      "slug": "AI投資に巨額マネ実態と展望",
-      "time": "2026-10-25T13:45:23.000Z",
+      "headline": "チャイルドシートの義務拡大 検討",
+      "slug": "チャイルドシトの義務拡大検討",
+      "time": "2026-10-25T21:26:47.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -512,31 +534,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "AI投資に巨額マネー 実態と展望",
+          "title": "チャイルドシートの義務拡大 検討",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600116?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "イオン爆発犠牲者7人 南側で発見",
-      "slug": "イオン爆発犠牲者7人南側で発見",
-      "time": "2026-10-25T11:11:59.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "イオン爆発犠牲者7人 南側で発見",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600100?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6600127?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -606,6 +607,27 @@
       ]
     },
     {
+      "headline": "VIVANTにダイアン津田 設計の妙",
+      "slug": "VIVANTにダイアン津田設計の妙",
+      "time": "2026-10-25T21:51:14.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "VIVANTにダイアン津田 設計の妙",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600129?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "今田美桜 公式FC閉鎖の理由説明",
       "slug": "今田美桜公式FC閉鎖の理由説明",
       "time": "2026-10-25T10:19:56.000Z",
@@ -627,9 +649,9 @@
       ]
     },
     {
-      "headline": "ブラジル大統領選、決選投票実施　親米右派と現職左派接戦―ブラジル",
-      "slug": "ブラジル大統領選決選投票実施親米右派と現職左派接",
-      "time": "2026-10-25T11:11:00.000Z",
+      "headline": "首相動静（１０月２５日）",
+      "slug": "首相動静月日",
+      "time": "2026-10-25T13:06:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -638,94 +660,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ブラジル大統領選、決選投票実施　親米右派と現職左派接戦―ブラジル",
+          "title": "首相動静（１０月２５日）",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102500227&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "韓国、超高齢社会見据え「治癒農業」推進　ビジネス化で地方振興―トラウマ抱える元軍人もケア",
-      "slug": "韓国超高齢社会見据え治癒農業推進ビジネス化で地方",
-      "time": "2026-10-25T10:03:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "韓国、超高齢社会見据え「治癒農業」推進　ビジネス化で地方振興―トラウマ抱える元軍人もケア",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102500133&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "金正恩氏、謎を呼ぶ日帰り訪中　「対米」巡り分かれる見方",
-      "slug": "金正恩氏謎を呼ぶ日帰り訪中対米巡り分かれる見方",
-      "time": "2026-10-25T10:02:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "金正恩氏、謎を呼ぶ日帰り訪中　「対米」巡り分かれる見方",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102500277&g=int&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "強盗殺人罪で米兵起訴　那覇ホテル女性遺体―地検",
-      "slug": "強盗殺人罪で米兵起訴那覇ホテル女性遺体地検",
-      "time": "2026-10-25T07:56:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "強盗殺人罪で米兵起訴　那覇ホテル女性遺体―地検",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102500244&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "オバマ氏、激戦州でトランプ氏を猛批判　急進左派への支持呼び掛け―米中間選挙",
-      "slug": "オバマ氏激戦州でトランプ氏を猛批判急進左派への支",
-      "time": "2026-10-25T05:25:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "オバマ氏、激戦州でトランプ氏を猛批判　急進左派への支持呼び掛け―米中間選挙",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102500230&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026102500173&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -753,9 +691,114 @@
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-10-25T17:00:00.000Z",
+      "headline": "オバマ氏、激戦州でトランプ氏を猛批判　急進左派への支持呼び掛け―米中間選挙",
+      "slug": "オバマ氏激戦州でトランプ氏を猛批判急進左派への支",
+      "time": "2026-10-25T05:25:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "オバマ氏、激戦州でトランプ氏を猛批判　急進左派への支持呼び掛け―米中間選挙",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102500230&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "韓国、超高齢社会見据え「治癒農業」推進　ビジネス化で地方振興―トラウマ抱える元軍人もケア",
+      "slug": "韓国超高齢社会見据え治癒農業推進ビジネス化で地方",
+      "time": "2026-10-25T10:03:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "韓国、超高齢社会見据え「治癒農業」推進　ビジネス化で地方振興―トラウマ抱える元軍人もケア",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102500133&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "ベネズエラ野党指導者が帰国　ノーベル平和賞受賞者、約１０カ月ぶり",
+      "slug": "ベネズエラ野党指導者が帰国ノベル平和賞受賞者約カ",
+      "time": "2026-10-25T21:41:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "ベネズエラ野党指導者が帰国　ノーベル平和賞受賞者、約１０カ月ぶり",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102600119&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "金正恩氏、謎を呼ぶ日帰り訪中　「対米」巡り分かれる見方",
+      "slug": "金正恩氏謎を呼ぶ日帰り訪中対米巡り分かれる見方",
+      "time": "2026-10-25T10:02:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "金正恩氏、謎を呼ぶ日帰り訪中　「対米」巡り分かれる見方",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102500277&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "新潟市長に中原氏３選　新人２人破る",
+      "slug": "新潟市長に中原氏選新人人破る",
+      "time": "2026-10-25T14:54:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "新潟市長に中原氏３選　新人２人破る",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102500392&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-10-25T21:49:30.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -764,10 +807,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向に降灰が予想されます。",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】２６日０６時４６分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025170038_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025214930_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -776,7 +819,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-10-25T17:00:00.000Z",
+      "time": "2026-10-25T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -786,9 +829,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向に降灰が予想されます。",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向、２６日２１時から２４時までは火口から南方向",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025170042_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025200048_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -797,7 +840,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-10-25T17:00:00.000Z",
+      "time": "2026-10-25T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -807,9 +850,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、２６日０９時から１２時までは火口から東方向に降灰が予想されます。",
+          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、２６日０９時から１２時までは火口から南東方向、２６日２１時から２４時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025170045_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025200030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -818,7 +861,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-10-25T17:00:00.000Z",
+      "time": "2026-10-25T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -828,51 +871,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向に降灰が予想されます。",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向、２６日２１時から２４時までは火口から南方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025170049_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-10-25T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　雌阿寒岳　降灰予報（定時）】　現在、雌阿寒岳は噴火警戒レベル２（火口周辺規制）です。雌阿寒岳で噴火が発生した場合には、２６日０９時から１２時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025170030_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-10-25T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、２６日０９時から１２時までは火口から北東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025170034_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025200033_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -881,7 +882,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（暴風）",
       "slug": "気象警報注意報暴風",
-      "time": "2026-10-25T19:12:20.000Z",
+      "time": "2026-10-25T21:47:05.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -891,9 +892,9 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（暴風）",
-          "snippet": "【奄美地方（鹿児島県）暴風（雪）警報・注意報】注意報を解除します。",
+          "snippet": "【東京都暴風（雪）警報・注意報】伊豆諸島北部、伊豆諸島南部では、強風に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025191220_0_VPWW58_460040.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025214706_0_VPWW58_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -902,7 +903,7 @@
     {
       "headline": "気象警報・注意報（Ｒ０６）（波浪）",
       "slug": "気象警報注意報波浪",
-      "time": "2026-10-25T19:12:20.000Z",
+      "time": "2026-10-25T21:47:05.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -912,18 +913,18 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｒ０６）（波浪）",
-          "snippet": "【奄美地方（鹿児島県）波浪警報・注意報】奄美地方では、高波に注意してください。",
+          "snippet": "【東京都波浪警報・注意報】伊豆諸島北部、伊豆諸島南部では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025191220_0_VPWW59_460040.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025214706_0_VPWW59_130000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-10-25T19:10:55.000Z",
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-10-25T21:42:58.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -932,31 +933,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【福井県雷注意報】福井県では、急な強い雨や落雷に注意してください。",
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025191055_0_VPWW61_180000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-10-25T19:08:30.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【三重県雷注意報】注意報を解除します。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025190831_0_VPWW61_240000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261025214259_0_VPTW61_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -1026,9 +1006,9 @@
       ]
     },
     {
-      "headline": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
-      "slug": "Whenisthe2026BallondOrwh",
-      "time": "2026-10-25T18:34:19.000Z",
+      "headline": "Trump VS California",
+      "slug": "TrumpVSCalifornia",
+      "time": "2026-10-25T21:29:23.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1037,19 +1017,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
-          "snippet": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.",
+          "title": "Trump VS California",
+          "snippet": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
-      "slug": "WillMichaelCarrickbesack",
-      "time": "2026-10-25T18:27:53.000Z",
+      "headline": "Can Carrick survive Man United’s slump and Fernandes fallout?",
+      "slug": "CanCarricksurviveManUnit",
+      "time": "2026-10-25T20:01:00.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1058,94 +1038,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Will Michael Carrick be sacked? Man United manager says he doesn’t know",
-          "snippet": "Manchester United&#039;s 0-3 home loss to Bournemouth has left the 20-time champions winless in eight Premier League gam",
+          "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
+          "snippet": "Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/10/25/will-michael-carrick-be-sacked-man-united-manager-says-he-doesnt-know?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Israeli air strike on Gaza City university kills three people",
-      "slug": "IsraeliairstrikeonGazaCi",
-      "time": "2026-10-25T18:12:13.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Israeli air strike on Gaza City university kills three people",
-          "snippet": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
-      "slug": "JordanFAchiefsaysAFCCong",
-      "time": "2026-10-25T18:05:14.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Jordan FA chief says AFC Congress ‘pure politics’ at behest of Infantino",
-          "snippet": "Prince Ali bin Hussein said nobody was allowed to speak, question, debate or talk to the media at the AFC Congress.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/10/25/jordan-fa-chief-says-afc-congress-pure-politics-at-behest-of-infantino?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-      "slug": "AIsopportunitydividecoul",
-      "time": "2026-10-25T17:26:22.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
-          "snippet": "The deputy secretary-general of UN&#039;s ICT agency says unequal access to AI means poorer nations may be left behind.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Jerusalem Daily: Israel expels thousands from Hebron",
-      "slug": "JerusalemDailyIsraelexpe",
-      "time": "2026-10-25T17:12:59.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Jerusalem Daily: Israel expels thousands from Hebron",
-          "snippet": "Jerusalem Daily: Israel expels thousands from Hebron",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jerusalem-daily-israel-expels-thousands-from-hebron?traffic_source=rss",
+          "link": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
