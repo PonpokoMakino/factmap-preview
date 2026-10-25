@@ -1,114 +1,145 @@
 {
-  "builtAt": "2026-10-24T21:44:21.373Z",
+  "builtAt": "2026-10-25T06:58:43.626Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Kim Jong Un crosses new bridge linking North Korea and China",
-      "slug": "KimJongUncrossesnewbridg",
-      "independentSources": 3,
+      "headline": "Obama attacks Trump as he campaigns for Democrats ahead of midterm elections",
+      "slug": "ObamaattacksTrumpashecam",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "時事ドットコム",
+        "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261025de64976"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64966"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65071"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400321&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102500230&g=int&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400459&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmj6jwe1j1gjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss"
+          "link": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss"
         }
       ],
-      "issue": "ウクライナ南部での限定停戦と金正恩総書記の訪中という国際情勢の主要な出来事について、関係者や報道機関はどのような意図や影響を表明・予測しているか？",
-      "stasis": "記述・解釈",
+      "issue": "世界各地の選挙において、現職の指導者や既存の政治体制への挑戦が見られるか？",
+      "stasis": "事実合意（はい）",
       "facts": [
         {
-          "t": "ウクライナ南部で限定停戦が合意された。",
-          "span": "",
+          "t": "アメリカの中間選挙まであと10日である。",
+          "span": "アメリカの中間選挙まであと10日",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "この停戦合意はアメリカの仲介によって発表された。",
-          "span": "アメリカの仲介で",
+          "t": "民主党のオバマ元大統領が、上院議員選挙で接戦が伝えられる中西部の2つの州に応援に入った。",
+          "span": "上院議員選挙で接戦が伝えられる中西部の2つの州に応援に入り",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "北朝鮮のキム・ジョンウン総書記は24日に中国東北部の都市を訪問した。",
-          "span": "中国東北部の都市を訪問し",
+          "t": "オバマ元大統領はミシガン州デトロイトで、上院議員候補アブドゥル・エル・サイード氏の集会に参加した。",
+          "span": "joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "キム総書記は中国共産党の最高指導部のメンバーと会談した。",
-          "span": "中国共産党の最高指導部のメンバーと会談しました",
+          "t": "イスラエルは選挙日にヨルダン川西岸の検問所を閉鎖する予定である。",
+          "span": "close West Bank crossings on election day",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "キム総書記の訪中は1年ぶりである。",
-          "span": "１年ぶり訪中",
+          "t": "イスラエル国防軍は、火曜日の選挙を前にパレスチナ人労働者の移動制限を発表した。",
+          "span": "announces restrictions on the movement of Palestinian workers",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "キム総書記は新しい橋を利用して中朝国境を越えた。",
-          "span": "新大橋を利用",
+          "t": "アイルランドでの放火殺人事件後、3人（女性2人、男性1人）が不起訴で釈放され、1人が拘留されている。",
+          "span": "Three people - two women and one man - have been released, and one person remains in custody",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "キム総書記は中国序列4位の人物と会談した。",
-          "span": "中国序列４位と会談",
+          "t": "イスラエルでは、ネタニヤフ首相とライバル候補が投票日を数日後に控え拮抗している。",
+          "span": "Netanyahu and his rivals are tied days from the vote",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "キム・ジョンウン総書記は北朝鮮と中国を結ぶ新しい橋を渡った。",
-          "span": "Kim Jong Un crosses new bridge linking North Korea and China",
+          "t": "イスラエル選挙の両陣営は、ボット、ディープフェイク、データを用いてオンラインで戦っている。",
+          "span": "both camps are fighting with bots, deepfakes and data",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "セルビアでは、長年の指導者アレクサンダル・ブチッチ氏が反汚職・反権威主義運動と接戦を繰り広げる選挙が行われる。",
+          "span": "populist leader Aleksandar Vucic in a tight race against the anticorruption and anti-authoritarian movement",
           "src": [
             {
               "ty": "press",
@@ -118,159 +149,16 @@
         }
       ],
       "positions": [],
-      "consensus": "ウクライナ南部での限定停戦合意と金正恩総書記の訪中という主要な国際情勢の出来事については事実として合意されているが、それらの意図や影響については関係者の見解や予測が示されている。",
+      "consensus": "アメリカ、イスラエル、セルビアなどで選挙が迫っており、現職の指導者や既存の政治体制に対する挑戦が見られる。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "issue: 複数の独立した出来事を一つの争点として結合していたため、記述的な問いに修正しました。",
-          "stasis: 争点に賛否の対立が見られないため、「評価・予測（割れる）」から「記述・解釈」に修正しました。",
-          "positions[0].claim: 地の文の断定になっていたため、発言主体が「〜と述べている」というメタ記述の形式に修正しました。",
-          "positions[1].claim: 地の文の断定になっていたため、報道機関の解釈であることを示す「〜と報じられている」というメタ記述の形式に修正しました。",
-          "positions[1].span: 空文字だったため、元テキストから主張の最小核となる句「中国と意思疎通を図るねらい」を抽出しました。",
-          "positions[2].claim: 地の文の断定になっていたため、報道機関の解釈であることを示す「〜と報じられている」というメタ記述の形式に修正しました。",
-          "fact spanが原文に無い→除去「限定停戦の合意が発表された…」",
-          "position spanが原文に無い→除去「中国と意思疎通を図るねらい…」"
+          "positions[2].claim: 記者の解釈（「現職指導者への挑戦を示した」）を削除し、発言主体が実際に行った行動の記述に修正しました。",
+          "issue: 問いを、抽出されたpositionsが示す「挑戦の存在」という事実に即した形に修正しました。",
+          "stasis: issueの修正に伴い、「事実合意（はい）」に修正しました。",
+          "consensus: 抽出されたpositionsで裏付けられない評価・予測部分を削除し、事実の記述のみに修正しました。"
         ]
-      }
-    },
-    {
-      "headline": "台風３０号、２６日に九州接近か　東・西日本は前線で大雨警戒―気象庁",
-      "slug": "台風号日に九州接近か東西日本は前線で大雨警戒気象",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261024de64932"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6599973?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400388&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102400245&g=wth&m=rss"
-        }
-      ],
-      "issue": "台風30号の進路と日本への影響は何か？",
-      "stasis": "評価・予測",
-      "facts": [
-        {
-          "t": "大型台風30号は東シナ海を北上している。",
-          "span": "東シナ海を北上していて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風30号はしだいに東寄りに進路を変え、九州に接近する見込み。",
-          "span": "しだいに東寄りに進路を変え九州に接近する見込み",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風30号は先島諸島北方を北上する。",
-          "span": "先島諸島北方を北上へ",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "台風30号は26日に九州に接近する可能性がある。",
-          "span": "２６日に九州接近か",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "本州付近に前線が停滞している。",
-          "span": "本州付近に停滞する前線に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "台風から暖かく湿った空気が前線に流れ込む影響がある。",
-          "span": "台風から暖かく湿った空気が流れ込む影響で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "東日本と西日本の広い範囲で27日に大雨のおそれがある。",
-          "span": "東日本と西日本の広い範囲で27日にか…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "西日本から東日本では26日が雨のピークとなる。",
-          "span": "西-東日本26日が雨ピークに",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、東日本と西日本で前線による大雨に警戒を呼びかけている。",
-          "span": "東・西日本は前線で大雨警戒",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は、西日本で前線による大雨に警戒を呼びかけている。",
-          "span": "西日本は前線で大雨警戒",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風30号は東シナ海を北上し、九州に接近する見込みで、前線の影響により東日本と西日本で大雨が予想される。評価は割れず、アプリは裁定しない。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": []
       }
     },
     {
@@ -354,8 +242,58 @@
       }
     },
     {
-      "headline": "Three released without charge after fatal arson attack in Ireland",
-      "slug": "Threereleasedwithoutchar",
+      "headline": "自民“比例31議席削減 法案成立を” 野党 理解示す声や異論も",
+      "slug": "自民比例31議席削減法案成立を野党理解示す声や異",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261025de65143"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600059?source=rss"
+        }
+      ],
+      "issue": "衆議院議員の定数削減に関する法案は、今の国会で成立を目指すべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "自民党は、衆議院議員の定数削減について、比例代表で31議席を削減する案で合意できれば、今の国会に法案を提出し、成立を目指す方針である。",
+          "span": "自民党は比例代表で31議席を削減するなどとした案で合意できれば今の国会に法案を提出し、成立を目指",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "衆議院に議席を持つ与野党の国会対策委員長らが、NHKの日曜討論に出演した。",
+          "span": "衆議院に議席を持つ与野党の国会対策委員長らが出演し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "自民党は比例代表で31議席を削減する案で合意できれば、今の国会に法案を提出し成立を目指す方針である。野党からは理解を示す声や異論が出ており、国民民主党の賛否が焦点となっている。",
+      "note": "プライバシー配慮のため、個別の野党名は特定せず「野党」として集約した。国民民主党については、その賛否が焦点である旨が明記されているため、別途記載した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
+      "slug": "Gunmenkillatleast10villa",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -364,23 +302,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss"
         }
       ],
-      "issue": "アイルランドでの致命的な放火事件に関連して3人が釈放されたか？",
+      "issue": "ナイジェリア北東部における暴力事件の死者数は増加するか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "アイルランドでの致命的な放火事件後、3人（女性2人、男性1人）が起訴なしで釈放された。",
-          "span": "Three released without charge after fatal arson attack",
+          "t": "ナイジェリア北東部で武装集団が少なくとも10人の村人を殺害し、商店を略奪した。",
+          "span": "Gunmen kill at least 10 villagers and loot shops in northeast Nigeria",
           "src": [
             {
               "ty": "press",
@@ -389,19 +323,29 @@
           ]
         },
         {
-          "t": "1人が勾留されたままであると、アイルランド警察（gardaí）が述べている。",
-          "span": "one person remains in custody, gardaí say",
+          "t": "警察は他の犠牲者を捜索しており、実際の死者数はさらに増加する可能性があると当局者は警告している。",
+          "span": "Police are searching for other casualties, with officials warning the actual death toll could rise further",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ナイジェリア北東部では、長年の暴力で失踪した愛する人々を捜し続ける人々がいる。",
+          "span": "People across northeastern Nigeria continue searching for loved ones who went missing during years of violence",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "アイルランドでの致命的な放火事件後、3人が起訴なしで釈放され、1人が勾留されたままであるという事実が報じられている。評価は割れない。",
-      "note": "",
+      "consensus": "ナイジェリア北東部で武装集団が少なくとも10人の村人を殺害し、商店を略奪した。警察は他の犠牲者を捜索しており、実際の死者数はさらに増加する可能性があると当局者は警告している。ナイジェリア北東部では、長年の暴力で失踪した愛する人々を捜し続ける人々がいる。",
+      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
         "changed": false,
         "issues": []
