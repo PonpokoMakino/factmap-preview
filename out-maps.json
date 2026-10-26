@@ -1,10 +1,89 @@
 {
-  "builtAt": "2026-10-26T07:26:29.920Z",
+  "builtAt": "2026-10-26T14:28:54.951Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "福田康夫元首相が死去、９０歳　洞爺湖サミットで議長",
-      "slug": "福田康夫元首相が死去歳洞爺湖サミットで議長",
+      "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "slug": "CelebrationsinSerbiaafte",
+      "independentSources": 3,
+      "sources": [
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102600252&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
+        }
+      ],
+      "issue": "ブラジル大統領選挙でルラ氏がボルソナロ氏に勝利したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ブラジル大統領選挙の決選投票で、左派のルラ氏が大接戦を制し、4期目となる大統領に選出された。",
+          "span": "左派ルラ氏、大接戦制し４期目へ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ルラ氏は決選投票で、右派候補に勝利した。",
+          "span": "Lula wins fourth term in dramatic Brazil election comeback",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ルラ氏は、最初の投票ラウンドでは右派候補のフラビオ・ボルソナロ氏に敗れていた。",
+          "span": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ルラ氏は、最初の投票ラウンドでの敗北を覆し、歴史的な4期目の大統領職を確保した。",
+          "span": "Brazil&#039;s president secured a historic fourth term after overturning a first-round defeat.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ブラジル大統領選挙の決選投票でルラ氏が勝利したという事実は合意されているが、右派候補は選挙結果の無効を主張している。",
+      "note": "セルビア大統領選挙に関する情報は、ブラジル大統領選挙とは別の出来事であるため、本件の構造化からは除外した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "福田康夫元首相が死去、９０歳　洞爺湖サミットで議長、「ねじれ国会」問責可決―引退後も日中強化訴え",
+      "slug": "福田康夫元首相が死去歳洞爺湖サミットで議長ねじれ",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -18,11 +97,7 @@
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600189?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600183?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6600231?source=rss"
         },
         {
           "source": "時事ドットコム",
@@ -33,8 +108,8 @@
       "stasis": "事実",
       "facts": [
         {
-          "t": "福田康夫元総理大臣が死去した。",
-          "span": "福田康夫元首相が死去",
+          "t": "福田康夫元総理大臣が今月22日に亡くなった。",
+          "span": "今月22日に亡くなりました",
           "src": [
             {
               "ty": "press",
@@ -44,7 +119,7 @@
         },
         {
           "t": "福田康夫元首相は90歳だった。",
-          "span": "90歳",
+          "span": "90歳でした",
           "src": [
             {
               "ty": "press",
@@ -53,8 +128,28 @@
           ]
         },
         {
-          "t": "福田康夫元首相は90歳で死去した。",
-          "span": "福田康夫元首相が死去、９０歳",
+          "t": "福田康夫元首相は死去した。",
+          "span": "福田康夫元首相が死去",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "福田康夫元首相は死去した。",
+          "span": "福田康夫元首相が死去",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "福田康夫元首相は90歳だった。",
+          "span": "９０歳",
           "src": [
             {
               "ty": "press",
@@ -73,8 +168,110 @@
           ]
         },
         {
-          "t": "福田元首相の死去は中国でも速報された。",
-          "span": "福田元首相が死去 中国でも速報",
+          "t": "福田康夫元首相は「ねじれ国会」で問責が可決された。",
+          "span": "「ねじれ国会」問責可決",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "福田康夫元首相は引退後も日中関係の強化を訴えていた。",
+          "span": "引退後も日中強化訴え",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "福田康夫元首相は死去した。",
+      "note": "プライバシー配慮のため、死去した人物の年齢と氏名のみを記載。詳細な個人情報は省略。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "家電量販店「Joshin」 顧客情報600万件漏えいの可能性",
+      "slug": "家電量販店Joshin顧客情報600万件漏えいの",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65955"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de66013"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65733"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600238?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600235?source=rss"
+        }
+      ],
+      "issue": "企業が顧客情報漏えいや不正アクセス被害に遭うリスクは存在するか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "家電量販店「Joshin」は、会社のネットワークへの不正アクセスにより、顧客の氏名や住所など約600万件の個人情報が漏えいした可能性があると発表した。",
+          "span": "顧客の氏名や住所などおよそ600万件の個人情報が漏えいした可能性",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "電子ギフト会社「ギフティグループ」の子会社が運用するシステムが不正アクセスを受け、約5億5000万円分の電子ギフトが不正に発行されたと発表した。",
+          "span": "およそ5億5000万円分の電子ギフトが不正に発行された",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに1億5700万円余りの支払いを要求していることが分かった。",
+          "span": "100万ドル＝日本円で1億5700万円余りを支払うよう求めている",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "楽天トラベルで約260万件の個人情報が流出した可能性がある。",
+          "span": "約260万件が流出か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "新幹線予約システムで個人情報17万件が流出した。",
+          "span": "個人情報17万件流出",
           "src": [
             {
               "ty": "press",
@@ -84,366 +281,47 @@
         }
       ],
       "positions": [],
-      "consensus": "福田康夫元首相が90歳で死去した。この件について高市首相が談話を発表し、中国でも速報された。福田元首相は洞爺湖サミットで議長を務めた。",
-      "note": "プライバシーに配慮し、故人の氏名は記載するが、具体的な死亡日（今月22日）は事実の要約に留める。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[0].t: \"福田康夫元総理大臣が今月22日に亡くなった\" を \"福田康夫元総理大臣が死去した\" に修正。死亡日は事実の要約に留めるというnoteの指示と重複するため、より簡潔な表現に変更。",
-          "facts[0].span: \"福田康夫元総理大臣が今月22日に亡くなりました\" を \"福田康夫元首相が死去\" に修正。元テキストの表現をより忠実に反映し、不要な日付情報を削除。",
-          "facts[1].span: \"90歳でした\" を \"90歳\" に修正。より簡潔な表現に変更。",
-          "facts[4].t: \"福田元首相の死去は中国でも速報された。\" は事実として適切だが、元のテキストの \"福田元首相が死去 中国でも速報\" をより直接的に反映させるため、spanを \"福田元首相が死去 中国でも速報\" に変更。",
-          "consensus: \"洞爺湖サミットで議長を務めた事実については、評価は割れていない。\" を削除。consensusは事実の要約に留めるべきであり、評価の有無に言及する必要はないため。",
-          "note: \"プライバシーに配慮し、故人の氏名は記載するが、具体的な死亡日（今月22日）は事実の要約に留める。\" は、facts[0]の修正理由として適切だが、consensusから死亡日に関する記述を削除したため、noteの記述内容と事実の整合性を取るために、より簡潔な表現に修正。"
-        ]
-      }
-    },
-    {
-      "headline": "台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ",
-      "slug": "台風30号は温帯低気圧に西東日本で非常に激しい雨",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65420"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261026072551_0_VPFJ50_012000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261026072503_0_VPWW54_410000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261026072503_0_VPWW53_410000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261026072452_0_VPWW56_410000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261026072340_0_VPCJ50_230000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261026072340_0_VPCJ51_230000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261026072251_0_VPWW53_420000.xml"
-        }
-      ],
-      "issue": "台風30号から変わった温帯低気圧と前線による気象災害のおそれがあるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "台風30号は温帯低気圧に変わった。",
-          "span": "台風30号は温帯低気圧に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "温帯低気圧と前線の影響で、西日本では局地的に激しい雨が降っている。",
-          "span": "温帯低気圧と前線の影響で、西日本では局地的に激しい雨が降っています。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "前線は停滞するため、東日本でも雨が降り続くおそれがある。",
-          "span": "前線は停滞するため、東日本でも雨が降り続くおそれがあり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は土砂災害や低い土地の浸水などに十分注意するよう呼びかけている。",
-          "span": "気象庁は土砂災害や低い土地の浸水などに十分注意する",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "上川・留萌地方では、28日に強風や高波、大雪による交通障害に十分注意が必要である。",
-          "span": "上川・留萌地方では、２８日は強風や高波、大雪による交通障害に十分注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "佐賀県北部では、土砂災害や高波に注意が必要である。",
-          "span": "北部では、土砂災害や高波に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "佐賀県では、強風に注意が必要である。",
-          "span": "佐賀県では、強風に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "佐賀県北部では、土砂災害に注意が必要である。",
-          "span": "北部では、土砂災害に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "静岡県では、27日明け方にかけて大雨となる所がある見込みである。",
-          "span": "静岡県では、２７日明け方にかけて大雨となる所があるでしょう。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "静岡県では、26日夜遅くにかけて低い土地の浸水、河川の増水に注意・警戒が必要である。",
-          "span": "２６日夜遅くにかけて低い土地の浸水、河川の増水に注意・警戒し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "静岡県では、27日明け方にかけて土砂災害に注意・警戒が必要である。",
-          "span": "２７日明け方にかけて土砂災害に注意・警戒してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "長崎県では、土砂災害や強風、高波に注意が必要である。",
-          "span": "長崎県では、土砂災害や強風、高波に注意してください。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "台風30号から変わった温帯低気圧と前線の影響で、西日本や東日本を中心に大雨や強風、高波などの気象災害のおそれがある。気象庁は各地で土砂災害、低い土地の浸水、河川の増水、交通障害などに注意・警戒を呼びかけている。",
-      "note": "複数の気象庁発表に基づき、各地の注意・警戒事項を事実として整理した。",
+      "consensus": "複数の企業が顧客情報漏えいや不正アクセスによる被害を受けている事実は確認されている。",
+      "note": "本件は事実の羅列であり、評価や対立する意見は含まれていないため、positionsは空となります。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Bolsonaro calls for Brazil election result to be annulled",
-      "slug": "BolsonarocallsforBrazile",
+      "headline": "ガソリン補助、毎月５円縮小　電気代支援再開、自民提言案",
+      "slug": "ガソリン補助毎月円縮小電気代支援再開自民提言案",
       "independentSources": 2,
       "sources": [
-        "時事ドットコム",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102600376&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102600252&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102600371&g=flash&m=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/bolsonaro-calls-for-brazil-election-result-to-be-annulled?traffic_source=rss"
-        }
-      ],
-      "issue": "ブラジル大統領選の結果は正当か？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "ブラジル大統領選の決選投票が行われた。",
-          "span": "ブラジル大統領選決選投票で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "左派のルラ氏が大接戦を制し、4期目となる大統領に選出された。",
-          "span": "左派ルラ氏、大接戦制し４期目へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "右派候補（ボルソナロ氏）は、選挙結果の無効を主張した。",
-          "span": "右派候補「無効」主張",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ボルソナロ氏は、ブラジル大統領選の結果の受け入れを拒否した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ボルソナロ氏は、大統領選の結果の無効を求めた。",
-          "span": "Bolsonaro calls for Brazil election result to be annulled",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ブラジルの大統領選決選投票の結果が変わり始めた瞬間を捉えた映像がソーシャルメディアで共有された。",
-          "span": "Social video captures moment Brazil’s election turned",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "その映像は、候補者の支持者によって撮影された。",
-          "span": "Video shot by supporters of the candidates in Brazil’s presidential runoff show the moment the result began changing",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ブラジル大統領選の決選投票で左派ルラ氏が当選したが、右派候補のボルソナロ氏は結果の受け入れを拒否し、無効を主張している。評価は割れる。",
-      "note": "プライバシー配慮のため、ボルソナロ氏の氏名はそのまま記載。Flavio Bolsonaro は Senator であることが明記されているが、公人としての発言のため記載。",
-      "audit": {
-        "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「ボルソナロ氏は、結果の受け入れを拒否…」"
-        ]
-      }
-    },
-    {
-      "headline": "将棋・西山朋佳女流四冠が棋士に　「もっと上目指す」―女性初、来春から",
-      "slug": "将棋西山朋佳女流四冠が棋士にもっと上目指す女性初",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261026de65487"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600211?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102600359&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102600364&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102600880&g=pol&m=rss"
         }
       ],
-      "issue": "西山朋佳女流四冠はプロ棋士となる権利を行使するか？",
-      "stasis": "事実",
+      "issue": "自民党はガソリン補助金の段階的縮小と電気代支援の再開についてどのような提言を行ったか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "将棋の西山朋佳女流四冠がプロ棋士となる権利を行使する意向を表明した。",
-          "span": "プロ棋士となる権利を行使する意向を表明しました",
+          "t": "自民党がガソリン補助金の段階的縮小を提言した。",
+          "span": "ガソリン補助の段階縮小",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "西山朋佳女流四冠は会見を開いた。",
-          "span": "会見を開き",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "西山朋佳女流四冠は、史上初の女性プロ棋士となる。",
-          "span": "史上初の女性プロ棋士が誕生することになります",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "西山朋佳女流四冠は、来春から棋士となる。",
-          "span": "来春から",
+          "t": "ガソリン補助金は毎月5円ずつ縮小されることが提言された。",
+          "span": "毎月５円縮小",
           "src": [
             {
               "ty": "press",
@@ -452,8 +330,8 @@
           ]
         },
         {
-          "t": "西山朋佳女流四冠は「もっと上を目指す」と述べた。",
-          "span": "「もっと上目指す」",
+          "t": "電気代支援の再開が提言された。",
+          "span": "電気代支援再開",
           "src": [
             {
               "ty": "press",
@@ -463,13 +341,12 @@
         }
       ],
       "positions": [],
-      "consensus": "西山朋佳女流四冠がプロ棋士となる権利を行使する意向を表明し、史上初の女性プロ棋士が誕生することになる。",
+      "consensus": "自民党がガソリン補助金の段階的縮小（毎月5円）と電気代支援の再開を提言したことは事実として合意されている。この提言に対する評価は、本記事からは判断できないため、アプリは裁定しない。",
       "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "positions.claim: \"西山朋佳女流四冠のプロ入りは、女流棋士半世紀の悲願であり、彼女はよく頑張った。\" を \"西山朋佳女流四冠のプロ入りは、女流棋士半世紀の悲願であり、彼女はよく頑張ったと述べている。\" に修正しました（メタ記述の徹底）。",
-          "consensus: \"評価は割れる。\" を削除しました（事実合意型への修正）。"
+          "争点の立て方: issueがテキストにない評価を求めていたため、事実を問う形に修正しました。"
         ]
       }
     }
