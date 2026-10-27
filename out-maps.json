@@ -1,89 +1,93 @@
 {
-  "builtAt": "2026-10-27T02:28:37.390Z",
+  "builtAt": "2026-10-27T08:17:56.589Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-      "slug": "CelebrationsinSerbiaafte",
+      "headline": "漫画家 ちばてつやさん死去 87歳 「あしたのジョー」",
+      "slug": "漫画家ちばてつやさん死去87歳あしたのジョ",
       "independentSources": 3,
       "sources": [
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261027de66136"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600311?source=rss"
+        },
+        {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102600252&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026102700555&g=soc&m=rss"
         }
       ],
-      "issue": "ブラジル大統領選挙でルラ氏がボルソナロ氏に勝利したか？",
+      "issue": "漫画家のちばてつやさんは死去したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ブラジル大統領選挙の決選投票で、左派のルラ氏が大接戦を制し、4期目となる大統領に選出された。",
-          "span": "左派ルラ氏、大接戦制し４期目へ",
+          "t": "漫画家のちばてつやさんが87歳で死去した。",
+          "span": "87歳",
           "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ルラ氏は決選投票で、右派候補に勝利した。",
-          "span": "Lula wins fourth term in dramatic Brazil election comeback",
+          "t": "ちばてつやさんは「あしたのジョー」などのヒット作を手がけた。",
+          "span": "「あしたのジョー」など数々のヒット作を手がけ",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ルラ氏は、最初の投票ラウンドでは右派候補のフラビオ・ボルソナロ氏に敗れていた。",
-          "span": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+          "t": "ちばてつやさんは日本漫画家協会の会長も務めた。",
+          "span": "日本漫画家協会の会長も務めた",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "ルラ氏は、最初の投票ラウンドでの敗北を覆し、歴史的な4期目の大統領職を確保した。",
-          "span": "Brazil&#039;s president secured a historic fourth term after overturning a first-round defeat.",
+          "t": "ちばてつやさんは今月22日、都内の病院で骨髄異形成症候群のため亡くなった。",
+          "span": "今月22日、都内の病院で骨髄異形成症候群のため亡くなりました",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ブラジル大統領選挙の決選投票でルラ氏が勝利したという事実は合意されているが、右派候補は選挙結果の無効を主張している。",
-      "note": "セルビア大統領選挙に関する情報は、ブラジル大統領選挙とは別の出来事であるため、本件の構造化からは除外した。",
+      "consensus": "漫画家のちばてつやさんが87歳で死去したことは、複数の報道機関によって報じられている。報道によると、ちばさんは「あしたのジョー」などのヒット作を手がけ、日本漫画家協会の会長も務めた。死因は骨髄異形成症候群で、今月22日に都内の病院で亡くなった。",
+      "note": "本件は事実の報道のみであり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[0].span を「87歳」に修正しました。元テキストの「87歳」が死去の事実を修飾しているため、より具体的なspanに変更しました。",
+          "facts[0].src に「NHK 主要ニュース」を追加しました。元テキストの冒頭に「漫画家 ちばてつやさん死去 87歳」とあり、時事ドットコムと同様にこの事実を報じているためです。",
+          "fact spanが原文に無い→除去「ちばてつやさん死去 ８７歳…」"
+        ]
       }
     },
     {
-      "headline": "GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化",
-      "slug": "GMOハッカ集団の脅迫続くなか注意呼びかけを一段",
+      "headline": "GMO ハッカー集団“会社交渉応じなかった”1人の個人情報公開",
+      "slug": "GMOハッカ集団会社交渉応じなかった1人の個人情",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -95,19 +99,19 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20261027de66048"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261027de66082"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600302?source=rss"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600274?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6600277?source=rss"
         }
       ],
-      "issue": "GMOインターネットグループへの不正アクセスとハッカー集団の要求に対し、企業と利用者はどのように対応すべきか？",
-      "stasis": "政策",
+      "issue": "GMOインターネットグループのサービスへの不正アクセスと個人情報公開は、ハッカー集団が会社交渉に応じなかったためか？",
+      "stasis": "因果の解釈（割れる）",
       "facts": [
         {
-          "t": "GMOインターネットグループのサービスに不正アクセスが発生した。",
+          "t": "GMOインターネットグループのサービスに不正アクセスがあった。",
           "span": "GMOインターネットグループのサービスに不正アクセスがあり",
           "src": [
             {
@@ -117,8 +121,8 @@
           ]
         },
         {
-          "t": "不正アクセスにより、身に覚えのない取り引きが確認された。",
-          "span": "身に覚えのない取り引きが確認された",
+          "t": "身に覚えのない取引が確認された。",
+          "span": "身に覚えのない取り引きが確認された問題で",
           "src": [
             {
               "ty": "press",
@@ -127,117 +131,57 @@
           ]
         },
         {
-          "t": "不正アクセス問題を受け、注意呼びかけが一段と強化されている。",
-          "span": "注意呼びかけを一段と強化",
+          "t": "ハッカー集団は、会社側が交渉に応じなかったと主張している。",
+          "span": "ハッカー集団は、会社側が交渉に応じなかったとして",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
+        },
+        {
+          "t": "ハッカー集団は、インターネット上のサイトで個人情報を公開した。",
+          "span": "インターネット上のサイトで27日正午過ぎ、個人情報",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ハッカー集団は個人情報を毎日公開すると表明している。",
+          "span": "個人情報毎日公開",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "FX不正アクセスで5社で顧客被害が発生した。",
+          "span": "FX不正アクセス 5社で顧客被害",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "GMOインターネットグループのサービスへの不正アクセスと身に覚えのない取引が確認されており、ハッカー集団が金銭を要求している。これに対し、GMO側は利用者への注意喚起と特定の対応を呼びかけている。評価は割れる／アプリは裁定しない。",
-      "note": null,
+      "consensus": "GMOインターネットグループのサービスへの不正アクセスと身に覚えのない取引の確認、および個人情報の公開があった。ハッカー集団は会社交渉に応じなかったことを理由に挙げている。評価は割れる。",
+      "note": "プライバシー配慮のため、公開された個人情報の詳細は記載しない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "下院は民主優勢、上院は接戦　トランプ共和、イラン作戦で逆風―米中間選挙まで１週間",
-      "slug": "下院は民主優勢上院は接戦トランプ共和イラン作戦で",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600255?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102600643&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102600631&g=int&m=rss"
-        }
-      ],
-      "issue": "米中間選挙における下院・上院の勢力図はどのようになるか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "米中間選挙まで残り1週間である。",
-          "span": "米中間選挙まで１週間",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "下院は民主党が優勢であると伝えられている。",
-          "span": "下院は民主優勢",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "上院は接戦であると伝えられている。",
-          "span": "上院は接戦",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏率いる共和党は、イラン作戦によって逆風に直面していると伝えられている。",
-          "span": "イラン作戦で逆風",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "民主党の知事らが党勢拡大のために激戦区で活動している。",
-          "span": "党勢拡大に激戦区奔走",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米中間選挙まで1週間となり、下院は民主党優勢、上院は接戦であると伝えられている。トランプ共和党はイラン作戦によって逆風に直面していると伝えられており、民主党知事は党勢拡大のため激戦区で活動しており、その活動は次期大統領選への布石であると報じられている。最終的な選挙結果については、アプリは裁定しない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factsのtに評価語（優勢、接戦、逆風）が混入していたため、それらの評価が「伝えられている」情報であることを明確にするよう修正し、メタ記述を徹底した。"
-        ]
-      }
-    },
-    {
-      "headline": "元検事正 部下への性的暴行の起訴内容を否認 無罪を主張",
-      "slug": "元検事正部下への性的暴行の起訴内容を否認無罪を主",
+      "headline": "浜岡原発 運転差し止めの訴え退ける判決 静岡地裁",
+      "slug": "浜岡原発運転差し止めの訴え退ける判決静岡地裁",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -246,65 +190,93 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261027de66127"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261027de66188"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600270?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6600307?source=rss"
         }
       ],
-      "issue": "元検事正は、部下が抵抗できない状態であることを認識しつつ性的暴行を加えたか？",
+      "issue": "浜岡原発3号機から5号機の運転差し止めを求める住民らの訴えは認められるか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "浜岡原子力発電所の3号機から5号機の運転差し止めを求める訴訟で、静岡地方裁判所は住民らの訴えを退ける判決を下した。",
+          "span": "運転を差し止めるよう住民らが求めた裁判で、静岡地方裁判所は、訴えを退ける判決を言い渡しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "浜岡原発3号機から5号機の運転差し止めを求める訴訟で、静岡地方裁判所は住民らの訴えを退ける判決を下した。",
+      "note": "本件は、裁判所の判決という事実のみが報じられており、それに対する評価や意見の対立を示す情報が含まれていないため、positions は空となります。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
+      "slug": "MajorChinesebrandsdropMb",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600312?source=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "エムバペ選手は中国のブランドとの関係を解消されたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "大阪地方裁判所で元検事正の裁判が開かれている。",
-          "span": "裁判が、大阪地方裁判所で開かれ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "大阪地方検察庁の元検事正が、部下への性的暴行の罪に問われている。",
-          "span": "部下に性的暴行を加えた罪に問われている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "その起訴内容は、部下が酒に酔って抵抗できない状態であったとされている。",
-          "span": "酒に酔って抵抗できない状態の部下に性的暴行を加えた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この事件は性的暴行事件である。",
-          "span": "性的暴行事件",
+          "t": "中国の2社がエムバペ選手との関係を解消したと報じられている。",
+          "span": "中国2社 エムバペ選手と関係解消",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
+        },
+        {
+          "t": "エムバペ選手が「お気に入りのミームは、自分の顔が中国の独裁者に貼り付けられたもの」だと述べたと報じられている。",
+          "span": "He allegedly said his \"favourite meme\" is \"the one where they put my face on a Chinese dictator\".",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "エムバペ選手に対する反発が高まっていると報じられている。",
+          "span": "as backlash grows over Mao joke",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "元検事正の裁判が大阪地方裁判所で開かれており、元検事正は性的暴行の起訴内容を否認し、無罪を主張している。評価は裁判所の裁定に委ねられる。",
-      "note": null,
+      "consensus": "中国の2社がエムバペ選手との関係を解消したと報じられている。エムバペ選手が「お気に入りのミームは、自分の顔が中国の独裁者に貼り付けられたもの」だと述べたと報じられている。エムバペ選手に対する反発が高まっていると報じられている。",
+      "note": "本件は、エムバペ選手の発言とされる内容に対する反発が、中国のブランドとの関係解消につながったという報道を構造化したものです。発言の真偽や、関係解消の直接的な因果関係については、提示された情報からは判断できません。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述の徹底と著作権への配慮のため、表現を修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
