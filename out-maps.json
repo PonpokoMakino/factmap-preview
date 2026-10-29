@@ -1,7 +1,87 @@
 {
-  "builtAt": "2026-10-29T13:15:55.805Z",
+  "builtAt": "2026-10-29T18:59:31.536Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
+    {
+      "headline": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "slug": "RussiandroneattackonUkra",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/29/us-muslims-concerned-but-resilient-as-hate-attacks-target-abdul-el-sayed?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/aje-onl-nf_russian-drone-strike-at-dnipro-train-platform-291026?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/29/uae-sentences-eight-people-to-life-over-arms-supplies-to-sudans-army?traffic_source=rss"
+        }
+      ],
+      "issue": "ウクライナの鉄道駅への攻撃で死傷者は出たか？",
+      "stasis": "facts",
+      "facts": [
+        {
+          "t": "ロシアのドローン攻撃により、ウクライナ中部の都市ドニプロの鉄道駅で少なくとも14人が死亡し、14人が負傷したと当局者が発表した。負傷者には11歳の少年が含まれる。",
+          "span": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ロシアのドローン攻撃がウクライナ中部のドニプロの主要鉄道駅で少なくとも14人の命を奪った。",
+          "span": "A Russian drone strike killed at least 14 people at Dnipro’s main railway station in central Ukraine.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "UAEは、スーダン軍への武器供給に関与した8人に終身刑を言い渡した。",
+          "span": "UAE sentences eight people to life over arms supplies to Sudan’s army",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "被告らは、スーダンの戦争とRSFを巡るハルツームとアブダビ間の緊張の中で終身刑を言い渡された。",
+          "span": "Defendants handed ⁠life sentences amid tensions between Khartoum and Abu Dhabi over Sudan&#039;s war and the RSF.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ウクライナの鉄道駅への攻撃で死傷者が出たこと、UAEがスーダン軍への武器供給に関与した8人に終身刑を言い渡したことは合意されている。米国イスラム教徒はヘイトクライムへの対応について異なる見解を持っている。",
+      "note": "プライバシーに配慮し、個人名は特定されていません。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claim: \"ヘイトクライムへの最善の対応は、ミシガン州の民主党候補を米国上院に選出することだ\" を \"ヘイトクライムへの最善の対応は、ミシガン州の民主党候補を米国上院に選出することだと、イスラム教徒の擁護者は述べている\" に修正しました。メタ記述の徹底のため、発言主体を明記しました。"
+        ]
+      }
+    },
     {
       "headline": "電気・ガス代支援、１２月再開　ガソリン補助は段階的縮小―高市首相表明",
       "slug": "電気ガス代支援月再開ガソリン補助は段階的縮小高市",
@@ -77,149 +157,111 @@
       }
     },
     {
-      "headline": "中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失",
-      "slug": "中部電力浜岡原発34号機審査取り下げで3700億",
+      "headline": "欧州中銀、金利据え置き　２会合ぶり、中東情勢見極め",
+      "slug": "欧州中銀金利据え置き会合ぶり中東情勢見極め",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67852"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600623?source=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600594?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102901257&g=int&m=rss"
         }
       ],
-      "issue": "中部電力は浜岡原発3・4号機の審査取り下げに関連し、特別損失を計上したか？",
-      "stasis": "事実",
+      "issue": "欧州中央銀行（ECB）は、政策金利を据え置くべきか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "中部電力は、浜岡原子力発電所の3、4号機の再稼働に向けた国の審査で、地震の想定に関するデータを改ざんしていた問題に関連し、ことし4月から先月までの中間決算で、3700億円あまりの特別損失を計上したと発表した。",
-          "span": "3700億円あまりの特別損失を計上したと発表",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "中部電力は2027年3月期の決算で、3800億円の特別損失を計上すると発表した。",
-          "span": "27年3月期の特損3800億円",
+          "t": "欧州中央銀行（ECB）は、政策金利を据え置くことを決定した。",
+          "span": "金利据え置き",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "この決定は、2回の会合ぶりとなる。",
+          "span": "２会合ぶり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "中東情勢の動向を見極める必要がある。",
+          "span": "中東情勢見極め",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "中部電力は浜岡原発3・4号機の審査取り下げに関連し、特別損失を計上した。計上額については、NHKは3700億円あまり、Yahoo!ニュースは3800億円と報じている。",
-      "note": "計上額について報道間で差異がある。",
+      "consensus": "欧州中央銀行（ECB）は政策金利を据え置いた。中東情勢を見極める必要がある。",
+      "note": "本記事では、金利据え置きの決定とその理由について事実が記述されているが、それに対する賛否や評価を表明する主体の記述はなかったため、positionsは空となる。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "松江 3校の児童ら300人近く体調不良 同じセンター提供の給食後",
-      "slug": "松江3校の児童ら300人近く体調不良同じセンタ提",
+      "headline": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+      "slug": "Audiorevealsexchangesbet",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム",
+        "BBC World"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261029de68105"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102901223&g=int&m=rss"
         },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600605?source=rss"
-        }
-      ],
-      "issue": "松江市の給食センターが提供した給食後に児童らが体調不良を訴えた事案について、原因は何か？",
-      "stasis": "因果の解釈（割れる）",
-      "facts": [
-        {
-          "t": "松江市の3つの小学校で、給食後に児童など約300人が体調不良を訴えた。",
-          "span": "松江市の3つの小学校で提供された給食を食べた児童など300人近くが体調不良を訴え",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "体調不良を訴えたうち、10人が病院に搬送された。",
-          "span": "このうち、10人が病院に搬送されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "体調不良を訴えたのは293人だった。",
-          "span": "3小学校293人 給食後嘔吐など発症",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "体調不良の原因となった給食は、同じ給食センターから提供されたものである。",
-          "span": "同じ給食センターから提供されたというこ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "松江市の3つの小学校で、同じ給食センターが提供した給食後に児童ら約300人が体調不良を訴え、うち10人が搬送された。体調不良者は293人だった。評価は割れる。",
-      "note": "プライバシーに配慮し、具体的な症状や個人名は記載しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Why is Russia sending fighter jets and air defences to Ethiopia?",
-      "slug": "WhyisRussiasendingfighte",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "米国は、コンゴ紛争への関与を理由にルワンダ国防省に制裁を科したか？",
+      "issue": "スペインの列車事故において、管制官が運転士に規則違反の指示を出したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "米国は、コンゴ紛争への関与を理由にルワンダ国防省に制裁を科した。",
-          "span": "US sanctions Rwanda's defence ministry over DR Congo conflict",
+          "t": "スペインで列車事故が発生した。",
+          "span": "列車事故",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "事故の直前に、運転士と管制官の間でやり取りがあったことが音声記録から明らかになった。",
+          "span": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
           "src": [
             {
               "ty": "press",
@@ -228,8 +270,8 @@
           ]
         },
         {
-          "t": "コンゴは、ルワンダがM23反乱軍を支援し、紛争地域である東部で鉱物を略奪していると非難している。",
-          "span": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
+          "t": "流出した音声記録によると、別の高速列車が運行しているにもかかわらず、ある高速列車が通常の速度で運行する許可を与えられたように見える。",
+          "span": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up",
           "src": [
             {
               "ty": "press",
@@ -238,25 +280,32 @@
           ]
         },
         {
-          "t": "ロシアはエチオピアに戦闘機と防空システムを送っている。",
-          "span": "Why is Russia sending fighter jets and air defences to Ethiopia?",
+          "t": "管制が運転士に規則違反の指示を出した可能性がある。",
+          "span": "管制、運転士に規則違反の指示か",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "事故後、「通常速度」で運行が再開された。",
+          "span": "「通常速度」で運行再開",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "米国はルワンダ国防省に制裁を科し、コンゴはルワンダが反乱軍を支援し鉱物を略奪していると非難している。ロシアはエチオピアに戦闘機と防空システムを送っている。専門家は、ロシアの動機は武器収入と外交的影響力にあると見ている。",
-      "note": "プライバシー配慮のため、個人名は記載しない。コンゴ紛争の具体的な詳細や、ロシアとエチオピアの関係の背景については、記事の範囲を超えて言及しない。",
+      "consensus": "スペインで列車事故が発生した。事故の直前に運転士と管制官の間でやり取りがあったことが音声記録から明らかになった。流出した音声記録によると、別の高速列車が運行しているにもかかわらず、ある高速列車が通常の速度で運行する許可を与えられたように見える。管制が運転士に規則違反の指示を出した可能性が指摘されており、事故後「通常速度」で運行が再開された。",
+      "note": "BBC Worldの記事は音声記録の内容に焦点を当てており、時事ドットコムの記事は管制の指示の可能性と運行再開に焦点を当てている。両記事とも事故の状況に関する事実を報じているが、直接的な対立する立場表明は含まれていないため、positionsは空とする。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: \"モスクワは武器の収入とさらなる外交的影響力を求めている\" を \"モスクワは武器の収入とさらなる外交的影響力を求めていると述べている\" に修正。メタ記述の徹底のため。",
-          "consensus: \"専門家は、ロシアの動機は武器収入と外交的影響力にあると見ている。評価は割れる。\" から \"評価は割れる。\" を削除。元テキストに評価が割れるという記述がないため。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
