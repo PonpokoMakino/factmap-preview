@@ -1,420 +1,245 @@
 {
-  "builtAt": "2026-10-28T20:36:10.286Z",
+  "builtAt": "2026-10-29T13:15:55.805Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-      "slug": "NetanyahusblocleadingIsr",
-      "independentSources": 4,
+      "headline": "電気・ガス代支援、１２月再開　ガソリン補助は段階的縮小―高市首相表明",
+      "slug": "電気ガス代支援月再開ガソリン補助は段階的縮小高市",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600608?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102901064&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026102901074&g=pol&m=rss"
+        }
+      ],
+      "issue": "政府は電気・ガス代への補助を12月から実施するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "政府は電気・ガス代への補助を12月から来年2月まで実施する予定である。",
+          "span": "電気ガス代補助 12月-来年2月実施",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "政府は電気・ガス代への支援を12月に再開する。",
+          "span": "電気・ガス代支援、１２月再開",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ガソリン補助は段階的に縮小される。",
+          "span": "ガソリン補助は段階的縮小",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "ガソリンの基準価格が毎月5円引き上げられる。",
+          "span": "ガソリン基準価、毎月５円引き上げ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "政府は12月から来年2月にかけて電気・ガス代への補助を実施し、ガソリン補助は段階的に縮小し、基準価格を毎月5円引き上げる方針である。",
+      "note": "本件は複数の報道機関が同様の事実を報じているが、各報道で報じられている内容はほぼ一致しており、特定の評価や対立する意見は含まれていないため、positionsは首相の発言内容の記録に留まる。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失",
+      "slug": "中部電力浜岡原発34号機審査取り下げで3700億",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67852"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600594?source=rss"
+        }
+      ],
+      "issue": "中部電力は浜岡原発3・4号機の審査取り下げに関連し、特別損失を計上したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "中部電力は、浜岡原子力発電所の3、4号機の再稼働に向けた国の審査で、地震の想定に関するデータを改ざんしていた問題に関連し、ことし4月から先月までの中間決算で、3700億円あまりの特別損失を計上したと発表した。",
+          "span": "3700億円あまりの特別損失を計上したと発表",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "中部電力は2027年3月期の決算で、3800億円の特別損失を計上すると発表した。",
+          "span": "27年3月期の特損3800億円",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "中部電力は浜岡原発3・4号機の審査取り下げに関連し、特別損失を計上した。計上額については、NHKは3700億円あまり、Yahoo!ニュースは3800億円と報じている。",
+      "note": "計上額について報道間で差異がある。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "松江 3校の児童ら300人近く体調不良 同じセンター提供の給食後",
+      "slug": "松江3校の児童ら300人近く体調不良同じセンタ提",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261029de68105"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600605?source=rss"
+        }
+      ],
+      "issue": "松江市の給食センターが提供した給食後に児童らが体調不良を訴えた事案について、原因は何か？",
+      "stasis": "因果の解釈（割れる）",
+      "facts": [
+        {
+          "t": "松江市の3つの小学校で、給食後に児童など約300人が体調不良を訴えた。",
+          "span": "松江市の3つの小学校で提供された給食を食べた児童など300人近くが体調不良を訴え",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "体調不良を訴えたうち、10人が病院に搬送された。",
+          "span": "このうち、10人が病院に搬送されました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "体調不良を訴えたのは293人だった。",
+          "span": "3小学校293人 給食後嘔吐など発症",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "体調不良の原因となった給食は、同じ給食センターから提供されたものである。",
+          "span": "同じ給食センターから提供されたというこ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "松江市の3つの小学校で、同じ給食センターが提供した給食後に児童ら約300人が体調不良を訴え、うち10人が搬送された。体調不良者は293人だった。評価は割れる。",
+      "note": "プライバシーに配慮し、具体的な症状や個人名は記載しない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Why is Russia sending fighter jets and air defences to Ethiopia?",
+      "slug": "WhyisRussiasendingfighte",
+      "independentSources": 2,
+      "sources": [
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67458"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102800149&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102800125&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102800649&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102801232&g=int&m=rss"
-        },
-        {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cm87zw51qw0jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/29/why-is-russia-sending-fighter-jets-and-air-defences-to-ethiopia?traffic_source=rss"
         }
       ],
-      "issue": "イスラエル総選挙の結果、ネタニヤフ首相の右派政党は過半数を獲得し政権を維持できるか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "イスラエル総選挙の開票率が85％を超えた。",
-          "span": "開票率85％を超え",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "開票状況などをもとにした政党別の予測獲得議席では、ネタニヤフ首相の右派政党が第1党の座を守るとみられている。",
-          "span": "ネタニヤフ首相の右派政党が事前の世論調査の予測を覆し第1党の座を守るとみられています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "開票率85％で、ネタニヤフ首相の右派政党とその同盟は120議席中53議席を獲得する見込みである。",
-          "span": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "開票率85％で、すべての兆候が膠着状態を示している。",
-          "span": "With 85% of votes counted, all signs point to an impasse.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イスラエルでは、10月7日の攻撃とガザでのジェノサイド戦争以来、初の選挙が行われた。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ボルソナロ氏はブラジルの大統領選挙で敗北した後、米国に到着した。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ボルソナロ氏は隣国を経由して出国し、逮捕を回避する目的があったとみられている。",
-          "span": "隣国経由し出国、逮捕回避目的か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ボルソナロ氏は米国に到着したと報じられている。",
-          "span": "ボルソナロ氏、米国に到着　報道",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ボルソナロ氏の米国到着は、降伏命令に従わなかった後の所在に関する憶測を終わらせた。",
-          "span": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrende",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イスラエル総選挙の開票率85％超の段階で、ネタニヤフ首相の右派政党が第1党を維持する見込みだが、過半数には届いていないと報じられている。ボルソナロ氏が米国に到着した。評価は割れている。",
-      "note": "ボルソナロ氏に関する情報は、イスラエル総選挙とは別の出来事だが、同じ記事群に含まれていたため構造化した。",
-      "audit": {
-        "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「Flávio Bolsonaro l…」",
-          "position spanが原文に無い→除去「How could Israel b…」"
-        ]
-      }
-    },
-    {
-      "headline": "気象庁によると、千葉県北東部で震度５弱の揺れを観測した",
-      "slug": "気象庁によると千葉県北東部で震度弱の揺れを観測し",
-      "independentSources": 4,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "気象庁 地震・火山"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67425"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600489?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102900008&g=flash&m=rss"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261028202523_0_VXSE53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261028183537_0_VXSE53_010000.xml"
-        }
-      ],
-      "issue": "千葉県北東部を震源とする地震の発生と、今後の注意喚起は妥当か？",
+      "issue": "米国は、コンゴ紛争への関与を理由にルワンダ国防省に制裁を科したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "29日未明、千葉県北東部を震源とする地震が発生し、千葉県で震度5弱の揺れを観測した。",
-          "span": "千葉県北東部で震度5弱 津波の心配なし",
+          "t": "米国は、コンゴ紛争への関与を理由にルワンダ国防省に制裁を科した。",
+          "span": "US sanctions Rwanda's defence ministry over DR Congo conflict",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "29日午前3時32分頃、地震があった。",
-          "span": "２９日０３時３２分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "29日午前5時22分頃、地震があった。",
-          "span": "２９日０５時２２分ころ、地震がありました",
-          "src": [
-            {
-              "ty": "prim",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "千葉県北東部で震度5弱の揺れが観測された。",
-          "span": "千葉県北東部で震度５弱の揺れを観測した",
+          "t": "コンゴは、ルワンダがM23反乱軍を支援し、紛争地域である東部で鉱物を略奪していると非難している。",
+          "span": "Congo accuses Rwanda of backing M23 rebels and plundering minerals in its conflict hit East",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "千葉県で震度5弱の揺れが観測された。",
-          "span": "千葉県で震度5弱",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "津波の心配はない。",
-          "span": "津波の心配なし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "津波の心配はない。",
-          "span": "津波の心配なし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "29日未明に千葉県北東部を震源とする地震が発生し、千葉県で震度5弱の揺れが観測された。津波の心配はない。気象庁は今後1週間程度の地震に注意を呼びかけている。",
-      "note": "プライバシー配慮のため、個別の被害状況に関する情報は含めない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factの重複を削除しました（千葉県北東部で震度5弱の揺れが観測された、津波の心配はない）。",
-          "factのspanをより具体的に修正しました（29日未明、千葉県北東部を震源とする地震が発生し、千葉県で震度5弱の揺れを観測した）。",
-          "consensusの内容を事実とpositionの情報を統合し、より簡潔にしました。",
-          "issueの問いかけをより具体的にしました。",
-          "fact spanが原文に無い→除去「２９日未明、千葉県北東部を震源とする…」"
-        ]
-      }
-    },
-    {
-      "headline": "Students on hunger strike in India demand restoration of student union",
-      "slug": "Studentsonhungerstrikein",
-      "independentSources": 4,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67453"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600486?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102800981&g=int&m=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/students-on-hunger-strike-in-india-demand-restoration-of-student-union?traffic_source=rss"
-        }
-      ],
-      "issue": "スペイン高速鉄道衝突事故の状況と影響は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "スペイン中部で高速鉄道の列車どうしが衝突した。",
-          "span": "高速鉄道の列車どうしが衝突し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "事故は28日に発生した。",
-          "span": "28日",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "これまでに少なくとも68人が死亡した。",
-          "span": "68人死亡",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "これまでに64人が死亡したと報じられている。",
-          "span": "64人死亡",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
-            }
-          ]
-        },
-        {
-          "t": "これまでに64人が死亡したと報じられている。",
-          "span": "６４人死亡",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "少なくとも68人が死亡し、100人以上が負傷した。",
-          "span": "At least 68 people have been killed and more than 100 injured",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "事故はマドリードの南で発生した。",
-          "span": "south of Madrid",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "先行する列車が停止していたところに後続の列車が進入して追突した。",
-          "span": "先行する列車が停止していたところ後続の列車が進入して追突していた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "当局は詳しい状況を調べている。",
-          "span": "詳しい状況を調べています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "Al Jazeeraは、この事故が過去10年以上で最も死者数の多い列車事故であると報じた。",
-          "span": "deadliest train disaster in over a decade",
+          "t": "ロシアはエチオピアに戦闘機と防空システムを送っている。",
+          "span": "Why is Russia sending fighter jets and air defences to Ethiopia?",
           "src": [
             {
               "ty": "press",
@@ -424,124 +249,13 @@
         }
       ],
       "positions": [],
-      "consensus": "スペイン中部で高速鉄道の列車衝突事故が発生し、少なくとも68人が死亡、100人以上が負傷した。先行列車への後続列車の追突が原因とみられ、当局が詳しい状況を調査中である。アプリは裁定しない。",
-      "note": null,
+      "consensus": "米国はルワンダ国防省に制裁を科し、コンゴはルワンダが反乱軍を支援し鉱物を略奪していると非難している。ロシアはエチオピアに戦闘機と防空システムを送っている。専門家は、ロシアの動機は武器収入と外交的影響力にあると見ている。",
+      "note": "プライバシー配慮のため、個人名は記載しない。コンゴ紛争の具体的な詳細や、ロシアとエチオピアの関係の背景については、記事の範囲を超えて言及しない。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[9]（元のJSONのfacts[9]）: 「スペインは事故の原因究明を求めている。」という評価・主張を含む項目を、発言主体が特定できる評価としてpositionsへ移動しました。actorを「スペイン政府」とし、claimを「事故の原因究明を求めているとAl Jazeeraが報じている。」とメタ記述に修正しました。",
-          "facts[10]（元のJSONのfacts[10]）: 「この事故は過去10年以上で最も死者数の多い列車事故である。」という評価を含む項目を、評価混入を避けるため「Al Jazeeraは、この事故が過去10年以上で最も死者数の多い列車事故であると報じた。」とメタ記述に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "米ＦＲＢ、金利据え置き　インフレ加速も様子見―利上げ主張で２人反対",
-      "slug": "米金利据え置きインフレ加速も様子見利上げ主張で人",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261029de67441"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102900078&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026102900118&g=int&m=rss"
-        }
-      ],
-      "issue": "FRBの政策金利据え置きは適切か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "アメリカのFRB（連邦準備制度理事会）は金融政策会合で政策金利の据え置きを発表した。",
-          "span": "政策金利を据え置くと発表しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "政策金利の据え置きは2会合ぶりである。",
-          "span": "据え置きは2会合ぶりで",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "据え置かれた政策金利は3.75～4.00%である。",
-          "span": "政策金利を３．７５～４．００％に据え置く",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "FRBのメンバー2人が利上げを主張し、政策金利の据え置きに反対した。",
-          "span": "利上げ主張で２人反対",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "FRB（多数派）",
-          "stance": "support",
-          "claim": "FRBは政策金利を据え置く決定をしたと発表した。",
-          "span": "政策金利を据え置くと発表しました",
-          "reason": "NHKは、先月の利上げに伴うインフレ動向などを見極めるねらいがあると報じている。",
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "actor": "FRBメンバー（2人）",
-          "stance": "attack",
-          "claim": "FRBメンバー2人は利上げを主張したと報じられている。",
-          "span": "利上げ主張",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "consensus": "FRBが政策金利を据え置いたことは事実として合意されているが、その判断の適切性については意見が分かれる。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述を徹底し、元の文の言い回しをなぞらないよう再記述しました。",
-          "positions[0].reason: 評価混入を修正し、記者の解釈であることを明確にするためメタ記述を追加しました。",
-          "positions[1].claim: メタ記述を徹底し、元の文の言い回しをなぞらないよう再記述しました。"
+          "positions[0].claim: \"モスクワは武器の収入とさらなる外交的影響力を求めている\" を \"モスクワは武器の収入とさらなる外交的影響力を求めていると述べている\" に修正。メタ記述の徹底のため。",
+          "consensus: \"専門家は、ロシアの動機は武器収入と外交的影響力にあると見ている。評価は割れる。\" から \"評価は割れる。\" を削除。元テキストに評価が割れるという記述がないため。"
         ]
       }
     }
