@@ -1,10 +1,110 @@
 {
-  "builtAt": "2026-10-30T15:51:06.643Z",
+  "builtAt": "2026-10-30T23:56:53.186Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Mushroom murderer fails to overturn convictions in Australian court challenge",
-      "slug": "Mushroommurdererfailstoo",
+      "headline": "5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請",
+      "slug": "5年ぶり日ロ外相会談茂木外相北海道新聞記者の即時",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68824"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68825"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600743?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026103100115&g=pol&m=rss"
+        }
+      ],
+      "issue": "ロシアは拘束されている北海道新聞記者を即時解放すべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "日ロ外相会談がアメリカで開催された。",
+          "span": "訪問先のアメリカでロシアのラブロフ外相と会談しました",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日ロ外相の対面での正式会談はおよそ5年ぶりだった。",
+          "span": "およそ5年ぶり",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "G20外相会合がアメリカで開幕した。",
+          "span": "G20＝主要20か国の外相会合がアメリカで開幕しました",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "茂木外務大臣はG20会合で中東やウクライナ、北朝鮮などをめぐる日本の立場を主張した。",
+          "span": "中東やウクライナ、北朝鮮などをめぐる日本の立場を主張した",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "茂木外務大臣はG20各国に連携・協調を呼びかけた。",
+          "span": "G20各国が連携・協調を",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日ロ外相会談がアメリカで行われ、茂木外務大臣がロシアのラブロフ外相に対し、拘束されている北海道新聞記者の即時解放を要請したことは事実として合意されている。評価はアプリでは裁定しない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[4].spanを、元テキストのヘッドラインからより正確な最小核「G20各国が連携・協調を」に修正しました。",
+          "positions[0].claimを、著作権に配慮し、かつメタ記述を徹底する形で「茂木外務大臣は、ロシアに対し、拘束されている北海道新聞記者の即時解放を強く要請したと報じられている。」に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "G20 'family photo' cancelled after protests over presence of Russian minister",
+      "slug": "G20familyphotocancelleda",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -13,23 +113,31 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/30/australian-mushroom-murderer-erin-patterson-loses-appeal-bid?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss"
         }
       ],
-      "issue": "エリン・パターソンは、オーストラリアの裁判で有罪判決を受けたことに対して不服申し立てを行ったが、それは認められるか？",
-      "stasis": "事実",
+      "issue": "G20会議におけるロシア代表の出席を巡る議論は何か？",
+      "stasis": "議論",
       "facts": [
         {
-          "t": "エリン・パターソンは、自身の裁判が不公平であったと主張し、7つの根拠を挙げて不服申し立てを行った。",
-          "span": "Erin Patterson argued her trial was unfair due to seven grounds",
+          "t": "高速列車2両が衝突し、少なくとも[人数不明]が死亡した。",
+          "span": "two high-speed trains collided earlier in the week, killing at least",
           "src": [
             {
               "ty": "press",
@@ -38,8 +146,8 @@
           ]
         },
         {
-          "t": "3人の控訴裁判官は、パターソンの主張する7つの根拠をすべて却下した。",
-          "span": "three appeal judges dismissed them all",
+          "t": "G20の集合写真撮影が中止された。",
+          "span": "G20 'family photo' cancelled",
           "src": [
             {
               "ty": "press",
@@ -48,8 +156,18 @@
           ]
         },
         {
-          "t": "オーストラリアの裁判所は、「マッシュルーム殺人犯」エリン・パターソンの不服申し立てを棄却した。",
-          "span": "Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal",
+          "t": "ロシア大臣の出席を巡る抗議活動があった。",
+          "span": "protests over presence of Russian minister",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "G20が集合写真撮影を取りやめた。",
+          "span": "G20 drops group photo",
           "src": [
             {
               "ty": "press",
@@ -58,8 +176,68 @@
           ]
         },
         {
-          "t": "裁判所は、仮釈放を認めない決定を下し、パターソンは終身刑で服役することになると判断した。",
-          "span": "Court rules Patterson will spend the rest of her life behind bars after denying parole",
+          "t": "欧州諸国がラブロフ氏との同席を拒否した。",
+          "span": "Europeans refuse to stand with Lavrov",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "制裁対象となっているロシア外相がアトランタでの会談に出席した。",
+          "span": "Sanctioned Russian FM attends Atlanta talks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イラン戦争、ホルムズ海峡の混乱、ウクライナ情勢がG20メンバー間の意見対立を引き起こしている。",
+          "span": "Iran war, Hormuz disruption and Ukraine divide G20 members",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ロシアのラブロフ氏の出席により緊張が生じた。",
+          "span": "Russia’s Lavrov presence sparks tensions",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ポートスーダンでは水不足が続き、住民は高騰する水費用に直面している。",
+          "span": "Port Sudan families can barely afford water as shortages persist",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "戦争と避難民の発生が水の供給を圧迫している。",
+          "span": "war, displacement strain supply",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "損傷したインフラを復旧するための努力がなされている。",
+          "span": "efforts to restore damaged infrastructure",
           "src": [
             {
               "ty": "press",
@@ -69,24 +247,22 @@
         }
       ],
       "positions": [],
-      "consensus": "エリン・パターソンは、オーストラリアの裁判所に対し、有罪判決に対する不服申し立てを行ったが、裁判官はすべての根拠を却下し、仮釈放なしの終身刑となった。",
-      "note": "プライバシー配慮のため、事件の詳細は省略し、裁判手続きと結果に焦点を当てています。",
+      "consensus": "G20会議ではロシア外相の出席を巡り、集合写真の中止や欧州諸国の同席拒否など緊張が生じている。英国外相はロシア政府を非難し、米国務長官は協力を促した。また、スペインでは高速列車衝突事故が発生し、ポートスーダンでは水不足が続いている。",
+      "note": "提供された記事は複数の異なる出来事を扱っており、G20関連の議論と、スペインの列車事故、ポートスーダンの水不足という独立した事実が含まれる。",
       "audit": {
         "changed": true,
         "issues": [
-          "fact 1: \"エリン・パターソンは、オーストラリアの裁判で有罪判決を受けたことに対して不服申し立てを行った。\" を \"エリン・パターソンは、自身の裁判が不公平であったと主張し、7つの根拠を挙げて不服申し立てを行った。\" に修正。span \"Erin Patterson argued her trial was unfair due to seven grounds\" に基づき、より詳細な事実を反映。",
-          "fact 2: \"裁判官はパターソンの不服申し立てをすべて却下した。\" を \"3人の控訴裁判官は、パターソンの主張する7つの根拠をすべて却下した。\" に修正。span \"three appeal judges dismissed them all\" に基づき、より詳細な事実を反映。",
-          "fact 3: \"オーストラリアの裁判所は、エリン・パターソンの不服申し立てを棄却した。\" を \"オーストラリアの裁判所は、「マッシュルーム殺人犯」エリン・パターソンの不服申し立てを棄却した。\" に修正。span \"Australian court rejects ‘mushroom murderer’ Erin Patterson’s appeal\" に基づき、より詳細な事実を反映。",
-          "fact 4: \"パターソンは終身刑を言い渡され、仮釈放は認められなかった。\" を \"裁判所は、仮釈放を認めない決定を下し、パターソンは終身刑で服役することになると判断した。\" に修正。span \"Court rules Patterson will spend the rest of her life behind bars after denying parole\" に基づき、より詳細な事実を反映。",
-          "consensus: \"エリン・パターソンは有罪判決に対する不服申し立てをオーストラリアの裁判所で却下され、終身刑で仮釈放は認められなかった。評価は割れる。\" を \"エリン・パターソンは、オーストラリアの裁判所に対し、有罪判決に対する不服申し立てを行ったが、裁判官はすべての根拠を却下し、仮釈放なしの終身刑となった。\" に修正。事実に基づき、\"評価は割れる\" の部分を削除し、事実関係を明確化。",
-          "positions: 空のまま。元テキストに異なる立場を示す記述がないため。",
-          "note: \"プライバシー配慮のため、事件の詳細は省略し、裁判手続きと結果に焦点を当てています。\" は、検品対象外のため変更なし。"
+          "事実欄 `facts[7].t` の表現をより中立的に修正しました。",
+          "`positions[1].span` が元テキストで途切れていたため、空文字に修正しました。",
+          "`positions[0]` は `issue` と無関係なため削除しました。",
+          "`issue` と `stasis` を、テキストの内容により合致するよう修正しました。",
+          "`consensus` と `note` を `issue` と `stasis` の変更に合わせて調整しました。"
         ]
       }
     },
     {
-      "headline": "ジャングリア沖縄“新スポンサー探し半年程度かけて進めたい”",
-      "slug": "ジャングリア沖縄新スポンサ探し半年程度かけて進め",
+      "headline": "辺野古沖転覆事故 同志社会見に遺族「説明責任真剣に考えて」",
+      "slug": "辺野古沖転覆事故同志社会見に遺族説明責任真剣に考",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -95,166 +271,96 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68752"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68798"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600733?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6600752?source=rss"
         }
       ],
-      "issue": "ジャングリア沖縄は新スポンサー探しをどの程度で進めるか？",
-      "stasis": "政策",
+      "issue": "同志社国際高校を運営する学校法人は、辺野古沖転覆事故に関する説明責任を十分に果たしているか。",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "ジャングリア沖縄を運営する会社の親会社の株主総会が開かれた。",
-          "span": "",
+          "t": "沖縄県辺野古沖で研修旅行中の船が転覆し、女子生徒が死亡した。",
+          "span": "研修旅行中の船が転覆し、女子生徒が亡くなった",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "先月の株主総会では173億円あまりの最終赤字となった決算が承認されなかった。",
-          "span": "先月の総会で承認されなかった173億円あまりの最終赤字となった決算",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ジャングリア沖縄は沖縄経済の起爆剤として期待を集め、去年開業した。",
-          "span": "沖縄経済の起爆剤として期待を集め、去年開業したテーマパーク「ジャングリア沖縄」",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ジャングリア沖縄運営会社は新スポンサー探しを半年程度かけて進めたいと考えており、数社が出資に関心を示している。ただし、先月の株主総会では最終赤字決算が承認されなかった。",
-      "note": "プライバシー配慮のため、株主総会での具体的な株主の言及は省略し、運営会社（親会社）の意向としてまとめた。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimを「〜と述べている」「〜と報じられている」のメタ記述構造に修正しました。",
-          "consensusの末尾にあった「評価は割れる」はテキストから直接読み取れないため削除しました。",
-          "fact spanが原文に無い→除去「ジャングリア沖縄を運営する会社の親会…」"
-        ]
-      }
-    },
-    {
-      "headline": "松江 給食で約300人体調不良 焼き魚のヒスタミンによる食中毒",
-      "slug": "松江給食で約300人体調不良焼き魚のヒスタミンに",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68361"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600714?source=rss"
-        }
-      ],
-      "issue": "松江市の小中学校で提供された給食による集団食中毒の原因は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "松江市の4つの小中学校で、29日に提供された給食を食べた児童など約300人が体調不良を訴えた。",
-          "span": "29日、松江市の4つの小中学校で提供された給食を食べた児童などおよそ300人が体調不良を訴えた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "松江市の教育委員会は、保健所の調査の結果、給食の焼き魚に含まれたヒスタミンが原因の集団食中毒であると発表した。",
-          "span": "市の教育委員会は、保健所による原因調査の結果、給食の焼き魚に含まれた「ヒスタミン」による集団食中毒",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ヒスタミン中毒は、給食を食べた人が搬送される事態となった。",
-          "span": "給食食べ搬送 ヒスタミン中毒とは",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
+        },
+        {
+          "t": "事故を起こした船は京都府の同志社国際高校の研修旅行中であった。",
+          "span": "京都府の同志社国際高校",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "同志社国際高校を運営する学校法人が、事故から7か月半ぶりに記者会見を開催した。",
+          "span": "7か月半ぶりに行った記者会見",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "松江市の小中学校で提供された給食により、約300人が体調不良を訴え、保健所の調査でヒスタミンによる集団食中毒と断定された。",
-      "note": "本件は事実の報告であり、複数の立場からの評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "沖縄県辺野古沖で発生した同志社国際高校の研修旅行中の船の転覆事故で女子生徒が死亡し、学校法人が7か月半ぶりに記者会見を行ったことについては事実として合意されている。しかし、学校法人の説明責任の果たし方については、遺族から疑問の声が上がっており、評価が割れる。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "issue: 元のissue「松江市の小中学校で発生した給食による集団食中毒の原因はヒスタミンによるものか？」は、事実の確定を問う形になっていたため、より中立的な問い「松江市の小中学校で提供された給食による集団食中毒の原因は何か？」に修正しました。",
-          "consensus: 元のconsensus「松江市の小中学校で提供された給食により、約300人が体調不良を訴え、保健所の調査でヒスタミンによる集団食中毒と断定された。評価は割れる。」から「評価は割れる。」を削除しました。positionsが空であり、テキスト中に評価の割れる根拠がないためです。"
+          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」を追加しました。",
+          "positions[0].span: 元テキストに一字一句存在しないため、空文字に修正しました（幻覚の除去）。"
         ]
       }
     },
     {
-      "headline": "民主新星、「赤い州」米南部テキサスで勢い　共和トランプ派、危機感あおる―上院過半数へ天王山・中間選挙",
-      "slug": "民主新星赤い州米南部テキサスで勢い共和トランプ派",
+      "headline": "藤垣氏、委員投票で２度最多票　次期学長選考の経緯公表―東大",
+      "slug": "藤垣氏委員投票で度最多票次期学長選考の経緯公表東",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
+        "NHK 主要ニュース",
         "時事ドットコム"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600736?source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68783"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026103000736&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026103001160&g=soc&m=rss"
         }
       ],
-      "issue": "中間選挙において、民主党は「赤い州」で勢いを増しているか？",
+      "issue": "東京大学の次期総長選考の経緯はどのようなものであったか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "中間選挙において、民主党が「赤い州」で勢いを見せていると報じられている。",
-          "span": "中間選挙 民主党「赤い州」で勢い",
+          "t": "東京大学の次期総長選考に関する詳しい経緯が、選考会議によって公表された。",
+          "span": "詳しい選考の経緯を公表",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "民主党の新星が、共和党の強い州である米南部テキサスで勢いを見せている。",
-          "span": "民主新星、「赤い州」米南部テキサスで勢い",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "共和党のトランプ派は、この状況に対して危機感をあおっている。",
-          "span": "共和トランプ派、危機感あおる",
+          "t": "東京大学の次期学長選考の経緯が公表された。",
+          "span": "次期学長選考の経緯公表",
           "src": [
             {
               "ty": "press",
@@ -263,8 +369,28 @@
           ]
         },
         {
-          "t": "中間選挙は、上院の過半数を争う重要な選挙戦である。",
-          "span": "上院過半数へ天王山・中間選挙",
+          "t": "藤垣裕子氏は教職員の意向投票で2位だった。",
+          "span": "教職員の意向投票で2位だった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "藤垣裕子氏は、選考会議において議長を除く15人中14人の承認を得て次期総長に選出された。",
+          "span": "議長を除く15人中14人の承認を得て選ばれた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "藤垣氏は選考委員による投票で2度最多票を獲得した。",
+          "span": "委員投票で２度最多票",
           "src": [
             {
               "ty": "press",
@@ -274,11 +400,13 @@
         }
       ],
       "positions": [],
-      "consensus": "中間選挙において、民主党が「赤い州」で勢いを見せていると報じられている。共和党のトランプ派は危機感をあおっている。上院過半数を争う重要な選挙戦である。",
-      "note": "本件は、複数の報道機関が同様の事実を報じているが、評価や危機感の表明は特定の政治勢力に紐づいているため、中立的な事実として構造化する。評価・予測に関する対立構造は明確ではないため、positions は空とする。",
+      "consensus": "東京大学の次期総長選考に関する詳しい経緯が公表され、教職員の意向投票で2位だった藤垣裕子氏が、選考会議で15人中14人の承認を得て次期総長に選出されたこと、また委員投票で2度最多票を得たことが明らかになった。これらの事実に対する評価は、本アプリでは裁定しない。",
+      "note": "本記事は事実の公表を報じるものであり、選考プロセスに対する評価や意見を述べる主体は含まれていないため、positionsは空配列です。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "争点の立て方: issueが評価を問う形になっていたため、テキストが報じる事実の経緯を問う形に修正した。"
+        ]
       }
     }
   ]
