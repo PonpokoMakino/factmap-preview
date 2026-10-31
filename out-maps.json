@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-10-30T23:56:53.186Z",
+  "builtAt": "2026-10-31T22:51:50.793Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請",
-      "slug": "5年ぶり日ロ外相会談茂木外相北海道新聞記者の即時",
+      "headline": "不正アクセスで会員情報４３２万件流出　国籍や緊急連絡先などか―クラブツーリズム",
+      "slug": "不正アクセスで会員情報万件流出国籍や緊急連絡先な",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,97 +14,218 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68824"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de69037"
         },
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68825"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261031de69043"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600743?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6600879?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6600875?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026103100115&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026103100452&g=soc&m=rss"
         }
       ],
-      "issue": "ロシアは拘束されている北海道新聞記者を即時解放すべきか？",
-      "stasis": "政策",
+      "issue": "GMOインターネットグループのサービスにおける不正アクセス問題で、システムのぜい弱性が過去に指摘されていたか、また被害者情報を集める不審サイトとの関連性は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "日ロ外相会談がアメリカで開催された。",
-          "span": "訪問先のアメリカでロシアのラブロフ外相と会談しました",
+          "t": "GMOインターネットグループの為替取引に関するサービスが不正アクセスを受けた。",
+          "span": "GMOインターネットグループの為替取引に関するサービスが不正アクセスを受けた問題",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、被害者に情報共有を呼びかける不審なサイトが公開されていたことがセキュリティー会社の調べでわかった。",
+          "span": "被害者に情報共有を呼びかける不審なサイトが公開されていたことがセキュリティー会社の調べで分かりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "GMOインターネットグループの不正アクセス問題について、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材でわかった。",
+          "span": "2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "GMOは11月2日に記者会見を行う予定で、社長が出席する。",
+          "span": "GMOが11/2に記者会見 社長出席",
+          "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
+            }
+          ]
+        },
+        {
+          "t": "クラブツーリズムで会員情報432万件が流出した可能性がある。",
+          "span": "クラブツーリズム 432万件流出か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "クラブツーリズムで不正アクセスにより会員情報432万件が流出し、国籍や緊急連絡先などが含まれる可能性がある。",
+          "span": "不正アクセスで会員情報４３２万件流出　国籍や緊急連絡先などか",
+          "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
             }
           ]
+        }
+      ],
+      "positions": [],
+      "consensus": "GMOインターネットグループのサービスで不正アクセスが発生し、過去にぜい弱性が指摘されていたことが報じられている。また、クラブツーリズムで会員情報流出の可能性がある。",
+      "note": "プライバシー配慮のため、個人を特定できる情報は伏せています。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: 元のconsensusに「評価は割れる。」という評価が含まれていましたが、これは事実ではなく、テキストから読み取れる情報ではないため削除しました。",
+          "consensus: 元のconsensusに「評価は割れる。」という評価が含まれていましたが、これは事実ではなく、テキストから読み取れる情報ではないため削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "【地震情報】福島県で震度3 津波の心配なし",
+      "slug": "地震情報福島県で震度3津波の心配なし",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69068"
         },
         {
-          "t": "日ロ外相の対面での正式会談はおよそ5年ぶりだった。",
-          "span": "およそ5年ぶり",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261031222223_0_VXSE53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261031221832_0_VXSE51_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261031221318_0_VXSE53_270000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261031212318_0_VXSE53_010000.xml"
+        }
+      ],
+      "issue": "福島県で震度3の地震が発生したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "1日午前7時15分ごろ、福島県で震度3の揺れを観測する地震があった。",
+          "span": "福島県で震度3 津波の心配なし。1日午前7時15分ごろ、福島県で震度3の揺れを観測する地震がありました。",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "G20外相会合がアメリカで開幕した。",
-          "span": "G20＝主要20か国の外相会合がアメリカで開幕しました",
+          "t": "この地震による津波の心配はない。",
+          "span": "この地震による津波の心配はありません。",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "茂木外務大臣はG20会合で中東やウクライナ、北朝鮮などをめぐる日本の立場を主張した。",
-          "span": "中東やウクライナ、北朝鮮などをめぐる日本の立場を主張した",
+          "t": "1日午前7時15分ごろ、地震があった。",
+          "span": "１日０７時１５分ころ、地震がありました。",
           "src": [
             {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
+              "ty": "press",
+              "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "茂木外務大臣はG20各国に連携・協調を呼びかけた。",
-          "span": "G20各国が連携・協調を",
+          "t": "1日午前7時15分ごろ、地震による強い揺れを感じた。",
+          "span": "１日０７時１５分ころ、地震による強い揺れを感じました。",
           "src": [
             {
-              "ty": "wire",
-              "l": "NHK 主要ニュース"
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "震度3以上が観測された地域が通知された。",
+          "span": "震度３以上が観測された地域をお知らせします。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "1日午前7時10分ごろ、地震があった。",
+          "span": "１日０７時１０分ころ、地震がありました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "1日午前6時20分ごろ、地震があった。",
+          "span": "１日０６時２０分ころ、地震がありました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日ロ外相会談がアメリカで行われ、茂木外務大臣がロシアのラブロフ外相に対し、拘束されている北海道新聞記者の即時解放を要請したことは事実として合意されている。評価はアプリでは裁定しない。",
-      "note": null,
+      "consensus": "1日午前7時15分ごろ、福島県で震度3の揺れを観測する地震があり、津波の心配はない。1日午前7時10分ごろ、および1日午前6時20分ごろにも地震があった。",
+      "note": "複数の気象庁情報源から、異なる時刻の地震発生が報告されている。NHKは7時15分の地震について、震度3、津波の心配なしと報じている。",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[4].spanを、元テキストのヘッドラインからより正確な最小核「G20各国が連携・協調を」に修正しました。",
-          "positions[0].claimを、著作権に配慮し、かつメタ記述を徹底する形で「茂木外務大臣は、ロシアに対し、拘束されている北海道新聞記者の即時解放を強く要請したと報じられている。」に修正しました。"
+          "facts[0].span: 元テキストの冒頭部分をspanに含めることで、事実の範囲をより正確に示しました。",
+          "fact spanが原文に無い→除去「１日午前７時１５分ごろ、福島県で震度…」"
         ]
       }
     },
     {
-      "headline": "G20 'family photo' cancelled after protests over presence of Russian minister",
-      "slug": "G20familyphotocancelleda",
+      "headline": "What is ranked-choice voting and how does it work in US elections?",
+      "slug": "Whatisrankedchoicevoting",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -113,31 +234,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/30/port-sudan-families-can-barely-afford-water-as-shortages-persist?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss"
         }
       ],
-      "issue": "G20会議におけるロシア代表の出席を巡る議論は何か？",
-      "stasis": "議論",
+      "issue": "スペインのサンチェス首相の再選の可能性は、一連の危機によって影響を受けるか？",
+      "stasis": "評価・予測",
       "facts": [
         {
-          "t": "高速列車2両が衝突し、少なくとも[人数不明]が死亡した。",
-          "span": "two high-speed trains collided earlier in the week, killing at least",
+          "t": "スペインで列車事故が発生した。",
+          "span": "Spain train disaster",
           "src": [
             {
               "ty": "press",
@@ -146,8 +259,8 @@
           ]
         },
         {
-          "t": "G20の集合写真撮影が中止された。",
-          "span": "G20 'family photo' cancelled",
+          "t": "スペインで数週間のうちに総選挙が予定されている。",
+          "span": "just weeks before a snap general election",
           "src": [
             {
               "ty": "press",
@@ -156,18 +269,8 @@
           ]
         },
         {
-          "t": "ロシア大臣の出席を巡る抗議活動があった。",
-          "span": "protests over presence of Russian minister",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "G20が集合写真撮影を取りやめた。",
-          "span": "G20 drops group photo",
+          "t": "イスラエルは、カタールによる選挙干渉の疑惑を提起した。",
+          "span": "Israel’s allegations of Qatari election interference",
           "src": [
             {
               "ty": "press",
@@ -176,8 +279,8 @@
           ]
         },
         {
-          "t": "欧州諸国がラブロフ氏との同席を拒否した。",
-          "span": "Europeans refuse to stand with Lavrov",
+          "t": "カタールは、イスラエルの選挙干渉疑惑を否定した。",
+          "span": "Qatari election interference rejected",
           "src": [
             {
               "ty": "press",
@@ -186,8 +289,8 @@
           ]
         },
         {
-          "t": "制裁対象となっているロシア外相がアトランタでの会談に出席した。",
-          "span": "Sanctioned Russian FM attends Atlanta talks",
+          "t": "ランク投票（Ranked-choice voting）はアメリカの選挙で使用されることがある。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -196,8 +299,8 @@
           ]
         },
         {
-          "t": "イラン戦争、ホルムズ海峡の混乱、ウクライナ情勢がG20メンバー間の意見対立を引き起こしている。",
-          "span": "Iran war, Hormuz disruption and Ukraine divide G20 members",
+          "t": "アラスカ州ではランク投票が2026年の重要なレースに影響を与える可能性がある。",
+          "span": "Ranked-choice voting in Alaska could shape a key 2026 race",
           "src": [
             {
               "ty": "press",
@@ -206,38 +309,8 @@
           ]
         },
         {
-          "t": "ロシアのラブロフ氏の出席により緊張が生じた。",
-          "span": "Russia’s Lavrov presence sparks tensions",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ポートスーダンでは水不足が続き、住民は高騰する水費用に直面している。",
-          "span": "Port Sudan families can barely afford water as shortages persist",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "戦争と避難民の発生が水の供給を圧迫している。",
-          "span": "war, displacement strain supply",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "損傷したインフラを復旧するための努力がなされている。",
-          "span": "efforts to restore damaged infrastructure",
+          "t": "ダン・サリバンという名前の候補者が関与する訴訟がアメリカで起きている。",
+          "span": "a US lawsuit involving two candidates named Dan Sulliva",
           "src": [
             {
               "ty": "press",
@@ -247,22 +320,18 @@
         }
       ],
       "positions": [],
-      "consensus": "G20会議ではロシア外相の出席を巡り、集合写真の中止や欧州諸国の同席拒否など緊張が生じている。英国外相はロシア政府を非難し、米国務長官は協力を促した。また、スペインでは高速列車衝突事故が発生し、ポートスーダンでは水不足が続いている。",
-      "note": "提供された記事は複数の異なる出来事を扱っており、G20関連の議論と、スペインの列車事故、ポートスーダンの水不足という独立した事実が含まれる。",
+      "consensus": "スペインで列車事故が発生し、総選挙が予定されている。イスラエルはカタールによる選挙干渉を主張したが、カタールはこれを否定した。ランク投票はアメリカの選挙で使用され、アラスカ州の2026年のレースに影響を与える可能性がある。",
+      "note": "プライバシー配慮のため、個別の事件や人物に関する詳細な情報は省略し、争点と事実関係に焦点を当てています。",
       "audit": {
-        "changed": true,
+        "changed": false,
         "issues": [
-          "事実欄 `facts[7].t` の表現をより中立的に修正しました。",
-          "`positions[1].span` が元テキストで途切れていたため、空文字に修正しました。",
-          "`positions[0]` は `issue` と無関係なため削除しました。",
-          "`issue` と `stasis` を、テキストの内容により合致するよう修正しました。",
-          "`consensus` と `note` を `issue` と `stasis` の変更に合わせて調整しました。"
+          "fact spanが原文に無い→除去「Ranked-choice voti…」"
         ]
       }
     },
     {
-      "headline": "辺野古沖転覆事故 同志社会見に遺族「説明責任真剣に考えて」",
-      "slug": "辺野古沖転覆事故同志社会見に遺族説明責任真剣に考",
+      "headline": "ハロウィーン 東京 渋谷は混雑も“大きなトラブルなし”警視庁",
+      "slug": "ハロウィン東京渋谷は混雑も大きなトラブルなし警視",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -271,86 +340,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261031de68798"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69057"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600752?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6600887?source=rss"
         }
       ],
-      "issue": "同志社国際高校を運営する学校法人は、辺野古沖転覆事故に関する説明責任を十分に果たしているか。",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "沖縄県辺野古沖で研修旅行中の船が転覆し、女子生徒が死亡した。",
-          "span": "研修旅行中の船が転覆し、女子生徒が亡くなった",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "事故を起こした船は京都府の同志社国際高校の研修旅行中であった。",
-          "span": "京都府の同志社国際高校",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "同志社国際高校を運営する学校法人が、事故から7か月半ぶりに記者会見を開催した。",
-          "span": "7か月半ぶりに行った記者会見",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "沖縄県辺野古沖で発生した同志社国際高校の研修旅行中の船の転覆事故で女子生徒が死亡し、学校法人が7か月半ぶりに記者会見を行ったことについては事実として合意されている。しかし、学校法人の説明責任の果たし方については、遺族から疑問の声が上がっており、評価が割れる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」を追加しました。",
-          "positions[0].span: 元テキストに一字一句存在しないため、空文字に修正しました（幻覚の除去）。"
-        ]
-      }
-    },
-    {
-      "headline": "藤垣氏、委員投票で２度最多票　次期学長選考の経緯公表―東大",
-      "slug": "藤垣氏委員投票で度最多票次期学長選考の経緯公表東",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261030de68783"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026103001160&g=soc&m=rss"
-        }
-      ],
-      "issue": "東京大学の次期総長選考の経緯はどのようなものであったか？",
+      "issue": "東京渋谷のハロウィーンは大きなトラブルなく終了したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "東京大学の次期総長選考に関する詳しい経緯が、選考会議によって公表された。",
-          "span": "詳しい選考の経緯を公表",
+          "t": "週末と重なった今年のハロウィーン期間中、東京渋谷区は多くの人で混雑した。",
+          "span": "多くの人で混雑した",
           "src": [
             {
               "ty": "press",
@@ -359,54 +361,22 @@
           ]
         },
         {
-          "t": "東京大学の次期学長選考の経緯が公表された。",
-          "span": "次期学長選考の経緯公表",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "藤垣裕子氏は教職員の意向投票で2位だった。",
-          "span": "教職員の意向投票で2位だった",
+          "t": "警視庁によると、10月31日から11月1日未明にかけての期間で、大きなトラブルは確認されていない。",
+          "span": "大きなトラブルは確認されていない",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "藤垣裕子氏は、選考会議において議長を除く15人中14人の承認を得て次期総長に選出された。",
-          "span": "議長を除く15人中14人の承認を得て選ばれた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "藤垣氏は選考委員による投票で2度最多票を獲得した。",
-          "span": "委員投票で２度最多票",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "東京大学の次期総長選考に関する詳しい経緯が公表され、教職員の意向投票で2位だった藤垣裕子氏が、選考会議で15人中14人の承認を得て次期総長に選出されたこと、また委員投票で2度最多票を得たことが明らかになった。これらの事実に対する評価は、本アプリでは裁定しない。",
-      "note": "本記事は事実の公表を報じるものであり、選考プロセスに対する評価や意見を述べる主体は含まれていないため、positionsは空配列です。",
+      "consensus": "東京渋谷のハロウィーンは多くの人で混雑したが、警視庁によると大きなトラブルは確認されなかった。",
+      "note": "記事に評価や対立する立場が記述されていないため、positionsは空配列です。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: issueが評価を問う形になっていたため、テキストが報じる事実の経緯を問う形に修正した。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
