@@ -1,36 +1,175 @@
 {
-  "builtAt": "2026-11-01T08:44:50.960Z",
+  "builtAt": "2026-11-01T23:22:44.344Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も",
-      "slug": "アメリカ中間選挙の期日前投票すでに前回上回るロマ",
-      "independentSources": 3,
+      "headline": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "slug": "Russianstrikescutpowerto",
+      "independentSources": 4,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601014?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110200099&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss"
+        }
+      ],
+      "issue": "ウクライナ南部の局地停戦は、人道支援の成功と停戦違反の主張という点でどのように評価されるか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "ウクライナ南部の局地停戦が終了した。",
+          "span": "局地停戦が終了",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "停戦期間中、ヘルソン地域での停戦違反の報告はなかった。",
+          "span": "no reported violations in Kherson region during the six-day ceasefire",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "まれな人道停戦により、ロシア占領下のオレシュキ市からの住民避難が可能になった。",
+          "span": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ロシアによる攻撃で、数千人が停電の影響を受けた。",
+          "span": "Russian strikes cut power to thousands",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルによるガザ地区での攻撃で、子供を含む8人が死亡したと病院関係者が伝えている。",
+          "span": "Israeli strikes in Gaza kill eight including child, hospitals say",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ハマスが運営する警察の警官5人がハーン・ユーニスで死亡した。",
+          "span": "Five officers from the Hamas-run police have been killed in Khan Younis",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ガザ地区の別の場所で、子供を含む3人が死亡した。",
+          "span": "three people, including a child, killed in G",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルによるヘブロン市への封鎖の結果、約5,000人が避難した。",
+          "span": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ウクライナ南部の局地停戦は終了した。停戦期間中、ヘルソン地域での停戦違反の報告はなかった。しかし、人道支援の成功と停戦違反の主張が報じられている。評価は割れる。",
+      "note": "BBC Worldの記事にはガザ地区とイスラエルによるヘブロン市への封鎖に関する情報も含まれているが、主要な争点とは直接関係しないため、事実として抽出した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "トランプ大統領「民主党圧倒すべき」　最後の週末、支持呼び掛け―米中間選挙、３日投開票",
+      "slug": "トランプ大統領民主党圧倒すべき最後の週末支持呼び",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69054"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600955?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69323"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026103100299&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026110100274&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110100269&g=int&m=rss"
         }
       ],
-      "issue": "アメリカ中間選挙の期日前投票は前回を上回ったか？",
-      "stasis": "事実",
+      "issue": "アメリカ中間選挙におけるトランプ政権への有権者の評価はどうか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "アメリカ中間選挙の期日前投票を済ませた人の数が、前回・2022年の中間選挙をすでに上回っている。",
-          "span": "投票を済ませた人の数は前回・2022年の中間選挙をすでに上回っています",
+          "t": "アメリカ中間選挙の投票が日本時間の3日に始まる。",
+          "span": "日本時間の3日投票が始まります",
           "src": [
             {
               "ty": "press",
@@ -39,29 +178,27 @@
           ]
         },
         {
-          "t": "アメリカ中間選挙の事前投票が過去最多となっている。",
-          "span": "事前投票が過去最多",
+          "t": "トランプ大統領は最終盤、中西部などで演説する予定である。",
+          "span": "トランプ大統領は異例の接戦が伝えられる中西部のカンザス州などで演説する予定",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "アメリカ中間選挙の期日前投票は前回をすでに上回っており、過去最多となっている。民主党の大勝が株式市場やAI投資に与える影響については、逆風や冷や水になるとの見方がある。",
-      "note": "ローマ教皇に関する言及は、中間選挙の期日前投票の事実とは直接関連しないため、facts には含めませんでした。",
+      "consensus": "アメリカ中間選挙は日本時間の3日に投票が始まる。トランプ大統領は投票直前に中西部などで演説を行う予定である。トランプ大統領は民主党を圧倒すべきだと支持を呼びかけた。評価は割れる。",
+      "note": "急進左派の存在感が増し、「民主社会主義」への期待が格差拡大を背景に報じられているが、具体的な発言主体や評価の対立構造が明確でないため、facts/positionsには含めない。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions の claim を「〜と報じられている」というメタ記述に修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Thousands demonstrate in Paris as protests spread across Europe",
-      "slug": "ThousandsdemonstrateinPa",
+      "headline": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "slug": "DemocratendorsesRepublic",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -70,27 +207,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss"
         }
       ],
-      "issue": "欧州各地で生活費高騰に対する抗議デモが発生しているか？",
-      "stasis": "事実",
+      "issue": "ミシガン州上院選において、民主党候補が共和党候補を支持したことは妥当か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "ドイツの複数の都市（ベルリン、ハンブルク、フランクフルトなど）で、生活費高騰に対する抗議デモが発生した。一部は暴徒化し、店舗が略奪された。",
-          "span": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thous",
+          "t": "ミシガン州上院選において、民主党候補のハリー・スティーブンス氏が共和党候補のマイク・ロジャース氏を支持した。",
+          "span": "endorses Republican candidate",
           "src": [
             {
               "ty": "press",
@@ -99,8 +232,8 @@
           ]
         },
         {
-          "t": "フランス全土で32万人以上が、生活費高騰と公共サービスの質の低下に反対するデモを行った。",
-          "span": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services",
+          "t": "ハリー・スティーブンス氏は、民主党の上院候補指名争いでアブドゥル・エルサイード氏に敗れた。",
+          "span": "who lost out on the Democratic Senate nomination to Abdul El-Sayed",
           "src": [
             {
               "ty": "press",
@@ -109,8 +242,8 @@
           ]
         },
         {
-          "t": "バングラデシュの工業都市で、生活費高騰に伴う賃上げを求める労働者のデモが行われた。",
-          "span": "Demonstrations held in industrial cities as workers demand wage increase as cost of living rises.",
+          "t": "ハリー・スティーブンス氏が共和党候補を支持したのは、民主党候補アブドゥル・エルサイード氏との激しい対立の後である。",
+          "span": "Stevens’s endorsement of Republican Mike Rogers comes after a bitter dispute with Democratic nominee Abdul El-Sayed",
           "src": [
             {
               "ty": "press",
@@ -119,8 +252,8 @@
           ]
         },
         {
-          "t": "ポルトガルのリスボン、ロッシオ広場に警察が日曜日の早朝に突入した。",
-          "span": "Police storm Portugal housing protest camp",
+          "t": "ハリー・スティーブンス氏がマイク・ロジャース氏を支持した際、「裏切り者」とヤジられた。",
+          "span": "heckled as a ‘traitor’",
           "src": [
             {
               "ty": "press",
@@ -130,39 +263,41 @@
         }
       ],
       "positions": [],
-      "consensus": "欧州各地で生活費高騰に対する抗議デモが発生しているという事実は、複数の報道機関によって報じられている。",
-      "note": "本件は事実の列挙に留まり、評価や対立する意見は含まれていないため、positions は空となります。",
+      "consensus": "ミシガン州上院選において、民主党候補のハリー・スティーブンス氏が共和党候補のマイク・ロジャース氏を支持した。スティーブンス氏は民主党候補指名争いでアブドゥル・エルサイード氏に敗れており、この支持はエルサイード氏との激しい対立の後に行われた。支持の表明時には「裏切り者」とヤジられた。評価は割れる。",
+      "note": "プライバシー配慮のため、一般私人の実名は伏せ、公人・政治家の情報のみを記載する。",
       "audit": {
         "changed": true,
         "issues": [
-          "Facts 1と5を統合し、ドイツのデモが暴徒化し店舗が略奪された事実を追記しました。元のFact 5のspanは元テキストに存在しないため削除しました。"
+          "positionsのclaimが事実の繰り返しになっていたため、元テキストの表現に近づけ、spanを付与した。",
+          "positionsのstanceが一部不正確だったため、全てsupportに修正した。",
+          "position spanが原文に無い→除去「endorses Republica…」"
         ]
       }
     },
     {
-      "headline": "自民 小林政調会長 消費税減税法案“成立向け野党に働きかけ”",
-      "slug": "自民小林政調会長消費税減税法案成立向け野党に働き",
+      "headline": "災害対策司令塔の「防災庁」が発足 体制の抜本的強化へ 政府",
+      "slug": "災害対策司令塔の防災庁が発足体制の抜本的強化へ政",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69181"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69293"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026103100286&g=pol&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601011?source=rss"
         }
       ],
-      "issue": "消費税減税関連法案は成立するか？",
+      "issue": "防災庁の発足と、政府が目指す防災体制の強化について",
       "stasis": "政策",
       "facts": [
         {
-          "t": "自民党の小林政調会長は、物価高対策としての消費税減税の意義を改めて強調した。",
-          "span": "物価高対策としての意義は大きいと改めて強調した",
+          "t": "災害対策の司令塔となる「防災庁」が2日に発足した。",
+          "span": "発足しました",
           "src": [
             {
               "ty": "press",
@@ -171,8 +306,18 @@
           ]
         },
         {
-          "t": "自民党の小林政調会長は、消費税減税関連法案の成立に向けて野党への働きかけを続ける考えを示した。",
-          "span": "成立に向けて野党への働きかけを続ける考えを示しました",
+          "t": "災害対策の司令塔となる「防災庁」が2日に発足した。",
+          "span": "防災庁発足",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "防災庁は災害対策の司令塔として機能する。",
+          "span": "災害対策の司令塔となる",
           "src": [
             {
               "ty": "press",
@@ -181,92 +326,35 @@
           ]
         },
         {
-          "t": "与党は、消費減税関連法案を6日に衆議院を通過させることを目指している。",
-          "span": "６日衆院通過目指す",
+          "t": "防災庁は災害対策の司令塔として機能する。",
+          "span": "防災・災害時の司令塔",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "防災庁は事前防災に加え、発災から復旧・復興まで一貫した災害対応を担う。",
+          "span": "事前防災に加え、発災から復旧・復興までの一貫した災害対応にあたる組織",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "消費税減税関連法案について、自民党の小林政調会長は物価高対策としての意義を強調し、成立に向け野党への働きかけを続ける考えを示した。与党は6日の衆議院通過を目指している。",
-      "note": "本件は、消費税減税法案の成立に向けた与野党の動きと、自民党幹部の意向に関する報道を構造化したものです。法案の是非や効果に関する評価は、提示された情報からは判断できません。",
+      "consensus": "防災庁が発足し、災害対策の司令塔として事前防災から復旧・復興まで一貫した対応を担うことが報じられている。政府はこれにより防災体制の抜本的強化を図るとしているが、本記事ではその効果や妥当性に関する評価や賛否は示されていない。",
+      "note": null,
       "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "日本ハムの伊藤大海、メジャー挑戦を決意　球団がポスティング申請―プロ野球",
-      "slug": "日本ハムの伊藤大海メジャ挑戦を決意球団がポスティ",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69210"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110100305&g=spo&m=rss"
-        }
-      ],
-      "issue": "日本ハムの伊藤大海投手はポスティングシステムを利用してメジャーリーグへの移籍を目指すか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "プロ野球・日本ハムは、エースの伊藤大海投手のポスティングシステムを利用した移籍を容認すると発表した。",
-          "span": "日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "伊藤大海投手は大リーグへの移籍を目指すことになった。",
-          "span": "伊藤投手は大リーグへの移籍を目指すことになりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日本ハムの伊藤大海投手はメジャー挑戦を決意した。",
-          "span": "伊藤大海、メジャー挑戦を決意",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "球団はポスティング申請を進めている。",
-          "span": "球団がポスティング申請",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "日本ハムは伊藤大海投手のポスティングシステムを利用した移籍を容認し、伊藤投手は大リーグへの移籍を目指すことで合意した。",
-      "note": "",
-      "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issueがテキスト内の対立を反映していなかったため、より記述的な表現に修正しました。",
+          "positions[0].claimが地の文の断定になっていたため、メタ記述の形式に修正し、著作権に配慮して再記述しました。"
+        ]
       }
     }
   ]
