@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-10-31T22:51:50.793Z",
+  "builtAt": "2026-11-01T08:44:50.960Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "不正アクセスで会員情報４３２万件流出　国籍や緊急連絡先などか―クラブツーリズム",
-      "slug": "不正アクセスで会員情報万件流出国籍や緊急連絡先な",
+      "headline": "アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も",
+      "slug": "アメリカ中間選挙の期日前投票すでに前回上回るロマ",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,31 +14,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261031de69037"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261031de69043"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69054"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600879?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600875?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6600955?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026103100452&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026103100299&g=int&m=rss"
         }
       ],
-      "issue": "GMOインターネットグループのサービスにおける不正アクセス問題で、システムのぜい弱性が過去に指摘されていたか、また被害者情報を集める不審サイトとの関連性は何か？",
+      "issue": "アメリカ中間選挙の期日前投票は前回を上回ったか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "GMOインターネットグループの為替取引に関するサービスが不正アクセスを受けた。",
-          "span": "GMOインターネットグループの為替取引に関するサービスが不正アクセスを受けた問題",
+          "t": "アメリカ中間選挙の期日前投票を済ませた人の数が、前回・2022年の中間選挙をすでに上回っている。",
+          "span": "投票を済ませた人の数は前回・2022年の中間選挙をすでに上回っています",
           "src": [
             {
               "ty": "press",
@@ -47,48 +39,150 @@
           ]
         },
         {
-          "t": "GMOインターネットグループのサービスが不正アクセスを受けた問題で、被害者に情報共有を呼びかける不審なサイトが公開されていたことがセキュリティー会社の調べでわかった。",
-          "span": "被害者に情報共有を呼びかける不審なサイトが公開されていたことがセキュリティー会社の調べで分かりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "GMOインターネットグループの不正アクセス問題について、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材でわかった。",
-          "span": "2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "GMOは11月2日に記者会見を行う予定で、社長が出席する。",
-          "span": "GMOが11/2に記者会見 社長出席",
+          "t": "アメリカ中間選挙の事前投票が過去最多となっている。",
+          "span": "事前投票が過去最多",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
+        }
+      ],
+      "positions": [],
+      "consensus": "アメリカ中間選挙の期日前投票は前回をすでに上回っており、過去最多となっている。民主党の大勝が株式市場やAI投資に与える影響については、逆風や冷や水になるとの見方がある。",
+      "note": "ローマ教皇に関する言及は、中間選挙の期日前投票の事実とは直接関連しないため、facts には含めませんでした。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions の claim を「〜と報じられている」というメタ記述に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Thousands demonstrate in Paris as protests spread across Europe",
+      "slug": "ThousandsdemonstrateinPa",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "t": "クラブツーリズムで会員情報432万件が流出した可能性がある。",
-          "span": "クラブツーリズム 432万件流出か",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/1/bangladesh-forms-wage-board-amid-garment-worker-protests?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/1/police-storm-portugal-housing-protest-camps?traffic_source=rss"
+        }
+      ],
+      "issue": "欧州各地で生活費高騰に対する抗議デモが発生しているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ドイツの複数の都市（ベルリン、ハンブルク、フランクフルトなど）で、生活費高騰に対する抗議デモが発生した。一部は暴徒化し、店舗が略奪された。",
+          "span": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thous",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "クラブツーリズムで不正アクセスにより会員情報432万件が流出し、国籍や緊急連絡先などが含まれる可能性がある。",
-          "span": "不正アクセスで会員情報４３２万件流出　国籍や緊急連絡先などか",
+          "t": "フランス全土で32万人以上が、生活費高騰と公共サービスの質の低下に反対するデモを行った。",
+          "span": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "バングラデシュの工業都市で、生活費高騰に伴う賃上げを求める労働者のデモが行われた。",
+          "span": "Demonstrations held in industrial cities as workers demand wage increase as cost of living rises.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ポルトガルのリスボン、ロッシオ広場に警察が日曜日の早朝に突入した。",
+          "span": "Police storm Portugal housing protest camp",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "欧州各地で生活費高騰に対する抗議デモが発生しているという事実は、複数の報道機関によって報じられている。",
+      "note": "本件は事実の列挙に留まり、評価や対立する意見は含まれていないため、positions は空となります。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "Facts 1と5を統合し、ドイツのデモが暴徒化し店舗が略奪された事実を追記しました。元のFact 5のspanは元テキストに存在しないため削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "自民 小林政調会長 消費税減税法案“成立向け野党に働きかけ”",
+      "slug": "自民小林政調会長消費税減税法案成立向け野党に働き",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69181"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026103100286&g=pol&m=rss"
+        }
+      ],
+      "issue": "消費税減税関連法案は成立するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "自民党の小林政調会長は、物価高対策としての消費税減税の意義を改めて強調した。",
+          "span": "物価高対策としての意義は大きいと改めて強調した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "自民党の小林政調会長は、消費税減税関連法案の成立に向けて野党への働きかけを続ける考えを示した。",
+          "span": "成立に向けて野党への働きかけを続ける考えを示しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "与党は、消費減税関連法案を6日に衆議院を通過させることを目指している。",
+          "span": "６日衆院通過目指す",
           "src": [
             {
               "ty": "press",
@@ -98,261 +192,37 @@
         }
       ],
       "positions": [],
-      "consensus": "GMOインターネットグループのサービスで不正アクセスが発生し、過去にぜい弱性が指摘されていたことが報じられている。また、クラブツーリズムで会員情報流出の可能性がある。",
-      "note": "プライバシー配慮のため、個人を特定できる情報は伏せています。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensus: 元のconsensusに「評価は割れる。」という評価が含まれていましたが、これは事実ではなく、テキストから読み取れる情報ではないため削除しました。",
-          "consensus: 元のconsensusに「評価は割れる。」という評価が含まれていましたが、これは事実ではなく、テキストから読み取れる情報ではないため削除しました。"
-        ]
-      }
-    },
-    {
-      "headline": "【地震情報】福島県で震度3 津波の心配なし",
-      "slug": "地震情報福島県で震度3津波の心配なし",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 地震・火山"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69068"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261031222223_0_VXSE53_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261031221832_0_VXSE51_010000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261031221318_0_VXSE53_270000.xml"
-        },
-        {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261031212318_0_VXSE53_010000.xml"
-        }
-      ],
-      "issue": "福島県で震度3の地震が発生したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "1日午前7時15分ごろ、福島県で震度3の揺れを観測する地震があった。",
-          "span": "福島県で震度3 津波の心配なし。1日午前7時15分ごろ、福島県で震度3の揺れを観測する地震がありました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この地震による津波の心配はない。",
-          "span": "この地震による津波の心配はありません。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "1日午前7時15分ごろ、地震があった。",
-          "span": "１日０７時１５分ころ、地震がありました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "1日午前7時15分ごろ、地震による強い揺れを感じた。",
-          "span": "１日０７時１５分ころ、地震による強い揺れを感じました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "震度3以上が観測された地域が通知された。",
-          "span": "震度３以上が観測された地域をお知らせします。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "1日午前7時10分ごろ、地震があった。",
-          "span": "１日０７時１０分ころ、地震がありました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "1日午前6時20分ごろ、地震があった。",
-          "span": "１日０６時２０分ころ、地震がありました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "1日午前7時15分ごろ、福島県で震度3の揺れを観測する地震があり、津波の心配はない。1日午前7時10分ごろ、および1日午前6時20分ごろにも地震があった。",
-      "note": "複数の気象庁情報源から、異なる時刻の地震発生が報告されている。NHKは7時15分の地震について、震度3、津波の心配なしと報じている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[0].span: 元テキストの冒頭部分をspanに含めることで、事実の範囲をより正確に示しました。",
-          "fact spanが原文に無い→除去「１日午前７時１５分ごろ、福島県で震度…」"
-        ]
-      }
-    },
-    {
-      "headline": "What is ranked-choice voting and how does it work in US elections?",
-      "slug": "Whatisrankedchoicevoting",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss"
-        }
-      ],
-      "issue": "スペインのサンチェス首相の再選の可能性は、一連の危機によって影響を受けるか？",
-      "stasis": "評価・予測",
-      "facts": [
-        {
-          "t": "スペインで列車事故が発生した。",
-          "span": "Spain train disaster",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "スペインで数週間のうちに総選挙が予定されている。",
-          "span": "just weeks before a snap general election",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イスラエルは、カタールによる選挙干渉の疑惑を提起した。",
-          "span": "Israel’s allegations of Qatari election interference",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "カタールは、イスラエルの選挙干渉疑惑を否定した。",
-          "span": "Qatari election interference rejected",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ランク投票（Ranked-choice voting）はアメリカの選挙で使用されることがある。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "アラスカ州ではランク投票が2026年の重要なレースに影響を与える可能性がある。",
-          "span": "Ranked-choice voting in Alaska could shape a key 2026 race",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ダン・サリバンという名前の候補者が関与する訴訟がアメリカで起きている。",
-          "span": "a US lawsuit involving two candidates named Dan Sulliva",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "スペインで列車事故が発生し、総選挙が予定されている。イスラエルはカタールによる選挙干渉を主張したが、カタールはこれを否定した。ランク投票はアメリカの選挙で使用され、アラスカ州の2026年のレースに影響を与える可能性がある。",
-      "note": "プライバシー配慮のため、個別の事件や人物に関する詳細な情報は省略し、争点と事実関係に焦点を当てています。",
+      "consensus": "消費税減税関連法案について、自民党の小林政調会長は物価高対策としての意義を強調し、成立に向け野党への働きかけを続ける考えを示した。与党は6日の衆議院通過を目指している。",
+      "note": "本件は、消費税減税法案の成立に向けた与野党の動きと、自民党幹部の意向に関する報道を構造化したものです。法案の是非や効果に関する評価は、提示された情報からは判断できません。",
       "audit": {
         "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「Ranked-choice voti…」"
-        ]
+        "issues": []
       }
     },
     {
-      "headline": "ハロウィーン 東京 渋谷は混雑も“大きなトラブルなし”警視庁",
-      "slug": "ハロウィン東京渋谷は混雑も大きなトラブルなし警視",
+      "headline": "日本ハムの伊藤大海、メジャー挑戦を決意　球団がポスティング申請―プロ野球",
+      "slug": "日本ハムの伊藤大海メジャ挑戦を決意球団がポスティ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69057"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69210"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6600887?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110100305&g=spo&m=rss"
         }
       ],
-      "issue": "東京渋谷のハロウィーンは大きなトラブルなく終了したか？",
+      "issue": "日本ハムの伊藤大海投手はポスティングシステムを利用してメジャーリーグへの移籍を目指すか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "週末と重なった今年のハロウィーン期間中、東京渋谷区は多くの人で混雑した。",
-          "span": "多くの人で混雑した",
+          "t": "プロ野球・日本ハムは、エースの伊藤大海投手のポスティングシステムを利用した移籍を容認すると発表した。",
+          "span": "日本ハムはエースの伊藤大海投手のポスティングシステムを使った移籍を容認すると発表し",
           "src": [
             {
               "ty": "press",
@@ -361,19 +231,39 @@
           ]
         },
         {
-          "t": "警視庁によると、10月31日から11月1日未明にかけての期間で、大きなトラブルは確認されていない。",
-          "span": "大きなトラブルは確認されていない",
+          "t": "伊藤大海投手は大リーグへの移籍を目指すことになった。",
+          "span": "伊藤投手は大リーグへの移籍を目指すことになりました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "日本ハムの伊藤大海投手はメジャー挑戦を決意した。",
+          "span": "伊藤大海、メジャー挑戦を決意",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "球団はポスティング申請を進めている。",
+          "span": "球団がポスティング申請",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "東京渋谷のハロウィーンは多くの人で混雑したが、警視庁によると大きなトラブルは確認されなかった。",
-      "note": "記事に評価や対立する立場が記述されていないため、positionsは空配列です。",
+      "consensus": "日本ハムは伊藤大海投手のポスティングシステムを利用した移籍を容認し、伊藤投手は大リーグへの移籍を目指すことで合意した。",
+      "note": "",
       "audit": {
         "changed": false,
         "issues": []
