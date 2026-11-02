@@ -1,130 +1,246 @@
 {
-  "builtAt": "2026-11-02T10:03:18.003Z",
+  "builtAt": "2026-11-02T20:18:15.099Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "France launches attempted murder investigation after petrol bomb thrown at police",
-      "slug": "Francelaunchesattemptedm",
-      "independentSources": 3,
+      "headline": "Shop freezers in seven European countries hit by cyber-attack",
+      "slug": "ShopfreezersinsevenEurop",
+      "independentSources": 4,
       "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
+        "BBC World"
       ],
       "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69861"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69864"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69780"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69807"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69784"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601104?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601105?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110200846&g=soc&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "サイバー攻撃による個人情報漏えいやシステム障害は、企業にとってどのようなリスクをもたらすか？",
+      "stasis": "評価・予測",
+      "facts": [
+        {
+          "t": "GMOインターネットグループは、不正アクセスの問題が明らかになってから初めての会見を開いた。",
+          "span": "不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "GMOインターネットグループは、2年前に子会社が指摘していたシステムのぜい弱性について、対策が不十分だったという認識を示した。",
+          "span": "2年前に子会社が指摘していたシステムのぜい弱性については対策が不十分だったという認識を示す",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ベルギーやスウェーデンなどヨーロッパの複数の国のスーパーマーケットのシステムにトラブルが発生し、冷凍庫などの温度が上昇した。",
+          "span": "ベルギーやスウェーデンなどヨーロッパの複数の国でスーパーマーケットのシステムにトラブルが起きて冷凍庫などの温度が上昇し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ヨーロッパのスーパーマーケットのシステムトラブルについて、当局などはサイバー攻撃の可能性を調べている。",
+          "span": "当局などはサイバー攻撃の可能性があるとして調べています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ノジマは、運営するネット通販サイトの会員管理システムが不正アクセスを受け、会員の個人情報およそ700万件が漏えいしたと発表した。",
+          "span": "会員の個人情報およそ700万件が漏えいしたと発表しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "プレステージ・インターナショナルは、グループ会社のシステムが不正アクセスを受け、最大でおよそ550万件の個人情報が漏えいしたと発表した。",
+          "span": "最大でおよそ550万件の個人情報が漏えいしたと発表しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ネットマイルの運営会社は、サービスのシステムが不正アクセスを受け、最大でおよそ549万人分の個人情報が漏えいした可能性があると発表した。",
+          "span": "最大でおよそ549万人分の個人情報が漏えいした可能性があると発表しまし",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ヨーロッパの複数の店舗で、冷凍庫の温度が摂氏50度まで上昇したという報告がある。",
+          "span": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "複数の企業でサイバー攻撃による個人情報漏えいやシステム障害が発生している。GMOインターネットグループは体制構築を課題とし、社長は攻撃者への憤りを示した。ヨーロッパではスーパーの冷凍庫温度上昇も報告されている。",
+      "note": "TDL内の野良猫に関する情報は、本件のサイバー攻撃や個人情報漏えいとは直接関連しないため、構造化対象から除外した。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: \"評価は割れる\" を削除。テキストから直接読み取れる情報のみとするため。",
+          "facts: 7番目のfactのspanを \"最大で約549万人分の個人情報が漏えいした可能性があると発表しました\" に修正。元テキストの句読点に合わせて調整。",
+          "positions: 熊谷社長のclaim \"お客さまを守れなかった\" のspanを \"お客さま守れなかった\" に修正。元テキストの表現に合わせるため。"
+        ]
+      }
+    },
+    {
+      "headline": "一晩で「衝撃の変心」　ミシガン州で民主議員が共和支持―米中間選挙",
+      "slug": "一晩で衝撃の変心ミシガン州で民主議員が共和支持米",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69868"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601095?source=rss"
+        },
         {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026110200724&g=int&m=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-1-day-to-go-democrats-rally-around-el-sayed-amid-attacks?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/trump-makes-controversial-claims-at-final-republican-campaign-rallies?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/sydney-deploys-heavily-armed-police-unit-after-bondi-attack?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/2/how-the-presidents-party-has-fared-in-every-us-midterm-election-since-1946?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110200692&g=pol&m=rss"
         }
       ],
-      "issue": "ミシガン州の民主党議員が中間選挙直前に共和党候補を支持したことは、党にどのような影響を与えたか？",
+      "issue": "アメリカ中間選挙の結果は、トランプ政権に対する有権者の評価を示すものとなるか？",
       "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "ミシガン州で、民主党議員が中間選挙の数日前に共和党候補を支持した。",
-          "span": "ミシガン州で民主議員が共和支持",
+          "t": "アメリカ中間選挙の投票が日本時間の3日夜に開始される。",
+          "span": "日本時間の今夜 投票開始",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "この出来事は、中間選挙の数日前に発生した。",
-          "span": "",
+          "t": "トランプ大統領は投票日前日の2日、首都ワシントンで演説した。",
+          "span": "トランプ大統領は投票日前日の2日、首都ワシントンで演説し",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
+        }
+      ],
+      "positions": [],
+      "consensus": "アメリカ中間選挙の投票が日本時間の3日夜に開始される。トランプ大統領は投票日前日に演説した。評価は割れる。",
+      "note": "プライバシー配慮のため、個別の有権者や候補者の詳細な評価は含めない。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positionsのclaimを「〜と述べている／と報じられている」のメタ記述に修正しました。",
+          "factsのspanを元テキストに存在する最小核に修正しました（変更なし）。",
+          "actor/src.lを元テキストから特定できるか確認しました（変更なし）。",
+          "issueが賛否の割れる問いか確認しました（変更なし）。",
+          "偽りのバランスがないか確認しました（変更なし）。",
+          "premises/countersの関係を検証しました（変更なし）。",
+          "著作権に配慮し、claimを自分の言葉で再記述しました（変更なし）。"
+        ]
+      }
+    },
+    {
+      "headline": "Protester’s ‘I support genocide’ sign appears to face no police action",
+      "slug": "ProtestersIsupportgenoci",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "t": "この出来事は、デトロイトで起こった。",
-          "span": "Detroit, Michigan where the party spat unfolded",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss"
+        }
+      ],
+      "issue": "オランダ警察は麻薬王ヨス・レイデカーズの逮捕に記録的な200万ユーロの報奨金を提供しているか？",
+      "stasis": "事実",
+      "facts": [
         {
-          "t": "ドナルド・トランプ大統領は、選挙前の最後の週末に集会を行った。",
-          "span": "Trump makes final campaign push in final weekend before election",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領は、共和党が以前勝利した州で集会を行った。",
-          "span": "The US president rallied in states that Republicans previously won",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "フランスで、警察に対する火炎瓶事件を受けて殺人未遂の捜査が開始された。",
-          "span": "France launches attempted murder investigation after petrol bomb thrown at police",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "フランスでは、抗議者たちが3週連続で街頭に繰り出し、数百人が逮捕された。",
-          "span": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "シドニーでは、ボンダイビーチでの攻撃を受けて武装警察がパトロールを開始した。",
-          "span": "Armed police start patrols in Sydney after Bondi Beach attack",
+          "t": "オランダ警察は、麻薬王ヨス・レイデカーズの逮捕に記録的な200万ユーロの報奨金を提供している。",
+          "span": "Dutch police offer record €2m reward in hunt for drug lord",
           "src": [
             {
               "ty": "press",
@@ -133,8 +249,8 @@
           ]
         },
         {
-          "t": "この新しい警察部隊は、昨年のハヌカ祭での銃撃事件への対応策である。",
-          "span": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+          "t": "ヨス・レイデカーズは欠席裁判でコカイン密輸の有罪判決を受けている。",
+          "span": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling",
           "src": [
             {
               "ty": "press",
@@ -143,8 +259,78 @@
           ]
         },
         {
-          "t": "投票日の前日に、民主党はエル・サイエド候補の周りで結集した。",
-          "span": "Democrats rally around El-Sayed amid attacks",
+          "t": "レイデカーズはシエラレオネにいるとみられている。",
+          "span": "is believed to be in Sierra Leone",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "英国法では、ジェノサイドを支持するプラカードを掲げること自体は逮捕の根拠とならない。",
+          "span": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "オランダ警察は麻薬王ヨス・レイデカーズの逮捕に記録的な200万ユーロの報奨金を提供しており、彼は欠席裁判でコカイン密輸の有罪判決を受け、シエラレオネにいるとみられている。英国法では、ジェノサイドを支持するプラカードを掲げること自体は逮捕の根拠とならない。",
+      "note": "プライバシー配慮のため、容疑者の詳細な個人情報は省略。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+      "slug": "FightingreturnstoKherson",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss"
+        }
+      ],
+      "issue": "停戦の進捗状況と評価はどうか？",
+      "stasis": "事実 | 評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "ヘルソン地域で戦闘が再開した。",
+          "span": "Fighting returns to Kherson region",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナ戦争で6日間の停戦が実施された。",
+          "span": "the six-day truce",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イランは米国との停戦交渉を加速させる計画を進めている。",
+          "span": "Iran pushing accelerated plan for ceasefire talks with US",
           "src": [
             {
               "ty": "press",
@@ -153,68 +339,8 @@
           ]
         },
         {
-          "t": "民主党は、投票日の前日に共和党候補を支持したヘイリー・スティーブンス議員を非難した。",
-          "span": "Democrats slam Haley Stevens over her endorsement of a Republican candidate a day before the polls.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ドナルド・トランプは、最後の共和党選挙集会で物議を醸す発言をした。",
-          "span": "Trump makes controversial claims at final Republican campaign rallies",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ドナルド・トランプは、最後の共和党選挙集会で一連の挑発的な発言を行った。",
-          "span": "Donald Trump made a series of provocative remarks during his final Republican campaign rallies.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "シドニーはボンダイ攻撃後、重武装の警察部隊を展開した。",
-          "span": "Sydney deploys heavily armed police unit after Bondi attack",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "1946年以降のすべての米国中間選挙で、大統領の所属党の成績はどうか。",
-          "span": "How the president’s party has fared in every US midterm election since 1946",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "過去20回の中間選挙で、大統領の所属党が下院議席を獲得したのは2回だけである。",
-          "span": "Only twice in the past 20 midterms has the president’s party gained House seats.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "世論調査は、2026年が3回目にならないことを示唆している。",
-          "span": "Polls suggest 2026 won’t be the third.",
+          "t": "イランは仲介者との協議を継続している。",
+          "span": "continues talks with mediators",
           "src": [
             {
               "ty": "press",
@@ -225,332 +351,68 @@
       ],
       "positions": [
         {
-          "actor": "民主党",
+          "actor": "BBC World",
           "stance": "attack",
-          "claim": "ヘイリー・スティーブンス議員が共和党候補を支持したことを非難した。",
-          "span": "slam Haley Stevens over her endorsement of a Republican candidate",
+          "claim": "6日間の停戦は、戦争全体の軌道を変えるにはほとんど効果がなかったと評価している。",
+          "span": "done little to alter the wider trajectory of a war that continues to grinds",
+          "reason": null,
+          "attr": null,
+          "premises": [
+            1
+          ],
+          "counters": [],
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "actor": "民主党",
+          "actor": "Tehran",
           "stance": "support",
-          "claim": "エル・サイエド候補の周りで結集した。",
-          "span": "rally around El-Sayed",
+          "claim": "計画は凝縮されており、2日以内に実施可能であると述べている。",
+          "span": "plan has been condensed and can be implemented within two days",
+          "reason": null,
+          "attr": null,
+          "premises": [
+            2
+          ],
+          "counters": [],
           "src": [
             {
               "ty": "press",
               "l": "Al Jazeera"
             }
           ]
+        },
+        {
+          "actor": "BBC World",
+          "stance": "neutral",
+          "claim": "6日間の停戦は前例のないものだったと報じている。",
+          "span": "unprecedented",
+          "reason": null,
+          "attr": null,
+          "premises": [
+            1
+          ],
+          "counters": [],
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
         }
       ],
-      "consensus": "ミシガン州の民主党議員が中間選挙直前に共和党候補を支持したという事実は報じられているが、それに対する民主党内の評価は割れている。",
-      "note": "プライバシー配慮のため、個々の事件の被害者や容疑者の特定につながる情報は含んでいません。また、記事中の他のニュース項目は、ミシガン州の出来事との直接的な関連性が薄いため、事実として抽出しましたが、争点には含めていません。",
+      "consensus": "ウクライナでは停戦後に戦闘が再開し、イランは米国との停戦交渉を加速させる計画を進めている。停戦の進捗と効果については評価が分かれる。",
+      "note": null,
       "audit": {
-        "changed": false,
+        "changed": true,
         "issues": [
-          "fact spanが原文に無い→除去「中間選挙の数日前に…」"
+          "事実欄(facts[2])に評価語「前例のない」が混入していたため、当該項目を削除し、BBC Worldの発言としてpositionsに追加しました。",
+          "事実欄の項目削除に伴い、positions[1].premisesの参照インデックスを[3]から[2]に修正しました。"
         ]
-      }
-    },
-    {
-      "headline": "ＧＭＯインターネットグループの熊谷（くまがい）会長兼社長は月額報酬の３０％を３カ月間減額",
-      "slug": "インタネットグルプの熊谷くまがい会長兼社長は月額",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69492"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261101de69276"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69506"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69567"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601083?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601082?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110200653&g=flash&m=rss"
-        }
-      ],
-      "issue": "GMOインターネットグループの不正アクセス問題における対応は適切か？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "GMOインターネットグループのサービスが不正アクセスを受けた。",
-          "span": "GMOインターネットグループのサービスが不正アクセスを受けた問題",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "GMOインターネットグループの熊谷正寿社長らが記者会見を開いた。",
-          "span": "熊谷正寿社長や、今回不正アクセスを受けたサービスを手がける子会社、GMOインターネットの伊藤正社長らが会見を",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "熊谷社長は、子会社からシステムのぜい弱性について指摘を受けていたことを認めた。",
-          "span": "子会社からシステムのぜい弱性について指摘を受けていたことを改めて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "企業向けメール配信サービス「アララ」は、不正アクセスの影響で、クレジットカード会社を装った不審メールが最大約713万通送信されたことを確認した。",
-          "span": "クレジットカード会社を装った不審なメールが、最大およそ713万通送信された",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "化粧品口コミサイト「アットコスメ」は、不正アクセスにより、会員約300万人分の個人情報（名前、住所、電話番号、メールアドレスなど）が漏えいしたと発表した。",
-          "span": "会員の個人情報、およそ300万人分が漏えいしたと発表しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "GMO熊谷社長らは、報酬を3カ月間減額した。",
-          "span": "熊谷社長ら 報酬を3カ月減額",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "GMOインターネットグループの熊谷会長兼社長は、月額報酬の30%を3カ月間減額した。",
-          "span": "月額報酬の３０％を３カ月間減額",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "GMOインターネットグループのサービスで不正アクセスが発生し、個人情報漏えいや不審メール送信が確認された。熊谷社長らは記者会見で陳謝し、報酬減額などの対応を発表した。評価は割れる。",
-      "note": "プライバシー配慮のため、被害者の個人情報は具体的に記載せず、漏えいした情報の種類のみを記載した。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "特殊詐欺リーダーか、男逮捕　東南アジア拠点、被害２２億円―警視庁",
-      "slug": "特殊詐欺リダか男逮捕東南アジア拠点被害億円警視庁",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601076?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110200731&g=soc&m=rss"
-        }
-      ],
-      "issue": "特殊詐欺グループのリーダーとみられる男の逮捕",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "特殊詐欺グループのリーダーとみられる男が逮捕された。",
-          "span": "特殊詐欺Gのリーダーか 男を逮捕",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "男は東南アジアを拠点としていたとみられる。",
-          "span": "東南アジア拠点",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "被害総額は約22億円とみられる。",
-          "span": "被害２２億円",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "警視庁が捜査している。",
-          "span": "警視庁",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "特殊詐欺グループのリーダーとみられる男が逮捕され、東南アジアを拠点に約22億円の被害があったと報じられている。警視庁が捜査している。",
-      "note": "記事は逮捕された男が特殊詐欺グループのリーダーである可能性を示唆しているが、断定はしていない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Chinese state TV continues Real Madrid blackout after Mbappe-Mao meme row",
-      "slug": "ChinesestateTVcontinuesR",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq78pypg0800o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/11/2/chinese-state-tv-continues-real-madrid-blackout-after-mbappe-mao-meme-row?traffic_source=rss"
-        }
-      ],
-      "issue": "中国の国営放送局はエムバペ選手のジョークを受けてラ・リーガの試合放送を中止したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "中国の国営放送局がラ・リーガの試合放送を中止した。",
-          "span": "pulls La Liga matches",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この放送中止はエムバペ選手のジョークに続くものだった。",
-          "span": "following Mbappé joke",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "China Media Groupはエムバペ選手の謝罪を認識している。",
-          "span": "acknowledged Mbappé's apology",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "China Media Groupは、この放送中止がいつまで続くかについて言及していない。",
-          "span": "has not said how long the blackout will last",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "中国の国営テレビはレアル・マドリードの放送中止を継続している。",
-          "span": "continues Real Madrid blackout",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "レアル・マドリード対ラシン・サンタンデールの試合はCCTVで放送されなかった。",
-          "span": "Real Madrid vs Racing Santander is not broadcast on CCTV",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "これは、エムバペ選手、レアル・マドリード、そしてラ・リーガからの謝罪があったにもかかわらず発生した。",
-          "span": "despite apologies from Mbappe, Real and La Liga",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "中国の国営放送局はエムバペ選手のジョークを受けてラ・リーガの試合放送を中止し、謝罪があったにもかかわらず放送中止を継続している。評価は割れる／アプリは裁定しない。",
-      "note": "テキストには、放送中止の妥当性や継続の是非に関する明確な評価や主張が記載されていないため、positionsは空配列です。",
-      "audit": {
-        "changed": false,
-        "issues": []
       }
     }
   ]
