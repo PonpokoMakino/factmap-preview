@@ -1,61 +1,254 @@
 {
-  "builtAt": "2026-11-02T20:18:15.099Z",
+  "builtAt": "2026-11-03T09:55:01.588Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Shop freezers in seven European countries hit by cyber-attack",
-      "slug": "ShopfreezersinsevenEurop",
-      "independentSources": 4,
+      "headline": "Americans head to the polls for elections that could define Trump's closing chapter",
+      "slug": "Americansheadtothepollsf",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/candidates-in-kansas-urge-supporters-to-mobilise-on-voting-day?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/georgia-senate-candidates-make-final-appeals-ahead-of-us-midterms-2?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/opinions/2026/11/3/the-us-midterms-will-test-the-limits-of-trumps-power?traffic_source=rss"
+        }
+      ],
+      "issue": "アメリカの中間選挙は、トランプ大統領の権力と議会の構成にどのような影響を与えるか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "アメリカで中間選挙が行われる。",
+          "span": "Americans head to the polls for elections",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "中間選挙は、トランプ大統領の任期の終盤の議会を形成する。",
+          "span": "The midterms will shape Congress for the last years of his presidency",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "カンザス州の候補者は、投票日に支持者に動員を呼びかけている。",
+          "span": "Candidates in Kansas urge supporters to mobilise on voting day",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ジョージア州の上院候補者、民主党のジョン・オソフと共和党の対立候補マイク・コリンズが、有権者に最後の訴えを行った。",
+          "span": "Democratic Senator Jon Ossoff and Republican opponent Mike Collins made their final appeals to voters in Georgia",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "中間選挙は、アメリカの制度が、大統領の圧力に耐える能力を試す。",
+          "span": "the ability of American institutions to withstand presidential pressure",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アメリカは中間選挙の前に、イランの島を攻撃した。",
+          "span": "US strikes Iranian island ahead of midterm elections",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アメリカ当局は、Qeshm島への攻撃を限定的かつ防御的なものだと説明した。",
+          "span": "US officials described the attacks on Qeshm Island as limited and defensive",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "アメリカで中間選挙が行われ、議会の構成とトランプ大統領の権力に影響を与える可能性がある。候補者は支持者に動員を呼びかけ、最後の訴えを行っている。評価は割れる。",
+      "note": "プライバシーに配慮し、個人名は公人または公的行為に関連する人物のみ記載。未確認の情報は含まない。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "factsの重複を削除しました（「中間選挙は、アメリカの制度が、大統領の圧力に耐える能力を試す。」が2回出現していました）。",
+          "positionsのclaimをより自然な日本語に修正しました（「定義する可能性がある」→「定義する可能性がある」）。",
+          "consensusの表現をより簡潔にしました。"
+        ]
+      }
+    },
+    {
+      "headline": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "slug": "SupremeCourtrejectsTrump",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/11/3/cricket-world-cup-india-vs-pakistan-gets-more-ticket-requests-than-final?traffic_source=rss"
+        }
+      ],
+      "issue": "最高裁判所はトランプ氏の、カリフォルニア州での係争中の票の集計停止要請を棄却したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "最高裁判所は、トランプ氏によるカリフォルニア州での係争中の票の集計停止要請を棄却した。",
+          "span": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この決定は中間選挙の前日に行われた。",
+          "span": "The ruling, which comes on the eve of the midterm elections",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この決定は、トランプ政権による失格入札を事実上終了させるものである。",
+          "span": "essentially ends the Trump administration's bid to disquali",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "移民・関税執行局（ICE）による急増した捜索活動が、カリフォルニア州の連邦議会選挙区の最終週に影を落としている。",
+          "span": "Surging ICE raids shadow final weeks of California congressional race",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "地域組織や代表者によると、移民捜索は地域社会に恐怖と不確実性を広げている。",
+          "span": "Local organisations and representatives say immigration raids have spread fear and uncertainty through communities.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "クリケットワールドカップのインド対パキスタン戦は、決勝戦よりも多くのチケットリクエストを受け取った。",
+          "span": "Cricket World Cup: India vs Pakistan gets more ticket requests than final",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "国際クリケット評議会（ICC）は、10月10日にヨハネスブルグで開催されるグループステージの試合で、34,000席に対して840万件のチケットリクエストを受け取った。",
+          "span": "ICC receives 8.4 million ticket requests for 34,000 seats at the October 10 group stage match in Johannesburg.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "最高裁判所はトランプ氏のカリフォルニア州での票の集計停止要請を棄却した。中間選挙の前日に行われたこの決定は、トランプ政権の失格入札を事実上終了させた。移民・関税執行局（ICE）による急増した捜索活動がカリフォルニア州の連邦議会選挙区の最終週に影を落とし、地域組織や代表者は、移民捜索が地域社会に恐怖と不確実性を広げていると述べている。クリケットワールドカップのインド対パキスタン戦は、決勝戦よりも多くのチケットリクエストを受け取り、ICCは34,000席に対して840万件のチケットリクエストを受け取った。",
+      "note": "プライバシー配慮のため、個別の事件や人物に関する詳細な情報は省略し、争点と事実関係に焦点を当てています。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: \"評価は割れる。\" という記述は元テキストに存在せず、事実に基づかないため削除しました。",
+          "note: \"プライバシー配慮のため、個別の事件や人物に関する詳細な情報は省略し、争点と事実関係に焦点を当てています。\" という記述は、抽出エンジンの意図を説明するメタ情報であり、検品対象の事実・論点ではないため削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "皇居で文化勲章親授式　そあいさん「国の歴史感じた」",
+      "slug": "皇居で文化勲章親授式そあいさん国の歴史感じた",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69861"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69864"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69780"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69807"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261102de69784"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601104?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601105?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69927"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110200846&g=soc&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026110300142&g=pol&m=rss"
         }
       ],
-      "issue": "サイバー攻撃による個人情報漏えいやシステム障害は、企業にとってどのようなリスクをもたらすか？",
-      "stasis": "評価・予測",
+      "issue": "文化勲章の親授式は行われたか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "GMOインターネットグループは、不正アクセスの問題が明らかになってから初めての会見を開いた。",
-          "span": "不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました",
+          "t": "文化勲章の親授式が皇居で行われた。",
+          "span": "文化勲章の親授式が行われ",
           "src": [
             {
               "ty": "press",
@@ -64,8 +257,8 @@
           ]
         },
         {
-          "t": "GMOインターネットグループは、2年前に子会社が指摘していたシステムのぜい弱性について、対策が不十分だったという認識を示した。",
-          "span": "2年前に子会社が指摘していたシステムのぜい弱性については対策が不十分だったという認識を示す",
+          "t": "文化勲章の親授式が文化の日の3日に行われた。",
+          "span": "文化の日の3日",
           "src": [
             {
               "ty": "press",
@@ -74,33 +267,49 @@
           ]
         },
         {
-          "t": "ベルギーやスウェーデンなどヨーロッパの複数の国のスーパーマーケットのシステムにトラブルが発生し、冷凍庫などの温度が上昇した。",
-          "span": "ベルギーやスウェーデンなどヨーロッパの複数の国でスーパーマーケットのシステムにトラブルが起きて冷凍庫などの温度が上昇し",
+          "t": "ことしのノーベル化学賞に選ばれた、そ※合憲三さんなどが天皇陛下から文化勲章を贈られた。",
+          "span": "ことしのノーベル化学賞に選ばれた、そ※合憲三さんなどに天皇陛下から文化勲章が贈られました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
+        }
+      ],
+      "positions": [],
+      "consensus": "文化勲章の親授式が皇居で行われ、そあいさんなどが天皇陛下から文化勲章を贈られた。そあいさんは国の歴史を感じたと述べている。",
+      "note": "そ※合憲三さんの氏名表記は原文ママ。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "サッカー・アジア杯、来年１２月に延期　森保監督が最後の指揮予定",
+      "slug": "サッカアジア杯来年月に延期森保監督が最後の指揮予",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601200?source=rss"
         },
         {
-          "t": "ヨーロッパのスーパーマーケットのシステムトラブルについて、当局などはサイバー攻撃の可能性を調べている。",
-          "span": "当局などはサイバー攻撃の可能性があるとして調べています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110300439&g=spo&m=rss"
+        }
+      ],
+      "issue": "サッカーアジアカップは延期されるか？",
+      "stasis": "事実",
+      "facts": [
         {
-          "t": "ノジマは、運営するネット通販サイトの会員管理システムが不正アクセスを受け、会員の個人情報およそ700万件が漏えいしたと発表した。",
-          "span": "会員の個人情報およそ700万件が漏えいしたと発表しました",
+          "t": "サッカーアジアカップが延期された。",
+          "span": "アジア杯延期",
           "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
@@ -108,311 +317,22 @@
           ]
         },
         {
-          "t": "プレステージ・インターナショナルは、グループ会社のシステムが不正アクセスを受け、最大でおよそ550万件の個人情報が漏えいしたと発表した。",
-          "span": "最大でおよそ550万件の個人情報が漏えいしたと発表しました",
+          "t": "サッカーアジアカップは来年12月に延期される予定である。",
+          "span": "来年１２月に延期",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ネットマイルの運営会社は、サービスのシステムが不正アクセスを受け、最大でおよそ549万人分の個人情報が漏えいした可能性があると発表した。",
-          "span": "最大でおよそ549万人分の個人情報が漏えいした可能性があると発表しまし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ヨーロッパの複数の店舗で、冷凍庫の温度が摂氏50度まで上昇したという報告がある。",
-          "span": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "複数の企業でサイバー攻撃による個人情報漏えいやシステム障害が発生している。GMOインターネットグループは体制構築を課題とし、社長は攻撃者への憤りを示した。ヨーロッパではスーパーの冷凍庫温度上昇も報告されている。",
-      "note": "TDL内の野良猫に関する情報は、本件のサイバー攻撃や個人情報漏えいとは直接関連しないため、構造化対象から除外した。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensus: \"評価は割れる\" を削除。テキストから直接読み取れる情報のみとするため。",
-          "facts: 7番目のfactのspanを \"最大で約549万人分の個人情報が漏えいした可能性があると発表しました\" に修正。元テキストの句読点に合わせて調整。",
-          "positions: 熊谷社長のclaim \"お客さまを守れなかった\" のspanを \"お客さま守れなかった\" に修正。元テキストの表現に合わせるため。"
-        ]
-      }
-    },
-    {
-      "headline": "一晩で「衝撃の変心」　ミシガン州で民主議員が共和支持―米中間選挙",
-      "slug": "一晩で衝撃の変心ミシガン州で民主議員が共和支持米",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69868"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601095?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110200724&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110200692&g=pol&m=rss"
-        }
-      ],
-      "issue": "アメリカ中間選挙の結果は、トランプ政権に対する有権者の評価を示すものとなるか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "アメリカ中間選挙の投票が日本時間の3日夜に開始される。",
-          "span": "日本時間の今夜 投票開始",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領は投票日前日の2日、首都ワシントンで演説した。",
-          "span": "トランプ大統領は投票日前日の2日、首都ワシントンで演説し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "アメリカ中間選挙の投票が日本時間の3日夜に開始される。トランプ大統領は投票日前日に演説した。評価は割れる。",
-      "note": "プライバシー配慮のため、個別の有権者や候補者の詳細な評価は含めない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimを「〜と述べている／と報じられている」のメタ記述に修正しました。",
-          "factsのspanを元テキストに存在する最小核に修正しました（変更なし）。",
-          "actor/src.lを元テキストから特定できるか確認しました（変更なし）。",
-          "issueが賛否の割れる問いか確認しました（変更なし）。",
-          "偽りのバランスがないか確認しました（変更なし）。",
-          "premises/countersの関係を検証しました（変更なし）。",
-          "著作権に配慮し、claimを自分の言葉で再記述しました（変更なし）。"
-        ]
-      }
-    },
-    {
-      "headline": "Protester’s ‘I support genocide’ sign appears to face no police action",
-      "slug": "ProtestersIsupportgenoci",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/protesters-i-support-genocide-sign-appears-to-face-no-police-action?traffic_source=rss"
-        }
-      ],
-      "issue": "オランダ警察は麻薬王ヨス・レイデカーズの逮捕に記録的な200万ユーロの報奨金を提供しているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "オランダ警察は、麻薬王ヨス・レイデカーズの逮捕に記録的な200万ユーロの報奨金を提供している。",
-          "span": "Dutch police offer record €2m reward in hunt for drug lord",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ヨス・レイデカーズは欠席裁判でコカイン密輸の有罪判決を受けている。",
-          "span": "Jos Leijdekkers has been found guilty in absentia of cocaine smuggling",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "レイデカーズはシエラレオネにいるとみられている。",
-          "span": "is believed to be in Sierra Leone",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "英国法では、ジェノサイドを支持するプラカードを掲げること自体は逮捕の根拠とならない。",
-          "span": "Holding a sign expressing support for genocide is not, in itself, grounds for arrest under UK law",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "オランダ警察は麻薬王ヨス・レイデカーズの逮捕に記録的な200万ユーロの報奨金を提供しており、彼は欠席裁判でコカイン密輸の有罪判決を受け、シエラレオネにいるとみられている。英国法では、ジェノサイドを支持するプラカードを掲げること自体は逮捕の根拠とならない。",
-      "note": "プライバシー配慮のため、容疑者の詳細な個人情報は省略。",
+      "consensus": "サッカーアジアカップは延期された。来年12月に延期される予定である。JFA会長が延期についてコメントし、森保監督は最後の指揮となる予定である。",
+      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positionsは中立的なコメントとして扱った。",
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
-      "slug": "FightingreturnstoKherson",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss"
-        }
-      ],
-      "issue": "停戦の進捗状況と評価はどうか？",
-      "stasis": "事実 | 評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "ヘルソン地域で戦闘が再開した。",
-          "span": "Fighting returns to Kherson region",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ウクライナ戦争で6日間の停戦が実施された。",
-          "span": "the six-day truce",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イランは米国との停戦交渉を加速させる計画を進めている。",
-          "span": "Iran pushing accelerated plan for ceasefire talks with US",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イランは仲介者との協議を継続している。",
-          "span": "continues talks with mediators",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "BBC World",
-          "stance": "attack",
-          "claim": "6日間の停戦は、戦争全体の軌道を変えるにはほとんど効果がなかったと評価している。",
-          "span": "done little to alter the wider trajectory of a war that continues to grinds",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            1
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "Tehran",
-          "stance": "support",
-          "claim": "計画は凝縮されており、2日以内に実施可能であると述べている。",
-          "span": "plan has been condensed and can be implemented within two days",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            2
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "BBC World",
-          "stance": "neutral",
-          "claim": "6日間の停戦は前例のないものだったと報じている。",
-          "span": "unprecedented",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            1
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "consensus": "ウクライナでは停戦後に戦闘が再開し、イランは米国との停戦交渉を加速させる計画を進めている。停戦の進捗と効果については評価が分かれる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄(facts[2])に評価語「前例のない」が混入していたため、当該項目を削除し、BBC Worldの発言としてpositionsに追加しました。",
-          "事実欄の項目削除に伴い、positions[1].premisesの参照インデックスを[3]から[2]に修正しました。"
-        ]
       }
     }
   ]
