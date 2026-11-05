@@ -1,58 +1,69 @@
 {
-  "builtAt": "2026-11-05T11:08:19.904Z",
+  "builtAt": "2026-11-05T18:42:31.525Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "France gears up for strikes and protests as unions promise national mobilisation",
-      "slug": "Francegearsupforstrikesa",
-      "independentSources": 2,
+      "headline": "ロシア大統領は日本たばこ産業（ＪＴ）のロシア国内資産をロシア企業の一時管理下に移すことを命じた",
+      "slug": "ロシア大統領は日本たばこ産業のロシア国内資産をロ",
+      "independentSources": 3,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71261"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601467?source=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110501153&g=int&m=rss"
         },
         {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110501146&g=flash&m=rss"
         }
       ],
-      "issue": "フランスでゼネストや抗議活動が行われるか？",
+      "issue": "ロシアは日本たばこ産業（JT）のロシア国内資産を一時的にロシア企業管理下に置くか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "フランスで5つの労働組合が、全国的な行動日としてストライキと抗議活動に参加した。",
-          "span": "Five of France's unions have joined a wave of strikes and protests in a national day of action.",
+          "t": "ロシアのプーチン大統領は、JTグループ会社がロシア国内に保有する4つの工場をロシア企業の管理下に一時的に置く大統領令に署名した。",
+          "span": "JT＝日本たばこ産業のグループ会社がロシア国内に保有する4つの工場をロシア企業の管理下に一時的に置くことを決めました",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ロシア大統領令は、日本たばこ産業（JT）のロシア国内資産をロシア企業の一時管理下に移すことを命じている。",
+          "span": "日本たばこ産業（ＪＴ）のロシア国内資産をロシア企業の一時管理下に移すことを命じた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "フランスで5つの労働組合が全国的な行動日としてストライキと抗議活動に参加したという事実について、全員の意見が一致している。",
-      "note": null,
+      "consensus": "ロシア大統領令により、日本たばこ産業（JT）のロシア国内資産がロシア企業の一時管理下に置かれる。",
+      "note": "時事ドットコムの記事では、この措置が対日圧力強化の一環である可能性が示唆されているが、他の記事では事実の記述に留まっている。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "「選挙干渉用宇宙レーザー機能せず」　共和大敗でマスク氏ぼやき―米中間選挙",
-      "slug": "選挙干渉用宇宙レザ機能せず共和大敗でマスク氏ぼや",
+      "headline": "高市首相は米中間選挙を受け、日米関係強化のためトランプ大統領と連携すると述べた。",
+      "slug": "高市首相は米中間選挙を受け日米関係強化のためトラ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -69,15 +80,23 @@
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110500493&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026110501010&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110500663&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110501020&g=pol&m=rss"
         }
       ],
-      "issue": "アメリカ中間選挙の結果は、イラン情勢への対応が原因となったか？",
-      "stasis": "因果の解釈（割れる）",
+      "issue": "アメリカ中間選挙の結果、民主党は連邦議会上下両院で多数派を奪還したか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "アメリカ中間選挙で与党・共和党が大敗した。",
-          "span": "アメリカの中間選挙で与党・共和党が大敗した",
+          "t": "アメリカ中間選挙で、野党・民主党が連邦議会上下両院で多数派の奪還を確実にし、共和党の地盤でも議席を獲得するなど、予想を上回る大きな勝利を収めた。",
+          "span": "アメリカの中間選挙は野党・民主党が連邦議会上下両院で多数派の奪還を確実にし、共和党の強固な地盤でも議席を獲得するなど予想を上回る大きな勝利となりました。",
           "src": [
             {
               "ty": "press",
@@ -86,8 +105,18 @@
           ]
         },
         {
-          "t": "野党・民主党は下院で240議席を超えた。",
-          "span": "下院２４０議席超",
+          "t": "民主党は下院で240議席超を獲得した。",
+          "span": "野党民主、下院２４０議席超",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "各地でデータセンター規制に関する住民投票が行われ、賛成が拡大した。",
+          "span": "データセンター規制に賛成拡大",
           "src": [
             {
               "ty": "press",
@@ -97,11 +126,14 @@
         }
       ],
       "positions": [],
-      "consensus": "アメリカ中間選挙で与党・共和党が大敗した。民主党は下院で240議席を超えた。トランプ大統領とバンス副大統領はイランへの軍事作戦が敗因との認識を示した。トランプ氏は弾劾をけん制し、マスク氏は「選挙干渉用宇宙レーザー機能せず」と述べた。",
-      "note": null,
+      "consensus": "アメリカ中間選挙で民主党が上下両院で多数派を奪還した。高市首相はトランプ大統領との連携に言及したが、選挙結果自体へのコメントは避けた。",
+      "note": "トランプ大統領とバンス副大統領のイランへの軍事行動に関する記述は、記事の途中で切れているため、構造化の対象外とした。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "consensus: consensusに「評価は割れる。」という評価語が含まれていたため削除しました。",
+          "note: noteに「トランプ大統領とバンス副大統領のイランへの軍事行動に関する記述は、記事の途中で切れているため、構造化の対象外とした。」というメタ記述が含まれていましたが、これは抽出エンジンの判断であり、検品対象外のため削除しました。"
+        ]
       }
     },
     {
@@ -189,8 +221,8 @@
       }
     },
     {
-      "headline": "三重 鳥羽水族館のラッコ「キラ」死ぬ 国内飼育は1頭のみに",
-      "slug": "三重鳥羽水族館のラッコキラ死ぬ国内飼育は1頭のみ",
+      "headline": "自転車青切符 半年間で1万6000件交付 “ながらスマホ”が4割",
+      "slug": "自転車青切符半年間で1万6000件交付ながらスマ",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -199,48 +231,50 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71090"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71298"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601455?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6601460?source=rss"
         }
       ],
-      "issue": "国内のラッコ飼育状況はどうなっているか？",
+      "issue": "自転車の交通違反に対する青切符による取り締まりの件数は多いか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "三重県の鳥羽水族館で飼育されていたラッコの「キラ」が5日に死亡した。",
-          "span": "死にました",
+          "t": "自転車の交通違反に対する青切符による取り締まりは、2023年4月の制度導入から半年間で約1万6000件交付された。",
+          "span": "およそ1万6000件にのぼり",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "「キラ」の死亡により、国内で飼育されているラッコは鳥羽水族館の1頭のみとなった。",
-          "span": "この水族館の1頭のみとなりました",
+          "t": "青切符による取り締まりのうち、スマートフォンを見ながらの運転が全体の4割を占めた。",
+          "span": "スマートフォンを見ながらの運転が全体の4割を",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "自転車の青切符による取り締まりは、半年間で約1.6万件だった。",
+          "span": "半年で約1.6万件",
+          "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "鳥羽水族館で飼育されていたラッコ「キラ」が5日に死亡し、これにより国内で飼育されているラッコは鳥羽水族館の1頭のみとなった。",
-      "note": "",
+      "consensus": "自転車の交通違反に対する青切符による取り締まりは、制度導入から半年間で約1万6000件交付され、そのうち4割がスマートフォンを見ながらの運転であった。",
+      "note": "Yahoo!ニュースはNHKの報道を引用している可能性が高いが、独立した情報源として記載。",
       "audit": {
         "changed": false,
         "issues": []
