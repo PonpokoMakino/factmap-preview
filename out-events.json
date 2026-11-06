@@ -1,50 +1,103 @@
 {
-  "rankedAt": "2026-11-06T19:55:59.008Z",
+  "rankedAt": "2026-11-06T23:58:28.156Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "１０月の米雇用、１６万５０００人増　予想大幅超過、失業率４．１％",
-      "slug": "月の米雇用万人増予想大幅超過失業率",
-      "time": "2026-11-06T15:11:00.000Z",
-      "independentSources": 3,
+      "headline": "冬型強まり北日本中心に暴風警戒 大雪に十分注意を",
+      "slug": "冬型強まり北日本中心に暴風警戒大雪に十分注意を",
+      "time": "2026-11-06T23:41:42.000Z",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 5,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "冬型強まり北日本中心に暴風警戒 大雪に十分注意を",
+          "snippet": "強い冬型の気圧配置の影響で、北日本では8日にかけ雪や雨を伴って非常に強い風が吹き、北海道の日本海側では大雪となるおそれがあります。暴風や高波に警戒するとともに、大雪による交通への影響に十分注意が必要で…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72009",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【山形県気象警報・注意報】庄内では、暴風に警戒してください。山形県では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106234144_0_VPWW54_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【山形県気象警報・注意報】庄内では、暴風に警戒してください。山形県では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106234144_0_VPWW53_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【上川・留萌地方気象警報・注意報】留萌地方では、暴風に警戒してください。上川・留萌地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106231603_0_VPWW54_012000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【上川・留萌地方気象警報・注意報】留萌地方では、暴風に警戒してください。上川・留萌地方では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106231603_0_VPWW53_012000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "次期ＥＣＢ総裁候補を発表　スペイン、オランダの２氏―ユーロ圏",
+      "slug": "次期総裁候補を発表スペインオランダの氏ユロ圏",
+      "time": "2026-11-06T23:43:00.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
         "時事ドットコム"
       ],
       "count": 3,
       "hasPrimary": false,
       "members": [
         {
-          "title": "アメリカ就業者数 市場予想上回る 来週の物価動向焦点",
-          "snippet": "円相場や株価に影響を及ぼすアメリカの雇用統計が発表され、10月の農業分野以外の就業者は、16万5000人増加し、市場の予想を大きく上回りました。\n\nFRB＝連邦準備制度理事会の金融政策を見通す上で、来…",
+          "title": "トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ",
+          "snippet": "アメリカのトランプ大統領は、スーザン・ワイルズ大統領首席補佐官が退任し、後任に、スティーブン・ミラー次席補佐官を起用すると明らかにしました。中間選挙で与党・共和党が大敗して以来、トランプ政権では最初の…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71979",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72003",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "米10月雇用16.5万人増 予想上回る",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601587?source=rss",
+          "title": "超党派議員連盟がICC訪問し赤根所長と面会「支援を強化」",
+          "snippet": "アメリカのトランプ政権がICC＝国際刑事裁判所のトップを務める赤根智子所長らを制裁対象とする中、超党派の議員連盟がオランダにあるICCを訪れ、日本として支援を強化できるよう政府に働きかけていく考えを示…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72010",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "１０月の米雇用、１６万５０００人増　予想大幅超過、失業率４．１％",
+          "title": "次期ＥＣＢ総裁候補を発表　スペイン、オランダの２氏―ユーロ圏",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110601267&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026110700226&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "slug": "Tanzanianoppositionleade",
-      "time": "2026-11-06T19:42:46.000Z",
+      "headline": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+      "slug": "PopebeginslengthytriptoL",
+      "time": "2026-11-06T20:27:09.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -54,41 +107,245 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-          "snippet": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+          "snippet": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-          "snippet": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
-          "snippet": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
+          "title": "Migrants arrive in Spain’s Canary Islands after being rescued at sea",
+          "snippet": "More than 3,200 migrants were rescued in the first six days of November in Canary Islands, Spain.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-canaryislandsmigrantarrivalssurge-es?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Pope Leo arrives in Uruguay starting 12-day Latin America tour",
+          "snippet": "The 71-year-old pontiff is visiting three countries despite undergoing surgery to remove a tumour last month.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/6/pope-leo-arrives-in-uruguay-starting-12-day-latin-america-tour?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "‘Message to the West’ bomb threats target European newsrooms, travel",
-      "slug": "MessagetotheWestbombthre",
-      "time": "2026-11-06T18:38:44.000Z",
+      "headline": "米大統領首席補佐官が退任　トランプ氏最側近、中間選挙大敗の引責か",
+      "slug": "米大統領首席補佐官が退任トランプ氏最側近中間選挙",
+      "time": "2026-11-06T22:35:39.000Z",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米大統領首席補佐官 ミラー氏昇格",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601592?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "米大統領首席補佐官が退任　トランプ氏最側近、中間選挙大敗の引責か",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110700153&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+      "slug": "HowTrumpsunconvincingnar",
+      "time": "2026-11-06T23:07:22.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
         "Al Jazeera"
       ],
-      "count": 3,
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Four midterms takeaways for 2028 White House race",
+          "snippet": "The buzz about the presidential election is already under way - here's what we learned this week.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
+          "snippet": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-11-06T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、７日０９時から１２時までは火口から南東方向、７日２１時から２４時までは火口から南西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106230030_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、７日０９時から１２時までは火口から南東方向、７日２１時から２４時までは火口から南西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106200031_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-11-06T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向、７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106230034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向、７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106200035_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-11-06T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向、７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106230038_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向、７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106200039_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-11-06T23:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向、７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106230041_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向、７日２１時から２４時までは火口から西方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106200042_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-11-06T23:22:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【新潟県気象警報・注意報】下越、佐渡では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106232238_0_VPWW54_150000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【新潟県気象警報・注意報】下越、佐渡では、高波に警戒してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106232238_0_VPWW53_150000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Russian extremist group denies sending hoax bomb threats",
+      "slug": "Russianextremistgroupden",
+      "time": "2026-11-06T15:25:35.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 2,
       "hasPrimary": false,
       "members": [
         {
@@ -106,141 +363,266 @@
           "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
-        },
-        {
-          "title": "‘Message to the West’ bomb threats target European newsrooms, travel",
-          "snippet": "Newsrooms in Ireland and Bulgaria received bomb threats from someone identifying themself as ‘Mikhail Andropov’.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "JESSE コカイン使用の疑いで逮捕 ロックバンドRIZEのボーカル",
-      "slug": "JESSEコカイン使用の疑いで逮捕ロックバンドR",
-      "time": "2026-11-06T17:31:18.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "JESSE コカイン使用の疑いで逮捕 ロックバンドRIZEのボーカル",
-          "snippet": "「JESSE」の名前でロックバンドのボーカルとして活動している46歳の男のミュージシャンが、今月、コカインを使用したとして警視庁に逮捕されたことが捜査関係者への取材で分かりました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261107de71989",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "RIZEボーカル JESSE容疑者逮捕",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601588?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "石破、小渕氏ら採決棄権　消費減税法案、処分求める声",
-      "slug": "石破小渕氏ら採決棄権消費減税法案処分求める声",
-      "time": "2026-11-06T12:06:05.000Z",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "石破氏ら採決退席 首相言及控える",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601568?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "石破、小渕氏ら採決棄権　消費減税法案、処分求める声",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110600913&g=pol&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "フィギュアGP中国大会 男子前半は三浦が首位 佐藤が2位",
-      "slug": "フィギュアGP中国大会男子前半は三浦が首位佐藤が",
-      "time": "2026-11-06T15:51:38.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "フィギュアGP中国大会 男子前半は三浦が首位 佐藤が2位",
-          "snippet": "フィギュアスケートのグランプリシリーズ第3戦、中国大会は男子シングル前半のショートプログラムが行われ、三浦佳生選手が首位、佐藤駿選手が2位と日本勢が好スタートを切りました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261107de71982",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "千葉百音、三浦佳生がＳＰ首位　中国杯フィギュア",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110601084&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-11-06T18:57:07.000Z",
+      "headline": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+      "slug": "TrumppromotesStephenMill",
+      "time": "2026-11-06T21:22:57.000Z",
       "independentSources": 1,
       "sources": [
-        "気象庁 地震・火山"
+        "Al Jazeera"
       ],
-      "count": 3,
-      "hasPrimary": true,
+      "count": 2,
+      "hasPrimary": false,
       "members": [
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　７日０３時５４分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106185707_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+          "snippet": "Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration poli",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
         },
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　７日０３時５１分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106185412_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
+          "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
+          "snippet": "President Donald Trump has promoted long-time aide Stephen Miller to Chief of Staff, replacing Susie Wiles.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に",
+      "slug": "消費税減税法案が衆院通過参院で与野党の合意形成が",
+      "time": "2026-11-06T20:47:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　７日０３時０２分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106180516_0_VXSE53_270000.xml",
-          "ty": "prim",
-          "linkKind": "data"
+          "title": "消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に",
+          "snippet": "食料品の消費税減税関連法案は自民・維新両党などの賛成多数で衆議院を通過し、参議院に送られました。\n\n参議院では与党が少数となる中、政府・与党は衆議院で反対した野党の賛同も取り付けて成立させたい考えで、…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de71985",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
+      "slug": "外務省幹部がロシア訪問JT子会社への措置に抗議し",
+      "time": "2026-11-06T21:53:06.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
+          "snippet": "ロシアのプーチン大統領がJT＝日本たばこ産業の子会社の生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名したことを受けて、外務省の幹部がロシア外務省を訪問し、今回の措置に抗議するとともに直ちに…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de71993",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "日米欧など10か国 香港民主活動家 黄之鋒氏への判決を非難",
+      "slug": "日米欧など10か国香港民主活動家黄之鋒氏への判決",
+      "time": "2026-11-06T23:19:41.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "日米欧など10か国 香港民主活動家 黄之鋒氏への判決を非難",
+          "snippet": "香港の著名な民主活動家、黄之鋒氏が香港の裁判所から懲役10年の判決を言い渡されたことについて、日本や欧米などの10か国は判決を非難し、「起訴された人への不当な追及を直ちに中止するよう求める」などとする…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de72008",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "米カリフォルニア州知事 すべての死刑囚548人を終身刑に減刑",
+      "slug": "米カリフォルニア州知事すべての死刑囚548人を終",
+      "time": "2026-11-06T21:36:40.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米カリフォルニア州知事 すべての死刑囚548人を終身刑に減刑",
+          "snippet": "アメリカ西部カリフォルニア州のニューサム知事は、州内のすべての死刑囚500人あまりの刑を仮釈放のない終身刑に減刑すると発表しました。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de71997",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "高市首相「中国は重要な隣国」",
+      "slug": "高市首相中国は重要な隣国",
+      "time": "2026-11-06T23:10:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "高市首相「中国は重要な隣国」",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601599?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "寂しい 地震被災で工場の復旧断念",
+      "slug": "寂しい地震被災で工場の復旧断念",
+      "time": "2026-11-06T23:41:06.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "寂しい 地震被災で工場の復旧断念",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601601?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "メーガン妃父 ポルノ所持疑い逮捕",
+      "slug": "メガン妃父ポルノ所持疑い逮捕",
+      "time": "2026-11-06T22:52:35.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "メーガン妃父 ポルノ所持疑い逮捕",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601596?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "アパートの住人刺され死亡 男逮捕",
+      "slug": "アパトの住人刺され死亡男逮捕",
+      "time": "2026-11-06T23:32:52.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "アパートの住人刺され死亡 男逮捕",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601598?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "阪神 FA3人獲りへ24億円超を用意",
+      "slug": "阪神FA3人獲りへ24億円超を用意",
+      "time": "2026-11-06T23:50:11.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "阪神 FA3人獲りへ24億円超を用意",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601605?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "花ざかりの君たちへ 新ドラマ化",
+      "slug": "花ざかりの君たちへ新ドラマ化",
+      "time": "2026-11-06T23:19:04.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "花ざかりの君たちへ 新ドラマ化",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601604?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "西川貴教 NHK紅白に出場決定",
+      "slug": "西川貴教NHK紅白に出場決定",
+      "time": "2026-11-06T22:59:59.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "西川貴教 NHK紅白に出場決定",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601600?source=rss",
+          "ty": "press",
+          "linkKind": "article"
         }
       ]
     },
@@ -252,7 +634,7 @@
       "sources": [
         "時事ドットコム"
       ],
-      "count": 2,
+      "count": 1,
       "hasPrimary": false,
       "members": [
         {
@@ -262,12 +644,151 @@
           "link": "https://www.jiji.com/jc/article?k=2026110600744&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
-        },
+        }
+      ]
+    },
+    {
+      "headline": "石破、小渕氏ら採決棄権　消費減税法案、処分求める声",
+      "slug": "石破小渕氏ら採決棄権消費減税法案処分求める声",
+      "time": "2026-11-06T10:46:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
         {
-          "title": "米国防長官に責任論　共和大敗で、来週にも弾劾採決か",
+          "title": "石破、小渕氏ら採決棄権　消費減税法案、処分求める声",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110600685&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026110600913&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "米テスラ、「サイバートラック」生産縮小　市場浸透できず",
+      "slug": "米テスラサイバトラック生産縮小市場浸透できず",
+      "time": "2026-11-06T20:07:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米テスラ、「サイバートラック」生産縮小　市場浸透できず",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110700155&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "メーガン妃の父親逮捕　子供の性虐待画像所持の疑い―米当局",
+      "slug": "メガン妃の父親逮捕子供の性虐待画像所持の疑い米当",
+      "time": "2026-11-06T22:17:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "メーガン妃の父親逮捕　子供の性虐待画像所持の疑い―米当局",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110700230&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "米中、閣僚級で電話会談　今月の首脳会談控え調整",
+      "slug": "米中閣僚級で電話会談今月の首脳会談控え調整",
+      "time": "2026-11-06T20:49:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米中、閣僚級で電話会談　今月の首脳会談控え調整",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110700171&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "首相動静（１１月６日）",
+      "slug": "首相動静月日",
+      "time": "2026-11-06T13:04:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "首相動静（１１月６日）",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110600230&g=pol&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "対空ミサイル供給要請か　イラン指導者、ロシアへの親書で",
+      "slug": "対空ミサイル供給要請かイラン指導者ロシアへの親書",
+      "time": "2026-11-06T22:03:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "対空ミサイル供給要請か　イラン指導者、ロシアへの親書で",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110700220&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "アイルランド・英の報道機関に爆破予告　欧州各国、旅客機脅迫も続く",
+      "slug": "アイルランド英の報道機関に爆破予告欧州各国旅客機",
+      "time": "2026-11-06T22:07:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "アイルランド・英の報道機関に爆破予告　欧州各国、旅客機脅迫も続く",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110700223&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -276,56 +797,103 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-11-06T17:00:00.000Z",
+      "time": "2026-11-06T23:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
       ],
-      "count": 2,
+      "count": 1,
       "hasPrimary": true,
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、７日０９時から１２時までは火口から南方向、７日２１時から２４時までは火口から南西方向に降",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106170039_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106140039_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106230044_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-11-06T17:00:00.000Z",
+      "headline": "震源・震度に関する情報",
+      "slug": "震源震度に関する情報",
+      "time": "2026-11-06T21:32:43.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
       ],
-      "count": 2,
+      "count": 1,
       "hasPrimary": true,
       "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向に降灰が予想されます。",
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　７日０６時３０分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106170042_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106213243_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
-        },
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（土砂）",
+      "slug": "気象警報注意報土砂",
+      "time": "2026-11-06T23:41:40.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
         {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106140042_0_VFVO53_010000.xml",
+          "title": "気象警報・注意報（Ｒ０６）（土砂）",
+          "snippet": "【山形県土砂災害警報・注意報】置賜では、土砂災害に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106234141_0_VPWW56_060000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雨）",
+      "slug": "気象警報注意報大雨",
+      "time": "2026-11-06T23:22:32.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雨）",
+          "snippet": "【新潟県大雨警報・注意報】中越、上越では、低い土地の浸水や河川の増水に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106232232_0_VPWW55_150000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｒ０６）（大雪）",
+      "slug": "気象警報注意報大雪",
+      "time": "2026-11-06T23:15:54.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｒ０６）（大雪）",
+          "snippet": "【上川・留萌地方大雪警報・注意報】上川地方では、大雪に注意してください。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106231554_0_VPWW60_012000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -334,514 +902,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-11-06T19:49:22.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【渡島・檜山地方気象警報・注意報】檜山地方では、暴風に警戒してください。渡島・檜山地方では、高波に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106194923_0_VPWW54_017000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【渡島・檜山地方気象警報・注意報】檜山地方では、暴風に警戒してください。渡島・檜山地方では、高波に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106194923_0_VPWW53_017000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-11-06T19:28:46.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【徳島県気象警報・注意報】南部では、強風に注意してください。徳島県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106192848_0_VPWW53_360000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【徳島県気象警報・注意報】南部では、強風に注意してください。徳島県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106192848_0_VPWW54_360000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-11-06T19:28:45.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【高知県気象警報・注意報】西部では、強風と、空気の乾燥した状態が続くため火の取り扱いに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106192846_0_VPWW54_390000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【高知県気象警報・注意報】西部では、強風と、空気の乾燥した状態が続くため火の取り扱いに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106192846_0_VPWW53_390000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
-      "slug": "サイバ攻撃対応強化で法改正検討へ国内通信情報取得",
-      "time": "2026-11-06T13:42:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
-          "snippet": "政府はサイバー攻撃の情報収集能力を強化するため「能動的サイバー防御」の関連法の改正を検討します。現在の法律では認められていない、国内で完結する通信情報の取得を可能にするかが焦点となる見通しです。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71963",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "余命宣告後“神様の贈り物” 2200万円持ち去り実刑判決 仙台",
-      "slug": "余命宣告後神様の贈り物2200万円持ち去り実刑判",
-      "time": "2026-11-06T12:23:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "余命宣告後“神様の贈り物” 2200万円持ち去り実刑判決 仙台",
-          "snippet": "仙台市の路上で落とし物の現金2200万円が入った袋を持ち去った罪に問われ、裁判で「がんで余命宣告を受けた帰りに見つけ、神様の贈り物だと思った」と述べた43歳の被告に対し、裁判所は「自暴自棄になっていた…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71905",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "高市首相 「台湾有事」答弁1年 “中国と安定的な関係構築を”",
-      "slug": "高市首相台湾有事答弁1年中国と安定的な関係構築を",
-      "time": "2026-11-06T14:42:52.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "高市首相 「台湾有事」答弁1年 “中国と安定的な関係構築を”",
-          "snippet": "いわゆる「台湾有事」をめぐる国会答弁から7日で1年となることについて、高市総理大臣は、中国との間で意思疎通を図り、建設的で安定的な関係を構築していく考えを重ねて示しました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71861",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "訪問介護 厚生労働省が新たな支援方針 サービス維持への課題は",
-      "slug": "訪問介護厚生労働省が新たな支援方針サビス維持への",
-      "time": "2026-11-06T14:50:29.000Z",
-      "independentSources": 1,
-      "sources": [
-        "NHK 主要ニュース"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "訪問介護 厚生労働省が新たな支援方針 サービス維持への課題は",
-          "snippet": "自宅で介護を受けられる訪問介護。高齢化社会に欠かせない制度ですが、経営が厳しい事業者も出ています。\n6日、厚生労働省は新たな支援策の案を示しました。訪問介護サービスは維持されるのでしょうか。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71869",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "ドコモ 流出の対象者に見舞金検討",
-      "slug": "ドコモ流出の対象者に見舞金検討",
-      "time": "2026-11-06T11:35:39.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ドコモ 流出の対象者に見舞金検討",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601566?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "KDDI社長 決算会見で2つのおわび",
-      "slug": "KDDI社長決算会見で2つのおわび",
-      "time": "2026-11-06T13:44:06.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "KDDI社長 決算会見で2つのおわび",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601580?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "池袋女性刺殺 容疑者死亡で不起訴",
-      "slug": "池袋女性刺殺容疑者死亡で不起訴",
-      "time": "2026-11-06T14:17:53.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "池袋女性刺殺 容疑者死亡で不起訴",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601583?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "久邇邦昭氏死去 上皇さまのいとこ",
-      "slug": "久邇邦昭氏死去上皇さまのいとこ",
-      "time": "2026-11-06T14:17:32.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "久邇邦昭氏死去 上皇さまのいとこ",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601584?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "無償トレードの東浜 素直に驚き",
-      "slug": "無償トレドの東浜素直に驚き",
-      "time": "2026-11-06T13:21:59.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "無償トレードの東浜 素直に驚き",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601576?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「ゴジラ」ゆかりの海底地形、地質遺産に　海保調査で発見",
-      "slug": "ゴジラゆかりの海底地形地質遺産に海保調査で発見",
-      "time": "2026-11-06T14:03:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「ゴジラ」ゆかりの海底地形、地質遺産に　海保調査で発見",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110601275&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "英中銀は約３年ぶりの利上げを決定した",
-      "slug": "英中銀は約年ぶりの利上げを決定した",
-      "time": "2026-11-05T12:02:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "英中銀は約３年ぶりの利上げを決定した",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110501163&g=flash&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "不正アクセスで警察庁に合同捜査本部　ＧＭＯ事件にサイバー特捜部投入",
-      "slug": "不正アクセスで警察庁に合同捜査本部事件にサイバ特",
-      "time": "2026-11-06T10:08:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "不正アクセスで警察庁に合同捜査本部　ＧＭＯ事件にサイバー特捜部投入",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110601074&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「魅せるサービス、質高める」　最年少表彰の仏料理マネジャー―現代の名工",
-      "slug": "魅せるサビス質高める最年少表彰の仏料理マネジャ現",
-      "time": "2026-11-06T11:31:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「魅せるサービス、質高める」　最年少表彰の仏料理マネジャー―現代の名工",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110600707&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "山口茜ら準決勝進出　バドミントン",
-      "slug": "山口茜ら準決勝進出バドミントン",
-      "time": "2026-11-06T12:27:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "山口茜ら準決勝進出　バドミントン",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110601224&g=spo&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-11-06T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、７日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106170045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-11-06T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、７日０９時から１２時までは火口から南東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106170031_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-11-06T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、７日０９時から１２時までは火口から南方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106170035_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
-      "slug": "気象警報注意報暴風",
-      "time": "2026-11-06T19:49:13.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（暴風）",
-          "snippet": "【渡島・檜山地方暴風（雪）警報・注意報】檜山地方では、暴風に警戒してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106194914_0_VPWW58_017000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-11-06T19:28:44.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【徳島県乾燥注意報】徳島県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106192845_0_VPWW61_360000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
-      "slug": "気象警報注意報その他注意報",
-      "time": "2026-11-06T19:28:36.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 1,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
-          "snippet": "【高知県乾燥注意報】西部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106192836_0_VPWW61_390000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象警報・注意報（Ｈ２７）",
-      "slug": "気象警報注意報",
-      "time": "2026-11-06T19:21:15.000Z",
+      "time": "2026-11-06T22:58:04.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -851,9 +912,9 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【兵庫県気象警報・注意報】北部では、高波に注意してください。",
+          "snippet": "【宮崎県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106192116_0_VPWW54_280000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261106225805_0_VPWW54_450000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -862,7 +923,7 @@
     {
       "headline": "AI stocks climb after trillions wiped from market values",
       "slug": "AIstocksclimbaftertrilli",
-      "time": "2026-11-06T19:37:10.000Z",
+      "time": "2026-11-06T21:06:25.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -875,27 +936,6 @@
           "snippet": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI de",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Four midterms takeaways for 2028 White House race",
-      "slug": "Fourmidtermstakeawaysfor",
-      "time": "2026-11-06T16:12:22.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Four midterms takeaways for 2028 White House race",
-          "snippet": "The buzz about the presidential election is already under way - here's what we learned this week.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -923,6 +963,48 @@
       ]
     },
     {
+      "headline": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+      "slug": "Kenyandoomsdaycultleader",
+      "time": "2026-11-06T14:46:03.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+          "snippet": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "slug": "Spainsrailauthoritiesfac",
+      "time": "2026-11-06T17:44:02.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+          "snippet": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 peop",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Judge blocks construction of Trump's massive arch after federal agency approval",
       "slug": "Judgeblocksconstructiono",
       "time": "2026-11-06T15:30:42.000Z",
@@ -938,27 +1020,6 @@
           "snippet": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-      "slug": "PopebeginslengthytriptoL",
-      "time": "2026-11-06T00:02:57.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-          "snippet": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -986,9 +1047,9 @@
       ]
     },
     {
-      "headline": "Why is Britain refusing to pay slavery reparations?",
-      "slug": "WhyisBritainrefusingtopa",
-      "time": "2026-11-06T19:34:33.000Z",
+      "headline": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+      "slug": "EUtellsTikToktofixharmfu",
+      "time": "2026-11-06T23:33:28.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -997,19 +1058,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Why is Britain refusing to pay slavery reparations?",
-          "snippet": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
+          "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
+          "snippet": "TikTok&#039;s algorithm &#039;leading users down rabbit holes they cannot easily escape from&#039;, European Commission ",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Could Trump’s veto stop the Democratic majority?",
-      "slug": "CouldTrumpsvetostoptheDe",
-      "time": "2026-11-06T19:18:33.000Z",
+      "headline": "US urges China to honour Busan trade deal commitments",
+      "slug": "USurgesChinatohonourBusa",
+      "time": "2026-11-06T23:00:37.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1018,19 +1079,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Could Trump’s veto stop the Democratic majority?",
-          "snippet": "Democrats have won the House and Senate. AJLabs looks at the numbers and what their majority means for Trump.",
+          "title": "US urges China to honour Busan trade deal commitments",
+          "snippet": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China&#039;s fulfilment of commitmen",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-congress-flipped-061126?traffic_source=rss",
+          "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-      "slug": "IsraelclosesHebronsIbrah",
-      "time": "2026-11-06T19:16:07.000Z",
+      "headline": "Palestinian couples tie the knot in mass wedding in Gaza",
+      "slug": "Palestiniancouplestiethe",
+      "time": "2026-11-06T21:37:30.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1039,19 +1100,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Israel closes Hebron’s Ibrahimi Mosque to Palestinians for Jewish holiday",
-          "snippet": "Contested West Bank holy site is reopened exclusively for Israelis, deepening tensions over control of the mosque.",
+          "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+          "snippet": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/6/israel-closes-hebrons-ibrahimi-mosque-to-palestinians-for-jewish-holiday?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Trump says making adviser Stephen Miller White House chief of staff",
-      "slug": "TrumpsaysmakingadviserSt",
-      "time": "2026-11-06T19:08:31.000Z",
+      "headline": "Protesters break into Microsoft data centre site in Amsterdam",
+      "slug": "ProtestersbreakintoMicro",
+      "time": "2026-11-06T21:04:40.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1060,19 +1121,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Trump says making adviser Stephen Miller White House chief of staff",
-          "snippet": "This is a breaking news story.",
+          "title": "Protesters break into Microsoft data centre site in Amsterdam",
+          "snippet": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/6/trump-says-making-adviser-stephen-miller-white-house-chief-of-staff?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
-      "slug": "Armedmenkillatleast33inv",
-      "time": "2026-11-06T19:07:06.000Z",
+      "headline": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+      "slug": "MeghanMarklesfatherarres",
+      "time": "2026-11-06T20:28:07.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1081,73 +1142,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Armed men kill at least 33 in village in Ebola-hit eastern DRC",
-          "snippet": "Locals blame ADF armed group, which pledged allegiance to ISIL in 2019, for the deadly raids on North Kivu villages.",
+          "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
+          "snippet": "US authorities found sexually explicit photos that appeared to show Thomas Markle with prepubescent girls.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/6/armed-men-kill-at-least-33-in-village-in-ebola-hit-eastern-drc?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Why is Paraguay facing a banking and political crisis?",
-      "slug": "WhyisParaguayfacingabank",
-      "time": "2026-11-06T18:54:08.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Why is Paraguay facing a banking and political crisis?",
-          "snippet": "Ueno collapse raises questions about state influence and accountability.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/11/6/why-is-paraguay-facing-a-banking-and-political-crisis?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
-      "slug": "Goatsonweedclearingdutyb",
-      "time": "2026-11-06T18:45:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Goats on weed-clearing duty become unlikely Tokyo celebrities",
-          "snippet": "Two goats deployed to clear overgrown grass near a Tokyo railway station have become social media stars.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/6-11-sv-tokyo-goats-weed-clearing?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-      "slug": "RussiaslandgainsinUkrain",
-      "time": "2026-11-06T18:23:11.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Russia’s land gains in Ukraine dwindle as its diesel reportedly goes unsold",
-          "snippet": "Moscow is suffering losses on the battlefield as US traders reportedly refuse to honour Trump&#039;s diesel deal with Pu",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/6/in-ukraine-russias-territorial-gains-dwindle-as-its-diesel-goes-unsold?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
