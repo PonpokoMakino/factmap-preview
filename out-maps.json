@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-11-06T05:17:28.347Z",
+  "builtAt": "2026-11-06T19:55:59.008Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決",
-      "slug": "消費税減税法案衆議院を通過自民維新などの賛成多数",
+      "headline": "１０月の米雇用、１６万５０００人増　予想大幅超過、失業率４．１％",
+      "slug": "月の米雇用万人増予想大幅超過失業率",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,159 +14,82 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71359"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71419"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71488"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71979"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601525?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6601587?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110600488&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110600299&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110600486&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026110601267&g=int&m=rss"
         }
       ],
-      "issue": "消費税減税法案は妥当か？",
-      "stasis": "政策",
+      "issue": "アメリカの10月の雇用統計は市場予想を上回ったか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "食料品の消費税率を来年4月から2年間1%に引き下げることを含む消費税減税関連法案が、衆議院本会議で自民党と日本維新の会などの賛成多数で可決され、参議院に送付された。",
-          "span": "食料品の消費税率を来年4月から2年間、1％に引き下げることなどを盛り込んだ消費税減税関連法案は、6日の衆議院本会議で採決が行われ、自民・維新両党などの賛成多数で可決されて参議院に送られました",
+          "t": "アメリカの10月の農業分野以外の就業者は16万5000人増加した。",
+          "span": "10月の農業分野以外の就業者は、16万5000人増加し",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "アメリカの10月の農業分野以外の就業者の増加数は、市場の予想を大きく上回った。",
+          "span": "市場の予想を大きく上回りました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アメリカの10月の雇用者数は16万5000人増加し、予想を上回った。",
+          "span": "米10月雇用16.5万人増 予想上回る",
+          "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
+            }
+          ]
+        },
+        {
+          "t": "アメリカの10月の雇用者数は16万5000人増加し、予想を大幅に超過した。",
+          "span": "１０月の米雇用、１６万５０００人増　予想大幅超過",
+          "src": [
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "高市総理大臣は、消費税減税に合わせて導入する所得に応じた支援金について、勤労者の3割以上を対象とする方向で検討する考えを示した。",
-          "span": "所得に応じた支援金について、勤労者の3割以上を対象とする方向で検討する考えを示しました",
+          "t": "アメリカの10月の失業率は4.1%だった。",
+          "span": "失業率４．１％",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "木原官房長官は、高市総理大臣の「台湾有事」に関する国会答弁から1年となることに関連し、台湾に関する日本の立場は1972年の日中共同声明から変更がないとの認識を改めて示した。",
-          "span": "台湾に関する日本の立場は1972年の日中共同声明から変更はないという認識を重ねて示しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "自由民主党",
-          "stance": "support",
-          "claim": "消費税減税関連法案に賛成していると報じられている。",
-          "span": "自民・維新両党などの賛成多数で",
-          "reason": null,
-          "attr": "賛成多数の一部",
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "日本維新の会",
-          "stance": "support",
-          "claim": "消費税減税関連法案に賛成していると報じられている。",
-          "span": "自民・維新両党などの賛成多数で",
-          "reason": null,
-          "attr": "賛成多数の一部",
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "立憲民主党",
-          "stance": "attack",
-          "claim": "消費税減税法案に反対していると報じられている。",
-          "span": "消費減税法案に反対",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "公明党",
-          "stance": "attack",
-          "claim": "消費税減税法案に反対していると報じられている。",
-          "span": "消費減税法案に反対",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
-      "consensus": "消費税減税関連法案は衆議院を通過したが、その妥当性については評価が割れている。",
-      "note": null,
+      "positions": [],
+      "consensus": "アメリカの10月の農業分野以外の就業者は16万5000人増加し、市場の予想を上回った。失業率は4.1%だった。",
+      "note": "本件は事実の記述に留まり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions の claim が地の文の断定になっていたため、「〜と報じられている」のメタ記述に修正しました。",
-          "positions の span が最小核ではなかったため、元テキストの該当箇所に修正しました。",
-          "「賛成多数」という記述から、賛成側の立場に「賛成多数の一部」という属性を追加し、偽りのバランスを避けました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Trump signs order preventing future presidents from changing Oval Office",
-      "slug": "Trumpsignsorderpreventin",
+      "headline": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
+      "slug": "Tanzanianoppositionleade",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -175,222 +98,178 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss"
         }
       ],
-      "issue": "",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "トランプ前大統領は、将来の大統領が大統領執務室を変更することを防ぐ命令に署名した。",
-          "span": "signs order preventing future presidents from changing Oval Office",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この命令は、トランプ氏が大統領執務室の装飾に一連の大きな変更を加え、ホワイトハウスEを取り壊した後に出された。",
-          "span": "made a series of big changes to the decor of the Oval Office and tore down the White House E",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏は、大統領執務室を国定記念物に指定する宣言を発した。",
-          "span": "issues proclamation declaring Oval Office national monument",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "この署名は、選挙での敗北後、トランプ氏が署名した改修プロジェクトに焦点を当てた今週3回目のイベントである。",
-          "span": "marks Trump&#039;s third event of the week focused on signature renovation projec",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "トランプ前大統領が大統領執務室の現状維持に関する命令に署名したこと、および国定記念物と宣言したことは合意されているが、その評価は記事に記載されていない。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "`issue`がテキストにない評価を含んでいたため削除しました。テキストには争点が提示されていません。"
-        ]
-      }
-    },
-    {
-      "headline": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
-      "slug": "ロシア国内のJT関連工場一時的にロシア企業管理下",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71261"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110501153&g=int&m=rss"
-        }
-      ],
-      "issue": "ロシアによるJT関連工場の管理下への移行は、対日圧力強化の一環と見なせるか？",
-      "stasis": "因果の解釈",
-      "facts": [
-        {
-          "t": "ロシアのプーチン大統領は5日、JT（日本たばこ産業）の海外子会社がロシア国内に保有する4つの生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名した。",
-          "span": "4つの生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ロシアがJT関連工場を一時的に管理下に置く大統領令に署名したことは事実である。その意図については、対日圧力強化の一環である可能性が報じられているが、評価は割れる／アプリは裁定しない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」の構造に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "歩道で女子大生に平手打ちの疑い　男再逮捕、１５分で７人に暴行か―警視庁",
-      "slug": "歩道で女子大生に平手打ちの疑い男再逮捕分で人に暴",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71431"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110600493&g=soc&m=rss"
-        }
-      ],
-      "issue": "39歳の男の容疑者は路上で複数の女性に暴行したのか？",
+      "issue": "ポール・マッケンジーは191人を殺害したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "39歳の男の容疑者が逮捕された。",
-          "span": "39歳の男の容疑者が逮捕された",
+          "t": "ポール・マッケンジーは191人の殺害で終身刑を宣告された。",
+          "span": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "容疑は、路上で通りかかった20代の女性に突然平手打ちをしたこと。",
-          "span": "通りかかった20代の女性に突然、平手打ちをした",
+          "t": "タンザニアの野党指導者は、反乱扇動罪で有罪となったが、反逆罪は無罪となった。",
+          "span": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "男は再逮捕された。",
-          "span": "男再逮捕",
+          "t": "タンザニアの野党指導者トゥンドゥ・リッスは、政治的動機によるものと広く非難されている事件で投獄された。",
+          "span": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "容疑は、歩道で女子大生に平手打ちをした疑い。",
-          "span": "歩道で女子大生に平手打ちの疑い",
+          "t": "タンザニアの野党指導者は、昨年4月から拘留されている。",
+          "span": "who has been detained since April last year",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "警視庁は、容疑者がこの前後にも路上で女性に暴行したとみている。",
-          "span": "警視庁は容疑者がこの前後にも路上で女性ば…",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "女性ばかり7人が被害に遭った可能性がある。",
-          "span": "女性ばかり7人被害か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "15分間で7人に暴行した可能性がある。",
-          "span": "１５分で７人に暴行か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "事件は先月の夜、東京千代田区の路上で発生した。",
-          "span": "先月の夜、東京 千代田区の路上で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "39歳の男の容疑者が路上で女性に平手打ちをした疑いで逮捕・再逮捕され、警視庁は複数の女性への暴行があったとみている点で事実合意がある。本件に関する評価や意見の対立は記事中に見られない。",
-      "note": null,
+      "consensus": "ポール・マッケンジーは191人の殺害で終身刑を宣告された。タンザニアの野党指導者は反乱扇動罪で有罪となったが、反逆罪は無罪となった。タンザニアの野党指導者トゥンドゥ・リッスは、政治的動機によるものと広く非難されている事件で投獄された。タンザニアの野党指導者は、昨年4月から拘留されている。タンザニアの野党指導者は、訴訟は政治的動機によるものだと主張している。トゥンドゥ・リッスは、訴訟は政治的動機によるものだと広く非難されている。",
+      "note": "プライバシー配慮のため、タンザニアの野党指導者の氏名は、Al Jazeeraの記事で特定されている場合でも、BBC Worldの記事の文脈に合わせて「タンザニアの野党指導者」としています。ただし、Al Jazeeraの記事では「Tundu Lissu」と特定されています。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "‘Message to the West’ bomb threats target European newsrooms, travel",
+      "slug": "MessagetotheWestbombthre",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss"
+        }
+      ],
+      "issue": "欧州の航空会社や報道機関への爆弾脅迫は、ロシアの過激派グループによるものか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "今週、欧州全域で多数の航空便が爆弾脅迫を受けているが、これまでのところ爆発物は発見されていない。",
+          "span": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "航空会社への脅迫と報道機関への脅迫との間に関連性は確立されていない。",
+          "span": "No link has been established between the threats against the airlines and those against the media outlets.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アイルランドとブルガリアの報道機関が、「ミハイル・アンドロポフ」と名乗る人物からの爆弾脅迫を受けた。",
+          "span": "Newsrooms in Ireland and Bulgaria received bomb threats from someone identifying themself as ‘Mikhail Andropov’.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "欧州の航空会社や報道機関が爆弾脅迫を受けているという事実については全員が合意している。しかし、その脅迫がロシアの過激派グループによるものかについては、当該グループが否定しているため、評価は割れる。",
+      "note": "プライバシー保護のため、個人名は特定可能な範囲で記載するが、一般私人や被害者の実名は避ける。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "JESSE コカイン使用の疑いで逮捕 ロックバンドRIZEのボーカル",
+      "slug": "JESSEコカイン使用の疑いで逮捕ロックバンドR",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261107de71989"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601588?source=rss"
+        }
+      ],
+      "issue": "ロックバンドRIZEのボーカルであるJESSE容疑者はコカイン使用の疑いで逮捕されたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "「JESSE」の名前でロックバンドのボーカルとして活動している46歳のミュージシャンが、コカインを使用した疑いで警視庁に逮捕されたことが捜査関係者への取材で分かった。",
+          "span": "「JESSE」の名前でロックバンドのボーカルとして活動している46歳の男のミュージシャンが、今月、コカインを使用したとして警視庁に逮捕されたことが捜査関係者への取材で分かりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "RIZEのボーカルであるJESSE容疑者が逮捕された。",
+          "span": "RIZEボーカル JESSE容疑者逮捕",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロックバンドRIZEのボーカルであるJESSE容疑者は、コカイン使用の疑いで逮捕されたという事実は、複数の報道機関によって報じられている。",
+      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positionsは空となります。",
       "audit": {
         "changed": false,
         "issues": []
