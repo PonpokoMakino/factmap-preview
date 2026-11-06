@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-11-05T18:42:31.525Z",
+  "builtAt": "2026-11-06T05:17:28.347Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "ロシア大統領は日本たばこ産業（ＪＴ）のロシア国内資産をロシア企業の一時管理下に移すことを命じた",
-      "slug": "ロシア大統領は日本たばこ産業のロシア国内資産をロ",
+      "headline": "消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決",
+      "slug": "消費税減税法案衆議院を通過自民維新などの賛成多数",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,27 +14,89 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71261"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71359"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71419"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71488"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601467?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6601525?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110501153&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026110600488&g=pol&m=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110501146&g=flash&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026110600299&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110600486&g=pol&m=rss"
         }
       ],
-      "issue": "ロシアは日本たばこ産業（JT）のロシア国内資産を一時的にロシア企業管理下に置くか？",
-      "stasis": "事実",
+      "issue": "消費税減税法案は妥当か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "ロシアのプーチン大統領は、JTグループ会社がロシア国内に保有する4つの工場をロシア企業の管理下に一時的に置く大統領令に署名した。",
-          "span": "JT＝日本たばこ産業のグループ会社がロシア国内に保有する4つの工場をロシア企業の管理下に一時的に置くことを決めました",
+          "t": "食料品の消費税率を来年4月から2年間1%に引き下げることを含む消費税減税関連法案が、衆議院本会議で自民党と日本維新の会などの賛成多数で可決され、参議院に送付された。",
+          "span": "食料品の消費税率を来年4月から2年間、1％に引き下げることなどを盛り込んだ消費税減税関連法案は、6日の衆議院本会議で採決が行われ、自民・維新両党などの賛成多数で可決されて参議院に送られました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣は、消費税減税に合わせて導入する所得に応じた支援金について、勤労者の3割以上を対象とする方向で検討する考えを示した。",
+          "span": "所得に応じた支援金について、勤労者の3割以上を対象とする方向で検討する考えを示しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "木原官房長官は、高市総理大臣の「台湾有事」に関する国会答弁から1年となることに関連し、台湾に関する日本の立場は1972年の日中共同声明から変更がないとの認識を改めて示した。",
+          "span": "台湾に関する日本の立場は1972年の日中共同声明から変更はないという認識を重ねて示しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [
+        {
+          "actor": "自由民主党",
+          "stance": "support",
+          "claim": "消費税減税関連法案に賛成していると報じられている。",
+          "span": "自民・維新両党などの賛成多数で",
+          "reason": null,
+          "attr": "賛成多数の一部",
+          "premises": [],
+          "counters": [],
           "src": [
             {
               "ty": "press",
@@ -43,60 +105,14 @@
           ]
         },
         {
-          "t": "ロシア大統領令は、日本たばこ産業（JT）のロシア国内資産をロシア企業の一時管理下に移すことを命じている。",
-          "span": "日本たばこ産業（ＪＴ）のロシア国内資産をロシア企業の一時管理下に移すことを命じた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ロシア大統領令により、日本たばこ産業（JT）のロシア国内資産がロシア企業の一時管理下に置かれる。",
-      "note": "時事ドットコムの記事では、この措置が対日圧力強化の一環である可能性が示唆されているが、他の記事では事実の記述に留まっている。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "高市首相は米中間選挙を受け、日米関係強化のためトランプ大統領と連携すると述べた。",
-      "slug": "高市首相は米中間選挙を受け日米関係強化のためトラ",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261103de69965"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110500197&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110501010&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110500663&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110501020&g=pol&m=rss"
-        }
-      ],
-      "issue": "アメリカ中間選挙の結果、民主党は連邦議会上下両院で多数派を奪還したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "アメリカ中間選挙で、野党・民主党が連邦議会上下両院で多数派の奪還を確実にし、共和党の地盤でも議席を獲得するなど、予想を上回る大きな勝利を収めた。",
-          "span": "アメリカの中間選挙は野党・民主党が連邦議会上下両院で多数派の奪還を確実にし、共和党の強固な地盤でも議席を獲得するなど予想を上回る大きな勝利となりました。",
+          "actor": "日本維新の会",
+          "stance": "support",
+          "claim": "消費税減税関連法案に賛成していると報じられている。",
+          "span": "自民・維新両党などの賛成多数で",
+          "reason": null,
+          "attr": "賛成多数の一部",
+          "premises": [],
+          "counters": [],
           "src": [
             {
               "ty": "press",
@@ -105,40 +121,52 @@
           ]
         },
         {
-          "t": "民主党は下院で240議席超を獲得した。",
-          "span": "野党民主、下院２４０議席超",
+          "actor": "立憲民主党",
+          "stance": "attack",
+          "claim": "消費税減税法案に反対していると報じられている。",
+          "span": "消費減税法案に反対",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "各地でデータセンター規制に関する住民投票が行われ、賛成が拡大した。",
-          "span": "データセンター規制に賛成拡大",
+          "actor": "公明党",
+          "stance": "attack",
+          "claim": "消費税減税法案に反対していると報じられている。",
+          "span": "消費減税法案に反対",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
-      "positions": [],
-      "consensus": "アメリカ中間選挙で民主党が上下両院で多数派を奪還した。高市首相はトランプ大統領との連携に言及したが、選挙結果自体へのコメントは避けた。",
-      "note": "トランプ大統領とバンス副大統領のイランへの軍事行動に関する記述は、記事の途中で切れているため、構造化の対象外とした。",
+      "consensus": "消費税減税関連法案は衆議院を通過したが、その妥当性については評価が割れている。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "consensus: consensusに「評価は割れる。」という評価語が含まれていたため削除しました。",
-          "note: noteに「トランプ大統領とバンス副大統領のイランへの軍事行動に関する記述は、記事の途中で切れているため、構造化の対象外とした。」というメタ記述が含まれていましたが、これは抽出エンジンの判断であり、検品対象外のため削除しました。"
+          "positions の claim が地の文の断定になっていたため、「〜と報じられている」のメタ記述に修正しました。",
+          "positions の span が最小核ではなかったため、元テキストの該当箇所に修正しました。",
+          "「賛成多数」という記述から、賛成側の立場に「賛成多数の一部」という属性を追加し、偽りのバランスを避けました。"
         ]
       }
     },
     {
-      "headline": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-      "slug": "VancewalksTrumptightrope",
+      "headline": "Trump signs order preventing future presidents from changing Oval Office",
+      "slug": "Trumpsignsorderpreventin",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -147,23 +175,47 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/paraguays-president-impeached-amid-bank-collapse-crisis?traffic_source=rss"
         }
       ],
-      "issue": "共和党の選挙敗北の原因はイラン戦争か？",
-      "stasis": "因果の解釈（割れる）",
+      "issue": "",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "副大統領（Vance）は、共和党の選挙敗北の原因をイラン戦争にあると非難した。",
-          "span": "blames the war for the midterm rout",
+          "t": "トランプ前大統領は、将来の大統領が大統領執務室を変更することを防ぐ命令に署名した。",
+          "span": "signs order preventing future presidents from changing Oval Office",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この命令は、トランプ氏が大統領執務室の装飾に一連の大きな変更を加え、ホワイトハウスEを取り壊した後に出された。",
+          "span": "made a series of big changes to the decor of the Oval Office and tore down the White House E",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "トランプ氏は、大統領執務室を国定記念物に指定する宣言を発した。",
+          "span": "issues proclamation declaring Oval Office national monument",
           "src": [
             {
               "ty": "press",
@@ -172,38 +224,8 @@
           ]
         },
         {
-          "t": "Vance副大統領は、現職大統領との関係において、これまでで最も鋭い対立の一つを示した。",
-          "span": "marked one of the sharpest breaks with a sitting pre",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "民主党は議会を制し、法案を可決する力を持つ。",
-          "span": "Democrats can vote legislation through",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ大統領には拒否権がある。",
-          "span": "Trump still has veto power",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "民主党は議会を利用してイラン戦争を抑制する準備をしている。",
-          "span": "as Democrats prepare to use Congress to rein it in",
+          "t": "この署名は、選挙での敗北後、トランプ氏が署名した改修プロジェクトに焦点を当てた今週3回目のイベントである。",
+          "span": "marks Trump&#039;s third event of the week focused on signature renovation projec",
           "src": [
             {
               "ty": "press",
@@ -213,68 +235,162 @@
         }
       ],
       "positions": [],
-      "consensus": "Vance副大統領は共和党の選挙敗北の原因をイラン戦争にあると非難し、現職大統領との関係において鋭い対立を示した。民主党は議会を制し法案可決の力を持つが、トランプ大統領には拒否権がある。民主党は議会を通じてイラン戦争を抑制する準備をしている。",
-      "note": "Vance副大統領の発言は、トランプ大統領との関係における緊張を示唆している。民主党の議会での権力行使には限界があることが示唆されている。",
+      "consensus": "トランプ前大統領が大統領執務室の現状維持に関する命令に署名したこと、および国定記念物と宣言したことは合意されているが、その評価は記事に記載されていない。",
+      "note": "",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "`issue`がテキストにない評価を含んでいたため削除しました。テキストには争点が提示されていません。"
+        ]
       }
     },
     {
-      "headline": "自転車青切符 半年間で1万6000件交付 “ながらスマホ”が4割",
-      "slug": "自転車青切符半年間で1万6000件交付ながらスマ",
+      "headline": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+      "slug": "ロシア国内のJT関連工場一時的にロシア企業管理下",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71298"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261105de71261"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601460?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110501153&g=int&m=rss"
         }
       ],
-      "issue": "自転車の交通違反に対する青切符による取り締まりの件数は多いか？",
-      "stasis": "事実",
+      "issue": "ロシアによるJT関連工場の管理下への移行は、対日圧力強化の一環と見なせるか？",
+      "stasis": "因果の解釈",
       "facts": [
         {
-          "t": "自転車の交通違反に対する青切符による取り締まりは、2023年4月の制度導入から半年間で約1万6000件交付された。",
-          "span": "およそ1万6000件にのぼり",
+          "t": "ロシアのプーチン大統領は5日、JT（日本たばこ産業）の海外子会社がロシア国内に保有する4つの生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名した。",
+          "span": "4つの生産拠点を、一時的にロシア企業の管理下に置く大統領令に署名しました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "青切符による取り締まりのうち、スマートフォンを見ながらの運転が全体の4割を占めた。",
-          "span": "スマートフォンを見ながらの運転が全体の4割を",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "自転車の青切符による取り締まりは、半年間で約1.6万件だった。",
-          "span": "半年で約1.6万件",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "自転車の交通違反に対する青切符による取り締まりは、制度導入から半年間で約1万6000件交付され、そのうち4割がスマートフォンを見ながらの運転であった。",
-      "note": "Yahoo!ニュースはNHKの報道を引用している可能性が高いが、独立した情報源として記載。",
+      "consensus": "ロシアがJT関連工場を一時的に管理下に置く大統領令に署名したことは事実である。その意図については、対日圧力強化の一環である可能性が報じられているが、評価は割れる／アプリは裁定しない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claim: メタ記述の徹底のため、「〜と報じられている」の構造に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "歩道で女子大生に平手打ちの疑い　男再逮捕、１５分で７人に暴行か―警視庁",
+      "slug": "歩道で女子大生に平手打ちの疑い男再逮捕分で人に暴",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71431"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110600493&g=soc&m=rss"
+        }
+      ],
+      "issue": "39歳の男の容疑者は路上で複数の女性に暴行したのか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "39歳の男の容疑者が逮捕された。",
+          "span": "39歳の男の容疑者が逮捕された",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "容疑は、路上で通りかかった20代の女性に突然平手打ちをしたこと。",
+          "span": "通りかかった20代の女性に突然、平手打ちをした",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "男は再逮捕された。",
+          "span": "男再逮捕",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "容疑は、歩道で女子大生に平手打ちをした疑い。",
+          "span": "歩道で女子大生に平手打ちの疑い",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "警視庁は、容疑者がこの前後にも路上で女性に暴行したとみている。",
+          "span": "警視庁は容疑者がこの前後にも路上で女性ば…",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "女性ばかり7人が被害に遭った可能性がある。",
+          "span": "女性ばかり7人被害か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "15分間で7人に暴行した可能性がある。",
+          "span": "１５分で７人に暴行か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "事件は先月の夜、東京千代田区の路上で発生した。",
+          "span": "先月の夜、東京 千代田区の路上で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "39歳の男の容疑者が路上で女性に平手打ちをした疑いで逮捕・再逮捕され、警視庁は複数の女性への暴行があったとみている点で事実合意がある。本件に関する評価や意見の対立は記事中に見られない。",
+      "note": null,
       "audit": {
         "changed": false,
         "issues": []
