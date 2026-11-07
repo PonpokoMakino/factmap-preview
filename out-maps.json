@@ -1,57 +1,144 @@
 {
-  "builtAt": "2026-11-06T19:55:59.008Z",
+  "builtAt": "2026-11-07T17:34:57.580Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "１０月の米雇用、１６万５０００人増　予想大幅超過、失業率４．１％",
-      "slug": "月の米雇用万人増予想大幅超過失業率",
-      "independentSources": 3,
+      "headline": "【鉄道】震度5強 JR・名古屋鉄道は線路点検し始発の運行判断",
+      "slug": "鉄道震度5強JR名古屋鉄道は線路点検し始発の運行",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "気象庁 地震・火山"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261106de71979"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72252"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72280"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72260"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72259"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72267"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72283"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72287"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601587?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6601719?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110601267&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026110800025&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110800027&g=soc&m=rss"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261107173338_0_VXSE53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261107170645_0_VXSE53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261107161354_0_VXSE62_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261107161257_0_VXSE53_010000.xml"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261107160836_0_VXSE53_010000.xml"
         }
       ],
-      "issue": "アメリカの10月の雇用統計は市場予想を上回ったか？",
+      "issue": "愛知県で発生した地震による被害状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "アメリカの10月の農業分野以外の就業者は16万5000人増加した。",
-          "span": "10月の農業分野以外の就業者は、16万5000人増加し",
+          "t": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震があった。",
+          "span": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            },
+            {
+              "ty": "op",
+              "l": "気象庁 地震・火山"
+            },
+            {
+              "ty": "op",
+              "l": "気象庁 地震・火山"
+            },
+            {
+              "ty": "op",
+              "l": "気象庁 地震・火山"
+            },
+            {
+              "ty": "op",
+              "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "アメリカの10月の農業分野以外の就業者の増加数は、市場の予想を大きく上回った。",
-          "span": "市場の予想を大きく上回りました",
+          "t": "この地震による津波の心配はない。",
+          "span": "この地震による津波の心配はありません",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アメリカの10月の雇用者数は16万5000人増加し、予想を上回った。",
-          "span": "米10月雇用16.5万人増 予想上回る",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
@@ -59,8 +146,8 @@
           ]
         },
         {
-          "t": "アメリカの10月の雇用者数は16万5000人増加し、予想を大幅に超過した。",
-          "span": "１０月の米雇用、１６万５０００人増　予想大幅超過",
+          "t": "愛知県知多市で震度5強の揺れを観測した。",
+          "span": "愛知県知多市で震度５強の揺れを観測した",
           "src": [
             {
               "ty": "press",
@@ -69,186 +156,18 @@
           ]
         },
         {
-          "t": "アメリカの10月の失業率は4.1%だった。",
-          "span": "失業率４．１％",
+          "t": "長周期地震動階級1が観測された地域がある。",
+          "span": "長周期地震動階級１を観測した地域があります",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "アメリカの10月の農業分野以外の就業者は16万5000人増加し、市場の予想を上回った。失業率は4.1%だった。",
-      "note": "本件は事実の記述に留まり、評価や意見の対立は見られないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "slug": "Tanzanianoppositionleade",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss"
-        }
-      ],
-      "issue": "ポール・マッケンジーは191人を殺害したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ポール・マッケンジーは191人の殺害で終身刑を宣告された。",
-          "span": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
+              "ty": "op",
+              "l": "気象庁 地震・火山"
             }
           ]
         },
         {
-          "t": "タンザニアの野党指導者は、反乱扇動罪で有罪となったが、反逆罪は無罪となった。",
-          "span": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "タンザニアの野党指導者トゥンドゥ・リッスは、政治的動機によるものと広く非難されている事件で投獄された。",
-          "span": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "タンザニアの野党指導者は、昨年4月から拘留されている。",
-          "span": "who has been detained since April last year",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ポール・マッケンジーは191人の殺害で終身刑を宣告された。タンザニアの野党指導者は反乱扇動罪で有罪となったが、反逆罪は無罪となった。タンザニアの野党指導者トゥンドゥ・リッスは、政治的動機によるものと広く非難されている事件で投獄された。タンザニアの野党指導者は、昨年4月から拘留されている。タンザニアの野党指導者は、訴訟は政治的動機によるものだと主張している。トゥンドゥ・リッスは、訴訟は政治的動機によるものだと広く非難されている。",
-      "note": "プライバシー配慮のため、タンザニアの野党指導者の氏名は、Al Jazeeraの記事で特定されている場合でも、BBC Worldの記事の文脈に合わせて「タンザニアの野党指導者」としています。ただし、Al Jazeeraの記事では「Tundu Lissu」と特定されています。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "‘Message to the West’ bomb threats target European newsrooms, travel",
-      "slug": "MessagetotheWestbombthre",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/message-to-the-west-bomb-threats-target-european-newsrooms-travel?traffic_source=rss"
-        }
-      ],
-      "issue": "欧州の航空会社や報道機関への爆弾脅迫は、ロシアの過激派グループによるものか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "今週、欧州全域で多数の航空便が爆弾脅迫を受けているが、これまでのところ爆発物は発見されていない。",
-          "span": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "航空会社への脅迫と報道機関への脅迫との間に関連性は確立されていない。",
-          "span": "No link has been established between the threats against the airlines and those against the media outlets.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "アイルランドとブルガリアの報道機関が、「ミハイル・アンドロポフ」と名乗る人物からの爆弾脅迫を受けた。",
-          "span": "Newsrooms in Ireland and Bulgaria received bomb threats from someone identifying themself as ‘Mikhail Andropov’.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "欧州の航空会社や報道機関が爆弾脅迫を受けているという事実については全員が合意している。しかし、その脅迫がロシアの過激派グループによるものかについては、当該グループが否定しているため、評価は割れる。",
-      "note": "プライバシー保護のため、個人名は特定可能な範囲で記載するが、一般私人や被害者の実名は避ける。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "JESSE コカイン使用の疑いで逮捕 ロックバンドRIZEのボーカル",
-      "slug": "JESSEコカイン使用の疑いで逮捕ロックバンドR",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261107de71989"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601588?source=rss"
-        }
-      ],
-      "issue": "ロックバンドRIZEのボーカルであるJESSE容疑者はコカイン使用の疑いで逮捕されたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "「JESSE」の名前でロックバンドのボーカルとして活動している46歳のミュージシャンが、コカインを使用した疑いで警視庁に逮捕されたことが捜査関係者への取材で分かった。",
-          "span": "「JESSE」の名前でロックバンドのボーカルとして活動している46歳の男のミュージシャンが、今月、コカインを使用したとして警視庁に逮捕されたことが捜査関係者への取材で分かりました",
+          "t": "地震の影響で、南知多道路、知多半島道路、知多横断道路、中部空港連絡道路、名古屋瀬戸道路のあわせて5つの道路で全線通行止めとなっている。",
+          "span": "地震の影響で▽南知多道路▽知多半島道路▽知多横断道路▽中部空港連絡道路、▽名古屋瀬戸道路のあわせて5つの道路でいずれも上下線の全線が通行止めとなっていま",
           "src": [
             {
               "ty": "press",
@@ -257,22 +176,271 @@
           ]
         },
         {
-          "t": "RIZEのボーカルであるJESSE容疑者が逮捕された。",
-          "span": "RIZEボーカル JESSE容疑者逮捕",
+          "t": "愛知県知多市を管轄する知多広域消防指令センターによると、地震発生後に避難する際、転倒したという通報などが相次いでいる。",
+          "span": "地震が発生したあとに避難する際、転倒したという通報などが相次いでいる",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "愛知県東浦町では、地震の影響で町内の一部の地域で断水が発生している。",
+          "span": "地震の影響で町内の一部の地域で断水が発生している",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東浦町では、マンホールから水があふれている情報もある。",
+          "span": "マンホールから水あふれている情報も",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "JR東海は、線路などに影響は確認されていないが、今後線路の点検を進め、8日朝の始発が平常どおり運行できるか判断する。",
+          "span": "今のところ、線路などに影響は確認されていませんが、今後、線路の点検を進め、8日朝の始発が平常どおり運行できるかどうか判断をする",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は8日午前3時5分から記者会見を開き、地震活動の状況や警戒点について説明する予定である。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ロックバンドRIZEのボーカルであるJESSE容疑者は、コカイン使用の疑いで逮捕されたという事実は、複数の報道機関によって報じられている。",
-      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positionsは空となります。",
+      "consensus": "8日午前1時4分ごろ、愛知県で震度5強の揺れを観測する地震がありましたが、津波の心配はありません。愛知県知多市で震度5強が観測されました。長周期地震動階級1も観測されました。地震の影響で複数の道路が通行止めとなり、知多市では転倒の通報が相次ぎ、東浦町では一部地域で断水やマンホールからの水漏れが発生しています。鉄道各社は線路点検を行い、始発運行の判断を進めています。気象庁は記者会見で地震活動の状況などを説明する予定です。",
+      "note": "プライバシーに配慮し、個別の被害者の情報は含めていません。",
+      "audit": {
+        "changed": false,
+        "issues": [
+          "fact spanが原文に無い→除去「８日午前３時５分から記者会見を開き、…」"
+        ]
+      }
+    },
+    {
+      "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "slug": "Russianstrikeswoundninea",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss"
+        }
+      ],
+      "issue": "ロシアによるウクライナへの攻撃は、アブダビでの会談前に発生したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ロシアによる攻撃で9人が負傷し、ウクライナの電力網が損傷した。",
+          "span": "Russian strikes wound nine and damage Ukraine's power network",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "攻撃は、ウクライナとロシアの代表団が来週アブダビで三者会談に参加する前に行われた。",
+          "span": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next wee",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシアによる攻撃で9人が負傷し、ウクライナの電力網が損傷した。攻撃は、ウクライナとロシアの代表団が来週アブダビで三者会談に参加する前に行われた。",
+      "note": null,
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "Guatemalan lawmaker and three police officers killed in armed attack",
+      "slug": "Guatemalanlawmakerandthr",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss"
+        }
+      ],
+      "issue": "テキサス州の市長は、移民・関税執行局（ICE）との協力を制限するよう警察に指示したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "テキサス州の市長が、移民・関税執行局（ICE）との協力を制限するよう警察に指示した。",
+          "span": "Texas mayor instructs police to limit co-operation with ICE",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この指示は、ヒューストンで数ヶ月にわたる市民からの抗議活動の後に行われた。",
+          "span": "There has been months of public outcry in Houston",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "移民・関税執行局（ICE）の職員が死亡事故を起こした。",
+          "span": "an Immigration and Customs Enforcement (ICE) officer fatally sho",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "グアテマラで、議員1名と警察官3名が武装攻撃により殺害された。",
+          "span": "Guatemalan lawmaker and three police officers killed in armed attack",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "事件は、麻薬密売活動で知られる地域で発生した。",
+          "span": "It happened in a region of the country known to have drug trafficking activity",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "テキサス州の市長が警察にICEとの協力を制限するよう指示したこと、およびグアテマラで議員と警察官が武装攻撃で殺害され、その地域が麻薬密売で知られていることは、両記事で報じられている事実です。ただし、ICE職員による死亡事故の詳細は不明です。評価や意見の対立は、提示されたテキストからは読み取れません。",
+      "note": "プライバシー保護のため、事件の詳細や関係者の特定につながる情報は含んでいません。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
+      "slug": "TrumpsnewchiefofstaffSte",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss"
+        }
+      ],
+      "issue": "スティーブン・ミラー氏の首席補佐官への昇格は、トランプ大統領にとってどのような意味を持つか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "スティーブン・ミラー氏がトランプ大統領の新しい首席補佐官に昇格した。",
+          "span": "promotion of Miller",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "スティーブン・ミラー氏はトランプ大統領の側近であり、熱烈な党派である。",
+          "span": "a loyal partisan firebrand",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "スティーブン・ミラー氏は、「アメリカを救った」と述べた。",
+          "span": "says he ‘saved America’",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "スティーブン・ミラー氏は、ドナルド・トランプ米大統領を称賛した。",
+          "span": "praises him",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "スティーブン・ミラー氏がトランプ大統領の新しい首席補佐官に昇格したという事実については合意があるが、その昇格がもたらす影響については評価が分かれる。",
+      "note": "プライバシー配慮のため、個人の詳細な属性情報は省略した。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions の claim を「〜と述べている／と報じられている」の構造に修正しました。",
+          "facts の t を元のテキストに忠実な表現に修正しました。"
+        ]
       }
     }
   ]
