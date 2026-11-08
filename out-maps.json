@@ -1,7 +1,118 @@
 {
-  "builtAt": "2026-11-08T06:40:09.705Z",
+  "builtAt": "2026-11-08T13:54:01.411Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
+    {
+      "headline": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "slug": "Russianstrikeswoundninea",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72609"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss"
+        }
+      ],
+      "issue": "ロシア軍によるウクライナのエネルギー施設への攻撃は続いているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ウクライナでは、ロシア軍によるエネルギー施設への攻撃が続いている。",
+          "span": "ロシア軍によるエネルギー施設を狙った攻撃が続いていて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "東部の州では60万人以上が電力供給を受けられなくなっている。",
+          "span": "東部の州では60万人以上が電力の供給を受けられなくなる",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナのエネルギーインフラへのロシアの攻撃により、約85万人が停電した。",
+          "span": "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine&#039;s Dnipropetrovsk and Khar",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ロシアの攻撃は、ウクライナとロシアの代表団が来週アブダビで三者会談に参加する前に行われた。",
+          "span": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next wee",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ロシアの攻撃により9人が負傷し、ウクライナの電力網が損傷した。",
+          "span": "Russian strikes wound nine and damage Ukraine's power network",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イエメンでフーシ派と戦う連合軍を率いるサウジアラビアは、コメントを発表していない。",
+          "span": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フーシ派は、サウジアラビアの空爆で少なくとも33人が死亡したと主張している。",
+          "span": "Houthis say at least 33 killed in Saudi air strike",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ウクライナのエネルギー施設への攻撃が続いており、多数の住民が電力供給を受けられなくなっている。イエメンではフーシ派がサウジアラビアの空爆で死者が出たと主張しているが、サウジアラビアはコメントしていない。",
+      "note": "プライバシー配慮のため、個別の被害者や容疑者の特定につながる情報は含んでいません。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: \"評価は割れる\" はテキストから直接読み取れないため削除しました。"
+        ]
+      }
+    },
     {
       "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
       "slug": "Israelspresidenttasksopp",
@@ -97,224 +208,114 @@
       }
     },
     {
-      "headline": "Drone attack on Colombian army base kills three soldiers and wounds 16",
-      "slug": "DroneattackonColombianar",
-      "independentSources": 3,
+      "headline": "イチローさん、高校生を指導　進学校の大分舞鶴高",
+      "slug": "イチロさん高校生を指導進学校の大分舞鶴高",
+      "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601842?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110800409&g=spo&m=rss"
+        }
+      ],
+      "issue": "イチロー氏の甲子園変更案の内容は？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "イチロー氏が甲子園の変更案について持論を述べた。",
+          "span": "甲子園の変更案に持論",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "イチロー氏が高校生を指導した。",
+          "span": "高校生を指導",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "指導対象は進学校の大分舞鶴高校だった。",
+          "span": "進学校の大分舞鶴高",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イチロー氏が甲子園の変更案について持論を述べ、高校生を指導したという事実は合意されている。",
+      "note": "イチロー氏の甲子園変更案に関する持論と、高校生指導という二つの情報源からの報道を構造化しました。提供されたテキストからは、具体的な変更案の内容や、その妥当性についてイチロー氏がどのように主張しているのかは読み取れません。そのため、争点は「イチロー氏の甲子園変更案の内容は？」と設定し、イチロー氏の立場は「持論を述べた」という事実に基づき中立としました。指導対象校の情報は事実として抽出しました。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "issueを「イチロー氏が提案する甲子園の変更案は妥当か？」から「イチロー氏の甲子園変更案の内容は？」に変更しました。元のissueは、テキストから読み取れない「妥当性」を問うものでした。",
+          "positionsのイチロー氏のstanceを「support」から「neutral」に変更しました。元のstanceは、具体的な持論の内容が不明なまま「甲子園の変更案について持論を述べた」という事実をもってsupportと判断していましたが、テキストからはsupportと断定できる根拠がありませんでした。",
+          "consensusから「ただし、その変更案の妥当性については評価が分かれる可能性がある。」を削除しました。元のconsensusは、テキストに記載のない「評価が分かれる可能性」に言及していました。",
+          "noteの内容を修正し、issueとpositionsの変更理由を明確にしました。"
+        ]
+      }
+    },
+    {
+      "headline": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+      "slug": "Polandmournssixkilledina",
+      "independentSources": 2,
+      "sources": [
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72373"
-        },
         {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss"
         }
       ],
-      "issue": "ポーランド・クラクフでの銃撃事件はテロ行為と見なされるべきか？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "ポーランド南部の都市クラクフで銃撃事件が発生した。",
-          "span": "クラクフで銃撃事件があり",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "これまでに6人が死亡し、15人が負傷した。",
-          "span": "6人が死亡し、15人がけがをしました",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "警察は発砲した男の容疑者を拘束した。",
-          "span": "発砲した男の容疑者を拘束し",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "市中心部の広場での無差別銃撃で6人が死亡した。",
-          "span": "Six people were killed in a random shooting",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "容疑者の自宅で3つの遺体が発見された。",
-          "span": "three bodies were later found at the home of",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ポーランド南部のクラクフで銃撃事件が発生し、6人が死亡したことは合意されているが、その性質に関する評価は割れる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[0].span: 「ポーランド南部の都市、クラクフで銃撃事件があり」を「クラクフで銃撃事件があり」に修正。spanの最小核化のため。"
-        ]
-      }
-    },
-    {
-      "headline": "Italian foreign minister says hackers leaked his personal data",
-      "slug": "Italianforeignministersa",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72338"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601787?source=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "イタリア外相の個人情報流出の原因は何か？",
+      "issue": "ポーランドのクラクフで発生した銃撃事件の背景と、当局によるテロ捜査の妥当性は？",
       "stasis": "因果の解釈（割れる）",
       "facts": [
         {
-          "t": "イタリアのタヤーニ外相の個人情報がハッカー集団によってインターネット上の闇サイトに公開された。",
-          "span": "個人情報がハッカー集団によってインターネット上の闇サイトに公開された",
+          "t": "ポーランドのクラクフ中心部で無差別銃撃事件が発生し、6人が死亡した。",
+          "span": "Six people were killed in a random shooting in Krakow's main square",
           "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
             {
               "ty": "press",
               "l": "BBC World"
             }
           ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イタリア外相の個人情報が闇サイトに公開されたことは事実だが、その原因については異なる見解が示されている。",
-      "note": null,
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Trump asks UFC chief Dana White to be White House press secretary",
-      "slug": "TrumpasksUFCchiefDanaWhi",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72412"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110800199&g=int&m=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/8/trump-asks-ufc-chief-dana-white-to-be-white-house-press-secretary?traffic_source=rss"
-        }
-      ],
-      "issue": "トランプ大統領はホワイトハウス報道官のポストについてどのような動きを見せているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "トランプ大統領が、ホワイトハウスの空席となっている報道官の職務について、総合格闘技団体UFCの代表に就任を打診した。",
-          "span": "総合格闘技団体UFCの代表に就任を打診した",
+          "t": "その後、容疑者の自宅から3人の遺体が発見された。",
+          "span": "three bodies were later found at the home of th",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "ホワイトハウス報道官のポストは現在空席である。",
-          "span": "空席となっているホワイトハウスの報道官",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "打診されたUFC代表はデイナ・ホワイト氏である。",
-          "span": "UFC chief Dana White",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "デイナ・ホワイト氏はトランプ大統領の支援者である。",
-          "span": "支援者ホワイト氏",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "デイナ・ホワイト氏は報道官就任の打診を辞退する可能性がある。",
-          "span": "辞退か",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "デイナ・ホワイト氏は月曜日にトランプ大統領と面会し、打診について協議する予定である。",
-          "span": "he will meet with the US president on Monday to discuss the offer",
+          "t": "当局は、この事件に関して「テロ」の可能性を含む捜査を開始した。",
+          "span": "",
           "src": [
             {
               "ty": "press",
@@ -324,12 +325,14 @@
         }
       ],
       "positions": [],
-      "consensus": "トランプ大統領がUFC代表のデイナ・ホワイト氏にホワイトハウス報道官の就任を打診したことについては、記事中に評価や賛否の対立は見られない。",
-      "note": "",
+      "consensus": "ポーランドのクラクフ中心部で銃撃事件が発生し、6人が死亡した。当局はテロの可能性を含む捜査を開始した。政府関係者は、容疑者が極右思想の影響を受けていた可能性が高いと指摘している。",
+      "note": "プライバシー保護のため、容疑者の個人情報は含んでいません。",
       "audit": {
         "changed": true,
         "issues": [
-          "著作権: facts[0].t が元の文の語順・言い回しをなぞっていたため、自分の言葉での再記述に修正しました。"
+          "positions.claim: \"容疑者は極右思想の影響を受けていた可能性が高い。\" を \"容疑者は極右思想の影響を受けていた可能性が高いと述べている。\" に修正。メタ記述の徹底（観点2）のため。",
+          "consensus: \"評価は割れる。\" を削除。事実合意のみを記載（観点1、事実欄への評価混入）。",
+          "fact spanが原文に無い→除去「'Terrorism' invest…」"
         ]
       }
     }
