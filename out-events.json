@@ -1,80 +1,95 @@
 {
-  "rankedAt": "2026-11-08T18:39:53.102Z",
+  "rankedAt": "2026-11-08T22:29:40.822Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "福井の山林に女性遺体　交際相手か、「殺害し遺棄」―監禁容疑で４９歳男逮捕・石川県警",
-      "slug": "福井の山林に女性遺体交際相手か殺害し遺棄監禁容疑",
-      "time": "2026-11-08T14:39:31.000Z",
-      "independentSources": 3,
+      "headline": "【地震速報】岩手県 宮城県で震度3 津波の心配なし",
+      "slug": "地震速報岩手県宮城県で震度3津波の心配なし",
+      "time": "2026-11-08T20:35:26.000Z",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "気象庁 地震・火山"
+      ],
+      "count": 4,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "【地震速報】岩手県 宮城県で震度3 津波の心配なし",
+          "snippet": "9日午前5時16分ごろ、岩手県と宮城県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72427",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　９日０５時１６分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108201951_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震度速報",
+          "snippet": "【震度速報】　９日０５時１６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108201809_0_VXSE51_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "震源・震度に関する情報",
+          "snippet": "【震源・震度情報】　９日０３時１５分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108181851_0_VXSE53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+      "slug": "Iranwaitingtoresumetalks",
+      "time": "2026-11-08T20:51:22.000Z",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
       ],
       "count": 3,
       "hasPrimary": false,
       "members": [
         {
-          "title": "山林で女性遺体 女性が相談も警察は意向受け警告行わず",
-          "snippet": "石川県の20代の女性を監禁したとして逮捕された交際相手とみられる容疑者の話に基づき山林から遺体が見つかった事件で、警察がことし7月に女性から「関係を絶ちたい」と相談を受けた際、交際相手に対して警告など…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72420",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "福井の山中に女性遺体 死因は窒息",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601853?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "福井の山林に女性遺体　交際相手か、「殺害し遺棄」―監禁容疑で４９歳男逮捕・石川県警",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110800228&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Seven dead and more than 100 injured after trains collide in Egypt",
-      "slug": "Sevendeadandmorethan100i",
-      "time": "2026-11-08T18:04:34.000Z",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "BBC World"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "エジプトで列車衝突事故 7人死亡 112人けが",
-          "snippet": "エジプトで8日、列車どうしが衝突して一部の車両が脱線し、これまでに7人が死亡、110人以上がけがをしました。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72671",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-          "snippet": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+          "title": "Italian foreign minister says hackers leaked his personal data",
+          "snippet": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
+          "snippet": "Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "After the midterms, where does the Republican Party stand?",
+          "snippet": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-      "slug": "InfantinosJapanesechalle",
-      "time": "2026-11-08T18:01:05.000Z",
+      "headline": "Deadly sand cliff collapses on displaced families in Gaza",
+      "slug": "Deadlysandcliffcollapses",
+      "time": "2026-11-08T21:05:07.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -92,19 +107,19 @@
           "linkKind": "article"
         },
         {
-          "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-          "snippet": "Kozo Tashima believes he has a &#039;20 to 30 percent&#039; chance of winning the FIFA presidency election against Infan",
+          "title": "Deadly sand cliff collapses on displaced families in Gaza",
+          "snippet": "Deadly sand cliff collapses on displaced families in Gaza",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-      "slug": "HundredsofthousandsjoinA",
-      "time": "2026-11-08T17:44:51.000Z",
+      "headline": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "slug": "FlattiredcynicalUnusuall",
+      "time": "2026-11-08T20:29:47.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -114,27 +129,27 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Iran executes three men for 'armed unrest' after January protests",
-          "snippet": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+          "snippet": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-          "snippet": "Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.",
+          "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+          "snippet": "Pope Leo XIV delivers homily to thousands in Uruguay",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Photos: Diwali celebrations light up India and its global diaspora",
-      "slug": "PhotosDiwalicelebrations",
-      "time": "2026-11-08T17:03:14.000Z",
+      "headline": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
+      "slug": "Rangolimakersadapttorisi",
+      "time": "2026-11-08T20:26:01.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -152,39 +167,10 @@
           "linkKind": "article"
         },
         {
-          "title": "Photos: Diwali celebrations light up India and its global diaspora",
-          "snippet": "Celebrations feature fireworks, prayers, reunions, rangoli designs, feasting, and the sharing of sweets and gifts.",
+          "title": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
+          "snippet": "Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-diwali-celebrations-light-up-india-and-its-global-diaspora?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "「VIVANT」映画化発表 12/4公開",
-      "slug": "VIVANT映画化発表124公開",
-      "time": "2026-11-08T13:16:26.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Yahoo!ニュース 主要"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "「VIVANT」映画化発表 12/4公開",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601844?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "「VIVANT」最終回 SNSの反応",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601836?source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -193,7 +179,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-11-08T17:00:00.000Z",
+      "time": "2026-11-08T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -203,62 +189,12 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、９日０９時から１２時までは火口から北東方向、９日２１時から２４時までは火口から北東方向に",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108170038_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108200045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108140038_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-11-08T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108170042_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108140042_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-11-08T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
         {
           "title": "降灰予報（定時）",
           "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、９日０９時から１２時までは火口から北東方向に降灰が予想されます。",
@@ -266,50 +202,13 @@
           "link": "https://www.data.jma.go.jp/developer/xml/data/20261108170045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、９日０９時から１２時までは火口から東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108140045_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "降灰予報（定時）",
-      "slug": "降灰予報定時",
-      "time": "2026-11-08T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 地震・火山"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、９日０９時から１２時までは火口から東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108170030_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、９日０９時から１２時までは火口から東方向に降灰が予想されます。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108140030_0_VFVO53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
         }
       ]
     },
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-11-08T18:29:11.000Z",
+      "time": "2026-11-08T22:26:38.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -319,46 +218,17 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【宗谷地方気象警報・注意報】宗谷地方では、強風に注意してください。",
+          "snippet": "【長崎県気象警報・注意報】北部、壱岐・対馬、五島では、強風に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108182912_0_VPWW53_011000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108222639_0_VPWW53_420000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【宗谷地方気象警報・注意報】宗谷地方では、強風に注意してください。",
+          "snippet": "【長崎県気象警報・注意報】北部、壱岐・対馬、五島では、強風に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108182912_0_VPWW54_011000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        }
-      ]
-    },
-    {
-      "headline": "気象特別警報・警報・注意報",
-      "slug": "気象特別警報警報注意報",
-      "time": "2026-11-08T17:38:53.000Z",
-      "independentSources": 1,
-      "sources": [
-        "気象庁 気象警報・注意報"
-      ],
-      "count": 2,
-      "hasPrimary": true,
-      "members": [
-        {
-          "title": "気象特別警報・警報・注意報",
-          "snippet": "【東京都気象警報・注意報】伊豆諸島南部では、土砂災害に注意してください。伊豆諸島北部、伊豆諸島南部では、強風に注意してください。伊豆諸島北部、伊豆諸島南部、小笠原諸島では、高波や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108173854_0_VPWW53_130000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【東京都気象警報・注意報】伊豆諸島南部では、土砂災害に注意してください。伊豆諸島北部、伊豆諸島南部では、強風に注意してください。伊豆諸島北部、伊豆諸島南部、小笠原諸島では、高波や落雷に注意してください。",
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108173854_0_VPWW54_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108222639_0_VPWW54_420000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -367,7 +237,7 @@
     {
       "headline": "気象警報・注意報（Ｈ２７）",
       "slug": "気象警報注意報",
-      "time": "2026-11-08T16:29:43.000Z",
+      "time": "2026-11-08T21:19:38.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -377,17 +247,46 @@
       "members": [
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長崎県気象警報・注意報】北部、壱岐・対馬、五島では、強風に注意してください。",
+          "snippet": "【福島県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108162944_0_VPWW54_420000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108211939_0_VPWW54_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【長崎県気象警報・注意報】北部、壱岐・対馬、五島では、強風に注意してください。",
+          "snippet": "【福島県気象警報・注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108162944_0_VPWW53_420000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108211939_0_VPWW53_070000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-11-08T21:19:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 気象警報・注意報"
+      ],
+      "count": 2,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮城県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108211937_0_VPWW54_040000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        },
+        {
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮城県気象警報・注意報】注意報を解除します。",
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108211938_0_VPWW53_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -423,38 +322,9 @@
       ]
     },
     {
-      "headline": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-      "slug": "JerusalemDailyEisenkotpi",
-      "time": "2026-11-08T18:12:27.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 2,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Eisenkot open to Netanyahu joining Israel’s next government",
-          "snippet": "Israel&#039;s president officially tasks the opposition leader with forming a new government.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Jerusalem Daily: Eisenkot picked over Netanyahu to form government",
-          "snippet": "Israel&#039;s president picks Gadi Eisenkot to form the next government, passing over Benjamin Netanyahu.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/dnrbltn-261108-hegazyn-jerusalem_daily-081126?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "佐賀 鳥栖 ブリヂストン工場で火事 3時間半後に消し止められる",
-      "slug": "佐賀鳥栖ブリヂストン工場で火事3時間半後に消し止",
-      "time": "2026-11-08T15:14:23.000Z",
+      "headline": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
+      "slug": "山林遺体は石川県の20代女性と確認監禁後まもなく",
+      "time": "2026-11-08T20:00:24.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -463,19 +333,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "佐賀 鳥栖 ブリヂストン工場で火事 3時間半後に消し止められる",
-          "snippet": "8日夜、佐賀県鳥栖市にある大手タイヤメーカー「ブリヂストン」の工場で火事がありました。火はおよそ3時間半後にほぼ消し止められ、これまでのところけが人の情報は入っていないということです。",
+          "title": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
+          "snippet": "石川県の20代の女性を監禁した疑いで逮捕された交際相手とみられる容疑者の話に基づき、山林から遺体が見つかった事件で、死亡したのは監禁されたとされる女性と確認されました。死因は首を圧迫されたことなどによ…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72603",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72639",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "拉致被害者家族らが大規模集会 政府の具体的な取り組み求める",
-      "slug": "拉致被害者家族らが大規模集会政府の具体的な取り組",
-      "time": "2026-11-08T09:42:00.000Z",
+      "headline": "エジプトで列車衝突事故 7人死亡 112人けが",
+      "slug": "エジプトで列車衝突事故7人死亡112人けが",
+      "time": "2026-11-08T20:13:35.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -484,19 +354,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "拉致被害者家族らが大規模集会 政府の具体的な取り組み求める",
-          "snippet": "北朝鮮による拉致被害者の家族と支援者が都内で大規模な集会を開き、高市総理大臣が参加する中、一刻も早いすべての被害者の帰国に向けた政府の具体的な取り組みを求めました。",
+          "title": "エジプトで列車衝突事故 7人死亡 112人けが",
+          "snippet": "エジプトで8日、列車どうしが衝突して一部の車両が脱線し、これまでに7人が死亡、110人以上がけがをしました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72485",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72671",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦点",
-      "slug": "COP31あす開幕へ対策実行に向け足並みそろえら",
-      "time": "2026-11-08T10:37:06.000Z",
+      "headline": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+      "slug": "COP31きょう開幕へ各国が足並みそろえられるか",
+      "time": "2026-11-08T20:09:37.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -505,19 +375,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦点",
-          "snippet": "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。世界各地で気候変動の影響とみられる災害が相次ぐ中、温室効果ガスの排出削減など、具体的な対策の実行に向けて、各国が足…",
+          "title": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+          "snippet": "気候変動対策を話し合う国連の会議「COP31」が、日本時間の9日、トルコで開幕します。世界各地で気候変動の影響とみられる災害が相次ぐなか、温室効果ガスの排出削減など具体的な対策の実行に向けて、各国が足…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72408",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72633",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "トランプ大統領 総合格闘技団体代表に報道官打診",
-      "slug": "トランプ大統領総合格闘技団体代表に報道官打診",
-      "time": "2026-11-08T02:03:00.000Z",
+      "headline": "JR中央線快速電車 運転再開",
+      "slug": "JR中央線快速電車運転再開",
+      "time": "2026-11-08T21:55:25.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -526,19 +396,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "トランプ大統領 総合格闘技団体代表に報道官打診",
-          "snippet": "アメリカのトランプ大統領は、空席となっているホワイトハウスの報道官について総合格闘技団体UFCの代表に就任を打診したと明らかにしました。",
+          "title": "JR中央線快速電車 運転再開",
+          "snippet": "JR東日本によりますと、JR中央線の快速電車は、国分寺駅で起きた人身事故の影響で午前5時21分すぎから東京駅と高尾駅の間の上下線で運転を見合わせていましたが、午前6時46分ごろに再開しました。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72412",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72687",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず",
-      "slug": "ウクライナのエネルギ施設へ攻撃続く60万人電力受",
-      "time": "2026-11-08T13:28:07.000Z",
+      "headline": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
+      "slug": "消費税減税法案あさって参議院で審議入り与野党論戦",
+      "time": "2026-11-08T20:04:28.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -547,19 +417,40 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず",
-          "snippet": "ウクライナでは、ロシア軍によるエネルギー施設を狙った攻撃が続いていて、東部の州では60万人以上が電力の供給を受けられなくなるなど、影響が広がっています。",
+          "title": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
+          "snippet": "食料品の消費税減税関連法案は、11日に参議院で審議入りします。参議院で与党が少数となる中、政府・与党が野党の賛同も得て成立させたいとしているのに対し、野党はそれぞれの主張を受け入れるよう迫る構えで、活…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72609",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261108de72622",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "欧州右派政党 トランプ氏離れ鮮明",
-      "slug": "欧州右派政党トランプ氏離れ鮮明",
-      "time": "2026-11-08T13:13:17.000Z",
+      "headline": "イスラエル大統領 野党アイゼンコット氏に組閣要請",
+      "slug": "イスラエル大統領野党アイゼンコット氏に組閣要請",
+      "time": "2026-11-08T20:48:50.000Z",
+      "independentSources": 1,
+      "sources": [
+        "NHK 主要ニュース"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "イスラエル大統領 野党アイゼンコット氏に組閣要請",
+          "snippet": "イスラエルでは、先の総選挙で第2党となった野党の党首で、ネタニヤフ首相を上回る議員の推薦を集めたアイゼンコット氏が大統領から組閣を要請され、次の連立政権の樹立に取り組むことになりました。一方、ネタニヤ…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72659",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "9日 関東-北海道で師走並みの寒さ",
+      "slug": "9日関東北海道で師走並みの寒さ",
+      "time": "2026-11-08T21:44:30.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -568,10 +459,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "欧州右派政党 トランプ氏離れ鮮明",
+          "title": "9日 関東-北海道で師走並みの寒さ",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601843?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6601858?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -599,9 +490,9 @@
       ]
     },
     {
-      "headline": "死産の子に産着無償提供 広がる輪",
-      "slug": "死産の子に産着無償提供広がる輪",
-      "time": "2026-11-08T13:16:47.000Z",
+      "headline": "福井の山中に女性遺体 死因は窒息",
+      "slug": "福井の山中に女性遺体死因は窒息",
+      "time": "2026-11-08T14:39:31.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -610,10 +501,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "死産の子に産着無償提供 広がる輪",
+          "title": "福井の山中に女性遺体 死因は窒息",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601845?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6601853?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "迷惑行為ショウリンジ SNS模倣か",
+      "slug": "迷惑行為ショウリンジSNS模倣か",
+      "time": "2026-11-08T21:32:55.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "迷惑行為ショウリンジ SNS模倣か",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601857?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -641,9 +553,9 @@
       ]
     },
     {
-      "headline": "J2磐田監督 一部サポに「怒り」",
-      "slug": "J2磐田監督一部サポに怒り",
-      "time": "2026-11-08T14:57:13.000Z",
+      "headline": "SB牧原大成 海外FA権使わず残留",
+      "slug": "SB牧原大成海外FA権使わず残留",
+      "time": "2026-11-08T22:18:29.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -652,10 +564,73 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "J2磐田監督 一部サポに「怒り」",
+          "title": "SB牧原大成 海外FA権使わず残留",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601854?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6601859?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "阪神・西純矢「二刀流」挑戦へ",
+      "slug": "阪神西純矢二刀流挑戦へ",
+      "time": "2026-11-08T21:18:45.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "阪神・西純矢「二刀流」挑戦へ",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601856?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Aぇ!group NHK紅白に初出場へ",
+      "slug": "AぇgroupNHK紅白に初出場へ",
+      "time": "2026-11-08T21:09:30.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Aぇ!group NHK紅白に初出場へ",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6601855?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "愛知で震度５強　３０年ぶり、２２人重軽傷―気象庁「南海トラフと違う」",
+      "slug": "愛知で震度強年ぶり人重軽傷気象庁南海トラフと違う",
+      "time": "2026-11-08T10:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "愛知で震度５強　３０年ぶり、２２人重軽傷―気象庁「南海トラフと違う」",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110800027&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -683,9 +658,9 @@
       ]
     },
     {
-      "headline": "豊昇龍、白星を良薬に　休場明け、底力示せるか―大相撲九州場所",
-      "slug": "豊昇龍白星を良薬に休場明け底力示せるか大相撲九州",
-      "time": "2026-11-08T11:34:00.000Z",
+      "headline": "首相動静（１１月８日）",
+      "slug": "首相動静月日",
+      "time": "2026-11-08T13:05:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -694,10 +669,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "豊昇龍、白星を良薬に　休場明け、底力示せるか―大相撲九州場所",
+          "title": "首相動静（１１月８日）",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110800400&g=spo&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026110800208&g=pol&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -725,9 +700,9 @@
       ]
     },
     {
-      "headline": "イスラエル大統領、野党党首に組閣指示へ　反ネタニヤフ陣営結集へ連立交渉",
-      "slug": "イスラエル大統領野党党首に組閣指示へ反ネタニヤフ",
-      "time": "2026-11-07T23:49:00.000Z",
+      "headline": "交渉進展なら再攻撃「可能性低い」　対イラン、外交優先姿勢―トランプ氏",
+      "slug": "交渉進展なら再攻撃可能性低い対イラン外交優先姿勢",
+      "time": "2026-11-08T21:28:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -736,10 +711,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "イスラエル大統領、野党党首に組閣指示へ　反ネタニヤフ陣営結集へ連立交渉",
+          "title": "交渉進展なら再攻撃「可能性低い」　対イラン、外交優先姿勢―トランプ氏",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110800117&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026110900129&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -767,27 +742,6 @@
       ]
     },
     {
-      "headline": "ＪＲ内房線が全線再開　大雨で被災、１カ月半ぶり―千葉",
-      "slug": "内房線が全線再開大雨で被災カ月半ぶり千葉",
-      "time": "2026-11-08T05:17:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "時事ドットコム"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "ＪＲ内房線が全線再開　大雨で被災、１カ月半ぶり―千葉",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110800248&g=soc&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
       "headline": "米半導体大手トップと「恋愛関係」　女性スパイ、中国当局が雇用―英紙",
       "slug": "米半導体大手トップと恋愛関係女性スパイ中国当局が",
       "time": "2026-11-08T02:32:00.000Z",
@@ -809,9 +763,9 @@
       ]
     },
     {
-      "headline": "新人３人が届け出　松山市長選",
-      "slug": "新人人が届け出松山市長選",
-      "time": "2026-11-08T08:26:00.000Z",
+      "headline": "イスラエル大統領、野党党首に組閣指示へ　反ネタニヤフ陣営結集へ連立交渉",
+      "slug": "イスラエル大統領野党党首に組閣指示へ反ネタニヤフ",
+      "time": "2026-11-07T23:49:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -820,19 +774,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "新人３人が届け出　松山市長選",
+          "title": "イスラエル大統領、野党党首に組閣指示へ　反ネタニヤフ陣営結集へ連立交渉",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110800301&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026110800117&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "北朝鮮、「ポストロシア」を模索　米朝対話仲介に中国積極的―金大中氏三男弘傑氏",
-      "slug": "北朝鮮ポストロシアを模索米朝対話仲介に中国積極的",
-      "time": "2026-11-07T22:48:00.000Z",
+      "headline": "ドラマ「ＶＩＶＡＮＴ」人気で、早くもロケ地「巡礼」　アゼルバイジャン",
+      "slug": "ドラマ人気で早くもロケ地巡礼アゼルバイジャン",
+      "time": "2026-11-08T06:49:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -841,19 +795,40 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "北朝鮮、「ポストロシア」を模索　米朝対話仲介に中国積極的―金大中氏三男弘傑氏",
+          "title": "ドラマ「ＶＩＶＡＮＴ」人気で、早くもロケ地「巡礼」　アゼルバイジャン",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110700333&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026110700329&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "震源・震度に関する情報",
-      "slug": "震源震度に関する情報",
-      "time": "2026-11-08T18:18:51.000Z",
+      "headline": "イチローさん、高校生を指導　進学校の大分舞鶴高",
+      "slug": "イチロさん高校生を指導進学校の大分舞鶴高",
+      "time": "2026-11-08T12:04:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "イチローさん、高校生を指導　進学校の大分舞鶴高",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110800409&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "震源に関する情報",
+      "slug": "震源に関する情報",
+      "time": "2026-11-08T20:18:43.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -862,10 +837,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】　９日０３時１５分ころ、地震がありました。",
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう　９日０５時１６分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108181851_0_VXSE53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108201843_0_VXSE52_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -874,7 +849,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-11-08T17:00:00.000Z",
+      "time": "2026-11-08T20:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -884,18 +859,81 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、９日０９時から１２時までは火口から北東方向に降灰が予想されます。",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から北方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108170034_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108200038_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
-      "slug": "気象警報注意報暴風",
-      "time": "2026-11-08T18:29:11.000Z",
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-11-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、９日０９時から１２時までは火口から北西方向、９日２１時から２４時までは火口から東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108200042_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-11-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、９日０９時から１２時までは火口から東方向、９日２１時から２４時までは火口から北東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108200030_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "降灰予報（定時）",
+      "slug": "降灰予報定時",
+      "time": "2026-11-08T20:00:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "降灰予報（定時）",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、９日０９時から１２時までは火口から北東方向、９日２１時から２４時までは火口から北東方向に降灰が予想されます。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108200035_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "台風解析・予報情報（５日予報）（Ｈ３０）",
+      "slug": "台風解析予報情報日予報",
+      "time": "2026-11-08T21:40:32.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -904,19 +942,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（暴風）",
-          "snippet": "【宗谷地方暴風（雪）警報・注意報】宗谷地方では、強風に注意してください。",
+          "title": "台風解析・予報情報（５日予報）（Ｈ３０）",
+          "snippet": "【台風解析・予報情報】",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108182911_0_VPWW58_011000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108214033_0_VPTW60_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
-      "slug": "気象警報注意報暴風",
-      "time": "2026-11-08T17:38:42.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-11-08T21:19:32.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -925,19 +963,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（暴風）",
-          "snippet": "【東京都暴風（雪）警報・注意報】伊豆諸島北部、伊豆諸島南部では、強風に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【福島県霜注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108173842_0_VPWW58_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108211932_0_VPWW61_070000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（波浪）",
-      "slug": "気象警報注意報波浪",
-      "time": "2026-11-08T17:38:42.000Z",
+      "headline": "気象警報・注意報（Ｒ０６）（その他注意報）",
+      "slug": "気象警報注意報その他注意報",
+      "time": "2026-11-08T21:19:30.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -946,19 +984,19 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（波浪）",
-          "snippet": "【東京都波浪警報・注意報】伊豆諸島北部、伊豆諸島南部、小笠原諸島では、高波に注意してください。",
+          "title": "気象警報・注意報（Ｒ０６）（その他注意報）",
+          "snippet": "【宮城県霜注意報】注意報を解除します。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108173842_0_VPWW59_130000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108211931_0_VPWW61_040000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "気象警報・注意報（Ｒ０６）（暴風）",
-      "slug": "気象警報注意報暴風",
-      "time": "2026-11-08T16:29:36.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-11-08T21:08:49.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -967,10 +1005,10 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "気象警報・注意報（Ｒ０６）（暴風）",
-          "snippet": "【長崎県暴風（雪）警報・注意報】北部、壱岐・対馬、五島では、強風に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【八重山地方気象警報・注意報】八重山地方では、強風や高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108162936_0_VPWW58_420000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261108210849_0_VPWW54_474000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -998,9 +1036,9 @@
       ]
     },
     {
-      "headline": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-      "slug": "FlattiredcynicalUnusuall",
-      "time": "2026-11-07T21:36:16.000Z",
+      "headline": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "slug": "Sevendeadandmorethan100i",
+      "time": "2026-11-08T19:58:02.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -1009,10 +1047,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
-          "snippet": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+          "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+          "snippet": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Iran executes three men for 'armed unrest' after January protests",
+      "slug": "Iranexecutesthreemenfora",
+      "time": "2026-11-08T13:37:50.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Iran executes three men for 'armed unrest' after January protests",
+          "snippet": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1040,21 +1099,84 @@
       ]
     },
     {
-      "headline": "Italian foreign minister says hackers leaked his personal data",
-      "slug": "Italianforeignministersa",
-      "time": "2026-11-07T16:50:06.000Z",
+      "headline": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
+      "slug": "WhyAbdulElSayedsJDhabibi",
+      "time": "2026-11-08T21:01:33.000Z",
       "independentSources": 1,
       "sources": [
-        "BBC World"
+        "Al Jazeera"
       ],
       "count": 1,
       "hasPrimary": false,
       "members": [
         {
-          "title": "Italian foreign minister says hackers leaked his personal data",
-          "snippet": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+          "title": "Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online",
+          "snippet": "‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Iran threatens to ‘rain down hell’ if US escalates war",
+      "slug": "Iranthreatenstoraindownh",
+      "time": "2026-11-08T20:13:39.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+          "snippet": "President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Al Jazeera tries Baseball5 at Youth Olympics",
+      "slug": "AlJazeeratriesBaseball5a",
+      "time": "2026-11-08T19:26:38.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Al Jazeera tries Baseball5 at Youth Olympics",
+          "snippet": "Al Jazeera tries Baseball5 at Youth Olympics",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
+      "slug": "ManUnitedearn44drawagain",
+      "time": "2026-11-08T19:15:36.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
+          "snippet": "Michael Carrick&#039;s team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -1076,90 +1198,6 @@
           "snippet": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.",
           "source": "Al Jazeera",
           "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-      "slug": "LIVEAtleticoMadridvsBarc",
-      "time": "2026-11-08T17:00:00.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "LIVE: Atletico Madrid vs Barcelona – La Liga",
-          "snippet": "Previews, team news and live text updates from Atletico Madrid vs Barcelona in football&#039;s La Liga.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/liveblog/2026/11/8/atletico-madrid-vs-barcelona-la-liga-live?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
-      "slug": "Indiascockroachmovements",
-      "time": "2026-11-08T16:59:31.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "India’s ‘cockroach’ movement seeks to restore culture of accountability",
-          "snippet": "India&#039;s Cockroach Janta Party is a youth movement demanding political accountability, employment and fair elections",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/8/indias-cockroach-movement-seeks-to-restore-culture-of-accountability?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Fan hospitalised after falling through stand at Norwegian football match",
-      "slug": "Fanhospitalisedafterfall",
-      "time": "2026-11-08T16:53:03.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Fan hospitalised after falling through stand at Norwegian football match",
-          "snippet": "A stand in the away end of Tromso&#039;s stadium gave way during a match against Bodo/Glimt, causing fans to fall throug",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Israeli opposition leader warns of ‘point of no return’ for democracy",
-      "slug": "Israelioppositionleaderw",
-      "time": "2026-11-08T16:51:41.000Z",
-      "independentSources": 1,
-      "sources": [
-        "Al Jazeera"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Israeli opposition leader warns of ‘point of no return’ for democracy",
-          "snippet": "Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
