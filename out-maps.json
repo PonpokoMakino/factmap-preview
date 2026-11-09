@@ -1,39 +1,36 @@
 {
-  "builtAt": "2026-11-09T09:10:31.998Z",
+  "builtAt": "2026-11-09T19:53:54.362Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "ニトリに不正アクセス 最大3762万件の個人情報が流出の可能性",
-      "slug": "ニトリに不正アクセス最大3762万件の個人情報が",
-      "independentSources": 2,
+      "headline": "自民 石破前首相ら4人を戒告処分 本会議退席で 元総裁処分は初",
+      "slug": "自民石破前首相ら4人を戒告処分本会議退席で元総裁",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261109de73045"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72932"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72824"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de73129"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601934?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6601951?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026110900659&g=pol&m=rss"
         }
       ],
-      "issue": "企業への不正アクセスによる個人情報流出の可能性はどの程度か？",
-      "stasis": "事実",
+      "issue": "自民党の石破元首相ら4人が衆議院本会議を退席したことに対する党の処分は妥当か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "ニトリホールディングスは、外部からの不正アクセスにより、最大で3762万件の個人情報（個人と法人の会員情報や商品の購…）が流出した可能性があると発表した。",
-          "span": "最大で3762万件の個人情報が流出した可能性があると発表しました",
+          "t": "自民党の石破元首相ら4人が、食料品の消費税減税関連法案の採決前に衆議院本会議を退席した。",
+          "span": "食料品の消費税減税関連法案の採決を前に衆議院本会議を退席した自民党の石破前総理大臣ら4人",
           "src": [
             {
               "ty": "press",
@@ -42,12 +39,16 @@
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "セガは、メールマガジン配信委託先のサービスが不正アクセスを受け、メールアドレス219万6000件あまりが外部に流出したと発表した。",
-          "span": "メールアドレス219万6000件あまりが外部に流出したと発表しました",
+          "t": "自民党は、この4人に対し、幹事長による戒告処分を下した。",
+          "span": "幹事長による戒告の処分にした",
           "src": [
             {
               "ty": "press",
@@ -56,8 +57,26 @@
           ]
         },
         {
-          "t": "小学館は、メール配信サービスの委託先が不正アクセスを受けた影響で、会員のメールアドレスなどおよそ199万件が漏えいしたおそれがあると発表した。",
-          "span": "会員のメールアドレスなどおよそ199万件が漏えいしたおそれがあると発表しました",
+          "t": "自民党は、この処分について「党内結束の観点から看過できない」と説明している。",
+          "span": "「党内結束の観点から看過できない」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "石破元首相らに対する処分は、元総裁に対する処分としては初めてである。",
+          "span": "元総裁処分は初",
           "src": [
             {
               "ty": "press",
@@ -67,16 +86,78 @@
         }
       ],
       "positions": [],
-      "consensus": "ニトリ、セガ、小学館において、それぞれ不正アクセスによる個人情報流出の可能性があることが報じられている。流出した可能性のある件数は、ニトリが最大3762万件、セガが219万6000件あまり、小学館がおよそ199万件である。",
-      "note": "本件は事実の報告であり、各社の発表に基づいている。評価や意見の対立は見られないため、positions は空となる。",
+      "consensus": "自民党の石破元首相ら4人が衆議院本会議を退席し、党から戒告処分を受けたことについて、党は「党内結束の観点から看過できない」と説明している。この処分は元総裁に対しては初である。",
+      "note": "本件は、石破元首相ら4人の処分に関する報道であり、食料品の消費税減税関連法案自体の是非については触れていない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-      "slug": "SurgeonhavinglunchnearKr",
+      "headline": "震度5強 震源を静岡県西部から愛知県東部に変更 気象庁",
+      "slug": "震度5強震源を静岡県西部から愛知県東部に変更気象",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 地震・火山"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261109de73182"
+        },
+        {
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261109151239_0_VXSE53_270000.xml"
+        }
+      ],
+      "issue": "地震の震源地はどこか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "10日午前0時9分頃、地震が発生した。",
+          "span": "１０日００時０９分ころ、地震がありました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 地震・火山"
+            }
+          ]
+        },
+        {
+          "t": "この地震で愛知県で震度5強が観測された。",
+          "span": "愛知県で震度5強の揺れを観測した地震",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、データの精査後、震源の場所を愛知県東部に変更した。",
+          "span": "震源の場所を静岡県西部から愛知県東部に変更しました。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "10日午前0時9分頃に地震が発生し、愛知県で震度5強が観測された。気象庁は震源を静岡県西部から愛知県東部に変更した。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "factsの2番目の項目「気象庁は、当初、震源を静岡県西部としていたが、データの精査後、愛知県東部に変更した。」から「当初、震源を静岡県西部としていたが、」を削除しました。これは、元テキストに「震源を静岡県西部から愛知県東部に変更しました」とあり、当初の震源地を明示的に述べていないため、抽出エンジンの幻覚と判断しました。修正後の事実は「気象庁は、データの精査後、震源の場所を愛知県東部に変更した。」です。"
+        ]
+      }
+    },
+    {
+      "headline": "Trump questions midterm elections integrity after previously accepting results",
+      "slug": "Trumpquestionsmidtermele",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -85,235 +166,84 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss"
         }
       ],
-      "issue": "クラクフでの銃撃事件の状況は何か？",
-      "stasis": "事実",
+      "issue": "トランプ氏は中間選挙の結果の信頼性を疑問視しているか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "クラクフ銃撃事件の容疑者が病院で死亡した。",
-          "span": "has died in hospital",
+          "t": "トランプ氏は月曜日にTruth Socialで、証拠なしに主張を行った。",
+          "span": "Trump made the claims, without evidence, on Truth Social on Monday.",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "銃撃により少なくとも6人が死亡した。",
-          "span": "At least six people were killed",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "容疑者の家族3人の遺体が自宅で発見された。",
-          "span": "three bodies of the suspect's family members were found at their ho",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "クラクフ銃撃現場近くにいた外科医が、警官の命を救った。",
-          "span": "saved officer's life",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "2人の警察官が、さらなる殺害を防いだとして称賛されている。",
-          "span": "hailed for preventing a Polish gunman from killing more",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "容疑者は、クラクフ中心部での銃撃開始後数分で警察に撃たれ逮捕された。",
-          "span": "shot by police and arrested minutes ‌after gunfire opened on people in central Krakow",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "クラクフでの銃撃事件では、容疑者が病院で死亡し、少なくとも6人が殺害された。容疑者の家族3人の遺体も自宅で発見されている。警察官の命を救った外科医や、さらなる殺害を防いだ警察官が称賛されている。",
-      "note": "事実合意型。記事には評価や対立する立場が記述されていないため、positionsは空配列。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[2].span が空文字だったため、元テキストの最小核に修正しました。",
-          "fact spanが原文に無い→除去「three bodies of th…」"
-        ]
-      }
-    },
-    {
-      "headline": "繁華街で偽基地局運用　電波法違反容疑で中国籍の男逮捕―詐欺メッセージ送信か・警視庁",
-      "slug": "繁華街で偽基地局運用電波法違反容疑で中国籍の男逮",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261109de72718"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110900275&g=soc&m=rss"
-        }
-      ],
-      "issue": "中国籍の容疑者は電波法違反の疑いで逮捕されたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "東京・銀座で、車に積んだ無線機から無許可で強力な電波が発せられ、周辺のスマートフォンに通信障害が発生したと報じられている。",
-          "span": "東京 銀座で、車に積んだ無線機から無許可で強力な電波を発し、周辺のスマートフォンに通信障害を起こさせた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "中国籍の容疑者が電波法違反の疑いで逮捕されたと報じられている。",
-          "span": "中国籍の容疑者が電波法違反の疑いで逮捕されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "繁華街で偽基地局が運用されていたと報じられている。",
-          "span": "繁華街で偽基地局運用",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "中国籍の男が電波法違反の疑いで逮捕されたと報じられている。",
-          "span": "中国籍の男逮捕",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "詐欺メッセージが送信された可能性が報じられている。",
-          "span": "詐欺メッセージ送信か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "中国籍の容疑者が電波法違反の疑いで逮捕されたという事実は、複数の報道機関によって報じられている。",
-      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "トランプ氏は月曜日に証拠なしに中間選挙の結果の信頼性を疑問視する主張を行った。シューマー氏はこれを批判した。評価は割れる。",
+      "note": "プライバシー配慮のため、個別の選挙結果に関する詳細な言及は避けた。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "自民、石破氏らの処分検討　採決棄権、参院への影響警戒",
-      "slug": "自民石破氏らの処分検討採決棄権参院への影響警戒",
+      "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "slug": "Republicancongressmantof",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601933?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110900659&g=pol&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss"
         }
       ],
-      "issue": "自民党は石破茂前首相ら4人を戒告処分としたか？",
-      "stasis": "事実",
+      "issue": "共和党の現在のリーダーシップや戦略は効果的か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "自民党は、石破茂前首相を含む4人の党員に対し、戒告処分を決定した。",
-          "span": "石破前首相ら4人を戒告処分",
+          "t": "共和党下院議員がヘグセット国防長官に対する弾劾投票を強制する予定である。",
+          "span": "to force impeachment vote",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "この処分は、彼らが採決を棄権したことに関連している。",
-          "span": "採決棄権",
+          "t": "この弾劾の試みは失敗する可能性が高いと報じられている。",
+          "span": "will likely fail",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "自民党は、参議院への影響を警戒し、石破氏らの処分を検討していた。",
-          "span": "参院への影響警戒",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "自民党は石破茂前首相ら4人を戒告処分とした。",
-      "note": "",
+      "consensus": "共和党下院議員がヘグセット国防長官に対する弾劾投票を強制する予定であること、および共和党のトム・ギャレット氏が中間選挙敗北の原因について主張していることは事実として報じられている。これらの行動や主張が共和党のリーダーシップや戦略の有効性について異なる見解を示しているが、アプリは裁定しない。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "consensus: 合意された事実の要約に、アプリの裁定方針に関するメタ記述（「評価は割れる／アプリは裁定しない」）が混入していたため削除しました。consensusはテキストから読み取れる事実の合意のみを記述すべきです。"
+          "positions[0].claim: メタ記述の徹底のため、「〜と望んでいる」を「〜と望んでいると報じられている」に修正しました。"
         ]
       }
     }
