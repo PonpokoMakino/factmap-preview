@@ -1,132 +1,91 @@
 {
-  "builtAt": "2026-11-09T19:53:54.362Z",
+  "builtAt": "2026-11-10T10:20:46.107Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "自民 石破前首相ら4人を戒告処分 本会議退席で 元総裁処分は初",
-      "slug": "自民石破前首相ら4人を戒告処分本会議退席で元総裁",
-      "independentSources": 3,
+      "headline": "ソフトバンクグループ中間決算 7680億円の赤字 DC計画変更で",
+      "slug": "ソフトバンクグルプ中間決算7680億円の赤字DC",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261109de73129"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73545"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6601951?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026110900659&g=pol&m=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602072?source=rss"
         }
       ],
-      "issue": "自民党の石破元首相ら4人が衆議院本会議を退席したことに対する党の処分は妥当か？",
-      "stasis": "政策",
+      "issue": "ソフトバンクグループの中間決算は7680億円の赤字となったか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "自民党の石破元首相ら4人が、食料品の消費税減税関連法案の採決前に衆議院本会議を退席した。",
-          "span": "食料品の消費税減税関連法案の採決を前に衆議院本会議を退席した自民党の石破前総理大臣ら4人",
+          "t": "ソフトバンクグループの今年4月から9月までの中間決算は、7680億円の最終赤字となった。",
+          "span": "7680億円の最終赤字となりました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
+            }
+          ]
+        },
+        {
+          "t": "アメリカで進めているデータセンターの計画を変更したことに伴って、損失を計上したことが赤字の主な要因の一つである。",
+          "span": "アメリカで進めているデータセンターの計画を変更したことに伴って、損失を計上したことなどが主な要因だということ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ソフトバンクグループは中間決算で7680億円の赤字となった。",
+          "span": "SBGが7680億円の赤字 中間決算",
+          "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "自民党は、この4人に対し、幹事長による戒告処分を下した。",
-          "span": "幹事長による戒告の処分にした",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "自民党は、この処分について「党内結束の観点から看過できない」と説明している。",
-          "span": "「党内結束の観点から看過できない」",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "石破元首相らに対する処分は、元総裁に対する処分としては初めてである。",
-          "span": "元総裁処分は初",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "自民党の石破元首相ら4人が衆議院本会議を退席し、党から戒告処分を受けたことについて、党は「党内結束の観点から看過できない」と説明している。この処分は元総裁に対しては初である。",
-      "note": "本件は、石破元首相ら4人の処分に関する報道であり、食料品の消費税減税関連法案自体の是非については触れていない。",
+      "consensus": "ソフトバンクグループの中間決算は7680億円の赤字となった。",
+      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "震度5強 震源を静岡県西部から愛知県東部に変更 気象庁",
-      "slug": "震度5強震源を静岡県西部から愛知県東部に変更気象",
+      "headline": "ダルメシアンにかまれ女性が大けが 飼い主を逮捕 千葉",
+      "slug": "ダルメシアンにかまれ女性が大けが飼い主を逮捕千葉",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "気象庁 地震・火山"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261109de73182"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73681"
         },
         {
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261109151239_0_VXSE53_270000.xml"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602058?source=rss"
         }
       ],
-      "issue": "地震の震源地はどこか？",
+      "issue": "犬の飼い主は、犬の管理を怠り女性に重傷を負わせたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "10日午前0時9分頃、地震が発生した。",
-          "span": "１０日００時０９分ころ、地震がありました。",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 地震・火山"
-            }
-          ]
-        },
-        {
-          "t": "この地震で愛知県で震度5強が観測された。",
-          "span": "愛知県で震度5強の揺れを観測した地震",
+          "t": "ことし、千葉県御宿町で散歩中の80代の女性が犬にかまれて大けがをした。",
+          "span": "ことし、千葉県御宿町で散歩中の80代の女性が犬にかまれて大けがをし",
           "src": [
             {
               "ty": "press",
@@ -135,29 +94,113 @@
           ]
         },
         {
-          "t": "気象庁は、データの精査後、震源の場所を愛知県東部に変更した。",
-          "span": "震源の場所を静岡県西部から愛知県東部に変更しました。",
+          "t": "警察は、飼い主が犬をつなぎとめるなどの管理を怠ったとして、重過失傷害の疑いで飼い主を逮捕した。",
+          "span": "警察は飼い主が犬をつなぎとめるなどの管理を怠ったとして重過失傷害の疑いで逮捕しました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "脱走した犬がかみ、女性が重傷を負い、飼い主が逮捕された。",
+          "span": "脱走犬がかみ女性重傷 飼い主逮捕",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "10日午前0時9分頃に地震が発生し、愛知県で震度5強が観測された。気象庁は震源を静岡県西部から愛知県東部に変更した。",
-      "note": "",
+      "consensus": "ことし、千葉県御宿町で散歩中の80代の女性が犬にかまれて大けがをし、警察は飼い主を重過失傷害の疑いで逮捕した。",
+      "note": "プライバシーに配慮し、逮捕された飼い主の氏名や犬種は記載しない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "What is Hasina’s game plan as she seeks a passport to return to Bangladesh?",
+      "slug": "WhatisHasinasgameplanass",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss"
+        }
+      ],
+      "issue": "オックスフォード博物館はナガ族の頭蓋骨をインドに返還したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "オックスフォード博物館が、祖先のナガ族の頭蓋骨をインドに返還した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "返還された遺骨はナガランドへ運ばれる予定である。",
+          "span": "The remains will be taken to Nagaland",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "部族の指導者たちは、合同追悼式と埋葬を計画している。",
+          "span": "where tribal leaders plan a joint memorial and burial",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ハシナ氏（追放された指導者）は、2024年の反乱に対する暴力的な弾圧の罪で、帰国した場合に絞首刑に処される可能性がある。",
+          "span": "The ousted leader faces the prospect of being hanged upon return for her violent suppression of the 2024 uprising",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "オックスフォード博物館はナガ族の頭蓋骨をインドに返還し、遺骨はナガランドへ運ばれ、部族指導者は合同追悼式と埋葬を計画している。追放された指導者は、2024年の反乱に対する暴力的な弾圧の罪で帰国した場合に絞首刑に処される可能性がある。",
+      "note": "プライバシー配慮のため、ハシナ氏の個人情報は最小限に留めた。",
       "audit": {
         "changed": true,
         "issues": [
-          "factsの2番目の項目「気象庁は、当初、震源を静岡県西部としていたが、データの精査後、愛知県東部に変更した。」から「当初、震源を静岡県西部としていたが、」を削除しました。これは、元テキストに「震源を静岡県西部から愛知県東部に変更しました」とあり、当初の震源地を明示的に述べていないため、抽出エンジンの幻覚と判断しました。修正後の事実は「気象庁は、データの精査後、震源の場所を愛知県東部に変更した。」です。"
+          "facts[0].span: 元テキストの該当箇所を正確に反映するように修正しました。",
+          "facts[1].span: 元テキストの該当箇所を正確に反映するように修正しました。",
+          "facts[2].span: 元テキストの該当箇所を正確に反映するように修正しました。",
+          "facts[3].span: 元テキストの該当箇所を正確に反映するように修正しました。",
+          "fact spanが原文に無い→除去「Oxford museum retu…」"
         ]
       }
     },
     {
-      "headline": "Trump questions midterm elections integrity after previously accepting results",
-      "slug": "Trumpquestionsmidtermele",
+      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "slug": "TrumpsaysFBIinvestigatin",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -166,84 +209,66 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss"
         }
       ],
-      "issue": "トランプ氏は中間選挙の結果の信頼性を疑問視しているか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "FBIはNvidiaのCEOと中国の諜報員とされる人物との関係を捜査しているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "トランプ氏は月曜日にTruth Socialで、証拠なしに主張を行った。",
-          "span": "Trump made the claims, without evidence, on Truth Social on Monday.",
+          "t": "米国大統領は月曜日にジェンセン・ホアンと話し、関係について尋ねたと述べた。",
+          "span": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "NvidiaのCEOは、諜報員とされる人物との関係が捜査されている。",
+          "span": "Nvidia boss's affair with alleged Chinese spy",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "NvidiaのCEOの関係が、中国へのチップ輸出に関する議論を煽っている。",
+          "span": "Nvidia spy scandal fuels debate over chip exports to China",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国の議員は、Nvidia CEOの関係に関する捜査の中で、チップ販売へのより厳しい制限を求めている。",
+          "span": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO&#039;s relationship with alleged s",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "トランプ氏は月曜日に証拠なしに中間選挙の結果の信頼性を疑問視する主張を行った。シューマー氏はこれを批判した。評価は割れる。",
-      "note": "プライバシー配慮のため、個別の選挙結果に関する詳細な言及は避けた。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "slug": "Republicancongressmantof",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss"
-        }
-      ],
-      "issue": "共和党の現在のリーダーシップや戦略は効果的か？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "共和党下院議員がヘグセット国防長官に対する弾劾投票を強制する予定である。",
-          "span": "to force impeachment vote",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この弾劾の試みは失敗する可能性が高いと報じられている。",
-          "span": "will likely fail",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "共和党下院議員がヘグセット国防長官に対する弾劾投票を強制する予定であること、および共和党のトム・ギャレット氏が中間選挙敗北の原因について主張していることは事実として報じられている。これらの行動や主張が共和党のリーダーシップや戦略の有効性について異なる見解を示しているが、アプリは裁定しない。",
-      "note": null,
+      "consensus": "米国大統領はFBIがNvidiaのCEOと諜報員とされる人物との関係を捜査していると述べた。米国の議員はチップ販売へのより厳しい制限を求めている。",
+      "note": "プライバシー配慮のため、関係者の詳細な個人情報は省略した。",
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].claim: メタ記述の徹底のため、「〜と望んでいる」を「〜と望んでいると報じられている」に修正しました。"
+          "positionsのclaimのspanを元テキストの該当箇所に修正しました。",
+          "positionsのclaimを、元テキストの表現に近づけ、断定的な表現を避けました。",
+          "position spanが原文に無い→除去「Trump says FBI inv…」"
         ]
       }
     }
