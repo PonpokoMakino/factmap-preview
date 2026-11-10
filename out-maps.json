@@ -1,10 +1,92 @@
 {
-  "builtAt": "2026-11-10T10:20:46.107Z",
+  "builtAt": "2026-11-10T18:03:46.099Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "ソフトバンクグループ中間決算 7680億円の赤字 DC計画変更で",
-      "slug": "ソフトバンクグルプ中間決算7680億円の赤字DC",
+      "headline": "台風32号 小笠原最接近 暴風高波に警戒を",
+      "slug": "台風32号小笠原最接近暴風高波に警戒を",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73756"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261110174945_0_VPWW54_130000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261110174945_0_VPWW53_130000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261110174935_0_VPWW58_130000.xml"
+        }
+      ],
+      "issue": "台風32号による小笠原諸島への影響はどうか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "非常に強い台風32号が小笠原諸島に最も接近している。",
+          "span": "非常に強い台風32号はこの時間、小笠原諸島に最も近づいています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は、11日にかけて暴風や高波に警戒するよう呼びかけている。",
+          "span": "11日にかけて暴風や高波に警戒するよう呼びかけています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "小笠原諸島では高波に警戒が必要である。",
+          "span": "小笠原諸島では、高波に警戒してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            },
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "小笠原諸島では強風に注意が必要である。",
+          "span": "小笠原諸島では、強風に注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "台風32号が小笠原諸島に最接近し、暴風や高波への警戒が呼びかけられている。",
+      "note": "複数の気象庁発表で同じ内容が繰り返されているため、事実として統合した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "スマホ遠隔操作し商品だまし取った疑い 中国籍の2人逮捕 福岡",
+      "slug": "スマホ遠隔操作し商品だまし取った疑い中国籍の2人",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -13,19 +95,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73545"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73782"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602072?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602082?source=rss"
         }
       ],
-      "issue": "ソフトバンクグループの中間決算は7680億円の赤字となったか？",
+      "issue": "中国籍の2人は、不正なアプリをインストールさせた他人のスマートフォンを遠隔操作し、商品などをだまし取った疑いで逮捕されたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ソフトバンクグループの今年4月から9月までの中間決算は、7680億円の最終赤字となった。",
-          "span": "7680億円の最終赤字となりました",
+          "t": "中国籍の2人が、不正なアプリをインストールさせた他人のスマートフォンを遠隔操作し、200万円相当の商品をだまし取った疑いで逮捕された。",
+          "span": "不正なアプリをインストールさせた他人のスマートフォンを遠隔操作し、200万円相当の商品をだまし取ったなどとして中国籍の2人が逮捕されました",
           "src": [
             {
               "ty": "press",
@@ -34,18 +116,8 @@
           ]
         },
         {
-          "t": "アメリカで進めているデータセンターの計画を変更したことに伴って、損失を計上したことが赤字の主な要因の一つである。",
-          "span": "アメリカで進めているデータセンターの計画を変更したことに伴って、損失を計上したことなどが主な要因だということ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ソフトバンクグループは中間決算で7680億円の赤字となった。",
-          "span": "SBGが7680億円の赤字 中間決算",
+          "t": "スマホを遠隔操作して詐欺を行った疑いで、2人が逮捕された。",
+          "span": "スマホ遠隔操作し詐欺疑い 逮捕",
           "src": [
             {
               "ty": "press",
@@ -55,37 +127,37 @@
         }
       ],
       "positions": [],
-      "consensus": "ソフトバンクグループの中間決算は7680億円の赤字となった。",
-      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "中国籍の2人は、不正なアプリをインストールさせた他人のスマートフォンを遠隔操作し、商品などをだまし取った疑いで逮捕されたという事実について、報道機関の間で合意が見られる。",
+      "note": "プライバシー保護のため、逮捕された人物の氏名は記載しない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "ダルメシアンにかまれ女性が大けが 飼い主を逮捕 千葉",
-      "slug": "ダルメシアンにかまれ女性が大けが飼い主を逮捕千葉",
+      "headline": "１１日からＦＡ交渉　森下、床田、坂倉ら１０人公示―プロ野球",
+      "slug": "日から交渉森下床田坂倉ら人公示プロ野球",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73681"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261110de73588"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602058?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111000868&g=spo&m=rss"
         }
       ],
-      "issue": "犬の飼い主は、犬の管理を怠り女性に重傷を負わせたか？",
+      "issue": "巨人はドラフト1位指名した織田翔希投手のあいさつに訪れたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ことし、千葉県御宿町で散歩中の80代の女性が犬にかまれて大けがをした。",
-          "span": "ことし、千葉県御宿町で散歩中の80代の女性が犬にかまれて大けがをし",
+          "t": "プロ野球、巨人はドラフト会議で1位で指名した横浜高校の織田翔希投手のあいさつに訪れた。",
+          "span": "プロ野球、巨人はドラフト会議で1位で指名した横浜高校の織田翔希投手のあいさつに訪れましたが",
           "src": [
             {
               "ty": "press",
@@ -94,8 +166,8 @@
           ]
         },
         {
-          "t": "警察は、飼い主が犬をつなぎとめるなどの管理を怠ったとして、重過失傷害の疑いで飼い主を逮捕した。",
-          "span": "警察は飼い主が犬をつなぎとめるなどの管理を怠ったとして重過失傷害の疑いで逮捕しました",
+          "t": "織田翔希投手はアメリカで野球を続けることを表明している。",
+          "span": "アメリカで野球を続けることを表明している",
           "src": [
             {
               "ty": "press",
@@ -104,27 +176,47 @@
           ]
         },
         {
-          "t": "脱走した犬がかみ、女性が重傷を負い、飼い主が逮捕された。",
-          "span": "脱走犬がかみ女性重傷 飼い主逮捕",
+          "t": "織田翔希投手はあいさつには同席しなかった。",
+          "span": "織田投手は同席しませんでした",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "プロ野球でFA交渉が11日から始まることが公示された。",
+          "span": "１１日からＦＡ交渉",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "FA交渉の対象として森下、床田、坂倉ら10人が公示された。",
+          "span": "森下、床田、坂倉ら１０人公示",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ことし、千葉県御宿町で散歩中の80代の女性が犬にかまれて大けがをし、警察は飼い主を重過失傷害の疑いで逮捕した。",
-      "note": "プライバシーに配慮し、逮捕された飼い主の氏名や犬種は記載しない。",
+      "consensus": "巨人はドラフト1位指名した織田翔希投手のあいさつに訪れたが、織田投手は同席しなかった。プロ野球でFA交渉が11日から始まり、森下、床田、坂倉ら10人が公示された。",
+      "note": "プライバシー配慮のため、織田翔希投手に関する情報は公表されている範囲に留める。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "What is Hasina’s game plan as she seeks a passport to return to Bangladesh?",
-      "slug": "WhatisHasinasgameplanass",
+      "headline": "At least 12 people killed in Bulgaria motorway pile-up",
+      "slug": "Atleast12peoplekilledinB",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -133,19 +225,29 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck1l3lzg3y79o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/10/what-is-hasinas-game-plan-as-she-seeks-passport-to-return-to-bangladesh?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss"
         }
       ],
-      "issue": "オックスフォード博物館はナガ族の頭蓋骨をインドに返還したか？",
+      "issue": "ブルガリアの高速道路での多重事故による死傷者数はどの程度か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "オックスフォード博物館が、祖先のナガ族の頭蓋骨をインドに返還した。",
-          "span": "",
+          "t": "ブルガリアの高速道路で多重事故が発生し、少なくとも12人が死亡した。",
+          "span": "At least 12 people killed",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "事故はトラキア高速道路の一部で発生した。",
+          "span": "a section of the Trakia motorway",
           "src": [
             {
               "ty": "press",
@@ -154,8 +256,8 @@
           ]
         },
         {
-          "t": "返還された遺骨はナガランドへ運ばれる予定である。",
-          "span": "The remains will be taken to Nagaland",
+          "t": "事故により約50人が負傷した。",
+          "span": "About 50 other people were injured",
           "src": [
             {
               "ty": "press",
@@ -164,18 +266,8 @@
           ]
         },
         {
-          "t": "部族の指導者たちは、合同追悼式と埋葬を計画している。",
-          "span": "where tribal leaders plan a joint memorial and burial",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ハシナ氏（追放された指導者）は、2024年の反乱に対する暴力的な弾圧の罪で、帰国した場合に絞首刑に処される可能性がある。",
-          "span": "The ousted leader faces the prospect of being hanged upon return for her violent suppression of the 2024 uprising",
+          "t": "複数の事故には約50台の車両が関与した。",
+          "span": "multiple crashes involving around 50 vehicles",
           "src": [
             {
               "ty": "press",
@@ -185,91 +277,11 @@
         }
       ],
       "positions": [],
-      "consensus": "オックスフォード博物館はナガ族の頭蓋骨をインドに返還し、遺骨はナガランドへ運ばれ、部族指導者は合同追悼式と埋葬を計画している。追放された指導者は、2024年の反乱に対する暴力的な弾圧の罪で帰国した場合に絞首刑に処される可能性がある。",
-      "note": "プライバシー配慮のため、ハシナ氏の個人情報は最小限に留めた。",
+      "consensus": "ブルガリアの高速道路で多重事故が発生し、少なくとも12人が死亡、約50人が負傷したという事実は両記事で一致している。事故はトラキア高速道路の一部で発生し、約50台の車両が関与した。",
+      "note": "両記事とも事故の死傷者数と発生場所について報じているが、評価や意見の対立は見られないため、positionsは空となる。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "facts[0].span: 元テキストの該当箇所を正確に反映するように修正しました。",
-          "facts[1].span: 元テキストの該当箇所を正確に反映するように修正しました。",
-          "facts[2].span: 元テキストの該当箇所を正確に反映するように修正しました。",
-          "facts[3].span: 元テキストの該当箇所を正確に反映するように修正しました。",
-          "fact spanが原文に無い→除去「Oxford museum retu…」"
-        ]
-      }
-    },
-    {
-      "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "slug": "TrumpsaysFBIinvestigatin",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss"
-        }
-      ],
-      "issue": "FBIはNvidiaのCEOと中国の諜報員とされる人物との関係を捜査しているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "米国大統領は月曜日にジェンセン・ホアンと話し、関係について尋ねたと述べた。",
-          "span": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "NvidiaのCEOは、諜報員とされる人物との関係が捜査されている。",
-          "span": "Nvidia boss's affair with alleged Chinese spy",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "NvidiaのCEOの関係が、中国へのチップ輸出に関する議論を煽っている。",
-          "span": "Nvidia spy scandal fuels debate over chip exports to China",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国の議員は、Nvidia CEOの関係に関する捜査の中で、チップ販売へのより厳しい制限を求めている。",
-          "span": "US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO&#039;s relationship with alleged s",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米国大統領はFBIがNvidiaのCEOと諜報員とされる人物との関係を捜査していると述べた。米国の議員はチップ販売へのより厳しい制限を求めている。",
-      "note": "プライバシー配慮のため、関係者の詳細な個人情報は省略した。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimのspanを元テキストの該当箇所に修正しました。",
-          "positionsのclaimを、元テキストの表現に近づけ、断定的な表現を避けました。",
-          "position spanが原文に無い→除去「Trump says FBI inv…」"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
