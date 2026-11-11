@@ -1,396 +1,108 @@
 {
-  "builtAt": "2026-11-11T02:50:44.249Z",
+  "builtAt": "2026-11-11T10:22:50.480Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-      "slug": "Malaysiasdisgracedformer",
-      "independentSources": 4,
+      "headline": "アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認",
+      "slug": "アマゾンジャパン独禁法調査で改善計画を提出公取委",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73900"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111100238&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss"
-        }
-      ],
-      "issue": "英国で逮捕された米軍兵士はロシアのスパイ活動に関与したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "イギリスの警察はアメリカ陸軍の兵士を逮捕した。",
-          "span": "英警察が米軍兵士逮捕",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "逮捕容疑は外国の情報機関を支援した疑いなど。",
-          "span": "外国の情報機関を支援した疑い",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "ロシアが関係し、スパイ活動が行われた疑いがある。",
-          "span": "ロシアが関係し、スパイ活動が行われた疑い",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "警察は関係先を捜索するなどして捜査を進めている。",
-          "span": "捜査を進めています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "英警察は米兵をロシアへのスパイ容疑で逮捕した。",
-          "span": "英警察、米兵を逮捕　ロシアへのスパイ容疑",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米陸軍兵士がロシアのスパイ容疑で英国で逮捕された。",
-          "span": "US Army soldier suspected of spying for Russia arrested in UK",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "逮捕された兵士は41歳のシニア兵士である。",
-          "span": "The 41-year-old senior soldier",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "兵士は国家安全保障上の犯罪で告発され、ロンドンで尋問を受けている。",
-          "span": "is accused of national security offences and is being questioned in London",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "英警察は、ロシアが関係するスパイ活動の疑いでアメリカ陸軍の兵士を逮捕し、捜査を進めている。評価は割れる／アプリは裁定しない。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "span の最小核: facts[3].span が文全体であったため、述部の最小句「捜査を進めています」に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "slug": "USHouseblocksbidtoimpeac",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/republicans-block-hegseth-impeachment-motion?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/11/iran-war-live-hegseth-survives-impeachment-bid-iran-denies-us-talks?traffic_source=rss"
-        }
-      ],
-      "issue": "ピート・ヘグセス国防長官は弾劾されるべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "米下院はピート・ヘグセス国防長官の弾劾動議を阻止した。",
-          "span": "blocks bid to impeach Defence Secretary Pete Hegseth",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "この阻止は一時的なものである。",
-          "span": "for now",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "民主党は来年、再び弾劾を試みることができる。",
-          "span": "Democrats can try again next year",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "共和党議員がヘグセス長官の弾劾動議を阻止した。",
-          "span": "Republicans block Hegseth impeachment motion",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "弾劾動議はイランとの戦争を巡るものだった。",
-          "span": "over the war on Iran",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イランは米国との協議を否定している。",
-          "span": "denies talks with US",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イランとの戦争に対しては超党派の反対がある。",
-          "span": "bipartisan opposition to the war",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "トランプ大統領",
-          "stance": "attack",
-          "claim": "ヘグセス長官を「偉大なアメリカの愛国者」と称賛している。",
-          "span": "\"Great American Patriot\"",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            0
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "actor": "民主党",
-          "stance": "support",
-          "claim": "ヘグセス長官の弾劾を求めた。",
-          "span": "impeach",
-          "reason": null,
-          "attr": null,
-          "premises": [
-            4
-          ],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "actor": "共和党",
-          "stance": "attack",
-          "claim": "ヘグセス長官の弾劾動議を阻止した。",
-          "span": "block",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [
-            1
-          ],
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "consensus": "ピート・ヘグセス国防長官の弾劾動議は米下院で阻止された。評価は割れる。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "論理構造の検証: トランプ大統領の立場に、弾劾動議が阻止された事実(facts[0])を前提として追加しました。",
-          "論理構造の検証: 民主党の立場に、弾劾動議がイランとの戦争を巡るものだった事実(facts[4])を前提として追加しました。",
-          "論理構造の検証: 共和党の立場に、民主党の弾劾要求(positions[1])に対する反論として追加しました。"
-        ]
-      }
-    },
-    {
-      "headline": "NTTドコモで通信障害 原因調査中",
-      "slug": "NTTドコモで通信障害原因調査中",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73934"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602147?source=rss"
-        }
-      ],
-      "issue": "NTTドコモで通信障害が発生している状況はどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "NTTドコモで通信障害が発生しており、原因を調査中である。",
-          "span": "通信障害 原因調査中",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "NTTドコモによると、全国で音声通話やデータ通信、ショートメールなどの携帯電話サービスが利用しにくい状態になっている。",
-          "span": "全国で音声通話やデータ通信、ショートメールなどの携帯電話のサービスが利用しにくい状況が発生している",
-          "actor": "NTTドコモ",
-          "src": [
-            {
-              "ty": "report",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "NTTドコモの携帯電話で全国的に障害が発生している。",
-          "span": "全国で障害が発生",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "NTTドコモで全国的に通信障害が発生しており、原因は調査中である。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[1].t を元の文の言い回しをなぞらないよう再記述し、発言主体を明記した (監査観点8)。",
-          "facts[1] に発言主体 (actor) を追加し、src のタイプを 'report' に修正した (監査観点4)。"
-        ]
-      }
-    },
-    {
-      "headline": "維新アクセル、戸惑う自民　原潜・非核三原則、集約難航も―安保３文書、与党協議スタート",
-      "slug": "維新アクセル戸惑う自民原潜非核三原則集約難航も安",
-      "independentSources": 2,
-      "sources": [
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73911"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73933"
+        },
+        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602135?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602184?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111001061&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111100748&g=pol&m=rss"
         }
       ],
-      "issue": "安保3文書改定に関する与党協議において、日本維新の会の提案する原潜保有や非核三原則見直しは議論されるべきか？",
-      "stasis": "政策",
+      "issue": "企業は情報漏えいリスク回避のため、どのような対策を講じているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "安保3文書改定に関する与党協議が始まった。",
-          "span": "安保３文書、与党協議スタート",
+          "t": "企業の間で不正アクセスによる情報漏えいが相次いでいる。",
+          "span": "不正アクセスによる情報漏えいが相次ぐ中",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "一部の企業では、自社通販サイトを閉鎖する動きが出ている。",
+          "span": "自社の通販サイトを閉鎖",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "一部の企業では、個人情報をあらかじめ持たないようにする動きが出ている。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アマゾンジャパンは、他の通販サイトより価格が高いと目立つ位置に表示されない仕組みをとることで出品者に値下げを余儀なくさせているとして、公正取引委員会から独占禁止法違反の疑いで調査を受けていた。",
+          "span": "他の通販サイトより価格が高いと目立つ位置に表示されない仕組みをとることで出品者に値下げを余儀なくさせているとして、公正取引委員会が独占禁止法違反の疑いで調査を進め",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "アマゾンジャパンは、公正取引委員会に対し改善計画を提出した。",
+          "span": "改善計画を提出",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "公正取引委員会はアマゾンジャパンの改善計画を承認した。",
+          "span": "公取委が承認",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "内閣府でメールアドレス約6万件が漏えいした。",
+          "span": "内閣府でメアド６万件漏えい",
           "src": [
             {
               "ty": "press",
@@ -399,8 +111,59 @@
           ]
         },
         {
-          "t": "自民党は協議において「ブレーキ役」と報じられている。",
-          "span": "「ブレーキ役」",
+          "t": "内閣府のメールアドレス漏えいは、配信サービスへの不正アクセスが原因であった。",
+          "span": "配信サービスに不正アクセス",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "企業の間で不正アクセスによる情報漏えいが相次いでおり、一部の企業は通販サイトの閉鎖や個人情報を持たないようにする対策を講じている。アマゾンジャパンは独占禁止法違反の疑いで調査を受けた後、改善計画を提出し承認された。内閣府では配信サービスへの不正アクセスによりメールアドレス約6万件が漏えいした。",
+      "note": "プライバシーに配慮し、個人を特定できる情報は含めていない。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "fact.span: \"一部の企業では、自社通販サイトを閉鎖する動きが出ている。\" のspanを \"自社の通販サイトを閉鎖\" に修正しました。",
+          "fact.span: \"一部の企業では、個人情報をあらかじめ持たないようにする動きが出ている。\" のspanを \"あらかじめ個人情報を持たないようにする\" に修正しました。",
+          "fact.span: \"アマゾンジャパンは、他の通販サイトより価格が高いと目立つ位置に表示されない仕組みをとることで出品者に値下げを余儀なくさせているとして、公正取引委員会から独占禁止法違反の疑いで調査を受けていた。\" のspanを \"他の通販サイトより価格が高いと目立つ位置に表示されない仕組みをとることで出品者に値下げを余儀なくさせているとして、公正取引委員会が独占禁止法違反の疑いで調査を進め\" に修正しました。",
+          "consensus: \"評価や対策の有効性については割れる可能性があるが、本件では明確な対立意見は報じられていない。\" を削除しました。元テキストに記載のない推測であり、事実の記述に留めるべきと判断しました。",
+          "fact spanが原文に無い→除去「あらかじめ個人情報を持たないようにす…」"
+        ]
+      }
+    },
+    {
+      "headline": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+      "slug": "USTreasurychiefBessentmo",
+      "independentSources": 3,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602195?source=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss"
+        }
+      ],
+      "issue": "米財務長官が脅迫を受け軍基地に転居した事実は妥当か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "米財務長官が脅迫を受け軍基地に転居した。",
+          "span": "米財務長官 脅迫受け軍基地に転居",
           "src": [
             {
               "ty": "press",
@@ -409,8 +172,116 @@
           ]
         },
         {
-          "t": "日本維新の会は協議において「アクセル役」と報じられている。",
-          "span": "維新アクセル",
+          "t": "米財務長官は、イランからの脅迫を受け、ワシントンDCの自宅から軍基地に転居したと報じられている。",
+          "span": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "イランは、米財務長官の自宅の写真が公開された後、その自宅の所在地を特定したとされている。",
+          "span": "Iran is said to have geo-located Bessent&#039;s $12.5m mansion in Washington, DC after a photo of it was published.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "米国は、マダガスカルとロシアとの軍事協力の拡大について懸念を表明している。",
+          "span": "US warns Madagascar over growing military ties with Russia",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "米国将官は、ロシアとの安全保障契約がアフリカの不安定化を招く可能性があると警告している。",
+          "span": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米財務長官が脅迫を受け軍基地に転居したという事実は報じられている。しかし、その妥当性や背景に関する評価は記事からは判断できない。",
+      "note": "Al Jazeeraの記事では、米財務長官の自宅の所在地特定と脅迫の関連性が示唆されているが、直接的な因果関係は断定されていない。BBCの記事は、マダガスカルとロシアの軍事協力に関する米国の懸念を報じており、財務長官の転居とは直接関連しない情報である。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "高市首相、財源・支援金の詳細示さず　消費減税法案、参院審議入り",
+      "slug": "高市首相財源支援金の詳細示さず消費減税法案参院審",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74306"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111100878&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111100652&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111100125&g=pol&m=rss"
+        }
+      ],
+      "issue": "消費税減税関連法案をめぐる自民党内の議論と、石破氏らの採決前の退席は国民の気持ちを反映したものか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "消費税減税関連法案が衆議院本会議で採決された。",
+          "span": "衆議院本会議で採決を前に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "石破前総理大臣ら4人が採決前に退席した。",
+          "span": "石破前総理大臣ら4人の行動",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "自民党の森山前幹事長は、消費税減税関連法案をめぐる党内議論が財源などについて不十分だったと指摘した。",
+          "span": "財源などについての党内議論が不十分だったと指摘した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "自民党の森山前幹事長は、消費減税に関して財源の明示を求めた。",
+          "span": "消費減税、財源明示を",
           "src": [
             {
               "ty": "press",
@@ -419,8 +290,28 @@
           ]
         },
         {
-          "t": "協議は集約が難航する可能性が指摘されている。",
-          "span": "集約難航も",
+          "t": "高市首相は消費減税法案について、財源と支援金の詳細を示さなかった。",
+          "span": "財源・支援金の詳細示さず",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "消費減税法案は参議院で審議入りした。",
+          "span": "消費減税法案、参院審議入り",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "高市首相は中低所得者の支援継続を強調した。",
+          "span": "中低所得者の支援継続、高市首相強調",
           "src": [
             {
               "ty": "press",
@@ -431,14 +322,23 @@
       ],
       "positions": [
         {
-          "actor": "日本維新の会",
-          "stance": "support",
-          "claim": "原潜保有や非核三原則の見直しを主張している。",
-          "span": "原潜・非核三原則",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
+          "actor": "自民党 森山前幹事長",
+          "stance": "attack",
+          "claim": "消費税減税関連法案をめぐる党内議論は財源などについて不十分だった。",
+          "span": "財源などについての党内議論が不十分だったと指摘した",
+          "reason": "財源などについての党内議論が不十分だった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "自民党 森山前幹事長",
+          "stance": "attack",
+          "claim": "消費減税に関して財源の明示が必要だ。",
+          "span": "財源明示を",
           "src": [
             {
               "ty": "press",
@@ -447,14 +347,34 @@
           ]
         },
         {
-          "actor": "自民党",
-          "stance": "attack",
-          "claim": "日本維新の会の提案に戸惑いを示している。",
-          "span": "戸惑う",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
+          "actor": "石破前総理大臣ら4人",
+          "stance": "neutral",
+          "claim": "採決前の退席は国民の気持ちを反映した行動だ。",
+          "span": "国民の気持ちを反映したもの",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "高市首相",
+          "stance": "neutral",
+          "claim": "消費減税法案について、財源と支援金の詳細を示さなかった。",
+          "span": "財源・支援金の詳細示さず",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "actor": "高市首相",
+          "stance": "support",
+          "claim": "中低所得者の支援継続を強調した。",
+          "span": "中低所得者の支援継続、高市首相強調",
           "src": [
             {
               "ty": "press",
@@ -463,11 +383,68 @@
           ]
         }
       ],
-      "consensus": "安保3文書改定に関する与党協議が開始されたが、日本維新の会が原潜保有や非核三原則の見直しを主張する一方、自民党はこれに戸惑いを示しており、評価は割れる。",
-      "note": null,
+      "consensus": "消費税減税関連法案が衆議院本会議で採決され、石破氏ら4人が退席した。森山前幹事長は党内議論の不十分さを指摘し、財源明示を求めた。高市首相は財源・支援金の詳細を示さず、中低所得者支援継続を強調した。評価は割れる。",
+      "note": "プライバシー配慮のため、石破氏以外の退席者の個人名は記載しない。",
       "audit": {
         "changed": false,
         "issues": []
+      }
+    },
+    {
+      "headline": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
+      "slug": "Gazasinfrastructurecolla",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss"
+        }
+      ],
+      "issue": "トランプ氏のBBCに対する名誉毀損訴訟の現状は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "裁判官は、トランプ氏がBBCを相手取って起こした100億ドルの名誉毀損訴訟の続行を認めた。",
+          "span": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "しかし、裁判所は、BBCがフロリダ州法に違反したとするトランプ氏の訴訟の別件については棄却した。",
+          "span": "the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "裁判官はトランプ氏のBBCに対する名誉毀損訴訟の進行を許可したが、フロリダ州法違反を主張する訴訟の一部は却下された。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "著作権: facts[0].t を元の文の語順・言い回しから離れるように再記述しました。",
+          "著作権: facts[1].t を元の文の語順・言い回しから離れるように再記述しました。",
+          "事実欄への評価混入: consensus に含まれていた「評価は割れる／アプリは裁定しない」というメタ記述を削除しました。positionsが空であり、stasisが「事実」であるため、この記述は不適切です。"
+        ]
       }
     }
   ]
