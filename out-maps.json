@@ -1,40 +1,41 @@
 {
-  "builtAt": "2026-11-12T00:29:06.184Z",
+  "builtAt": "2026-11-12T07:36:59.442Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "米紙ウォール・ストリート・ジャーナルは米エヌビディアの取締役会がフアン最高経営責任者の解任を準備していると報じた",
-      "slug": "米紙ウォルストリトジャナルは米エヌビディアの取締",
-      "independentSources": 3,
+      "headline": "無印良品 展開の良品計画 不正アクセスを受けた会見で陳謝",
+      "slug": "無印良品展開の良品計画不正アクセスを受けた会見で",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74529"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74562"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602248?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111200161&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111200166&g=int&m=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602308?source=rss"
         }
       ],
-      "issue": "米紙はエヌビディアがフアンCEOの解任準備を進めていると報じたか？",
+      "issue": "良品計画で不正アクセスによる顧客情報漏えい問題が発生したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "米有力紙ウォール・ストリート・ジャーナルは、米半導体大手エヌビディアがジェンスン・フアンCEOの解任準備を進めていると報じた。",
-          "span": "フアン最高経営責任者の解任を準備している",
+          "t": "良品計画が不正アクセスを受けた。",
+          "span": "不正アクセスを受け",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "不正アクセスにより顧客情報が漏えいした。",
+          "span": "顧客の情報が漏えいした",
           "src": [
             {
               "ty": "press",
@@ -43,6 +44,174 @@
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "良品計画は12日に記者会見を開いた。",
+          "span": "記者会見を開き",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "清水智社長が不正アクセス問題について陳謝した。",
+          "span": "陳謝しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "良品計画は「無印良品」を展開する企業である。",
+          "span": "「無印良品」を展開する",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "良品計画で不正アクセスによる顧客情報漏えい問題が発生し、同社の清水智社長が記者会見で陳謝した。本件に関する評価は記事中に見られないため、評価は割れない。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "民家火災、焼け跡に３遺体　寝たばこか、住民３人と連絡取れず―広島",
+      "slug": "民家火災焼け跡に遺体寝たばこか住民人と連絡取れず",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74516"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111200581&g=soc&m=rss"
+        }
+      ],
+      "issue": "広島県福山市の住宅火災の原因は何か？",
+      "stasis": "因果の解釈（割れる）",
+      "facts": [
+        {
+          "t": "広島県福山市で住宅1棟が全焼する火事が発生した。",
+          "span": "住宅1棟が全焼する火事があり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "火事は11日夜遅くに発生した。",
+          "span": "11日夜遅く",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "焼け跡から3人の遺体が見つかった。",
+          "span": "3人が遺体で見つかりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "火事の後、この家に住む家族のうち3人と連絡が取れていない。",
+          "span": "この家に住む家族のうち3人と連絡が取れなくなっている",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "警察は遺体の身元確認を進めている。",
+          "span": "警察は確認を進めています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "広島県福山市で住宅1棟が全焼し、3人の遺体が見つかった。この家に住む3人と連絡が取れておらず、警察が身元確認を進めている。火事の原因については、寝たばこの可能性が指摘されているが、詳細は調査中である。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].claim: 地の文の断定になっていたため、「〜と報じられている」のメタ記述を追加し修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "フアンＣＥＯの解任準備　米エヌビディア取締役会―報道",
+      "slug": "フアンの解任準備米エヌビディア取締役会報道",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74529"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111200166&g=int&m=rss"
+        }
+      ],
+      "issue": "エヌビディアはフアンCEOの解任準備を進めているのか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アメリカの半導体大手エヌビディアが、ジェンスン・フアンCEOの解任準備を進めていると、米有力紙ウォール・ストリート・ジャーナルが報じた。",
+          "span": "ジェンスン・フアンCEOを解任する準備を進めている",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "NHK 主要ニュース"
             },
             {
               "ty": "press",
@@ -52,18 +221,16 @@
         }
       ],
       "positions": [],
-      "consensus": "エヌビディアがフアンCEOの解任準備を進めていると米紙が報じたことについては合意されているが、その評価や真偽は本記事では示されていない。",
-      "note": "本記事は、特定の報道内容を伝えるものであり、その報道に対する評価や反論は含まれていないため、positionsは空配列です。",
+      "consensus": "アメリカの半導体大手エヌビディアが、ジェンスン・フアンCEOの解任準備を進めていると、米有力紙ウォール・ストリート・ジャーナルが報じた。本件に関する評価や立場は記事中に見られない。",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "争点の立て方: issueがテキストの範囲と一致していなかったため修正しました。元テキストは「エヌビディアが解任準備を進めているか」という内容の『報道があったこと』を伝えているため、issueを「米紙はエヌビディアがフアンCEOの解任準備を進めていると報じたか？」に変更し、stasisおよびconsensusとの整合性を高めました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "slug": "ClasheseruptinBarcelonaa",
+      "headline": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+      "slug": "Indonesiasvicepresidentr",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -72,27 +239,33 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss"
         }
       ],
-      "issue": "スペインでゼネスト中にバルセロナで衝突が発生したか？",
+      "issue": "インドネシア副大統領の辞任の背景と状況は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "スペインでゼネスト中にバルセロナで衝突が発生した。",
-          "span": "Clashes erupt in Barcelona after thousands join Spain general strike",
+          "t": "インドネシアの副大統領が辞任した。",
+          "span": "resigns",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "辞任は与党連合の亀裂の兆候の中で起こった。",
+          "span": "ruling alliance is fraying",
           "src": [
             {
               "ty": "press",
@@ -101,8 +274,8 @@
           ]
         },
         {
-          "t": "ゼネストには数万人が参加した。",
-          "span": "Tens of thousands of people have been taking part in the strike",
+          "t": "プラボウォは前任者ジョコ・ウィドドとの間で亀裂が拡大している。",
+          "span": "growing rift with his predecessor Joko Widodo",
           "src": [
             {
               "ty": "press",
@@ -111,18 +284,8 @@
           ]
         },
         {
-          "t": "ゼネストは、住宅と労働条件をめぐり、国の主要な労働組合によって呼びかけられた。",
-          "span": "called by the country's main unions over housing and th",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "バルセロナで、抗議者たちが警察に花火を投げつけ、ゴミ箱に火をつけた。",
-          "span": "Protesters hurled fireworks at police and set rubbish bins ablaze in Barcelona",
+          "t": "辞任は資格に関する紛争の中で起こった。",
+          "span": "dispute over eligibility",
           "src": [
             {
               "ty": "press",
@@ -131,8 +294,8 @@
           ]
         },
         {
-          "t": "ガザ地区で9人が死亡し、イスラエル軍が医療複合施設を攻撃した。",
-          "span": "Israeli strikes hit medical complex as nine killed across Gaza",
+          "t": "辞任した副大統領はジョコ・ウィドド前大統領の息子であるギブラン・ラカブミン・ラカである。",
+          "span": "Gibran Rakabuming Raka, son of former President Joko Widodo",
           "src": [
             {
               "ty": "press",
@@ -141,38 +304,8 @@
           ]
         },
         {
-          "t": "ナセル医療複合施設が攻撃された。",
-          "span": "Nasser Medical Complex in Khan Younis attacked",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "国連は、ガザ地区での大雨に対処するため、緊急支援を訴えている。",
-          "span": "UN appeals for urgent aid to deal with heavy rains in the enclave",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ポーランドの独立記念日を祝う行進に数千人が参加した。",
-          "span": "Thousands march to mark Poland’s Independence Day",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "数千人がワルシャワの通りを行進した。",
-          "span": "Thousands of people have taken to the streets of Warsaw",
+          "t": "裁判所がギブランの海外教育について疑問を呈している。",
+          "span": "questions his overseas education",
           "src": [
             {
               "ty": "press",
@@ -182,231 +315,11 @@
         }
       ],
       "positions": [],
-      "consensus": "スペインでゼネスト中にバルセロナで衝突が発生したことが報じられている。ガザ地区ではイスラエル軍による医療複合施設への攻撃で9人が死亡したと報じられている。ポーランドでは独立記念日の行進が行われた。",
-      "note": "プライバシーに配慮し、個人を特定できる情報は含んでいません。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "slug": "SchoolsinItalyScotlandan",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74534"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "イタリアの学校への爆破予告は、現時点で危険性を示す証拠があるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "イタリアのおよそ6300の学校に爆破予告があった。",
-          "span": "イタリアではおよそ6300の学校に爆破予告があった",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "イタリアのメローニ首相は、現時点では危険性を示す証拠はないとしている。",
-          "span": "現時点では危険性を示す証拠はない",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "イタリアの6,000校以上が脅迫を受けた。",
-          "span": "More than 6,000 Italian schools received a threat",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イタリア、スコットランド、北アイルランドの当局は、リスクはないように見えるとしている。",
-          "span": "Authorities in all three countries say there appears to be no risk",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ヨーロッパでは今月に入り旅客機などへの爆破予告が相次いでいる。",
-          "span": "ヨーロッパで今月に入り旅客機などへの爆破予告が相次ぐなか",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "スコットランドと北アイルランドの学校も脅迫の標的となった。",
-          "span": "Scotland and Northern Ireland hit by threats",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "スコット・ベセント米国財務長官は、イランからの脅迫とされるものを受けて移転した。",
-          "span": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ベセント長官は、安全上の懸念から軍事基地で生活するトランプ政権関係者のうちの一人である。",
-          "span": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "イタリアの約6300校に爆破予告があったこと、および当局が危険性を示す証拠はないとしていることは一致している。評価は割れない。",
-      "note": "プライバシー配慮のため、個人名は公表されている範囲で記載。脅迫の対象となった学校の具体的な場所や、脅迫の具体的な内容については、提供されたテキストからは特定できないため、記載しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "消費税減税法案 参院で審議入り 13日から特別委員会で質疑へ",
-      "slug": "消費税減税法案参院で審議入り13日から特別委員会",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74498"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111101052&g=pol&m=rss"
-        }
-      ],
-      "issue": "消費税減税法案の審議は円滑に進むべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "消費税減税関連法案が参議院で審議入りした。",
-          "span": "参議院で審議入りし",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "13日から特別委員会で質疑が行われる予定である。",
-          "span": "特別委員会で質疑が行われます",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "消費減税法案を巡り、参議院での過半数確保に向けて綱引きが行われている。",
-          "span": "参院過半数巡り綱引き",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "国・公（与党）は、高い要求を掲げている状況である。",
-          "span": "要求高く",
-          "src": [
-            {
-              "ty": "wire",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "与党側",
-          "stance": "support",
-          "claim": "審議を円滑に進めたいと述べている。",
-          "span": "審議を円滑に進め",
-          "reason": "野党側の高市総理大臣の出席などの求めに応じることで、審議を円滑に進めたいと考えているため。",
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "野党側",
-          "stance": "attack",
-          "claim": "高市総理大臣の出席などを求めている。",
-          "span": "高市総理大臣の出席など",
-          "reason": null,
-          "attr": null,
-          "premises": [],
-          "counters": [],
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "consensus": "消費税減税法案が参議院で審議入りし、特別委員会で質疑が行われることは合意されているが、審議の円滑な進行を巡る与野党間の評価は割れる。アプリは裁定しない。",
-      "note": null,
+      "consensus": "インドネシアの副大統領ギブラン・ラカブミン・ラカが辞任した。この辞任は、与党連合の亀裂の兆候、プラボウォとジョコ・ウィドド前大統領との間の亀裂、そしてギブランの資格に関する紛争（裁判所による海外教育への疑問提起を含む）の中で起こった。記事中には、この事実に対する特定の評価や立場を表明する主体は存在しない。",
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: issueを「消費税減税法案の審議は円滑に進むべきか？」に変更し、テキストに示された与野党間の対立（審議の円滑化を巡る攻防）をより正確に反映させた。これに伴い、positions[0].claimとspanを、新しいissueに直接対応するよう修正した。",
-          "論理構造の検証: issueの変更に伴い、positions[1]（野党側）のstanceを、審議の円滑な進行に対する「attack」として再解釈した。",
-          "consensus: issueの変更に合わせて、合意されている点と対立点を記述し直した。"
+          "事実欄に記者の評価（「激動の時期」）が混入していたため、検証可能な事実が残らない当該項目を削除した。"
         ]
       }
     }
