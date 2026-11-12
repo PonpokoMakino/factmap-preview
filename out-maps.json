@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-11-11T10:22:50.480Z",
+  "builtAt": "2026-11-12T00:29:06.184Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認",
-      "slug": "アマゾンジャパン独禁法調査で改善計画を提出公取委",
+      "headline": "米紙ウォール・ストリート・ジャーナルは米エヌビディアの取締役会がフアン最高経営責任者の解任を準備していると報じた",
+      "slug": "米紙ウォルストリトジャナルは米エヌビディアの取締",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,67 +14,27 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73911"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de73933"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74529"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602184?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602248?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111100748&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111200161&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111200166&g=int&m=rss"
         }
       ],
-      "issue": "企業は情報漏えいリスク回避のため、どのような対策を講じているか？",
+      "issue": "米紙はエヌビディアがフアンCEOの解任準備を進めていると報じたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "企業の間で不正アクセスによる情報漏えいが相次いでいる。",
-          "span": "不正アクセスによる情報漏えいが相次ぐ中",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "一部の企業では、自社通販サイトを閉鎖する動きが出ている。",
-          "span": "自社の通販サイトを閉鎖",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "一部の企業では、個人情報をあらかじめ持たないようにする動きが出ている。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アマゾンジャパンは、他の通販サイトより価格が高いと目立つ位置に表示されない仕組みをとることで出品者に値下げを余儀なくさせているとして、公正取引委員会から独占禁止法違反の疑いで調査を受けていた。",
-          "span": "他の通販サイトより価格が高いと目立つ位置に表示されない仕組みをとることで出品者に値下げを余儀なくさせているとして、公正取引委員会が独占禁止法違反の疑いで調査を進め",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アマゾンジャパンは、公正取引委員会に対し改善計画を提出した。",
-          "span": "改善計画を提出",
+          "t": "米有力紙ウォール・ストリート・ジャーナルは、米半導体大手エヌビディアがジェンスン・フアンCEOの解任準備を進めていると報じた。",
+          "span": "フアン最高経営責任者の解任を準備している",
           "src": [
             {
               "ty": "press",
@@ -83,37 +43,7 @@
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "公正取引委員会はアマゾンジャパンの改善計画を承認した。",
-          "span": "公取委が承認",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
             },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "内閣府でメールアドレス約6万件が漏えいした。",
-          "span": "内閣府でメアド６万件漏えい",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "内閣府のメールアドレス漏えいは、配信サービスへの不正アクセスが原因であった。",
-          "span": "配信サービスに不正アクセス",
-          "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -122,78 +52,47 @@
         }
       ],
       "positions": [],
-      "consensus": "企業の間で不正アクセスによる情報漏えいが相次いでおり、一部の企業は通販サイトの閉鎖や個人情報を持たないようにする対策を講じている。アマゾンジャパンは独占禁止法違反の疑いで調査を受けた後、改善計画を提出し承認された。内閣府では配信サービスへの不正アクセスによりメールアドレス約6万件が漏えいした。",
-      "note": "プライバシーに配慮し、個人を特定できる情報は含めていない。",
+      "consensus": "エヌビディアがフアンCEOの解任準備を進めていると米紙が報じたことについては合意されているが、その評価や真偽は本記事では示されていない。",
+      "note": "本記事は、特定の報道内容を伝えるものであり、その報道に対する評価や反論は含まれていないため、positionsは空配列です。",
       "audit": {
         "changed": true,
         "issues": [
-          "fact.span: \"一部の企業では、自社通販サイトを閉鎖する動きが出ている。\" のspanを \"自社の通販サイトを閉鎖\" に修正しました。",
-          "fact.span: \"一部の企業では、個人情報をあらかじめ持たないようにする動きが出ている。\" のspanを \"あらかじめ個人情報を持たないようにする\" に修正しました。",
-          "fact.span: \"アマゾンジャパンは、他の通販サイトより価格が高いと目立つ位置に表示されない仕組みをとることで出品者に値下げを余儀なくさせているとして、公正取引委員会から独占禁止法違反の疑いで調査を受けていた。\" のspanを \"他の通販サイトより価格が高いと目立つ位置に表示されない仕組みをとることで出品者に値下げを余儀なくさせているとして、公正取引委員会が独占禁止法違反の疑いで調査を進め\" に修正しました。",
-          "consensus: \"評価や対策の有効性については割れる可能性があるが、本件では明確な対立意見は報じられていない。\" を削除しました。元テキストに記載のない推測であり、事実の記述に留めるべきと判断しました。",
-          "fact spanが原文に無い→除去「あらかじめ個人情報を持たないようにす…」"
+          "争点の立て方: issueがテキストの範囲と一致していなかったため修正しました。元テキストは「エヌビディアが解任準備を進めているか」という内容の『報道があったこと』を伝えているため、issueを「米紙はエヌビディアがフアンCEOの解任準備を進めていると報じたか？」に変更し、stasisおよびconsensusとの整合性を高めました。"
         ]
       }
     },
     {
-      "headline": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-      "slug": "USTreasurychiefBessentmo",
-      "independentSources": 3,
+      "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "slug": "ClasheseruptinBarcelonaa",
+      "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602195?source=rss"
-        },
-        {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/crkgv58pknyeo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/barcelona-erupts-in-violence-after-general-strike?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss"
         }
       ],
-      "issue": "米財務長官が脅迫を受け軍基地に転居した事実は妥当か？",
+      "issue": "スペインでゼネスト中にバルセロナで衝突が発生したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "米財務長官が脅迫を受け軍基地に転居した。",
-          "span": "米財務長官 脅迫受け軍基地に転居",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "米財務長官は、イランからの脅迫を受け、ワシントンDCの自宅から軍基地に転居したと報じられている。",
-          "span": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "イランは、米財務長官の自宅の写真が公開された後、その自宅の所在地を特定したとされている。",
-          "span": "Iran is said to have geo-located Bessent&#039;s $12.5m mansion in Washington, DC after a photo of it was published.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "米国は、マダガスカルとロシアとの軍事協力の拡大について懸念を表明している。",
-          "span": "US warns Madagascar over growing military ties with Russia",
+          "t": "スペインでゼネスト中にバルセロナで衝突が発生した。",
+          "span": "Clashes erupt in Barcelona after thousands join Spain general strike",
           "src": [
             {
               "ty": "press",
@@ -202,27 +101,211 @@
           ]
         },
         {
-          "t": "米国将官は、ロシアとの安全保障契約がアフリカの不安定化を招く可能性があると警告している。",
-          "span": "US general warns the Sahel model-like security deal with Russia could lead to greater instability in Africa.",
+          "t": "ゼネストには数万人が参加した。",
+          "span": "Tens of thousands of people have been taking part in the strike",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ゼネストは、住宅と労働条件をめぐり、国の主要な労働組合によって呼びかけられた。",
+          "span": "called by the country's main unions over housing and th",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "バルセロナで、抗議者たちが警察に花火を投げつけ、ゴミ箱に火をつけた。",
+          "span": "Protesters hurled fireworks at police and set rubbish bins ablaze in Barcelona",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ガザ地区で9人が死亡し、イスラエル軍が医療複合施設を攻撃した。",
+          "span": "Israeli strikes hit medical complex as nine killed across Gaza",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ナセル医療複合施設が攻撃された。",
+          "span": "Nasser Medical Complex in Khan Younis attacked",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "国連は、ガザ地区での大雨に対処するため、緊急支援を訴えている。",
+          "span": "UN appeals for urgent aid to deal with heavy rains in the enclave",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ポーランドの独立記念日を祝う行進に数千人が参加した。",
+          "span": "Thousands march to mark Poland’s Independence Day",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "数千人がワルシャワの通りを行進した。",
+          "span": "Thousands of people have taken to the streets of Warsaw",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "米財務長官が脅迫を受け軍基地に転居したという事実は報じられている。しかし、その妥当性や背景に関する評価は記事からは判断できない。",
-      "note": "Al Jazeeraの記事では、米財務長官の自宅の所在地特定と脅迫の関連性が示唆されているが、直接的な因果関係は断定されていない。BBCの記事は、マダガスカルとロシアの軍事協力に関する米国の懸念を報じており、財務長官の転居とは直接関連しない情報である。",
+      "consensus": "スペインでゼネスト中にバルセロナで衝突が発生したことが報じられている。ガザ地区ではイスラエル軍による医療複合施設への攻撃で9人が死亡したと報じられている。ポーランドでは独立記念日の行進が行われた。",
+      "note": "プライバシーに配慮し、個人を特定できる情報は含んでいません。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "高市首相、財源・支援金の詳細示さず　消費減税法案、参院審議入り",
-      "slug": "高市首相財源支援金の詳細示さず消費減税法案参院審",
+      "headline": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "slug": "SchoolsinItalyScotlandan",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74534"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "イタリアの学校への爆破予告は、現時点で危険性を示す証拠があるか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "イタリアのおよそ6300の学校に爆破予告があった。",
+          "span": "イタリアではおよそ6300の学校に爆破予告があった",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "イタリアのメローニ首相は、現時点では危険性を示す証拠はないとしている。",
+          "span": "現時点では危険性を示す証拠はない",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "イタリアの6,000校以上が脅迫を受けた。",
+          "span": "More than 6,000 Italian schools received a threat",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イタリア、スコットランド、北アイルランドの当局は、リスクはないように見えるとしている。",
+          "span": "Authorities in all three countries say there appears to be no risk",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ヨーロッパでは今月に入り旅客機などへの爆破予告が相次いでいる。",
+          "span": "ヨーロッパで今月に入り旅客機などへの爆破予告が相次ぐなか",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "スコットランドと北アイルランドの学校も脅迫の標的となった。",
+          "span": "Scotland and Northern Ireland hit by threats",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "スコット・ベセント米国財務長官は、イランからの脅迫とされるものを受けて移転した。",
+          "span": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ベセント長官は、安全上の懸念から軍事基地で生活するトランプ政権関係者のうちの一人である。",
+          "span": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イタリアの約6300校に爆破予告があったこと、および当局が危険性を示す証拠はないとしていることは一致している。評価は割れない。",
+      "note": "プライバシー配慮のため、個人名は公表されている範囲で記載。脅迫の対象となった学校の具体的な場所や、脅迫の具体的な内容については、提供されたテキストからは特定できないため、記載しない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "消費税減税法案 参院で審議入り 13日から特別委員会で質疑へ",
+      "slug": "消費税減税法案参院で審議入り13日から特別委員会",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -231,27 +314,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261111de74306"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261112de74498"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111100878&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111100652&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111100125&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111101052&g=pol&m=rss"
         }
       ],
-      "issue": "消費税減税関連法案をめぐる自民党内の議論と、石破氏らの採決前の退席は国民の気持ちを反映したものか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "消費税減税法案の審議は円滑に進むべきか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "消費税減税関連法案が衆議院本会議で採決された。",
-          "span": "衆議院本会議で採決を前に",
+          "t": "消費税減税関連法案が参議院で審議入りした。",
+          "span": "参議院で審議入りし",
           "src": [
             {
               "ty": "press",
@@ -260,8 +335,8 @@
           ]
         },
         {
-          "t": "石破前総理大臣ら4人が採決前に退席した。",
-          "span": "石破前総理大臣ら4人の行動",
+          "t": "13日から特別委員会で質疑が行われる予定である。",
+          "span": "特別委員会で質疑が行われます",
           "src": [
             {
               "ty": "press",
@@ -270,51 +345,21 @@
           ]
         },
         {
-          "t": "自民党の森山前幹事長は、消費税減税関連法案をめぐる党内議論が財源などについて不十分だったと指摘した。",
-          "span": "財源などについての党内議論が不十分だったと指摘した",
+          "t": "消費減税法案を巡り、参議院での過半数確保に向けて綱引きが行われている。",
+          "span": "参院過半数巡り綱引き",
           "src": [
             {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "自民党の森山前幹事長は、消費減税に関して財源の明示を求めた。",
-          "span": "消費減税、財源明示を",
-          "src": [
-            {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "高市首相は消費減税法案について、財源と支援金の詳細を示さなかった。",
-          "span": "財源・支援金の詳細示さず",
+          "t": "国・公（与党）は、高い要求を掲げている状況である。",
+          "span": "要求高く",
           "src": [
             {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "消費減税法案は参議院で審議入りした。",
-          "span": "消費減税法案、参院審議入り",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "高市首相は中低所得者の支援継続を強調した。",
-          "span": "中低所得者の支援継続、高市首相強調",
-          "src": [
-            {
-              "ty": "press",
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
@@ -322,128 +367,46 @@
       ],
       "positions": [
         {
-          "actor": "自民党 森山前幹事長",
-          "stance": "attack",
-          "claim": "消費税減税関連法案をめぐる党内議論は財源などについて不十分だった。",
-          "span": "財源などについての党内議論が不十分だったと指摘した",
-          "reason": "財源などについての党内議論が不十分だった",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "自民党 森山前幹事長",
-          "stance": "attack",
-          "claim": "消費減税に関して財源の明示が必要だ。",
-          "span": "財源明示を",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "石破前総理大臣ら4人",
-          "stance": "neutral",
-          "claim": "採決前の退席は国民の気持ちを反映した行動だ。",
-          "span": "国民の気持ちを反映したもの",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "高市首相",
-          "stance": "neutral",
-          "claim": "消費減税法案について、財源と支援金の詳細を示さなかった。",
-          "span": "財源・支援金の詳細示さず",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "actor": "高市首相",
+          "actor": "与党側",
           "stance": "support",
-          "claim": "中低所得者の支援継続を強調した。",
-          "span": "中低所得者の支援継続、高市首相強調",
+          "claim": "審議を円滑に進めたいと述べている。",
+          "span": "審議を円滑に進め",
+          "reason": "野党側の高市総理大臣の出席などの求めに応じることで、審議を円滑に進めたいと考えているため。",
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "consensus": "消費税減税関連法案が衆議院本会議で採決され、石破氏ら4人が退席した。森山前幹事長は党内議論の不十分さを指摘し、財源明示を求めた。高市首相は財源・支援金の詳細を示さず、中低所得者支援継続を強調した。評価は割れる。",
-      "note": "プライバシー配慮のため、石破氏以外の退席者の個人名は記載しない。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
-      "slug": "Gazasinfrastructurecolla",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/what-do-kyiv-residents-think-about-giving-up-territory-to-russia?traffic_source=rss"
-        }
-      ],
-      "issue": "トランプ氏のBBCに対する名誉毀損訴訟の現状は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "裁判官は、トランプ氏がBBCを相手取って起こした100億ドルの名誉毀損訴訟の続行を認めた。",
-          "span": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "しかし、裁判所は、BBCがフロリダ州法に違反したとするトランプ氏の訴訟の別件については棄却した。",
-          "span": "the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law",
+          "actor": "野党側",
+          "stance": "attack",
+          "claim": "高市総理大臣の出席などを求めている。",
+          "span": "高市総理大臣の出席など",
+          "reason": null,
+          "attr": null,
+          "premises": [],
+          "counters": [],
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
-      "positions": [],
-      "consensus": "裁判官はトランプ氏のBBCに対する名誉毀損訴訟の進行を許可したが、フロリダ州法違反を主張する訴訟の一部は却下された。",
+      "consensus": "消費税減税法案が参議院で審議入りし、特別委員会で質疑が行われることは合意されているが、審議の円滑な進行を巡る与野党間の評価は割れる。アプリは裁定しない。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "著作権: facts[0].t を元の文の語順・言い回しから離れるように再記述しました。",
-          "著作権: facts[1].t を元の文の語順・言い回しから離れるように再記述しました。",
-          "事実欄への評価混入: consensus に含まれていた「評価は割れる／アプリは裁定しない」というメタ記述を削除しました。positionsが空であり、stasisが「事実」であるため、この記述は不適切です。"
+          "争点の立て方: issueを「消費税減税法案の審議は円滑に進むべきか？」に変更し、テキストに示された与野党間の対立（審議の円滑化を巡る攻防）をより正確に反映させた。これに伴い、positions[0].claimとspanを、新しいissueに直接対応するよう修正した。",
+          "論理構造の検証: issueの変更に伴い、positions[1]（野党側）のstanceを、審議の円滑な進行に対する「attack」として再解釈した。",
+          "consensus: issueの変更に合わせて、合意されている点と対立点を記述し直した。"
         ]
       }
     }
