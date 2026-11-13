@@ -1,61 +1,74 @@
 {
-  "builtAt": "2026-11-12T16:13:07.285Z",
+  "builtAt": "2026-11-13T02:40:54.129Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
-      "slug": "LIVEJensenHuangresignsas",
-      "independentSources": 4,
+      "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "slug": "ScandalhitNvidiaCEOJense",
+      "independentSources": 5,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム",
+        "BBC World",
         "Al Jazeera"
       ],
       "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75121"
+        },
         {
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20261112de75078"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602353?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602391?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602393?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111300308&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111300197&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111300039&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111300409&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111300395&g=flash&m=rss"
         },
         {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026111201141&g=int&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111201166&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111201133&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111200865&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-resigns?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss"
         }
       ],
-      "issue": "エヌビディアのジェンスン・フアンCEOは辞任したか？",
+      "issue": "マイクロソフトの接続障害は政府の情報システムに影響を与えたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアンCEOが辞任したと発表した。",
-          "span": "ジェンスン・フアンCEOが辞任したと発表しました",
+          "t": "アメリカのIT大手マイクロソフトは、「マイクロソフト365」と呼ばれるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表した。",
+          "span": "アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表しました。",
           "src": [
             {
               "ty": "press",
@@ -64,8 +77,8 @@
           ]
         },
         {
-          "t": "ジェンスン・フアンCEOは63歳である。",
-          "span": "Jensen Huang, 63",
+          "t": "マイクロソフトの接続障害により、Outlookメール、Teams、Copilotなどのサービスが利用できなくなった。",
+          "span": "disrupting Outlook email, Teams, Copilot and other services.",
           "src": [
             {
               "ty": "press",
@@ -74,28 +87,18 @@
           ]
         },
         {
-          "t": "フアンCEOは、中国の情報機関の協力者とされる女性と親密な関係にあると報じられた。",
-          "span": "中国の情報機関の協力者とされる女性と親密な関係にあると報じられた",
+          "t": "マイクロソフトの接続障害は、日本政府の情報システムにも影響を与えた。",
+          "span": "Microsoft障害 日本政府にも影響",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "フアンCEOは、別の役員との不貞疑惑を受けて辞任したと報じられている。",
-          "span": "affairs raise security concerns",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "フアンCEOは、中国の女性との不貞疑惑を受けて辞任したと報じられている。",
-          "span": "中国女性との不貞疑惑受け",
+          "t": "尾崎官房副長官は、マイクロソフトの大規模障害の影響で政府の情報システム基盤に障害が発生していると明らかにした。",
+          "span": "尾崎官房副長官はマイクロソフトの大規模障害の影響で政府の情報システム基盤に障害が発生していると明らかにした",
           "src": [
             {
               "ty": "press",
@@ -104,27 +107,166 @@
           ]
         },
         {
-          "t": "暫定CEOにクレス氏が就任した。",
-          "span": "暫定ＣＥＯにクレス氏",
+          "t": "アメリカの半導体大手エヌビディアは、創業者のジェンスン・フアン氏がCEOを辞任したと発表した。",
+          "span": "アメリカの半導体大手「エヌビディア」は12日、中国の情報機関の協力者とされる女性と親密な関係にあったなどと報じられた創業者のジェンスン・フアン氏がCEOを辞任したと発表しました。",
           "src": [
             {
               "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ジェンスン・フアン氏は、中国の女性との不貞疑惑を受けて辞任した。",
+          "span": "フアンＣＥＯが辞任　中国女性との不貞疑惑受け―米エヌビディア",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "フアン氏には、別の従業員とも親密な関係にあったと報じられており、不倫は3人目とされる。",
+          "span": "フアン氏、別の従業員とも親密　米エヌビディア、不倫３人目―報道",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "フアン氏の alleged relationships の一つが中国のスパイであったかどうかについて、米国の議員が質問したい意向を示している。",
+          "span": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "エヌビディアの暫定CEOにはクレス氏が就任した。",
+          "span": "エヌビディア 暫定CEOにクレス氏",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "マイクロソフトの接続障害は発生しており、政府の情報システムにも影響を与えた。エヌビディアのCEOフアン氏は辞任した。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "factのspanを元テキストの最小核に修正: Al Jazeeraのfactのspanを \"disrupting Outlook email, Teams, Copilot and other services.\" に修正。",
+          "consensusの内容を簡潔化: \"評価は割れる\" を削除。"
+        ]
+      }
+    },
+    {
+      "headline": "参院議長を務めた自民党の山崎正昭（やまざき・まさあき）参院議員が死去した",
+      "slug": "参院議長を務めた自民党の山崎正昭やまざきまさあき",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75154"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602385?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111300393&g=flash&m=rss"
+        }
+      ],
+      "issue": "山崎正昭元参議院議長は死去したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "山崎正昭元参議院議長が死去した。",
+          "span": "死去",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "山崎正昭氏は13日に亡くなった。",
+          "span": "13日に亡くなりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "山崎正昭氏は84歳だった。",
+          "span": "84歳でした",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "山崎正昭氏は参議院議長を務めた。",
+          "span": "参議院議長を務めた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "山崎正昭氏は自民党の参議院議員だった。",
+          "span": "自民党の山崎正昭参議院議員",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            },
+            {
+              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "エヌビディアのジェンスン・フアンCEOが辞任したという事実は報じられている。辞任の理由については、中国の情報機関協力者とされる女性との関係や、別の役員との不貞疑惑が報じられている。暫定CEOにはクレス氏が就任した。",
-      "note": "Al Jazeeraの記事は、フアンCEOの辞任が米中関係に与える影響について言及しているが、その影響は限定的である可能性を示唆している。時事ドットコムの記事は、この辞任がAI分野におけるエヌビディアの優位性に影響を与える可能性を示唆している。",
+      "consensus": "山崎正昭元参議院議長が84歳で死去したことは事実として合意されている。評価は割れない。",
+      "note": null,
       "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのactorを「Al Jazeera」から「時事ドットコム」へ修正しました。元のJSONでは、Al Jazeeraの記事内容を時事ドットコムの記事として抽出していました。",
-          "positionsのclaimを「フアンCEOの辞任は、AI分野における「一強」状態に暗雲をもたらす可能性がある。」に修正しました。元のJSONでは、Al Jazeeraの記事内容を時事ドットコムの記事として抽出していました。",
-          "consensusから「評価は割れる。」を削除しました。これは抽出エンジンの判断であり、検品対象外のため。",
-          "noteから「プライバシー配慮のため、関係者の詳細な個人情報は記載しない。」を削除しました。これは検品対象外のため。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
@@ -226,8 +368,8 @@
       }
     },
     {
-      "headline": "米ヘグセス国防長官ら「無名戦士の墓」で笑い声 衛兵が叱責",
-      "slug": "米ヘグセス国防長官ら無名戦士の墓で笑い声衛兵が叱",
+      "headline": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
+      "slug": "独メルセデスドイツ国内の工場閉鎖を検討コスト削減",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -236,116 +378,36 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261112de75054"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75168"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602354?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602392?source=rss"
         }
       ],
-      "issue": "ヘグセス米国防長官らがアーリントン国立墓地で衛兵から叱責を受けたことは不適切か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "メルセデス・ベンツグループがドイツ国内の工場閉鎖を検討せざるを得ないとする背景と現状は何か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "ヘグセス米国防長官らがアーリントン国立墓地を妻や側近と訪問した際、笑い声が上がった。",
-          "span": "笑い声が上がるなどして",
+          "t": "メルセデス・ベンツグループはドイツの大手自動車メーカーである。",
+          "span": "ドイツの大手自動車メーカー",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "衛兵がヘグセス国防長官らに対し、大声で叱責した。",
-          "span": "衛兵から大声で叱責される一幕がありました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アーリントン国立墓地は戦没者が埋葬されている場所である。",
-          "span": "戦没者が埋葬されている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ヘグセス米国防長官らがアーリントン国立墓地で衛兵から叱責を受けたことは報じられているが、その行為の妥当性については評価が分かれる。",
-      "note": "プライバシーに配慮し、退役軍人などの具体的な個人名は伏せられています。",
+      "consensus": "メルセデス・ベンツグループは、コスト削減のためドイツ国内の工場の閉鎖を検討せざるを得ないとの認識を明らかにしている。本件に関する評価は、本記事では言及されていない。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "positions[0].claim: \"ヘグセス国防長官らの行動は不適切である\" を \"ヘグセス国防長官らの行動は不適切であると述べている\" に修正。メタ記述の徹底（地の文の断定を回避）。",
-          "facts[0].t: \"ヘグセス米国防長官らがアーリントン国立墓地を訪問した際、笑い声が上がるなどした\" を \"ヘグセス米国防長官らがアーリントン国立墓地を妻や側近と訪問した際、笑い声が上がった\" に修正。元テキストの「妻や側近と」を追加し、事実の正確性を向上。"
+          "issueの立て方を、賛否の対立がない場合に合うよう、背景と現状を問う記述型に修正。",
+          "positions.claimを、メタ記述（〜との認識を明らかにしている）の形式に修正し、著作権に配慮して再記述。"
         ]
-      }
-    },
-    {
-      "headline": "Four people shot in Washington DC",
-      "slug": "FourpeopleshotinWashingt",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602356?source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss"
-        }
-      ],
-      "issue": "ワシントンDCで銃撃事件が発生し、負傷者は出たか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "米ワシントンで銃撃事件が発生し、5人が負傷したと報じられた。",
-          "span": "米ワシントンで銃撃事件 5人負傷",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "ワシントンDCで4人が銃撃されたと報じられた。",
-          "span": "Four people shot in Washington DC",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ワシントンDCで大規模な警察の作戦が進行中であると報じられた。",
-          "span": "A major police operation is underway in Washington DC",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ワシントンDCで銃撃事件が発生し、負傷者が出たという事実は報じられている。",
-      "note": "負傷者数について、Yahoo!ニュースでは5人、Al Jazeeraでは4人と報じられており、食い違いがある。Al Jazeeraは警察の作戦が進行中であることも報じている。",
-      "audit": {
-        "changed": false,
-        "issues": []
       }
     }
   ]
