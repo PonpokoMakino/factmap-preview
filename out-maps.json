@@ -1,14 +1,13 @@
 {
-  "builtAt": "2026-11-13T02:40:54.129Z",
+  "builtAt": "2026-11-13T10:04:21.819Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "slug": "ScandalhitNvidiaCEOJense",
-      "independentSources": 5,
+      "headline": "Watch: How Microsoft services went down around the world",
+      "slug": "WatchHowMicrosoftservice",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム",
         "BBC World",
         "Al Jazeera"
@@ -19,56 +18,32 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20261113de75121"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261112de75078"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602391?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602393?source=rss"
-        },
-        {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026111300308&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111300197&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111300039&g=int&m=rss"
         },
         {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026111300409&g=pol&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111300395&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111201141&g=int&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss"
         }
       ],
-      "issue": "マイクロソフトの接続障害は政府の情報システムに影響を与えたか？",
+      "issue": "マイクロソフト365の接続障害はサイバーセキュリティインシデントが原因か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "アメリカのIT大手マイクロソフトは、「マイクロソフト365」と呼ばれるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表した。",
-          "span": "アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表しました。",
+          "t": "アメリカのIT大手マイクロソフトの「マイクロソフト365」と呼ばれるサービスで接続障害が発生した。",
+          "span": "アメリカのIT大手「マイクロソフト」の「マイクロソフト365」と呼ばれるサービスで接続障害が発生し",
           "src": [
             {
               "ty": "press",
@@ -77,38 +52,8 @@
           ]
         },
         {
-          "t": "マイクロソフトの接続障害により、Outlookメール、Teams、Copilotなどのサービスが利用できなくなった。",
-          "span": "disrupting Outlook email, Teams, Copilot and other services.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "マイクロソフトの接続障害は、日本政府の情報システムにも影響を与えた。",
-          "span": "Microsoft障害 日本政府にも影響",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "尾崎官房副長官は、マイクロソフトの大規模障害の影響で政府の情報システム基盤に障害が発生していると明らかにした。",
-          "span": "尾崎官房副長官はマイクロソフトの大規模障害の影響で政府の情報システム基盤に障害が発生していると明らかにした",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "アメリカの半導体大手エヌビディアは、創業者のジェンスン・フアン氏がCEOを辞任したと発表した。",
-          "span": "アメリカの半導体大手「エヌビディア」は12日、中国の情報機関の協力者とされる女性と親密な関係にあったなどと報じられた創業者のジェンスン・フアン氏がCEOを辞任したと発表しました。",
+          "t": "この障害により、アメリカや日本など広い範囲でサービスが利用できないケースが確認されている。",
+          "span": "アメリカや日本などの広い範囲でサービスが利用できないケースが確認されるなど影響が広がっています",
           "src": [
             {
               "ty": "press",
@@ -117,8 +62,8 @@
           ]
         },
         {
-          "t": "ジェンスン・フアン氏は、中国の女性との不貞疑惑を受けて辞任した。",
-          "span": "フアンＣＥＯが辞任　中国女性との不貞疑惑受け―米エヌビディア",
+          "t": "障害は業務用ソフト「365」で発生し、メールが送れない状況が確認されている。",
+          "span": "業務用ソフトで大規模障害　「３６５」、メール送れず",
           "src": [
             {
               "ty": "press",
@@ -127,8 +72,8 @@
           ]
         },
         {
-          "t": "フアン氏には、別の従業員とも親密な関係にあったと報じられており、不倫は3人目とされる。",
-          "span": "フアン氏、別の従業員とも親密　米エヌビディア、不倫３人目―報道",
+          "t": "政府情報システムにも障害が波及し、霞が関で混乱が生じている。",
+          "span": "政府情報システムに障害　ＭＳから波及、霞が関に混乱",
           "src": [
             {
               "ty": "press",
@@ -137,8 +82,18 @@
           ]
         },
         {
-          "t": "フアン氏の alleged relationships の一つが中国のスパイであったかどうかについて、米国の議員が質問したい意向を示している。",
-          "span": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+          "t": "障害は世界各地に影響を広げている。",
+          "span": "世界各地で影響広がる",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "Teams、Outlook、Copilotなどのサービスが影響を受けている。",
+          "span": "services including Teams, Outlook and AI software Copilot affected",
           "src": [
             {
               "ty": "press",
@@ -147,30 +102,29 @@
           ]
         },
         {
-          "t": "エヌビディアの暫定CEOにはクレス氏が就任した。",
-          "span": "エヌビディア 暫定CEOにクレス氏",
+          "t": "障害は74カ国で続いており、マイクロソフトは復旧に向けて「わずかな成功」を報告している。",
+          "span": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "マイクロソフトの接続障害は発生しており、政府の情報システムにも影響を与えた。エヌビディアのCEOフアン氏は辞任した。",
-      "note": null,
+      "consensus": "マイクロソフト365で接続障害が発生し、世界各地でサービスが利用できない状況が確認されている。障害はTeams、Outlook、Copilotなどのサービスに影響を与えている。マイクロソフトはサイバーセキュリティインシデントが原因ではないと発表しているが、復旧作業は続いている。",
+      "note": "プライバシー配慮のため、個別のユーザーや具体的な被害状況に関する情報は除外した。",
       "audit": {
         "changed": true,
         "issues": [
-          "factのspanを元テキストの最小核に修正: Al Jazeeraのfactのspanを \"disrupting Outlook email, Teams, Copilot and other services.\" に修正。",
-          "consensusの内容を簡潔化: \"評価は割れる\" を削除。"
+          "positionsのclaimを「〜と述べている」の形に修正しました。元は断定的な表現でした。"
         ]
       }
     },
     {
-      "headline": "参院議長を務めた自民党の山崎正昭（やまざき・まさあき）参院議員が死去した",
-      "slug": "参院議長を務めた自民党の山崎正昭やまざきまさあき",
+      "headline": "支援金、勤労者５割対象　高市首相表明、子２人世帯で最大６万円―消費減税法案、参院委で審議",
+      "slug": "支援金勤労者割対象高市首相表明子人世帯で最大万円",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -180,196 +134,167 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75154"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75159"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602385?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602431?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111300393&g=flash&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111300707&g=pol&m=rss"
         }
       ],
-      "issue": "山崎正昭元参議院議長は死去したか？",
-      "stasis": "事実",
+      "issue": "消費税減税法案に関連する支援金について、勤労者を対象とする範囲は適切か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "山崎正昭元参議院議長が死去した。",
-          "span": "死去",
+          "t": "消費税減税に関連する所得に応じた支援金について、勤労者の対象範囲を5割以上とする方向で検討が進められている。",
+          "span": "",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
             },
             {
               "ty": "press",
-              "l": "Yahoo!ニュース"
+              "l": "Yahoo!ニュース 主要"
             },
             {
-              "ty": "wire",
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "山崎正昭氏は13日に亡くなった。",
-          "span": "13日に亡くなりました",
+          "t": "支援金は、子2人世帯の場合、最大6万円となる見込みである。",
+          "span": "子２人世帯で最大６万円",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "山崎正昭氏は84歳だった。",
-          "span": "84歳でした",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            }
-          ]
-        },
-        {
-          "t": "山崎正昭氏は参議院議長を務めた。",
-          "span": "参議院議長を務めた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "山崎正昭氏は自民党の参議院議員だった。",
-          "span": "自民党の山崎正昭参議院議員",
+          "t": "消費税減税関連法案は参議院委員会で審議されている。",
+          "span": "消費減税法案、参院委で審議",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
-            },
-            {
-              "ty": "wire",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "山崎正昭元参議院議長が84歳で死去したことは事実として合意されている。評価は割れない。",
-      "note": null,
+      "consensus": "消費税減税法案に関連する支援金について、勤労者の対象範囲を5割以上とする方向で検討が進められているという事実については合意がある。支援金の具体的な金額や、対象範囲の妥当性については、本記事からは評価は割れていない。",
+      "note": "本記事は、高市総理大臣の発言を中心に、消費税減税法案に関連する支援金の検討状況を報じている。評価や反対意見は含まれていないため、positions は高市総理大臣の発言のみとなる。",
+      "audit": {
+        "changed": false,
+        "issues": [
+          "fact spanが原文に無い→除去「勤労者の5割以上対象で検討…」"
+        ]
+      }
+    },
+    {
+      "headline": "紅白歌合戦ことしの出場歌手発表 初出場は7組【出場歌手一覧】",
+      "slug": "紅白歌合戦ことしの出場歌手発表初出場は7組出場歌",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75147"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602407?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111300849&g=soc&m=rss"
+        }
+      ],
+      "issue": "今年のNHK紅白歌合戦の出場歌手は誰か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "今年のNHK紅白歌合戦の出場歌手が11月13日に発表された。",
+          "span": "ことしの出場歌手が13日発表され",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "紅組と白組合わせて41組の出場が決まった。",
+          "span": "紅組と白組、合わせて41組の出場が決まりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "今年の初出場は7組である。",
+          "span": "ことしの初出場は、＝LOVEやモナキなど合わせて7組です",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "初出場組には＝LOVEやモナキが含まれる。",
+          "span": "＝LOVEやモナキなど",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "NHK紅白歌合戦の出場歌手が決定した。",
+          "span": "出場歌手が決定",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "モナキなど7組がNHK紅白歌合戦に初出場する。",
+          "span": "モナキなど７組初出場",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "今年のNHK紅白歌合戦の出場歌手が11月13日に発表され、紅組と白組合わせて41組の出場が決まりました。初出場は7組で、＝LOVEやモナキなどが含まれます。",
+      "note": "複数の報道機関が同じ事実を報じているため、事実合意型として positions は空配列とする。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "slug": "IsraelistrikeonGazahospi",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss"
-        }
-      ],
-      "issue": "スペインの住宅改革は適切か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "ガザの病院へのイスラエル軍の攻撃により、パレスチナ人6人が死亡したと保健省が発表した。",
-          "span": "kills six Palestinians",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "バルセロナで衝突が発生した。",
-          "span": "Clashes erupt",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "スペインで数万人がストライキに参加した。",
-          "span": "join Spain general strike",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "スペイン議会は住宅改革を承認した。",
-          "span": "approves housing reforms",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "新しい法律は立ち退きを制限する。",
-          "span": "limiting evictions",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "これらの法律の期間は、今後の総選挙の結果に左右される。",
-          "span": "depends on the upcoming snap election outcome",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ガザの病院へのイスラエル軍の攻撃によりパレスチナ人6人が死亡したと報じられている。スペインでは住宅費高騰を巡るストライキの後、立ち退きを制限する住宅改革が議会で承認されたが、その期間は今後の総選挙の結果に左右される。これらの改革の適切性については評価が分かれる可能性がある。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "監査観点5（争点の立て方）: 抽出エンジンが作成したpositions[1]は、スペイン議会による住宅改革の承認という事実であり、争点「スペインの住宅改革は適切か？」に対する立場や主張ではないため、positionsから削除しました。",
-          "監査観点5（争点の立て方）: 抽出エンジンが作成したpositions[0]は、ストライキの理由を述べる事実であり、争点「スペインの住宅改革は適切か？」に対する立場や主張ではないため、positionsから削除しました。テキスト内に当該争点に対する明確な対立する立場が見られないため、positions配列を空にしました。",
-          "監査観点3（spanの最小核）: facts[2].spanを「have been taking part in the strike」から、元テキストのより最小核となる「join Spain general strike」に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
-      "slug": "独メルセデスドイツ国内の工場閉鎖を検討コスト削減",
+      "headline": "2人死亡ひき逃げ 逃走したと見られるトラック 相模原で発見",
+      "slug": "2人死亡ひき逃げ逃走したと見られるトラック相模原",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -378,36 +303,57 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75168"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75522"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602392?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602432?source=rss"
         }
       ],
-      "issue": "メルセデス・ベンツグループがドイツ国内の工場閉鎖を検討せざるを得ないとする背景と現状は何か？",
-      "stasis": "政策",
+      "issue": "相模原市内で発見されたトラックは、海老名市のひき逃げ事件の犯行車両か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "メルセデス・ベンツグループはドイツの大手自動車メーカーである。",
-          "span": "ドイツの大手自動車メーカー",
+          "t": "神奈川県海老名市の交差点で歩行者の女性2人がトラックにひき逃げされ死亡した。",
+          "span": "神奈川県海老名市の交差点で歩行者の女性2人がトラックにひき逃げされて死亡した事件",
           "src": [
             {
               "ty": "press",
-              "l": "NHK"
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "警察が現場から逃走したとみられるトラックを相模原市内で発見した。",
+          "span": "警察が現場から逃走したとみられるトラックを相模原市内で見つけ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警察はトラックの関係者から話を聴いている。",
+          "span": "関係者から話を聴いている",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "メルセデス・ベンツグループは、コスト削減のためドイツ国内の工場の閉鎖を検討せざるを得ないとの認識を明らかにしている。本件に関する評価は、本記事では言及されていない。",
-      "note": null,
+      "consensus": "海老名市の交差点で歩行者の女性2人がトラックにひき逃げされ死亡した事件で、警察が現場から逃走したとみられるトラックを相模原市内で発見し、関係者から事情を聴いているという。",
+      "note": "プライバシー配慮のため、被害者の実名は伏せています。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "issueの立て方を、賛否の対立がない場合に合うよう、背景と現状を問う記述型に修正。",
-          "positions.claimを、メタ記述（〜との認識を明らかにしている）の形式に修正し、著作権に配慮して再記述。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
