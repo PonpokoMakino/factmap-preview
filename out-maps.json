@@ -1,16 +1,15 @@
 {
-  "builtAt": "2026-11-13T10:04:21.819Z",
+  "builtAt": "2026-11-13T17:40:37.356Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Watch: How Microsoft services went down around the world",
-      "slug": "WatchHowMicrosoftservice",
-      "independentSources": 4,
+      "headline": "「長引くと困る」「仕事にならない」　メールやＡＩ使えず、職員ら困惑―米ＭＳ大規模障害で自治体など",
+      "slug": "長引くと困る仕事にならないメルや使えず職員ら困惑",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
       ],
       "links": [
         {
@@ -18,82 +17,202 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20261113de75121"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111300308&g=int&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602468?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111300409&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111301024&g=int&m=rss"
         },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111300903&g=soc&m=rss"
+        }
+      ],
+      "issue": "マイクロソフト365の接続障害は解消したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アメリカのIT大手マイクロソフトで、マイクロソフト365のサービスで接続障害が発生した。",
+          "span": "アメリカのIT大手「マイクロソフト」の「マイクロソフト365」と呼ばれるサービスで発生した接続障害",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "障害は70カ国以上に影響した可能性がある。",
+          "span": "７０カ国以上に影響か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "障害は解消しておらず、一部回復したが不具合が続いている。",
+          "span": "解消せず　一部回復も不具合続く",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日本では比較的安定した状態が続いているとマイクロソフトは説明している。",
+          "span": "日本では比較的安定した状態が続いているとしています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "マイクロソフト365で接続障害が発生し、一部回復したが不具合が続いている。日本では比較的安定しているとマイクロソフトは説明しているが、影響は広く、一部の利用者は困惑している。",
+      "note": "プライバシー配慮のため、障害の影響を受けた個別の自治体名や職員の氏名は記載しない。報道機関の論調を「報道」として positions に含めた。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "actorを「（報道の論調）」から「報道」に修正しました。より簡潔で一般的な表現にしました。",
+          "consensusの内容を、事実と利用者の困惑をより明確に区別するように修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "2人死亡ひき逃げ 逃走したとみられるトラック 相模原で発見",
+      "slug": "2人死亡ひき逃げ逃走したとみられるトラック相模原",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75522"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602473?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111301173&g=soc&m=rss"
+        }
+      ],
+      "issue": "海老名市で発生したひき逃げ事件で、トラックと運転手は特定されたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "13日午後、神奈川県海老名市の交差点で女性2人がトラックにひき逃げされ死亡した。",
+          "span": "13日午後、神奈川県海老名市の交差点で女性2人がトラックにひき逃げされて死亡しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警察は、現場から逃走したとみられるトラックを相模原市内の運送会社で見つけた。",
+          "span": "現場から逃走したとみられるトラックを相模原市内の運送会社で見つけ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警察はトラックの運転手から事情を聴いている。",
+          "span": "運転手から事情を聴いています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "事件はひき逃げの可能性がある。",
+          "span": "ひき逃げか",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "関係者が聴取されている。",
+          "span": "関係者聴取",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "13日午後、神奈川県海老名市の交差点で女性2人がトラックにひき逃げされ死亡した。警察は現場から逃走したとみられるトラックを相模原市内の運送会社で見つけ運転手から事情を聴いている。事件はひき逃げの可能性があると報じられている。",
+      "note": "本件は事実関係の報道に留まり、評価や意見の対立は見られないため、positions は空となります。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
+      "slug": "PortugalvsDenmarkUEFANat",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
         {
           "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss"
         }
       ],
-      "issue": "マイクロソフト365の接続障害はサイバーセキュリティインシデントが原因か？",
+      "issue": "Microsoftのサービス障害の原因と影響は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "アメリカのIT大手マイクロソフトの「マイクロソフト365」と呼ばれるサービスで接続障害が発生した。",
-          "span": "アメリカのIT大手「マイクロソフト」の「マイクロソフト365」と呼ばれるサービスで接続障害が発生し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この障害により、アメリカや日本など広い範囲でサービスが利用できないケースが確認されている。",
-          "span": "アメリカや日本などの広い範囲でサービスが利用できないケースが確認されるなど影響が広がっています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "障害は業務用ソフト「365」で発生し、メールが送れない状況が確認されている。",
-          "span": "業務用ソフトで大規模障害　「３６５」、メール送れず",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "政府情報システムにも障害が波及し、霞が関で混乱が生じている。",
-          "span": "政府情報システムに障害　ＭＳから波及、霞が関に混乱",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "障害は世界各地に影響を広げている。",
-          "span": "世界各地で影響広がる",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "Teams、Outlook、Copilotなどのサービスが影響を受けている。",
-          "span": "services including Teams, Outlook and AI software Copilot affected",
+          "t": "Microsoftは、OutlookやTeamsを含むグローバルなサービス障害からの復旧作業を継続していると発表した。",
+          "span": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage",
           "src": [
             {
               "ty": "press",
@@ -102,8 +221,18 @@
           ]
         },
         {
-          "t": "障害は74カ国で続いており、マイクロソフトは復旧に向けて「わずかな成功」を報告している。",
-          "span": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage",
+          "t": "Microsoftのサービス障害は、Teams、Outlook、AIソフトウェアCopilotなどのサービスに影響を与えている。",
+          "span": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ポルトガルはクリスティアーノ・ロナウドの引退後、初戦をホームでデンマークと対戦する。",
+          "span": "Playing their first game since Cristiano Ronaldo&#039;s retirement, two-time champions Portugal face Denmark at home",
           "src": [
             {
               "ty": "press",
@@ -113,13 +242,11 @@
         }
       ],
       "positions": [],
-      "consensus": "マイクロソフト365で接続障害が発生し、世界各地でサービスが利用できない状況が確認されている。障害はTeams、Outlook、Copilotなどのサービスに影響を与えている。マイクロソフトはサイバーセキュリティインシデントが原因ではないと発表しているが、復旧作業は続いている。",
-      "note": "プライバシー配慮のため、個別のユーザーや具体的な被害状況に関する情報は除外した。",
+      "consensus": "Microsoftはグローバルなサービス障害からの復旧作業を継続しており、Teams、Outlook、Copilotなどのサービスに影響が出ている。ポルトガルはクリスティアーノ・ロナウド引退後、初戦をデンマークと対戦する。",
+      "note": "提供されたテキストには、Microsoftのサービス障害に関する評価や予測、またはポルトガル対デンマークの試合に関する予測は含まれていませんでした。そのため、positions配列は空になっています。また、ポルトガル対デンマークの試合に関する情報は、Microsoftのサービス障害とは別の話題です。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimを「〜と述べている」の形に修正しました。元は断定的な表現でした。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
@@ -195,165 +322,6 @@
         "issues": [
           "fact spanが原文に無い→除去「勤労者の5割以上対象で検討…」"
         ]
-      }
-    },
-    {
-      "headline": "紅白歌合戦ことしの出場歌手発表 初出場は7組【出場歌手一覧】",
-      "slug": "紅白歌合戦ことしの出場歌手発表初出場は7組出場歌",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75147"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602407?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111300849&g=soc&m=rss"
-        }
-      ],
-      "issue": "今年のNHK紅白歌合戦の出場歌手は誰か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "今年のNHK紅白歌合戦の出場歌手が11月13日に発表された。",
-          "span": "ことしの出場歌手が13日発表され",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "紅組と白組合わせて41組の出場が決まった。",
-          "span": "紅組と白組、合わせて41組の出場が決まりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "今年の初出場は7組である。",
-          "span": "ことしの初出場は、＝LOVEやモナキなど合わせて7組です",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "初出場組には＝LOVEやモナキが含まれる。",
-          "span": "＝LOVEやモナキなど",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "NHK紅白歌合戦の出場歌手が決定した。",
-          "span": "出場歌手が決定",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "モナキなど7組がNHK紅白歌合戦に初出場する。",
-          "span": "モナキなど７組初出場",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "今年のNHK紅白歌合戦の出場歌手が11月13日に発表され、紅組と白組合わせて41組の出場が決まりました。初出場は7組で、＝LOVEやモナキなどが含まれます。",
-      "note": "複数の報道機関が同じ事実を報じているため、事実合意型として positions は空配列とする。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "2人死亡ひき逃げ 逃走したと見られるトラック 相模原で発見",
-      "slug": "2人死亡ひき逃げ逃走したと見られるトラック相模原",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75522"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602432?source=rss"
-        }
-      ],
-      "issue": "相模原市内で発見されたトラックは、海老名市のひき逃げ事件の犯行車両か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "神奈川県海老名市の交差点で歩行者の女性2人がトラックにひき逃げされ死亡した。",
-          "span": "神奈川県海老名市の交差点で歩行者の女性2人がトラックにひき逃げされて死亡した事件",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "警察が現場から逃走したとみられるトラックを相模原市内で発見した。",
-          "span": "警察が現場から逃走したとみられるトラックを相模原市内で見つけ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "警察はトラックの関係者から話を聴いている。",
-          "span": "関係者から話を聴いている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "海老名市の交差点で歩行者の女性2人がトラックにひき逃げされ死亡した事件で、警察が現場から逃走したとみられるトラックを相模原市内で発見し、関係者から事情を聴いているという。",
-      "note": "プライバシー配慮のため、被害者の実名は伏せています。",
-      "audit": {
-        "changed": false,
-        "issues": []
       }
     }
   ]
