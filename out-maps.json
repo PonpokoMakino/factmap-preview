@@ -1,40 +1,36 @@
 {
-  "builtAt": "2026-11-13T17:40:37.356Z",
+  "builtAt": "2026-11-14T09:49:58.762Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "「長引くと困る」「仕事にならない」　メールやＡＩ使えず、職員ら困惑―米ＭＳ大規模障害で自治体など",
-      "slug": "長引くと困る仕事にならないメルや使えず職員ら困惑",
+      "headline": "Microsoft says services fully restored after day-long global outage",
+      "slug": "Microsoftsaysservicesful",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "時事ドットコム",
+        "BBC World"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75121"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602468?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75755"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111301024&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111400326&g=int&m=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111300903&g=soc&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
         }
       ],
-      "issue": "マイクロソフト365の接続障害は解消したか？",
+      "issue": "マイクロソフトのサービスで発生した大規模接続障害は全面復旧したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "アメリカのIT大手マイクロソフトで、マイクロソフト365のサービスで接続障害が発生した。",
-          "span": "アメリカのIT大手「マイクロソフト」の「マイクロソフト365」と呼ばれるサービスで発生した接続障害",
+          "t": "マイクロソフトのサービスで大規模な接続障害が発生した。",
+          "span": "サービスで起きた大規模な接続障害",
           "src": [
             {
               "ty": "press",
@@ -42,85 +38,70 @@
             },
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "時事ドットコム"
             },
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "障害は70カ国以上に影響した可能性がある。",
-          "span": "７０カ国以上に影響か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "障害は解消しておらず、一部回復したが不具合が続いている。",
-          "span": "解消せず　一部回復も不具合続く",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "日本では比較的安定した状態が続いているとマイクロソフトは説明している。",
-          "span": "日本では比較的安定した状態が続いているとしています",
+          "t": "障害は14日午後、全面復旧したと発表された。",
+          "span": "14日午後、サービスが全面復旧したと発表しました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "マイクロソフトは、Outlook、Teams、Copilotの根本的な問題への対応が完了したと発表した。",
+          "span": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "マイクロソフト365で接続障害が発生し、一部回復したが不具合が続いている。日本では比較的安定しているとマイクロソフトは説明しているが、影響は広く、一部の利用者は困惑している。",
-      "note": "プライバシー配慮のため、障害の影響を受けた個別の自治体名や職員の氏名は記載しない。報道機関の論調を「報道」として positions に含めた。",
+      "consensus": "マイクロソフトのサービスで起きた大規模接続障害は、14日午後、全面復旧したと発表された。マイクロソフトは顧客に混乱が生じたことについて謝罪している。",
+      "note": "BBC Worldの記事は英語のため、一部spanは原文のまま記載。",
       "audit": {
         "changed": true,
         "issues": [
-          "actorを「（報道の論調）」から「報道」に修正しました。より簡潔で一般的な表現にしました。",
-          "consensusの内容を、事実と利用者の困惑をより明確に区別するように修正しました。"
+          "positionsのclaimを「〜と述べている／発表している」の形に修正しました。",
+          "factsの3番目の項目をpositionsにも追加しました。これは、元テキストのBBCの記事が「マイクロソフトが発表した」内容を伝えているため、事実と同時に発言者の主張としても捉えられるためです。"
         ]
       }
     },
     {
-      "headline": "2人死亡ひき逃げ 逃走したとみられるトラック 相模原で発見",
-      "slug": "2人死亡ひき逃げ逃走したとみられるトラック相模原",
-      "independentSources": 3,
+      "headline": "女児虐待死「しつけの一環、過去に背中たたいた」、体に数十カ所のあざ　逮捕の父親、府警任意聴取に―大阪・枚方",
+      "slug": "女児虐待死しつけの一環過去に背中たたいた体に数十",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75522"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602473?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75748"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111301173&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111400112&g=soc&m=rss"
         }
       ],
-      "issue": "海老名市で発生したひき逃げ事件で、トラックと運転手は特定されたか？",
+      "issue": "大阪・枚方市で発生した女児死亡事件における虐待の有無と、その背景にある認識は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "13日午後、神奈川県海老名市の交差点で女性2人がトラックにひき逃げされ死亡した。",
-          "span": "13日午後、神奈川県海老名市の交差点で女性2人がトラックにひき逃げされて死亡しました",
+          "t": "ことし8月、大阪府枚方市で3歳の女の子が死亡した。",
+          "span": "ことし8月、大阪・枚方市で3歳の女の子が死亡し",
           "src": [
             {
               "ty": "press",
@@ -129,8 +110,8 @@
           ]
         },
         {
-          "t": "警察は、現場から逃走したとみられるトラックを相模原市内の運送会社で見つけた。",
-          "span": "現場から逃走したとみられるトラックを相模原市内の運送会社で見つけ",
+          "t": "死亡した女児の両親が逮捕された。",
+          "span": "両親が逮捕された",
           "src": [
             {
               "ty": "press",
@@ -139,8 +120,8 @@
           ]
         },
         {
-          "t": "警察はトラックの運転手から事情を聴いている。",
-          "span": "運転手から事情を聴いています",
+          "t": "女児の全身には、古いものも含めて数10か所のあざがあったことが警察への取材でわかった。",
+          "span": "全身には古いものも含めて数10か所のあざがあったことが警察への取材でわかりました",
           "src": [
             {
               "ty": "press",
@@ -149,13 +130,19 @@
           ]
         },
         {
-          "t": "事件はひき逃げの可能性がある。",
-          "span": "ひき逃げか",
+          "t": "事件について「虐待の疑いがある」などという通報を受けていた。",
+          "span": "虐待の疑いがある",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "逮捕された父親は、府警の任意聴取に対し、「しつけの一環で、過去に背中をたたいた」と供述した。",
+          "span": "しつけの一環、過去に背中たたいた",
+          "src": [
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -163,13 +150,9 @@
           ]
         },
         {
-          "t": "関係者が聴取されている。",
-          "span": "関係者聴取",
+          "t": "女児の体には数十カ所のあざがあった。",
+          "span": "体に数十カ所のあざ",
           "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -178,16 +161,66 @@
         }
       ],
       "positions": [],
-      "consensus": "13日午後、神奈川県海老名市の交差点で女性2人がトラックにひき逃げされ死亡した。警察は現場から逃走したとみられるトラックを相模原市内の運送会社で見つけ運転手から事情を聴いている。事件はひき逃げの可能性があると報じられている。",
-      "note": "本件は事実関係の報道に留まり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "大阪・枚方市で3歳の女児が死亡し、両親が逮捕された事件で、女児の体に古いものも含め数10か所のあざがあったことがわかった。事件については虐待の疑いがあるとの通報があった。逮捕された父親は「しつけの一環で過去に背中をたたいた」と供述している。",
+      "note": "プライバシーに配慮し、被害者や容疑者の実名は伏せています。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
-      "slug": "PortugalvsDenmarkUEFANat",
+      "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "slug": "TrumpPutinandXiplanhisto",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75768"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "米中ロ3か国首脳会談は19日に開催されるか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アメリカのホワイトハウスは、今月19日にアメリカのトランプ大統領、中国の習近平国家主席、ロシアのプーチン大統領の3者での首脳会談を行うと明らかにした。",
+          "span": "アメリカのホワイトハウスは、今月19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領の3者での首脳会談を行うと明らかにしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "会談では「核兵器の削減」が話し合われる予定である。",
+          "span": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米中ロ3か国首脳会談が19日に開催されることで合意している。",
+      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positions は空となります。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "slug": "Nvidiascandalfalloutwide",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -196,23 +229,19 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss"
+          "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss"
         }
       ],
-      "issue": "Microsoftのサービス障害の原因と影響は何か？",
-      "stasis": "事実",
+      "issue": "スコット・ベッセント氏はハワード・ラトニック氏の商務省がNvidiaのチップの輸出禁止に失敗したと非難しているか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "Microsoftは、OutlookやTeamsを含むグローバルなサービス障害からの復旧作業を継続していると発表した。",
-          "span": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage",
+          "t": "スコット・ベッセント氏は、ハワード・ラトニック氏の商務省がNvidiaのチップの輸出禁止に失敗したと示唆している。",
+          "span": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips",
           "src": [
             {
               "ty": "press",
@@ -221,107 +250,22 @@
           ]
         },
         {
-          "t": "Microsoftのサービス障害は、Teams、Outlook、AIソフトウェアCopilotなどのサービスに影響を与えている。",
-          "span": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot",
+          "t": "その企業はNvidiaのチップを輸出されていると考えられている。",
+          "span": "to a firm thought to",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ポルトガルはクリスティアーノ・ロナウドの引退後、初戦をホームでデンマークと対戦する。",
-          "span": "Playing their first game since Cristiano Ronaldo&#039;s retirement, two-time champions Portugal face Denmark at home",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "Microsoftはグローバルなサービス障害からの復旧作業を継続しており、Teams、Outlook、Copilotなどのサービスに影響が出ている。ポルトガルはクリスティアーノ・ロナウド引退後、初戦をデンマークと対戦する。",
-      "note": "提供されたテキストには、Microsoftのサービス障害に関する評価や予測、またはポルトガル対デンマークの試合に関する予測は含まれていませんでした。そのため、positions配列は空になっています。また、ポルトガル対デンマークの試合に関する情報は、Microsoftのサービス障害とは別の話題です。",
+      "consensus": "スコット・ベッセント氏は、ハワード・ラトニック氏の商務省がNvidiaのチップの輸出禁止に失敗したと示唆している。評価は割れる。",
+      "note": "プライバシー配慮のため、個人名は公表されている範囲で記載。",
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "支援金、勤労者５割対象　高市首相表明、子２人世帯で最大６万円―消費減税法案、参院委で審議",
-      "slug": "支援金勤労者割対象高市首相表明子人世帯で最大万円",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261113de75159"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602431?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111300707&g=pol&m=rss"
-        }
-      ],
-      "issue": "消費税減税法案に関連する支援金について、勤労者を対象とする範囲は適切か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "消費税減税に関連する所得に応じた支援金について、勤労者の対象範囲を5割以上とする方向で検討が進められている。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "支援金は、子2人世帯の場合、最大6万円となる見込みである。",
-          "span": "子２人世帯で最大６万円",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "消費税減税関連法案は参議院委員会で審議されている。",
-          "span": "消費減税法案、参院委で審議",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "消費税減税法案に関連する支援金について、勤労者の対象範囲を5割以上とする方向で検討が進められているという事実については合意がある。支援金の具体的な金額や、対象範囲の妥当性については、本記事からは評価は割れていない。",
-      "note": "本記事は、高市総理大臣の発言を中心に、消費税減税法案に関連する支援金の検討状況を報じている。評価や反対意見は含まれていないため、positions は高市総理大臣の発言のみとなる。",
-      "audit": {
-        "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「勤労者の5割以上対象で検討…」"
-        ]
       }
     }
   ]
