@@ -1,247 +1,81 @@
 {
-  "builtAt": "2026-11-14T09:49:58.762Z",
+  "builtAt": "2026-11-15T00:23:04.854Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Microsoft says services fully restored after day-long global outage",
-      "slug": "Microsoftsaysservicesful",
-      "independentSources": 3,
+      "headline": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "slug": "Copperwireupgradecausedn",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "時事ドットコム",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75755"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111400326&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "マイクロソフトのサービスで発生した大規模接続障害は全面復旧したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "マイクロソフトのサービスで大規模な接続障害が発生した。",
-          "span": "サービスで起きた大規模な接続障害",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            },
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "障害は14日午後、全面復旧したと発表された。",
-          "span": "14日午後、サービスが全面復旧したと発表しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "マイクロソフトは、Outlook、Teams、Copilotの根本的な問題への対応が完了したと発表した。",
-          "span": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "マイクロソフトのサービスで起きた大規模接続障害は、14日午後、全面復旧したと発表された。マイクロソフトは顧客に混乱が生じたことについて謝罪している。",
-      "note": "BBC Worldの記事は英語のため、一部spanは原文のまま記載。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsのclaimを「〜と述べている／発表している」の形に修正しました。",
-          "factsの3番目の項目をpositionsにも追加しました。これは、元テキストのBBCの記事が「マイクロソフトが発表した」内容を伝えているため、事実と同時に発言者の主張としても捉えられるためです。"
-        ]
-      }
-    },
-    {
-      "headline": "女児虐待死「しつけの一環、過去に背中たたいた」、体に数十カ所のあざ　逮捕の父親、府警任意聴取に―大阪・枚方",
-      "slug": "女児虐待死しつけの一環過去に背中たたいた体に数十",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75748"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111400112&g=soc&m=rss"
-        }
-      ],
-      "issue": "大阪・枚方市で発生した女児死亡事件における虐待の有無と、その背景にある認識は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ことし8月、大阪府枚方市で3歳の女の子が死亡した。",
-          "span": "ことし8月、大阪・枚方市で3歳の女の子が死亡し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "死亡した女児の両親が逮捕された。",
-          "span": "両親が逮捕された",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "女児の全身には、古いものも含めて数10か所のあざがあったことが警察への取材でわかった。",
-          "span": "全身には古いものも含めて数10か所のあざがあったことが警察への取材でわかりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "事件について「虐待の疑いがある」などという通報を受けていた。",
-          "span": "虐待の疑いがある",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "逮捕された父親は、府警の任意聴取に対し、「しつけの一環で、過去に背中をたたいた」と供述した。",
-          "span": "しつけの一環、過去に背中たたいた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "女児の体には数十カ所のあざがあった。",
-          "span": "体に数十カ所のあざ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "大阪・枚方市で3歳の女児が死亡し、両親が逮捕された事件で、女児の体に古いものも含め数10か所のあざがあったことがわかった。事件については虐待の疑いがあるとの通報があった。逮捕された父親は「しつけの一環で過去に背中をたたいた」と供述している。",
-      "note": "プライバシーに配慮し、被害者や容疑者の実名は伏せています。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "slug": "TrumpPutinandXiplanhisto",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75768"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "米中ロ3か国首脳会談は19日に開催されるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "アメリカのホワイトハウスは、今月19日にアメリカのトランプ大統領、中国の習近平国家主席、ロシアのプーチン大統領の3者での首脳会談を行うと明らかにした。",
-          "span": "アメリカのホワイトハウスは、今月19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領の3者での首脳会談を行うと明らかにしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "会談では「核兵器の削減」が話し合われる予定である。",
-          "span": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米中ロ3か国首脳会談が19日に開催されることで合意している。",
-      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "slug": "Nvidiascandalfalloutwide",
-      "independentSources": 2,
-      "sources": [
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261115de76032"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111500091&g=int&m=rss"
+        },
+        {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss"
         }
       ],
-      "issue": "スコット・ベッセント氏はハワード・ラトニック氏の商務省がNvidiaのチップの輸出禁止に失敗したと非難しているか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "アメリカでの航空機運航停止の原因と影響は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "スコット・ベッセント氏は、ハワード・ラトニック氏の商務省がNvidiaのチップの輸出禁止に失敗したと示唆している。",
-          "span": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips",
+          "t": "アメリカ全土の空港で航空機の運航を停止する措置がとられた。",
+          "span": "航空機の運航を停止する措置がとられた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "14日も4000便あまりが欠航する見通しとなり、混乱が続いている。",
+          "span": "4000便あまりが欠航する見通しになる",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ダフィー運輸長官は、運航停止は通信設備を更新する際に障害が起きたためだと述べた。",
+          "span": "通信設備を更新する際に障害が起きた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "全米の空港離陸停止は、通信線の新旧切り替えで障害が発生したためである。",
+          "span": "通信線の新旧切り替えで障害発生",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "アメリカの運輸長官は、銅線のアップグレードが全国的なフライト停止を引き起こしたと述べた。",
+          "span": "Copper wire upgrade caused nationwide flight suspension",
           "src": [
             {
               "ty": "press",
@@ -250,8 +84,28 @@
           ]
         },
         {
-          "t": "その企業はNvidiaのチップを輸出されていると考えられている。",
-          "span": "to a firm thought to",
+          "t": "アメリカのフライトは再開され、運航停止は老朽化した技術が原因とされている。",
+          "span": "ageing technology blamed for outage",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "全米の空港離陸停止は15日には正常化する見込みである。",
+          "span": "１５日正常化",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "米政府は、この混乱が「無能」または「欠陥のある機器」によって引き起こされたかどうかを調査しようとしている。",
+          "span": "whether the chaos was caused by \"incompetence\" or faulty equipment",
           "src": [
             {
               "ty": "press",
@@ -261,8 +115,167 @@
         }
       ],
       "positions": [],
-      "consensus": "スコット・ベッセント氏は、ハワード・ラトニック氏の商務省がNvidiaのチップの輸出禁止に失敗したと示唆している。評価は割れる。",
-      "note": "プライバシー配慮のため、個人名は公表されている範囲で記載。",
+      "consensus": "アメリカ全土の空港で航空機の運航停止措置がとられ、通信設備の更新や老朽化した技術が原因とされている。14日も混乱が続き、15日には正常化する見込みである。政府は原因について調査を進めている。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "横田めぐみさん拉致から49年　早紀江さん「会いたい」",
+      "slug": "横田めぐみさん拉致から49年早紀江さん会いたい",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261114de75986"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602620?source=rss"
+        }
+      ],
+      "issue": "横田めぐみさんの帰国は実現するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "横田めぐみさんが北朝鮮に拉致されてから49年が経過した。",
+          "span": "横田めぐみさんが北朝鮮に拉致されてから15日で49年です",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "横田めぐみさんは中学1年生の時に拉致された。",
+          "span": "中学1年生だった横田めぐみさんが北朝鮮に拉致されてから",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "横田めぐみさんが北朝鮮に拉致されてから49年が経過し、母親の早紀江さんは会いたいと訴え、帰国の実現を求めている。",
+      "note": "プライバシー配慮のため、被害者の実名は伏せ字にせず、公表されている情報に基づき記載しています。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: 元のconsensusに「評価は割れる。」という記述がありましたが、元テキストからは早紀江さんの訴えのみが記述されており、評価が割れているという事実は確認できませんでした。そのため、削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "インフルエンサー「あっすん」 風営法違反疑いで逮捕",
+      "slug": "インフルエンサあっすん風営法違反疑いで逮捕",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261115de76043"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602608?source=rss"
+        }
+      ],
+      "issue": "インフルエンサー「あっすん」を含む3人は風俗営業法違反の疑いで逮捕されたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "インフルエンサー「あっすん」を含む風俗店経営者ら3人が、風俗営業法違反の疑いで逮捕された。",
+          "span": "風営法違反疑いで逮捕",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "彼らは、名古屋市中心部の繁華街のバーで、無許可で従業員に客の接待をさせていた疑いが持たれている。",
+          "span": "名古屋市中心部の繁華街のバーで無許可で従業員に客の接待をさせていた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "「あっすん」はYouTubeの番組に出演するなど、インフルエンサーとして活動している。",
+          "span": "YouTubeの番組に出演するなどインフルエンサーとして活動している",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "インフルエンサー「あっすん」を含む3人が風俗営業法違反の疑いで逮捕されたという事実は合意されている。本アプリは逮捕の妥当性や背景に関する評価は行わない。",
+      "note": "",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "facts[0].spanが空文字だったため、元テキストの最小核「風営法違反疑いで逮捕」に修正しました。",
+          "fact spanが原文に無い→除去「風俗営業法違反疑いで逮捕…」"
+        ]
+      }
+    },
+    {
+      "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "slug": "UShasfloatedUkrainecedin",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261115de76042"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "アメリカはNATO加盟と引き換えにウクライナ軍のドンバス地域からの撤退を打診したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ロシアによる侵攻が続いている。",
+          "span": "ロシアによる侵攻が続く中",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシアによる侵攻が続いている。ゼレンスキー大統領はアメリカからNATO加盟と引き換えにドンバス地域からの軍撤退を打診されたと述べたが、アメリカ当局者は多くのアイデアが議論されていると述べるにとどまった。",
+      "note": "アメリカ側はゼレンスキー大統領の発言を確認していない。",
       "audit": {
         "changed": false,
         "issues": []
