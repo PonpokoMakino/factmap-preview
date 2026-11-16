@@ -1,119 +1,10 @@
 {
-  "builtAt": "2026-11-15T23:50:13.529Z",
+  "builtAt": "2026-11-16T04:55:11.683Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "slug": "SuspectedChinaspylinkedt",
-      "independentSources": 4,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム",
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602744?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111600076&g=int&m=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/15/us-treasury-chief-calls-for-outsider-to-lead-embattled-tech-firm-nvidia?traffic_source=rss"
-        }
-      ],
-      "issue": "NVIDIAの経営陣刷新と、米国による対中輸出規制遵守の状況は妥当か？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "フアン氏がNVIDIAへの復帰について協議していると報じられた。",
-          "span": "フアン氏がNVIDIA復帰協議",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "NVIDIAのCEOは、経営陣は社外から来るべきだと述べた。",
-          "span": "社外から",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "ベセント米財務長官は、NVIDIAに対し抜本的な刷新を要求した。",
-          "span": "抜本的刷新を要求",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "中国のスパイと疑われる人物が、2025年にNVIDIAを離れるとMegaspeedが報じた。",
-          "span": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "NVIDIAのスキャンダルにより、米国の規制にもかかわらず、高度なAIチップが中国に渡ったかどうかが問われている。",
-          "span": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ベセント米財務長官は、NVIDIAの取締役会に対し、米国による輸出管理措置の遵守状況を示すよう10日間の猶予を与えた。",
-          "span": "",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "NVIDIAの経営陣刷新と、米国による対中輸出規制遵守の状況について、ベセント米財務長官は刷新と遵守状況の提示を要求している。CEOは社外からの経営陣登用を示唆している。フアン氏の復帰協議も報じられている。評価は割れる。",
-      "note": "BBC Worldの記事は、中国のスパイ疑惑とAIチップの中国流出の可能性に言及しているが、直接的なNVIDIAの経営陣や輸出規制遵守に関する要求や評価は含まれていないため、factsに留めた。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factsのt: \"フアン氏がNVIDIAへの復帰について協議していると報じられた。\" のspanを \"フアン氏がNVIDIA復帰協議\" に修正しました。元テキストの表現に近づけました。",
-          "factsのt: \"NVIDIAのCEOは、経営陣は社外から来るべきだと述べた。\" のspanを \"社外から\" に修正しました。元テキストの表現に近づけました。",
-          "factsのt: \"ベセント米財務長官は、NVIDIAに対し抜本的な刷新を要求した。\" のspanを \"抜本的刷新を要求\" に修正しました。元テキストの表現に近づけました。",
-          "factsのt: \"中国のスパイと疑われる人物が、2025年にNVIDIAを離れるとMegaspeedが報じた。\" のspanを \"Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says\" に修正しました。元テキストの表現に近づけました。",
-          "factsのt: \"NVIDIAのスキャンダルにより、米国の規制にもかかわらず、高度なAIチップが中国に渡ったかどうかが問われている。\" のspanを \"The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.\" に修正しました。元テキストの表現に近づけました。",
-          "factsのt: \"ベセント米財務長官は、NVIDIAの取締役会に対し、米国による輸出管理措置の遵守状況を示すよう10日間の猶予を与えた。\" のspanを \"Scott Bessent gives Nvidia's board 10 days to show the company's compliance with US export controls.\" に修正しました。元テキストの表現に近づけました。",
-          "positionsのclaim: \"NVIDIAに対し抜本的な刷新を要求する。\" のspanを \"抜本的刷新を要求\" に修正しました。元テキストの表現に近づけました。",
-          "positionsのclaim: \"NVIDIAの取締役会に対し、米国による輸出管理措置の遵守状況を示すよう10日間の猶予を与える。\" のspanを \"Scott Bessent gives Nvidia's board 10 days to show the company's compliance with US export controls.\" に修正しました。元テキストの表現に近づけました。"
-        ]
-      }
-    },
-    {
-      "headline": "福岡市長選挙 再選挙へ 候補者13人 法定得票数に届かず",
-      "slug": "福岡市長選挙再選挙へ候補者13人法定得票数に届か",
+      "headline": "お笑いグループ「ジャングルポケット」元メンバー斉藤慎二（さいとう・しんじ）被告に東京地裁は懲役４年を言い渡した",
+      "slug": "お笑いグルプジャングルポケット元メンバ斉藤慎二さ",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -123,27 +14,27 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261115de76099"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261115de76096"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76383"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602753?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6602765?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111600018&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111600299&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111600061&g=soc&m=rss"
         }
       ],
-      "issue": "福岡市長選挙で再選挙が行われることは妥当か？",
-      "stasis": "政策",
+      "issue": "元ジャンポケ斉藤慎二被告の性的暴行事件における判決内容",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "福岡市長選挙では、新人13人の候補者が争ったが、いずれも当選に必要な有効投票数の4分の1を獲得できなかった。",
-          "span": "いずれの候補者も当選に必要な有効投票数の4分の1を獲得できず",
+          "t": "お笑いトリオ「ジャングルポケット」の元メンバーである斉藤慎二被告が、20代の女性に対する性的暴行の罪などに問われていた。",
+          "span": "お笑いトリオ「ジャングルポケット」のメンバーだった斉藤慎二被告が20代の女性に性的暴行をした罪などに問われた",
           "src": [
             {
               "ty": "press",
@@ -152,39 +43,31 @@
           ]
         },
         {
-          "t": "福岡市長選挙の結果、公職選挙法に基づき再選挙が行われることになった。",
-          "span": "公職選挙法に基づき再選挙が行われることになりました",
+          "t": "東京地方裁判所が斉藤慎二被告に対し判決を言い渡した。",
+          "span": "言い渡した",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "政令指定都市の市長選挙で再選挙が行われるのは、過去に例がある。",
-          "span": "政令指定都市の市長選挙で再選挙が行われるのは、…",
+          "t": "斉藤慎二被告に懲役4年の実刑判決が言い渡された。",
+          "span": "懲役4年の実刑判決",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "福岡市長選挙で再選挙が確実となった。",
-          "span": "福岡市長選 再選挙が確実に",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "福岡市長選挙は、法定得票数に届かず再選挙となる。",
-          "span": "福岡市長選が再選挙に",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -192,18 +75,8 @@
           ]
         },
         {
-          "t": "政令指定都市の市長選挙で再選挙が行われるのは、今回が2例目である。",
-          "span": "政令市２例目",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "松山市長選挙では、新人3人による争いの結果、新人で元愛媛県議会議員の中野泰誠氏が初当選した。",
-          "span": "新人3人による争いとなった松山市長選挙は、新人で元愛媛県議会議員の中野泰誠氏が初めての当選を果たしました",
+          "t": "東京地方裁判所は、斉藤被告の犯行動機について「みずからの性欲を満たすために行ったもので、酌むべき点はない」と判断した。",
+          "span": "みずからの性欲を満たすために行った犯行の動機に酌むべき点はない",
           "src": [
             {
               "ty": "press",
@@ -213,46 +86,130 @@
         }
       ],
       "positions": [],
-      "consensus": "福岡市長選挙では、いずれの候補者も当選に必要な有効投票数の4分の1を獲得できなかったため、公職選挙法に基づき再選挙が行われることになった。政令指定都市の市長選挙で再選挙が行われるのは2例目である。松山市長選挙では、新人の中野泰誠氏が初当選した。",
-      "note": "福岡市長選挙に関する情報と、比較対象として松山市長選挙の結果が記載されている。福岡市長選挙の再選挙に関する評価や意見は、提示されたテキストからは読み取れないため、positionsは空となる。",
+      "consensus": "元ジャンポケ斉藤慎二被告に対し、性的暴行の罪で懲役4年の実刑判決が言い渡されたことについては合意されている。判決の妥当性に関する評価は、本記事では示されていないため、アプリは裁定しない。",
+      "note": "本記事は裁判の判決を報じるものであり、判決に対する外部からの評価や意見は含まれていない。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "issue: テキストに判決の妥当性に関する対立する意見がないため、問いの形式から事実報告の形式に修正しました。"
+        ]
       }
     },
     {
-      "headline": "Estonia to close border crossings with Russia after alleged arson attack",
-      "slug": "Estoniatoclosebordercros",
-      "independentSources": 3,
+      "headline": "高市首相ASEAN・APECへ出発 “国際秩序維持・強化に向け発信”",
+      "slug": "高市首相ASEANAPECへ出発国際秩序維持強化",
+      "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76382"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111600060&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111500177&g=pol&m=rss"
+        }
+      ],
+      "issue": null,
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "高市総理大臣は16日午前に日本を出発した。",
+          "span": "16日午前、日本を出発しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣はASEAN関連首脳会議やAPEC首脳会議に出席する。",
+          "span": "ASEANの関連首脳会議やAPECの首脳会議などに出席するため",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK"
+            }
+          ]
+        },
+        {
+          "t": "高市総理大臣はフィリピンと中国を訪問する。",
+          "span": "フィリピン・中国訪問へ出発",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "訪問先はマニラと深センで、そこで国際会議が開催される。",
+          "span": "マニラと深センで国際会議",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日中首脳会談は困難である。",
+          "span": "日中首脳会談は困難",
+          "src": [
+            {
+              "ty": "wire",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "高市総理大臣が国際会議に出席するため出発したこと、およびその目的については、記事間で事実として合意されている。評価はアプリでは裁定しない。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "監査観点5（争点の立て方）に違反：issueがテキストにない評価的な問いになっており、テキストに対立する立場が示されていないため、issueをnullに修正しました。",
+          "issueがnullになったため、positions[0].stanceをnullに修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "slug": "AustralianMPfullofgratit",
+      "independentSources": 2,
+      "sources": [
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602742?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss"
         }
       ],
-      "issue": "ヨルダンで教会銃乱射事件に関与した3人に死刑判決が下されたか？",
+      "issue": "オーストラリアの国会議員への攻撃とメキシコの麻薬王の死去に関する報道は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "ヨルダンで教会銃乱射事件に関与した3人に死刑判決が下された。",
-          "span": "Three men sentenced to death in Jordan over fatal church mass shooting",
+          "t": "オーストラリアの国会議員が病院を退院した。",
+          "span": "leaving hospital",
           "src": [
             {
               "ty": "press",
@@ -261,8 +218,88 @@
           ]
         },
         {
-          "t": "ヨルダンでカラクの教会での致命的な銃撃事件に関与した3人に死刑判決が下された。",
-          "span": "Jordan sentences three men to death over deadly church attack in Karak",
+          "t": "彼女は両足を失った。",
+          "span": "lost both of her legs",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "これは自動車による攻撃の後だった。",
+          "span": "after the alleged attack",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "攻撃は彼女の選挙事務所の外で発生した。",
+          "span": "outside her electorate office",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "攻撃は4週間前に発生した。",
+          "span": "four weeks ago",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "メキシコの麻薬王ミゲル・アンヘル・フェリックス・ガラルドが80歳で死去した。",
+          "span": "dies age 80",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "彼は「ボスのボス」として知られていた。",
+          "span": "Known as the 'Boss of Bosses'",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "彼は1980年代にグアダラハラ・カルテルの首領だった。",
+          "span": "he was the head of all-powerful Guadalajara Cartel in the 1980s",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "彼の逮捕によりカルテルは解体された。",
+          "span": "his arrest broke u",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "彼はグアダラハラ・カルテルの創設者である。",
+          "span": "Founder of Guadalajara cartel",
           "src": [
             {
               "ty": "press",
@@ -271,110 +308,113 @@
           ]
         },
         {
-          "t": "ギリシャ正教会の葬儀で発生した攻撃により、9人が死亡し34人が負傷した。",
-          "span": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month",
+          "t": "彼は数十年間服役した後、病院で死去した。",
+          "span": "dies in hospital after decades in prison",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "彼は1985年の米国の麻薬取締官とメキシコ人パイロットの殺害で有罪判決を受けていた。",
+          "span": "convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ヨルダンで教会銃乱射事件に関与した3人に死刑判決が下された。",
-      "note": "プライバシー配慮のため、事件の詳細は省略。",
+      "consensus": "オーストラリアの国会議員が病院を退院し、自動車による攻撃で両足を失ったことが報じられた。また、メキシコの麻薬王ミゲル・アンヘル・フェリックス・ガラルドが80歳で死去し、グアダラハラ・カルテルの創設者であり、過去の犯罪歴と服役後の死去が報じられた。評価は割れない。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[7].t: 「強力な」という評価語が混入していたため削除し、「彼は1980年代にグアダラハラ・カルテルの首領だった。」に修正しました。"
+        ]
       }
     },
     {
-      "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "slug": "ZelenskyurgesUSandMuskto",
+      "headline": "NTTドコモ 一部利用者で通信障害 今月3度目 原因調査を急ぐ",
+      "slug": "NTTドコモ一部利用者で通信障害今月3度目原因調",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "BBC World"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261115de76292"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76369"
         },
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76330"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6602767?source=rss"
         }
       ],
-      "issue": "ウクライナにおける重機の遠隔操作によるがれき処理の実証実験は本格的に開始されたか？",
+      "issue": "NTTドコモで発生した通信障害の状況と原因は何か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "日本の支援により、ウクライナで重機を遠隔操作してがれきを処理する実証実験が本格的に始まった。",
-          "span": "日本の支援で重機を遠隔操作しがれきを処理する実証実験が本格的に始まりました",
+          "t": "NTTドコモの一部利用者で携帯電話サービスが利用しにくい状況が発生した。",
+          "span": "一部の利用者の間で携帯電話のサービスが利用しにくい状況が発生している",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "ゼレンスキー大統領は、軍が使用するアメリカの衛星通信サービス（Starlink）が制限されていると述べている。",
-          "span": "軍が使用するアメリカの衛星通信サービスが制限され",
+          "t": "この通信障害は16日午前10時すぎから発生している。",
+          "span": "16日午前10時すぎから",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "ゼレンスキー大統領は、衛星通信サービスの制限により、ロシア軍の無人機の迎撃に支障が出ていると述べている。",
-          "span": "ロシア軍の無人機の迎撃に支障が出ている",
+          "t": "今回の通信障害は今月に入って3度目である。",
+          "span": "今月3度目",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "ゼレンスキー大統領は、衛星通信サービスの制限解除を訴えている。",
-          "span": "改めて制限を解除するよう訴えてい",
+          "t": "NTTドコモは通信障害の原因調査を急いでいる。",
+          "span": "原因調査を急ぐ",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "NHK"
             }
           ]
         },
         {
-          "t": "ゼレンスキー大統領は、インターネットの速度低下がロシアの攻撃を阻止することを困難にしていると述べている。",
-          "span": "the slowed-down internet is making it difficult to stop Russian attacks",
+          "t": "Yahoo!ニュースは、今回の通信障害が「5G SA」で発生したと報じている。",
+          "span": "ドコモ「5G SA」でまた通信障害",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Yahoo!ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日本の支援により、ウクライナで重機を遠隔操作してがれきを処理する実証実験が本格的に始まった。ゼレンスキー大統領は、アメリカの衛星通信サービス（Starlink）の制限解除を訴えている。",
-      "note": "ゼレンスキー大統領の発言は、NHKとBBCの両方の報道で確認された。",
+      "consensus": "NTTドコモで今月3度目となる通信障害が発生し、同社は原因調査を進めている。評価は割れる／アプリは裁定しない。",
+      "note": "",
       "audit": {
-        "changed": true,
-        "issues": [
-          "consensus: \"その評価は割れる\" という記述は元テキストにないため削除しました。",
-          "positions[0].stance: \"attack\" は元テキストから直接読み取れないため \"request\" に修正しました。",
-          "positions[1].stance: \"attack\" は元テキストから直接読み取れないため \"request\" に修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
