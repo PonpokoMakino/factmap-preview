@@ -1,147 +1,7 @@
 {
-  "builtAt": "2026-11-16T13:22:17.340Z",
+  "builtAt": "2026-11-16T22:58:08.183Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
-    {
-      "headline": "捜査関係者によると、東京・中野で女性が刺され重体となった。刺した男は逃走している",
-      "slug": "捜査関係者によると東京中野で女性が刺され重体とな",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76817"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76620"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602837?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111601006&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111601014&g=flash&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111600999&g=flash&m=rss"
-        }
-      ],
-      "issue": "東京・中野区で発生した女性刺殺事件の容疑者は逮捕されたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "東京・中野区の路上で、20代くらいの女性が刃物で刺され、死亡が確認された。",
-          "span": "東京 中野区の路上で20代くらいの女性が刃物で刺された事件で、意識不明になっていた女性の死亡が確認された",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "事件は16日夜に発生した。",
-          "span": "16日夜",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "警視庁は、事件に関与したとして30代から40代くらいの男を逮捕した。",
-          "span": "30代から40代くらいの男の容疑者",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "逮捕された男は強盗殺人未遂容疑で逮捕された。",
-          "span": "強盗殺人未遂容疑で男を逮捕",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "警視庁は、逃走した男の身柄を確保した。",
-          "span": "逃走した男の身柄を確保した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "捜査関係者によると、刺した男は逃走していた。",
-          "span": "刺した男は逃走している",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "東京・豊島区のマンションで、以前ファッション雑誌の専属モデルだった30代の女性が、内縁の夫から暴行を受けて殺害された疑いがある。",
-          "span": "以前、ファッション雑誌の専属モデルだった30代の女性に殴るなどの暴行を加えて殺害した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この事件で、42歳の内縁の夫が殺人の疑いで警視庁に逮捕された。",
-          "span": "42歳の内縁の夫が殺人の疑いで警視庁に逮捕",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この事件はことし7月に発生した。",
-          "span": "ことし7月",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "東京・中野区の路上で女性が刺され死亡した事件で、警視庁は強盗殺人未遂容疑で男を逮捕した。また、東京・豊島区のマンションで発生したファッション雑誌元モデルの女性殺害事件で、内縁の夫が殺人の疑いで逮捕された。",
-      "note": "プライバシーに配慮し、被害者や容疑者の特定につながる詳細情報は最小限に留めた。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensus: 元のconsensusに「これらの事件に関する評価は割れる。」という記述がありましたが、元テキストおよび抽出されたfacts/positionsからは評価が割れているという事実は読み取れないため削除しました。また、consensusの内容を元テキストの事実関係に沿って簡潔に修正しました。",
-          "note: 元のnoteに「プライバシーに配慮し、被害者や容疑者の特定につながる詳細情報は最小限に留めた。」という記述がありましたが、これは検品係の判断ではなく、抽出エンジンの意図や方針に関するメタ記述と判断し、削除しました。ただし、事実として残すべき情報が削られているわけではないため、note自体は削除せず、事実関係の要約として残しました。"
-        ]
-      }
-    },
     {
       "headline": "米中ロ「世界平和」協議　「反ファシズム」と日本けん制か―３首脳会談、１９日午後開催・中国",
       "slug": "米中ロ世界平和協議反ファシズムと日本けん制か首脳",
@@ -257,88 +117,52 @@
       }
     },
     {
-      "headline": "コカイン摘発、過去最多更新ペース　若者へのまん延懸念―密輸阻止へ水際対策強化・警視庁",
-      "slug": "コカイン摘発過去最多更新ペス若者へのまん延懸念密",
+      "headline": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+      "slug": "Californiafileslawsuitag",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602825?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111600069&g=soc&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss"
         }
       ],
-      "issue": "コカインの摘発は過去最多を更新するペースか？",
+      "issue": "ジェラール・ドパルデューは性的暴行罪での有罪判決に対する控訴を続けるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "コカインの摘発件数が過去最多を更新するペースで推移している。",
-          "span": "コカイン摘発 過去最多更新ペース",
+          "t": "フランスの映画スターであるジェラール・ドパルデューは、性的暴行罪で有罪判決を受けた後、控訴裁判の開始を予定していた。",
+          "span": "The French film star was due to start an appeal trial after being found guilty of sexually assaulting two women on a Par",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "コカインの摘発件数が過去最多を更新するペースで推移している。",
-          "span": "コカイン摘発、過去最多更新ペース",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "若者へのコカインまん延が懸念されている。",
-          "span": "若者へのまん延懸念",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "密輸阻止のため、水際対策の強化が図られている。",
-          "span": "密輸阻止へ水際対策強化",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "警視庁が水際対策強化に取り組んでいる。",
-          "span": "警視庁",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "コカインの摘発件数が過去最多を更新するペースで推移しており、若者へのまん延が懸念されているため、密輸阻止へ水際対策強化が図られている。",
-      "note": "本件は事実の記述に留まり、評価や対立する意見は含まれていないため、positions は空となります。",
+      "consensus": "ジェラール・ドパルデューは性的暴行罪での有罪判決に対する控訴を取り下げた。",
+      "note": "原文の断片的な情報のため、一部情報が欠落している可能性があります。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "同盟・同志国連携、不安多く　高市首相外遊、対中ロ焦点―ＡＳＥＡＮ",
-      "slug": "同盟同志国連携不安多く高市首相外遊対中ロ焦点",
+      "headline": "女性働く飲食店の客か　逮捕の男、自ら１１０番も―中野強殺・警視庁",
+      "slug": "女性働く飲食店の客か逮捕の男自ら番も中野強殺警視",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -347,19 +171,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261116de76382"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261117de76885"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111600666&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111700149&g=soc&m=rss"
         }
       ],
-      "issue": "高市総理大臣のフィリピン訪問における提唱内容と外交上の焦点",
-      "stasis": "政策",
+      "issue": "東京・中野で発生した女性刺殺事件の容疑者は、被害者と面識があったか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "高市総理大臣は16日午後、ASEAN首脳会議の開催地であるフィリピンに到着した。",
-          "span": "フィリピンに到着しました",
+          "t": "東京・中野区の路上で20代くらいの女性が刃物で刺されて死亡した事件が発生した。",
+          "span": "東京・中野区の路上で20代くらいの女性が刃物で刺されて死亡した事件",
           "src": [
             {
               "ty": "press",
@@ -368,8 +192,8 @@
           ]
         },
         {
-          "t": "高市総理大臣は17日に関連会議に出席する予定である。",
-          "span": "17日に関連の会議に出席し",
+          "t": "警視庁は、この事件で39歳の男の容疑者を強盗殺人未遂の疑いで逮捕した。",
+          "span": "警視庁は39歳の男の容疑者を強盗殺人未遂の疑いで逮捕しました",
           "src": [
             {
               "ty": "press",
@@ -378,8 +202,8 @@
           ]
         },
         {
-          "t": "高市総理大臣は、アジア地域で石油備蓄の協調放出ルールづくりなどを検討する新たな枠組みの創設を提唱する見込みである。",
-          "span": "新たな枠組みの創設を提唱する見通",
+          "t": "逮捕された男は、被害者とは飲食店の客であったと供述している。",
+          "span": "女性とは飲食店の客",
           "src": [
             {
               "ty": "press",
@@ -388,26 +212,97 @@
           ]
         },
         {
-          "t": "高市総理大臣の外遊は、同盟・同志国との連携と、中国・ロシアへの対応に焦点を当てている。",
-          "span": "",
+          "t": "逮捕された男は、自ら110番通報もした。",
+          "span": "自ら１１０番も",
           "src": [
             {
-              "ty": "wire",
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "逮捕された男は、被害者が働く飲食店の客である可能性がある。",
+          "span": "女性働く飲食店の客か",
+          "src": [
+            {
+              "ty": "press",
               "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "高市総理大臣がフィリピンに到着し、石油備蓄に関する新たな枠組みを提唱する見込みであること、および外遊が同盟・同志国連携、対中ロに焦点を当てていることは合意されている。",
+      "consensus": "東京・中野区の路上で20代くらいの女性が刃物で刺されて死亡した事件で、警視庁は39歳の男の容疑者を強盗殺人未遂の疑いで逮捕した。容疑者は「女性とは飲食店の客」と供述しており、被害者が働く飲食店の客である可能性が報じられている。容疑者は自ら110番通報もした。",
+      "note": "プライバシーに配慮し、被害者の実名は伏せられています。",
       "audit": {
         "changed": true,
         "issues": [
-          "issue: より中立的なトピック記述に修正しました。",
-          "facts[3].t: 元テキストの意図をより正確に反映するように修正しました。",
-          "facts[3].span: 空文字だったため、元テキストの該当箇所から最小核を抽出して修正しました。",
-          "consensus: メタ記述を削除し、事実の合意内容のみに修正しました。",
-          "fact spanが原文に無い→除去「同盟・同志国連携、対中ロ焦点…」"
+          "fact.t \"逮捕された男は、被害者とは飲食店の客であったと供述している。\" のspanを \"女性とは飲食店の客\" に修正しました。元span \"女性とは飲食店の客…\" は不完全でした。",
+          "fact.t \"逮捕された男は、被害者が働く飲食店の客である可能性がある。\" のspanを \"女性働く飲食店の客か\" に修正しました。元span \"女性働く飲食店の客か\" は完全でした。"
+        ]
+      }
+    },
+    {
+      "headline": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "slug": "NvidiadismissesBringJens",
+      "independentSources": 2,
+      "sources": [
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111700173&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "エヌビディアは前CEOのジェンセン・フアン氏を復帰させるべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "エヌビディアの前CEOであるジェンセン・フアン氏の復帰を求めるキャンペーンが存在する。",
+          "span": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "複数のテクノロジー業界関係者が、AIチップ大手エヌビディアにジェンセン・フアン氏にCEOの職を戻すよう求める動きを支持している。",
+          "span": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "エヌビディアは「Bring Jensen Back」キャンペーンを却下したと報じられている。",
+          "span": "Nvidia dismisses 'Bring Jensen Back' campaign",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "エヌビディアの前CEO、ジェンセン・フアン氏の復帰を求める動きが存在し、ドナルド・トランプ米大統領はこれに異議がないと述べている。複数のテクノロジー業界関係者もこの動きを支持している。エヌビディアは同キャンペーンを却下したと報じられている。",
+      "note": "BBC Worldの記事は、エヌビディアがこのキャンペーンを「dismisses（却下した）」と報じている。これは直接的なpositionとして抽出せず、事実として記述した。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "factを追加: エヌビディアは「Bring Jensen Back」キャンペーンを却下したと報じられている。",
+          "consensusを修正: factの追加に合わせて内容を更新した。"
         ]
       }
     }
