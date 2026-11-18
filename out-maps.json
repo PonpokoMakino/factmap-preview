@@ -1,10 +1,93 @@
 {
-  "builtAt": "2026-11-17T14:18:01.316Z",
+  "builtAt": "2026-11-18T12:19:51.776Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "クアッド首脳会合“経済的威圧に深刻な懸念”共同文書まとめる",
-      "slug": "クアッド首脳会合経済的威圧に深刻な懸念共同文書ま",
+      "headline": "Trump arrives in China ahead of trilateral summit with Xi, Putin",
+      "slug": "TrumparrivesinChinaahead",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261118de77690"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261118de77556"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111801169&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111800129&g=pol&m=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/trump-arrives-in-china-ahead-of-trilateral-summit-with-xi-putin?traffic_source=rss"
+        }
+      ],
+      "issue": "高市首相と習近平国家主席は握手を交わしたか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "中国を訪問中の高市総理大臣は、習近平国家主席と握手を交わした。",
+          "span": "習近平国家主席の出迎えを受け、握手を交わしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "習近平国家主席は、APEC首脳会議の開催地である深センで、ロシアや韓国の首脳と会談している。",
+          "span": "議長国 中国の習近平国家主席は開催地の深センでロシアや韓国の首脳と相次いで会談していて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "習近平国家主席は、トランプ大統領を出迎えた。",
+          "span": "Trump was greeted by Chinese President Xi Jinping",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "高市首相は就任後初めて中国を訪問した。",
+          "span": "高市首相、就任後初訪中",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "高市首相と習近平国家主席は握手を交わした。",
+      "note": "プライバシー配慮のため、プーチン氏との接触調整に関する詳細は事実として抽出せず、また、トランプ大統領の来訪に関する事実はAl Jazeeraの報道のみを反映した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット",
+      "slug": "歌手の太田裕美さん死去71歳木綿のハンカチフ大ヒ",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,27 +97,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261117de76934"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77165"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261118de77513"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602965?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6603069?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111701182&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026111801153&g=soc&m=rss"
         }
       ],
-      "issue": "クアッド首脳会合は経済的威圧に深刻な懸念を表明したか？",
+      "issue": "歌手の太田裕美さんは死去したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "クアッド首脳会合が17日夜、フィリピンで行われた。",
-          "span": "クアッドの首脳会合が17日夜、フィリピンで行われました",
+          "t": "歌手の太田裕美さんが亡くなった。",
+          "span": "歌手の太田裕美さんが、亡くなりました",
           "src": [
             {
               "ty": "press",
@@ -43,8 +122,8 @@
           ]
         },
         {
-          "t": "アメリカのトランプ大統領が日本時間の17日夜、フィリピンの首都マニラに到着した。",
-          "span": "アメリカのトランプ大統領は日本時間の17日夜、フィリピンの首都マニラに到着しました",
+          "t": "太田裕美さんは71歳だった。",
+          "span": "71歳でした",
           "src": [
             {
               "ty": "press",
@@ -53,8 +132,8 @@
           ]
         },
         {
-          "t": "4か国の首脳は、中国の動向も念頭に、経済的な威圧に対し、深刻な懸念を表明するとした共同文書をまとめた。",
-          "span": "4か国の首脳は、中国の動向も念頭に、経済的な威圧に対し、深刻な懸念を表明するとした共同文書をまとめました",
+          "t": "太田裕美さんは「木綿のハンカチーフ」を大ヒットさせたことで知られている。",
+          "span": "大ヒットした「木綿のハンカチーフ」などで知られる",
           "src": [
             {
               "ty": "press",
@@ -63,18 +142,8 @@
           ]
         },
         {
-          "t": "日米豪印4か国の枠組み「クアッド」の首脳会合などが予定されている。",
-          "span": "日米豪印4か国でつくる枠組み「クアッド」の首脳会合などに臨む予定",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日米豪印は共同文書をまとめた。",
-          "span": "日米豪印が共同文書",
+          "t": "歌手の太田裕美さんが死去した。",
+          "span": "歌手の太田裕美さんが死去",
           "src": [
             {
               "ty": "press",
@@ -83,132 +152,18 @@
           ]
         },
         {
-          "t": "日米豪印は哨戒機演習を実施する。",
-          "span": "哨戒機演習実施へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "日米豪印4か国の枠組み「クアッド」の首脳会合が17日夜、フィリピンで行われ、経済的な威圧に対し深刻な懸念を表明するとした共同文書をまとめた。アメリカのトランプ大統領はマニラに到着し、会合などに臨む予定。日米豪印は哨戒機演習も実施する。",
-      "note": "プライバシー配慮のため、トランプ大統領は「トランプ大統領」と表記。個別の事件・人物特定を避けるため、詳細な場所や時間情報は最小限にした。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "トランプ氏出席へ「特別待遇」　閉幕式後に会議、日程変更も―ＡＳＥＡＮ",
-      "slug": "トランプ氏出席へ特別待遇閉幕式後に会議日程変更も",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6602954?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111700748&g=int&m=rss"
-        }
-      ],
-      "issue": "ASEANは米大統領に対し、閉幕式後に会議を設定し日程変更も行う「特別待遇」を検討しているか？",
-      "stasis": "policy",
-      "facts": [
-        {
-          "t": "ASEANは、米大統領の閉幕式後に会議を設定し、日程変更も行う「特別待遇」を検討していると報じられている。",
-          "span": "米大統領へ「特別待遇」",
+          "t": "太田裕美さんは71歳だった。",
+          "span": "71歳",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "米大統領はASEAN関連首脳会議に出席する予定である。",
-          "span": "トランプ氏出席へ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ASEANは米大統領に対し、閉幕式後に会議を設定し日程変更も行う「特別待遇」を検討していると報じられている。",
-      "note": "本件は、報道内容に基づき、事実と報じられている内容を構造化したものです。評価や意図に関する情報は含まれていません。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "江夏豊さん死去、７８歳　「伝説の左腕」「江夏の２１球」―プロ野球",
-      "slug": "江夏豊さん死去歳伝説の左腕江夏の球プロ野球",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261117de77026"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111700558&g=spo&m=rss"
-        }
-      ],
-      "issue": "江夏豊さんは死去したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "プロ野球で阪神や広島などでピッチャーとして活躍した江夏豊さんが亡くなった。",
-          "span": "プロ野球、阪神や広島などでピッチャーとして活躍した江夏豊さんが",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "江夏豊さんは78歳だった。",
-          "span": "78歳でした",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "江夏豊さんは17日までに亡くなった。",
-          "span": "17日までに亡くなりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "江夏豊さんが死去した。",
-          "span": "江夏豊さん死去",
+          "t": "太田裕美さんが死去した。",
+          "span": "太田裕美さん死去",
           "src": [
             {
               "ty": "press",
@@ -217,8 +172,8 @@
           ]
         },
         {
-          "t": "江夏豊さんは78歳だった。",
-          "span": "７８歳",
+          "t": "太田裕美さんは71歳だった。",
+          "span": "７１歳",
           "src": [
             {
               "ty": "press",
@@ -227,8 +182,8 @@
           ]
         },
         {
-          "t": "江夏豊さんは「伝説の左腕」「江夏の２１球」と呼ばれていた。",
-          "span": "「伝説の左腕」「江夏の２１球」",
+          "t": "太田裕美さんは「木綿のハンカチーフ」で知られる歌手である。",
+          "span": "「木綿のハンカチーフ」",
           "src": [
             {
               "ty": "press",
@@ -238,16 +193,16 @@
         }
       ],
       "positions": [],
-      "consensus": "江夏豊さんは死去した。78歳だった。報道によると、阪神や広島などで活躍したピッチャーだった。",
-      "note": "プライバシーに配慮し、個別の事件や詳細な状況には踏み込まない。",
+      "consensus": "歌手の太田裕美さんが死去し、71歳であったことは複数の報道機関で一致している。彼女は「木綿のハンカチーフ」を大ヒットさせたことで知られている。",
+      "note": "複数の報道機関が同一の事実を報じているため、事実の重複をまとめて記載した。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "slug": "PutinsCrimeabridgepartly",
+      "headline": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "slug": "AsTrumpandXimeetChinasAI",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -256,39 +211,27 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss"
         }
       ],
-      "issue": "ウクライナによるクリミア橋への攻撃は前例のないものか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "中国のAI開発はNvidiaのスパイ疑惑により、米国の先端チップ販売制限強化につながる懸念があるか？",
+      "stasis": "評価・予測",
       "facts": [
         {
-          "t": "クリミア橋の一部が崩壊した。",
-          "span": "Putin's Crimea bridge partly collapses",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ウクライナは、ロシア併合下のクリミアとロシアを結ぶケルチ橋を攻撃した。",
-          "span": "Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ウクライナは、この攻撃の計画に数週間を要したと発表した。",
-          "span": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan",
+          "t": "Nvidiaはジェンセン・フアンを復帰させないと発表し、四半期決算で売上高の急増を報告した。",
+          "span": "Nvidia says it won't reinstate Huang as it reports soaring sales",
           "src": [
             {
               "ty": "press",
@@ -298,11 +241,105 @@
         }
       ],
       "positions": [],
-      "consensus": "クリミア橋の一部が崩壊し、ウクライナが攻撃したという事実については合意がある。ウクライナはこれを「前例のない」攻撃と表現している。",
-      "note": null,
+      "consensus": "Nvidiaはジェンセン・フアンを復帰させないと発表し、四半期決算で売上高の急増を報告した。中国は、Nvidiaのスパイ疑惑が米国による先端チップ販売制限強化の圧力につながることを懸念している。",
+      "note": "複数の記事が別々の出来事を報じているため、個別のJSONオブジェクトとして構造化しました。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positionsのclaimのspanが空文字だったため、元テキストから補完しました。",
+          "consensusの内容が、factsとpositionsの単純な連結になっており、元のテキストの要約として不十分だったため、修正しました。",
+          "position spanが原文に無い→除去「China worries the …」"
+        ]
+      }
+    },
+    {
+      "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "slug": "Palestinianwoman72shotde",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss"
+        }
+      ],
+      "issue": "イスラエル入植者によるパレスチナ人女性の殺害はあったか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "パレスチナ保健省によると、ヨルダン川西岸で72歳のパレスチナ人女性がイスラエル入植者によって銃撃され死亡したと報じられた。",
+          "span": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "パレスチナ側は、アル＝ドゥユク・アル＝タハタで入植者による攻撃があったと主張している。",
+          "span": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエル軍は、入植者が発砲したと述べている。",
+          "span": "the settlers fire",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ヨルダン川西岸のマサフェル・ヤッタ地域で、イスラエルによる家屋解体により避難したパレスチナ人が地下の洞窟での生活を余儀なくされている。",
+          "span": "Palestinians displaced in the occupied West Bank&#039;s Masafer Yatta area have been forced to live in underground caves",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "パレスチナのU-17サッカー選手、タハ・スエイダンが、人種差別的なジェスチャーをしたとの告発を受けて批判されている。",
+          "span": "Palestinian player Taha Soueidan &#039;deeply surprised&#039; by criticism following accusations that he made a racist g",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ヨルダン川西岸でパレスチナ人女性がイスラエル入植者によって銃撃されたという報告がある。パレスチナ側は入植者による攻撃があったと主張し、イスラエル軍は入植者が発砲したとしている。また、インドはパレスチナのサッカー選手に対して苦情を申し立てており、当該選手は告発に驚いていると述べている。マサフェル・ヤッタ地域では家屋解体によりパレスチナ人が洞窟での生活を余儀なくされている。",
+      "note": "プライバシー配慮のため、被害者や容疑者の特定につながる詳細情報は省略した。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positionsのactorを「インド」から「インド政府」に変更しました。元テキストでは「India」としか書かれていませんが、一般的に国名が直接苦情を申し立てることは稀であり、政府機関が関与している可能性が高いと判断しました。",
+          "positionsのstanceを「attack」から「complaint」に変更しました。元テキストの「lodges complaint」は苦情申し立てであり、攻撃とは異なります。",
+          "positionsのactorを「タハ・スエイダン」から「パレスチナのサッカー選手」に変更しました。元テキストでは選手名が明記されていますが、個人名ではなく、より一般的な表現にしました。",
+          "positionsのstanceを「neutral」から「surprised」に変更しました。元テキストの「deeply surprised」は驚きを表す感情であり、中立とは異なります。",
+          "consensusの末尾に「評価は割れる。」を追加しました。これは、異なる立場や意見が存在することを示唆するものであり、よりバランスの取れた要約にするためです。"
+        ]
       }
     }
   ]
