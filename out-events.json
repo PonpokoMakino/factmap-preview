@@ -1,108 +1,138 @@
 {
-  "rankedAt": "2026-11-18T20:43:45.410Z",
+  "rankedAt": "2026-11-19T02:03:16.851Z",
   "lens": "独立報道社数(volume)順",
   "events": [
     {
-      "headline": "【地震情報】熊本県で震度5弱 今後1週間程度は注意を",
-      "slug": "地震情報熊本県で震度5弱今後1週間程度は注意を",
-      "time": "2026-11-18T20:27:35.000Z",
+      "headline": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+      "slug": "ClaudemakerAnthropicpois",
+      "time": "2026-11-19T00:37:00.000Z",
       "independentSources": 4,
       "sources": [
-        "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
+        "時事ドットコム",
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "count": 5,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Anthropic IPO公開価格は83ドル",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603117?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "米アンソロピック、１３兆円調達　１９日にナスダック上場",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111900244&g=int&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "米アンソロピックは調達額８１３億ドルで１９日に上場すると発表した",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111900224&g=flash&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
+          "snippet": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "Anthropic raises $81.3bn in biggest IPO of all-time",
+          "snippet": "AI giant prices shares at $83 in blockbuster market debut.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意",
+      "slug": "地震情報熊本県で震度5弱熊本地震の一連1週間程度",
+      "time": "2026-11-19T01:49:00.000Z",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
         "時事ドットコム",
         "気象庁 地震・火山"
       ],
-      "count": 8,
+      "count": 6,
       "hasPrimary": true,
       "members": [
         {
-          "title": "【地震情報】熊本県で震度5弱 今後1週間程度は注意を",
-          "snippet": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。気象庁は、ことし7月の熊本地震の一連の活動だとして、今後1週間程度は最大震度5弱程度の地震に注意するとともに、さらに強い揺れ…",
+          "title": "【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意",
+          "snippet": "19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。気象庁はことし7月の熊本地震の一連の活動だとして、今後1週間程度は最大震度5弱程度の地震に注意するとともに、さらに強い揺れの…",
           "source": "NHK 主要ニュース",
           "link": "https://news.web.nhk/newsweb/na/nd-20261119de78097",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "熊本県で震度5弱 津波の心配なし",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603094?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "熊本県で震度５弱",
+          "title": "熊本で震度５弱　７月地震の一連の活動―気象庁",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111900068&g=soc&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026111900223&g=soc&m=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
           "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１９日０５時２５分ころ、地震がありました。",
+          "snippet": "【震源・震度情報】１９日１０時３４分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118202735_0_VXSE53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119013729_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１９日０５時０３分ころ、地震がありました。",
+          "snippet": "【震源・震度情報】１９日１０時３２分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118200539_0_VXSE53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119013518_0_VXSE53_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１９日０４時５１分ころ、地震がありました。",
+          "snippet": "【震源・震度情報】１９日０９時３８分ころ、地震がありました。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118195301_0_VXSE53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119004150_0_VXSE53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１９日０４時４１分ころ、地震がありました。",
+          "title": "震度速報",
+          "snippet": "【震度速報】１９日０９時３８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118194426_0_VXSE53_010000.xml",
-          "ty": "prim",
-          "linkKind": "data"
-        },
-        {
-          "title": "震源・震度に関する情報",
-          "snippet": "【震源・震度情報】１９日０４時３８分ころ、地震がありました。",
-          "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118194135_0_VXSE53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119004018_0_VXSE51_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "高市首相、ロシア大統領と意見交換　７年ぶり直接対話、記者解放要求",
-      "slug": "高市首相ロシア大統領と意見交換年ぶり直接対話記者",
-      "time": "2026-11-18T20:23:17.000Z",
-      "independentSources": 3,
+      "headline": "中国の高市首相出迎えは引退外交官　香港紙「儀礼の格著しく低い」―ＡＰＥＣ首脳会議",
+      "slug": "中国の高市首相出迎えは引退外交官香港紙儀礼の格著",
+      "time": "2026-11-19T00:25:00.000Z",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
-      "count": 10,
+      "count": 5,
       "hasPrimary": false,
       "members": [
-        {
-          "title": "高市首相 プーチン大統領と意見交換 習主席とは握手",
-          "snippet": "APECの首脳会議に出席するため中国を訪問している高市総理大臣は、日本時間の18日夜、ロシアのプーチン大統領と意見を交わし、ロシアの治安機関による北海道新聞記者の拘束などについて、日本側の立場を直接伝…",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78112",
-          "ty": "press",
-          "linkKind": "article"
-        },
         {
           "title": "注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ",
           "snippet": "APEC＝アジア太平洋経済協力会議が開かれている中国の※深センで19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領が、3か国の首脳による初めての会談を行います。核軍縮…",
@@ -112,34 +142,10 @@
           "linkKind": "article"
         },
         {
-          "title": "米中ロ首脳会談 ウクライナ外相「当事国抜きの決定は不可能」",
-          "snippet": "アメリカ、中国、ロシアの3か国の首脳による初めての会談が開かれるのを前に、ウクライナのシビハ外相は「会談で何が議論されようと、ウクライナ抜きではいかなる決定も不可能だと各国は理解しなくてはいけない」と…",
+          "title": "高市首相 プーチン大統領と意見交換 習主席とは握手",
+          "snippet": "APECの首脳会議に出席するため中国を訪問している高市総理大臣は、日本時間の18日夜、ロシアのプーチン大統領と意見を交わし、ロシアの治安機関による北海道新聞記者の拘束などについて、日本側の立場を直接伝…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78096",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "ペルーのケイコ・フジモリ大統領が来日し高市首相と会談へ",
-          "snippet": "南米・ペルーのケイコ・フジモリ大統領は就任後初めて19日から日本を訪問し、高市総理大臣との首脳会談などに臨みます。",
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78085",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "日中首脳が握手 会談は見送りへ",
-          "snippet": "",
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603084?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "中国、高市首相への冷遇際立つ　トランプ氏には異例の出迎え",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111801181&g=pol&m=rss",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78112",
           "ty": "press",
           "linkKind": "article"
         },
@@ -160,95 +166,79 @@
           "linkKind": "article"
         },
         {
-          "title": "高市首相はロシアのプーチン大統領と意見交換した",
+          "title": "中国の高市首相出迎えは引退外交官　香港紙「儀礼の格著しく低い」―ＡＰＥＣ首脳会議",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111900016&g=flash&m=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "中国の習主席が、高市首相と握手した",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111801169&g=flash&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026111900259&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-      "slug": "TrumpshakeshandswithPuti",
-      "time": "2026-11-18T20:18:25.000Z",
+      "headline": "低気圧発達で風強まる 北海道中心に暴風に警戒",
+      "slug": "低気圧発達で風強まる北海道中心に暴風に警戒",
+      "time": "2026-11-18T23:35:57.000Z",
       "independentSources": 2,
       "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "count": 3,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-          "snippet": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "US loses measles-free status after 26 years in historic setback",
-          "snippet": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "Trump and Putin to meet one-on-one in China Thursday",
-          "snippet": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "太田裕美さん死去、７１歳　歌手、「木綿のハンカチーフ」",
-      "slug": "太田裕美さん死去歳歌手木綿のハンカチフ",
-      "time": "2026-11-18T13:05:41.000Z",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "count": 2,
       "hasPrimary": false,
       "members": [
         {
-          "title": "太田裕美さん 夫明かす最期の様子",
+          "title": "低気圧発達で風強まる 北海道中心に暴風に警戒",
+          "snippet": "日本付近にある2つの低気圧が急速に発達している影響で、19日は、北日本から東日本の日本海側を中心に風が強まり、波も高くなる見込みです。北海道を中心に暴風に警戒してください。冬型の気圧配置が強まるため、…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78132",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "21日にかけ風強まる 暴風など警戒",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603082?source=rss",
-          "ty": "press",
-          "linkKind": "article"
-        },
-        {
-          "title": "太田裕美さん死去、７１歳　歌手、「木綿のハンカチーフ」",
-          "snippet": "",
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111801153&g=soc&m=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6603109?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "slug": "Kuwaitsaysitrepelledfirs",
-      "time": "2026-11-18T19:31:31.000Z",
+      "headline": "米下院議長に民主党のジェフリーズ氏選出へ 初のアフリカ系",
+      "slug": "米下院議長に民主党のジェフリズ氏選出へ初のアフリ",
+      "time": "2026-11-19T00:52:50.000Z",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "count": 2,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "米下院議長に民主党のジェフリーズ氏選出へ 初のアフリカ系",
+          "snippet": "11月に行われたアメリカの中間選挙で大勝し、上下両院で多数派を奪還した野党・民主党は、次の下院議長に、現在、党の下院トップを務めるジェフリーズ氏を推すことを決め、アフリカ系で初めての下院議長が誕生する…",
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78146",
+          "ty": "press",
+          "linkKind": "article"
+        },
+        {
+          "title": "米史上初 黒人の下院議長誕生へ",
+          "snippet": "",
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603104?source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+      "slug": "Myanmarfaceshistoricgeno",
+      "time": "2026-11-19T00:14:40.000Z",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -258,27 +248,27 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-          "snippet": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesda",
+          "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+          "snippet": "No state has ever been found guilty by an international court of committing genocide.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         },
         {
-          "title": "Four killed as Russian strikes hit Ukraine’s Odesa",
-          "snippet": "At least four people have been killed and thirteen more injured after Russian strikes hit Ukraine’s port city of Odesa.",
+          "title": "Unvaccinated Pennsylvania resident dies amid historic US measles resurgence",
+          "snippet": "Pennsylvania records eighth measles death of 2026, a day after the US formally loses its 26-year elimination status.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/four-killed-as-russian-strikes-hit-ukraines-odesa?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/19/unvaccinated-pennsylvania-resident-dies-amid-historic-us-measles-resurgence?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-11-18T20:40:21.000Z",
+      "headline": "地方気象解説情報",
+      "slug": "地方気象解説情報",
+      "time": "2026-11-19T02:00:19.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -287,27 +277,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象情報",
-          "snippet": "【新潟県気象解説情報（高波・強風・大雨）】佐渡では、１９日夜のはじめ頃から２０日昼前にかけて高波に警戒し、強風に注意・警戒してください。新潟県では、１９日夕方から２１日午前中にかけて高波に、１９日夜のはじめ頃から２２日頃にかけて土砂災害に注",
+          "title": "地方気象解説情報",
+          "snippet": "【近畿地方気象解説情報（落雷・突風）】近畿地方では、２０日夜遅くにかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118204021_0_VPFJ50_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119020020_0_VPCJ51_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象解説情報",
-          "snippet": "【新潟県気象解説情報（高波・強風・大雨）】佐渡では、１９日夜のはじめ頃から２０日昼前にかけて高波に警戒し、強風に注意・警戒してください。新潟県では、１９日夕方から２１日午前中にかけて高波に、１９日夜のはじめ頃から２２日頃にかけて土砂災害に注",
+          "title": "地方気象情報",
+          "snippet": "【近畿地方気象解説情報（落雷・突風）】近畿地方では、２０日夜遅くにかけて、落雷や竜巻などの激しい突風、急な強い雨に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118204021_0_VPFJ51_150000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119020020_0_VPCJ50_270000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-11-18T20:31:07.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-11-19T01:58:56.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -316,27 +306,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象情報",
-          "snippet": "【青森県気象解説情報（高波・落雷・突風）】津軽の外海では、低気圧や冬型の気圧配置の影響により、しける見込みです。１９日夜のはじめ頃から２１日午前中にかけて高波に十分注意してください。また、青森県では竜巻などの激しい突風や落雷、降ひょうに注意",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118203108_0_VPFJ50_020000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119015856_0_VPWW54_472000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象解説情報",
-          "snippet": "【青森県気象解説情報（高波・落雷・突風）】津軽の外海では、低気圧や冬型の気圧配置の影響により、しける見込みです。１９日夜のはじめ頃から２１日午前中にかけて高波に十分注意してください。また、青森県では竜巻などの激しい突風や落雷、降ひょうに注意",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【大東島地方気象警報・注意報】大東島地方では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118203108_0_VPFJ51_020000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119015857_0_VPWW53_472000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-11-18T20:27:34.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-11-19T01:58:54.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -345,27 +335,27 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象情報",
-          "snippet": "【大分県気象解説情報（落雷・突風・降ひょう）】大分県では、１９日夜のはじめ頃から２０日夜遅くにかけて落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118202734_0_VPFJ50_440000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119015855_0_VPWW54_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象解説情報",
-          "snippet": "【大分県気象解説情報（落雷・突風・降ひょう）】大分県では、１９日夜のはじめ頃から２０日夜遅くにかけて落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【沖縄本島地方気象警報・注意報】沖縄本島地方では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118202734_0_VPFJ51_440000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119015856_0_VPWW53_471000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "府県気象解説情報",
-      "slug": "府県気象解説情報",
-      "time": "2026-11-18T20:27:31.000Z",
+      "headline": "気象警報・注意報（Ｈ２７）",
+      "slug": "気象警報注意報",
+      "time": "2026-11-19T01:58:54.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -374,18 +364,18 @@
       "hasPrimary": true,
       "members": [
         {
-          "title": "府県気象情報",
-          "snippet": "【熊本県気象解説情報（落雷・突風・降ひょう）】熊本県では、１９日夜のはじめ頃から２０日夜遅くにかけて落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+          "title": "気象警報・注意報（Ｈ２７）",
+          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118202732_0_VPFJ50_430000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119015854_0_VPWW54_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
-          "title": "府県気象解説情報",
-          "snippet": "【熊本県気象解説情報（落雷・突風・降ひょう）】熊本県では、１９日夜のはじめ頃から２０日夜遅くにかけて落雷や竜巻などの激しい突風、降ひょう、急な強い雨に注意してください。",
+          "title": "気象特別警報・警報・注意報",
+          "snippet": "【宮古島地方気象警報・注意報】宮古島地方では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118202732_0_VPFJ51_430000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119015855_0_VPWW53_473000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -394,7 +384,7 @@
     {
       "headline": "気象特別警報・警報・注意報",
       "slug": "気象特別警報警報注意報",
-      "time": "2026-11-18T20:25:30.000Z",
+      "time": "2026-11-19T01:58:53.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 気象警報・注意報"
@@ -404,26 +394,26 @@
       "members": [
         {
           "title": "気象特別警報・警報・注意報",
-          "snippet": "【長野県気象警報・注意報】長野県では、落雷に注意してください。中部では、濃霧による視程障害に注意してください。",
+          "snippet": "【八重山地方気象警報・注意報】八重山地方では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118202532_0_VPWW53_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119015854_0_VPWW53_474000.xml",
           "ty": "prim",
           "linkKind": "data"
         },
         {
           "title": "気象警報・注意報（Ｈ２７）",
-          "snippet": "【長野県気象警報・注意報】長野県では、落雷に注意してください。中部では、濃霧による視程障害に注意してください。",
+          "snippet": "【八重山地方気象警報・注意報】八重山地方では、高波に注意してください。",
           "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118202532_0_VPWW54_200000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119015854_0_VPWW54_474000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
       ]
     },
     {
-      "headline": "与党 消費税法案の会期内成立を 野党 関文科相への追及強める",
-      "slug": "与党消費税法案の会期内成立を野党関文科相への追及",
-      "time": "2026-11-18T20:08:00.000Z",
+      "headline": "前橋 クマ2頭出没の住宅地 再び目撃情報 未発見の親グマか",
+      "slug": "前橋クマ2頭出没の住宅地再び目撃情報未発見の親グ",
+      "time": "2026-11-19T01:33:38.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -432,19 +422,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "与党 消費税法案の会期内成立を 野党 関文科相への追及強める",
-          "snippet": "参議院での審議が続いている食料品の消費税減税関連法案について、与党側は丁寧に議論を積み重ね、来月中旬までの会期内の成立を図る方針です。一方、野党側は、関文部科学大臣が開催した政治資金パーティーをめぐっ…",
+          "title": "前橋 クマ2頭出没の住宅地 再び目撃情報 未発見の親グマか",
+          "snippet": "警察によりますと19日午前8時すぎ、前橋市天川大島町で、通学中の男子高校生から「クマに追いかけられた」と通報があったということです。",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78076",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78168",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "死亡の3歳女児に数十か所のあざ 生活実態など捜査 兵庫 伊丹",
-      "slug": "死亡の3歳女児に数十か所のあざ生活実態など捜査兵",
-      "time": "2026-11-18T20:29:42.000Z",
+      "headline": "FRBが10月会合の議事録公表 ほぼ全員が「追加利上げ適切」",
+      "slug": "FRBが10月会合の議事録公表ほぼ全員が追加利上",
+      "time": "2026-11-18T23:36:40.000Z",
       "independentSources": 1,
       "sources": [
         "NHK 主要ニュース"
@@ -453,19 +443,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "死亡の3歳女児に数十か所のあざ 生活実態など捜査 兵庫 伊丹",
-          "snippet": "ことし1月、兵庫県伊丹市の自宅で3歳の次女に暴行を加えて死亡させたとして父親が逮捕された事件で、次女の顔や体には数十か所のあざがあったことが警察への取材で分かりました。次女は1か月ほど前に施設から戻っ…",
+          "title": "FRBが10月会合の議事録公表 ほぼ全員が「追加利上げ適切」",
+          "snippet": "アメリカのFRB＝連邦準備制度理事会が公表した先月の会合の議事録で、ほぼすべての参加者が今後、数か月で追加の利上げが適切になる可能性が高いとの見解を示していたことがわかりました。来月の会合で大幅な利上…",
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78092",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261119de78144",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "支援金 対象年収下限「56万円」案",
-      "slug": "支援金対象年収下限56万円案",
-      "time": "2026-11-18T12:11:23.000Z",
+      "headline": "2人死亡事故 容疑者勤務先を捜索",
+      "slug": "2人死亡事故容疑者勤務先を捜索",
+      "time": "2026-11-19T01:37:54.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -474,19 +464,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "支援金 対象年収下限「56万円」案",
+          "title": "2人死亡事故 容疑者勤務先を捜索",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603076?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6603123?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "富士山で中国人遭難 捜索打ち切り",
-      "slug": "富士山で中国人遭難捜索打ち切り",
-      "time": "2026-11-18T13:52:58.000Z",
+      "headline": "中学生はねられ意識不明 70歳逮捕",
+      "slug": "中学生はねられ意識不明70歳逮捕",
+      "time": "2026-11-19T01:19:39.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -495,19 +485,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "富士山で中国人遭難 捜索打ち切り",
+          "title": "中学生はねられ意識不明 70歳逮捕",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603089?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6603122?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "NHK飲み会通達 記者が不満漏らす",
-      "slug": "NHK飲み会通達記者が不満漏らす",
-      "time": "2026-11-18T15:00:45.000Z",
+      "headline": "賃上げより手取り増 食事補助注目",
+      "slug": "賃上げより手取り増食事補助注目",
+      "time": "2026-11-19T01:41:55.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -516,19 +506,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "NHK飲み会通達 記者が不満漏らす",
+          "title": "賃上げより手取り増 食事補助注目",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603093?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6603124?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "川に展示の美術作品 さらに破壊か",
-      "slug": "川に展示の美術作品さらに破壊か",
-      "time": "2026-11-18T14:05:12.000Z",
+      "headline": "佐野勇斗 日テレ日曜ドラマで主演",
+      "slug": "佐野勇斗日テレ日曜ドラマで主演",
+      "time": "2026-11-18T23:20:00.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -537,19 +527,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "川に展示の美術作品 さらに破壊か",
+          "title": "佐野勇斗 日テレ日曜ドラマで主演",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603090?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6603108?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "森保監督 海外から「打診」明かす",
-      "slug": "森保監督海外から打診明かす",
-      "time": "2026-11-18T14:08:35.000Z",
+      "headline": "太田裕美さん死去 イルカが悼む",
+      "slug": "太田裕美さん死去イルカが悼む",
+      "time": "2026-11-18T23:05:54.000Z",
       "independentSources": 1,
       "sources": [
         "Yahoo!ニュース 主要"
@@ -558,19 +548,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "森保監督 海外から「打診」明かす",
+          "title": "太田裕美さん死去 イルカが悼む",
           "snippet": "",
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603091?source=rss",
+          "link": "https://news.yahoo.co.jp/pickup/6603106?source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "ネパール閣僚「資金確保に苦労」　国際社会に支援拡充訴え―ＣＯＰ３１",
-      "slug": "ネパル閣僚資金確保に苦労国際社会に支援拡充訴え",
-      "time": "2026-11-18T19:19:00.000Z",
+      "headline": "「Ｊａｖａ」に修正適用を　プログラミング言語に欠陥―各国当局",
+      "slug": "に修正適用をプログラミング言語に欠陥各国当局",
+      "time": "2026-11-19T01:43:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -579,19 +569,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "ネパール閣僚「資金確保に苦労」　国際社会に支援拡充訴え―ＣＯＰ３１",
+          "title": "「Ｊａｖａ」に修正適用を　プログラミング言語に欠陥―各国当局",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111900101&g=int&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026111900184&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "政府広報に批判殺到　「陰謀論」ユーチューバー起用",
-      "slug": "政府広報に批判殺到陰謀論ユチュバ起用",
-      "time": "2026-11-18T11:35:00.000Z",
+      "headline": "サカナＡＩの国産モデル実装へ　公共部門で普及狙う―米セールスフォース",
+      "slug": "サカナの国産モデル実装へ公共部門で普及狙う米セル",
+      "time": "2026-11-18T22:04:00.000Z",
       "independentSources": 1,
       "sources": [
         "時事ドットコム"
@@ -600,10 +590,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "政府広報に批判殺到　「陰謀論」ユーチューバー起用",
+          "title": "サカナＡＩの国産モデル実装へ　公共部門で普及狙う―米セールスフォース",
           "snippet": "",
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111801024&g=pol&m=rss",
+          "link": "https://www.jiji.com/jc/article?k=2026111801140&g=int&m=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -631,9 +621,30 @@
       ]
     },
     {
+      "headline": "「困ったら木沢」目指して　神宮記念試合で気持ち新た―プロ野球・ヤクルト",
+      "slug": "困ったら木沢目指して神宮記念試合で気持ち新たプロ",
+      "time": "2026-11-18T22:03:00.000Z",
+      "independentSources": 1,
+      "sources": [
+        "時事ドットコム"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "「困ったら木沢」目指して　神宮記念試合で気持ち新た―プロ野球・ヤクルト",
+          "snippet": "",
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026111800747&g=spo&m=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-11-18T20:00:00.000Z",
+      "time": "2026-11-19T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -643,9 +654,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１９日０９時から１２時までは火口から東方向、１９日２１時から２４時までは火口から東方向に降灰が予想されます。",
+          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１９日２１時から２４時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118200031_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119020038_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -654,7 +665,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-11-18T20:00:00.000Z",
+      "time": "2026-11-19T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -664,9 +675,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１９日０９時から１２時までは火口から東方向、１９日２１時から２４時までは火口から東方向に降灰が予想されます。",
+          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１９日２１時から２４時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118200035_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119020043_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -675,7 +686,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-11-18T20:00:00.000Z",
+      "time": "2026-11-19T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -685,9 +696,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　薩摩硫黄島　降灰予報（定時）】　現在、薩摩硫黄島は噴火警戒レベル２（火口周辺規制）です。薩摩硫黄島で噴火が発生した場合には、１９日０９時から１２時までは火口から南東方向、１９日２１時から２４時までは火口から東方向に降灰が予想されま",
+          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１９日２１時から２４時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118200039_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119020045_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -696,7 +707,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-11-18T20:00:00.000Z",
+      "time": "2026-11-19T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -706,9 +717,9 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　諏訪之瀬島　降灰予報（定時）】　現在、諏訪之瀬島は噴火警戒レベル２（火口周辺規制）です。諏訪之瀬島で噴火が発生した場合には、１９日０９時から１２時までは火口から南東方向、１９日２１時から２４時までは火口から東方向に降灰が予想されま",
+          "snippet": "【火山名　阿蘇山　降灰予報（定時）】　現在、阿蘇山は噴火警戒レベル２（火口周辺規制）です。阿蘇山で噴火が発生した場合には、１９日２１時から２４時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118200042_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119020030_0_VFVO53_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -717,7 +728,7 @@
     {
       "headline": "降灰予報（定時）",
       "slug": "降灰予報定時",
-      "time": "2026-11-18T20:00:00.000Z",
+      "time": "2026-11-19T02:00:00.000Z",
       "independentSources": 1,
       "sources": [
         "気象庁 地震・火山"
@@ -727,9 +738,30 @@
       "members": [
         {
           "title": "降灰予報（定時）",
-          "snippet": "【火山名　霧島山（新燃岳）　降灰予報（定時）】　現在、霧島山（新燃岳）は噴火警戒レベル２（火口周辺規制）です。霧島山（新燃岳）で噴火が発生した場合には、１９日０９時から１２時までは火口から南東方向、１９日２１時から２４時までは火口から東方向",
+          "snippet": "【火山名　桜島　降灰予報（定時）】　現在、桜島は噴火警戒レベル３（入山規制）です。桜島で噴火が発生した場合には、１９日２１時から２４時までは火口から東方向に降灰が予想されます。",
           "source": "気象庁 地震・火山",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261118200046_0_VFVO53_010000.xml",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119020034_0_VFVO53_010000.xml",
+          "ty": "prim",
+          "linkKind": "data"
+        }
+      ]
+    },
+    {
+      "headline": "震源に関する情報",
+      "slug": "震源に関する情報",
+      "time": "2026-11-19T00:40:51.000Z",
+      "independentSources": 1,
+      "sources": [
+        "気象庁 地震・火山"
+      ],
+      "count": 1,
+      "hasPrimary": true,
+      "members": [
+        {
+          "title": "震源に関する情報",
+          "snippet": "【震源に関する情報】きょう１９日０９時３８分ころ、地震がありました。",
+          "source": "気象庁 地震・火山",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261119004051_0_VXSE52_010000.xml",
           "ty": "prim",
           "linkKind": "data"
         }
@@ -778,9 +810,30 @@
       ]
     },
     {
+      "headline": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "slug": "VanGoghpaintingsellsforr",
+      "time": "2026-11-19T00:49:19.000Z",
+      "independentSources": 1,
+      "sources": [
+        "BBC World"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+          "snippet": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
       "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
       "slug": "Israelimilitarylaunchesr",
-      "time": "2026-11-18T20:14:57.000Z",
+      "time": "2026-11-18T22:34:56.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -799,9 +852,9 @@
       ]
     },
     {
-      "headline": "William and Kate meet PM Modi as they wrap up India tour",
-      "slug": "WilliamandKatemeetPMModi",
-      "time": "2026-11-18T20:07:08.000Z",
+      "headline": "Crimean Bridge attacked again, Russian official says",
+      "slug": "CrimeanBridgeattackedaga",
+      "time": "2026-11-19T01:05:03.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -810,19 +863,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "William and Kate meet PM Modi as they wrap up India tour",
-          "snippet": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at ",
+          "title": "Crimean Bridge attacked again, Russian official says",
+          "snippet": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "slug": "GrandTheftAuto6isamaster",
-      "time": "2026-11-18T17:34:25.000Z",
+      "headline": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "slug": "Russianarrestedforspying",
+      "time": "2026-11-18T23:28:03.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -831,10 +884,10 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-          "snippet": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+          "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+          "snippet": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
@@ -862,9 +915,9 @@
       ]
     },
     {
-      "headline": "Ghana's new $60m presidential jet sparks public outrage",
-      "slug": "Ghanasnew60mpresidential",
-      "time": "2026-11-18T09:27:51.000Z",
+      "headline": "William and Kate meet PM Modi as they wrap up India tour",
+      "slug": "WilliamandKatemeetPMModi",
+      "time": "2026-11-18T20:07:08.000Z",
       "independentSources": 1,
       "sources": [
         "BBC World"
@@ -873,40 +926,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Ghana's new $60m presidential jet sparks public outrage",
-          "snippet": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
+          "title": "William and Kate meet PM Modi as they wrap up India tour",
+          "snippet": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at ",
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-      "slug": "DemocratsnominateHakeemJ",
-      "time": "2026-11-18T17:34:23.000Z",
-      "independentSources": 1,
-      "sources": [
-        "BBC World"
-      ],
-      "count": 1,
-      "hasPrimary": false,
-      "members": [
-        {
-          "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-          "snippet": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control o",
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-          "ty": "press",
-          "linkKind": "article"
-        }
-      ]
-    },
-    {
-      "headline": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-      "slug": "Putinsnuclearbriefcasema",
-      "time": "2026-11-18T20:24:50.000Z",
+      "headline": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
+      "slug": "Whyatrioofexpertsalleges",
+      "time": "2026-11-19T01:17:08.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -915,19 +947,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
-          "snippet": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
+          "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
+          "snippet": "A new report alleges that injuries on Epstein&#039;s body were overlooked by medical examiners during his 2019 autopsy.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Muslims projected to overtake Christians as world’s largest religious group",
-      "slug": "Muslimsprojectedtooverta",
-      "time": "2026-11-18T20:21:34.000Z",
+      "headline": "Settler rams into Palestinians at multiple locations in central Israel",
+      "slug": "SettlerramsintoPalestini",
+      "time": "2026-11-19T01:13:45.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -936,19 +968,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Muslims projected to overtake Christians as world’s largest religious group",
-          "snippet": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
+          "title": "Settler rams into Palestinians at multiple locations in central Israel",
+          "snippet": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-      "slug": "USlawmakerslaunchprobein",
-      "time": "2026-11-18T20:14:04.000Z",
+      "headline": "German FA backs France’s Diallo for FIFA presidency",
+      "slug": "GermanFAbacksFrancesDial",
+      "time": "2026-11-19T00:44:50.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -957,19 +989,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
-          "snippet": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
+          "title": "German FA backs France’s Diallo for FIFA presidency",
+          "snippet": "Incumbent Gianni Infantino has resisted repeated calls to resign, citing overwhelming global support.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/19/german-fa-backs-frances-diallo-for-fifa-presidency?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Heated debate escalates into on-air fight on Armenian TV",
-      "slug": "Heateddebateescalatesint",
-      "time": "2026-11-18T19:56:17.000Z",
+      "headline": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
+      "slug": "Kenyasmilkshortagedeepen",
+      "time": "2026-11-19T00:40:01.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -978,19 +1010,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Heated debate escalates into on-air fight on Armenian TV",
-          "snippet": "A heated political debate on Armenia’s Public Television escalated into a physical altercation",
+          "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
+          "snippet": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/heated-debate-escalates-into-on-air-fight-on-armenian-tv?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Voyager 1 reaches one light-day from Earth after 49 years in space",
-      "slug": "Voyager1reachesonelightd",
-      "time": "2026-11-18T19:30:51.000Z",
+      "headline": "Somalia’s constitutional overhaul tests its fragile federal bargain",
+      "slug": "Somaliasconstitutionalov",
+      "time": "2026-11-19T00:37:03.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -999,19 +1031,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Voyager 1 reaches one light-day from Earth after 49 years in space",
-          "snippet": "NASA’s Voyager 1 has reached a record distance of more than 16 billion miles from Earth, 49 years after its launch.",
+          "title": "Somalia’s constitutional overhaul tests its fragile federal bargain",
+          "snippet": "Mohamud’s reforms promise stronger government, but regional resistance and violence threaten the fragile deal of 2012.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/voyager-1-reaches-one-light-day-from-earth-after-49-years-in-space?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/11/19/somalias-constitutional-overhaul-tests-its-fragile-federal-bargain?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Israeli settler kills Palestinian grandmother in occupied West Bank",
-      "slug": "IsraelisettlerkillsPales",
-      "time": "2026-11-18T19:27:42.000Z",
+      "headline": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+      "slug": "EUgovernmentsapprovetrad",
+      "time": "2026-11-19T00:11:40.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1020,19 +1052,19 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Israeli settler kills Palestinian grandmother in occupied West Bank",
-          "snippet": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
+          "title": "EU governments approve trade deal with Indonesia to offset Trump tariffs",
+          "snippet": "The deal, initially concluded in 2025, will see both sides remove import duties on more than 90 percent of products.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
+          "link": "https://www.aljazeera.com/economy/2026/11/19/eu-governments-approve-trade-deal-with-indonesia-to-offset-trump-tariffs?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
       ]
     },
     {
-      "headline": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-      "slug": "IsraelicourtextendsGazad",
-      "time": "2026-11-18T18:22:26.000Z",
+      "headline": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+      "slug": "IranwarliveSaudiledcoali",
+      "time": "2026-11-19T00:01:02.000Z",
       "independentSources": 1,
       "sources": [
         "Al Jazeera"
@@ -1041,10 +1073,31 @@
       "hasPrimary": false,
       "members": [
         {
-          "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-          "snippet": "An Israeli court extended the detention of Abu Safia nearly two years after Israel&#039;s army detained him.",
+          "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+          "snippet": "Saudi-led coalition says it destroyed a missile platform in Saada, Yemen, as Iran claims three ships hit mines.",
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+          "ty": "press",
+          "linkKind": "article"
+        }
+      ]
+    },
+    {
+      "headline": "Israel uses Gaza swimming video to minimise winter hardships",
+      "slug": "IsraelusesGazaswimmingvi",
+      "time": "2026-11-18T23:53:21.000Z",
+      "independentSources": 1,
+      "sources": [
+        "Al Jazeera"
+      ],
+      "count": 1,
+      "hasPrimary": false,
+      "members": [
+        {
+          "title": "Israel uses Gaza swimming video to minimise winter hardships",
+          "snippet": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad.",
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
           "ty": "press",
           "linkKind": "article"
         }
