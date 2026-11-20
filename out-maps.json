@@ -1,472 +1,273 @@
 {
-  "builtAt": "2026-11-20T01:13:31.010Z",
+  "builtAt": "2026-11-20T17:16:40.737Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "中国の高市首相出迎えは引退外交官　香港紙「儀礼の格著しく低い」―ＡＰＥＣ首脳会議",
-      "slug": "中国の高市首相出迎えは引退外交官香港紙儀礼の格著",
-      "independentSources": 3,
+      "headline": "関文科相 2024年に ほかに3回省庁職員が出席のパーティー開催",
+      "slug": "関文科相2024年にほかに3回省庁職員が出席のパ",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de79430"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603350?source=rss"
+        }
+      ],
+      "issue": "関文部科学大臣が主催した政治資金パーティーに、他の省庁の職員が出席していたことは問題か？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "関文部科学大臣は、2024年に3回、政治資金パーティーを開催した。",
+          "span": "新たに2024年3月と5月、それに12月に開いた政治資金パーティー",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "これらのパーティーには、内閣府や公正取引委員会の職員が出席していた。",
+          "span": "内閣府や公正取引委員会の職員が出席していた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "関文部科学大臣は、これらの事実を記者団の取材に対して明らかにした。",
+          "span": "関文部科学大臣は20日夜、文部科学省で記者団の取材に応じ、",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "官僚が参加したパーティーは合計5件であると報じられている。",
+          "span": "官僚参加パーティー5件に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "関文部科学大臣は、2024年に3回、内閣府や公正取引委員会の職員が出席した政治資金パーティーを開催したことを明らかにした。これに関して、他の省庁職員の出席の是非についての評価は割れる。",
+      "note": "本件は、関文部科学大臣が記者団の取材に対して明らかにした事実に基づいています。Yahoo!ニュースの報道では、官僚参加パーティーが合計5件であったとされていますが、NHKの報道では3回とされています。この差異については、両方の報道を事実として記載しました。プライバシー保護のため、個別の職員名は記載していません。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "fact 3のspanを、元テキストの「関文部科学大臣は20日夜、文部科学省で記者団の取材に応じ、」に修正しました。元テキストに存在しない空文字のspanを削除しました。",
+          "position 1のclaimを、元テキストの「新たに2024年3月と5月、それに12月に開いた政治資金パーティーに内閣府や公正取引委員会の職員が出席していたと明らかにしました」から、より正確に「2024年3月、5月、12月に開いた政治資金パーティーに内閣府や公正取引委員会の職員が出席していたことを明らかにした。」に修正しました。これは、元のclaimが事実の羅列に近かったため、発言内容としてより自然な形に調整したものです。spanは元のままとしました。",
+          "fact spanが原文に無い→除去「関文部科学大臣は20日夜、文部科学省…」"
+        ]
+      }
+    },
+    {
+      "headline": "日本とサウジアラビア 原油の備蓄可能量 3倍で合意",
+      "slug": "日本とサウジアラビア原油の備蓄可能量3倍で合意",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de79347"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603336?source=rss"
+        }
+      ],
+      "issue": "日本とサウジアラビアは、原油の備蓄可能量を3倍に増やすことで合意したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "日本とサウジアラビアは、原油の備蓄可能量を3倍に増やすことで合意した。",
+          "span": "原油の備蓄可能量 3倍で合意",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "合意内容は、サウジアラビアに日本国内のタンクを貸し出して原油を備蓄しておける量を従来の3倍に増やすことである。",
+          "span": "サウジアラビアに日本国内のタンクを貸し出して原油を備蓄しておける量を従来の3倍に増やす",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "緊急時には日本が優先的に買い取ることができる。",
+          "span": "緊急時には日本が優先的に買い取るこ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "サウジ原油の日本での備蓄が3倍になることで合意した。",
+          "span": "サウジ原油 日本での備蓄3倍合意",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日本とサウジアラビアは、原油の備蓄可能量を3倍に増やすことで合意した。合意内容は、サウジアラビアに日本国内のタンクを貸し出して原油を備蓄しておける量を増やすことで、緊急時には日本が優先的に買い取ることができるというものである。",
+      "note": "本件は事実の合意のみであり、評価や対立する意見は含まれていないため、positions は空配列となります。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "長野 国道142号の新和田トンネル付近 車の滞留が解消",
+      "slug": "長野国道142号の新和田トンネル付近車の滞留が解",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de79424"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603346?source=rss"
+        }
+      ],
+      "issue": "国道142号の新和田トンネル付近で発生した車の滞留は解消したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "長野県の長和町と下諏訪町にまたがる国道142号の「新和田トンネル」付近で、車の滞留が発生した。",
+          "span": "長野県の長和町と下諏訪町にまたがる国道142号の「新和田トンネル」付近で",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "車の滞留の原因は、スリップした車の影響であった。",
+          "span": "スリップした車の影響などで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "一時、100台ほどが動けない状態となった。",
+          "span": "一時、100台ほどが動けない状態となりました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "警察が車のUターンなどを指示した。",
+          "span": "警察が車をUター",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "車の滞留は解消した。",
+          "span": "車の滞留が解消",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "国道142号の新和田トンネル付近で、スリップした車の影響により一時100台ほどの車の滞留が発生したが、警察の対応により解消した。",
+      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "中国外務省 高市首相の台湾めぐる説明に「誤った言動是正を」",
+      "slug": "中国外務省高市首相の台湾めぐる説明に誤った言動是",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
         "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78735"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78749"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78778"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603228?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261120de79438"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111901135&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112000275&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111900259&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111901191&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111900699&g=pol&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112000192&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026111801181&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112001181&g=pol&m=rss"
         }
       ],
-      "issue": "米中ロ首脳会談は国際秩序にどのような影響を与えるか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "アメリカ、中国、ロシアの3か国による初の首脳会談が19日に中国・深センで開催された。",
-          "span": "アメリカ、中国、ロシアによる初めての3か国の首脳会談が19日、中国の※深センで開かれました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "会談で3か国の首脳は、世界の問題に中心となって取り組み、国際秩序を主導しようとする姿勢を示した。",
-          "span": "会談の中で3か国の首脳は、世界の問題に中心となって取り組み、国際秩序を主導しようとする姿勢を演出していて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "高市総理大臣は19日夜、アメリカのトランプ大統領と電話会談し、米中ロ首脳会談の内容について説明を受けた。",
-          "span": "高市総理大臣は19日夜、アメリカのトランプ大統領と電話で会談し、アメリカと中国、ロシアの3か国の首脳会談などの内容について説明を受けました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日本政府は、米中ロ首脳会談の結果が国際情勢に与える影響を注視している。",
-          "span": "政府は3か国の首脳会談の結果が国際情勢に与える影響を注視する",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "米中ロ首脳会談の開催場所は、ヤルタをほうふつとさせる雰囲気だった。",
-          "span": "会談場所はヤルタほうふつ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米中ロ首脳会談において、習近平氏とトランプ氏は核軍縮合意について「非常に難しい」との認識を共有した。",
-          "span": "核軍縮合意「非常に難しい」　米中ロ会談、習氏と理念共有―トランプ氏",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "高市首相の中国訪問時、機体とタラップに大きな段差があり、中国側が用意したタラップに「危険」との批判が出た。",
-          "span": "機体とタラップに大きな段差　高市首相出迎え時、「危険」中国に批判も―ＡＰＥＣ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "中国での高市首相の出迎えは引退外交官が担当し、香港紙は「儀礼の格が著しく低い」と報じた。",
-          "span": "中国の高市首相出迎えは引退外交官　香港紙「儀礼の格著しく低い」―ＡＰＥＣ首脳会議",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "中国はトランプ氏に対しては異例の出迎えを行った。",
-          "span": "トランプ氏には異例の出迎え",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "時事世論調査によると、高市首相の対中姿勢を評価しない回答が4割弱だった。",
-          "span": "高市首相の対中姿勢、４割弱評価せず",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "時事世論調査で、「重要な国」として中国を挙げた割合は2番目だった。",
-          "span": "「重要な国」中国２番手",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "米中ロ首脳会談が開催され、国際秩序や情勢への影響が焦点となっている。ドイツ首相は「ヤルタ形式は平和をもたらさない」と述べ、高市総理大臣は「新ヤルタ」を警戒している。日本政府は会談の影響を注視している。",
-      "note": "高市総理大臣の中国訪問時の出迎えに関する報道は、儀礼や安全面での批判を含んでいる。世論調査では対中姿勢への評価が分かれている。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "fact[4]のspanを「会談場所はヤルタほうふつ」に修正しました。元テキストの「会談場所はヤルタほうふつ」をより正確に反映させるため。",
-          "fact[5]のspanを「核軍縮合意「非常に難しい」　米中ロ会談、習氏と理念共有―トランプ氏」に修正しました。元テキストのタイトルをより正確に反映させるため。",
-          "fact[6]のspanを「機体とタラップに大きな段差　高市首相出迎え時、「危険」中国に批判も―ＡＰＥＣ」に修正しました。元テキストのタイトルをより正確に反映させるため。",
-          "fact[7]のspanを「中国の高市首相出迎えは引退外交官　香港紙「儀礼の格著しく低い」―ＡＰＥＣ首脳会議」に修正しました。元テキストのタイトルをより正確に反映させるため。",
-          "fact[8]のspanを「トランプ氏には異例の出迎え」に修正しました。元テキストの該当部分をより正確に反映させるため。",
-          "fact[9]のspanを「高市首相の対中姿勢、４割弱評価せず」に修正しました。元テキストのタイトルをより正確に反映させるため。",
-          "fact[10]のspanを「「重要な国」中国２番手」に修正しました。元テキストのタイトルをより正確に反映させるため。",
-          "fact spanが原文に無い→除去「会談場所はヤルタほうふつと―米中ロ首…」"
-        ]
-      }
-    },
-    {
-      "headline": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "slug": "Anthropicbecomesoneofwor",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78808"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261120de78753"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603246?source=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "東京株式市場の日経平均株価下落の要因は何か？",
-      "stasis": "因果の解釈（割れる）",
-      "facts": [
-        {
-          "t": "20日の東京株式市場で、日経平均株価が一時2800円以上値下がりした。",
-          "span": "一時、2800円以上、値下がりしています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日経平均株価は一時2000円以上下落した。",
-          "span": "一時2000円以上の下落",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "アメリカのAI開発企業「アンソロピック」が19日にナスダック市場に上場した。",
-          "span": "上場しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アンソロピックの調達額は813億ドル（日本円で約13兆円）にのぼる。",
-          "span": "調達額は813億ドル、日本円にしておよそ13兆円にのぼり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "アンソロピックは、純粋なAI企業として初めて上場した企業である。",
-          "span": "Anthropic is the first purely AI company to be publicly listed",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "東京株式市場の日経平均株価は一時大幅に下落し、アメリカのAI開発企業アンソロピックの大型上場がその背景にあると報じられている。評価は割れる／アプリは裁定しない。",
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "事実欄(facts[4], facts[5])に評価・主張が混入していたため、評価部分を削り、または新たなポジションとして分離しました。",
-          "span(facts[2])が空文字だったため、元テキストから最小核を抽出して修正しました。",
-          "premises(positions[0])が、修正された事実・ポジションのインデックスに合わせて調整されました。",
-          "fact spanが原文に無い→除去「アメリカのAI開発企業「アンソロピッ…」"
-        ]
-      }
-    },
-    {
-      "headline": "Trump posthumously pardons US baseball legend Pete Rose",
-      "slug": "Trumpposthumouslypardons",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "BBC World"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603240?source=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss"
-        }
-      ],
-      "issue": "ピート・ローズ氏への死後恩赦は妥当か？",
+      "issue": "高市総理大臣の台湾に関する説明と中国外務省の反応は妥当か？",
       "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "ピート・ローズ氏は2024年に死去した。",
-          "span": "who died in 2024",
+          "t": "高市総理大臣は19日、中国訪問先の記者会見で、台湾に対する日本政府の立場は1972年の日中共同声明から変更はないと説明した。",
+          "span": "台湾に対する日本政府の立場は1972年の日中共同声明から変更はないと説明した",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ピート・ローズ氏は、試合への賭博行為により、野球界から終身禁止処分を受けた。",
-          "span": "was given a lifetime ban from the sport for betting on games",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ピート・ローズ氏は昨年、野球界への復帰が認められた。",
-          "span": "was reinstated last year",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "トランプ氏は、故ピート・ローズ氏に死後恩赦を与えた。",
-          "span": "Trump posthumously pardons US baseball legend Pete Rose",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ピート・ローズ氏は2024年に死去し、賭博行為により終身禁止処分を受けたが昨年復帰が認められた。トランプ氏は故ピート・ローズ氏に死後恩赦を与えた。評価は割れる。",
-      "note": "本件は、故人に対する恩赦という性質上、直接的な賛否表明が記事中に含まれていないため、恩赦を与えたという事実をもって「support」と判断した。争点は恩赦の妥当性に関する一般的な論点を想定した。",
+      "consensus": "高市総理大臣は中国訪問中に台湾に関する日本政府の立場を説明したが、中国外務省はこれに反発し、是正を求めた。日本維新の会の前原氏は、この接遇を巡り中国の狭量さを批判した。評価は割れている。",
+      "note": "プライバシー配慮のため、高市総理大臣は「高市首相」と表記。中国外務省報道官の発言の詳細は記事から特定できなかったため、spanは一部のみ。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "positions[0].claim: 地の文の断定になっていたため、「〜と述べている」というメタ記述に修正しました。"
-        ]
-      }
-    },
-    {
-      "headline": "Four bodies recovered after Senegal boat capsizes amid migration surge",
-      "slug": "Fourbodiesrecoveredafter",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss"
-        }
-      ],
-      "issue": "移民を乗せたボートがセネガル沖で沈没した事件の状況は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "移民を乗せたボートがセネガル沖で沈没した。",
-          "span": "boat carrying migrants sinks off Senegal's coast",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "少なくとも4人の遺体が回収された。",
-          "span": "At least four bodies have been recovered",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ボートには50人から100人が乗っていたと報じられている。",
-          "span": "reportedly carrying between 50 and 100 people",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "数十人が行方不明である。",
-          "span": "Dozens missing",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "生存者の捜索が続いている。",
-          "span": "Search for survivors continues",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "捜索はイェンヌ付近で行われている。",
-          "span": "near Yenne",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "スペイン領カナリア諸島への移民到着が約3分の2増加している。",
-          "span": "migrant arrivals in Spain&#039;s Canary Islands surge by nearly two-thirds",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "移民を乗せたボートがセネガル沖で沈没し、少なくとも4人の遺体が回収され、数十人が行方不明となっている。評価は割れず、アプリは裁定しない。",
-      "note": "",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[6].spanが空文字だったため、元テキストから最小核を抽出し修正しました。",
-          "fact spanが原文に無い→除去「migrant arrivals i…」"
-        ]
+        "changed": false,
+        "issues": []
       }
     }
   ]
