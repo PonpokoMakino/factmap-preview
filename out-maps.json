@@ -1,270 +1,301 @@
 {
-  "builtAt": "2026-11-20T17:16:40.737Z",
+  "builtAt": "2026-11-21T19:45:26.788Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "関文科相 2024年に ほかに3回省庁職員が出席のパーティー開催",
-      "slug": "関文科相2024年にほかに3回省庁職員が出席のパ",
+      "headline": "French police officers sentenced for beating of music producer Michel Zecler",
+      "slug": "Frenchpoliceofficerssent",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261120de79430"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603350?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss"
         }
       ],
-      "issue": "関文部科学大臣が主催した政治資金パーティーに、他の省庁の職員が出席していたことは問題か？",
-      "stasis": "政策",
+      "issue": "フィンランド湾でロシアに向かう船舶が攻撃されたのは、ウクライナのドローン攻撃によるものか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "関文部科学大臣は、2024年に3回、政治資金パーティーを開催した。",
-          "span": "新たに2024年3月と5月、それに12月に開いた政治資金パーティー",
+          "t": "フィンランド国防軍は、フィンランド湾でロシアに向かう船舶が攻撃されたと発表した。",
+          "span": "Russia-bound ship attacked in Gulf of Finland",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "これらのパーティーには、内閣府や公正取引委員会の職員が出席していた。",
-          "span": "内閣府や公正取引委員会の職員が出席していた",
+          "t": "フィンランド国防軍は、この攻撃はウクライナによるドローン攻撃であった可能性が高いと述べている。",
+          "span": "Ukraine was likely behind the drone attack on the vessel",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "関文部科学大臣は、これらの事実を記者団の取材に対して明らかにした。",
-          "span": "関文部科学大臣は20日夜、文部科学省で記者団の取材に応じ、",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "官僚が参加したパーティーは合計5件であると報じられている。",
-          "span": "官僚参加パーティー5件に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "関文部科学大臣は、2024年に3回、内閣府や公正取引委員会の職員が出席した政治資金パーティーを開催したことを明らかにした。これに関して、他の省庁職員の出席の是非についての評価は割れる。",
-      "note": "本件は、関文部科学大臣が記者団の取材に対して明らかにした事実に基づいています。Yahoo!ニュースの報道では、官僚参加パーティーが合計5件であったとされていますが、NHKの報道では3回とされています。この差異については、両方の報道を事実として記載しました。プライバシー保護のため、個別の職員名は記載していません。",
+      "consensus": "フィンランド国防軍は、フィンランド湾でロシアに向かう船舶へのドローン攻撃の背後にはウクライナがいる可能性が高いと発表した。",
+      "note": "プライバシー配慮のため、攻撃された船舶の具体的な情報は省略した。",
       "audit": {
         "changed": true,
         "issues": [
-          "fact 3のspanを、元テキストの「関文部科学大臣は20日夜、文部科学省で記者団の取材に応じ、」に修正しました。元テキストに存在しない空文字のspanを削除しました。",
-          "position 1のclaimを、元テキストの「新たに2024年3月と5月、それに12月に開いた政治資金パーティーに内閣府や公正取引委員会の職員が出席していたと明らかにしました」から、より正確に「2024年3月、5月、12月に開いた政治資金パーティーに内閣府や公正取引委員会の職員が出席していたことを明らかにした。」に修正しました。これは、元のclaimが事実の羅列に近かったため、発言内容としてより自然な形に調整したものです。spanは元のままとしました。",
-          "fact spanが原文に無い→除去「関文部科学大臣は20日夜、文部科学省…」"
+          "issueをより具体的に修正しました。",
+          "factsに元テキストから抽出できる情報を追加しました。",
+          "factsのspanを元テキストに存在する表現に修正しました。",
+          "consensusをfactsの内容と一致するように修正しました。"
         ]
       }
     },
     {
-      "headline": "日本とサウジアラビア 原油の備蓄可能量 3倍で合意",
-      "slug": "日本とサウジアラビア原油の備蓄可能量3倍で合意",
+      "headline": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+      "slug": "LiverpoolvsManchesterUni",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261120de79347"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603336?source=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss"
         }
       ],
-      "issue": "日本とサウジアラビアは、原油の備蓄可能量を3倍に増やすことで合意したか？",
+      "issue": "FBIの犯罪データベースがハッキングされたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "日本とサウジアラビアは、原油の備蓄可能量を3倍に増やすことで合意した。",
-          "span": "原油の備蓄可能量 3倍で合意",
+          "t": "FBIの犯罪データベースがハッキングされたと報じられている。",
+          "span": "FBI reportedly investigating apparent hack of its criminal database",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "合意内容は、サウジアラビアに日本国内のタンクを貸し出して原油を備蓄しておける量を従来の3倍に増やすことである。",
-          "span": "サウジアラビアに日本国内のタンクを貸し出して原油を備蓄しておける量を従来の3倍に増やす",
+          "t": "FBIのNational Crime Information Centerデータベースは、連邦および地方の法執行機関が情報を共有するために使用されている。",
+          "span": "The National Crime Information Center database is used by federal and local law enforcement to share information",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "緊急時には日本が優先的に買い取ることができる。",
-          "span": "緊急時には日本が優先的に買い取るこ",
+          "t": "FBIの全国犯罪データベースが、ハッキングの疑いを受けていると報じられている。",
+          "span": "FBI national crime database suffers suspected breach: Reports",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "サウジ原油の日本での備蓄が3倍になることで合意した。",
-          "span": "サウジ原油 日本での備蓄3倍合意",
+          "t": "このハッキングの報告は、米国政府を悩ませる一連の侵害と停止の最新のものである。",
+          "span": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "日本とサウジアラビアは、原油の備蓄可能量を3倍に増やすことで合意した。合意内容は、サウジアラビアに日本国内のタンクを貸し出して原油を備蓄しておける量を増やすことで、緊急時には日本が優先的に買い取ることができるというものである。",
-      "note": "本件は事実の合意のみであり、評価や対立する意見は含まれていないため、positions は空配列となります。",
+      "consensus": "FBIの犯罪データベースがハッキングされたと報じられている。このデータベースは法執行機関の情報共有に使用されている。この件は米国政府を悩ませる一連の侵害の最新のものである。",
+      "note": "プライバシー配慮のため、個別の事件や人物に関する詳細な情報は省略しました。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "長野 国道142号の新和田トンネル付近 車の滞留が解消",
-      "slug": "長野国道142号の新和田トンネル付近車の滞留が解",
+      "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "slug": "ZelenskysaysCrimeanBridg",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261120de79424"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603346?source=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss"
         }
       ],
-      "issue": "国道142号の新和田トンネル付近で発生した車の滞留は解消したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "長野県の長和町と下諏訪町にまたがる国道142号の「新和田トンネル」付近で、車の滞留が発生した。",
-          "span": "長野県の長和町と下諏訪町にまたがる国道142号の「新和田トンネル」付近で",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "車の滞留の原因は、スリップした車の影響であった。",
-          "span": "スリップした車の影響などで",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "一時、100台ほどが動けない状態となった。",
-          "span": "一時、100台ほどが動けない状態となりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "警察が車のUターンなどを指示した。",
-          "span": "警察が車をUター",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "車の滞留は解消した。",
-          "span": "車の滞留が解消",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "国道142号の新和田トンネル付近で、スリップした車の影響により一時100台ほどの車の滞留が発生したが、警察の対応により解消した。",
-      "note": "本件は事実の記述のみであり、評価や意見の対立は見られないため、positions は空となります。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "中国外務省 高市首相の台湾めぐる説明に「誤った言動是正を」",
-      "slug": "中国外務省高市首相の台湾めぐる説明に誤った言動是",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261120de79438"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112001181&g=pol&m=rss"
-        }
-      ],
-      "issue": "高市総理大臣の台湾に関する説明と中国外務省の反応は妥当か？",
+      "issue": "クリミア橋への攻撃は正当な対応か？",
       "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "高市総理大臣は19日、中国訪問先の記者会見で、台湾に対する日本政府の立場は1972年の日中共同声明から変更はないと説明した。",
-          "span": "台湾に対する日本政府の立場は1972年の日中共同声明から変更はないと説明した",
+          "t": "ウクライナのゼレンスキー大統領は、ロシアによるウクライナの橋への109回の別々の空襲の後、キエフが行動したと述べた。",
+          "span": "Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルによる空爆で、食料を運ぶ車両が攻撃され、3人のパレスチナ人が死亡した。",
+          "span": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ロシアによる攻撃がクリヴィーリ・リフで発生し、2人が死亡、60人が負傷した。",
+          "span": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ロシアのミサイルがNATO加盟国のポーランドに着弾した。",
+          "span": "Russian missiles land in NATO member Poland",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシアのミサイルがNATO加盟国のポーランドに着弾したという事実は合意されている。クリミア橋への攻撃の正当性については、ウクライナ大統領は公正な対応であると主張しているが、他の立場からの直接的な言及はない。イスラエルとロシアによる攻撃の事実も報じられているが、それらに対する評価は割れる可能性がある。",
+      "note": "プライバシー配慮のため、被害者の個人名は記載しない。各記事の出典を明記。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅",
+      "slug": "金塊4億円相当や現金約2500万円など盗まれる兵",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79776"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603477?source=rss"
+        }
+      ],
+      "issue": "兵庫県西宮市の住宅から金塊と現金が盗まれた事件の概要は何か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "兵庫県西宮市の会社経営者の住宅に何者かが侵入し、金塊およそ20キロや現金およそ2500万円などが盗まれる被害が確認された。",
+          "span": "金塊およそ20キロや現金およそ2500万円などが盗まれる被害が確認されました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
             }
           ]
+        },
+        {
+          "t": "金塊20キロは現在の金の価格で4億円相当にのぼる。",
+          "span": "金塊20キロは現在の金の価格で4億円相当にのぼり",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "事件は21日未明に発生した。",
+          "span": "21日未明",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警察が窃盗事件として捜査している。",
+          "span": "警察が窃盗事",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "金塊20kgなどが兵庫県西宮市の住宅から盗まれた。",
+          "span": "金塊20kgなど盗まれる 兵庫の住宅",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "高市総理大臣は中国訪問中に台湾に関する日本政府の立場を説明したが、中国外務省はこれに反発し、是正を求めた。日本維新の会の前原氏は、この接遇を巡り中国の狭量さを批判した。評価は割れている。",
-      "note": "プライバシー配慮のため、高市総理大臣は「高市首相」と表記。中国外務省報道官の発言の詳細は記事から特定できなかったため、spanは一部のみ。",
+      "consensus": "兵庫県西宮市の会社経営者の住宅から、21日未明に金塊およそ20キロ（4億円相当）や現金およそ2500万円などが盗まれる被害が確認され、警察が捜査している。",
+      "note": "プライバシーに配慮し、被害者の氏名や詳細な住所は記載しない。",
       "audit": {
         "changed": false,
         "issues": []
