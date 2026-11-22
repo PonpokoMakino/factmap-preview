@@ -1,10 +1,111 @@
 {
-  "builtAt": "2026-11-21T19:45:26.788Z",
+  "builtAt": "2026-11-22T14:27:16.097Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "French police officers sentenced for beating of music producer Michel Zecler",
-      "slug": "Frenchpoliceofficerssent",
+      "headline": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
+      "slug": "COP31成果文書採択断念化石燃料からの脱却言及",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79933"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603603?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112200386&g=soc&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112200384&g=flash&m=rss"
+        }
+      ],
+      "issue": "COP31の成果文書は採択されるか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "気候変動対策を話し合う国連の会議「COP31」がトルコで開催された。",
+          "span": "トルコで開かれている気候変動対策を話し合う国連の会議「COP31」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "COP31は会期を延長して行われた。",
+          "span": "22日も会期を延長して行われましたが",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "議長国トルコは、会議全体を総括する成果文書の採択を断念すると明らかにした。",
+          "span": "議長国トルコは会議全体を総括する成果文書の採択を断念すると明らかにしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "COP31は成果文書の採択を断念した。",
+          "span": "成果文書の採択断念",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "COP31は成果文書の採択を断念した。",
+          "span": "ＣＯＰ３１は成果文書の採択を断念した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "COP31の合意採択が断念された。",
+          "span": "COP31合意採択断念",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "COP31は成果文書の採択を断念した。化石燃料からの脱却への言及がないことに対し、EUなどは反対や反発の声を上げている。",
+      "note": "プライバシー配慮のため、具体的な反対・反発の主体は「EUなど」および「（特定されていない）」と表記しています。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "actorを「EUなど」から「（特定されていない）」に変更しました。元テキストでは「EUなど」としか書かれていないため、より正確な表記に修正しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+      "slug": "Israelisettlersattacksev",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -16,28 +117,20 @@
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss"
         }
       ],
-      "issue": "フィンランド湾でロシアに向かう船舶が攻撃されたのは、ウクライナのドローン攻撃によるものか？",
+      "issue": "フィンランド湾でロシア行き船舶が攻撃された事件の背後にはウクライナがいるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "フィンランド国防軍は、フィンランド湾でロシアに向かう船舶が攻撃されたと発表した。",
-          "span": "Russia-bound ship attacked in Gulf of Finland",
+          "t": "フィンランド湾でロシアに向かう船舶が攻撃を受け、現在も炎上している。",
+          "span": "Russia-bound ship still on fire after attack in Gulf of Finland",
           "src": [
             {
               "ty": "press",
@@ -46,7 +139,7 @@
           ]
         },
         {
-          "t": "フィンランド国防軍は、この攻撃はウクライナによるドローン攻撃であった可能性が高いと述べている。",
+          "t": "フィンランド国防軍は、ドローン攻撃の背後にウクライナがいる可能性が高いと発表した。",
           "span": "Ukraine was likely behind the drone attack on the vessel",
           "src": [
             {
@@ -54,197 +147,93 @@
               "l": "BBC World"
             }
           ]
+        },
+        {
+          "t": "サウジアラビアはドローンとミサイルを迎撃した。",
+          "span": "Saudi Arabia intercepts drone, missile",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "フーシ派メディアは、サヌアへの攻撃で数人が負傷したと報じた。",
+          "span": "several people were injured in an attack on an oil company",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "サウジアラビアの防空部隊がドローンを撃墜した。",
+          "span": "Saudi air defences down a drone",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "占領下のヨルダン川西岸地区で、イスラエルの入植者たちが複数のパレスチナ人の村を襲撃した。",
+          "span": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ラマラ県とエルビレ県での襲撃には、車両12台の焼却や、住宅への人種差別的なスローガンのスプレーが含まれていた。",
+          "span": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "フィンランド国防軍は、フィンランド湾でロシアに向かう船舶へのドローン攻撃の背後にはウクライナがいる可能性が高いと発表した。",
-      "note": "プライバシー配慮のため、攻撃された船舶の具体的な情報は省略した。",
+      "consensus": "フィンランド湾でロシア行き船舶が攻撃を受け炎上している。サウジアラビアはドローンとミサイルを迎撃し、フーシ派メディアはサヌアへの攻撃で負傷者が出たと報じた。占領下のヨルダン川西岸地区では、イスラエルの入植者がパレスチナの村を襲撃し、車両焼却やスローガン書き込みがあった。フィンランド国防軍は、フィンランド湾の攻撃の背後にウクライナがいる可能性が高いと発表した。",
+      "note": "プライバシー配慮のため、事件の被害者や容疑者の特定につながる情報は含んでいません。",
       "audit": {
         "changed": true,
         "issues": [
-          "issueをより具体的に修正しました。",
-          "factsに元テキストから抽出できる情報を追加しました。",
-          "factsのspanを元テキストに存在する表現に修正しました。",
-          "consensusをfactsの内容と一致するように修正しました。"
+          "consensus: 元のconsensusに「評価は割れる。」という評価語が含まれていたため削除しました。",
+          "positions: positionsのclaimが「ドローン攻撃の背後にウクライナがいる可能性が高い。」となっており、事実のtと重複していたため、「ドローン攻撃の背後にウクライナがいる可能性が高いと発表した。」と、発言主体と行動を明確にする形に修正しました。"
         ]
       }
     },
     {
-      "headline": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
-      "slug": "LiverpoolvsManchesterUni",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss"
-        }
-      ],
-      "issue": "FBIの犯罪データベースがハッキングされたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "FBIの犯罪データベースがハッキングされたと報じられている。",
-          "span": "FBI reportedly investigating apparent hack of its criminal database",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "FBIのNational Crime Information Centerデータベースは、連邦および地方の法執行機関が情報を共有するために使用されている。",
-          "span": "The National Crime Information Center database is used by federal and local law enforcement to share information",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "FBIの全国犯罪データベースが、ハッキングの疑いを受けていると報じられている。",
-          "span": "FBI national crime database suffers suspected breach: Reports",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "このハッキングの報告は、米国政府を悩ませる一連の侵害と停止の最新のものである。",
-          "span": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "FBIの犯罪データベースがハッキングされたと報じられている。このデータベースは法執行機関の情報共有に使用されている。この件は米国政府を悩ませる一連の侵害の最新のものである。",
-      "note": "プライバシー配慮のため、個別の事件や人物に関する詳細な情報は省略しました。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "slug": "ZelenskysaysCrimeanBridg",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss"
-        }
-      ],
-      "issue": "クリミア橋への攻撃は正当な対応か？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "ウクライナのゼレンスキー大統領は、ロシアによるウクライナの橋への109回の別々の空襲の後、キエフが行動したと述べた。",
-          "span": "Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "イスラエルによる空爆で、食料を運ぶ車両が攻撃され、3人のパレスチナ人が死亡した。",
-          "span": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ロシアによる攻撃がクリヴィーリ・リフで発生し、2人が死亡、60人が負傷した。",
-          "span": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ロシアのミサイルがNATO加盟国のポーランドに着弾した。",
-          "span": "Russian missiles land in NATO member Poland",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ロシアのミサイルがNATO加盟国のポーランドに着弾したという事実は合意されている。クリミア橋への攻撃の正当性については、ウクライナ大統領は公正な対応であると主張しているが、他の立場からの直接的な言及はない。イスラエルとロシアによる攻撃の事実も報じられているが、それらに対する評価は割れる可能性がある。",
-      "note": "プライバシー配慮のため、被害者の個人名は記載しない。各記事の出典を明記。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅",
-      "slug": "金塊4億円相当や現金約2500万円など盗まれる兵",
+      "headline": "大相撲九州場所 大の里 7回目の優勝 若元春との優勝決定戦制す",
+      "slug": "大相撲九州場所大の里7回目の優勝若元春との優勝決",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261121de79776"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79989"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603477?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112200315&g=spo&m=rss"
         }
       ],
-      "issue": "兵庫県西宮市の住宅から金塊と現金が盗まれた事件の概要は何か？",
+      "issue": "大の里は九州場所で7回目の優勝を果たしたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "兵庫県西宮市の会社経営者の住宅に何者かが侵入し、金塊およそ20キロや現金およそ2500万円などが盗まれる被害が確認された。",
-          "span": "金塊およそ20キロや現金およそ2500万円などが盗まれる被害が確認されました",
+          "t": "大相撲九州場所で、大の里が優勝した。",
+          "span": "大相撲九州場所は千秋楽、横綱・大の里が13勝2敗で並んだ平幕の若元春との優勝決定戦を制し、7回目の優勝を果たしました。",
           "src": [
             {
               "ty": "press",
@@ -253,8 +242,8 @@
           ]
         },
         {
-          "t": "金塊20キロは現在の金の価格で4億円相当にのぼる。",
-          "span": "金塊20キロは現在の金の価格で4億円相当にのぼり",
+          "t": "大の里は13勝2敗で優勝決定戦に進んだ。",
+          "span": "13勝2敗で並んだ平幕の若元春との優勝決定戦",
           "src": [
             {
               "ty": "press",
@@ -263,8 +252,8 @@
           ]
         },
         {
-          "t": "事件は21日未明に発生した。",
-          "span": "21日未明",
+          "t": "大の里は若元春との優勝決定戦を制した。",
+          "span": "若元春との優勝決定戦を制し",
           "src": [
             {
               "ty": "press",
@@ -273,8 +262,8 @@
           ]
         },
         {
-          "t": "警察が窃盗事件として捜査している。",
-          "span": "警察が窃盗事",
+          "t": "大の里は7回目の優勝を果たした。",
+          "span": "7回目の優勝を果たしました",
           "src": [
             {
               "ty": "press",
@@ -283,8 +272,78 @@
           ]
         },
         {
-          "t": "金塊20kgなどが兵庫県西宮市の住宅から盗まれた。",
-          "span": "金塊20kgなど盗まれる 兵庫の住宅",
+          "t": "大の里は横綱に昇進してから初めて、2場所連続での優勝となった。",
+          "span": "大の里は横綱に昇進してから初めての2場所連続での優勝となります",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "大の里が2場所連続優勝し、横綱昇進後では初となったことが報じられた。",
+          "span": "大の里が２場所連続優勝　横綱昇進後では初",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "大の里は九州場所で7回目の優勝を果たし、横綱昇進後では初めての2場所連続優勝となった。",
+      "note": "",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "木原官房長官、関文科相に説明求める　「交代示唆」否定",
+      "slug": "木原官房長官関文科相に説明求める交代示唆否定",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603601?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112200341&g=pol&m=rss"
+        }
+      ],
+      "issue": "木原官房長官は関文科相の「交代示唆」発言を否定したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "木原官房長官は、関文科相が自身の交代を示唆したとの報道について、否定した。",
+          "span": "否定",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "t": "木原官房長官は、関文科相に説明を求めた。",
+          "span": "関文科相に説明求める",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "関文科相は、自身の交代を示唆したとの報道について、否定した。",
+          "span": "交代示唆",
           "src": [
             {
               "ty": "press",
@@ -294,8 +353,8 @@
         }
       ],
       "positions": [],
-      "consensus": "兵庫県西宮市の会社経営者の住宅から、21日未明に金塊およそ20キロ（4億円相当）や現金およそ2500万円などが盗まれる被害が確認され、警察が捜査している。",
-      "note": "プライバシーに配慮し、被害者の氏名や詳細な住所は記載しない。",
+      "consensus": "木原官房長官は関文科相の「交代示唆」発言を否定し、関文科相に説明を求めた。関文科相も自身の交代示唆を否定した。",
+      "note": "両記事とも事実関係の記述に留まり、評価や対立する意見は含まれていないため、positions は空となる。",
       "audit": {
         "changed": false,
         "issues": []
