@@ -1,15 +1,16 @@
 {
-  "builtAt": "2026-11-22T14:27:16.097Z",
+  "builtAt": "2026-11-22T20:47:28.806Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
-      "slug": "COP31成果文書採択断念化石燃料からの脱却言及",
-      "independentSources": 3,
+      "headline": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "slug": "COP31failstoreachmajorcl",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
@@ -21,20 +22,24 @@
           "link": "https://news.yahoo.co.jp/pickup/6603603?source=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112200386&g=soc&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112200384&g=flash&m=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/22/why-has-the-cop31-climate-summit-failed-to-reach-agreement?traffic_source=rss"
         }
       ],
-      "issue": "COP31の成果文書は採択されるか？",
-      "stasis": "事実",
+      "issue": "COP31の成果文書は採択されるべきか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "気候変動対策を話し合う国連の会議「COP31」がトルコで開催された。",
-          "span": "トルコで開かれている気候変動対策を話し合う国連の会議「COP31」",
+          "t": "気候変動対策を話し合う国連の会議「COP31」が、会期を延長したものの、成果文書を採択できずに閉幕した。",
+          "span": "会議全体を総括する成果文書を採択できずに閉幕しました",
           "src": [
             {
               "ty": "press",
@@ -43,69 +48,156 @@
           ]
         },
         {
-          "t": "COP31は会期を延長して行われた。",
-          "span": "22日も会期を延長して行われましたが",
+          "t": "COP31の交渉は、歴史上最も長く続いた交渉となった。",
+          "span": "The talks have been the longest-running in the summit's history",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "議長国トルコは、会議全体を総括する成果文書の採択を断念すると明らかにした。",
-          "span": "議長国トルコは会議全体を総括する成果文書の採択を断念すると明らかにしました",
+          "t": "交渉は、会期が2日延長された後に決裂した。",
+          "span": "negotiations breaking down two days after they had",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "COP31は成果文書の採択を断念した。",
-          "span": "成果文書の採択断念",
+          "t": "化石燃料からの脱却に関する言及の有無が、交渉決裂の主な原因となった。",
+          "span": "Fossil fuels are at the centre of deep division",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "COP31は成果文書の採択を断念した。",
-          "span": "ＣＯＰ３１は成果文書の採択を断念した",
+          "t": "COP31の交渉は、化石燃料への言及を巡る対立により、大きな進展を見いだせなかった。",
+          "span": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "COP31の合意採択が断念された。",
-          "span": "COP31合意採択断念",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "COP31は成果文書の採択を断念した。化石燃料からの脱却への言及がないことに対し、EUなどは反対や反発の声を上げている。",
-      "note": "プライバシー配慮のため、具体的な反対・反発の主体は「EUなど」および「（特定されていない）」と表記しています。",
+      "consensus": "COP31は成果文書を採択できずに閉幕した。化石燃料からの脱却に関する言及を巡る対立が交渉決裂の主な原因となった。",
+      "note": "プライバシー配慮のため、具体的な反対・反発の主体は特定せず「EUなど」「（特定度・低）」とした。",
       "audit": {
-        "changed": true,
-        "issues": [
-          "actorを「EUなど」から「（特定されていない）」に変更しました。元テキストでは「EUなど」としか書かれていないため、より正確な表記に修正しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-      "slug": "Israelisettlersattacksev",
+      "headline": "Three killed and dozens missing after fire at Indonesian factory",
+      "slug": "Threekilledanddozensmiss",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム",
+        "BBC World"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80114"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80121"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112200292&g=int&m=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "issue": "ウクライナへのロシアによる攻撃は激化しているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ウクライナの首都キーウ近郊で、22日に無人機攻撃があり、集合住宅などが被害を受け、4人が死亡した。",
+          "span": "首都キーウ近郊の集合住宅などが無人機攻撃を受けあわせて4人が死亡しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "ロシア軍によるウクライナへの攻撃は、この数日で激しさを増している。",
+          "span": "ロシア軍の攻撃はこの数日で激しさを増していて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアの首都ジャカルタ近郊の菓子の製造工場で、21日に火災が発生した。",
+          "span": "インドネシアの首都ジャカルタの近郊にある菓子の製造工場で21日、火災が発生し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアの火災で、3人が死亡し、36人が行方不明になっている。",
+          "span": "3人が死亡し、36人が行方不明になっています",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアの菓子工場火災で、3人が死亡し、多数が行方不明と報じられている。",
+          "span": "At least three people were killed and many more feared dead after a fire at a confectionary factory",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "インドネシアの菓子工場火災で、20人超が死亡した可能性があると報じられており、捜索が継続されている。",
+          "span": "菓子工場で火災、２０人超死亡か　インドネシア、捜索継続へ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ウクライナへの攻撃は激しさを増していると報じられている。インドネシアの菓子工場火災では死者と行方不明者が出ており、捜索が継続されている。",
+      "note": "複数の事件に関する報道を構造化。ウクライナ情勢とインドネシアの火災は別個の事象。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "slug": "ExplosiononRussianshipat",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -114,23 +206,27 @@
       "links": [
         {
           "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
           "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss"
         }
       ],
-      "issue": "フィンランド湾でロシア行き船舶が攻撃された事件の背後にはウクライナがいるか？",
+      "issue": "ロシア船への攻撃はドローンによるものか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "フィンランド湾でロシアに向かう船舶が攻撃を受け、現在も炎上している。",
-          "span": "Russia-bound ship still on fire after attack in Gulf of Finland",
+          "t": "リビアの港でロシア船が爆発を起こした。",
+          "span": "Explosion on Russian ship at Libya port",
           "src": [
             {
               "ty": "press",
@@ -139,8 +235,8 @@
           ]
         },
         {
-          "t": "フィンランド国防軍は、ドローン攻撃の背後にウクライナがいる可能性が高いと発表した。",
-          "span": "Ukraine was likely behind the drone attack on the vessel",
+          "t": "リビアの東部政府によると、その船はロシアへの帰路で燃料と物資補給のために停泊していた。",
+          "span": "the ship had stopped for fuel and supplies on its way back to Russia",
           "src": [
             {
               "ty": "press",
@@ -149,8 +245,28 @@
           ]
         },
         {
-          "t": "サウジアラビアはドローンとミサイルを迎撃した。",
-          "span": "Saudi Arabia intercepts drone, missile",
+          "t": "フィンランド湾でロシアに向かう船が攻撃を受けた後、曳航された。",
+          "span": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "フィンランド国防軍は、土曜日のドローン攻撃の背後にウクライナがいる可能性が高いと述べている。",
+          "span": "Ukraine was likely behind the drone strike on Saturday",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "シアトル空港でのICE（移民・関税執行局）による逮捕について、当局者らが非難している。",
+          "span": "Officials condemn ICE arrests at Seattle airport",
           "src": [
             {
               "ty": "press",
@@ -159,8 +275,8 @@
           ]
         },
         {
-          "t": "フーシ派メディアは、サヌアへの攻撃で数人が負傷したと報じた。",
-          "span": "several people were injured in an attack on an oil company",
+          "t": "ビデオには、シアトル空港で2人が強制的に拘束される様子が映っており、戦術に対する懸念が高まっている。",
+          "span": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics",
           "src": [
             {
               "ty": "press",
@@ -169,28 +285,8 @@
           ]
         },
         {
-          "t": "サウジアラビアの防空部隊がドローンを撃墜した。",
-          "span": "Saudi air defences down a drone",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "占領下のヨルダン川西岸地区で、イスラエルの入植者たちが複数のパレスチナ人の村を襲撃した。",
-          "span": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "ラマラ県とエルビレ県での襲撃には、車両12台の焼却や、住宅への人種差別的なスローガンのスプレーが含まれていた。",
-          "span": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes",
+          "t": "リビアのベンガジ海軍基地に停泊中のロシア船が、ドローンによる攻撃を受けたとみられる。",
+          "span": "A Russian ship has been struck in a suspected drone attack while docked at Libya’s Benghazi naval base",
           "src": [
             {
               "ty": "press",
@@ -200,19 +296,21 @@
         }
       ],
       "positions": [],
-      "consensus": "フィンランド湾でロシア行き船舶が攻撃を受け炎上している。サウジアラビアはドローンとミサイルを迎撃し、フーシ派メディアはサヌアへの攻撃で負傷者が出たと報じた。占領下のヨルダン川西岸地区では、イスラエルの入植者がパレスチナの村を襲撃し、車両焼却やスローガン書き込みがあった。フィンランド国防軍は、フィンランド湾の攻撃の背後にウクライナがいる可能性が高いと発表した。",
-      "note": "プライバシー配慮のため、事件の被害者や容疑者の特定につながる情報は含んでいません。",
+      "consensus": "ロシア船がリビアの港で爆発を起こし、ドローン攻撃の疑いがあるという事実は合意されている。フィンランド湾での攻撃についても同様である。しかし、攻撃の背後やICEの逮捕戦術に対する評価については、意見が分かれている。",
+      "note": "プライバシー保護のため、ICEの逮捕の対象となった個人の特定情報は除外した。",
       "audit": {
         "changed": true,
         "issues": [
-          "consensus: 元のconsensusに「評価は割れる。」という評価語が含まれていたため削除しました。",
-          "positions: positionsのclaimが「ドローン攻撃の背後にウクライナがいる可能性が高い。」となっており、事実のtと重複していたため、「ドローン攻撃の背後にウクライナがいる可能性が高いと発表した。」と、発言主体と行動を明確にする形に修正しました。"
+          "positions[0]のclaimを、元のテキストの表現「Explosion on Russian ship at Libya port caused by suspected drone attack」に合わせ、より具体的に修正しました。",
+          "positions[1]のclaimを、元のテキストの表現「the ship had stopped for fuel and supplies on its way back to Russia」に合わせ、より具体的に修正しました。",
+          "positions[2]のclaimを、元のテキストの表現「Ukraine was likely behind the drone strike on Saturday」に合わせ、より具体的に修正しました。",
+          "positions[3]のclaimを、元のテキストの表現「‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport」に合わせ、より具体的に修正しました。"
         ]
       }
     },
     {
-      "headline": "大相撲九州場所 大の里 7回目の優勝 若元春との優勝決定戦制す",
-      "slug": "大相撲九州場所大の里7回目の優勝若元春との優勝決",
+      "headline": "「東アジア反日武装戦線」メンバーの死刑囚が東京拘置所で死亡",
+      "slug": "東アジア反日武装戦線メンバの死刑囚が東京拘置所で",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -221,120 +319,24 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79989"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261122de79958"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112200315&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112200259&g=soc&m=rss"
         }
       ],
-      "issue": "大の里は九州場所で7回目の優勝を果たしたか？",
+      "issue": "益永利明死刑囚は東京拘置所で死亡したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "大相撲九州場所で、大の里が優勝した。",
-          "span": "大相撲九州場所は千秋楽、横綱・大の里が13勝2敗で並んだ平幕の若元春との優勝決定戦を制し、7回目の優勝を果たしました。",
+          "t": "連続企業爆破事件で死刑が確定していた益永利明死刑囚が東京拘置所で死亡した。",
+          "span": "死刑囚が東京拘置所で死亡",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "大の里は13勝2敗で優勝決定戦に進んだ。",
-          "span": "13勝2敗で並んだ平幕の若元春との優勝決定戦",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "大の里は若元春との優勝決定戦を制した。",
-          "span": "若元春との優勝決定戦を制し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "大の里は7回目の優勝を果たした。",
-          "span": "7回目の優勝を果たしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "大の里は横綱に昇進してから初めて、2場所連続での優勝となった。",
-          "span": "大の里は横綱に昇進してから初めての2場所連続での優勝となります",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "大の里が2場所連続優勝し、横綱昇進後では初となったことが報じられた。",
-          "span": "大の里が２場所連続優勝　横綱昇進後では初",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "大の里は九州場所で7回目の優勝を果たし、横綱昇進後では初めての2場所連続優勝となった。",
-      "note": "",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "木原官房長官、関文科相に説明求める　「交代示唆」否定",
-      "slug": "木原官房長官関文科相に説明求める交代示唆否定",
-      "independentSources": 2,
-      "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603601?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112200341&g=pol&m=rss"
-        }
-      ],
-      "issue": "木原官房長官は関文科相の「交代示唆」発言を否定したか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "木原官房長官は、関文科相が自身の交代を示唆したとの報道について、否定した。",
-          "span": "否定",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "木原官房長官は、関文科相に説明を求めた。",
-          "span": "関文科相に説明求める",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "時事ドットコム"
@@ -342,22 +344,54 @@
           ]
         },
         {
-          "t": "関文科相は、自身の交代を示唆したとの報道について、否定した。",
-          "span": "交代示唆",
+          "t": "益永利明死刑囚の死亡は22日朝に確認された。",
+          "span": "22日朝",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "益永利明死刑囚は旧姓・片岡利明である。",
+          "span": "旧姓・片岡利明死刑囚",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "益永利明死刑囚は過激派組織「東アジア反日武装戦線」のメンバーだった。",
+          "span": "「東アジア反日武装戦線」のメンバー",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "益永利明死刑囚は1974年から翌年にかけて発生した連続企業爆破事件で死刑が確定していた。",
+          "span": "1974年から翌年にかけて起きた連続企業爆破事件で死刑が確定していた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "木原官房長官は関文科相の「交代示唆」発言を否定し、関文科相に説明を求めた。関文科相も自身の交代示唆を否定した。",
-      "note": "両記事とも事実関係の記述に留まり、評価や対立する意見は含まれていないため、positions は空となる。",
+      "consensus": "益永利明死刑囚が東京拘置所で死亡したことについては事実として合意されている。評価は記事中にないため、アプリは裁定しない。",
+      "note": "記事は事実の報道に終始しており、特定の立場や評価は含まれていません。",
       "audit": {
         "changed": false,
-        "issues": []
+        "issues": [
+          "出典が入力に無い→除去「法務省」"
+        ]
       }
     }
   ]
