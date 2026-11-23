@@ -1,40 +1,49 @@
 {
-  "builtAt": "2026-11-23T09:00:52.214Z",
+  "builtAt": "2026-11-23T21:15:05.077Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya",
-      "slug": "ZelenskyysaysUkrainebehi",
-      "independentSources": 3,
+      "headline": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
+      "slug": "JensenHuangreinstatedasN",
+      "independentSources": 4,
       "sources": [
         "NHK 主要ニュース",
-        "BBC World",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム",
         "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80209"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80304"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603733?source=rss"
         },
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603732?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112300537&g=int&m=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss"
         }
       ],
-      "issue": "リビア沖でロシア軍艦がウクライナの無人艇により攻撃されたか？",
-      "stasis": "事実",
+      "issue": "ジェンスン・フアン氏のCEO復帰は妥当か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "リビア東部の海軍基地に停泊していたロシア軍の艦艇とみられる船が攻撃を受け爆発した。",
-          "span": "ロシア軍の艦艇とみられる船が攻撃を受けて爆発し",
+          "t": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアン氏がCEOに復帰したと発表した。",
+          "span": "ジェンスン・フアン氏がCEOに復帰したと発表しました",
           "src": [
             {
               "ty": "press",
@@ -43,8 +52,8 @@
           ]
         },
         {
-          "t": "AP通信は、ウクライナの無人艇による攻撃の可能性があると伝えている。",
-          "span": "ウクライナの無人艇による攻撃の可能性があると伝えています",
+          "t": "フアン氏は、中国の情報機関の協力者とされる女性と親密な関係にあったと報じられ、辞任していた。",
+          "span": "中国の情報機関の協力者とされる女性と親密な関係にあったと報じられ、辞任した",
           "src": [
             {
               "ty": "press",
@@ -53,28 +62,38 @@
           ]
         },
         {
-          "t": "リビアの東部政府は、沈没した軍艦がロシアへの帰路で燃料と物資補給のために停泊していたと発表した。",
-          "span": "a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+          "t": "フアン氏のCEO復帰は、辞任から11日後である。",
+          "span": "Just 11 days after resigning",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "フィンランド国防軍は、土曜日のドローン攻撃の背後にウクライナがいた可能性が高いと述べている。",
-          "span": "Ukraine was likely behind the drone strike on Saturday.",
+          "t": "エヌビディアは、フアン氏の復帰が国家安全保障上のリスクはないと判断した。",
+          "span": "安保リスクなしと判断",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "ゼレンスキー大統領は、ウクライナ軍が「模範的な」海上ドローン作戦でロシアの軍艦メルクリイを沈めたと述べた。",
-          "span": "Ukrainian forces sank the Russian warship Merkury in an &quot;exemplary&quot; sea drone operati",
+          "t": "フアン氏がCEOに復帰したことで、エヌビディアの株価は一時36％超上昇した。",
+          "span": "株価一時36％超上昇",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "エヌビディアの従業員は、フアン氏がオフィスに復帰した際に歓声を上げた。",
+          "span": "Employees at Nvidia cheered as CEO Jensen Huang returned to the office",
           "src": [
             {
               "ty": "press",
@@ -84,183 +103,73 @@
         }
       ],
       "positions": [],
-      "consensus": "リビア沖でロシア軍艦とみられる船が攻撃を受け爆発したという事実は報じられているが、その攻撃がウクライナの無人艇によるものかについては、ゼレンスキー大統領が関与を表明している一方、AP通信やフィンランド国防軍は可能性に言及している段階である。",
-      "note": "BBC Worldの記事では、フィンランド湾でのロシア行き船舶への攻撃についても言及されているが、本件（リビア沖）とは直接的な関連性が薄いため、争点からは除外した。Al Jazeeraの記事では、ゼレンスキー大統領の発言として「Merkury」という艦船名が挙げられているが、NHKの記事では艦船名は特定されていない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "positionsから「ゼレンスキー大統領がリビア沖のロシア軍艦に対するドローン攻撃の背後にいると述べた」という主張を削除しました。これは、Al Jazeeraの記事にある「ゼレンスキー大統領は、ウクライナ軍が「模範的な」海上ドローン作戦でロシアの軍艦メルクリイを沈めたと述べた」という主張と重複しており、より具体的な内容が既にpositionsに含まれているためです。",
-          "consensusの記述を修正しました。「ウクライナ側は公式なコメントをまだ出していない」という部分を削除しました。元テキストにはウクライナ側が公式コメントを出していないという記述はなく、ゼレンスキー大統領の発言が直接的な関与表明と解釈できるため、削除しました。"
-        ]
-      }
-    },
-    {
-      "headline": "松山 住宅が全焼 男女2人遺体発見 居住のきょうだい連絡取れず",
-      "slug": "松山住宅が全焼男女2人遺体発見居住のきょうだい連",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80132"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603687?source=rss"
-        }
-      ],
-      "issue": "松山市で発生した住宅火災で発見された遺体は、居住していた50代のきょうだいか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "松山市の中心部で住宅が全焼し、焼け跡から2人の遺体が見つかった。",
-          "span": "住宅が全焼し、焼け跡から2人が遺体で見つかりました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この家に住むとみられる50代の男女のきょうだいと連絡が取れなくなっている。",
-          "span": "この家に住むとみられる50代の男女のきょうだいと連絡が取れなくなっている",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "住宅火災で2人の遺体が発見された。",
-          "span": "住宅火災で2遺体発見",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "発見された遺体は50代の姉弟の可能性がある。",
-          "span": "50代姉弟か",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "松山市で住宅が全焼し、焼け跡から2人の遺体が見つかった。警察によると、この家に住むとみられる50代の男女のきょうだいと連絡が取れなくなっており、遺体は50代の姉弟の可能性があると報じられている。",
-      "note": "プライバシーに配慮し、遺体の身元特定に関する詳細は省略した。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "consensusの末尾に「評価は割れる。」という評価語が含まれていたため削除しました。",
-          "consensusの内容が、factsの内容をほぼそのまま繋げたものであり、事実の要約として不自然なため、factsの内容を整理して再構成しました。"
-        ]
-      }
-    },
-    {
-      "headline": "沖縄 首里城正殿復元祝う県主催記念式典が開催 一般公開始まる",
-      "slug": "沖縄首里城正殿復元祝う県主催記念式典が開催一般公",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261122de80078"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112300256&g=soc&m=rss"
-        }
-      ],
-      "issue": "首里城正殿の復元は祝賀されるべきか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "7年前の火災で焼失した首里城正殿の復元を祝う沖縄県主催の式典が23日午前開催された。",
-          "span": "7年前の火災で焼失した首里城正殿の復元を祝う沖縄県主催の式典が23日午前開かれ",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "式典では琉球王国時代の伝統芸能などが披露された。",
-          "span": "琉球王国時代の伝統芸能などが披露されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "正午ごろから正殿の一般公開が始まった。",
-          "span": "正午ごろからは正殿の一般公開が始まっています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "首里城正殿の一般公開について、来場者から「きれい」「うれしい」といった声が聞かれた。",
-          "span": "「きれい」「うれしい」",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "首里城正殿の復元を祝う式典が開催され、一般公開が始まった。来場者からは肯定的な声が聞かれた。",
-      "note": "本件は、首里城正殿の復元という出来事に対する祝賀と、それに対する一般市民の肯定的な反応を報じるものであり、賛否が割れるような論点は記事中に見られないため、issue は「政策」とし、positions は出来事への関与主体と、それに対する肯定的な反応として構造化した。",
+      "consensus": "ジェンスン・フアン氏がエヌビディアのCEOに復帰した。株価は一時上昇し、一部からは歓迎の声も上がっているが、復帰の妥当性については評価が分かれる可能性がある。",
+      "note": "プライバシーに配慮し、親密な関係にあったとされる女性に関する詳細は割愛した。Al Jazeeraの記事は、フアン氏が辞任から11日で復帰したこと、従業員が歓声を上げたことを報じている。NHKは株価上昇と辞任理由に触れている。時事ドットコムは安保リスクなしの判断を報じている。Yahoo!ニュースは米大統領の歓迎に言及している。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "７位渡辺隼輔と仮契約　プロ野球・ヤクルト",
-      "slug": "位渡辺隼輔と仮契約プロ野球ヤクルト",
+      "headline": "24日は荒れた天気に 強風や大雨による土砂災害に十分注意を",
+      "slug": "24日は荒れた天気に強風や大雨による土砂災害に十",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "気象庁 気象警報・注意報"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80226"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80272"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112300274&g=spo&m=rss"
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123210738_0_VPFJ51_150000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123210738_0_VPFJ50_150000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123210153_0_VPFJ50_160000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123210153_0_VPFJ51_160000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204638_0_VPFJ50_060000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204638_0_VPFJ51_060000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204634_0_VPFJ51_050000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204634_0_VPFJ50_050000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204629_0_VPFJ51_020000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204629_0_VPFJ50_020000.xml"
         }
       ],
-      "issue": "プロ野球における選手の獲得・契約状況",
+      "issue": "24日は全国的に荒れた天気となるか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "オリックスが、DeNAを戦力外となった藤浪晋太郎投手を獲得したと発表した。",
-          "span": "オリックスは、DeNAを戦力外となった藤浪晋太郎投手を獲得したと発表しました",
+          "t": "24日は低気圧と前線の影響で、全国的に大気の状態が非常に不安定になる見込みである。",
+          "span": "24日は全国的に大気の状態が非常に不安定になり",
           "src": [
             {
               "ty": "press",
@@ -269,19 +178,287 @@
           ]
         },
         {
-          "t": "ヤクルトが7位の渡辺隼輔選手と仮契約を結んだ。",
-          "span": "７位渡辺隼輔と仮契約",
+          "t": "日本海側では、24日に雨風ともに強まり荒れた天気となる見込みである。",
+          "span": "日本海側では雨風ともに強まり荒れた天気となる見込みです",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は強風や大雨による土砂災害への注意を呼びかけている。",
+          "span": "気象庁は強風や大雨による土砂災害に十分注意し",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "気象庁は落雷や竜巻などの激しい突風への注意を呼びかけている。",
+          "span": "落雷や竜巻などの激しい突風に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "新潟県中越、上越では24日昼過ぎから25日夕方にかけて土砂災害に注意・警戒が必要である。",
+          "span": "中越、上越では、２４日昼過ぎから２５日夕方にかけて土砂災害に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "新潟県佐渡では24日昼前から夜のはじめ頃にかけて強風に注意・警戒が必要である。",
+          "span": "佐渡では２４日昼前から夜のはじめ頃にかけて強風に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "新潟県下越、佐渡では25日明け方から昼前にかけて高波に注意・警戒が必要である。",
+          "span": "下越、佐渡では２５日明け方から昼前にかけて高波に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "富山県では24日昼前から25日昼前にかけて土砂災害に注意・警戒が必要である。",
+          "span": "富山県では、２４日昼前から２５日昼前にかけて土砂災害に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "富山県東部北の海上では24日夜遅くにかけて強風に注意・警戒が必要である。",
+          "span": "東部北の海上では２４日夜遅くにかけて強風に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "富山県では24日昼前から25日昼前にかけて落雷や竜巻などの激しい突風に注意・警戒が必要である。",
+          "span": "２４日昼前から２５日昼前にかけて落雷や竜巻などの激しい",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "山形県庄内の海上では、低気圧や前線の影響により、24日朝から25日明け方にかけて西よりの強い風に十分注意が必要である。",
+          "span": "庄内の海上では、低気圧や前線の影響により、２４日朝から２５日明け方にかけて西よりの強い風に十分注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "山形県では24日昼前から夜遅くにかけて、竜巻などの激しい突風や落雷、急な強風に注意が必要である。",
+          "span": "山形県では、２４日昼前から夜遅くにかけて、竜巻などの激しい突風や落雷、急な強",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "秋田県沿岸の海上では25日明け方にかけて、西よりの強い風に十分注意が必要である。",
+          "span": "沿岸の海上では、２５日明け方にかけて、西よりの強い風に十分注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "秋田県では24日夜遅くにかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意が必要である。",
+          "span": "秋田県では、２４日夜遅くにかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨にも注意してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "青森県津軽では、寒冷前線が接近、通過するため、24日夜のはじめ頃にかけて大雨となる所がある見込みである。",
+          "span": "津軽では、寒冷前線が接近、通過するため、２４日夜のはじめ頃にかけて、大雨となる所がある見込みです",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "青森県では竜巻などの激しい突風や落雷、降ひょう、急な大雨に注意が必要である。",
+          "span": "青森県では、竜巻などの激しい突風や落雷、降ひょう、急",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "オリックスは藤浪晋太郎投手を獲得し、ヤクルトは渡辺隼輔選手と仮契約を結んだ。",
-      "note": "本件に関する評価や意見の対立は記事中に見られないため、positionsは空となります。",
+      "consensus": "24日は全国的に大気の状態が不安定になり、日本海側を中心に荒れた天気となる見込み。気象庁は強風、大雨による土砂災害、落雷、竜巻などの激しい突風に注意を呼びかけている。地域ごとに具体的な注意・警戒事項が発表されている。",
+      "note": "複数の気象庁発表が重複しているため、事実として統合した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "ロシア拘束の北海道新聞記者に2回目の領事面会 健康に問題なし",
+      "slug": "ロシア拘束の北海道新聞記者に2回目の領事面会健康",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80287"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112300535&g=pol&m=rss"
+        }
+      ],
+      "issue": "ロシアに拘束されている北海道新聞記者の健康状態は良好か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ロシアに拘束されている北海道新聞の記者との2回目の領事面会が行われた。",
+          "span": "記者との2回目の「領事面会」を行い",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "面会により、記者の健康状態に問題がないことが確認された。",
+          "span": "健康状態に問題はないことが確認されました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日本大使館は、引き続き記者の即時解放などを強く求めている。",
+          "span": "引き続き即時解放などを強く求めていく",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシアに拘束されている北海道新聞の記者との2回目の領事面会が行われ、健康状態に問題がないことが確認された。日本大使館は引き続き即時解放などを強く求めている。",
+      "note": "本件は事実関係の確認に留まり、評価や意見の対立は見られないため、positions は事実関係の表明のみとする。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "slug": "Iranianauthoritiesflogsi",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss"
+        }
+      ],
+      "issue": "イラン当局は、ヒジャブなしでパフォーマンスを行った歌手に鞭打ち刑を科したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "イラン当局が、ヒジャブなしでパフォーマンスを行った歌手、パラストゥー・アフマディに鞭打ち刑を科したと報じられている。",
+          "span": "Iranian authorities flog singer who performed without hijab",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "パラストゥー・アフマディ、3人のミュージシャン、プロデューサーがゴムで74回の鞭打ち刑を受けたと報じられている。",
+          "span": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アフマディと4人の制作チームメンバーは、2年間の旅行および芸術活動禁止にも直面している。",
+          "span": "Ahmadi and four production team members also face two-year bans on travel and artistic activity",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イラン当局が、ヒジャブなしでパフォーマンスを行った歌手、パラストゥー・アフマディに鞭打ち刑を科したと報じられている。アフマディと4人の制作チームメンバーは、2年間の旅行および芸術活動禁止にも直面している。",
+      "note": "プライバシー配慮のため、被害者の実名は伏せ字にする。",
       "audit": {
         "changed": false,
         "issues": []
