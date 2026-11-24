@@ -1,99 +1,50 @@
 {
-  "builtAt": "2026-11-23T21:15:05.077Z",
+  "builtAt": "2026-11-24T16:08:17.170Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
-      "slug": "JensenHuangreinstatedasN",
-      "independentSources": 4,
+      "headline": "China’s probes Shanghai party chief Chen Jining over corruption",
+      "slug": "ChinasprobesShanghaipart",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "時事ドットコム",
         "Al Jazeera"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80304"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261124de80879"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603733?source=rss"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603732?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112300537&g=int&m=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6603853?source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss"
         }
       ],
-      "issue": "ジェンスン・フアン氏のCEO復帰は妥当か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "上海市トップの陳吉寧書記は規律違反の疑いで調査を受けているか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "アメリカの半導体大手「エヌビディア」は、ジェンスン・フアン氏がCEOに復帰したと発表した。",
-          "span": "ジェンスン・フアン氏がCEOに復帰したと発表しました",
+          "t": "中国国営メディアは、上海市トップの陳吉寧書記が「重大な規律違反の疑いがある」として調査を受けていると伝えた。",
+          "span": "中国の国営メディアは、中国共産党の最高指導部に次ぐ地位の政治局委員の1人で、上海市トップを務める陳吉寧書記が「重大な規律違反の疑いがある」などとして調査を受けていると伝えました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "フアン氏は、中国の情報機関の協力者とされる女性と親密な関係にあったと報じられ、辞任していた。",
-          "span": "中国の情報機関の協力者とされる女性と親密な関係にあったと報じられ、辞任した",
-          "src": [
+            },
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "フアン氏のCEO復帰は、辞任から11日後である。",
-          "span": "Just 11 days after resigning",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "エヌビディアは、フアン氏の復帰が国家安全保障上のリスクはないと判断した。",
-          "span": "安保リスクなしと判断",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "フアン氏がCEOに復帰したことで、エヌビディアの株価は一時36％超上昇した。",
-          "span": "株価一時36％超上昇",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "エヌビディアの従業員は、フアン氏がオフィスに復帰した際に歓声を上げた。",
-          "span": "Employees at Nvidia cheered as CEO Jensen Huang returned to the office",
+          "t": "陳吉寧書記は、昨年以降に調査された4人目の政治局委員である。",
+          "span": "Chen is the fourth Politburo member to be probed since last year",
           "src": [
             {
               "ty": "press",
@@ -103,310 +54,16 @@
         }
       ],
       "positions": [],
-      "consensus": "ジェンスン・フアン氏がエヌビディアのCEOに復帰した。株価は一時上昇し、一部からは歓迎の声も上がっているが、復帰の妥当性については評価が分かれる可能性がある。",
-      "note": "プライバシーに配慮し、親密な関係にあったとされる女性に関する詳細は割愛した。Al Jazeeraの記事は、フアン氏が辞任から11日で復帰したこと、従業員が歓声を上げたことを報じている。NHKは株価上昇と辞任理由に触れている。時事ドットコムは安保リスクなしの判断を報じている。Yahoo!ニュースは米大統領の歓迎に言及している。",
+      "consensus": "中国国営メディアは、上海市トップの陳吉寧書記が規律違反の疑いで調査を受けていると報じている。陳書記は昨年以降に調査された4人目の政治局委員である。",
+      "note": "Al Jazeeraの記事は英語であり、陳吉寧書記が汚職の疑いで調査されていると報じている。他の記事は「重大な規律違反の疑い」と報じている。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "24日は荒れた天気に 強風や大雨による土砂災害に十分注意を",
-      "slug": "24日は荒れた天気に強風や大雨による土砂災害に十",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "気象庁 気象警報・注意報"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80272"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123210738_0_VPFJ51_150000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123210738_0_VPFJ50_150000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123210153_0_VPFJ50_160000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123210153_0_VPFJ51_160000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204638_0_VPFJ50_060000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204638_0_VPFJ51_060000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204634_0_VPFJ51_050000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204634_0_VPFJ50_050000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204629_0_VPFJ51_020000.xml"
-        },
-        {
-          "source": "気象庁 気象警報・注意報",
-          "link": "https://www.data.jma.go.jp/developer/xml/data/20261123204629_0_VPFJ50_020000.xml"
-        }
-      ],
-      "issue": "24日は全国的に荒れた天気となるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "24日は低気圧と前線の影響で、全国的に大気の状態が非常に不安定になる見込みである。",
-          "span": "24日は全国的に大気の状態が非常に不安定になり",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "日本海側では、24日に雨風ともに強まり荒れた天気となる見込みである。",
-          "span": "日本海側では雨風ともに強まり荒れた天気となる見込みです",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は強風や大雨による土砂災害への注意を呼びかけている。",
-          "span": "気象庁は強風や大雨による土砂災害に十分注意し",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "気象庁は落雷や竜巻などの激しい突風への注意を呼びかけている。",
-          "span": "落雷や竜巻などの激しい突風に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "新潟県中越、上越では24日昼過ぎから25日夕方にかけて土砂災害に注意・警戒が必要である。",
-          "span": "中越、上越では、２４日昼過ぎから２５日夕方にかけて土砂災害に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "新潟県佐渡では24日昼前から夜のはじめ頃にかけて強風に注意・警戒が必要である。",
-          "span": "佐渡では２４日昼前から夜のはじめ頃にかけて強風に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "新潟県下越、佐渡では25日明け方から昼前にかけて高波に注意・警戒が必要である。",
-          "span": "下越、佐渡では２５日明け方から昼前にかけて高波に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "富山県では24日昼前から25日昼前にかけて土砂災害に注意・警戒が必要である。",
-          "span": "富山県では、２４日昼前から２５日昼前にかけて土砂災害に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "富山県東部北の海上では24日夜遅くにかけて強風に注意・警戒が必要である。",
-          "span": "東部北の海上では２４日夜遅くにかけて強風に",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "富山県では24日昼前から25日昼前にかけて落雷や竜巻などの激しい突風に注意・警戒が必要である。",
-          "span": "２４日昼前から２５日昼前にかけて落雷や竜巻などの激しい",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "山形県庄内の海上では、低気圧や前線の影響により、24日朝から25日明け方にかけて西よりの強い風に十分注意が必要である。",
-          "span": "庄内の海上では、低気圧や前線の影響により、２４日朝から２５日明け方にかけて西よりの強い風に十分注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "山形県では24日昼前から夜遅くにかけて、竜巻などの激しい突風や落雷、急な強風に注意が必要である。",
-          "span": "山形県では、２４日昼前から夜遅くにかけて、竜巻などの激しい突風や落雷、急な強",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "秋田県沿岸の海上では25日明け方にかけて、西よりの強い風に十分注意が必要である。",
-          "span": "沿岸の海上では、２５日明け方にかけて、西よりの強い風に十分注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "秋田県では24日夜遅くにかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨に注意が必要である。",
-          "span": "秋田県では、２４日夜遅くにかけて、竜巻などの激しい突風や落雷、降ひょう、急な強い雨にも注意してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "青森県津軽では、寒冷前線が接近、通過するため、24日夜のはじめ頃にかけて大雨となる所がある見込みである。",
-          "span": "津軽では、寒冷前線が接近、通過するため、２４日夜のはじめ頃にかけて、大雨となる所がある見込みです",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        },
-        {
-          "t": "青森県では竜巻などの激しい突風や落雷、降ひょう、急な大雨に注意が必要である。",
-          "span": "青森県では、竜巻などの激しい突風や落雷、降ひょう、急",
-          "src": [
-            {
-              "ty": "press",
-              "l": "気象庁 気象警報・注意報"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "24日は全国的に大気の状態が不安定になり、日本海側を中心に荒れた天気となる見込み。気象庁は強風、大雨による土砂災害、落雷、竜巻などの激しい突風に注意を呼びかけている。地域ごとに具体的な注意・警戒事項が発表されている。",
-      "note": "複数の気象庁発表が重複しているため、事実として統合した。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "ロシア拘束の北海道新聞記者に2回目の領事面会 健康に問題なし",
-      "slug": "ロシア拘束の北海道新聞記者に2回目の領事面会健康",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261123de80287"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112300535&g=pol&m=rss"
-        }
-      ],
-      "issue": "ロシアに拘束されている北海道新聞記者の健康状態は良好か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "ロシアに拘束されている北海道新聞の記者との2回目の領事面会が行われた。",
-          "span": "記者との2回目の「領事面会」を行い",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "面会により、記者の健康状態に問題がないことが確認された。",
-          "span": "健康状態に問題はないことが確認されました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "日本大使館は、引き続き記者の即時解放などを強く求めている。",
-          "span": "引き続き即時解放などを強く求めていく",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ロシアに拘束されている北海道新聞の記者との2回目の領事面会が行われ、健康状態に問題がないことが確認された。日本大使館は引き続き即時解放などを強く求めている。",
-      "note": "本件は事実関係の確認に留まり、評価や意見の対立は見られないため、positions は事実関係の表明のみとする。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "slug": "Iranianauthoritiesflogsi",
+      "headline": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "slug": "Trumpfacesbacklashafters",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -415,19 +72,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss"
+          "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss"
         }
       ],
-      "issue": "イラン当局は、ヒジャブなしでパフォーマンスを行った歌手に鞭打ち刑を科したか？",
-      "stasis": "事実",
+      "issue": "トランプ氏の発言はNvidiaのCEO交代に影響を与えたか？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "イラン当局が、ヒジャブなしでパフォーマンスを行った歌手、パラストゥー・アフマディに鞭打ち刑を科したと報じられている。",
-          "span": "Iranian authorities flog singer who performed without hijab",
+          "t": "NvidiaのCEO、ジェンスン・フアン氏が復帰した。",
+          "span": "Huang being back at the helm of Nvidia",
           "src": [
             {
               "ty": "press",
@@ -436,8 +97,8 @@
           ]
         },
         {
-          "t": "パラストゥー・アフマディ、3人のミュージシャン、プロデューサーがゴムで74回の鞭打ち刑を受けたと報じられている。",
-          "span": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom",
+          "t": "フアン氏の復帰後、Nvidiaの市場価値は約1兆ドル増加した。",
+          "span": "whose comeback helped add $1tn to the company's",
           "src": [
             {
               "ty": "press",
@@ -446,8 +107,18 @@
           ]
         },
         {
-          "t": "アフマディと4人の制作チームメンバーは、2年間の旅行および芸術活動禁止にも直面している。",
-          "span": "Ahmadi and four production team members also face two-year bans on travel and artistic activity",
+          "t": "フアン氏の復帰後、Nvidiaの市場価値は9520億ドル回復した。",
+          "span": "Nvidia regains $952bn in market value",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "フアン氏は2週間未満前に辞任していた。",
+          "span": "after resignation less than two weeks ago",
           "src": [
             {
               "ty": "press",
@@ -456,9 +127,161 @@
           ]
         }
       ],
+      "positions": [
+        {
+          "actor": "トランプ氏",
+          "stance": "support",
+          "claim": "NvidiaのCEO、ジェンスン・フアン氏を復帰させるよう説得したと述べている。",
+          "span": "saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "トランプ氏",
+          "stance": "attack",
+          "claim": "Nvidiaに対し、フアン氏を再任するよう圧力をかけていたと報じられている。",
+          "span": "Nvidia had come under pressure from President Trump to reappoint Huang",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "actor": "BBC World",
+          "stance": "neutral",
+          "claim": "フアン氏の復帰が北京（中国）にとって必ずしも救済を保証するものではないと報じている。",
+          "span": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "consensus": "NvidiaのCEO、ジェンスン・フアン氏が復帰し、市場価値が大幅に増加したという事実は合意されている。しかし、トランプ氏の発言やその影響については評価が分かれている。",
+      "note": "プライバシー配慮のため、一般個人の特定情報は含んでいません。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positionsのclaimを「〜と述べている」「〜と報じられている」の形式に修正しました。",
+          "positionsのclaimの「主張している」を「述べている」に修正しました。",
+          "positionsのclaimの「圧力をかけていた」を「圧力をかけていたと報じられている」に修正しました。",
+          "positionsのclaimの「〜と報じられている」を追記しました。"
+        ]
+      }
+    },
+    {
+      "headline": "三冠王の佐藤輝明選手 カブスと契約合意 複数の米メディア報道",
+      "slug": "三冠王の佐藤輝明選手カブスと契約合意複数の米メデ",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80905"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112400999&g=bsb&m=rss"
+        }
+      ],
+      "issue": "佐藤輝明選手はカブスと契約合意したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "プロ野球・阪神の佐藤輝明選手が、ポスティングシステムを利用して大リーグ移籍を目指していた。",
+          "span": "プロ野球・阪神で今シーズン三冠王を獲得し、ポスティングシステムを使って大リーグへの移籍を目指していた佐藤輝明選手",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "佐藤輝明選手がカブスとの契約に合意したと、複数のアメリカ大手メディアが報じた。",
+          "span": "カブスとの契約に合意したとアメリカの大手メディアESPNや大リーグの公式サイトなどが",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "西武ライオンズの来季開幕投手は隅田知一郎投手である。",
+          "span": "来季開幕投手は隅田知一郎",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
       "positions": [],
-      "consensus": "イラン当局が、ヒジャブなしでパフォーマンスを行った歌手、パラストゥー・アフマディに鞭打ち刑を科したと報じられている。アフマディと4人の制作チームメンバーは、2年間の旅行および芸術活動禁止にも直面している。",
-      "note": "プライバシー配慮のため、被害者の実名は伏せ字にする。",
+      "consensus": "佐藤輝明選手がカブスと契約合意したと複数の米メディアが報じている。西武ライオンズの来季開幕投手は隅田知一郎投手である。",
+      "note": "プライバシー配慮のため、佐藤輝明選手の所属球団は「阪神」と記載。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "参議院 野党6党 関文科相に対する問責決議案 提出方針で一致",
+      "slug": "参議院野党6党関文科相に対する問責決議案提出方針",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261124de80396"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112400799&g=pol&m=rss"
+        }
+      ],
+      "issue": "関文部科学大臣に対する問責決議案は参議院に提出されるべきか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、参議院の野党6党は、問責決議案を参議院に提出する方針で一致した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "野党は関文部科学大臣の問責決議案を提出する方針である。",
+          "span": "野党、関文科相問責提出へ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "参議院の野党6党は、関文部科学大臣に対する問責決議案を提出する方針で一致している。政府は続投させる方針を維持している。",
+      "note": "プライバシー配慮のため、関文部科学大臣の氏名はそのまま記載するが、個人を特定できる詳細な情報は含めない。",
       "audit": {
         "changed": false,
         "issues": []
