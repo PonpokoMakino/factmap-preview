@@ -1,78 +1,38 @@
 {
-  "builtAt": "2026-11-24T16:08:17.170Z",
+  "builtAt": "2026-11-25T00:40:08.395Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "China’s probes Shanghai party chief Chen Jining over corruption",
-      "slug": "ChinasprobesShanghaipart",
-      "independentSources": 3,
+      "headline": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+      "slug": "ToddBlanchedeclinestocon",
+      "independentSources": 5,
       "sources": [
         "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261124de80879"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603853?source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss"
-        }
-      ],
-      "issue": "上海市トップの陳吉寧書記は規律違反の疑いで調査を受けているか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "中国国営メディアは、上海市トップの陳吉寧書記が「重大な規律違反の疑いがある」として調査を受けていると伝えた。",
-          "span": "中国の国営メディアは、中国共産党の最高指導部に次ぐ地位の政治局委員の1人で、上海市トップを務める陳吉寧書記が「重大な規律違反の疑いがある」などとして調査を受けていると伝えました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "陳吉寧書記は、昨年以降に調査された4人目の政治局委員である。",
-          "span": "Chen is the fourth Politburo member to be probed since last year",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "中国国営メディアは、上海市トップの陳吉寧書記が規律違反の疑いで調査を受けていると報じている。陳書記は昨年以降に調査された4人目の政治局委員である。",
-      "note": "Al Jazeeraの記事は英語であり、陳吉寧書記が汚職の疑いで調査されていると報じている。他の記事は「重大な規律違反の疑い」と報じている。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "slug": "Trumpfacesbacklashafters",
-      "independentSources": 2,
-      "sources": [
+        "時事ドットコム",
         "BBC World",
         "Al Jazeera"
       ],
       "links": [
         {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80921"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80932"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603870?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112400852&g=int&m=rss"
+        },
+        {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
@@ -80,71 +40,111 @@
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss"
         }
       ],
-      "issue": "トランプ氏の発言はNvidiaのCEO交代に影響を与えたか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "米司法長官はエヌビディアのフアン氏に関する調査について説明を避けたか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "NvidiaのCEO、ジェンスン・フアン氏が復帰した。",
-          "span": "Huang being back at the helm of Nvidia",
+          "t": "ニューヨーク株式市場のナスダック株価指数は、前日に急騰した後、下落に転じた。",
+          "span": "前日に急騰したハイテク株の比率が高いナスダックの株価指数が、半導体大手「エヌビディア」の企業統治をめぐる懸念が出たことなどから一転して下落しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "エヌビディアの株価は7%下落した。",
+          "span": "Nvidia's share price have fallen 7%",
           "src": [
             {
               "ty": "press",
               "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "フアン氏の復帰後、Nvidiaの市場価値は約1兆ドル増加した。",
-          "span": "whose comeback helped add $1tn to the company's",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "フアン氏の復帰後、Nvidiaの市場価値は9520億ドル回復した。",
-          "span": "Nvidia regains $952bn in market value",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "フアン氏は2週間未満前に辞任していた。",
-          "span": "after resignation less than two weeks ago",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
             }
           ]
         }
       ],
       "positions": [
         {
-          "actor": "トランプ氏",
-          "stance": "support",
-          "claim": "NvidiaのCEO、ジェンスン・フアン氏を復帰させるよう説得したと述べている。",
-          "span": "saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "actor": "ブランチ司法長官",
+          "stance": "neutral",
+          "claim": "エヌビディアのフアン氏のリスク判断に関する説明を避けた。",
+          "span": "フアン氏のリスク判断 説明避ける",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "actor": "トランプ氏",
+          "actor": "ブランチ司法長官",
+          "stance": "neutral",
+          "claim": "エヌビディアのフアン氏に関する調査について確認を拒否した。",
+          "span": "declines to confirm if Nvidia’s Jensen Huang was investigated",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "トランプ大統領",
+          "stance": "support",
+          "claim": "エヌビディアのジェンスン・フアン氏に国家安全保障上のリスクはないと説明した。",
+          "span": "国家安全保障上のリスクを抱えていないと説明したことについて",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "トランプ大統領",
+          "stance": "support",
+          "claim": "NVIDIAは善良な企業である。",
+          "span": "NVIDIAは善良な企業",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
+            }
+          ]
+        },
+        {
+          "actor": "トランプ政権",
+          "stance": "support",
+          "claim": "エヌビディアのフアン氏の件について徹底的な調査を行った。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "actor": "法律家",
           "stance": "attack",
-          "claim": "Nvidiaに対し、フアン氏を再任するよう圧力をかけていたと報じられている。",
-          "span": "Nvidia had come under pressure from President Trump to reappoint Huang",
+          "claim": "エヌビディアの企業統治について懸念を示した。",
+          "span": "",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "法律家",
+          "stance": "attack",
+          "claim": "トランプ大統領のエヌビディアへの関与について説明を求めた。",
+          "span": "lawmakers demand answers about President Donald Trump's involvement in Huang's re",
           "src": [
             {
               "ty": "press",
@@ -155,7 +155,7 @@
         {
           "actor": "BBC World",
           "stance": "neutral",
-          "claim": "フアン氏の復帰が北京（中国）にとって必ずしも救済を保証するものではないと報じている。",
+          "claim": "フアン氏がエヌビディアのトップに復帰したことは、中国の習近平氏にとってトランプ氏から救済が得られる保証にはならない。",
           "span": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing",
           "src": [
             {
@@ -165,42 +165,44 @@
           ]
         }
       ],
-      "consensus": "NvidiaのCEO、ジェンスン・フアン氏が復帰し、市場価値が大幅に増加したという事実は合意されている。しかし、トランプ氏の発言やその影響については評価が分かれている。",
-      "note": "プライバシー配慮のため、一般個人の特定情報は含んでいません。",
+      "consensus": "エヌビディアのフアン氏に関する調査について、米司法長官は説明を避けた。トランプ大統領はフアン氏にリスクはないと説明したが、法律家からは企業統治への懸念やトランプ大統領の関与に関する説明が求められている。エヌビディアの株価は下落した。評価は割れる。",
+      "note": "プライバシー配慮のため、個人名は特定できる範囲で記載。フアン氏に関する調査の有無やその結果については、記事から明確な事実として断定できないため、各立場の主張として構造化。",
       "audit": {
-        "changed": true,
+        "changed": false,
         "issues": [
-          "positionsのclaimを「〜と述べている」「〜と報じられている」の形式に修正しました。",
-          "positionsのclaimの「主張している」を「述べている」に修正しました。",
-          "positionsのclaimの「圧力をかけていた」を「圧力をかけていたと報じられている」に修正しました。",
-          "positionsのclaimの「〜と報じられている」を追記しました。"
+          "position spanが原文に無い→除去「his administration…」",
+          "position spanが原文に無い→除去「エヌビディアの企業統治をめぐる懸念が…」"
         ]
       }
     },
     {
-      "headline": "三冠王の佐藤輝明選手 カブスと契約合意 複数の米メディア報道",
-      "slug": "三冠王の佐藤輝明選手カブスと契約合意複数の米メデ",
+      "headline": "広島 庄原 高齢女性殺害事件で55歳会社員を逮捕",
+      "slug": "広島庄原高齢女性殺害事件で55歳会社員を逮捕",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "時事ドットコム"
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80905"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80916"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112400999&g=bsb&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603863?source=rss"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603869?source=rss"
         }
       ],
-      "issue": "佐藤輝明選手はカブスと契約合意したか？",
+      "issue": "広島県庄原市で発生した高齢女性殺害事件の容疑者は逮捕されたか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "プロ野球・阪神の佐藤輝明選手が、ポスティングシステムを利用して大リーグ移籍を目指していた。",
-          "span": "プロ野球・阪神で今シーズン三冠王を獲得し、ポスティングシステムを使って大リーグへの移籍を目指していた佐藤輝明選手",
+          "t": "広島県庄原市の住宅で、一人暮らしの84歳の女性が殺害される事件が発生した。",
+          "span": "広島県庄原市の住宅で1人暮らしの当時84歳の女性が殺害された事件",
           "src": [
             {
               "ty": "press",
@@ -209,8 +211,8 @@
           ]
         },
         {
-          "t": "佐藤輝明選手がカブスとの契約に合意したと、複数のアメリカ大手メディアが報じた。",
-          "span": "カブスとの契約に合意したとアメリカの大手メディアESPNや大リーグの公式サイトなどが",
+          "t": "事件から1年半近くが経過した。",
+          "span": "事件から1年半近くがたった",
           "src": [
             {
               "ty": "press",
@@ -219,58 +221,82 @@
           ]
         },
         {
-          "t": "西武ライオンズの来季開幕投手は隅田知一郎投手である。",
-          "span": "来季開幕投手は隅田知一郎",
+          "t": "警察は東広島市に住む55歳の会社員を強盗殺人などの疑いで逮捕した。",
+          "span": "東広島市に住む55歳の会社員を強盗殺人などの疑いで逮捕しました",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "住宅で女性が流血した状態で死亡しており、殺人の疑いが持たれている。",
+          "span": "住宅で流血の女性が死亡 殺人か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "佐藤輝明選手がカブスと契約合意したと複数の米メディアが報じている。西武ライオンズの来季開幕投手は隅田知一郎投手である。",
-      "note": "プライバシー配慮のため、佐藤輝明選手の所属球団は「阪神」と記載。",
+      "consensus": "広島県庄原市で発生した高齢女性殺害事件で、警察は事件から1年半近くが経過した24日夜、東広島市に住む55歳の会社員を強盗殺人などの疑いで逮捕した。住宅で女性が流血した状態で死亡しており、殺人の疑いが持たれている。",
+      "note": "プライバシーに配慮し、容疑者の実名は伏せています。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "fact.t: \"逮捕された容疑者は事件の捜査対象となっている\" は、元テキストに直接的な記述がなく、推測の域を出ないため削除しました。",
+          "fact.t: \"女性が住宅で流血した状態で死亡しており、殺人の疑いが持たれている。\" のspanを \"住宅で流血の女性が死亡 殺人か\" に修正しました。元のspanは文全体を指していましたが、より核となる部分を抽出しました。",
+          "consensus: \"逮捕された容疑者は事件の捜査対象となっており、\" の部分を削除しました。これは元テキストに直接的な記述がなく、推測の域を出ないためです。"
+        ]
       }
     },
     {
-      "headline": "参議院 野党6党 関文科相に対する問責決議案 提出方針で一致",
-      "slug": "参議院野党6党関文科相に対する問責決議案提出方針",
+      "headline": "佐藤輝明、カブスと合意　６年１９１億円の大型契約―米大リーグ",
+      "slug": "佐藤輝明カブスと合意年億円の大型契約米大リグ",
       "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261124de80396"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603874?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112400799&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112500110&g=spo&m=rss"
         }
       ],
-      "issue": "関文部科学大臣に対する問責決議案は参議院に提出されるべきか？",
-      "stasis": "政策",
+      "issue": "佐藤輝明選手のカブスとの契約は妥当か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、参議院の野党6党は、問責決議案を参議院に提出する方針で一致した。",
-          "span": "",
+          "t": "佐藤輝明選手がカブスと契約で合意した。",
+          "span": "佐藤輝明、カブスと合意",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "野党は関文部科学大臣の問責決議案を提出する方針である。",
-          "span": "野党、関文科相問責提出へ",
+          "t": "契約期間は6年で、総額は191億円である。",
+          "span": "６年１９１億円の大型契約",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "この契約は米大リーグにおける大型契約である。",
+          "span": "大型契約",
           "src": [
             {
               "ty": "press",
@@ -280,11 +306,86 @@
         }
       ],
       "positions": [],
-      "consensus": "参議院の野党6党は、関文部科学大臣に対する問責決議案を提出する方針で一致している。政府は続投させる方針を維持している。",
-      "note": "プライバシー配慮のため、関文部科学大臣の氏名はそのまま記載するが、個人を特定できる詳細な情報は含めない。",
+      "consensus": "佐藤輝明選手がカブスと6年191億円の大型契約で合意したことは一致している。契約の妥当性に関する評価は割れる。",
+      "note": "記事は契約合意の事実と、その背景や評価について言及しているが、具体的な評価の対立構造は明示されていないため、issueは契約の妥当性に関する問いとし、positionsは契約合意自体を評価と解釈したカブスの立場を推測的に記載した。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "positionsのclaimが「〜と考えられる」となっており、メタ記述の観点から「〜と報じられている」等の形に修正する必要がある。また、reasonに「記事中に明示的な理由は記載されていないが、契約合意自体が球団の評価を示唆している」とあるが、これは抽出エンジンの解釈であり、元テキストにない情報のため削除する。",
+          "noteに「positionsは契約合意自体を評価と解釈したカブスの立場を推測的に記載した」とあるが、これは抽出エンジンの推測であり、元テキストにない情報のため削除する。"
+        ]
+      }
+    },
+    {
+      "headline": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "slug": "Indiangovernmenthaslostt",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss"
+        }
+      ],
+      "issue": "インド政府は「計画を見失った」と批判されたか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "インドの入国審査当局が、ある人物のパスポートにフラグが立てられていると伝えた。",
+          "span": "immigration authorities at Delhi airport told him his passport had been flagged",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ある人物が英国行きのフライトへの搭乗を拒否された。",
+          "span": "leader barred from UK flight",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "反政府勢力（CRP）が、政府軍との激しい衝突の後、ブンビアへの進軍を停止した。",
+          "span": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "CRPは、ウガンダ仲介の会談で政府と行った約束を理由に挙げた。",
+          "span": "citing commitments made during Ugandan-mediated talks with government",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "インドの入国審査当局がパスポートにフラグを立てたという事実と、ある人物が英国行きのフライトへの搭乗を拒否されたという事実は合意されている。コンゴ民主共和国では、反政府勢力が政府軍との衝突後に進軍を停止した。評価は割れる。",
+      "note": "プライバシー配慮のため、個人名は特定可能な範囲で記載。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positionsのclaimを「〜と述べた」というメタ記述に修正しました。"
+        ]
       }
     }
   ]
