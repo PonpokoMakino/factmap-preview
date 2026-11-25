@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-11-25T09:15:32.253Z",
+  "builtAt": "2026-11-25T19:25:00.803Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "死亡したのは駐輪場で働く70歳男性 刺した人物は逃走 福岡",
-      "slug": "死亡したのは駐輪場で働く70歳男性刺した人物は逃",
+      "headline": "米 過剰生産で日本などに追加関税 既存税率含め日本最大15％に",
+      "slug": "米過剰生産で日本などに追加関税既存税率含め日本最",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,23 +14,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261125de81118"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81560"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603952?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6603990?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112500741&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112501247&g=int&m=rss"
         }
       ],
-      "issue": "福岡市のJR駅駐輪場で発生した殺人事件の容疑者は特定されているか？",
+      "issue": "米国は日本などに対し、過剰生産を理由に追加関税を課す方針か？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "25日午後、福岡市JR駅の駐輪場で70歳男性が刃物のようなもので刺され死亡した。",
-          "span": "25日午後福岡市で、JRの駅の駐輪場で働く70歳の男性が刃物のようなもので刺され、死亡しました。",
+          "t": "アメリカ通商代表部（USTR）は、過剰に製品を生産して輸出し、アメリカの産業に打撃を及ぼしているとして、通商法301条に基づき、日本などに新たな追加関税を課す方針を明らかにした。",
+          "span": "過剰に製品を生産して輸出し、アメリカの産業に打撃を及ぼしているとして、通商法301条に基づき、日本などに新たな追加関税を課す方針を明らかにしました",
           "src": [
             {
               "ty": "press",
@@ -39,8 +39,8 @@
           ]
         },
         {
-          "t": "死亡したのは駐輪場で働く男性だった。",
-          "span": "死亡したのは駐輪場で働く70歳男性",
+          "t": "既存税率を含め、日本に対する関税は最大15％になる見込みである。",
+          "span": "既存税率含め日本最大15％に",
           "src": [
             {
               "ty": "press",
@@ -49,28 +49,18 @@
           ]
         },
         {
-          "t": "男性を刺した人物は現場近くの商業施設内を通って逃走したとみられている。",
-          "span": "男性を刺した人物は現場近くの商業施設の中を通って逃げたとみられる",
+          "t": "米国は日中やEUなどに対しても新たな関税を提案している。",
+          "span": "米 日中やEUなどに新関税を提案",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "容疑者は逃走中で、警察が行方を捜査している。",
-          "span": "刺した人物は逃走",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "容疑者の男は逃走中である。",
-          "span": "容疑者の男は逃走",
+          "t": "米国は対日関税として15％を検討している。",
+          "span": "米、対日１５％関税へ",
           "src": [
             {
               "ty": "press",
@@ -79,27 +69,237 @@
           ]
         },
         {
-          "t": "凶器が発見された可能性がある。",
-          "span": "凶器発見か",
+          "t": "米国は過剰生産を理由に中国に対しても20％の関税を検討している。",
+          "span": "過剰生産、中国は２０％",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "米国は過剰生産を理由に日本などに追加関税を課す方針であり、日本への関税は最大15％、中国へは20％となる見込みである。",
+      "note": "複数の報道機関からの情報を統合した。プライバシーに配慮し、個人名は記載していない。",
+      "audit": {
+        "changed": true,
+        "issues": [
+          "consensus: 元のconsensusに「評価は割れる。」という評価が含まれていました。これは事実ではなく、テキストから読み取れないため削除しました。",
+          "consensus: 元のconsensusに「評価は割れる。」という評価が含まれていました。これは事実ではなく、テキストから読み取れないため削除しました。"
+        ]
+      }
+    },
+    {
+      "headline": "駐輪場で刺され７０歳男性死亡　直前に駅員暴行、容疑で男逮捕―福岡県警",
+      "slug": "駐輪場で刺され歳男性死亡直前に駅員暴行容疑で男逮",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de81511"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6603982?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112500741&g=soc&m=rss"
+        }
+      ],
+      "issue": "福岡市の駅員暴行事件と男性刺殺事件の関連性は明らかか？",
+      "stasis": "因果の解釈",
+      "facts": [
+        {
+          "t": "25日昼前、福岡市の地下鉄の駅構内で駅員が殴られる事件が発生した。",
+          "span": "25日昼前、福岡市の地下鉄の駅構内で駅員を殴ったとして",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警察は、駅員を殴った疑いで49歳の容疑者を逮捕した。",
+          "span": "警察は、49歳の容疑者を暴行の疑いで逮捕しました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "この直後、福岡市西区の駅の駐輪場で70歳の男性が刺されて死亡しているのが発見された。",
+          "span": "この直後に福岡市西区の駅の駐輪場で働く70歳の男性が刺されて死亡した",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警察は、確保した男を別容疑で逮捕した。",
+          "span": "確保の男を別容疑で逮捕",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
+        },
+        {
+          "t": "70歳の男性が駐輪場で刺されて死亡した事件で、男が逮捕された。",
+          "span": "駐輪場で刺され７０歳男性死亡　直前に駅員暴行、容疑で男逮捕",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
         }
       ],
       "positions": [],
-      "consensus": "福岡市のJR駅駐輪場で70歳男性が刺され死亡し、容疑者は逃走中である。凶器発見の可能性も報じられている。",
-      "note": "本件は事実の報道に留まり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "25日昼前、福岡市の地下鉄駅構内で駅員が殴られる事件が発生し、警察は49歳の男を逮捕した。その直後、福岡市西区の駐輪場で70歳の男性が刺殺されているのが発見された。警察は、駅員暴行事件の容疑者と男性刺殺事件との関連を調べている。",
+      "note": "複数の報道機関が同様の事実を報じているが、事件の関連性については警察の捜査中であるため、断定的な記述は避ける。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "2029年大河ドラマは「三成のうた」 主演は神木隆之介さん",
-      "slug": "2029年大河ドラマは三成のうた主演は神木隆之介",
+      "headline": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "slug": "MyfamilywerekilledinUkra",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss"
+        }
+      ],
+      "issue": "ウクライナ戦争における民間人の死因と責任の所在は複雑か？",
+      "stasis": "因果の解釈（割れる）",
+      "facts": [
+        {
+          "t": "BBCジャーナリストのアナスタシア・グリバノワは、父と祖父母がウクライナ戦争で殺害されたと報じている。",
+          "span": "My mum blamed Zelensky's troops - the truth is complicated。BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ガザ市でのイスラエルによる空爆で、ハマスの高官とその家族が死亡した。",
+          "span": "Israeli strike kills senior Hamas security official and family in Gaza City。Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenag",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "ウクライナによると、ロシアの軍用機5機が飛行場で攻撃された。",
+          "span": "Five Russian military jets hit in airfield strike, says Ukraine",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "攻撃されたサヴァスレイカ飛行場は、ロシアがウクライナに極超音速ミサイルや滑空爆弾を発射するために使用する航空機を配備している。",
+          "span": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "英国軍は、ドローン攻撃の可能性に備えて航空機を格納庫に移している。",
+          "span": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "専門家は、ドローン攻撃の脅威が示唆される情報がある場合、この動きは論理的な対応だと述べている。",
+          "span": "Experts say the move is a &#039;logical response&#039; if there is intelligence suggesting a likely drone threat.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "エクアドルと米国は、共同軍事作戦を見直している。",
+          "span": "Ecuador and US review joint military operations, official says",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "エクアドルが実施した致死的な作戦について米国が捜査しているため、共同軍事作戦は一時停止されている。",
+          "span": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ウクライナ戦争における民間人の死因と責任の所在は複雑であると報じられている。また、英国軍はドローン攻撃の可能性に備えて航空機を格納庫に移しており、専門家はこの動きを論理的な対応と見ている。ガザ市ではイスラエルによる空爆でハマスの高官とその家族が死亡し、ウクライナによるとロシアの軍用機5機が飛行場で攻撃された。エクアドルと米国は共同軍事作戦を見直しており、エクアドルによる致死的な作戦の捜査のため一時停止されている。評価は割れる。",
+      "note": "プライバシー配慮のため、ガザでの空爆で死亡したハマス高官の家族の詳細は省略した。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "卓球 五輪3大会連続でメダル 石川佳純さんが結婚 SNSで発表",
+      "slug": "卓球五輪3大会連続でメダル石川佳純さんが結婚SN",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
@@ -108,19 +308,19 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261125de81004"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261125de81444"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603947?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6603973?source=rss"
         }
       ],
-      "issue": "2029年のNHK大河ドラマの主演は神木隆之介さんか？",
+      "issue": null,
       "stasis": "事実",
       "facts": [
         {
-          "t": "2029年に放送されるNHKの大河ドラマのタイトルは「三成のうた」に決定した。",
-          "span": "2029年に放送されるNHKの大河ドラマは、戦国時代に活躍した知将、石田三成の生涯を描く「三成のうた」に決まりました。",
+          "t": "卓球の石川佳純さんが結婚を発表した。",
+          "span": "結婚を発表しました",
           "src": [
             {
               "ty": "press",
@@ -129,8 +329,8 @@
           ]
         },
         {
-          "t": "2029年の大河ドラマ「三成のうた」の主演は神木隆之介さんが務める。",
-          "span": "主演は神木隆之介さんです。",
+          "t": "石川佳純さんはオリンピック3大会連続でメダルを獲得している。",
+          "span": "オリンピック3大会連続でメダルを獲得した",
           "src": [
             {
               "ty": "press",
@@ -139,8 +339,18 @@
           ]
         },
         {
-          "t": "神木隆之介さんは、妻にも大河ドラマ主演について言及していなかった。",
-          "span": "神木 妻にも言わなかった大河主演",
+          "t": "結婚発表は自身のSNSで行われた。",
+          "span": "自身のSNSで",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "結婚発表の3分前に石川さんから1通の連絡があったと報じられている。",
+          "span": "結婚発表3分前の1通",
           "src": [
             {
               "ty": "press",
@@ -150,136 +360,12 @@
         }
       ],
       "positions": [],
-      "consensus": "2029年のNHK大河ドラマは「三成のうた」で、主演は神木隆之介さんであることが合意されている。",
-      "note": "",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "関文科相の問責決議案 あす提出の方針 立民 斎藤国対委員長",
-      "slug": "関文科相の問責決議案あす提出の方針立民斎藤国対委",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261125de80993"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112500706&g=pol&m=rss"
-        }
-      ],
-      "issue": "関文部科学大臣に対する問責決議案は提出されるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "立憲民主党の国会対策委員長は、政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案を26日午前、参議院に提出する方針を明らかにした。",
-          "span": "関文部科学大臣に対する問責決議案を26日午前、参議院に提出する方針を明らかにしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "野党は、関文部科学大臣に対する問責決議案を26日に提出する方針である。",
-          "span": "関文科相問責、野党２６日提出",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "野党は26日午前、関文部科学大臣に対する問責決議案を参議院に提出する方針である。与党は否決に全力を挙げるとしている。",
+      "consensus": "卓球の石川佳純さんが結婚を発表したことについては、記事間で事実の合意が見られる。評価は割れておらず、アプリは裁定しない。",
       "note": "",
       "audit": {
         "changed": true,
         "issues": [
-          "facts[0].t: \"立憲民主党の斎藤国会対策委員長は\" を \"立憲民主党の国会対策委員長は\" に修正。発言主体をより正確に反映。",
-          "facts[1].t: \"関文科相問責、野党２６日提出\" を \"野党は、関文部科学大臣に対する問責決議案を26日に提出する方針である。\" に修正。より完全な文として再構成。",
-          "consensus: \"野党は26日午前、関文部科学大臣に対する問責決議案を参議院に提出する方針である。与党は否決に全力を挙げるとしている。\" を \"野党は26日午前、関文部科学大臣に対する問責決議案を参議院に提出する方針である。\" に修正。与党の意向は facts に含まれていないため consensus から削除。"
-        ]
-      }
-    },
-    {
-      "headline": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
-      "slug": "Rescuerssearchfordozenst",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112500908&g=int&m=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss"
-        }
-      ],
-      "issue": "インドネシアの金鉱山で豪雨により坑道が浸水し、作業員が閉じ込められたか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "インドネシアで豪雨により金鉱山の坑道が浸水した。",
-          "span": "インドネシアで違法採掘者２０人超閉じ込めか　豪雨で坑道浸水",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "豪雨は近くの川が氾濫したことが原因で発生した。",
-          "span": "when a nearby river overflowed after heavy rain",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "警察によると、26人の作業員が救助待ちの状態である。",
-          "span": "Police say 26 workers are yet to be rescued",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "20人超が閉じ込められたと報じられている。",
-          "span": "違法採掘者２０人超閉じ込めか",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "インドネシアで豪雨により金鉱山の坑道が浸水し、20人超（警察発表では26人）の作業員が救助待ちの状態である。詳細は調査中である。",
-      "note": "時事ドットコムの記事では「違法採掘者」と報じられているが、Al Jazeeraの記事では単に「workers」とされており、違法性の有無については断定しない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "fact.t: \"閉じ込められたのは20人超と報じられている\" を \"20人超が閉じ込められたと報じられている\" に修正。より中立的な表現に変更。"
+          "争点の立て方: テキストに争点や対立する意見がないため、issueをnullに修正しました。"
         ]
       }
     }
