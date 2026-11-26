@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-11-25T19:25:00.803Z",
+  "builtAt": "2026-11-26T02:21:52.883Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "米 過剰生産で日本などに追加関税 既存税率含め日本最大15％に",
-      "slug": "米過剰生産で日本などに追加関税既存税率含め日本最",
+      "headline": "関文科相の問責可否、カギ握る保守・無所属　与野党、多数派工作激しく",
+      "slug": "関文科相の問責可否カギ握る保守無所属与野党多数派",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,23 +14,23 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81560"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81559"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603990?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6604023?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112501247&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112501114&g=pol&m=rss"
         }
       ],
-      "issue": "米国は日本などに対し、過剰生産を理由に追加関税を課す方針か？",
-      "stasis": "事実",
+      "issue": "関文部科学大臣に対する問責決議案は妥当か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "アメリカ通商代表部（USTR）は、過剰に製品を生産して輸出し、アメリカの産業に打撃を及ぼしているとして、通商法301条に基づき、日本などに新たな追加関税を課す方針を明らかにした。",
-          "span": "過剰に製品を生産して輸出し、アメリカの産業に打撃を及ぼしているとして、通商法301条に基づき、日本などに新たな追加関税を課す方針を明らかにしました",
+          "t": "関文部科学大臣に対し、政治資金パーティーを巡る指摘が相次いでいる。",
+          "span": "政治資金パーティーをめぐる指摘が相次いでいる",
           "src": [
             {
               "ty": "press",
@@ -39,28 +39,26 @@
           ]
         },
         {
-          "t": "既存税率を含め、日本に対する関税は最大15％になる見込みである。",
-          "span": "既存税率含め日本最大15％に",
+          "t": "野党側は、関文部科学大臣に対する問責決議案を参議院に提出した。",
+          "span": "参議院に問責決議案を提出しました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "米国は日中やEUなどに対しても新たな関税を提案している。",
-          "span": "米 日中やEUなどに新関税を提案",
-          "src": [
+            },
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "米国は対日関税として15％を検討している。",
-          "span": "米、対日１５％関税へ",
+          "t": "関文部科学大臣に対する問責決議案の可否は、保守・無所属議員が鍵を握っている。",
+          "span": "関文科相の問責可否、カギ握る保守・無所属",
           "src": [
             {
               "ty": "press",
@@ -69,8 +67,8 @@
           ]
         },
         {
-          "t": "米国は過剰生産を理由に中国に対しても20％の関税を検討している。",
-          "span": "過剰生産、中国は２０％",
+          "t": "与野党は、多数派工作を激しく行っている。",
+          "span": "与野党、多数派工作激しく",
           "src": [
             {
               "ty": "press",
@@ -80,104 +78,18 @@
         }
       ],
       "positions": [],
-      "consensus": "米国は過剰生産を理由に日本などに追加関税を課す方針であり、日本への関税は最大15％、中国へは20％となる見込みである。",
-      "note": "複数の報道機関からの情報を統合した。プライバシーに配慮し、個人名は記載していない。",
+      "consensus": "野党側が関文部科学大臣に対する問責決議案を参議院に提出したことは事実である。ただし、その妥当性や可否については評価が割れている。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "consensus: 元のconsensusに「評価は割れる。」という評価が含まれていました。これは事実ではなく、テキストから読み取れないため削除しました。",
-          "consensus: 元のconsensusに「評価は割れる。」という評価が含まれていました。これは事実ではなく、テキストから読み取れないため削除しました。"
+          "positions.claim: 地の文の断定になっていたため、「〜と述べている」のメタ記述に修正。"
         ]
       }
     },
     {
-      "headline": "駐輪場で刺され７０歳男性死亡　直前に駅員暴行、容疑で男逮捕―福岡県警",
-      "slug": "駐輪場で刺され歳男性死亡直前に駅員暴行容疑で男逮",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261125de81511"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603982?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112500741&g=soc&m=rss"
-        }
-      ],
-      "issue": "福岡市の駅員暴行事件と男性刺殺事件の関連性は明らかか？",
-      "stasis": "因果の解釈",
-      "facts": [
-        {
-          "t": "25日昼前、福岡市の地下鉄の駅構内で駅員が殴られる事件が発生した。",
-          "span": "25日昼前、福岡市の地下鉄の駅構内で駅員を殴ったとして",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "警察は、駅員を殴った疑いで49歳の容疑者を逮捕した。",
-          "span": "警察は、49歳の容疑者を暴行の疑いで逮捕しました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "この直後、福岡市西区の駅の駐輪場で70歳の男性が刺されて死亡しているのが発見された。",
-          "span": "この直後に福岡市西区の駅の駐輪場で働く70歳の男性が刺されて死亡した",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "警察は、確保した男を別容疑で逮捕した。",
-          "span": "確保の男を別容疑で逮捕",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            }
-          ]
-        },
-        {
-          "t": "70歳の男性が駐輪場で刺されて死亡した事件で、男が逮捕された。",
-          "span": "駐輪場で刺され７０歳男性死亡　直前に駅員暴行、容疑で男逮捕",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "25日昼前、福岡市の地下鉄駅構内で駅員が殴られる事件が発生し、警察は49歳の男を逮捕した。その直後、福岡市西区の駐輪場で70歳の男性が刺殺されているのが発見された。警察は、駅員暴行事件の容疑者と男性刺殺事件との関連を調べている。",
-      "note": "複数の報道機関が同様の事実を報じているが、事件の関連性については警察の捜査中であるため、断定的な記述は避ける。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-      "slug": "MyfamilywerekilledinUkra",
+      "headline": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
+      "slug": "PhotosStormsandanElNinoc",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -186,31 +98,27 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss"
+          "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss"
         }
       ],
-      "issue": "ウクライナ戦争における民間人の死因と責任の所在は複雑か？",
-      "stasis": "因果の解釈（割れる）",
+      "issue": "カリフォルニア州とブリティッシュコロンビア州における悪天候とキングタイドの影響、およびメイシーズ感謝祭パレードへの影響は何か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "BBCジャーナリストのアナスタシア・グリバノワは、父と祖父母がウクライナ戦争で殺害されたと報じている。",
-          "span": "My mum blamed Zelensky's troops - the truth is complicated。BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
+          "t": "カリフォルニア州は、感謝祭期間中にピークを迎えるキングタイドによる洪水に警戒している。",
+          "span": "warns of flooding as king tides peak over Thanksgiving",
           "src": [
             {
               "ty": "press",
@@ -219,8 +127,8 @@
           ]
         },
         {
-          "t": "ガザ市でのイスラエルによる空爆で、ハマスの高官とその家族が死亡した。",
-          "span": "Israeli strike kills senior Hamas security official and family in Gaza City。Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenag",
+          "t": "カナダのブリティッシュコロンビア州の一部も、これらの嵐の影響を受ける可能性がある。",
+          "span": "may also be affected by the storms",
           "src": [
             {
               "ty": "press",
@@ -229,28 +137,8 @@
           ]
         },
         {
-          "t": "ウクライナによると、ロシアの軍用機5機が飛行場で攻撃された。",
-          "span": "Five Russian military jets hit in airfield strike, says Ukraine",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "攻撃されたサヴァスレイカ飛行場は、ロシアがウクライナに極超音速ミサイルや滑空爆弾を発射するために使用する航空機を配備している。",
-          "span": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "英国軍は、ドローン攻撃の可能性に備えて航空機を格納庫に移している。",
-          "span": "UK military ‘moving aircraft to hangars in case of drone attacks’",
+          "t": "気象学者は、キングタイドが高波と組み合わさり、州の一部に歴史的な高潮をもたらす可能性があると警告している。",
+          "span": "warned that the king tide could pair with high surf to bring historic surges to parts of the state",
           "src": [
             {
               "ty": "press",
@@ -259,8 +147,22 @@
           ]
         },
         {
-          "t": "専門家は、ドローン攻撃の脅威が示唆される情報がある場合、この動きは論理的な対応だと述べている。",
-          "span": "Experts say the move is a &#039;logical response&#039; if there is intelligence suggesting a likely drone threat.",
+          "t": "メイシーズ感謝祭パレードは悪天候のため延期された。",
+          "span": "postpones Thanksgiving parade due to weather",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            },
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "パレードの延期は、木曜日に予想された強風のためである。",
+          "span": "ahead of heavy gusts on Thursday",
           "src": [
             {
               "ty": "press",
@@ -269,8 +171,18 @@
           ]
         },
         {
-          "t": "エクアドルと米国は、共同軍事作戦を見直している。",
-          "span": "Ecuador and US review joint military operations, official says",
+          "t": "このパレードが延期されるのは史上初めてである。",
+          "span": "the first time ever that the iconic celebration",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "パレードは土曜日に延期された。",
+          "span": "to Saturday",
           "src": [
             {
               "ty": "press",
@@ -279,8 +191,8 @@
           ]
         },
         {
-          "t": "エクアドルが実施した致死的な作戦について米国が捜査しているため、共同軍事作戦は一時停止されている。",
-          "span": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
+          "t": "このパレードは100回目を迎える。",
+          "span": "marks its 100th edition",
           "src": [
             {
               "ty": "press",
@@ -290,37 +202,56 @@
         }
       ],
       "positions": [],
-      "consensus": "ウクライナ戦争における民間人の死因と責任の所在は複雑であると報じられている。また、英国軍はドローン攻撃の可能性に備えて航空機を格納庫に移しており、専門家はこの動きを論理的な対応と見ている。ガザ市ではイスラエルによる空爆でハマスの高官とその家族が死亡し、ウクライナによるとロシアの軍用機5機が飛行場で攻撃された。エクアドルと米国は共同軍事作戦を見直しており、エクアドルによる致死的な作戦の捜査のため一時停止されている。評価は割れる。",
-      "note": "プライバシー配慮のため、ガザでの空爆で死亡したハマス高官の家族の詳細は省略した。",
+      "consensus": "カリフォルニア州とブリティッシュコロンビア州が悪天候とキングタイドの影響を受けており、メイシーズ感謝祭パレードが延期されたという事実については合意がある。評価は割れない。",
       "audit": {
-        "changed": false,
-        "issues": []
+        "changed": true,
+        "issues": [
+          "facts[5].t: 「象徴的な」という評価語を削除しました。事実欄への評価混入を避けるためです。"
+        ]
       }
     },
     {
-      "headline": "卓球 五輪3大会連続でメダル 石川佳純さんが結婚 SNSで発表",
-      "slug": "卓球五輪3大会連続でメダル石川佳純さんが結婚SN",
+      "headline": "米 過剰生産で日本など追加関税 既存税率含め日本は最大15％に",
+      "slug": "米過剰生産で日本など追加関税既存税率含め日本は最",
       "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要"
+        "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261125de81444"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81560"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6603973?source=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112501247&g=int&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112600388&g=int&m=rss"
         }
       ],
-      "issue": null,
-      "stasis": "事実",
+      "issue": "米国が過剰生産を理由に日本などに追加関税を課す方針",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "卓球の石川佳純さんが結婚を発表した。",
-          "span": "結婚を発表しました",
+          "t": "米国通商代表部（USTR）は、過剰生産を理由に日本を含む14の国と地域に新たな追加関税を課す方針を明らかにした。",
+          "span": "日本を含む14の国と地域に新たな追加関税を課す方針を明らかにしました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "米国通商代表部（USTR）は、過剰に製品を生産して輸出し、アメリカの産業に打撃を与えていることを、追加関税の理由としている。",
+          "span": "過剰に製品を生産して輸出し、アメリカの産業に打撃を及ぼしている",
           "src": [
             {
               "ty": "press",
@@ -329,8 +260,8 @@
           ]
         },
         {
-          "t": "石川佳純さんはオリンピック3大会連続でメダルを獲得している。",
-          "span": "オリンピック3大会連続でメダルを獲得した",
+          "t": "この追加関税は通商法301条に基づいている。",
+          "span": "通商法301条に基づき",
           "src": [
             {
               "ty": "press",
@@ -339,33 +270,118 @@
           ]
         },
         {
-          "t": "結婚発表は自身のSNSで行われた。",
-          "span": "自身のSNSで",
+          "t": "日本に対する追加関税は、既存税率を含め最大15％となる見込みである。",
+          "span": "最大15％に",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "結婚発表の3分前に石川さんから1通の連絡があったと報じられている。",
-          "span": "結婚発表3分前の1通",
+          "t": "中国に対する追加関税は20％となる。",
+          "span": "２０％",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "日本への関税案は、違憲判決前の水準に相当する。",
+          "span": "違憲判決前水準に",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "卓球の石川佳純さんが結婚を発表したことについては、記事間で事実の合意が見られる。評価は割れておらず、アプリは裁定しない。",
-      "note": "",
+      "consensus": "米国通商代表部（USTR）は、過剰生産を理由に日本を含む14の国と地域に追加関税を課す方針を明らかにしました。",
+      "note": null,
       "audit": {
         "changed": true,
         "issues": [
-          "争点の立て方: テキストに争点や対立する意見がないため、issueをnullに修正しました。"
+          "issue: テキストにない対立を前提とした問いを修正し、政策の事実を記述する形に変更しました。",
+          "facts[1].t: USTRの主張を客観的な事実として記述していたため、「〜と理由としている」と修正し、評価混入を排除しました。",
+          "consensus: テキストにない評価の言及を削除し、事実の合意のみを記述する形に変更しました。"
+        ]
+      }
+    },
+    {
+      "headline": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "slug": "Israelijudgesrecommenddr",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss"
+        }
+      ],
+      "issue": "ネタニヤフ首相の汚職裁判は継続すべきか？",
+      "stasis": "評価・予測（割れる）",
+      "facts": [
+        {
+          "t": "イスラエルの裁判官が、ネタニヤフ首相に対する最も深刻な容疑の取り下げを勧告した。",
+          "span": "recommend dropping most serious charges",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "裁判官は、3つの事件のうち1つにおいて有罪判決の可能性が低いと述べた。",
+          "span": "little chance of conviction in one of three cases",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "イスラエルの裁判官は、ベンヤミン・ネタニヤフが汚職で有罪となる見込みがほとんどないと判断した。",
+          "span": "little prospect Benjamin Netanyahu will be convicted of corruption",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "イスラエルの裁判官は、ネタニヤフ首相の汚職裁判における有罪判決の可能性が低いと判断し、最も深刻な容疑の取り下げを勧告している。これを受け、ネタニヤフ首相は自身の裁判を終了させるべきだと主張している。",
+      "note": null,
+      "audit": {
+        "changed": true,
+        "issues": [
+          "positions[0].stanceが、争点「裁判継続」に対して「support」となっていたため、「against」に修正しました。",
+          "positions[0].claimが地の文の断定表現になっていたため、「〜と述べている」のメタ記述に修正し、著作権に配慮して再記述しました。",
+          "positions[0].premisesが欠落していたため、元テキストから読み取れる論理関係に基づき追加しました。",
+          "consensusが、テキストに明示されていない対立を暗示する表現を含んでいたため、明示された事実と立場のみを記述するよう修正しました。"
         ]
       }
     }
