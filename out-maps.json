@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-11-26T02:21:52.883Z",
+  "builtAt": "2026-11-26T11:17:23.823Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "関文科相の問責可否、カギ握る保守・無所属　与野党、多数派工作激しく",
-      "slug": "関文科相の問責可否カギ握る保守無所属与野党多数派",
+      "headline": "プロ野球広島に開示求めた3人 「戦力構想外」の回答と明らかに",
+      "slug": "プロ野球広島に開示求めた3人戦力構想外の回答と明",
       "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
@@ -14,23 +14,41 @@
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81559"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de82052"
+        },
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de82049"
         },
         {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6604023?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6604103?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112501114&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112601052&g=spo&m=rss"
         }
       ],
-      "issue": "関文部科学大臣に対する問責決議案は妥当か？",
-      "stasis": "政策",
+      "issue": "プロ野球選手が戦力構想外とされた理由の開示は妥当か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "関文部科学大臣に対し、政治資金パーティーを巡る指摘が相次いでいる。",
-          "span": "政治資金パーティーをめぐる指摘が相次いでいる",
+          "t": "西武はドラフト1位で指名した亜細亜大の川尻啓人投手と仮契約を結んだ。",
+          "span": "亜細亜大の川尻啓人投手が球団と仮契約を結び",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            },
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "プロ野球広島から来シーズンの契約を結ばないと通告された3人の選手が、球団に詳しい理由の開示を求めた。",
+          "span": "詳しい理由の開示を求めていた",
           "src": [
             {
               "ty": "press",
@@ -39,219 +57,94 @@
           ]
         },
         {
-          "t": "野党側は、関文部科学大臣に対する問責決議案を参議院に提出した。",
-          "span": "参議院に問責決議案を提出しました",
+          "t": "広島球団は、理由の開示を求めた3人の選手に対し、「来シーズン以降の戦力構想から外れたため」などと回答した。",
+          "span": "球団から「来シーズン以降の戦力構想から外れたため」などと回答を受けたことを明らかにしました",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "関文部科学大臣に対する問責決議案の可否は、保守・無所属議員が鍵を握っている。",
-          "span": "関文科相の問責可否、カギ握る保守・無所属",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "与野党は、多数派工作を激しく行っている。",
-          "span": "与野党、多数派工作激しく",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
             }
           ]
         }
       ],
-      "positions": [],
-      "consensus": "野党側が関文部科学大臣に対する問責決議案を参議院に提出したことは事実である。ただし、その妥当性や可否については評価が割れている。",
-      "note": null,
+      "positions": [
+        {
+          "actor": "川尻啓人投手",
+          "stance": "support",
+          "claim": "今の自分で満足せず、さらなるレベルアップを目指していきたい",
+          "span": "今の自分で満足せず、さらなるレベルアップを目指していきたい",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "actor": "川尻啓人投手",
+          "stance": "support",
+          "claim": "直球で押し切る",
+          "span": "直球で押し切る",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "actor": "3人の選手",
+          "stance": "attack",
+          "claim": "戦力構想外の理由の開示を求めた",
+          "span": "詳しい理由の開示を求めていた",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "consensus": "西武はドラフト1位の川尻投手が仮契約を結んだ。広島は戦力構想外を通告した3選手に対し、理由を開示したと報じられている。評価は割れる。",
+      "note": "プライバシーに配慮し、戦力外通告を受けた3選手の氏名は特定せず「3人の選手」とした。また、Yahoo!ニュースの出典は内容の確認に留め、直接的な引用元とはしなかった。",
       "audit": {
         "changed": true,
         "issues": [
-          "positions.claim: 地の文の断定になっていたため、「〜と述べている」のメタ記述に修正。"
+          "factsの2番目の項目で、spanが空文字だったため、元テキストから適切なspan「詳しい理由の開示を求めていた」を補った。",
+          "consensusの最後の文「評価は割れる。」は、元テキストから直接読み取れるものではなく、issueのstasisからの推測であるため削除した。また、consensusの内容を事実関係の要約に修正した。",
+          "fact spanが原文に無い→除去「プロ野球広島から来シーズンの契約を結…」"
         ]
       }
     },
     {
-      "headline": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
-      "slug": "PhotosStormsandanElNinoc",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss"
-        }
-      ],
-      "issue": "カリフォルニア州とブリティッシュコロンビア州における悪天候とキングタイドの影響、およびメイシーズ感謝祭パレードへの影響は何か？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "カリフォルニア州は、感謝祭期間中にピークを迎えるキングタイドによる洪水に警戒している。",
-          "span": "warns of flooding as king tides peak over Thanksgiving",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "カナダのブリティッシュコロンビア州の一部も、これらの嵐の影響を受ける可能性がある。",
-          "span": "may also be affected by the storms",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "気象学者は、キングタイドが高波と組み合わさり、州の一部に歴史的な高潮をもたらす可能性があると警告している。",
-          "span": "warned that the king tide could pair with high surf to bring historic surges to parts of the state",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "メイシーズ感謝祭パレードは悪天候のため延期された。",
-          "span": "postpones Thanksgiving parade due to weather",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            },
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "パレードの延期は、木曜日に予想された強風のためである。",
-          "span": "ahead of heavy gusts on Thursday",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "このパレードが延期されるのは史上初めてである。",
-          "span": "the first time ever that the iconic celebration",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "パレードは土曜日に延期された。",
-          "span": "to Saturday",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "このパレードは100回目を迎える。",
-          "span": "marks its 100th edition",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "カリフォルニア州とブリティッシュコロンビア州が悪天候とキングタイドの影響を受けており、メイシーズ感謝祭パレードが延期されたという事実については合意がある。評価は割れない。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "facts[5].t: 「象徴的な」という評価語を削除しました。事実欄への評価混入を避けるためです。"
-        ]
-      }
-    },
-    {
-      "headline": "米 過剰生産で日本など追加関税 既存税率含め日本は最大15％に",
-      "slug": "米過剰生産で日本など追加関税既存税率含め日本は最",
-      "independentSources": 2,
+      "headline": "小中不登校、最多３５万人超　問題行動調査、いじめも最多―性的嫌がらせ８千件・文科省",
+      "slug": "小中不登校最多万人超問題行動調査いじめも最多性的",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81560"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81766"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6604089?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112501247&g=int&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112600388&g=int&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112600746&g=soc&m=rss"
         }
       ],
-      "issue": "米国が過剰生産を理由に日本などに追加関税を課す方針",
-      "stasis": "政策",
+      "issue": "不登校児童生徒数および性的嫌がらせの件数は増加傾向にあるか？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "米国通商代表部（USTR）は、過剰生産を理由に日本を含む14の国と地域に新たな追加関税を課す方針を明らかにした。",
-          "span": "日本を含む14の国と地域に新たな追加関税を課す方針を明らかにしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "米国通商代表部（USTR）は、過剰に製品を生産して輸出し、アメリカの産業に打撃を与えていることを、追加関税の理由としている。",
-          "span": "過剰に製品を生産して輸出し、アメリカの産業に打撃を及ぼしている",
+          "t": "昨年度、不登校の小中学生などの数は35万9424人で、13年連続で過去最多を更新した。",
+          "span": "不登校が過去最多35万9424人",
           "src": [
             {
               "ty": "press",
@@ -260,8 +153,8 @@
           ]
         },
         {
-          "t": "この追加関税は通商法301条に基づいている。",
-          "span": "通商法301条に基づき",
+          "t": "特に小学生の不登校の増加率が高くなっている。",
+          "span": "特に小学生の増加率が高くなっていて",
           "src": [
             {
               "ty": "press",
@@ -270,22 +163,18 @@
           ]
         },
         {
-          "t": "日本に対する追加関税は、既存税率を含め最大15％となる見込みである。",
-          "span": "最大15％に",
+          "t": "文部科学省の調査で、性的いじめの件数は8158件だった。",
+          "span": "性的いじめ8158件",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         },
         {
-          "t": "中国に対する追加関税は20％となる。",
-          "span": "２０％",
+          "t": "小中学生の不登校者数は35万人を超え、過去最多を更新した。",
+          "span": "小中不登校、最多３５万人超",
           "src": [
             {
               "ty": "press",
@@ -294,8 +183,18 @@
           ]
         },
         {
-          "t": "日本への関税案は、違憲判決前の水準に相当する。",
-          "span": "違憲判決前水準に",
+          "t": "いじめの件数も最多を記録した。",
+          "span": "いじめも最多",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "性的嫌がらせの件数は8千件だった。",
+          "span": "性的嫌がらせ８千件",
           "src": [
             {
               "ty": "press",
@@ -305,65 +204,146 @@
         }
       ],
       "positions": [],
-      "consensus": "米国通商代表部（USTR）は、過剰生産を理由に日本を含む14の国と地域に追加関税を課す方針を明らかにしました。",
+      "consensus": "昨年度の不登校児童生徒数は過去最多の35万9424人となり、特に小学生の増加率が高かった。また、文部科学省の調査で性的いじめ（性的嫌がらせ）は8158件（または8千件）と最多を記録した。文部科学省は、小学生の不登校が保護者の離職につながるケースがあることを指摘している。",
       "note": null,
       "audit": {
-        "changed": true,
-        "issues": [
-          "issue: テキストにない対立を前提とした問いを修正し、政策の事実を記述する形に変更しました。",
-          "facts[1].t: USTRの主張を客観的な事実として記述していたため、「〜と理由としている」と修正し、評価混入を排除しました。",
-          "consensus: テキストにない評価の言及を削除し、事実の合意のみを記述する形に変更しました。"
-        ]
+        "changed": false,
+        "issues": []
       }
     },
     {
-      "headline": "Israeli judges recommend dropping most serious charges against Netanyahu",
-      "slug": "Israelijudgesrecommenddr",
+      "headline": "ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】",
+      "slug": "ロシア拘束の北海道新聞記者妻が手記を公開全文掲載",
+      "independentSources": 3,
+      "sources": [
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81607"
+        },
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6604065?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112600697&g=soc&m=rss"
+        }
+      ],
+      "issue": "ロシアに拘束された北海道新聞記者の早期解放は実現するか？",
+      "stasis": "政策",
+      "facts": [
+        {
+          "t": "北海道新聞の記者がロシアの治安機関に拘束されている。",
+          "span": "ロシアの治安機関に拘束された北海道新聞の記者",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "記者の妻が手記を公開し、早期解放を訴えた。",
+          "span": "記者の妻が手記を公開し、「家族は悲しみのどん底にあり続けています。小さな娘に、どうか大切なパパを返してください」などと早期の解放を訴えました",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "記者の妻は、娘が父親を返してほしいと願っていると述べた。",
+          "span": "小さな娘に、どうか大切なパパを返してください",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシアに拘束されている北海道新聞の記者がおり、その妻が早期解放を訴えている。評価は割れる。",
+      "note": "プライバシーに配慮し、記者の氏名は伏せています。手記の全文掲載は、各出典で確認できます。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Seven injured in explosion at oil facility in Thailand’s Bangkok",
+      "slug": "Seveninjuredinexplosiona",
       "independentSources": 2,
       "sources": [
-        "BBC World",
+        "時事ドットコム",
         "Al Jazeera"
       ],
       "links": [
         {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=20261126049628a&g=afp&m=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/judges-recommend-prosecutors-end-corruption-case-against-netanyahu?traffic_source=rss"
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss"
+          "link": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss"
         }
       ],
-      "issue": "ネタニヤフ首相の汚職裁判は継続すべきか？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "バンコクの石油貯蔵施設での爆発は、住民の避難を必要とするほど深刻な事態か？",
+      "stasis": "事実",
       "facts": [
         {
-          "t": "イスラエルの裁判官が、ネタニヤフ首相に対する最も深刻な容疑の取り下げを勧告した。",
-          "span": "recommend dropping most serious charges",
+          "t": "バンコクの石油貯蔵施設で大規模な爆発が発生した。",
+          "span": "石油貯蔵施設で大規模爆発",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "裁判官は、3つの事件のうち1つにおいて有罪判決の可能性が低いと述べた。",
-          "span": "little chance of conviction in one of three cases",
+          "t": "爆発により炎と煙が空高く上がった。",
+          "span": "sent flames and smoke into the sky",
           "src": [
             {
               "ty": "press",
-              "l": "BBC World"
+              "l": "Al Jazeera"
             }
           ]
         },
         {
-          "t": "イスラエルの裁判官は、ベンヤミン・ネタニヤフが汚職で有罪となる見込みがほとんどないと判断した。",
-          "span": "little prospect Benjamin Netanyahu will be convicted of corruption",
+          "t": "タイのバンコク東部にある石油貯蔵施設で爆発が発生した。",
+          "span": "oil facility in Thailand’s Bangkok",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "爆発で7人が負傷した。",
+          "span": "Seven injured in explosion",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "当局は、バンコク東部の石油貯蔵施設周辺の住民に避難を呼びかけた。",
+          "span": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes",
           "src": [
             {
               "ty": "press",
@@ -373,15 +353,12 @@
         }
       ],
       "positions": [],
-      "consensus": "イスラエルの裁判官は、ネタニヤフ首相の汚職裁判における有罪判決の可能性が低いと判断し、最も深刻な容疑の取り下げを勧告している。これを受け、ネタニヤフ首相は自身の裁判を終了させるべきだと主張している。",
-      "note": null,
+      "consensus": "バンコクの石油貯蔵施設で大規模な爆発が発生し、7人が負傷し、当局が住民に避難を呼びかけたという事実については、報道間で一致している。爆発の規模や影響に関する評価は、提示された情報からは判断できない。",
+      "note": "Al Jazeeraの記事は英語で提供されたため、一部のspanは原文のまま引用しています。",
       "audit": {
-        "changed": true,
+        "changed": false,
         "issues": [
-          "positions[0].stanceが、争点「裁判継続」に対して「support」となっていたため、「against」に修正しました。",
-          "positions[0].claimが地の文の断定表現になっていたため、「〜と述べている」のメタ記述に修正し、著作権に配慮して再記述しました。",
-          "positions[0].premisesが欠落していたため、元テキストから読み取れる論理関係に基づき追加しました。",
-          "consensusが、テキストに明示されていない対立を暗示する表現を含んでいたため、明示された事実と立場のみを記述するよう修正しました。"
+          "fact spanが原文に無い→除去「An Large explosion…」"
         ]
       }
     }
