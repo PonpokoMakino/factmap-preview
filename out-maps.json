@@ -1,44 +1,165 @@
 {
-  "builtAt": "2026-11-26T11:17:23.823Z",
+  "builtAt": "2026-11-26T20:16:40.173Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "プロ野球広島に開示求めた3人 「戦力構想外」の回答と明らかに",
-      "slug": "プロ野球広島に開示求めた3人戦力構想外の回答と明",
-      "independentSources": 3,
+      "headline": "関文科相問責決議案 きょう採決 可否はギリギリの情勢か",
+      "slug": "関文科相問責決議案きょう採決可否はギリギリの情勢",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
           "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de82052"
-        },
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de82049"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6604103?source=rss"
+          "link": "https://news.web.nhk/newsweb/na/nd-20261127de82148"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112601052&g=spo&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112601000&g=pol&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112601104&g=pol&m=rss"
         }
       ],
-      "issue": "プロ野球選手が戦力構想外とされた理由の開示は妥当か？",
-      "stasis": "評価・予測（割れる）",
+      "issue": "関文部科学大臣に対する問責決議案は、27日の参議院本会議で可決されるか？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "西武はドラフト1位で指名した亜細亜大の川尻啓人投手と仮契約を結んだ。",
-          "span": "亜細亜大の川尻啓人投手が球団と仮契約を結び",
+          "t": "野党は、政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案を提出した。",
+          "span": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対し、野党側が提出した問責決議案",
           "src": [
             {
               "ty": "press",
               "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "問責決議案は、27日の参議院本会議で採決が行われる予定である。",
+          "span": "27日の参議院本会議で採決が行われます",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "与野党ともに、問責決議案の可否はギリギリの情勢とみている。",
+          "span": "可否はギリギリの情勢か",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "問責決議案の採決は、消費減税への波及や会期末が迫る中で行われる。",
+          "span": "問責可否、消費減税へ波及　迫る会期末",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "関文部科学大臣に対する問責決議案が27日の参議院本会議で採決される予定である。与野党ともに、その可否はギリギリの情勢とみている。",
+      "note": "プライバシー配慮のため、個別の政治資金パーティーに関する詳細な指摘内容は省略した。",
+      "audit": {
+        "changed": false,
+        "issues": [
+          "position spanが原文に無い→除去「可否はギリギリの情勢とみていて…」"
+        ]
+      }
+    },
+    {
+      "headline": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
+      "slug": "JudgestrikesdownTrumpsla",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss"
+        }
+      ],
+      "issue": "クウェートでのストライキでイタリア人2名が死亡したか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "クウェートでのストライキにより、イタリア人2名が死亡したと報じられている。",
+          "span": "Two Italians killed in strike in Kuwait",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "死亡したイタリア人2名は、ドイツ企業ラインメタル社の技術者であったとイタリア外務省が発表している。",
+          "span": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "クウェートでのストライキでイタリア人2名が死亡したという事実は合意されているが、イランは責任を否定している。イタリア外務省は、死亡した2名がドイツ企業ラインメタル社の技術者であったと発表している。",
+      "note": "プライバシー配慮のため、死亡したイタリア人個人の特定情報は含んでいない。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "次期欧州中銀総裁にデコス氏　スペインから初―報道",
+      "slug": "次期欧州中銀総裁にデコス氏スペインから初報道",
+      "independentSources": 2,
+      "sources": [
+        "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6604123?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112601218&g=int&m=rss"
+        }
+      ],
+      "issue": "次期欧州中央銀行総裁にデコス氏が就任するか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "次期欧州中央銀行総裁にデコス氏が就任することが報じられた。",
+          "span": "次期欧州中銀総裁にデコス氏",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Yahoo!ニュース 主要"
             },
             {
               "ty": "press",
@@ -47,44 +168,8 @@
           ]
         },
         {
-          "t": "プロ野球広島から来シーズンの契約を結ばないと通告された3人の選手が、球団に詳しい理由の開示を求めた。",
-          "span": "詳しい理由の開示を求めていた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "広島球団は、理由の開示を求めた3人の選手に対し、「来シーズン以降の戦力構想から外れたため」などと回答した。",
-          "span": "球団から「来シーズン以降の戦力構想から外れたため」などと回答を受けたことを明らかにしました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [
-        {
-          "actor": "川尻啓人投手",
-          "stance": "support",
-          "claim": "今の自分で満足せず、さらなるレベルアップを目指していきたい",
-          "span": "今の自分で満足せず、さらなるレベルアップを目指していきたい",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "actor": "川尻啓人投手",
-          "stance": "support",
-          "claim": "直球で押し切る",
-          "span": "直球で押し切る",
+          "t": "デコス氏はスペイン出身である。",
+          "span": "スペインから初",
           "src": [
             {
               "ty": "press",
@@ -93,217 +178,48 @@
           ]
         },
         {
-          "actor": "3人の選手",
-          "stance": "attack",
-          "claim": "戦力構想外の理由の開示を求めた",
-          "span": "詳しい理由の開示を求めていた",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "consensus": "西武はドラフト1位の川尻投手が仮契約を結んだ。広島は戦力構想外を通告した3選手に対し、理由を開示したと報じられている。評価は割れる。",
-      "note": "プライバシーに配慮し、戦力外通告を受けた3選手の氏名は特定せず「3人の選手」とした。また、Yahoo!ニュースの出典は内容の確認に留め、直接的な引用元とはしなかった。",
-      "audit": {
-        "changed": true,
-        "issues": [
-          "factsの2番目の項目で、spanが空文字だったため、元テキストから適切なspan「詳しい理由の開示を求めていた」を補った。",
-          "consensusの最後の文「評価は割れる。」は、元テキストから直接読み取れるものではなく、issueのstasisからの推測であるため削除した。また、consensusの内容を事実関係の要約に修正した。",
-          "fact spanが原文に無い→除去「プロ野球広島から来シーズンの契約を結…」"
-        ]
-      }
-    },
-    {
-      "headline": "小中不登校、最多３５万人超　問題行動調査、いじめも最多―性的嫌がらせ８千件・文科省",
-      "slug": "小中不登校最多万人超問題行動調査いじめも最多性的",
-      "independentSources": 3,
-      "sources": [
-        "NHK 主要ニュース",
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81766"
-        },
-        {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6604089?source=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112600746&g=soc&m=rss"
-        }
-      ],
-      "issue": "不登校児童生徒数および性的嫌がらせの件数は増加傾向にあるか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "昨年度、不登校の小中学生などの数は35万9424人で、13年連続で過去最多を更新した。",
-          "span": "不登校が過去最多35万9424人",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "特に小学生の不登校の増加率が高くなっている。",
-          "span": "特に小学生の増加率が高くなっていて",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "文部科学省の調査で、性的いじめの件数は8158件だった。",
-          "span": "性的いじめ8158件",
+          "t": "EU首脳による承認プロセスが予定されている。",
+          "span": "EU首脳承認へ",
           "src": [
             {
               "ty": "press",
               "l": "Yahoo!ニュース 主要"
             }
           ]
-        },
-        {
-          "t": "小中学生の不登校者数は35万人を超え、過去最多を更新した。",
-          "span": "小中不登校、最多３５万人超",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "いじめの件数も最多を記録した。",
-          "span": "いじめも最多",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "性的嫌がらせの件数は8千件だった。",
-          "span": "性的嫌がらせ８千件",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
         }
       ],
       "positions": [],
-      "consensus": "昨年度の不登校児童生徒数は過去最多の35万9424人となり、特に小学生の増加率が高かった。また、文部科学省の調査で性的いじめ（性的嫌がらせ）は8158件（または8千件）と最多を記録した。文部科学省は、小学生の不登校が保護者の離職につながるケースがあることを指摘している。",
-      "note": null,
+      "consensus": "次期欧州中央銀行総裁にデコス氏が就任することが報じられており、EU首脳による承認プロセスが予定されている。デコス氏はスペインから初となる。",
+      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】",
-      "slug": "ロシア拘束の北海道新聞記者妻が手記を公開全文掲載",
-      "independentSources": 3,
+      "headline": "北朝鮮「対ロ軍事支援停止」か　ウクライナ当局発表",
+      "slug": "北朝鮮対ロ軍事支援停止かウクライナ当局発表",
+      "independentSources": 2,
       "sources": [
-        "NHK 主要ニュース",
         "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
         {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261126de81607"
-        },
-        {
           "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6604065?source=rss"
+          "link": "https://news.yahoo.co.jp/pickup/6604122?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112600697&g=soc&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112601208&g=int&m=rss"
         }
       ],
-      "issue": "ロシアに拘束された北海道新聞記者の早期解放は実現するか？",
-      "stasis": "政策",
-      "facts": [
-        {
-          "t": "北海道新聞の記者がロシアの治安機関に拘束されている。",
-          "span": "ロシアの治安機関に拘束された北海道新聞の記者",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "記者の妻が手記を公開し、早期解放を訴えた。",
-          "span": "記者の妻が手記を公開し、「家族は悲しみのどん底にあり続けています。小さな娘に、どうか大切なパパを返してください」などと早期の解放を訴えました",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "記者の妻は、娘が父親を返してほしいと願っていると述べた。",
-          "span": "小さな娘に、どうか大切なパパを返してください",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "ロシアに拘束されている北海道新聞の記者がおり、その妻が早期解放を訴えている。評価は割れる。",
-      "note": "プライバシーに配慮し、記者の氏名は伏せています。手記の全文掲載は、各出典で確認できます。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Seven injured in explosion at oil facility in Thailand’s Bangkok",
-      "slug": "Seveninjuredinexplosiona",
-      "independentSources": 2,
-      "sources": [
-        "時事ドットコム",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=20261126049628a&g=afp&m=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok?traffic_source=rss"
-        }
-      ],
-      "issue": "バンコクの石油貯蔵施設での爆発は、住民の避難を必要とするほど深刻な事態か？",
+      "issue": "北朝鮮はロシアへの軍事支援を停止したか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "バンコクの石油貯蔵施設で大規模な爆発が発生した。",
-          "span": "石油貯蔵施設で大規模爆発",
+          "t": "ウクライナ当局が、北朝鮮がロシアへの軍事支援を停止したと発表した。",
+          "span": "北朝鮮「対ロ軍事支援停止」か　ウクライナ当局発表",
           "src": [
             {
               "ty": "press",
@@ -312,54 +228,22 @@
           ]
         },
         {
-          "t": "爆発により炎と煙が空高く上がった。",
-          "span": "sent flames and smoke into the sky",
+          "t": "北朝鮮がロシアへの軍事支援を停止したと報じられている。",
+          "span": "北朝鮮が露軍事支援停止か",
           "src": [
             {
               "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "タイのバンコク東部にある石油貯蔵施設で爆発が発生した。",
-          "span": "oil facility in Thailand’s Bangkok",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "爆発で7人が負傷した。",
-          "span": "Seven injured in explosion",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
-            }
-          ]
-        },
-        {
-          "t": "当局は、バンコク東部の石油貯蔵施設周辺の住民に避難を呼びかけた。",
-          "span": "Authorities urge residents in area surrounding oil depot in eastern Bangkok to evacuate their homes",
-          "src": [
-            {
-              "ty": "press",
-              "l": "Al Jazeera"
+              "l": "Yahoo!ニュース 主要"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "バンコクの石油貯蔵施設で大規模な爆発が発生し、7人が負傷し、当局が住民に避難を呼びかけたという事実については、報道間で一致している。爆発の規模や影響に関する評価は、提示された情報からは判断できない。",
-      "note": "Al Jazeeraの記事は英語で提供されたため、一部のspanは原文のまま引用しています。",
+      "consensus": "ウクライナ当局は、北朝鮮がロシアへの軍事支援を停止したと発表した。この発表について、この記事では他の立場や評価は示されていない。",
+      "note": "この記事は、ウクライナ当局の発表のみを報じており、北朝鮮やロシアからの公式な見解や、この発表の真偽を検証する情報は含まれていない。",
       "audit": {
         "changed": false,
-        "issues": [
-          "fact spanが原文に無い→除去「An Large explosion…」"
-        ]
+        "issues": []
       }
     }
   ]
