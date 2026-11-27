@@ -1,13 +1,14 @@
 {
-  "builtAt": "2026-11-26T20:16:40.173Z",
+  "builtAt": "2026-11-27T11:51:54.059Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "関文科相問責決議案 きょう採決 可否はギリギリの情勢か",
-      "slug": "関文科相問責決議案きょう採決可否はギリギリの情勢",
-      "independentSources": 2,
+      "headline": "高市首相は関文科相の問題に関し、「本人がしっかりと説明責任を果たすべきだ」と記者団に述べた",
+      "slug": "高市首相は関文科相の問題に関し本人がしっかりと説",
+      "independentSources": 3,
       "sources": [
         "NHK 主要ニュース",
+        "Yahoo!ニュース 主要",
         "時事ドットコム"
       ],
       "links": [
@@ -16,20 +17,24 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20261127de82148"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112601000&g=pol&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6604220?source=rss"
         },
         {
           "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112601104&g=pol&m=rss"
+          "link": "https://www.jiji.com/jc/article?k=2026112700873&g=flash&m=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112700415&g=pol&m=rss"
         }
       ],
-      "issue": "関文部科学大臣に対する問責決議案は、27日の参議院本会議で可決されるか？",
-      "stasis": "政策",
+      "issue": "関文部科学大臣に対する問責決議案は妥当か？",
+      "stasis": "評価・予測（割れる）",
       "facts": [
         {
-          "t": "野党は、政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案を提出した。",
-          "span": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対し、野党側が提出した問責決議案",
+          "t": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案が参議院本会議で採決された。",
+          "span": "政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案は、参議院本会議で採決が行われ",
           "src": [
             {
               "ty": "press",
@@ -38,8 +43,8 @@
           ]
         },
         {
-          "t": "問責決議案は、27日の参議院本会議で採決が行われる予定である。",
-          "span": "27日の参議院本会議で採決が行われます",
+          "t": "問責決議案は自民・維新両党などの反対多数で否決された。",
+          "span": "自民・維新両党などの反対多数で否決されました",
           "src": [
             {
               "ty": "press",
@@ -48,18 +53,38 @@
           ]
         },
         {
-          "t": "与野党ともに、問責決議案の可否はギリギリの情勢とみている。",
-          "span": "可否はギリギリの情勢か",
+          "t": "問責決議案は4票差で否決された。",
+          "span": "４票差",
           "src": [
             {
               "ty": "press",
-              "l": "NHK 主要ニュース"
+              "l": "時事ドットコム"
             }
           ]
         },
         {
-          "t": "問責決議案の採決は、消費減税への波及や会期末が迫る中で行われる。",
-          "span": "問責可否、消費減税へ波及　迫る会期末",
+          "t": "首相は関文科相の問題に関し、「本人がしっかりと説明責任を果たすべきだ」と述べた。",
+          "span": "「本人がしっかりと説明責任を果たすべきだ」",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "首相は関文科相の続投を支持した。",
+          "span": "首相が続投支持",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "消費税審議は12月2日に再開される。",
+          "span": "消費税審議、１２月２日再開",
           "src": [
             {
               "ty": "press",
@@ -69,18 +94,16 @@
         }
       ],
       "positions": [],
-      "consensus": "関文部科学大臣に対する問責決議案が27日の参議院本会議で採決される予定である。与野党ともに、その可否はギリギリの情勢とみている。",
-      "note": "プライバシー配慮のため、個別の政治資金パーティーに関する詳細な指摘内容は省略した。",
+      "consensus": "関文部科学大臣に対する問責決議案は参議院本会議で採決され、自民・維新両党などの反対多数で4票差で否決された。首相は関文科相の続投を支持し、説明責任を果たすべきだと述べた。関文科相は問責案否決を重く受け止めるとした。",
+      "note": "プライバシー配慮のため、関文部科学大臣の氏名はそのまま記載したが、個別の政治資金パーティーに関する詳細な指摘内容は事実として抽出せず、問責決議案の背景として言及するにとどめた。",
       "audit": {
         "changed": false,
-        "issues": [
-          "position spanが原文に無い→除去「可否はギリギリの情勢とみていて…」"
-        ]
+        "issues": []
       }
     },
     {
-      "headline": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
-      "slug": "JudgestrikesdownTrumpsla",
+      "headline": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+      "slug": "GuineaBissausmilitarylea",
       "independentSources": 2,
       "sources": [
         "BBC World",
@@ -89,23 +112,23 @@
       "links": [
         {
           "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+          "link": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss"
+          "link": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss"
         }
       ],
-      "issue": "クウェートでのストライキでイタリア人2名が死亡したか？",
-      "stasis": "事実",
+      "issue": "スペインの総選挙における住宅問題の重要性はどの程度か？",
+      "stasis": "政策",
       "facts": [
         {
-          "t": "クウェートでのストライキにより、イタリア人2名が死亡したと報じられている。",
-          "span": "Two Italians killed in strike in Kuwait",
+          "t": "スペインの総選挙キャンペーンにおいて、住宅購入の困難さが最大の争点となっている。",
+          "span": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
           "src": [
             {
               "ty": "press",
@@ -114,8 +137,48 @@
           ]
         },
         {
-          "t": "死亡したイタリア人2名は、ドイツ企業ラインメタル社の技術者であったとイタリア外務省が発表している。",
-          "span": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+          "t": "スペインの選挙はモロッコとの外交関係を再構築する可能性がある。",
+          "span": "The vote could reshape diplomatic relations",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "スペインとモロッコの間には、共通の戦略的利益が存在し続ける。",
+          "span": "but shared strategic interests will continue to bind the two countries.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "ギニアビサウの軍事指導者は、文民統治への復帰を2028年まで遅らせると発表した。",
+          "span": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "この発表は、軍事クーデターから1年後に行われた。",
+          "span": "The announcement comes a year after a military coup",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "軍事指導者は、12ヶ月以内の文民統治への復帰を約束していた。",
+          "span": "with its leaders promising a return to civilian rule within 12 month",
           "src": [
             {
               "ty": "press",
@@ -125,61 +188,77 @@
         }
       ],
       "positions": [],
-      "consensus": "クウェートでのストライキでイタリア人2名が死亡したという事実は合意されているが、イランは責任を否定している。イタリア外務省は、死亡した2名がドイツ企業ラインメタル社の技術者であったと発表している。",
-      "note": "プライバシー配慮のため、死亡したイタリア人個人の特定情報は含んでいない。",
+      "consensus": "スペインの選挙キャンペーンでは住宅問題が最大の争点となっている。ギニアビサウの軍事指導者は文民統治への復帰を2028年まで遅らせると発表した。スペインの選挙はモロッコとの関係に影響を与える可能性があるが、両国間には共通の戦略的利益が存在し続ける。スペインの指導者たちは最終討論で対立した。",
+      "note": "プライバシー配慮のため、スペインの選挙に関する個別の候補者や政党名は記載しない。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "次期欧州中銀総裁にデコス氏　スペインから初―報道",
-      "slug": "次期欧州中銀総裁にデコス氏スペインから初報道",
+      "headline": "乗用車など10台以上絡む事故で10人病院搬送 静岡 清水町",
+      "slug": "乗用車など10台以上絡む事故で10人病院搬送静岡",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "NHK 主要ニュース",
+        "Yahoo!ニュース 主要"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6604123?source=rss"
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261127de82723"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112601218&g=int&m=rss"
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6604226?source=rss"
         }
       ],
-      "issue": "次期欧州中央銀行総裁にデコス氏が就任するか？",
+      "issue": "静岡県清水町で発生した多重事故の状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "次期欧州中央銀行総裁にデコス氏が就任することが報じられた。",
-          "span": "次期欧州中銀総裁にデコス氏",
+          "t": "27日午後、静岡県清水町の県道で、乗用車など10台以上が関係する事故が発生した。",
+          "span": "27日午後、静岡県清水町の県道で乗用車など10台以上が関係する事故があり",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
-            },
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "デコス氏はスペイン出身である。",
-          "span": "スペインから初",
+          "t": "事故により、これまでに10人が病院に搬送された。",
+          "span": "これまでに10人が病院に搬送されました",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "EU首脳による承認プロセスが予定されている。",
-          "span": "EU首脳承認へ",
+          "t": "搬送された10人のけがの程度は軽いとみられる。",
+          "span": "いずれもけがの程度は軽いとみられ",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "警察が事故の詳しい状況を調べている。",
+          "span": "警察が事故の詳しい状況を調べていま",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "事故に関して「暴走車」との通報があった。",
+          "span": "「暴走車」通報",
           "src": [
             {
               "ty": "press",
@@ -189,58 +268,58 @@
         }
       ],
       "positions": [],
-      "consensus": "次期欧州中央銀行総裁にデコス氏が就任することが報じられており、EU首脳による承認プロセスが予定されている。デコス氏はスペインから初となる。",
-      "note": "本件は事実の報道であり、評価や意見の対立は見られないため、positions は空となります。",
+      "consensus": "27日午後、静岡県清水町の県道で乗用車など10台以上が関係する事故があり、10人が病院に搬送された。けがの程度は軽いとみられ、警察が詳しい状況を調べている。事故に関して「暴走車」との通報があった。",
+      "note": "本件は事実の報告に留まり、評価や意見の対立は見られないため、positions は空となります。",
       "audit": {
         "changed": false,
         "issues": []
       }
     },
     {
-      "headline": "北朝鮮「対ロ軍事支援停止」か　ウクライナ当局発表",
-      "slug": "北朝鮮対ロ軍事支援停止かウクライナ当局発表",
+      "headline": "Why does Elon Musk want to put a million satellite data centres in space?",
+      "slug": "WhydoesElonMuskwanttoput",
       "independentSources": 2,
       "sources": [
-        "Yahoo!ニュース 主要",
-        "時事ドットコム"
+        "BBC World",
+        "Al Jazeera"
       ],
       "links": [
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6604122?source=rss"
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112601208&g=int&m=rss"
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/news/2026/11/27/why-does-elon-musk-want-to-put-a-million-satellite-data-centres-in-space?traffic_source=rss"
         }
       ],
-      "issue": "北朝鮮はロシアへの軍事支援を停止したか？",
-      "stasis": "事実",
+      "issue": "南アジアにおける婚姻関係における強姦の法的な保護状況はどうか？",
+      "stasis": "fact",
       "facts": [
         {
-          "t": "ウクライナ当局が、北朝鮮がロシアへの軍事支援を停止したと発表した。",
-          "span": "北朝鮮「対ロ軍事支援停止」か　ウクライナ当局発表",
+          "t": "南アジアの多くの地域では、婚姻関係における強姦が法的に保護されていない。",
+          "span": "a large part of South Asia has not",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "BBC World"
             }
           ]
         },
         {
-          "t": "北朝鮮がロシアへの軍事支援を停止したと報じられている。",
-          "span": "北朝鮮が露軍事支援停止か",
+          "t": "100カ国以上で婚姻関係における強姦が法的に禁止されている。",
+          "span": "More than 100 countries have outlawed marital rape",
           "src": [
             {
               "ty": "press",
-              "l": "Yahoo!ニュース 主要"
+              "l": "BBC World"
             }
           ]
         }
       ],
       "positions": [],
-      "consensus": "ウクライナ当局は、北朝鮮がロシアへの軍事支援を停止したと発表した。この発表について、この記事では他の立場や評価は示されていない。",
-      "note": "この記事は、ウクライナ当局の発表のみを報じており、北朝鮮やロシアからの公式な見解や、この発表の真偽を検証する情報は含まれていない。",
+      "consensus": "南アジアの多くの地域では婚姻関係における強姦が法的に保護されていないという事実について、全員が合意している。",
+      "note": "プライバシー配慮のため、具体的な個人名は含んでいない。",
       "audit": {
         "changed": false,
         "issues": []
