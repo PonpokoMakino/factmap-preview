@@ -1,14 +1,199 @@
 {
-  "builtAt": "2026-11-27T20:42:32.269Z",
+  "builtAt": "2026-11-28T11:34:34.101Z",
   "note": "配信スニペット由来・本文非使用。事実はengineが自前の言葉で再表現。",
   "maps": [
     {
-      "headline": "宮城・七ケ宿町の山中に２遺体　不明少女か、誘拐容疑で男逮捕―身元確認進める・神奈川県警",
-      "slug": "宮城七ケ宿町の山中に遺体不明少女か誘拐容疑で男逮",
-      "independentSources": 3,
+      "headline": "警察 ICC赤根所長の安全確保 最高ランク「特A」で警戒強化",
+      "slug": "警察ICC赤根所長の安全確保最高ランク特Aで警戒",
+      "independentSources": 2,
       "sources": [
         "NHK 主要ニュース",
+        "気象庁 気象警報・注意報"
+      ],
+      "links": [
+        {
+          "source": "NHK 主要ニュース",
+          "link": "https://news.web.nhk/newsweb/na/nd-20261127de82788"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261128113317_0_VPHW50_340000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261128113318_0_VPHW51_340000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261128113314_0_VPHW50_320000.xml"
+        },
+        {
+          "source": "気象庁 気象警報・注意報",
+          "link": "https://www.data.jma.go.jp/developer/xml/data/20261128113315_0_VPHW51_320000.xml"
+        }
+      ],
+      "issue": "国際刑事裁判所の赤根所長の安全確保体制は適切か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "日本の警察当局は、国際刑事裁判所の赤根智子所長の安全確保のため、警戒の区分を最も高いランク「特A」に指定した。",
+          "span": "日本の警察当局が、安全確保などを行う際の警戒の区分を最も高いランクに指定して",
+          "src": [
+            {
+              "ty": "press",
+              "l": "NHK 主要ニュース"
+            }
+          ]
+        },
+        {
+          "t": "広島県北部では、竜巻などの激しい突風が発生しやすい気象状況になっている。",
+          "span": "広島県北部は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        },
+        {
+          "t": "島根県西部では、竜巻などの激しい突風が発生しやすい気象状況になっている。",
+          "span": "島根県西部は、竜巻などの激しい突風が発生しやすい気象状況になっています。",
+          "src": [
+            {
+              "ty": "press",
+              "l": "気象庁 気象警報・注意報"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "日本の警察当局は、国際刑事裁判所の赤根智子所長の安全確保のため、警戒の区分を最も高いランク「特A」に指定した。広島県北部と島根県西部では、竜巻などの激しい突風が発生しやすい気象状況になっている。",
+      "note": "気象警報・注意報の「竜巻注意情報」には目撃情報付きのものもあるが、事実の核心部分は同一のため、重複する事実は一つにまとめた。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "Ten students killed and over 100 injured in explosion in Afghanistan, official says",
+      "slug": "Tenstudentskilledandover",
+      "independentSources": 2,
+      "sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "links": [
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "BBC World",
+          "link": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "source": "Al Jazeera",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss"
+        }
+      ],
+      "issue": "アフガニスタンでの爆発による死傷者数は何人か？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "アフガニスタンで爆発が発生し、10人の学生が死亡、100人以上が負傷したと当局者が発表した。",
+          "span": "Ten students killed and over 100 injured in explosion in Afghanistan, official says",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        },
+        {
+          "t": "アフガニスタンのアサダバードにある中学校の隣で爆発が発生し、少なくとも6人の学生が死亡、97人が負傷した。",
+          "span": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "Al Jazeera"
+            }
+          ]
+        },
+        {
+          "t": "アフガニスタン内務省の報道官は、爆発は近くの爆発物貯蔵庫での不注意が原因だと述べた。",
+          "span": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+          "src": [
+            {
+              "ty": "press",
+              "l": "BBC World"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "アフガニスタンでの爆発により、複数の学生が死亡し、多数が負傷した。死傷者数については情報源により異なる報告がある。爆発の原因は近くの爆発物貯蔵庫での不注意によるものとされている。",
+      "note": "死傷者数について、BBC Worldは10人死亡、100人以上負傷と報じ、Al Jazeeraは少なくとも6人死亡、97人負傷と報じている。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "拘束された邦人記者妻の手記、ロシアメディアが相次ぎ報道　「文化に深い愛着」とも",
+      "slug": "拘束された邦人記者妻の手記ロシアメディアが相次ぎ",
+      "independentSources": 2,
+      "sources": [
         "Yahoo!ニュース 主要",
+        "時事ドットコム"
+      ],
+      "links": [
+        {
+          "source": "Yahoo!ニュース 主要",
+          "link": "https://news.yahoo.co.jp/pickup/6604316?source=rss"
+        },
+        {
+          "source": "時事ドットコム",
+          "link": "https://www.jiji.com/jc/article?k=2026112800259&g=int&m=rss"
+        }
+      ],
+      "issue": "ロシアで拘束された記者の妻の手記がロシアメディアで報じられているか？",
+      "stasis": "事実",
+      "facts": [
+        {
+          "t": "ロシアで拘束された記者の妻が書いた手記が、ロシアの複数のメディアで相次いで報じられた。",
+          "span": "拘束された邦人記者妻の手記、ロシアメディアが相次ぎ報道",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        },
+        {
+          "t": "妻は手記の中で、ロシアの文化に深い愛着を持っていると述べている。",
+          "span": "「文化に深い愛着」とも",
+          "src": [
+            {
+              "ty": "press",
+              "l": "時事ドットコム"
+            }
+          ]
+        }
+      ],
+      "positions": [],
+      "consensus": "ロシアで拘束された記者の妻の手記がロシアメディアで相次いで報じられた。妻は手記でロシア文化への愛着を表明している。",
+      "note": "プライバシーに配慮し、記者の実名は伏せています。",
+      "audit": {
+        "changed": false,
+        "issues": []
+      }
+    },
+    {
+      "headline": "宮城の山中に２遺体　１人は不明高１女子か―誘拐疑いで３３歳男逮捕・神奈川県警",
+      "slug": "宮城の山中に遺体人は不明高女子か誘拐疑いで歳男逮",
+      "independentSources": 2,
+      "sources": [
+        "NHK 主要ニュース",
         "時事ドットコム"
       ],
       "links": [
@@ -17,24 +202,16 @@
           "link": "https://news.web.nhk/newsweb/na/nd-20261127de82799"
         },
         {
-          "source": "Yahoo!ニュース 主要",
-          "link": "https://news.yahoo.co.jp/pickup/6604246?source=rss"
-        },
-        {
           "source": "時事ドットコム",
           "link": "https://www.jiji.com/jc/article?k=2026112800022&g=soc&m=rss"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112800020&g=flash&m=rss"
         }
       ],
-      "issue": "宮城県の山中で発見された2人の遺体のうち1人は、行方不明の横浜市の女子高校生か？",
+      "issue": "宮城県の山中で発見された2人の遺体は誰か、またその状況はどうか？",
       "stasis": "事実",
       "facts": [
         {
-          "t": "宮城県の山中で身元不明の2人の遺体が発見された。",
-          "span": "宮城県の山中で身元が分からない2人が遺体で見つかり",
+          "t": "宮城県の山中で身元不明の2人の遺体が見つかった。",
+          "span": "身元が分からない2人の遺体が見つかった",
           "src": [
             {
               "ty": "press",
@@ -43,8 +220,8 @@
           ]
         },
         {
-          "t": "警察は、発見された遺体のうち1人が、10月から行方が分からなくなっている横浜市の高校1年の女子生徒の可能性があるとみて確認を進めている。",
-          "span": "警察はこのうち1人は10月から行方が分からなくなっている横浜市の高校1年の女子生徒の可能性があるとみて確認を進めています",
+          "t": "発見された遺体のうち1人は、一部が白骨化していた。",
+          "span": "遺体の一部が白骨化した状態だった",
           "src": [
             {
               "ty": "press",
@@ -53,18 +230,18 @@
           ]
         },
         {
-          "t": "遺体は宮城県七ケ宿町の山中で発見された。",
-          "span": "宮城・七ケ宿町の山中に２遺体",
+          "t": "警察は、遺体のうち1人が行方不明になっている横浜市の女子高校生の可能性があるとみている。",
+          "span": "このうち1人は行方が分からなくなっている横浜市の女子高校生の可能性があるとみています",
           "src": [
             {
               "ty": "press",
-              "l": "時事ドットコム"
+              "l": "NHK 主要ニュース"
             }
           ]
         },
         {
-          "t": "神奈川県警は、少女を誘拐した疑いで男を逮捕した。",
-          "span": "少女を誘拐した疑いで男を逮捕した",
+          "t": "誘拐の疑いで33歳の男が神奈川県警に逮捕された。",
+          "span": "誘拐疑いで３３歳男逮捕",
           "src": [
             {
               "ty": "press",
@@ -74,200 +251,11 @@
         }
       ],
       "positions": [],
-      "consensus": "宮城県の山中で身元不明の2人の遺体が発見され、警察は1人が行方不明の横浜市の女子高校生の可能性があるとみて確認を進めている。遺体は宮城県七ケ宿町の山中で発見され、神奈川県警は少女を誘拐した疑いで男を逮捕した。",
+      "consensus": "宮城県の山中で身元不明の2人の遺体が見つかり、うち1人は一部白骨化していた。警察は、遺体のうち1人が行方不明の女子高校生の可能性があるとみている。誘拐の疑いで33歳の男が逮捕されている。",
       "note": "プライバシーに配慮し、被害者の実名は伏せています。",
       "audit": {
         "changed": false,
         "issues": []
-      }
-    },
-    {
-      "headline": "Mecca pact allies condemn ‘heinous’ Houthi attacks on Saudi Arabia",
-      "slug": "Meccapactalliescondemnhe",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/news/2026/11/27/mecca-pact-allies-condemn-heinous-houthi-attacks-on-saudi-arabia?traffic_source=rss"
-        }
-      ],
-      "issue": "ブラジルの肉は「ドーピングされている」というマクロン仏大統領の発言は妥当か？",
-      "stasis": "評価・予測（割れる）",
-      "facts": [
-        {
-          "t": "マクロン仏大統領は、フランスの農業関係者との会合で、ブラジルの肉が「ドーピングされている」と発言した。",
-          "span": "France's president made the comment while speaking to French farming representatives",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "欧州連合（EU）は数ヶ月前にブラジルからの輸入を禁止していた。",
-          "span": "months after the EU banned Brazil",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "マクロン仏大統領がブラジルの肉について「ドーピングされている」と発言したという事実は合意されている。しかし、この発言の妥当性については評価が分かれる。",
-      "note": "プライバシー配慮のため、個別の事件に関する詳細な事実は省略し、争点と主要な立場に焦点を当てています。",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "参政、グーグル広告に１億円超　動画製作やライブ配信、各党注力―２５年政治資金収支報告書",
-      "slug": "参政ググル広告に億円超動画製作やライブ配信各党注",
-      "independentSources": 2,
-      "sources": [
-        "NHK 主要ニュース",
-        "時事ドットコム"
-      ],
-      "links": [
-        {
-          "source": "NHK 主要ニュース",
-          "link": "https://news.web.nhk/newsweb/na/nd-20261127de82241"
-        },
-        {
-          "source": "時事ドットコム",
-          "link": "https://www.jiji.com/jc/article?k=2026112700787&g=pol&m=rss"
-        }
-      ],
-      "issue": "政治資金における動画関連支出の状況はどうか？",
-      "stasis": "事実",
-      "facts": [
-        {
-          "t": "総務省が公表した去年1年分の政治資金収支報告書をNHKが分析したところ、動画の制作や編集などに5億3700万円が支出されたことがわかった。",
-          "span": "動画の制作や編集などに5億3700万円が",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        },
-        {
-          "t": "参政党は、Google広告に1億円超を支出した。",
-          "span": "参政、グーグル広告に１億円超",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "動画製作やライブ配信に各党が注力している。",
-          "span": "動画製作やライブ配信、各党注力",
-          "src": [
-            {
-              "ty": "press",
-              "l": "時事ドットコム"
-            }
-          ]
-        },
-        {
-          "t": "政策や選挙の公約の訴えなどで、ネット上の動画が活用されるケースが増えている。",
-          "span": "政策や選挙の公約の訴えなどでネット上の動画が活用されるケースが増えています",
-          "src": [
-            {
-              "ty": "press",
-              "l": "NHK 主要ニュース"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": "去年1年間の政治資金収支報告書によると、動画の制作や編集などに5億3700万円が支出され、参政党はGoogle広告に1億円超を支出した。動画製作やライブ配信に各党が注力しており、政策や選挙の公約の訴えなどでネット上の動画が活用されるケースが増えている。",
-      "note": "",
-      "audit": {
-        "changed": false,
-        "issues": []
-      }
-    },
-    {
-      "headline": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
-      "slug": "Spanishrescuerstreatmigr",
-      "independentSources": 2,
-      "sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "links": [
-        {
-          "source": "BBC World",
-          "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "source": "Al Jazeera",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss"
-        }
-      ],
-      "issue": null,
-      "stasis": "事実合意",
-      "facts": [
-        {
-          "t": "スペイン首相とライバルは、選挙に向けた最後の訴えで支持者を集めている。",
-          "span": "rally supporters",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "ペドロ・サンチェス首相は世論調査の結果に逆らいたいと考えている。",
-          "span": "wants to defy the polls",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        },
-        {
-          "t": "主要なライバルは、サンチェス首相が真実を語っていないと非難している。",
-          "span": "accuse him of not telling the truth",
-          "src": [
-            {
-              "ty": "press",
-              "l": "BBC World"
-            }
-          ]
-        }
-      ],
-      "positions": [],
-      "consensus": null,
-      "note": null,
-      "audit": {
-        "changed": true,
-        "issues": [
-          "争点（issue）がテキストにない対立を仮定していたためnullに変更し、stasisを「事実合意」に変更しました。",
-          "positionsに分類されていた「サンチェス首相の目標」と「ライバルからの非難」は、テキスト上では対立する主張ではなく事実として記述されているため、factsに移動しました。",
-          "positionsが空になったため、consensusをnullに変更しました。",
-          "factsに移動した項目のspanを、元テキストの述部の最小句に修正しました。"
-        ]
       }
     }
   ]
